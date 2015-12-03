@@ -1,0 +1,39 @@
+arg(root).
+text(root, We should trust Iran to maintain a peaceful nuclear program).
+
+arg(14808).
+text(14808, Without a strong international backer(s), Egypt and Yemen have began spiraling into turmoil again).
+att(14808, root).
+
+arg(14799).
+text(14799, Removing sanctions and embargoes that the EU and US have with Iran will be enough of an incentive for Iran to regulate their nuclear program).
+support(14799, root).
+
+arg(14801).
+text(14801, Regardless of the incentive that may exist in Iran, their government is too unstable to guarantee the regulation of a nuclear program in the future.).
+att(14801, 14799).
+
+arg(14800).
+text(14800, The power Iran would gain from having nuclear weapons would outweigh the incentive of removing sanctions and embargoes).
+att(14800, 14799).
+
+arg(14803).
+text(14803, If Iran further instigates international powers with their nuclear program, the embargoes, sanctions and political tension will turn Iran into a state like North Korea).
+support(14803, 14799).
+
+arg(14804).
+text(14804, Egypt may be on the verge of another revolution.).
+att(14804, root).
+
+arg(14806).
+text(14806, This has been seen as effective in Egypt and Yemen).
+support(14806, root).
+
+arg(14809).
+text(14809, Nuclear Deals have never been proposed with Egypt or Yemen).
+att(14809, 14806).
+
+arg(14818).
+text(14818, You should trust nothing when it comes to government(s). They are too fickle. That being said, diplomacy is the only way to reach a reasonable solution for all parties, with regard to nuclear arms. We are better off working with them, than waging war on them, and thus stirring up more bad blood. ).
+att(14818, root).
+

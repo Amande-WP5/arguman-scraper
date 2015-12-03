@@ -1,0 +1,67 @@
+arg(root).
+text(root, Games are art.).
+
+arg(10729).
+text(10729, It is created, in part, to express ideas, imagination, and feelings.).
+support(10729, root).
+
+arg(11190).
+text(11190, Yes. The term for it is "commercial art.").
+att(11190, root).
+
+arg(10930).
+text(10930, The definiton above is more of a liberal, catch-all definition. By common standards, art refers to things like paintings or sketches.).
+att(10930, root).
+
+arg(11191).
+text(11191, Art is subjective, which is fine.).
+support(11191, root).
+
+arg(11332).
+text(11332, The definition of art is largely subjective, even in the "official" definition of art, it places the greatest value on what elicits emotions in the recipient. Even so, games by default are simply a series of paintings and sketches, qualifying them as art by that definition.).
+att(11332, 10930).
+
+arg(10754).
+text(10754, Are commercial games, which are made with the objective of making profit, also considered art ?).
+att(10754, 10729).
+
+arg(10770).
+text(10770, Almost all traditional art throughout history was made only to turn a profit.).
+att(10770, 10754).
+
+arg(10775).
+text(10775, You cannot prove that the majority of art pieces through history where made aiming profit.).
+att(10775, 10770).
+
+arg(10846).
+text(10846, Implying that something is not art, based solely on profit would cast out pieces like Da Vinci's Last Supper or Picasso's Guernica and many other which are commonly regarded as Art.).
+att(10846, 10775).
+
+arg(10869).
+text(10869, Wouldn't this mean that most posters (among other things) are not considered art?).
+att(10869, 10754).
+
+arg(11088).
+text(11088, Wouldn't this mean that most movies, plays, and screenplays are not art? ).
+att(11088, 10754).
+
+arg(10875).
+text(10875, As long as it is able to enable an emotive response and communicate through it, then it can be considered art, regardless of the motivation for it's creation, be it monetary gain or fame.).
+support(10875, root).
+
+arg(10877).
+text(10877, this broad definition defines anything as art since someone at any point can derive meaning, feelings or beauty from it. Saying games is art is as meaningful as saying the universe is art, that is to say everything is art. If everything is art there's no need to distinguish it as such. ).
+att(10877, 10729).
+
+arg(10878).
+text(10878, No one has a precise definition of what art is.).
+att(10878, 10877).
+
+arg(10881).
+text(10881, This is not necessarily the definition of art).
+att(10881, 10729).
+
+arg(11150).
+text(11150, The consideration of art is independent of the quality of the piece of art, because that is subjective.).
+att(11150, 10754).
+

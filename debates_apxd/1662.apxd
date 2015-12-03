@@ -1,0 +1,27 @@
+arg(root).
+text(root, Gangs are a social construction and do not exist).
+
+arg(10052).
+text(10052, By this logic, no social groups exist by label. If a group of people declares, "we are a gang," is it somehow different than saying, for example, "we are a math club," "we are an acting troupe," or, "we are the Church of the Flying Spaghetti Monster?").
+att(10052, root).
+
+arg(10046).
+text(10046, What is your definition of a "gang". A friendship group with a common interest in high school is marginally different from a rebellious, potentially violent group of youths who seek violence in their environment.).
+att(10046, root).
+
+arg(9337).
+text(9337, Existence is a social construction, too.).
+att(9337, root).
+
+arg(10061).
+text(10061, Any idea "exists," even if it only exists as a series of electrical impulses in one person's brain. If someone forms the idea of a gang, then that idea exists. ).
+support(10061, root).
+
+arg(9275).
+text(9275, Youths form lots of friendship groups and these groups are stronger or weaker than other bonds. They only are considered 'gangs' by the state as a means to label and deal).
+support(9275, root).
+
+arg(9403).
+text(9403, I suppose much of our perception and imagination of gangs has been strongly influenced by sensationalist media).
+att(9403, 9275).
+

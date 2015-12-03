@@ -1,0 +1,7 @@
+arg(root).
+text(root, Planet Earth is simulation of what happens when a planet evolves in isolation without knowing extra-terrestial lifeforms).
+
+arg(12045).
+text(12045, That's a very interesting idea for a book. However, how can you prove its veracity?).
+att(12045, root).
+

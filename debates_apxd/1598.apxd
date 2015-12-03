@@ -1,0 +1,35 @@
+arg(root).
+text(root, I think COTOHA is a pie.).
+
+arg(8630).
+text(8630, If you are "not a cake" – you are a pie.).
+support(8630, root).
+
+arg(8633).
+text(8633, He used to be a Cake).
+att(8633, 8630).
+
+arg(8635).
+text(8635, But now he is "not a cake".).
+att(8635, 8633).
+
+arg(8641).
+text(8641, Cakes are not pies.).
+support(8641, root).
+
+arg(9724).
+text(9724, Restuta is using kettle logic).
+att(9724, root).
+
+arg(8644).
+text(8644, This doesn't make him silly.).
+att(8644, root).
+
+arg(9725).
+text(9725, This platform only allows to submit fallacies from only the limited list).
+att(9725, root).
+
+arg(9726).
+text(9726, There is no such state as being a cake - one can only be "not cake").
+att(9726, 8633).
+

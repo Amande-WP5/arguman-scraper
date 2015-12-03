@@ -1,0 +1,29 @@
+arg(root).
+text(root, there is continuation of consciousness after bodily death. ).
+
+arg(6951).
+text(6951, Science has not accurately explained consciousness so we really have no idea as to whether or not our bodies only serve as a set of peripherals for us to grow and experience into unending oblivion.).
+att(6951, root).
+
+arg(6783).
+text(6783, consciousness is a metaphysical force).
+support(6783, root).
+
+arg(6789).
+text(6789, Consciousness is a function of the brain. if the brain is destroyed, then consciousness is no longer being produced.
+
+We do not consider the picture on a TV screen to still be functioning after the TV has been destroyed. ).
+att(6789, 6783).
+
+arg(7123).
+text(7123, After brain death there is no consciousness set in the physical world. It is impossible to say if there is an afterlife because you have to die.).
+att(7123, root).
+
+arg(7022).
+text(7022, Just because metaphysics studies a concept it doesn't make it supernatural. Also, there's no proof that suggests that consciousness can remain after the death of the brain.).
+att(7022, 6783).
+
+arg(7035).
+text(7035, We know that consciousness and the brain are related because people with brain injuries experience a change in their consciousness. To expand what was previously said, if the hardware is destroyed, so is the software.).
+support(7035, 6789).
+

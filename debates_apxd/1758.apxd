@@ -1,0 +1,7 @@
+arg(root).
+text(root, You should not join Frats/Sororities in College.).
+
+arg(10331).
+text(10331, College is a time of freedom for many young people, and they have the right to test the waters of new experiences if they so desire.).
+att(10331, root).
+

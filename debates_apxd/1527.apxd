@@ -1,0 +1,7 @@
+arg(root).
+text(root, NASA funding should constitute at least 1% of the US federal budget.).
+
+arg(7940).
+text(7940, we need to advance in technology (by non-military means)).
+support(7940, root).
+

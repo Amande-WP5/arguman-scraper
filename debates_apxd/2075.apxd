@@ -1,0 +1,44 @@
+arg(root).
+text(root, This statement is true).
+
+arg(13693).
+text(13693, It is impossible to disprove it.).
+support(13693, root).
+
+arg(16214).
+text(16214, If it were false it could not be true while claiming to be true
+
+If it were claiming to be false, it could not be false because then it would be true and it could not be true because then it would be false).
+support(16214, root).
+
+arg(15309).
+text(15309, The statement cannot be false, because since it refers to itself, it would be false. Therefore, it must be true.).
+support(15309, root).
+
+arg(13696).
+text(13696, The statement is neither true or false because it is alogical.).
+att(13696, root).
+
+arg(15020).
+text(15020, False is defined as what is not true.
+Then if something is not true, it is false by definition.
+If you define false otherwise, you can’t use the law of excluded middle anymore.).
+att(15020, 13696).
+
+arg(15021).
+text(15021, Theories are true or false.
+Probabilities are about our knowledge of the thing, not about the thing itself.).
+att(15021, root).
+
+arg(13846).
+text(13846, then it would be a strong theory. Theories are not true, they are highly likely. Therefore, the statement is not true. It is highly likely to be true. But, if it's not completely true... it isn't true.).
+att(13846, root).
+
+arg(14990).
+text(14990, why, could not things true without logic ? It is not true f.e. that we live on earth, objectivly --> independent from our existence. Alogical means only that we couldn`t give a logical true value to things.).
+att(14990, 13696).
+
+arg(14991).
+text(14991, it is not false).
+support(14991, root).
+

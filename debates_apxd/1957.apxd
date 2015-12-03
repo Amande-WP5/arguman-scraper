@@ -1,0 +1,35 @@
+arg(root).
+text(root, I bet that there will be more "but" premises than "because" premises on this argument.).
+
+arg(12958).
+text(12958, Why?).
+att(12958, root).
+
+arg(13044).
+text(13044, There is more "but" premises than "because.).
+support(13044, 12958).
+
+arg(13085).
+text(13085, This statement is self fullfilling because if someone says its not right, it will make the argument right).
+att(13085, root).
+
+arg(12913).
+text(12913, Now what? ).
+att(12913, root).
+
+arg(13283).
+text(13283, That is the point.).
+att(13283, 13085).
+
+arg(12927).
+text(12927, idk. doot doot).
+att(12927, 12913).
+
+arg(12950).
+text(12950, Oh hello you again? You're very active here, aren't you? ).
+att(12950, 12927).
+
+arg(12954).
+text(12954, Now I am correct).
+att(12954, 12913).
+

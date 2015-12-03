@@ -1,0 +1,31 @@
+arg(root).
+text(root, The Holocaust is a religion all people are inducted into without their knowledge, it has it's priests and tithes and Original Sin- Importantly there is no evidence Adolf Hitler sponsored or embarked upon a genocidal mass murder project along racial lines.).
+
+arg(13994).
+text(13994, Auschwitz was simply a work internment camp - Just as the allies had for the Japanese. These Holocaust survivors give their testimony of a very peaceful environment while refusing to validate any of the claims of the popular narrative - despite the huge censure-ship received by anyone doing so.).
+support(13994, root).
+
+arg(13993).
+text(13993, Is any of this evidence different from evidence provided by Herman Rosenblat? A man who has admitted it was merely 'real in his head'? How precisely is the evidence different from that provided by Ellie Wiesel, who wrote a book Night - A former friend from the camp does not recognize Elie Wiesel.).
+att(13993, root).
+
+arg(13755).
+text(13755, Your definition of religion is vague and your claim of historical revisionism is without merit. It is necessarily the case the evidence for a historical event will become less compelling as time passes and primary sources should be considered the best account of what happened. ).
+att(13755, root).
+
+arg(13779).
+text(13779, Evidence of the Holocaust, emaciated inhabitants of work camps, are equally explained by the act of the Allies bombing logistics lines in the final part of the war - cutting off food and medical supplies to work camps. Typhus was a common illness and without supplies contributed to the symptoms.).
+support(13779, root).
+
+arg(13861).
+text(13861, those are not the only types of evidence for the holocaust. There are thousands of incriminating documents, written by both the Germans and otherwise, that prove the holocaust.).
+att(13861, 13779).
+
+arg(13996).
+text(13996, The Allies had an active war propaganda department - they also desperately needed a reason for why they spent millions of lives fighting Germany. None of this existed until after the war - when the camps were unearthed. No Allied liberated camps are claimed to be death camps, only ones documented.).
+support(13996, root).
+
+arg(13995).
+text(13995, If that is true, then these first hand sources should be of primary importance? This is testimony by camp survivors who spoke of a luxurious work camp with amenities - not a death camp. Your opinions of Auschwitz should defer to those speaking in these videos.).
+att(13995, 13755).
+

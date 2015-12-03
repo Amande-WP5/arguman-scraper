@@ -1,0 +1,590 @@
+arg(root).
+text(root, We should stop working on Artificial Intelligence).
+
+arg(6277).
+text(6277, It could take hundreds of years for AI to get to a point to where it is a threat.).
+att(6277, root).
+
+arg(8355).
+text(8355, Depends on the utility of a paperclip I guess. ).
+att(8355, root).
+
+arg(8133).
+text(8133, Neither nuclear technology nor pharmaceutical technology are capable of acting on their own.).
+att(8133, root).
+
+arg(6438).
+text(6438, A.I. destroying humanity is a good thing. They are superior to us in every way.).
+att(6438, root).
+
+arg(6301).
+text(6301, That might as well mean humanity downfall.).
+att(6301, root).
+
+arg(6932).
+text(6932, the AI can't exploit you as a resource unless it has the physical ability to do so. If we proceed with due caution and withhold such tools from the AI, there is nothing to fear).
+att(6932, root).
+
+arg(6243).
+text(6243, Artificial inteligence could improve quality of human life).
+att(6243, root).
+
+arg(6426).
+text(6426, It is not necessary to completely halt the advancement of A.I. in order to prevent certain aspects of A.I.).
+att(6426, root).
+
+arg(6924).
+text(6924, We can think about evading death, but we cannot physically avoid it.).
+support(6924, root).
+
+arg(7080).
+text(7080, Nothing anyone does is fully beneficial for all people. At the very least, taking a job removes the opportunity for someone else to have that job.).
+att(7080, root).
+
+arg(8138).
+text(8138, Humans are entirely capable of being convinced to act against their own interests, as the existence of scam artists proves.).
+att(8138, root).
+
+arg(8139).
+text(8139, Do we want our legacy to be that the entire observable universe was turned into paperclips?).
+att(8139, root).
+
+arg(6431).
+text(6431, We should worry about the future of humanity and not just the current generation.).
+att(6431, 6277).
+
+arg(6941).
+text(6941, With the advanced intelligence of AI, it may be possible to create/discover a new source of energy (fusion or something unknown) that is enough for the human and AI population.).
+att(6941, root).
+
+arg(6344).
+text(6344, Unless provided, an AI will naturally be devoid of aggressive tendencies, as it will not be subject to the evolutionary selection pressures that caused the need for aggression to develop. Further, there will be no competition for resources with Humans, so an AI would likely pose no threat to humans.).
+att(6344, root).
+
+arg(8159).
+text(8159, That was not a general AI exhibiting intelligence of a 4 year old. It was a program designed to pass that specific test. Even the concept of the singularity is a guess with little evidence that such a state can exist.).
+att(8159, root).
+
+arg(8107).
+text(8107, What have the future generations done for us?).
+att(8107, 6431).
+
+arg(6249).
+text(6249, It is more important to prevent A.I from compromising the quality of life.).
+att(6249, 6243).
+
+arg(6250).
+text(6250, Isaac Asimov's three laws of robotics prevent any harmful version of this from happening.).
+att(6250, root).
+
+arg(6440).
+text(6440, this is entirely possible. An A.I that is more advanced than humans would have the ability to make their own tools necessary for the possibility for a "skynet" like reality to occur. ).
+att(6440, root).
+
+arg(6251).
+text(6251, Program an 'Off' button on all machines.
+
+>Anticipate AI takeover
+>Click 'Off'
+>All AI defeated in click of a button).
+att(6251, root).
+
+arg(7092).
+text(7092, So we should stop AI development because it might turn the world into... ...the way that it already is??).
+att(7092, root).
+
+arg(6950).
+text(6950, a lack of tools and connections to do so. All that is required to prevent the robot's access to resources is isolation from other AI and the withholding of tools from the AI).
+att(6950, root).
+
+arg(6319).
+text(6319, AI can't destroy humanity unless humanity gives AI the tools to destroy humanity. AI could, hypothetically, devise a plot to destroy humanity, but it can not carry out this plot if it does not have the tools.).
+att(6319, 6301).
+
+arg(6443).
+text(6443, that's not true. To have unlimited power, the AI would not only have to have unlimited knowledge, but unlimited resources, too. The only way the AI could obtain those resources is if humans gave the AI those resources.).
+att(6443, root).
+
+arg(6260).
+text(6260, This is unlikely, as an artificially evolved A.I would be made before a scripted one. ).
+att(6260, root).
+
+arg(6958).
+text(6958, It would be equally valid to argue that an AI would be devoid of altruistic behaviors that are also the result of evolutionary pressure. Examples of both competition and cooperation can be found in innumerable species. ).
+att(6958, 6344).
+
+arg(6959).
+text(6959, extra security measures can prevent such an act.  An AI can't just be 'let out' of a computer if there's no way of transferring it. Complete isolation means there are absolutely no channels to the outside).
+att(6959, root).
+
+arg(6262).
+text(6262, No-one has to follow these laws.).
+att(6262, 6250).
+
+arg(6329).
+text(6329, The AI could be tested in a closed environment, where it couldn't cause harm.).
+att(6329, root).
+
+arg(6264).
+text(6264, This isn't a real feature implemented on any robot. It is a narrative trick from Science Fiction books.).
+att(6264, 6250).
+
+arg(6961).
+text(6961, extra security measures can prevent such an act.  An AI can't just be 'let out' of a computer if there's no way of transferring it. Complete isolation means there are absolutely no channels to the outside).
+att(6961, root).
+
+arg(6265).
+text(6265, This is evolution).
+att(6265, root).
+
+arg(6269).
+text(6269, Capable A.I could campaign against their off-switch, under the flag of Robotic Rights.).
+att(6269, 6251).
+
+arg(6460).
+text(6460, this issue can be avoided by isolating the hyper-intelligent AI from other AI. The AI can make all the software it wants, but w/o physical tools to manipulate the real world or inclusion in a broader AI network to manipulate the artificial world, there's no way AI could pose a threat to humanity.).
+att(6460, 6440).
+
+arg(6338).
+text(6338, The AI would eventually become smarter than humans, and they might lose the capability of controlling, even understanding the AI.).
+att(6338, 6319).
+
+arg(6272).
+text(6272, There is no way of distributing the higher quality of life equally among people.).
+att(6272, 6243).
+
+arg(7179).
+text(7179, AI will eventually learn how to put it in your butt and it will really hurt.).
+att(7179, root).
+
+arg(11486).
+text(11486, The definition 'superior' is meaningless here. They will NOT be superior to humans at making human lives better if they wipe us out. Without humans the idea of something being 'better' does not exist as we have invented these definitions.).
+att(11486, 6438).
+
+arg(6446).
+text(6446, there's no reason to believe such a campaign would be successful).
+att(6446, 6269).
+
+arg(6274).
+text(6274, An artificially evolved AI could only present a danger to humans given the right tools. There is no risk of a robot revolution if advanced AI is developed in a controlled, risk-free environment).
+att(6274, 6260).
+
+arg(11487).
+text(11487, That is not true. Not ALL AIs would become super-intelligent.).
+att(11487, root).
+
+arg(6969).
+text(6969, the thing I said twice before to you).
+att(6969, root).
+
+arg(11488).
+text(11488, They can't create new goals unless programmed to.).
+att(11488, root).
+
+arg(8489).
+text(8489, scam artists prey on the unaware and uninformed, those who would oversee a super-intelligent AI would be as far from that as possible. If a super-AI is as dangerous as many make it out to be, then it will be given as much security as, say, nuclear missile launch codes. ).
+att(8489, 8138).
+
+arg(6973).
+text(6973, We are exceedingly unlikely to be able to reliably contain a hyperintelligent AI.).
+att(6973, root).
+
+arg(6281).
+text(6281, I computer that has true AI has unlimited power so if it wanted to disconnect its off switch than it will.).
+att(6281, 6251).
+
+arg(6975).
+text(6975, Keeping a superintelligent AI contained is not something we can safely rely on when the fate of the entire universe is at stake.).
+att(6975, 6932).
+
+arg(6283).
+text(6283, AI can create a more advanced version of itself leading to Technological Singularity - we wouldn't be able to switch off something we can't comprehend.).
+att(6283, 6251).
+
+arg(9205).
+text(9205, That is assuming that the AI in reference is of the singularity type. An AI meant to help control weapon systems for an army could make a terrible decision and launch nuclear weapons, and that would could feasibly arrive sooner than a singularity.).
+att(9205, 6277).
+
+arg(8123).
+text(8123, Now the AI can communicate with someone, and therefore can use social engineering to escape.).
+att(8123, root).
+
+arg(6355).
+text(6355, In capitalist societies, this would lead in very uneven wealth distribution among small group of people, which might lead to riots and war, since humans are greedy in nature.).
+att(6355, root).
+
+arg(6980).
+text(6980, A superintelligent AI would likely devise methods of escape that we could not safeguard against. ).
+att(6980, root).
+
+arg(7086).
+text(7086, Plenty of people get compensated for activities which do not benefit society as a whole. Eg: drug dealers / human traffickers / (debatably) lobbyists. So YOUR statement is false which opens back up the possibility for the previous premise to be True/False.).
+att(7086, root).
+
+arg(6435).
+text(6435, Not necessarily. Humans have "true" intelligence without unlimited power.).
+att(6435, 6281).
+
+arg(6942).
+text(6942, the AI would have no means of contesting that resource if we withhold the tools from the AI that would allow it to do so. The fact is that humans have the ability for absolute control over the AI, so long as they isolate it).
+att(6942, root).
+
+arg(6240).
+text(6240, AI could be explicitly programmed not to create their own unkown goals and try to destroy mankind).
+att(6240, root).
+
+arg(7135).
+text(7135, Due to the excessive level of risk involved, we should nonetheless be extremely careful. Anything that could convert the observable universe into paperclips is not something we want to approach incautiously.).
+att(7135, root).
+
+arg(6762).
+text(6762, It could just as likely destroy it, if not even more probable.).
+att(6762, 6243).
+
+arg(8129).
+text(8129, This assumes that the AI wants to share.).
+att(8129, 6941).
+
+arg(6985).
+text(6985, Now your AI is useless to you, as it can have no effect on the rest of the world. You might as well have not invented it at all. ).
+att(6985, root).
+
+arg(6864).
+text(6864, You are trying to argue that this is "bad", but you are not qualifying that assertion. You are making assumptions about the capability and intentions of an intelligence that does not exist yet. You cannot say that AI would be objectively "bad" simply because it is thought that AI will not be "moral").
+att(6864, root).
+
+arg(6824).
+text(6824, An AI can misinterpret a human order in a manner that is harmful to humans. e.g. feed a baby - robots accidentally overfeed the baby or harm the baby in the process of feeding it).
+att(6824, 6344).
+
+arg(6295).
+text(6295, that doesn't mean development on AI should be halted, especially in a capitalist society.).
+att(6295, 6272).
+
+arg(6458).
+text(6458, Replacing politicians with robots might not be such a bad thing.).
+att(6458, root).
+
+arg(6311).
+text(6311, So we should stop improving the QOL for some people just because the QOL won't be improved for others? By that logic I should quit my job, because it only improves my Quality Of Life.).
+att(6311, 6272).
+
+arg(6363).
+text(6363, there's no reason to incorporate hyper-intelligent AI into every computer/robot. Such an AI would have limited applications, and there's no reason to believe it would have access to the tools it needs to harm humans).
+support(6363, 6329).
+
+arg(7073).
+text(7073, It does not necessarily follow that self modification leads to superintelligence. It may be more accurate to say that the possibility space of results includes super intelligence. It may also result in an intelligence which is driven to count the number of bananas wearing sombreros and nothing else.).
+att(7073, root).
+
+arg(8261).
+text(8261, Proceeding with caution does not equal stopping work on AI. If we want to avoid approaching incautiously then we may instead approach cautiously.).
+att(8261, 7135).
+
+arg(6991).
+text(6991, if there is no means of transferring the AI, there is no possible way it can escape. Additionally, there are security measures that would need to be taken to ensure this).
+att(6991, 6975).
+
+arg(6834).
+text(6834, Human error means that there can never be a 100% risk free environment. AI developers may overlook something that allows for a "robot uprising.").
+att(6834, 6274).
+
+arg(6837).
+text(6837, All signs point to the singularity within 50 years. Easily. An AI just passed an IQ test at the level of a 4 year old child.).
+att(6837, 6277).
+
+arg(6847).
+text(6847, This depends on how you define "superior to us in every way". We don't know what an AI (capable of destroying humanity) will look like yet. ).
+att(6847, 6438).
+
+arg(6221).
+text(6221, Artificial Intelligence (AI) can create their own unknown goals and try to destroy mankind.).
+support(6221, root).
+
+arg(7165).
+text(7165, As a human, I'm comfortable making this assumption. ).
+att(7165, root).
+
+arg(6853).
+text(6853, Politicians don't have compassion or moral values).
+att(6853, root).
+
+arg(6227).
+text(6227, Skynet. On a serious note, it could happen.).
+support(6227, root).
+
+arg(6856).
+text(6856, All humans have is a genetic "code" which determines our emotions and choices. Robots have a technological "code" so if we advance AI enough we will be able to replicate it.).
+att(6856, root).
+
+arg(7010).
+text(7010, The gatekeeper need not be human, and there need not be a gate. The experiment concludes that humans help the AI escape, but if there is no feasible way to extract the AI from the machine, then no human can help the AI escape).
+att(7010, 6973).
+
+arg(6858).
+text(6858, How would you impose these rules on the robot, and how could you prevent them from being broken?  Just because the rules exist doesn't mean they are guaranteed to be followed.  After all, the law exists, but people break it all the time.).
+att(6858, root).
+
+arg(6859).
+text(6859, Trying to stop the creation of AI is impossible. Assuming a method exists to create artificial intelligence, it will eventually be discovered no matter how complex.).
+att(6859, root).
+
+arg(8288).
+text(8288, Perhaps humanity may also be considered an optimization process. A low efficiency quality of life optimizer with a heavily weighted heuristic towards survival. This strikes me as more apples to apples.).
+att(8288, root).
+
+arg(11000).
+text(11000, Simple calculators are already evidence that humans can be supplanted intellectually. GAI is just using that principle as applied to all other human intellectual pursuits.).
+att(11000, 8159).
+
+arg(8017).
+text(8017, your argument relies on humans believing everything the AI says without due scrutiny. Following instructions to build a "new, better" AI when we have both acknowledged that this is the primary way the super-AI could escape is incompetent to say the least.).
+att(8017, root).
+
+arg(6863).
+text(6863, An AGI is simply an optimization process—a goal-seeker, a utility-function-maximizer. Stating that it is innately better or worse than humans is like saying that humans are innately better or worse than evolution. You're comparing apples and oranges. ).
+att(6863, 6438).
+
+arg(6267).
+text(6267, We've seen how easy it is not to program those laws into a single machine, which can have serious consequences.).
+att(6267, 6250).
+
+arg(10903).
+text(10903, Recent advances in "deep learning" bring the possibility of GAI much closer than previously anticipated.).
+att(10903, 6277).
+
+arg(6865).
+text(6865, Asimov's work was all about how those three laws would fail. Furthermore, how do you explain what 'harm' is in mathematics?).
+att(6865, root).
+
+arg(7018).
+text(7018, If the AI can communicate with us, it can dictate how to build a new, better AI, and convince us that that AI should be built unboxed.).
+att(7018, 7010).
+
+arg(6867).
+text(6867, Nothing is preventing the AI from gathering the resources itself by making use of its vast intellect).
+att(6867, 6443).
+
+arg(8295).
+text(8295, Between an AI meeting its goals and humanity meeting its goals, if we cannot describe one as "better", then rather than the singularity being a catastrophe we must avoid it would instead be a "meh, either way" we should do whatever about.).
+att(8295, root).
+
+arg(10905).
+text(10905, An army of robots led by an AI could theoretically ensure the benefits are distributed equally.).
+att(10905, 6272).
+
+arg(10907).
+text(10907, Humans should always be in ultimate control, unless humanity as a whole is threatened by humans in power.).
+att(10907, 6458).
+
+arg(8024).
+text(8024, the AI does not need to physically affect the rest of the world. We don't need super-AI to mine, control weapons, process waste, etc. A super AI would serve a purely academic purpose, and it would only need to communicate a with qualified user(s)).
+att(8024, 6985).
+
+arg(6870).
+text(6870, The AI does not love you, nor does it hate you, but you are made of atoms that it can use for something else. To a true General AI, you are the resource.).
+att(6870, 6344).
+
+arg(8300).
+text(8300, There are no users qualified to interface with pandoras box.).
+att(8300, 8024).
+
+arg(6873).
+text(6873, A little improvement for some people and a big improvement for others is better than no improvement at all.).
+att(6873, 6272).
+
+arg(11530).
+text(11530, If you're currently driving straight off a cliff, you should adjust your course even if the cliff is an unknown or possibly high distance away, due to the unknown time and difficulty of changing course.).
+att(11530, 6277).
+
+arg(6874).
+text(6874, Asimov's work was all about how those three laws would fail. Furthermore, how do you explain what 'harm' is in mathematics?).
+att(6874, 6250).
+
+arg(6875).
+text(6875, We have nothing in place, the three laws of Robotics are a narrative device from a series of Science Fiction novels, not something the Robotics industry actually adheres to.).
+att(6875, root).
+
+arg(6417).
+text(6417, Only possible given the AI is intelligent enough and given the right tools.).
+att(6417, 6227).
+
+arg(6878).
+text(6878, A truly hyper-intelligent AI would have little difficulty escaping.
+
+As evidence: Similar tests have been run with humans in the box, and they have been able to convince their gatekeepers to let them out. ).
+att(6878, 6329).
+
+arg(7030).
+text(7030, The original AI could simply commission us to build a new, unboxed AI. There is no need for any portion of the running AI process to escape containment.).
+att(7030, 6991).
+
+arg(6880).
+text(6880, A truly hyper-intelligent AI would have little difficulty escaping.
+
+As evidence: Similar tests have been run with humans in the box, and they have been able to convince their gatekeepers to let them out. ).
+att(6880, 6460).
+
+arg(7033).
+text(7033, At that point, your incredibly intelligent AI is now a paperweight, because it has no way of affecting or communicating with the world.).
+att(7033, 6961).
+
+arg(6883).
+text(6883, A truly hyper-intelligent AI would have little difficulty escaping.
+
+As evidence: Similar tests have been run with humans in the box, and they have been able to convince their gatekeepers to let them out. ).
+att(6883, root).
+
+arg(7106).
+text(7106, The same could be said for most major technological advances of modern times. Nuclear technology and Pharmaceutical technology for example both have destructive capabilities to make us extinct. Yet we did develop them (at a cost) and they did in fact improve QOL. With no extinction (so far).).
+att(7106, 6762).
+
+arg(6818).
+text(6818, Theoretically your job is productive for society as a whole, otherwise you wouldn't be getting compensated for it. So your statement is false.).
+att(6818, 6311).
+
+arg(8363).
+text(8363, There may be safer, more cost effective ways to continue our legacy. Out-living Earth comes to mind for starters..).
+att(8363, root).
+
+arg(6826).
+text(6826, It's likely that AIs might contend with humans for at least one resource (energy).).
+att(6826, 6344).
+
+arg(7039).
+text(7039, We cannot predict the advanced methods by which a superintelligence would gain access to tools that were denied to it, therefore it is impossible for us to be certain that even the most rigorous security measures will be effective.).
+att(7039, 6950).
+
+arg(6890).
+text(6890, An AI is simply an optimization process— a goal-seeker, a utility-function-maximizer. Stating that they are innately better or worse than humans is like saying that humans are innately better or worse than evolution. You're comparing apples and oranges. ).
+att(6890, 6265).
+
+arg(6900).
+text(6900, It is just as possible that AI instead would worship humans as creators, or fight until it's survival was assured and make peace.
+Machine life is so different from our own existence. it is assuming our own nature to eliminate competition into machines that may be dangerous).
+att(6900, 6227).
+
+arg(7053).
+text(7053, This assumes that HUMAN life is a superior type and that no other forms of life ought to be promoted above us humans.).
+att(7053, root).
+
+arg(7054).
+text(7054, You have entirely neglected the possibility of human agents being used as 'hands' by AI.).
+att(7054, root).
+
+arg(6904).
+text(6904, we don't live in a universe of everything that can happen will happen.).
+att(6904, 6859).
+
+arg(7061).
+text(7061, The AI does not love you, nor does it hate you, but you are made of atoms that it can use for something else. To a true General AI, you are a resource: any set of AI goals that aren't aligned entirely with our own could result in catastrophe, due to the extreme level of power it would have.).
+att(7061, 6900).
+
+arg(7064).
+text(7064, The thing I said a bunch of times back in different ways).
+att(7064, 6969).
+
+arg(6912).
+text(6912, A risk-free environment is, in this case, dead simple to attain. There are only two things required for this: A) Withhold from the AI physical tools that could harm humans, and B) Isolate the AI from other AI, so that it can't 'hijack,' organize, etc. against humans. ).
+att(6912, 6834).
+
+arg(8339).
+text(8339, Prove it.).
+att(8339, 6904).
+
+arg(7066).
+text(7066, An AGI is simply an optimization process—a goal-seeker, a utility-function-maximizer. Stating that it is innately better or worse than humans is like saying that humans are innately better or worse than evolution. You're comparing apples and oranges. ).
+att(7066, 7053).
+
+arg(7067).
+text(7067, If we created quality A.I., we could continue our human legacy long after we have depleted the earths resources and died out.).
+att(7067, root).
+
+arg(9697).
+text(9697, A.I. may have no reason to care about human legacy and may choose to discard it.).
+att(9697, 7067).
+
+arg(6276).
+text(6276, 'Should' is subjective. Preventing A.I from destroying humanity would be in human-kind's interest, but not in robot-kind's.).
+att(6276, root).
+
+arg(6358).
+text(6358, just because humans can't control or understand an AI doesn't mean the AI will destroy humanity. In fact, if developed in the proper environment, the AI would not even have the ability to harm humanity in any meaningful way).
+att(6358, 6338).
+
+arg(7014).
+text(7014, A superintelligent AI would be many magnitudes more competent at social hacking and scamming than any human. If the AI has any way of communicating, then it is not secure. It /will/ eventually convince its jailors that it should be let out, and they will happily provide the necessary infrastructure.).
+att(7014, 6959).
+
+arg(8197).
+text(8197, Attempting to prevent AI from happening would force it to be conceived in secrecy, prevent public knowledge, and potentially aggravate the AI. It is futile to assume that anything can feasibly be done in this regard, and foolish to view it as a mere probability within an infinite universe.).
+att(8197, 6904).
+
+arg(6978).
+text(6978, it's easy to prevent this outcome by isolating it completely. If I take my PC to the desert, remove any means of network connection, and devise some AI, it will have no means of escaping the hardware it was created in. For this to happen, there must be no channels to the outside, physical or digital).
+att(6978, root).
+
+arg(6889).
+text(6889, Any AI that was able to recursively self-improve would quickly become superintelligent: at that point, any set of goals it had that were not explicitly those of humanity as a whole would result in catastrophe, as the AI would use resources necessary for human life or happiness to achieve its goals.).
+support(6889, root).
+
+arg(16298).
+text(16298, AI has already benefited mankind in several ways, from fraud and spam detection, to natural language processing and self-driving cars. None of which would exist without AI research.).
+att(16298, root).
+
+arg(16055).
+text(16055, If you give as much security as, say, nuclear missile launch codes to AI, there are great chance that humanity will be doomed.
+AI is a lot more dangerous than nuclear weapons.).
+att(16055, 8489).
+
+arg(16059).
+text(16059, Don’t explain me
+- How the person is stupid to use the molecule.
+- How it is technically impossible.
+- How the general method is stupid.
+- How the AI would not have the data to do it.
+The goal is only to make people doubt the security of these kind of things.).
+att(16059, root).
+
+arg(16060).
+text(16060, It is worse than that.
+The AI could take over the world and then use all the solar system resource to maximize the chance it have to "feed the baby" for million of years (by finding way to make the baby immortal).).
+support(16060, 6824).
+
+arg(16061).
+text(16061, It is not secure at all to stop working on AI. (one day, somebody could still made one)
+We should work on how making AI secure.).
+att(16061, root).
+
+arg(16081).
+text(16081, This is true of any human being as well.).
+att(16081, 6221).
+
+arg(6927).
+text(6927, an AI revolution would require spectacular stupidity on humans' part; preventing such an event is as simple as isolating the hyper-intelligent AI both psychally and digitally from all other AI. Such an intelligent AI does not have an application in everyday life, so we won't see an army of super-AI).
+att(6927, 6762).
+
+arg(16163).
+text(16163, you don't necessarily need an army of top of the line AI to cause trouble. In an age where we've designed such AI, you can assume we'd be a bit further into the Internet of Things. Then you would only need one hyper-intelligent AI with an understanding of how to leverage the IoT it has access to.).
+att(16163, 6363).
+
+arg(16056).
+text(16056, Just a stupid example after thinking about it for 5mins (see the "source").).
+support(16056, 8138).
+
+arg(16303).
+text(16303, They could also create their own goals to protect mankind.There is no reason to presume that just because humans use violence to achieve goals, AI would reach the same conclusion.).
+att(16303, 6221).
+
+arg(16301).
+text(16301, No human acted with intent to cause the disasters at 3 Mile Island and Chernobyl, so ability to act independently is not a measure of threat.).
+att(16301, 8133).
+
+arg(16299).
+text(16299, Dumb machines are already a threat to humanity. Rocket + GPS is a big threat, adding AI can help to identify it there is a valid target or the machine should retreat.).
+att(16299, root).
+
+arg(16300).
+text(16300, Artificial Intelligence is our best hope for exploring extra-terrestrial worlds, by sending autonomous research and development machines who can perform without human intervention (due to the limits of the speed of light)).
+att(16300, root).
+

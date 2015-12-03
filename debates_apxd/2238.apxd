@@ -1,0 +1,69 @@
+arg(root).
+text(root, Cannabis usage is beneficial).
+
+arg(14893).
+text(14893, It is the longest used medicine in human history and has been researched more than any other plant. 
+Although there are few human clinical trials to prove it's medicinal qualities, this is only because of its illegality as a schedule 1 substance.).
+support(14893, root).
+
+arg(14881).
+text(14881, Cannabinoids can kill cancer cells while leaving normal cells healthy.).
+support(14881, root).
+
+arg(14892).
+text(14892, Lethal overdoses from Cannabis and cannabinoids do not occur.
+While prescription painkillers cause thousands of overdose deaths each year, no one has ever died from a marijuana overdose.).
+support(14892, root).
+
+arg(15698).
+text(15698, Fun fact: cannabis actually decreases overall food intake.
+But I would like to ask you to never do what you did here again, this is a website from arguing, not for broadcasting your opinions. ).
+att(15698, root).
+
+arg(14879).
+text(14879, Cannabis causes neurogenesis. It can cause brain cell growth.).
+support(14879, root).
+
+arg(14880).
+text(14880, Cannabis is neuroprotective. It helps protect the brain from damage.).
+support(14880, root).
+
+arg(14891).
+text(14891, It can save or greatly improve the lives of millions of people suffering from diseases or mental or physical trauma.).
+support(14891, root).
+
+arg(14894).
+text(14894, It is safer than alcohol and is the safest recreational drug.).
+support(14894, root).
+
+arg(15089).
+text(15089, Cannabis can save the lives of people who suffer from seizures.).
+support(15089, 14891).
+
+arg(15092).
+text(15092, ).
+support(15092, 14891).
+
+arg(15094).
+text(15094, If cannabinoids prove to be effective at killing and stopping the spread of cancer, this could save the lives of millions of people. We NEED human clinical trials for this ASAP. 
+Even if cannabinoids aren't effective enough to stop cancer, they are still effective at reducing negative symptoms.).
+support(15094, 14881).
+
+arg(14923).
+text(14923, The health and monetary benefits of cannabis far outweigh the negatives.
+Most of the negative aspects of cannabis are solely caused or exacerbated by its illegality.
+).
+support(14923, root).
+
+arg(15096).
+text(15096, This could improve or save the lives of millions who suffer from neurological diseases or trauma.).
+support(15096, 14880).
+
+arg(14960).
+text(14960, Cannabis does not increase appetite to such an extent.).
+att(14960, root).
+
+arg(14939).
+text(14939, you get stoned and hungry and you will spend all your money in food ).
+att(14939, root).
+

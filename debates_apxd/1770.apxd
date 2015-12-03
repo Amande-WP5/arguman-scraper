@@ -1,0 +1,11 @@
+arg(root).
+text(root, We have to ban all guns that are not used for hunting or sports.).
+
+arg(10415).
+text(10415, Protection services are crucial.).
+att(10415, root).
+
+arg(10424).
+text(10424, The fact remains that victims of gunviolence are largely due to negligence, lack of training and easy access to guns. Countries with strict gunlaws and few homeowned guns are at the bottom of the list when it comes to gunrelated fatalities.).
+att(10424, 10415).
+

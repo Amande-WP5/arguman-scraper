@@ -1,0 +1,51 @@
+arg(root).
+text(root, There is no such thing as a "good" police officer).
+
+arg(11912).
+text(11912, Morality is subjective, therefore a wrong law in your eyes, is a right law in another persons eyes. ).
+att(11912, root).
+
+arg(12546).
+text(12546, A police officer could theoretically work an entire career without being put in a situation where he or she must do something immoral. Not all police activities are immoral, and many are moral. The act of swearing to uphold laws is not in itself an immoral act. ).
+att(12546, root).
+
+arg(11908).
+text(11908, Not all laws are moral. Police swear to uphold all laws. Therefore, no police officer can be truly be good, because they are swearing to uphold immoral laws.).
+support(11908, root).
+
+arg(11983).
+text(11983, Given that 'police' are an entity's extension of authority, from the view of the entity any action taken in furtherance of the entity's goals is "good", and any action otherwise is "bad".).
+att(11983, 11908).
+
+arg(11919).
+text(11919, *If* morality is subjective, then there is no such thing as a good cop, because cops can neither be good nor bad, all you can claim is that they exist.).
+att(11919, 11912).
+
+arg(11923).
+text(11923, No police officer can truly be bad by your own arguments. ).
+att(11923, 11908).
+
+arg(11927).
+text(11927, A bad police officer is one who commits and will continue to commit immoral actions. A police officer can only be good if they never act immorally.).
+att(11927, 11923).
+
+arg(12013).
+text(12013, We always have to define "good" and "bad" and therefore this question is not specific enough.).
+att(12013, root).
+
+arg(12088).
+text(12088, Police are under no legal obligation to protect and serve.).
+support(12088, root).
+
+arg(12090).
+text(12090, He defined the enforcement of certain laws as immoral, making them bad. He didn't assert whether certain laws were moral, but it can be inferred that there are parts of law that are amoral and immoral. ).
+att(12090, 11923).
+
+arg(12094).
+text(12094, every police officer is an individual who choose to become a police officer over other alternatives. they are therefore responsible for their actions and cannot shift full blame to the law makers.).
+att(12094, 11983).
+
+arg(12095).
+text(12095, Assuming certain laws are immoral, a police officer who refused to enforce a law (say, giving tickets, or arresting drug possessors.) would be fired. So insofar that a cop is not yet fired, he is compliant in enforcing the laws thus far.).
+att(12095, 11927).
+

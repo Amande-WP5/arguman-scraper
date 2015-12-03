@@ -1,0 +1,7 @@
+arg(root).
+text(root, People shouldn't criticize commercial music that much.).
+
+arg(7303).
+text(7303, It's some people's job to sell this kind of music. And as long as there are people to enjoy it, then they get their job done.).
+support(7303, root).
+

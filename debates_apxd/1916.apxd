@@ -1,0 +1,27 @@
+arg(root).
+text(root, This website sucks.).
+
+arg(12651).
+text(12651, It can be further improved.).
+att(12651, root).
+
+arg(12304).
+text(12304, Why would you use it if it's as bad as you claim?).
+att(12304, root).
+
+arg(13076).
+text(13076, The statement is about the current state.).
+att(13076, 12651).
+
+arg(12329).
+text(12329, This website is a virtual and inanimated thing, so it can't suck anyrhing.).
+att(12329, root).
+
+arg(12290).
+text(12290, Vegetables taste baaaad).
+att(12290, root).
+
+arg(12819).
+text(12819, Why is the above post an irrelevant conclusion?).
+att(12819, 12304).
+

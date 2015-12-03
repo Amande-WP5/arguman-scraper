@@ -1,0 +1,72 @@
+arg(root).
+text(root, There is no such thing as an altruistic deed.).
+
+arg(5658).
+text(5658, taking it this far implies that no species can show altruistic behaviour).
+att(5658, root).
+
+arg(5798).
+text(5798, Taking this is as true, an act's outcome is still not necessarily the cause of that action. Example: a man benefits from giving to charity because there is less poverty and therefore less violent crime. He may have given to charity altruistically (or for any reason). The outcome was not the cause.).
+att(5798, root).
+
+arg(5881).
+text(5881, Was this not a inherently selfless thing for him to do however?
+
+If he was selfish, he would have left his colleagues to die so he could live.).
+att(5881, root).
+
+arg(5732).
+text(5732, Humans sacrifice their lives for others or causes quite frequently, let alone all the smaller sacrifices practically every person makes throughout their life.).
+att(5732, root).
+
+arg(5740).
+text(5740, This is only because GENES are selfish in their nature.  Genes can contribute to "altruistic" behavior between one organism and another.  ).
+att(5740, root).
+
+arg(5749).
+text(5749, If an individual's preference is to be altruistic, they gain intangibly from acting altruistically. Therefore it is impossible to distinguish between altruism 'for' the actor or 'for' the recipient, as both benefit, and both occur simultaneously.).
+att(5749, root).
+
+arg(5755).
+text(5755, Helping means similar genes will survive and that's the idea
+
+).
+att(5755, 5732).
+
+arg(5637).
+text(5637, Humans are inherently selfish.  Everything we do is essentially for our own benefit.
+).
+support(5637, root).
+
+arg(5759).
+text(5759, The man that threw himself on a grenade to save his colleagues was removing himself from the gene pool to preserve other members of the species.).
+support(5759, 5732).
+
+arg(5761).
+text(5761, Atheistic Existentialists argue that there is no inherent human nature, and that what we call 'human nature' is actually the product of a human being's decisions and actions, not the cause. Therefore we cannot be 'inherently' selfish, we can only act selfishly.).
+att(5761, 5637).
+
+arg(5840).
+text(5840, Human attitudes and behavior are constantly reshaped by the changing economic systems in which people find themselves. There is no such thing as universal "human nature" and nothing that points to there being one.).
+support(5840, 5761).
+
+arg(7159).
+text(7159, If any behavior lends itself ultimately to the benefit of the actor, (which I argue is the case, either if it occurs at a conscious level or otherwise) then it is not 'altruistic'.).
+att(7159, root).
+
+arg(6074).
+text(6074, Doing things for others at one's own immediate disadvantage is likely to lead to an advantage eventually, either directly of indirectly, to the one being altruistic. Altruism can be to one's own benefit.).
+att(6074, 5637).
+
+arg(7163).
+text(7163, Though the argument specifically targets humans, I see no problem extending it to other species.).
+att(7163, 5658).
+
+arg(7170).
+text(7170, Self-sacrifice isn't automatically altruistic.  Falling on a grenade that a comrade might live might still be a selfish action, if you consider the virtue of bravery, and the dedication to whichever cause unites one with one's comrades as components of one's identity.  ).
+att(7170, 5732).
+
+arg(7178).
+text(7178, All the same, I find no compelling evidence that there is such a thing as a purely altruistic deed.).
+att(7178, 5840).
+

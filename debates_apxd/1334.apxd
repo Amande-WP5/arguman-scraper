@@ -1,0 +1,19 @@
+arg(root).
+text(root, Kanye West is more influential today than Kurt Cobain).
+
+arg(5903).
+text(5903, Do we know if the audience is being influenced because of their intelligence or because of the speaker's influence?).
+att(5903, root).
+
+arg(5771).
+text(5771, I sure hope kids keep getting into Nirvana. ).
+att(5771, root).
+
+arg(5709).
+text(5709, More people today are trying to create hip-hip than any other music genre ).
+support(5709, root).
+
+arg(5711).
+text(5711, Kanye west has more than double the amount of plays on his music than smells like teen spirit ).
+support(5711, root).
+

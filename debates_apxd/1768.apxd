@@ -1,0 +1,31 @@
+arg(root).
+text(root, Gender is NOT a social construct).
+
+arg(10643).
+text(10643, The societal roles of each gender are social constructions. But they have their origin in genetics. Men are the providers of the house because their bodies are capable of getting food easier than those of women.).
+att(10643, root).
+
+arg(10743).
+text(10743, Gender is neither exclusively determined or completely independent from biological sex. One hard evidence of this are the differencies of hormone control in the brain and the brain structure between men and women. Every social construction is restricted by what happens in the brain.).
+att(10743, root).
+
+arg(10740).
+text(10740, There are cases of boys who are born with malformed genitals and cirurgically changed into girls, who grow up believing they are girls and end up finding out they were men despite all the social construction (that usually starts when they start feeling attracted to girls).).
+att(10740, root).
+
+arg(10358).
+text(10358, Gender is a social construct. Biological sex is not.).
+att(10358, root).
+
+arg(10677).
+text(10677, There are some cultures where this is not true. The Amazons are an example. The [Chambri](https://en.wikipedia.org/wiki/Chambri_people) as well.).
+att(10677, 10643).
+
+arg(10678).
+text(10678, Amazons are mythical. But I agree with you, societal roles are heavily influenced by culture.).
+att(10678, 10677).
+
+arg(10752).
+text(10752, Brain development is shaped by the experience of culture. For example taxi drivers are known to have larger brain areas associated with spatial memory. Therefore men/women's brains and bodies are shaped by expectations of them by society. ).
+att(10752, 10743).
+

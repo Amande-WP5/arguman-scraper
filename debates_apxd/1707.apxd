@@ -1,0 +1,19 @@
+arg(root).
+text(root, We must break up huge financial institutions so that they are no longer too big to fail.).
+
+arg(9798).
+text(9798, They pose an institutional risk to the economy).
+support(9798, root).
+
+arg(9949).
+text(9949, This implies that they already act coherently. ).
+att(9949, root).
+
+arg(9951).
+text(9951, It would be easier for government to push smaller banks in a given direction).
+att(9951, root).
+
+arg(9883).
+text(9883, Then it would be really hard for them to act coherently which would make them useless).
+att(9883, root).
+

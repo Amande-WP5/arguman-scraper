@@ -1,0 +1,7 @@
+arg(root).
+text(root, Pokemon Go will help people both exercise and grow socially).
+
+arg(10269).
+text(10269, It might not apply to adults but there is a very practical application of it for children or teenagers experiencing social difficulties, either lacking social skills or those with neurodevelopmental disorders.).
+att(10269, root).
+

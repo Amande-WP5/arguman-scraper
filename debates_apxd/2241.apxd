@@ -1,0 +1,15 @@
+arg(root).
+text(root, Tom Brady is not guilty).
+
+arg(14964).
+text(14964, The evidence that is against Brady consists of an employee using the bathroom for a few seconds longer than normal, a text message 8 months prior to the event where someone calls themselves "The Deflator," and Brady destroying his phone after the investigator said that it was not needed).
+support(14964, root).
+
+arg(14961).
+text(14961, The science that Ted Wells used in his report was errant and has since been disproven).
+support(14961, root).
+
+arg(14962).
+text(14962, The NFL had no direct evidence against Brady, admitted by the NFL's lawyer, Daniel Nash).
+support(14962, root).
+

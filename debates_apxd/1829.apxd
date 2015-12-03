@@ -1,0 +1,19 @@
+arg(root).
+text(root, The government should be required to use open source software (for civilian operations at least)).
+
+arg(11091).
+text(11091, It increases the odds that security threats will get patched).
+support(11091, root).
+
+arg(11092).
+text(11092, It decreases the odds of systemic election fraud (see Kansas)).
+support(11092, root).
+
+arg(11093).
+text(11093, It makes vulnerabilities visible to "the enemy").
+att(11093, root).
+
+arg(11094).
+text(11094, It would save taxpayer money to not license software).
+support(11094, root).
+

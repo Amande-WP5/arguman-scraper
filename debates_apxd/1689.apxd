@@ -1,0 +1,11 @@
+arg(root).
+text(root, You cannot be totally safe and free. You can't be totally free and safe. ).
+
+arg(9573).
+text(9573, In order to be a little bit safe you have to renounce to some of your rights which is the end of the "totally free").
+support(9573, root).
+
+arg(9600).
+text(9600, Privacy is a form of security which doesn't require any of that. If you give up your ability to secure your own privacy, you have just surrendered any form of security you might have had.).
+att(9600, 9573).
+

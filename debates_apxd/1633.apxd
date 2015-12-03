@@ -1,0 +1,108 @@
+arg(root).
+text(root, Teaching evolution in public schools should be mandatory).
+
+arg(9325).
+text(9325, Every teaching curriculum, from primary school right up to post-graduate study, has specified learning outcomes and things the student should know/learn how to do at the end. Failing to achieve this outcome as a teacher is known as "not doing your job" and will result in you losing that job.).
+support(9325, root).
+
+arg(8887).
+text(8887, It is an essential part of biology. Also, important scientific facts should not be withheld from children and every approach at denying children to learn about evolution should be seen as child abuse.).
+support(8887, root).
+
+arg(9334).
+text(9334, This is true, and in many countries children that are home-schooled are subject to regular checks by Education Authorities to ensure they are being taught competently and taught the right things. If their education is being neglected, this can be a case for social serves.).
+support(9334, root).
+
+arg(9207).
+text(9207, The school board. They mostly consist of professors, teachers and experts on education trying their best to set up a good plan for children and students.).
+att(9207, root).
+
+arg(9210).
+text(9210, Those teachers or parents usually are charged with educational child neglect, which gets prosecuted by police with the help of the school board just like any other child abuse. It heavily depends on the country though.).
+att(9210, root).
+
+arg(8962).
+text(8962, There are cases where parents are charged with educational child neglect when they try to take the child out of classes because of personal/religious reasons.
+Educational neglect is defined as child abuse.).
+att(8962, root).
+
+arg(8935).
+text(8935, Educational/developmental neglect is a form of child abuse and it includes the obligation of giving your child proper education.
+Depending on the country, educational neglect ist illegal and can be prosecuted. It is not an appeal to emotions, it is fact.).
+att(8935, root).
+
+arg(8912).
+text(8912, Child Abuse is defined as
+
+- Mistreatment of a child by a parent or guardian, including neglect, beating, and sexual molestation.
+This is the misusing of an emotional term to beg support.).
+att(8912, 8887).
+
+arg(9242).
+text(9242, Mathematics, physics, chemistry, languages etc. are mandatory too. Why should biology not?).
+support(9242, root).
+
+arg(9255).
+text(9255, School board is an elected political position. There is no qualification to be an expert in anything.).
+att(9255, 9207).
+
+arg(10074).
+text(10074, There is no evidence that knowledge of the theory of evolution increases the standard of living in any way. ).
+att(10074, root).
+
+arg(10223).
+text(10223, When the educational system sees something as fact, other people's feelings and beliefs about it don't matter.).
+att(10223, root).
+
+arg(10235).
+text(10235, It helps society to have some people that understand evolution, in the ways that you mentioned, but it does not help any individual person in their career (excluding the sciences themselves)).
+att(10235, root).
+
+arg(10159).
+text(10159, not teaching evolution in biology is equal to not teaching algebra in mathematics.).
+att(10159, root).
+
+arg(10160).
+text(10160, Teaching creationism along with evolution is almost impossible in biology classes because they contradict themselves.).
+att(10160, root).
+
+arg(9316).
+text(9316, This is very easy. Formative education should be entirely dominated by the goal of teaching children the facts of our scientific understanding of the world around them. All education should stem from this principle, there is nothing to "decide" anything about.).
+att(9316, root).
+
+arg(9318).
+text(9318, The people in the school board try their best to be subjective and there is no other way to set a neutral standard for schools.).
+att(9318, 9255).
+
+arg(10095).
+text(10095, And that is justification for the government to teach you false information, such as creationism?).
+att(10095, 10074).
+
+arg(9320).
+text(9320, From here there only remain pedagogical questions regarding how the information should be presented. This is a matter for those who are qualified and experienced in the field of Education, who can design curricula to best deliver digestible information on an age-appropriate basis.).
+support(9320, 9316).
+
+arg(9189).
+text(9189, Who decides what material is "mandatory" and must be taught?).
+att(9189, root).
+
+arg(9190).
+text(9190, Who prosecutes those who fail to teach the "mandatory" material? What is the punishment?).
+att(9190, root).
+
+arg(10171).
+text(10171, There is. Understanding evolution is necessary for several things that increase our standard of living, from treating genetic disorders to breeding healthier and more resilient plants and animals. It's also key to the development of new flu vaccines which save thousands of lives per year.).
+att(10171, 10074).
+
+arg(10105).
+text(10105, The theory of evolution is one facet of biologic science. You are falsely equating not teaching the theory with not teaching biology.).
+att(10105, 9242).
+
+arg(10175).
+text(10175, The teacher should first raise claim to how some people see this as a belief, although it is believed to be scientifically fact.  ).
+att(10175, root).
+
+arg(10107).
+text(10107, There is nothing in their premise, or the original premise suggesting that any origin theory be taught in exclusion to or concurrent with any other theory.).
+att(10107, 10095).
+

@@ -1,0 +1,15 @@
+arg(root).
+text(root, The top 1% should pay more in social security taxes in order to strengthen it and ensure its viability for decades to come.  ).
+
+arg(16000).
+text(16000, This already happens in most countries).
+att(16000, root).
+
+arg(6957).
+text(6957, This likely wont happen within our lifetimes.).
+att(6957, root).
+
+arg(6568).
+text(6568, Many people depend on social security for retirement income, albeit how insufficient in many cases. We should work to strengthen social security rather than privatize it to ensure people get the benefits they need to survive. ).
+support(6568, root).
+

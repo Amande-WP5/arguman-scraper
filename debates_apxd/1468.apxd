@@ -1,0 +1,27 @@
+arg(root).
+text(root, You should take a dump everyday.).
+
+arg(8298).
+text(8298, It still feels very good after the suffering and effort have passed.).
+att(8298, 7414).
+
+arg(7414).
+text(7414, not if your poops come out side ways!).
+att(7414, root).
+
+arg(7152).
+text(7152, It feels really good to poop.).
+support(7152, root).
+
+arg(7180).
+text(7180, A every-other-day schedule would allow for larger, more satisfying dumps.).
+att(7180, root).
+
+arg(8297).
+text(8297, Some diets, such as ketogenic diets, do not permit you to do this, but are nonetheless useful for lowering cholesterol levels, lowering blood pressure, and treating diabetes.).
+att(8297, root).
+
+arg(10094).
+text(10094, Defecating or, "taking a dump", eliminates waste from our bodies. If defecation would not occur, feces would remain in the colon and the toxins that they contain would be reabsorbed into the body. ).
+support(10094, root).
+

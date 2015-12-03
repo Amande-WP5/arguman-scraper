@@ -1,0 +1,11 @@
+arg(root).
+text(root, The US should repeal the 16th amendment to remove federal income taxes and instead implement the FairTax.).
+
+arg(9616).
+text(9616, It forces the burden of taxes to fall equally on the poor as the super wealthy; and it is therefore a step backwards into further inequality. With great power comes great responsibility, and power is wealth in a capitalist society. Only progressive taxes are therefore just.).
+att(9616, root).
+
+arg(9295).
+text(9295, The FAIRtax let's you keep all dat money from pimping your hoes.).
+support(9295, root).
+

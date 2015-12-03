@@ -1,0 +1,23 @@
+arg(root).
+text(root, Buy Hostel.ly).
+
+arg(8510).
+text(8510, I already have software).
+att(8510, root).
+
+arg(8511).
+text(8511, It's too expensive.).
+att(8511, root).
+
+arg(8513).
+text(8513, What kind of software do you use?).
+support(8513, 8510).
+
+arg(8515).
+text(8515, roommaster, assd, cloudbeds).
+att(8515, 8513).
+
+arg(8516).
+text(8516, no software / spreadsheet).
+att(8516, 8513).
+

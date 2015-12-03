@@ -1,0 +1,19 @@
+arg(root).
+text(root, We have too much reverence for dead bodies ).
+
+arg(10348).
+text(10348, A dead body cannot defend itself. There is a reason why you cannot prosecute a dead man.).
+att(10348, root).
+
+arg(10286).
+text(10286, Grave sites take up much land that could be used for the living as well as stop the decomposition process that would benefit the rest of the ecosystem. if done properly necrophilia and Cannibalism Are safe. And the contribution of the bodies to science would do more good than a burial or cremation).
+support(10286, root).
+
+arg(10287).
+text(10287, Taking away peoples ability to be with their deceased love ones isn't worth it. Why bother having parks, gardens or any other recreational areas if your gonna take a coping mechanism for death from people? Using bodies for necrophilia cannibalism or science against peoples will is the same problem.).
+att(10287, 10286).
+
+arg(10332).
+text(10332, If donating bodies to science became the default, humans would inevitably adapt to this change in post-mortem ceremony while burials become irrelevant. The idea of a human needing to "rest in peace" is a social construct and can be altered with new standards in behavior.).
+att(10332, 10287).
+

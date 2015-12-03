@@ -1,0 +1,81 @@
+arg(root).
+text(root, There is no drought in California.).
+
+arg(5987).
+text(5987, Additionally, if the climate change hoax is to be believed, melting ice caps would increase the available planetary water. Thanks, Obama.).
+support(5987, root).
+
+arg(5988).
+text(5988, Not all of California is desert, in fact much of California is parking lot.).
+att(5988, root).
+
+arg(6769).
+text(6769, A drought has nothing to do with ocean water. A drought is defined as a lack a rainfall over a period of time. Climate Change can in fact lead to a lack of rain.).
+att(6769, 5987).
+
+arg(5926).
+text(5926, When you turn the faucet, water comes out.).
+support(5926, root).
+
+arg(6031).
+text(6031, To define a drought we must look not at the fears of farmers, but rainfall statistics.).
+att(6031, root).
+
+arg(5951).
+text(5951, If you leave it on, you will definitely have a drought soon).
+att(5951, 5926).
+
+arg(5953).
+text(5953, It hasnt rained for an unusually long period of time).
+att(5953, root).
+
+arg(5956).
+text(5956, Farmers are fearing the outcome of their crops due to a water shortage).
+att(5956, root).
+
+arg(5961).
+text(5961, The ocean.).
+support(5961, root).
+
+arg(6819).
+text(6819, Do you live in California?).
+att(6819, root).
+
+arg(5963).
+text(5963, This is not true where I live...).
+att(5963, 5951).
+
+arg(5964).
+text(5964, California is a desert and as you would expect rain comes rarely in deserts).
+support(5964, root).
+
+arg(7292).
+text(7292, It's not about the rain as much as it's about the accumulated snow pack that occurs each year in the mountains.).
+att(7292, root).
+
+arg(7293).
+text(7293, The fact it rained isn't very important. The more important details is the amount of rain, and the frequency of rain, not just that it happened to have rained.).
+att(7293, root).
+
+arg(6831).
+text(6831, ocean water is drinkable, and the process of desalination is expensive and not practical.).
+att(6831, 5961).
+
+arg(7302).
+text(7302, This should be a separate argument on its own. It does not support the original argument. 
+
+Ocean water is NOT drinkable. Desalination may be expensive initially, but at high enough capacity the production costs are low enough per desalinated unit of water to achieve or surpass a breakeven point.).
+att(7302, 6831).
+
+arg(6877).
+text(6877, it rained in mid-September.).
+att(6877, 5953).
+
+arg(8383).
+text(8383, Parking lots are drought friendly due to their low consumption of water.).
+att(8383, 5988).
+
+arg(8386).
+text(8386, Farmers often follow farmer's almanacs which are very accurate predictors of weather patterns and therefore would know how serious a drought is.).
+att(8386, 6031).
+

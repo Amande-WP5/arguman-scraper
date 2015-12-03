@@ -1,0 +1,297 @@
+arg(root).
+text(root, Social ownership of the means of production is cruel and punishes workers.).
+
+arg(14357).
+text(14357, If you have a strong reason to think that, it is useless to try to find  such system.
+And if you don’t have a strong reason to think that, your argument is weaker.).
+support(14357, root).
+
+arg(14358).
+text(14358, Internet is a good example of a way to have a decentralized communication.).
+att(14358, root).
+
+arg(14359).
+text(14359, Implementation will dependent of what is voted.).
+att(14359, root).
+
+arg(14147).
+text(14147, It could be made a lot more easy to report what you do than in the actual system, where anyone is already forced to report what they do.).
+att(14147, root).
+
+arg(14289).
+text(14289, To avoid this situation, we could have a lot of different checkers, that check randomly. (then nobody know before the check, who to corrupt)
+And you can check many time, by different people, important things.).
+att(14289, root).
+
+arg(14265).
+text(14265, Who will check the checkers? If some workers don't trust the checkers then they could choose not to join the group (or leave it) and instead live by operating their own means of production.).
+att(14265, root).
+
+arg(13947).
+text(13947, Without workers reporting all their activity the social body cannot detect whether the activity is profitable. ).
+support(13947, root).
+
+arg(13949).
+text(13949, The "means of production" is a very broad term and so relates to an extremely vast amount of human activity.).
+support(13949, root).
+
+arg(14292).
+text(14292, Brilliant. Premises like these are exactly why I created this argument. Thanks.).
+support(14292, 14289).
+
+arg(14360).
+text(14360, If it is a law, we can hope the big majority will implement it, if they believe in the system and are honest, and the system is such that laws are reasonable.
+It will be completely decentralized.).
+support(14360, 14359).
+
+arg(13952).
+text(13952, Workers are forced to live under massive corruption which is cruel.).
+support(13952, root).
+
+arg(13953).
+text(13953, Its easy to corrupt a social body. This is also true for a politically democratic social body.).
+support(13953, 13952).
+
+arg(14268).
+text(14268, By "actual system" I presume you mean "current system"? The current system is cruel. But if we are to move to a new system we could design a kind one.).
+att(14268, 14147).
+
+arg(13954).
+text(13954, Forming a "social body" for millions of people is complex and requires lots of protocols with centralized points of power. This is also true for a politically democratic social body. ).
+support(13954, root).
+
+arg(13955).
+text(13955, Protocols with centralized points of power attract creative lobbying efforts to corrupt those points of power.).
+support(13955, 13953).
+
+arg(13956).
+text(13956, Workers are forced to report all their activity which is punishment.).
+support(13956, root).
+
+arg(14271).
+text(14271, The checkers could only have the role to check, no special power.
+If a checkers report a anomaly, then he report it to the workers, and the workers democratically decide what to do.
+Then, the workers check the checkers.).
+att(14271, 14265).
+
+arg(14272).
+text(14272, Having to leave what you had build because someone corrupt it is cruel.
+Instead they could remove the checker of its role.).
+att(14272, 14265).
+
+arg(14273).
+text(14273, That they could choose to not join the group or create one is questionable and relative to the economical system.
+They need to eat, and they need access to enough resource to create one.).
+att(14273, 14265).
+
+arg(14274).
+text(14274, Leaving or staying should be the free choice for the worker. But forcing the choice is cruel. Especially forcing a worker to join the group.
+).
+att(14274, 14272).
+
+arg(14149).
+text(14149, People could live with a lot of privacy, they only have to deal with others when they use the social means of production.).
+att(14149, root).
+
+arg(13981).
+text(13981, Privacy is a human right.).
+support(13981, root).
+
+arg(14364).
+text(14364, If it is about doing something particular, the vote should specify how people get and lose the role to do it.
+But roles are more organizational, than about power, they are only about doing a particular thing, and are checked.).
+support(14364, 14359).
+
+arg(14275).
+text(14275, In a kind system they could organize their eating and other things through voluntary relationships instead of forced ones.).
+att(14275, 14273).
+
+arg(13983).
+text(13983, Forcing someone to live without any privacy is punishment.).
+support(13983, 13956).
+
+arg(14109).
+text(14109, "What does it mean to socially own something?"
+I have a complete sub-tree on the definitions. "Social ownership" is right there. Definitions are exactly from Wikipedia descriptions which I figure is a fair source. ).
+att(14109, root).
+
+arg(14276).
+text(14276, But social ownership doesn’t imply they don’t have the free choice to leave or to stay.).
+att(14276, 14274).
+
+arg(14131).
+text(14131, The worst form of corruption is when the few people that try to corrupt, succeed to take total control on the means of production, which is basically private ownership.
+Then private ownership is a lot worst than social ownership.).
+att(14131, 13952).
+
+arg(13986).
+text(13986, See definitions of related terms below.).
+support(13986, root).
+
+arg(13988).
+text(13988, We have no idea what you're talking about and what this is in relation to... provide a source).
+att(13988, root).
+
+arg(14112).
+text(14112, "A lot of vague words that are non-descriptive." Ok if you identify a few of them I will define each one. Each definition will be short with a source link to Wikipedia or similar.).
+att(14112, root).
+
+arg(13989).
+text(13989, Which words don't you understand?).
+att(13989, 13988).
+
+arg(14134).
+text(14134, A social body is a lot less easily corrupted than a private body.).
+att(14134, 13953).
+
+arg(14366).
+text(14366, I didn’t assume you can’t repeatedly do it, only that it is a less harmful form of corruption than a false positive (by false positive i mean, telling that somebody is guilty of something when he is not).).
+att(14366, root).
+
+arg(13990).
+text(13990, Who is implementing social ownership? What does it mean to socially own something and why didn't you just say machinery? A lot of vague words that are non-descriptive.).
+att(13990, 13989).
+
+arg(14110).
+text(14110, "why didn't you just say machinery?" because machinery is too narrow for "means of production" which is one of the primary terms of socialism.).
+support(14110, 13990).
+
+arg(14111).
+text(14111, "Who is implementing social ownership?" Anyone. The points I raised are problems of protocols ( standards and processes) that are used to implement co-operation required to form any social body. So "the Who" is irrelevant as long as they're protocols are evident for transparent auditing.).
+support(14111, 13990).
+
+arg(14154).
+text(14154, It is a worst punishment to the workers, if there is no check of how the means of productions and the resources are used, because then a few could completely waste it, and let about nothing to the others.).
+att(14154, 13956).
+
+arg(13943).
+text(13943, If the legal structure enforces "social ownership" then a worker must report all his activity to a social body in order to check if any means of production have been used for profit in case it must be "shared" into social ownership. ).
+support(13943, 13956).
+
+arg(13985).
+text(13985, Where "means of production" is defined as "physical, non-human inputs used for the production of economic value, such as the facilities, machinery, tools infrastructural capital and natural capital.").
+support(13985, 13986).
+
+arg(13987).
+text(13987, Where "social ownership  encompasses the various forms of ownership of the means of production for socialist economic systems. It encompasses public ownership, employee ownership, and citizen ownership of equity.").
+support(13987, 13986).
+
+arg(14258).
+text(14258, They are exactly as corruptible as each other all protocols being equal. Being a "body" makes it social i.e. involves multiple people. The transparency of a body's standards, protocols and actions determines whether it is private or public.).
+att(14258, 14134).
+
+arg(14132).
+text(14132, There could have no centralized points of power in a social ownership.).
+att(14132, 13955).
+
+arg(14119).
+text(14119, Here is another link on social ownership. I took it from among the top google searches. It sounds like a common enough description of the term.).
+att(14119, 13987).
+
+arg(14259).
+text(14259, Could you describe one?).
+att(14259, 14132).
+
+arg(14279).
+text(14279, Social ownership legally requires any profit in society to be shared. So all human activity needs to be checked in case of profits. Therefore workers have no choice they must join the group as it is built into the law. ).
+att(14279, 14276).
+
+arg(14293).
+text(14293, If I can repeatedly achieve a true negative then I could endlessly corrupt the system.).
+att(14293, root).
+
+arg(14140).
+text(14140, It is not enough to have a centralized point of power, you also need to have a way and a reason to try to corrupt it.).
+att(14140, 13955).
+
+arg(14373).
+text(14373, What system are you thinking about ?).
+att(14373, 14275).
+
+arg(14263).
+text(14263, Given that "means of production" is such a broad term the legislation could evolve to include anything as related to the means of production.  ).
+att(14263, 14149).
+
+arg(14294).
+text(14294, A critical aspect of social ownership in this argument is that it is built into the legal structure and is mandatory.).
+att(14294, 13987).
+
+arg(14286).
+text(14286, Each worker should be their own judge of corruption in the social body. So even if corruption doesn't exist and appears to exist only for a worker, that worker should retain the option to reject joining the body. ).
+support(14286, 13952).
+
+arg(14374).
+text(14374, how did you do this link ? (http://en.arguman.org/social-ownership-of-the-means-of-production-is-cruel-and-punishes-workers/13987#14294)).
+att(14374, 14279).
+
+arg(14282).
+text(14282, By example to take a decision :
+Everyone could propose something, and vote on something.
+All the propositions and vote are public, copied in many place.(or transfered by peer-to-peer system).
+Anyone could anonymously know the vote result, and see if there is a anomaly with its own vote.).
+att(14282, 14259).
+
+arg(14260).
+text(14260, That's what I said. Centralized points of power will attract lobbying efforts to use their creativity capacities to find the ways to corrupt them. There is always a way to corrupt a centralized point of power. Can you give an example of a centralized point of power that has no way to be corrupted?).
+att(14260, 14140).
+
+arg(14283).
+text(14283, I said lobbying which implies to "get money and private property", or to control the social body, or to control the means of production, or to get revenge, or to help because you think people are stupid, or because of jealousy, or because of racism, or because of sociopathy. The reasons are endless.).
+att(14283, root).
+
+arg(14262).
+text(14262, If its few or many its still cruel.What you think is "worse" depends on your status in the group.If joining a group is voluntary one can avoid corruption by refusing to join a corrupt group. With social ownership to avoid the group you are forced to change residency which is cruel.  ).
+att(14262, 14131).
+
+arg(14281).
+text(14281, You explained why a centralized point of power is more vulnerable than a decentralized one.
+But you doesn’t explained why this vulnerability is enough.
+By example generally you need resources and a reason to corrupt something. (And generally the reason is to get money and private property)).
+att(14281, 14260).
+
+arg(14287).
+text(14287, Judging the existence of corruption is necessarily subjective. ).
+support(14287, 14286).
+
+arg(14277).
+text(14277, This sounds interesting. And I already have some ideas about where I would corrupt this process. For example I could bribe the checker to NOT report an anomaly. Also I could try to bribe the vote counters to corrupt the democratic process (unless your using blockchain technology ;).  ).
+att(14277, 14271).
+
+arg(14285).
+text(14285, This is a great idea. But it's only one component of a social body. More components are required for the whole social body to function. For example to communicate between each other and also implement the decisions of the votes. There might be centralized points in there. ).
+att(14285, 14282).
+
+arg(14376).
+text(14376, It is not a problem for society, if a group of people produce more that what is expected with the same resources, and hide it keep it for themselves.
+It is not very nice, but it is not a problem.).
+support(14376, root).
+
+arg(14368).
+text(14368, I agree they are exactly as corruptible as each other all protocols being equal.
+But you explain that if they are public or private, will depend on the protocols.
+But it imply the protocols between public and private aren’t the same, this is why you lost me on this argument.).
+att(14368, 14258).
+
+arg(14375).
+text(14375, Ok, i think we can restrain the check to three things:
+- The resources used/spent and the pollution produced.
+- That the outcome which are expected by the use of this resources are shared.
+- That no one is abused by other, that the right of everyone is respected in the process.).
+att(14375, 14263).
+
+arg(14377).
+text(14377, People aren't expected to produce anything when they use the resources which are intended to  be just house and garden to live .
+If they produce something with it, good for them, but nobody really care about that ;) (if they doesn’t pollute, and doesn’t use other resources)).
+support(14377, 14375).
+
+arg(14356).
+text(14356, You assume there can’t be a decentralized system.
+I only say there could be one, not that there is one.
+I think it's up to you to explain why there can’t.).
+att(14356, 14259).
+
+arg(14288).
+text(14288, A true negative is better than a false positive.
+A true negative amounts to the same situation than if nobody checked.).
+att(14288, 14277).
+

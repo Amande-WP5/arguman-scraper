@@ -1,0 +1,31 @@
+arg(root).
+text(root, Initiating or threatening the use of force is immoral except in cases of self-defense or defense of others.).
+
+arg(6026).
+text(6026, It is impossible the use force on an unwilling person or people and have everyone involved prefer the outcome over an outcome caused by nonviolence.).
+support(6026, root).
+
+arg(6042).
+text(6042, Defense of others can be taken as an immoral motivator, such as one country invading another because they lack food and citizens would die if no more land was acquired ).
+att(6042, root).
+
+arg(6044).
+text(6044, It can be justified in other situations, even if immoral.).
+att(6044, root).
+
+arg(6047).
+text(6047, You can't define the moral use of force without defining morality.).
+att(6047, root).
+
+arg(6062).
+text(6062, Countries and governments don't exist morally. A government cannot defend or attack anyone, though a police officer or soldier might. Also "Defense" was meant to define "Defence from force", not from starvation, crowding, etc.).
+att(6062, 6042).
+
+arg(6064).
+text(6064, By declaring it immoral in the argument, it is unjustified by definition.).
+att(6064, 6044).
+
+arg(6075).
+text(6075, Defense also applies to thief. If someone steals my food, it would be self-defense to resist it since without that food i would die, which is the essence of the original premise of self defense. ).
+att(6075, 6062).
+

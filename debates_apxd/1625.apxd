@@ -1,0 +1,55 @@
+arg(root).
+text(root, You guys can't Count to 10.).
+
+arg(8873).
+text(8873, 5).
+support(8873, root).
+
+arg(8874).
+text(8874, I doubt that.).
+att(8874, root).
+
+arg(9025).
+text(9025, 6).
+support(9025, 8873).
+
+arg(9028).
+text(9028, 9).
+support(9028, 9025).
+
+arg(9030).
+text(9030, No sources, seems to be fake.).
+att(9030, root).
+
+arg(8827).
+text(8827, 1).
+support(8827, root).
+
+arg(8830).
+text(8830, I can).
+att(8830, root).
+
+arg(9138).
+text(9138, There is a tree in the middle.).
+support(9138, root).
+
+arg(8839).
+text(8839, 2).
+support(8839, 8827).
+
+arg(8844).
+text(8844, 3).
+support(8844, 8839).
+
+arg(8853).
+text(8853, 4).
+support(8853, 8844).
+
+arg(11382).
+text(11382, 1).
+support(11382, root).
+
+arg(11383).
+text(11383, 3).
+att(11383, 9025).
+

@@ -1,0 +1,7 @@
+arg(root).
+text(root, Vegetarianism is a moral imperative).
+
+arg(11462).
+text(11462, Morality is subjective. ).
+att(11462, root).
+

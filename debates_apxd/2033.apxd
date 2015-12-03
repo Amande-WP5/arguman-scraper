@@ -1,0 +1,16 @@
+arg(root).
+text(root, Learning english is more difficult than learning chinese).
+
+arg(13451).
+text(13451, It depends on what your native language is, and how closely related it is to English and Chinese. ).
+att(13451, root).
+
+arg(13426).
+text(13426, English has only 26 letters 
+Chinese has many more).
+att(13426, root).
+
+arg(13980).
+text(13980, Although the pronunciation of the english language is (kind of) almos unpredictable in its entirety and there are many exceptions to the rules, chinese has a more complex alphabet and achieving profficiency at its pronunciation is difficult too.).
+att(13980, root).
+

@@ -1,0 +1,90 @@
+arg(root).
+text(root, Gender bias is not a cause for pay gap).
+
+arg(12560).
+text(12560, "Many workplaces are quite inflexible about emergency leave, so the only way to get that time off is sick leave."
+
+Women are expected to care for children more. Doesn't take childcare into account. ).
+att(12560, root).
+
+arg(12504).
+text(12504, No, Woman are not discouraged. They simply go into different lines of work because generally, higher paid jobs involve physical activities, which men are more suited to do. ).
+att(12504, root).
+
+arg(11227).
+text(11227, There is no pay gap.).
+att(11227, root).
+
+arg(12554).
+text(12554, Most higher paying jobs (Doctors/Lawyers) do not depend on the amount of physical labor.).
+att(12554, 12504).
+
+arg(12556).
+text(12556, Sharing some jobs means the pay gap studies are still relevant.).
+att(12556, root).
+
+arg(12558).
+text(12558, Doesn't take time during pregnancy into account.).
+att(12558, root).
+
+arg(11532).
+text(11532, Men and women hold many of the same jobs.).
+att(11532, root).
+
+arg(12518).
+text(12518, Source?).
+att(12518, root).
+
+arg(11534).
+text(11534, One gender may get less hours due to gender bias.).
+att(11534, root).
+
+arg(11539).
+text(11539, False equivalency. Women are discouraged from more higher-paying professions than men.).
+att(11539, root).
+
+arg(11540).
+text(11540, Then what is the cause?).
+att(11540, root).
+
+arg(11449).
+text(11449, The pay gap is irrelevant if men and women do completely different jobs and hours. ).
+att(11449, root).
+
+arg(11334).
+text(11334, Studies show there is a pay gap.).
+att(11334, 11227).
+
+arg(11450).
+text(11450, Sexism can theoretically and does discourage men from certain professions. This is not a woman's issue. This is a human issue.  ).
+att(11450, root).
+
+arg(12526).
+text(12526, http://www.telegraph.co.uk/news/health/10660612/Women-are-almost-42-per-cent-more-likely-to-take-sick-days-than-men.html
+
+http://abcnews.go.com/Health/story?id=4241746
+
+http://www.thisismoney.co.uk/money/article-1724418/Women-have-more-days-off-sick-than-men.html).
+att(12526, 12518).
+
+arg(12505).
+text(12505, Yes, men and women share some jobs but Women still do a lot less physical work, less over time and less hours. ).
+att(12505, 11532).
+
+arg(11357).
+text(11357, Those studies do not take in consideration job choices, hours worked and experience; Instead they just publish the ratio between the salary of all men and the salary of all women.
+When said factors are considered the wage gap shrinks to a 0.05$ difference.).
+att(11357, 11334).
+
+arg(12506).
+text(12506, But they don't. Women simply tend to do less hours. Ask any man with female co-workers, they'll say Women take more time off than men do, and call in sick more often. ).
+att(12506, 11534).
+
+arg(11367).
+text(11367, Job choice is influenced by gender. Sexism can theoretically discourage women from certain professions.).
+att(11367, 11357).
+
+arg(11371).
+text(11371, Taking job choice into account still shows a pay gap.).
+att(11371, 11357).
+

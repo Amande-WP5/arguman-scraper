@@ -1,0 +1,11 @@
+arg(root).
+text(root, This website needs a way to support someone who says "Hey, there's a fallacy here!", and a way to say "There's a fallacy here because...").
+
+arg(6357).
+text(6357, This should not lead to a situation where majority decides whether something is a fallacy.).
+att(6357, root).
+
+arg(6409).
+text(6409, Also, fallacies need explanation in general. not everyone knows what a red herring is. Some kind of tooltip box would be great.).
+att(6409, root).
+

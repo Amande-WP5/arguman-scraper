@@ -1,0 +1,15 @@
+arg(root).
+text(root, Stalin is better than Hitler).
+
+arg(11444).
+text(11444, More people died as a result of Hitler's decisions (Around 60 million), than they did under Stalin (Around 40 million). ).
+support(11444, root).
+
+arg(11607).
+text(11607, This comparison overlaps. Russia's casualties in WWII are attributed to both, making this a strange comparison. Realistically, only Germany's casualties (and possibly Austria's) should be attributed to Hitler, not that of every nation involved.).
+att(11607, 11444).
+
+arg(12321).
+text(12321, My argument is that by invading Poland, Hitler pushed the world into conflict and as a result, you could attribute the losses of all sides to his action, at least in the European theatre. I can see your point though, and I can see why my point is a bit shaky. ).
+att(12321, 11607).
+

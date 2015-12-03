@@ -1,0 +1,7 @@
+arg(root).
+text(root, Humans need to start to clean up Earth so that it is inhabitable for future generations.).
+
+arg(6724).
+text(6724, It's possible that climate change has become or will become irreversible. Thus, efforts previously directed towards helping the earth should be directed towards the colonization of other planets. ).
+att(6724, root).
+

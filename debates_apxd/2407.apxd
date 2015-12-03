@@ -1,0 +1,11 @@
+arg(root).
+text(root, Scotland should be an independent country).
+
+arg(16227).
+text(16227, Scotland receives more money from the UK than it pays in.).
+att(16227, root).
+
+arg(16226).
+text(16226, The views of the current government at Westminster do not reflect the wishes of the voters of Scotland.).
+support(16226, root).
+

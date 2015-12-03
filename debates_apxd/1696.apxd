@@ -1,0 +1,24 @@
+arg(root).
+text(root, Transwomen and or MtFs are neither real women nor female).
+
+arg(9674).
+text(9674, Neither are hermaphrodites. I don't have a good source, but hermaphroditism comes in huge variety.).
+support(9674, root).
+
+arg(9677).
+text(9677, Gender identity exists independently from one's biological sex.).
+att(9677, root).
+
+arg(9684).
+text(9684, Gender is defined by what a person believes what they are.).
+support(9684, 9677).
+
+arg(10034).
+text(10034, This is not syntactically precise. Gender identity is not the same thing as gender.
+
+Gender refers to the attitudes, feelings, and behaviors that a given culture associates with a
+person’s biological sex.
+
+Gender identity refers to “one’s sense of oneself as male, female, or transgender”  ).
+att(10034, 9684).
+

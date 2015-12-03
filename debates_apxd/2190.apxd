@@ -1,0 +1,32 @@
+arg(root).
+text(root, There should be a market for organs (both organs of deceased and extra organs of living, like kidney)).
+
+arg(14780).
+text(14780, Then those who have more wealth could purchase vast amounts of organs and retain them in storage. Therefore, those with more wealth would have control over the supply and demand of organs. The poor man's survival would ultimately be at the discretion of the wealthy. Sounds like a horror film.).
+att(14780, root).
+
+arg(14585).
+text(14585, It would push companies to research for artificial organs to dominate the market
+-> organs would become cheaper, assessable for everyone).
+support(14585, root).
+
+arg(14591).
+text(14591, It would compell people in desperate conditions to sell their organs.).
+att(14591, root).
+
+arg(15101).
+text(15101, It is an entirely non-consensual practice that would effectively force those living in poverty to surrender their internal tissues at steadily lesser prices.).
+att(15101, root).
+
+arg(14775).
+text(14775, This isn't a bad thing, because if someone wishes to sell an organ, that is okay. ).
+att(14775, 14591).
+
+arg(14781).
+text(14781, Severe violation of human rights.).
+support(14781, 14780).
+
+arg(14565).
+text(14565, it would reduce the wait time of those in need of organs, save countless lives, and provide assistance to families of deceased loved ones by paying them for their loved ones' organs.).
+support(14565, root).
+

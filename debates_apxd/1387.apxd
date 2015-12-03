@@ -1,0 +1,25 @@
+arg(root).
+text(root, Pedophilia is not wrong.).
+
+arg(6335).
+text(6335, A psychological trait cannot be a moral failure. ).
+support(6335, root).
+
+arg(6337).
+text(6337, while acting out on these urges IS wrong (illegal, immoral, etc.), actually having the urges can be (edit: related to a) clinical condition, or something out of the persons control.).
+support(6337, root).
+
+arg(6377).
+text(6377, pedophilia can be defined as acting on these pedophilic urges.
+
+"the word pedophilia is often applied to any sexual interest in children or the act of child sexual abuse" - Wikipedia ).
+att(6377, 6337).
+
+arg(6387).
+text(6387, This is a colloquial usage. The accepted term for abuse is 'pederasty.').
+att(6387, 6377).
+
+arg(14614).
+text(14614, Only if the subject (victim) is male.).
+att(14614, 6387).
+

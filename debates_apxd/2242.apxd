@@ -1,0 +1,126 @@
+arg(root).
+text(root, We should stop to eat meat).
+
+arg(15079).
+text(15079, In a psychological point of view, i think it is easier to completely stop a habit than to reduce it a lot and sustainably.
+And it is a lot easier to don’t start it at all.).
+att(15079, root).
+
+arg(15148).
+text(15148, The fact that animals suffer when killed by predators in the wild does not excuse causing suffering in slaughterhouses, even if that suffering is comparatively less.).
+att(15148, root).
+
+arg(15086).
+text(15086, It make more sense to reduce than to stop collectively, but because everyone is not going to do it, it make more sense to stop than to reduce individually.).
+att(15086, root).
+
+arg(15057).
+text(15057, Animal populations need to be managed otherwise they destabilize the environment. If we didn't eat meat we'd need to introduce more predators. Animals still die, often a lot worse in the wild than in slaughter houses. Lots of meat would be wasted that could be nourishing humans.).
+att(15057, root).
+
+arg(15147).
+text(15147, Killing another animal when it is unnecessary to do so is unethical. Killing the animal personally does not make it ethical.).
+att(15147, root).
+
+arg(15069).
+text(15069, If it was done humanely i would rather live a predator free life and well fed live.
+But it is not one thing or the other, the number of wild animals is independent to the number of farming animals.).
+att(15069, root).
+
+arg(15134).
+text(15134, Choosing to eat meat which was farmed with more humane methods would have a larger effect on meat producers. As people who choose "not to eat meat" are seen as non viable customers and therefore irrelevant to producers.).
+att(15134, root).
+
+arg(15065).
+text(15065, If farming was done humanely.
+Would you rather live a predator free, well fed life, one day to be quickly led to slaughter and quickly killed.
+Or always be looking for food, living life on the run from predators, one day to be slowly eaten alive ass hole first?
+Which creates more suffering?).
+att(15065, root).
+
+arg(15088).
+text(15088, Do you have data on how much animals, the regulation of animals population represent ?).
+att(15088, 15057).
+
+arg(15081).
+text(15081, This is only certain animals. The others need predators and the predators need them. Humans are also predators.).
+att(15081, root).
+
+arg(15095).
+text(15095, we are overcrowded, however we don't speak about letting dogs or lions eat people, nor about hunting people.
+Because we know we can find less harmful solutions.).
+att(15095, 15081).
+
+arg(15098).
+text(15098, It's natural for animals to eat meat. You can't deny the predatory nature of life and the need for life to consume life. Plants are also living things that can suffer. Not eating meat is as stupid as not eating plants. It is nutrition that can sustain life, life eating life is how nature works.
+).
+att(15098, 15095).
+
+arg(15100).
+text(15100, Plants don’t suffer, they don’t have brain, which is needed to have feelings and then to suffer.).
+att(15100, 15098).
+
+arg(15087).
+text(15087, We should prohibit the factory farming system.).
+support(15087, root).
+
+arg(15067).
+text(15067, It would be completely unsustainable to get the current global meat consumption by hunting. Wild animals would rapidly disappear.
+Just look at what is happening with fish, and we eat a lot less fish than the others meat. (and oceans are a lot bigger than forests)).
+att(15067, root).
+
+arg(15083).
+text(15083, The meat consumption is already established though, it makes more sense to reduce than stop. Animals are still going to die. Why waste their nourishing meat that can continue the circle of life. Life eats life. 
+).
+att(15083, 15079).
+
+arg(15090).
+text(15090, It seem better to kill a animal when he is old, than to let him
+die of old.
+But, it should be done humanely and painlessly (definitely not what you find in slaughterhouse)
+And it should not be a excuse to kill them when they have only lived 10% of their lifetime.).
+support(15090, 15083).
+
+arg(15056).
+text(15056, Meat itself is not harmful. It is only the factory farming system we use to consume meat that is harmful. Hunting and processing your own meat is a healthy alternative. ).
+att(15056, root).
+
+arg(15073).
+text(15073, Then we should reduce meat consumption to where it is sustainable and healthy for animals and the environment , not stop meat consumption entirely.).
+att(15073, 15067).
+
+arg(15074).
+text(15074, Sterilization is also a option.
+In some species one male get exclusive access to a lot of females.
+If you sterilize this male, you diminish the population the same way than if you kill a lot of these animals.).
+att(15074, 15057).
+
+arg(15085).
+text(15085, Every time you will eat meat, you will remember that you want to eat it, and it will reinforce the desire, and increase the frustration you will have each time you can’t.).
+support(15085, 15079).
+
+arg(15091).
+text(15091, Because of the current economic pressure, there is a great chance to have a lot of abuses.
+It should be assured by people without incentive to do it cheaply.).
+att(15091, 15090).
+
+arg(15097).
+text(15097, I'm hungry.).
+support(15097, root).
+
+arg(14970).
+text(14970, slaughterhouses are horribles and create a lot of suffering.).
+support(14970, root).
+
+arg(14971).
+text(14971, Meat consumption is a waste of resources.).
+support(14971, root).
+
+arg(14972).
+text(14972, Meat consumption pollute a lot.).
+support(14972, root).
+
+arg(14973).
+text(14973, industrial farming is horrible and creates a lot of suffering.).
+support(14973, root).
+

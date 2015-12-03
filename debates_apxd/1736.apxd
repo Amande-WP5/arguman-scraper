@@ -1,0 +1,19 @@
+arg(root).
+text(root, There exist natural systems which have unsimulable models.).
+
+arg(10004).
+text(10004, Not all models are simulable; only those which are isomorphic to a formal computation are simulable.).
+support(10004, root).
+
+arg(10648).
+text(10648, Such as?).
+att(10648, root).
+
+arg(11723).
+text(11723, I realized: the claim is an assumption, not an empirical claim. It is much like positing the existence of force laws; it cannot be found to contradict with observations, but is not derivable from them. Therefore it is not subject to validation by logical debate.).
+support(11723, 10648).
+
+arg(11949).
+text(11949, Life (as a natural system) is an example.  ).
+support(11949, 11723).
+

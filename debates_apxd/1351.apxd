@@ -1,0 +1,47 @@
+arg(root).
+text(root, Future bathroom designs should have no dividers between female stalls).
+
+arg(6427).
+text(6427, Nobody's genitals should be free to look at.).
+att(6427, root).
+
+arg(6001).
+text(6001, Male bathrooms also feature stalls that are used for both, urination and defecation. If the dividers between stalls in female bathrooms should be removed, dividers in male bathrooms would have to be removed as well. The only way to egalize bathrooms would be non-devided female urinals).
+att(6001, root).
+
+arg(6326).
+text(6326, There is less chance of the Sexual Assault going unnoticed. The assailant can't be in the stall with her without anyone knowing. If the bathroom was empty it wouldn't matter anyway.).
+att(6326, root).
+
+arg(5932).
+text(5932, Because men urinals commonly have no dividers between them, allowing free observation of genitals.).
+support(5932, root).
+
+arg(6706).
+text(6706, Women's genitals are between their legs. Seeing thigh isn't the same as seeing genitals.).
+att(6706, root).
+
+arg(5946).
+text(5946, This increases the likelihood of sexual assault towards women).
+att(5946, root).
+
+arg(5948).
+text(5948, The majority of men are attracted to women and not other men so other men's genitals are not viewed in a sexual context as they would be by a homosexual man).
+att(5948, 5932).
+
+arg(6380).
+text(6380, males' genitals can be shielded with their hands, while females must pull their pants down to urinate. ).
+att(6380, 5932).
+
+arg(6070).
+text(6070, This is a both an Appeal to Equality fallacy and an Assumed Intent fallacy. The stated argument makes no mention of egalitarian goals, nor aligning the common features between male and female public restrooms. ).
+att(6070, 6001).
+
+arg(6397).
+text(6397, The sexual orientation of a human is irrelevant to whether or not a human is allowed to have privacy in a bathroom. ).
+att(6397, 5948).
+
+arg(6084).
+text(6084, There is no evidence to show a benefit by exclusion of dividers. Dividers provide privacy for oneself and a barrier from others. Thus, the proposal is unnecessary and reasonably undesirable.  ).
+att(6084, root).
+

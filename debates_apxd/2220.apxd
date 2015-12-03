@@ -1,0 +1,7 @@
+arg(root).
+text(root, SEO is Dead).
+
+arg(14794).
+text(14794, It's not 'dead', it's just evolved into something more, with overlap of other marketing disciplines.).
+att(14794, root).
+

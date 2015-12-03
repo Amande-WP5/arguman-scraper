@@ -1,0 +1,601 @@
+arg(root).
+text(root, a vegan diet is the most ethically viable).
+
+arg(5902).
+text(5902, There are other things that the body requires, such as Vitamin D which is found in milk. Generally speaking, unprocessed meat has a higher density of nutrients and is easier for the body to convert/recover.).
+att(5902, root).
+
+arg(11060).
+text(11060, just because the vegan diet is healthy does not mean that it is necessarily more healthy than another diet.).
+att(11060, root).
+
+arg(5583).
+text(5583, Not all cultures agree on what ethics should be, and there is no unifying themes of ethics across cultures and time periods. Therefore ethics is subjective with regards to culture and time. ).
+att(5583, root).
+
+arg(5704).
+text(5704, most of the world’s grain is fed to livestock, which means that the process of producing meat kills more mice, birds and insects, plus one cow or pig or chicken).
+att(5704, root).
+
+arg(5586).
+text(5586, Killing an animal painlessly prematurely ends its life.).
+att(5586, root).
+
+arg(5705).
+text(5705, In a utilitarian sense, a vegan society would most likely prevent more animal suffering than it is causing.).
+att(5705, root).
+
+arg(6494).
+text(6494, No).
+att(6494, root).
+
+arg(7090).
+text(7090, Milk only contains significant amounts of vitamin D when it has been artificially fortified. One could just as easily eat a vegan diet and take vitamin D supplements. ).
+att(7090, 5902).
+
+arg(5588).
+text(5588, "Decent Human conduct" doesn't automatically include Animals for everyone  ).
+att(5588, root).
+
+arg(5920).
+text(5920, why restrict the choices of food a regular human has? ).
+att(5920, root).
+
+arg(12078).
+text(12078, Human can and DOES eat both.).
+att(12078, root).
+
+arg(5921).
+text(5921, Only if the consumer is located in an environment that can support the diet via infra-structurally, agriculturally, and do so with the lack of a financial burden. Very few consumers will be self-sufficient in providing these foods. ).
+att(5921, root).
+
+arg(5667).
+text(5667, We can argue about it being ethical in narrower circumstances (e.g. 10/12/15 in USA) rather than ethical across all of human history and society.).
+att(5667, root).
+
+arg(6322).
+text(6322, It's not premature if it happens when it's supposed to. 
+
+From the husbandry system point of view, it is killed exactly when it's supposed to die. 
+
+Being part of the husbandry system (with food, medical care, shelter, etc.) may result in a longer (and/or better) life for the animal. ).
+att(6322, 5586).
+
+arg(6447).
+text(6447, this doesn't mean that the current rate of meat consumption (particularly in the U.S.) isn't unethical).
+att(6447, root).
+
+arg(6325).
+text(6325, if you care about the environment, then you would be vegan because it is better for the enviornment.).
+att(6325, root).
+
+arg(5717).
+text(5717, Farmers are responsible for this.
+A cow will only give milk for a few years; after, it will have to bear calves in order to keep giving milk. ).
+att(5717, root).
+
+arg(5673).
+text(5673, You mean for your agribusiness environment.).
+att(5673, root).
+
+arg(5875).
+text(5875, There is absolutely no reason that going vegan should cost more than your omnivorous diet. Plant based staple foods (beans, rice, pasta, tofu, etc.) are generally much less expensive (per calorie) than meat based staples.).
+att(5875, root).
+
+arg(7102).
+text(7102, The world suffers from hunger due to unequal distribution, not lack of food. ).
+att(7102, root).
+
+arg(5676).
+text(5676, You have to include income, social status, ect.).
+att(5676, 5667).
+
+arg(5601).
+text(5601, This assumes preserving all extents of "human nature" is a goal. Killing other humans we view as competition for resources would also be preserved by this goal which is clearly not viable in our society.).
+att(5601, root).
+
+arg(6671).
+text(6671, But you aren't staying on point. You were just talking about what is "better" for our large societies. Survival. If we take better care of our habitat then we are helping to better ensure our survival.   ).
+att(6671, root).
+
+arg(5678).
+text(5678, But you're just talking about a smaller number of people and the same subjective experience occurs, and eventually you just have yourself.).
+att(5678, 5667).
+
+arg(5604).
+text(5604, Preventing some suffering is better than preventing none.).
+att(5604, root).
+
+arg(8110).
+text(8110, We are herbivores.).
+att(8110, root).
+
+arg(6515).
+text(6515, But WE DO NOT NEED TO EAT THEM, a Vegan diet provides every vitamins and minerals that we need to survive.).
+att(6515, root).
+
+arg(6966).
+text(6966, We are not. We are in fact omnivores.).
+att(6966, root).
+
+arg(5609).
+text(5609, Decent human conduct ought to include the humane treatment of animals.).
+att(5609, 5588).
+
+arg(7114).
+text(7114, War is waged on a societal level and is institutionalized. Vegetarianism, in the context of this discussion, is considered on the level of an individual's moral choice and not that of society's.).
+att(7114, root).
+
+arg(13280).
+text(13280, Without farming that animal wouldn't be alive to begin with).
+att(13280, 5586).
+
+arg(13405).
+text(13405, You have not provided a source, and pain requires brain functions. Plants don't have a brain, ergo they don't think or feel.).
+att(13405, root).
+
+arg(6342).
+text(6342, You obviously did not read what the other person wrote because their entire argument is that saving animals is not the only reason to go vegan.).
+att(6342, root).
+
+arg(6467).
+text(6467, Not all of them are, at least not in the way you seem to be presenting it.).
+att(6467, root).
+
+arg(5576).
+text(5576, It only reduces the suffering of domesticated animals, not wild animals.).
+att(5576, root).
+
+arg(5619).
+text(5619, From an natural viewpoint if animals did not die prematurely there would be over population. ).
+att(5619, 5586).
+
+arg(5738).
+text(5738, That is a descriptive view of the way people actually behave, and not a prescriptive view of how people ought to behave).
+att(5738, 5583).
+
+arg(5744).
+text(5744, It is not relevant who created the situation. The effects of the action in the current reality have to be considered for an action to be ethical.).
+att(5744, 5717).
+
+arg(6288).
+text(6288, These alternatives are still better than eating meat. No matter how much or how little the improvement.).
+att(6288, root).
+
+arg(5626).
+text(5626, This means that the original premise is true; that ethics is subjective, and therefore cannot be used as an argument to support a vegan diet because its ethical. ).
+att(5626, root).
+
+arg(5628).
+text(5628, Animals kill other animals to eat. Killing prematurely for food happens everywhere in nature.).
+att(5628, 5586).
+
+arg(5632).
+text(5632, being an omnivore implies the possibilty of choosing the best of both worlds).
+att(5632, root).
+
+arg(6360).
+text(6360, sacrifices have to be made for the greater good. You give up a lot of things for the betterment of society. Why not meat? Besides, nobody is forcing veganism, if you feel that eating meat is amoral, then nobody is stopping you from eating it.).
+support(6360, 5920).
+
+arg(5633).
+text(5633, preventing the consumption of meat necessities alternatives with problematic consequences which give decreasing marginal ethical returns).
+att(5633, 5604).
+
+arg(6296).
+text(6296, Why should human beings care about the suffering of animals?).
+att(6296, root).
+
+arg(5965).
+text(5965,  That in itself is the spirit of the original premise, which is, that ethics and morality are totally subjective to the individual.  It is illogical to break history down into progressions of moralistic belief because at the end of the day it comes down to the individual. ).
+support(5965, 5678).
+
+arg(6367).
+text(6367, it is not an optimal choice to eat meat when it is most beneficial for the planet if you do not).
+att(6367, root).
+
+arg(5645).
+text(5645, If you read the article you will see they are describing a vegan diet.).
+att(5645, root).
+
+arg(5646).
+text(5646, Yes, It ought to. But it doesn't for all.
+Therefore stating that something is the only "ethical" choice, one must first define "ethical" for all involved.).
+att(5646, 5609).
+
+arg(6750).
+text(6750, I was talking about an individuals choices within large societies not the societies themselves... I can see where you may have misunderstood, I should have clarified better.).
+att(6750, 6671).
+
+arg(8268).
+text(8268, Humans kill by far more animals than any other animal, and at the same time do so in the cruelest way possible, but making the entire life of the animal miserable in most cases.).
+att(8268, root).
+
+arg(6391).
+text(6391, Nature does not make decisions in the best interest of the planet, the great oxygenation event is an example of this. Was the production of large amounts of oxygen good for obligate anaerobes.).
+att(6391, 6367).
+
+arg(7007).
+text(7007, This is a strawman argument. The original premise did not imply that society should change its agriculture "completely and abruptly". ).
+att(7007, root).
+
+arg(7009).
+text(7009, We use a significant amount of resources (land, water, grain) to raise animals for food. If we ceased to eat animal products this would result in less land (and other resources) being used, not more.).
+att(7009, root).
+
+arg(5558).
+text(5558, Instead of growing food to feed to animals you can use that space/energy/water/labor to grow food directly for people to consume.).
+support(5558, root).
+
+arg(5559).
+text(5559, That assumes the association of carbon emissions and diet to be stratified into ethical levels.).
+att(5559, root).
+
+arg(5561).
+text(5561, With the burden of the human population on other resources, it could be considered unethical and harmful to the Earth if we allow more people to be sustained at any given time.).
+att(5561, 5558).
+
+arg(5567).
+text(5567, animals are conscious and capable of feeling pain.).
+support(5567, root).
+
+arg(5569).
+text(5569, We can agree on the basic concepts and fundamental principles of decent human conduct.).
+att(5569, root).
+
+arg(9462).
+text(9462, An omnivore, by definition, is simply an animal that DOES eat both, not one that CAN. It is a description of eating habits, not abilities. ).
+att(9462, root).
+
+arg(11015).
+text(11015, A whole foods, plant-based diet is a healthy diet. This means that a vegan person is more healthy. Health renders a state of well-being. Well-being is better than non-well-being. Thus, a vegan diet is more ethical when it pertains to humans.).
+support(11015, root).
+
+arg(6478).
+text(6478, But it is not the most beneficial diet as far as minerals, vitamins, and proteins go. ).
+att(6478, root).
+
+arg(8640).
+text(8640, Plants have feelings too).
+att(8640, root).
+
+arg(5947).
+text(5947, In a world with dwindling resources and growing population, energy will become a finite pool until global energy is stabilized as 100% renewable. In a sense, that energy could be treated as money, which places a value on energy.).
+att(5947, root).
+
+arg(6886).
+text(6886, Animal suffering will always exist in the form of animals eating each other. It's somewhat counter intuitive that humans have to be an exception to nature's cycle.).
+att(6886, root).
+
+arg(5913).
+text(5913, A global shift towards a vegan diet is necessary not only to ease the suffering of the millions of animals killed daily, but also to save the world from hunger, fuel poverty and the worst impacts of climate change.).
+support(5913, root).
+
+arg(6828).
+text(6828, No animal is close to level of conscience of humans, which means that they are rarely aware of what is happening. But I do agree that they are indeed capable of feeling pain.).
+att(6828, 5567).
+
+arg(11086).
+text(11086, Humans are the only species engaging in the factory farming of other species. This is not the natural order of things or a balanced circle of life.).
+support(11086, 6886).
+
+arg(5595).
+text(5595, We can decide the best way forward on ethical principles within our own culture and time period.).
+att(5595, 5583).
+
+arg(6482).
+text(6482, Just because people have been wrong in the past doesn't mean we can't be right now or in the future. We don't apply this logic to math or science, where we know there is an objective truth, and that failures are just attempts to reach it.).
+att(6482, 5583).
+
+arg(7044).
+text(7044, Animal agriculture is the leading cause of habitat loss and species extinction. A vegan diet reduces the suffering of all animals, not just domestic animals.).
+att(7044, 5576).
+
+arg(6895).
+text(6895, You would need to first show that calories per carbon footprint is the appropriate way to judge the ethics of a food.).
+att(6895, root).
+
+arg(6896).
+text(6896, The statement is not about the FINANCIAL viability. It is about ETHICAL viability. ).
+att(6896, root).
+
+arg(5553).
+text(5553, The calorie/carbon exchange for growing plant based food is lower than that of raising animals for food. ).
+support(5553, root).
+
+arg(5698).
+text(5698, Many people cannot afford or do not have access to vegan foods.  It would be unethical to establish a system of ethics that uses money or circumstance as a barrier to entry.).
+att(5698, root).
+
+arg(6282).
+text(6282, This assumes you care about other animals. If you do not care then it is not more ethical to not eat them than eat it. ).
+att(6282, root).
+
+arg(6129).
+text(6129, There are still beliefs and cultures around the world that requires sacrifices, meat consumption, milk consumption and so... Limiting people's beliefs and cultures is not ethical.).
+support(6129, 5583).
+
+arg(9576).
+text(9576, What is natural is not necessarily good. 
+(Appeal to nature fallacy.)).
+att(9576, 5628).
+
+arg(9583).
+text(9583, Accepting that "everyone defines his/her own ethics" does not preclude a discussion about which ethical precepts and values are more reasonable.).
+att(9583, root).
+
+arg(5566).
+text(5566, a completely vegan diet is not suitable for children ).
+att(5566, root).
+
+arg(8687).
+text(8687, When venus flytrap eats flies it is okay to be carnivorous but when we eat plants, it is not. Get lost.).
+att(8687, root).
+
+arg(5556).
+text(5556, Everyone defines his/her own ethics ).
+att(5556, root).
+
+arg(11062).
+text(11062, there are ways of killing animals that minimize pain and it is possible to kill animals without any pain at all.).
+att(11062, 5567).
+
+arg(6825).
+text(6825, You are taking a defeatist stance. Others may cheat so no one should try to better the environment? People will cheat, but if no one works to improve the environment then there isn't any potential to improve chances of survival. But this is getting into specifics that lose the main premise. ).
+att(6825, root).
+
+arg(11064).
+text(11064, this isn't currently possible so it is irrelevant.).
+att(11064, root).
+
+arg(11065).
+text(11065, it is not nature, but rather survival that trumps. Rape and other unethical actions found in nature are not conducive to survival in human society. Eating meat helps survival and doesn't harm society.).
+att(11065, root).
+
+arg(7070).
+text(7070, Vegan diets still do harm, but they do less harm than any other diet.).
+att(7070, root).
+
+arg(9126).
+text(9126, Do you know that sunlight is a source of vitamin d?).
+att(9126, 5902).
+
+arg(8686).
+text(8686, This doesn't mean that it's feasible or practical to do for general population.).
+att(8686, root).
+
+arg(9134).
+text(9134, Even if they had feelings, a vegan lifestyle would be bettter for them because less would get killed. It takes more plants to make meat than if we just eat the plants.).
+att(9134, 8640).
+
+arg(8419).
+text(8419, If you care about other humans you need to factor in how many more people can be fed (or not) based upon what you consume.).
+att(8419, 6282).
+
+arg(5580).
+text(5580, This is not true, research indicates the opposite.).
+att(5580, 5566).
+
+arg(5571).
+text(5571, Animals in nature eat each other as a way of life. Limiting human's nature as omnivores is unethical. ).
+att(5571, root).
+
+arg(6404).
+text(6404, Animals also die from vegan and vegetarian diets, and their bodies aren't even put to use.).
+att(6404, root).
+
+arg(6441).
+text(6441, with each pound of meat given up in the production possibilities curve between meat production and non-meat production there are decreasing marginal returns; in order to continue feeding we would necessarily have to expand farmland and encroach on wild species habitats).
+att(6441, root).
+
+arg(5655).
+text(5655, It is most ethically viable in the current agribusiness environment.).
+att(5655, root).
+
+arg(5613).
+text(5613, alimenting children properly, especially a vegan diet, requires a lot of knowledge, only a minority of people will be able to do this without complications).
+support(5613, 5566).
+
+arg(5856).
+text(5856, But if nature takes precedence over ethics, then whats preventing other manmade ethics from being ignored, i.e. rape, murder, stealing... ).
+att(5856, root).
+
+arg(5660).
+text(5660, You can absolutely get the right balance of macro nutrients on a vegan diet to support a weight lifting/bulk routine. ).
+att(5660, root).
+
+arg(5610).
+text(5610, This is already preserved through war between nations. To ban war would mean to limit the rights of states and individuals to protect themselves using deadly force. ).
+att(5610, 5601).
+
+arg(5627).
+text(5627, the first link is about raising vegetarian children, something i was not refering to).
+att(5627, 5580).
+
+arg(6988).
+text(6988, This is a fallacious appeal to nature. Something existing naturally does not make it right, else we should deem rape and infanticide to be morally just. ).
+att(6988, 6886).
+
+arg(5690).
+text(5690, You have to prove that the total lives lost count in a meat eating diet is less than the total lives lost count in a vegan diet. I don't know if this is possible. Growing and harvesting food kills animals/insects.).
+att(5690, 5586).
+
+arg(6481).
+text(6481, We are not omnivors, we are herbivores.).
+att(6481, root).
+
+arg(8071).
+text(8071, Growing enough food for our population is no longer a problem. Transporting food to those who need it is the current difficulty. Growing food for humans instead of animals will actually lead to larger food wastes. ).
+att(8071, 5558).
+
+arg(5565).
+text(5565, There are ways to kill the animal painlessly. ).
+att(5565, root).
+
+arg(6304).
+text(6304, Are plants sentient?).
+att(6304, root).
+
+arg(5766).
+text(5766, This assumes that all animals are sentient or even capable of comprehending their own suffering.
+Would destroying a computer (that is your property as well as the information on it) be immoral?).
+att(5766, root).
+
+arg(5852).
+text(5852, There are many cheap, vegan high-protein options which are available as dried bulk foods (quinoa, dried legumes, nuts, to name a few). There are as many affordable sources for iron. With planning, it is feasible to eat a vegan diet that is both balanced and affordable.).
+att(5852, root).
+
+arg(5933).
+text(5933, People will shift when they have to).
+att(5933, 5913).
+
+arg(8225).
+text(8225, Given that we can ingest and utilize nutrients from both plant and animal sources, we are, in fact, omnivores.).
+att(8225, 8110).
+
+arg(5670).
+text(5670, You first have to demonstrate that energy is a correct way to assess food production, and then prove there is no way for eating animals to produce a more attractive value.).
+att(5670, 5553).
+
+arg(6350).
+text(6350, A completely chemical diet without any living ingredients would be more ethical).
+att(6350, root).
+
+arg(13624).
+text(13624, Supporting a meat-eating population has a larger burden then would otherwise with a population eating a plant-only diet).
+att(13624, 5561).
+
+arg(13555).
+text(13555, It would be if it was intended as a counter argument, a "but", but it is a "however".).
+att(13555, 7007).
+
+arg(12118).
+text(12118, No they need to raise an animal that's constantly using up energy before they euthanize it for meat. Not all the food it's eating is going to be stored in the animal.).
+att(12118, root).
+
+arg(11029).
+text(11029, While that sounds plausible, is there a source for this?).
+att(11029, root).
+
+arg(12135).
+text(12135, Morality is a finely sharpened tool human's ancestors developed through evolution to help them spot noncontributing members of the group. This is essential for group-work. Sometimes humans can use "shortcuts" of thinking in inapplicable situations getting them to reach the wrong conclusion).
+att(12135, root).
+
+arg(11082).
+text(11082, you can eat a box of oreos a day and still be vegan. Vegan doesn't always imply healthy.).
+att(11082, 11015).
+
+arg(11087).
+text(11087, And possibly takes a mother away from its offspring and vice versa. Just eat vegan, it's easy.).
+support(11087, 5586).
+
+arg(11090).
+text(11090, Any animal has the potential to be a true friend to a human.).
+support(11090, 6296).
+
+arg(12138).
+text(12138, Logic and rational says that we don't need to care about the life span of other animals when it comes to sacrifices we have to make. We are the people who wouldn't feel bad about switching the train course to run over the one person and save the five.).
+att(12138, 12135).
+
+arg(11096).
+text(11096, Yes. They've done experiments connecting technology to plants, their stress levels go up when they are near fire. ).
+support(11096, 6304).
+
+arg(6787).
+text(6787, Additionally you argue that ones survival is improved by taking care of ones habitat. This has some problems however in that others could cheat. If another exploits the environment and gains an edge that could decrease your ability to survive despite you caring for your habitat.).
+att(6787, 6671).
+
+arg(13193).
+text(13193, that is untrue. meat eating animals chase there pray and painfully eat them alive. in slaughterhouses on the other hand they are killed in a far faster and less painfully ways ).
+att(13193, 8268).
+
+arg(6149).
+text(6149, Because naturally these things are not optimal choices in the large social societies we have constructed. It is not the most beneficial choice for one to engage in such behavior when the other options usually result in better outcomes.).
+att(6149, 5856).
+
+arg(9618).
+text(9618, That is not a valid counter-argument. 
+
+When debating ethics, you can't just say "Someone who has different values will disagree with your contention." That's obvious and also irrelevant. 
+
+Your statement also implies that all views are equally reasonable, which is absurd.).
+att(9618, 6282).
+
+arg(11120).
+text(11120, To this end the amount of feed Intended for animals alike must meet the Necessary nutrition in humans. You need a source.).
+att(11120, 9134).
+
+arg(6872).
+text(6872, Vegans and vegetarians on average consume about 70% more protein than they require every day.  Meat-less diets also contain higher quantities of almost every nutrient.).
+att(6872, 6478).
+
+arg(5623).
+text(5623, Killing other humans for resources is something humans have done since the beginning of time).
+att(5623, 5601).
+
+arg(5563).
+text(5563, There is less suffering for sentient beings.).
+support(5563, root).
+
+arg(5723).
+text(5723, While meat is the easiest way, a vegan diet carefully constructed is sufficient for bulking/athletes and can be designed to avoid phytoestrogens. Consider that Arian Foster, star RB for the Texans is a vegan. Tony Gonzalez, future Hall of Fame Tight End is a vegetarian.).
+att(5723, root).
+
+arg(5665).
+text(5665, Some animals that have been bred to produce milk for human consumption rely on being milked regularly or they will otherwise suffer pain and eventually might die. Completely and abruptly switching to a vegan lifestyle would therefore cause animals to suffer.).
+att(5665, root).
+
+arg(5629).
+text(5629, Humans, especially men require meat to function. Too much phitoestrogens, gluten free, poor in carb/protein androgynizes men and then we wonder why feminism is on the rise.).
+support(5629, root).
+
+arg(7192).
+text(7192, The point is that there is an optimum choice for survival and that choice is not to always do what is best for the environment.).
+att(7192, 6825).
+
+arg(11097).
+text(11097, Eating vegan CAN be ethical but you can still eat vegan and eat unethically. You can still support bad corporations while buying their vegan options, you can buy vegan good that is not socially conscious (slave labour/gmo crops/come from companies that engage in all kinds of unethical things) etc. ).
+support(11097, root).
+
+arg(12074).
+text(12074, Talking about cruelty, you'll be surprised how human are cute compared to the reign of insects.).
+att(12074, 8268).
+
+arg(5686).
+text(5686, Ethics are a construct created by humans. Nature is not ethical. Survival is natural. The strong survive, and the strong need protein. Long live steak.).
+att(5686, root).
+
+arg(6432).
+text(6432, there is always a loss to the environment from human consumption, and there comes to a point where giving up a natural meat source such as from local deer populations ends up necessitating environmental destruction to habitats of endangered species to make room for the alternative good.).
+att(6432, 6288).
+
+arg(5617).
+text(5617, You are an omnivore and you should fucking act like it.).
+att(5617, root).
+
+arg(11089).
+text(11089, Who's to say what level of consciousness animals are at? And why should that dictate whether or not we kill them in mass amounts when there are more eco-friendly/humaine/socially conscious alternatives readily available?).
+att(11089, 6828).
+
+arg(7275).
+text(7275, phytoestrogens have been proven not to have any effect on male testosterone levels whatsoever. 
+furthermore, meat is not necessary for men to function. there are countless individuals thriving without it.
+you're also implying that androgyny and feminism are undesirable traits).
+att(7275, 5629).
+
+arg(12097).
+text(12097, "easily digestible" foods tend to be low fiber and low saturated fat--eliminating many vegetable and animal food sources alike. It is known, however, that "difficult to digest" foods that are high in fiber are healthy for most individuals, and so digestibility is not relevant to  "healthiness.").
+att(12097, 5902).
+
+arg(13345).
+text(13345, Did you read the article I posted as source? The "math" is simple, and it's explained there.).
+att(13345, root).
+
+arg(6556).
+text(6556, You would have to prove that the total loss of life from grains and such going to livestock would then outweigh the loss of life for grains and such to be scaled up to meet the demand of direct human consumption.).
+att(6556, 5704).
+
+arg(5668).
+text(5668, Being omnivorous is what humans evolved to be; it's very difficult to maintain the right intake of nutrients (especially iron), which would be too time consuming and difficult for the average parent. Proteins and irons are in abundance in meat, not so much in vegetables however, which stunts growth.).
+att(5668, 5627).
+

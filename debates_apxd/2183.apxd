@@ -1,0 +1,15 @@
+arg(root).
+text(root, Most explorers in history have been European).
+
+arg(14542).
+text(14542, Concise Encyclopedia of Explorations lists a total of 274 explorers, of which only fifteen are non-European, with none listed after the mid-fifteenth century.).
+support(14542, root).
+
+arg(14562).
+text(14562, The history was written by europeans. So there is a big bias on this information.).
+att(14562, 14542).
+
+arg(14564).
+text(14564, This is true but should be classed as 'European Exploration' however humans as a whole always explore hence there are humans native to every part of the world).
+att(14564, 14542).
+

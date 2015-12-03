@@ -1,0 +1,35 @@
+arg(root).
+text(root, New kinds of sanctions should be introduced for corporate scandals; such as Volkswagen).
+
+arg(5462).
+text(5462, As we can observe since the Enron case nothing changed and the current corporate governance approach is not succesful to restrain the greed of profit maximization. ).
+support(5462, root).
+
+arg(6147).
+text(6147, Methods used for penalising companies now are not leading them to act more transparent and abide by the law. Lots of recent examples in different industries i.e. VW, Lehman Bros., BP, Siemens. The main drive for huge corporations to go illegal is the expecting impossible success from the companies. ).
+att(6147, root).
+
+arg(5707).
+text(5707, If you're going to sanction one company especially harder for getting caught you're just going to encourage other companies to hide their own mistakes/lies even more which is counterproductive.).
+att(5707, root).
+
+arg(5478).
+text(5478, It is not only about sanctions, it is about regulating the market).
+support(5478, 5462).
+
+arg(5523).
+text(5523, If and when they are created need to be monitered to ensure they don't become overbearing to the point where progress is put over creating healthy environments for everyone to live in.).
+att(5523, root).
+
+arg(5528).
+text(5528, The market aims to produce the most with the least amount of resources possible. So, no, we do not need to monitor how people are making money, but the negative side effects that it can bring. i.e. Volkswagen can make it cheaper, which cost you less money but in turn is ruining the environments.).
+att(5528, 5478).
+
+arg(6110).
+text(6110, We need to find a more efficient deterrence mechanism then we apply to companies right now because the profit maximizing aim forces every company or its officials to invest in illegal profit no matter the level of good governance. ).
+att(6110, 5528).
+
+arg(6624).
+text(6624, a legitimately free market depends upon all companies playing by the same rules. ).
+support(6624, root).
+

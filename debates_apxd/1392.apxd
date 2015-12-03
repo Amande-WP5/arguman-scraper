@@ -1,0 +1,59 @@
+arg(root).
+text(root, Humankind stands to benefit by expanding marriage beyond the scope of indefinite monogamy).
+
+arg(6675).
+text(6675, Polygamy is only one type of non-monogamy. Even if it were true that polygamy inherently led to psychological problems, there are still other types of non-monogamous relationships that could be beneficial.).
+att(6675, root).
+
+arg(6677).
+text(6677, Polygyny does not equal polygamy. If the option to take on additional partners was exclusively available to men, then the women in your study were exposed to sexual discrimination. The contention does not recommend polygyny.).
+support(6677, root).
+
+arg(6439).
+text(6439, It may be necessary to introduce limitations in the interest of broader society.).
+att(6439, root).
+
+arg(6495).
+text(6495, Society is made up of human beings, many of whom are emotionally (or ideologically) attached to the status quo. If the monopoly that lifelong monogamy has had on marriage were threatened, there would inevitably be conflict. The degree of this conflict is unknown, but may outweigh the benefits.).
+att(6495, root).
+
+arg(6451).
+text(6451, Example 1: Wealthy elites could, if unchecked, establish "wife harems". This could be prevented by accompanying marriage licenses with a tax that increases exponentially as an individual accrues marital partners.).
+support(6451, 6439).
+
+arg(6974).
+text(6974, Marriage is a legal contract. Thus, denying them this same contract would violate their rights as the action would be discriminatory towards the LGBT community, causing disturbances as well.).
+att(6974, 6495).
+
+arg(6527).
+text(6527, Criticisms against Polygamous marriages exist. According to one study "Women in polygamous marriages showed significantly higher psychological distress, and higher levels of somatisation, phobia and other psychological problems. ").
+att(6527, root).
+
+arg(6476).
+text(6476, Example 2: It may become necessary to maintain balance in the marital availability of each gender. This could be prevented by restricting non-monogamous marriage licenses whenever the male to female population exceeds 5:4 in other direction.).
+support(6476, 6439).
+
+arg(6408).
+text(6408, Human sexuality is not exclusively monogamous, but varies greatly from person to person.).
+support(6408, root).
+
+arg(6418).
+text(6418, Allowing marital contracts to stipulate "expiration dates" allows couples to form temporary unions, potentially circumventing the need to divorce. Or, for example, to perpetuate their union until their children reach maturity.).
+support(6418, root).
+
+arg(7042).
+text(7042, polygamy fundamentally enables economic abuse by making it easier for wealthy individuals to coerce and control less well off spouses because they can "move on" without an expensive divorce and can instead, simply marry another and neglect the first. ).
+support(7042, 6439).
+
+arg(6611).
+text(6611, It would benefit even more with regulating the adoption laws that the LGBT lobbies are pushing for. Same sex marriage is not the same as heterosexual marriage and children are not objects one can just want and own.).
+att(6611, root).
+
+arg(7047).
+text(7047, more distressing to some does not mean more distressing to all. ).
+att(7047, 6527).
+
+arg(7056).
+text(7056, The healthiness of the relationship is more important to the well being of the child than whether or not "mom" and "dad" both have the same genitals. Straight couples can treat adopted children like objects just like homosexual couples can. ).
+att(7056, 6611).
+

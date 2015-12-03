@@ -1,0 +1,47 @@
+arg(root).
+text(root, Rush is technically the best musical group.).
+
+arg(5533).
+text(5533, All of the musicians are masters of their craft.).
+support(5533, root).
+
+arg(5599).
+text(5599, There are many other bands that fit the same criteria. Rush was inspired by Yes, for example, a group with many more members than Rush, yet still just about all have been masters of their craft, producing countless successful solo albums and even writing film scores with their talents.).
+att(5599, 5533).
+
+arg(5573).
+text(5573, This is only YOUR opinion and it is wrong. Steely Dan over that band, Steely Dan are real musicians making real music. Just MY opinion. ).
+att(5573, 5533).
+
+arg(5666).
+text(5666, It isn't if you view music from a technical standpoint.).
+att(5666, root).
+
+arg(5754).
+text(5754, What about the New York Philharmonic? Or Weather Report? It's nearly impossible to compare technical mastery between genres like this.).
+att(5754, 5533).
+
+arg(5538).
+text(5538, Music is inherently subjective, thus mastery of music is inherently subjective, thus it is meaningless to say that any musician is the "best" or has "mastery".).
+att(5538, 5533).
+
+arg(5542).
+text(5542, Many other bands and solo artists are masters of their craft. Being a master of your craft does not make you the very best at it.).
+att(5542, 5533).
+
+arg(5562).
+text(5562, Ozzie is God).
+att(5562, 5533).
+
+arg(7015).
+text(7015, Rush is Mega Man's dog.).
+att(7015, root).
+
+arg(7024).
+text(7024, I find most of their songs pretty bland, and this topic is subjective.).
+att(7024, root).
+
+arg(7027).
+text(7027, Led Zeppelin and Pink Floyd are better.).
+att(7027, root).
+

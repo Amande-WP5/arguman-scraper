@@ -1,0 +1,11 @@
+arg(root).
+text(root, The Reckless Survive).
+
+arg(11804).
+text(11804, Darwin Awards).
+att(11804, root).
+
+arg(11442).
+text(11442, The cowardly and the un-remarkable survive more. ).
+att(11442, root).
+

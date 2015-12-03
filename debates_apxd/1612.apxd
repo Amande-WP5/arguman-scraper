@@ -1,0 +1,11 @@
+arg(root).
+text(root, Mo is the most wonderful man ).
+
+arg(8725).
+text(8725, He throws empty water bottles into trash cans that are next to recycling bins).
+att(8725, root).
+
+arg(8719).
+text(8719, Because he is thoughtful always and he has a huge heart and the best laugh and smile).
+support(8719, root).
+

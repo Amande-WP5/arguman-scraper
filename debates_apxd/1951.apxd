@@ -1,0 +1,44 @@
+arg(root).
+text(root, If I am "not going" nowhere, that means I am going somewhere.).
+
+arg(13616).
+text(13616, You could just not be going. ).
+att(13616, root).
+
+arg(12719).
+text(12719, Not going nowhere does not necessarily imply that you "are going" somewhere. You could be somewhere that is not nowhere already.).
+att(12719, root).
+
+arg(12747).
+text(12747, You could be not going nowhere because you are already nowhere and you stay there
+).
+att(12747, root).
+
+arg(13713).
+text(13713, You would then say you either:
+1. Aren't going anywhere.
+Or
+2. Are going nowhere.).
+att(13713, 13616).
+
+arg(12776).
+text(12776, I am not going nowhere is always true.
+You never go nowhere, you don’t go, or you go somewhere.).
+att(12776, root).
+
+arg(13704).
+text(13704, A double negative in the English language, which this question is fundamentally about, evaluates to a positive.).
+support(13704, root).
+
+arg(13720).
+text(13720, Your proof is a bit poor.
+Logically your statement means: "It is not the case that I'm going nowhere".
+"I'm going nowhere" can be paraphrased as "I'm not going anywhere".
+If it is put under negation we get "It is not the case that I'm not going anywhere".
+Now, this implies going somewhere.).
+att(13720, 13704).
+
+arg(13721).
+text(13721, We may not be talking about standard English. If we were to take AAVE (African American Vernacular English) into account for example, it would, indeed mean "I'm not going anywhere").
+att(13721, 13704).
+

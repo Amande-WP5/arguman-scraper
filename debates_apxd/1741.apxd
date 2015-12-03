@@ -1,0 +1,191 @@
+arg(root).
+text(root, Morality is absolute.).
+
+arg(10055).
+text(10055, Certain aspects of morality is culturally bound because what may be moral, just and good in one culture is seen as abhorrent and wrong in another.).
+att(10055, root).
+
+arg(10592).
+text(10592, What are those actions and how do you know that everyone shares these? Not everyone agrees on your definition of morality. As has come up multiple times in this thread. For many, morality is by definition subjective. ).
+att(10592, root).
+
+arg(10602).
+text(10602, That's fine. Depending on how you use the term, the answers will vary. To me all that morality is is a collection of morals. Morals are defined as "concerned with the principles of right and wrong behavior and the goodness or badness of human character". I listed the "actions" or wrongs at the top.).
+att(10602, 10592).
+
+arg(10604).
+text(10604, I reckon your view on different societies values would be vastly different if you had been raised in a different context; 
+).
+att(10604, root).
+
+arg(10605).
+text(10605, Perhaps, but the point is that I view morality within the framework of human rights. That which violates a person's basic human rights is immoral in a very real and absolute way, regardless of their background, beliefs, assumptions, and biases. ).
+att(10605, 10604).
+
+arg(10610).
+text(10610, You can't really have a justification for human rights without an absolute morality with which to highlight human rights abuses.).
+support(10610, 10605).
+
+arg(10616).
+text(10616, The concept of human rights is purely based on western philosophy, which is part of the reason why it was never seen as a universal moralic guideline by all of the world, but only by western countries.
+).
+att(10616, 10610).
+
+arg(10558).
+text(10558, a con artist is quite morally okay with dishonesty. Hence, the absolute morality does not apply to them and therefore the absolute morality is not absolute.).
+att(10558, root).
+
+arg(10630).
+text(10630, If morality is absolute, then it is possible for cultures to be objectively wrong about moral truths, so the existence of cultures with differing moral values does not conflict with the premise.).
+att(10630, 10055).
+
+arg(10142).
+text(10142, Prove it).
+att(10142, root).
+
+arg(10644).
+text(10644, And yet, the countries that have the best human rights records invariably have more freedom and prosperity than those that don't. Time has proven the truth and value of human rights theories.).
+att(10644, 10616).
+
+arg(10526).
+text(10526, There are intuitive universal moral imperatives that, when abandoned, lead to societal and individual harm. To kill robs a person of their life and it robs society of a human resource. Greed, rape, oppression, dishonesty, and violence are all universally immoral, regardless of cultural bias/view.).
+support(10526, root).
+
+arg(10671).
+text(10671, By saying that there are "intuitive universal moral imperatives" you are more or less saying that morality is absolute. You cannot assume that morality is objective or absolute in order to show that morality is objective or absolute. This is a form of begging the question.).
+att(10671, 10526).
+
+arg(10672).
+text(10672, Greed cannot possibly be immoral, as that would imply that every single person is immoral all the time. Since all actions are taken in order to try to make the world more in line with the actor's preferences, and therefore every action is 'selfish' or 'greedy'. ).
+att(10672, 10526).
+
+arg(10572).
+text(10572, There are certain scenarios in certain societies where for example killing someone can be the (for those specific societies) morally right thing to do, think honor killing in Albania: 
+).
+att(10572, 10526).
+
+arg(12031).
+text(12031, When two parties are in a discussion and one affirms a claim that the other disputes, the one who affirms has a burden of proof to justify or substantiate that claim).
+support(12031, root).
+
+arg(10552).
+text(10552, Morality is malleable, through time and space. Ethics are absolute.).
+att(10552, root).
+
+arg(10591).
+text(10591, Which is why it's perfectly fine to judge cultures, because killing a human being is wrong, for the reasons that I stated above. It robs humanity of a unique perspective, and robs a person of everything he or she has. Culture is ideologically driven, and therefore, open to objective criticism. ).
+att(10591, 10572).
+
+arg(11848).
+text(11848, the burden of proof is on you, bitch.).
+att(11848, 10142).
+
+arg(11851).
+text(11851, Why? I never understood this argument, I see nothing to indicate that either of the choices takes precedence over the other.).
+att(11851, 11848).
+
+arg(11853).
+text(11853, It is not. If you make such a claim, you have to prove it. It's not my responsability to debunk a non-proven claim.).
+att(11853, 11848).
+
+arg(12041).
+text(12041, Ah I see, but it seems that the burden of proof actually falls on the statement that "morality is absolute" and not the request for proof, at least in the order that it is branched.).
+att(12041, 12031).
+
+arg(10291).
+text(10291, Morality is premised upon the status quo of a particular social or cultural group, in which a whole host of judgements and responses are bound up in it, in order to provide some order and relative understanding amongst the composite people in the group.
+
+Ethics maybe a more reasonable absolute.).
+att(10291, root).
+
+arg(10577).
+text(10577, Morality is defined as a body of standards or principles derived from a code of conduct from a particular philosophy, religion, or culture. In theory, since no particular philosophy, religion, or culture is the same, morality is also not absolute.).
+att(10577, root).
+
+arg(14700).
+text(14700, This is false, as greed would be defined as "excessive self-interest to the detriment of others". It's immoral a priori. One can be selfish without destroying the lives of others, but when you cross that line, you have violated a moral imperative.).
+att(14700, 10672).
+
+arg(10662).
+text(10662, If entire cultures can be wrong about what morality is, while absolutely believing that their actions are moral, what evidence is there that they are wrong? What makes a set of beliefs more "morally correct" in an objective sense?).
+att(10662, 10630).
+
+arg(10532).
+text(10532, This does not mean that everything viewed as immoral by a society truly is wrong, nor that everything viewed as acceptable is right, only that there are several actions that are universally wrong and destructive.).
+att(10532, 10526).
+
+arg(14701).
+text(14701, The only assumption I'm making is that humans are endowed with unalienable human rights. Would you disagree with the proposition that societies that respect the rights of the individual tend to be more free and less oppressive? Objective morality naturally and logically flows from that. ).
+att(14701, 10671).
+
+arg(14714).
+text(14714, Morality is a human creation and therefore subjective. Different groups have different morality complexes with each hinging on a specific system of value. Each values a specific quality or achievement that molds the rest of the morality. They are all based on opinion and not fact, without validity.).
+att(14714, root).
+
+arg(10587).
+text(10587, That's not the definition I was using; and I don't think the original poster meant that either. More informally, I would define morality as: distinguishing right from wrong. e.g. 'this is immoral' or 'that is moral').
+att(10587, 10577).
+
+arg(10564).
+text(10564, Once again, I'm not saying that we all share the same values, I'm saying that there are some actions that are universally wrong. Regardless of how the con artist feels, his actions are destructive to both individuals and society at large, so they are objectively wrong.).
+att(10564, 10558).
+
+arg(15462).
+text(15462, This is not a counter-argument.
+That morality is objective or not, doesn’t change that it is invalid to say : "if culture have different moralities, then morality isn’t objective").
+att(15462, 10662).
+
+arg(15458).
+text(15458, It could be beliefs based on reasons based on goodwill. Ex: If a culture say, kill witches is right; so you can argue that it`s not based on goodwill to the witches. When someone can reject some opinios based on goodwill, then his morality seems weak. But if you can stand long on your base, to ...).
+att(15458, 10662).
+
+arg(15464).
+text(15464, The problem is that you make the assumption that being more free and less oppressing is a good thing.
+You consider it to be a good thing, like i, still it doesn’t imply that 'good' and 'bad' are absolute.).
+att(15464, 14701).
+
+arg(15465).
+text(15465, Your definition is a tautology, that basically say "being selfish, is to prefer what we prefer".).
+support(15465, root).
+
+arg(15459).
+text(15459, You understanding of "moral" and "ethics" differ; I don`t know if the poser wanted this understanding of moral. Obviously you seem to understand "moral" as a set of rules of behaviour. Often "Moral" and "Ethic" are used as synonyms.).
+att(15459, 10552).
+
+arg(15463).
+text(15463, If your definition of 'selfish' imply everyone is a priori 'selfish', that it is logically impossible to not be 'selfish', then your definition of 'selfish' is useless.
+A better definition would be "to consider the well-being of others as something a lot less important than your own well-being".).
+att(15463, 10672).
+
+arg(15466).
+text(15466, Generally we can explain that A is good because of B.
+It count as a explanation because B is more fundamental than A.
+By repeating it, we can found the core of our morality, what a lot of philosophers had do.
+The problem is that we end up with different core moralities.).
+att(15466, root).
+
+arg(15467).
+text(15467, With enough thinking more of these cores are near from each others.
+They basically end up to be different kind of hedonisms. (utilitarianism, negative utilitarianism, prioritarism, etc)).
+att(15467, 15466).
+
+arg(15468).
+text(15468, I would define morality to be "what is good/bad".
+And a ethic to be a attempt to describe what morality is.
+Morality is the thing, and a ethic is a map.).
+att(15468, 15459).
+
+arg(16029).
+text(16029, It doesn’t follow at all.
+The good conclusion is that every statements about morality are "false". (in the sense they are not true).).
+att(16029, root).
+
+arg(15961).
+text(15961, If it is not, then you must accept every ones opinion on morality as truth. If Bob says a=a, and Susan says a=b, only one of them can be truth. ).
+support(15961, root).
+
+arg(16030).
+text(16030, By example speed is relative, then if i say "the ball is going at 8km", it is not true, because it depend of the reference frame, then it is false.
+(but by adding a reference frame i could create a true statement).).
+support(16030, 16029).
+

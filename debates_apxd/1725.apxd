@@ -1,0 +1,83 @@
+arg(root).
+text(root, Technology is leading to the de-evolution of humanity).
+
+arg(10821).
+text(10821, Search engines could promote the human mind to evolve and reference information in a more Transactive manner. This is done by encoding 'meta-data' regarding how to find the desired data rather than actually saving the specific data itself.
+
+We are still using our brains, but in a different manner).
+att(10821, root).
+
+arg(10216).
+text(10216, Technology merely makes it easier for humanity to put their stupidity on display or explore alternative thinking, making the current state of affairs seem more absurd then previously acknowledged.).
+att(10216, root).
+
+arg(10824).
+text(10824, Today's society is much more demanding for intelligence and "brain capacity" than any other time, I don't know what you're talking about).
+att(10824, root).
+
+arg(10789).
+text(10789, To the person who reported me:
+
+Telling someone that they don't understand a concept is not agression. I'm just expressing my point of view with adequate facts.).
+att(10789, root).
+
+arg(9880).
+text(9880, As technology such as search engines get better. People won't need to rely on their minds for information, which leads to brain capacity to decrease in size.).
+support(9880, root).
+
+arg(9884).
+text(9884, De-evolution meaning undoing what it has done for us, such as give us a brain capacity and the ability to think deeply.).
+att(9884, root).
+
+arg(9887).
+text(9887, Questions are answered with the help of technology but answers also lead to a new set of questions, questions that are still questions because technology and critical thinking has yet to catch up.).
+att(9887, 9880).
+
+arg(10019).
+text(10019, People said the same with writing, yet it has largely not come to pass. The problem is not that human capacity for memory is shrinking, but that the pool of useful knowledge growing exponentially.).
+att(10019, 9880).
+
+arg(10020).
+text(10020, De-evolution isn't a thing unless we become less fit to survive in our environment. However, since we largely control our environment, this seems unlikely.).
+att(10020, root).
+
+arg(9989).
+text(9989, Evolution is not a set of stages/stairs, since evolution allows us to adapt in the best possible way to our environment. It is random, not deterministic.).
+att(9989, 9884).
+
+arg(11220).
+text(11220, "Decline in empathy" which in itself is already hard to prove globally, could also easily attributed to how we work socially, not how we work biologically. Also, you couldn't achieve a 40% "decline in empathy" with evolution only in a decade.).
+att(11220, root).
+
+arg(11152).
+text(11152, Over the last 30-years there has been a 40 percent decline in empathy among college students, with most of the decline taking place after 2000.).
+support(11152, root).
+
+arg(11715).
+text(11715, A "decline in empathy" has nothing to do with brain capacity, per se. This could be a reasonably compelling "because" argument for the original premise, but does not support the premise tree we are presently in.).
+att(11715, 11152).
+
+arg(9946).
+text(9946, I disagree with you. You clearly don't understand evolution (The atrophy of an organ doesn't cause the loss of a genetic trait) and also using our computers is still making different areas of the brain work. ).
+att(9946, 9880).
+
+arg(10025).
+text(10025, "Brain capacity" is more than just for storing and retrieving knowledge. Not using your mind to seek information would not decrease brain capacity, but would rather decrease neural connectivity. Our ability to reason comes from our frontal lobe, not brain size.).
+att(10025, 9880).
+
+arg(9882).
+text(9882, Evolution itself does not have a goal. If humans were to eventually evolve into single-celled organisms over time because the conditions allowed the lessening of complexity to be favorable, it would still count as evolution.).
+att(9882, 9880).
+
+arg(10039).
+text(10039, What evidence do you have to support the conclusion that human brain capacity is shrinking?).
+att(10039, 9880).
+
+arg(10841).
+text(10841, It has improved lifespan and safety of or species as a whole, and will continue to do so.).
+att(10841, root).
+
+arg(12377).
+text(12377, Please define de-evolution. De-evolution is not a thing, as "de-evolution" is still genetic change. ).
+att(12377, root).
+

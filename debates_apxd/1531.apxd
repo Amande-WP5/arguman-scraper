@@ -1,0 +1,36 @@
+arg(root).
+text(root, Nothing that all participants freely consented to is immoral.).
+
+arg(15449).
+text(15449, Personal preference is irrelevant as consent doesn't imply personal preference. An act can be without consent and prefered (an unexpected kiss) or consented to and unprefered (an unpleasant conversation)).
+att(15449, root).
+
+arg(15448).
+text(15448, Boiling morality down to harm is presuming a lot.).
+att(15448, root).
+
+arg(8114).
+text(8114, How else can we define 'harm'?).
+att(8114, root).
+
+arg(7985).
+text(7985, This statement assumes that objection to personal preference is the sole proprietor of what constitutes morality ).
+att(7985, root).
+
+arg(14721).
+text(14721, Only if the invested parties are both standing on equal footing in terms of power with regard to the agreement/action.).
+att(14721, root).
+
+arg(14727).
+text(14727, What "freely consented" mean ?).
+att(14727, root).
+
+arg(14728).
+text(14728, * pain/suffering
+* death
+* disability
+* loss of ability or freedom
+* loss of pleasure.
+).
+att(14728, 8114).
+

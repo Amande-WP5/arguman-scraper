@@ -1,0 +1,7 @@
+arg(root).
+text(root, Accounts that frequently commit logic fallacies should be banned from posting on this website).
+
+arg(10890).
+text(10890, A voting system that hides the fallacies might be better.).
+att(10890, root).
+

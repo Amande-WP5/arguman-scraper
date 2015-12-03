@@ -1,0 +1,11 @@
+arg(root).
+text(root, Education is the key for the advancement of our future society).
+
+arg(12373).
+text(12373, If teachers and educators had the status and recognition of celebrities and were paid even half the amount. You wouldn't have 30 kids stuck in a room 8 hours a day with a miserable old bat. If we had charismatic entertainers teaching and inspiring our youth, society would change in a generation.).
+support(12373, root).
+
+arg(12369).
+text(12369, The children are the most important factor that determines our future as a species. The quality of a persons life is dependent upon by the way they were raised, the information they were taught, and the opportunities available to them. The education system in our society needs to be modernized.).
+support(12369, root).
+

@@ -1,0 +1,7 @@
+arg(root).
+text(root, Feminism is not needed).
+
+arg(6594).
+text(6594, It is.).
+att(6594, root).
+

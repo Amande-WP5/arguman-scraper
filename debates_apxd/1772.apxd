@@ -1,0 +1,11 @@
+arg(root).
+text(root, You cannot know for certain that your reasoning is not clouded by your emotions).
+
+arg(10420).
+text(10420, This is correct. Over the course of our lifetime we gather "filters". These filters may come from bad or good experiences. Every new idea goes through these filters and the outcome is a personal opinion that is influenced by our emotions or personal experiences.).
+support(10420, root).
+
+arg(10480).
+text(10480, Maths are a good example of rational thinking which stay truth no matter your emotions ).
+att(10480, root).
+

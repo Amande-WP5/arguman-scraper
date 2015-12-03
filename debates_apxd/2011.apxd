@@ -1,0 +1,7 @@
+arg(root).
+text(root, Crowdfunding is the future.).
+
+arg(13275).
+text(13275, However it is not ideal for many circumstances. Crowdfunding cannot raise the same amount as more established systems. Most crowdfunding systems also do not hold the person / company involved at fault in almost any way if they take the money and run leaving the customers with little recourse. ).
+att(13275, root).
+

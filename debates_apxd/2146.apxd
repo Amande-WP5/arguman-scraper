@@ -1,0 +1,7 @@
+arg(root).
+text(root, Most significant difference between the first-person narrative of Mo Yan's Frog and Yu Hua's to Live).
+
+arg(14434).
+text(14434, Time frame work ).
+support(14434, root).
+

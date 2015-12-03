@@ -1,0 +1,28 @@
+arg(root).
+text(root, America's total household net worth (THHNW) is over $85 trillion, & public and private debt is near 18 trillion. By enacting a 6% annual tax on THHNW, we could & should get rid of income tax, balance the budget, &, within 10 years, eliminate all debt.).
+
+arg(16294).
+text(16294, Wouldn't that encourage people to go into debt (or closely approach it) to avoid paying the tax? ).
+att(16294, root).
+
+arg(16292).
+text(16292, The tax could be progressive in a way that nobody is forced to sell their house and live in the street because of it.).
+att(16292, root).
+
+arg(16003).
+text(16003, Old people with no income but high net worth from a life time of hard work, would be forced to sell their houses and live on the street).
+att(16003, root).
+
+arg(15859).
+text(15859, Effectively, i misunderstood.).
+support(15859, root).
+
+arg(15855).
+text(15855, No it wouldn't. The tax wouldn't apply to people who are in debt because THHNW would subtract it as a liability from the person's assets. Only those who were in the positive would have to pay anything.The tax money would then be applied to government debt and the debt that individuals have accrued. ).
+att(15855, root).
+
+arg(15853).
+text(15853, People already have private debts.
+With this tax, you will decrease the public debt, but increase the private debts.).
+att(15853, root).
+

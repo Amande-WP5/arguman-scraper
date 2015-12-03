@@ -1,0 +1,24 @@
+arg(root).
+text(root, Changing your gender/sex is unnatural ).
+
+arg(15784).
+text(15784, So what ? (Is-ought fallacy)).
+att(15784, root).
+
+arg(15521).
+text(15521, People change sex in many cases because the are uncomfortable with the imposition of gender roles upon them. These gender roles are themselves an artificial construct and are unnatural.).
+att(15521, root).
+
+arg(15519).
+text(15519, Natural=/= right or wrong
+
+Rape is natural but wrong
+Adopting a child is unnatural but right).
+att(15519, root).
+
+arg(15509).
+text(15509, It really depends on your definition of "natural".
+
+By some quite common definitions of "natural", almost nothing a human does is natural.).
+att(15509, root).
+

@@ -1,0 +1,273 @@
+arg(root).
+text(root, Same sex marriage should be legalized).
+
+arg(7121).
+text(7121, antidepressants exist).
+att(7121, 7103).
+
+arg(6920).
+text(6920, All humans are capable of and deserve happiness and love, regardless of gender; sexuality; race; or religion.).
+support(6920, root).
+
+arg(6134).
+text(6134, Religion has developed into a secular and practical institution, and now transcends religion. ).
+att(6134, root).
+
+arg(7077).
+text(7077, This exactly shows that same sex marriage is immoral and against basic human nature, even when estranged from religion. It is not innate in man to have a sexual relationship with another man.).
+att(7077, root).
+
+arg(6936).
+text(6936, Same sex marriage does not lead to unhealthy relationships any more than heterosexual relationships do. Regardless of the legality of marriage two people can still be in a relationship.).
+att(6936, root).
+
+arg(5654).
+text(5654, But not turned into a fashion. Gay pride is just as bad as homophobia, if you exclude the physicality of the religious methods.).
+att(5654, root).
+
+arg(7084).
+text(7084, It is true that certain animal species have traits of homosexual behaviour. However, there are very few species that exhibit such behaviour and even if the species have some gay individuals, the majority of the species is not homosexual. This is not a norm in the animal kingdom, its an exception.).
+att(7084, root).
+
+arg(6244).
+text(6244, Early religions became the law of the land  at that time. Secular government was not possible.).
+support(6244, root).
+
+arg(5661).
+text(5661, True equality is a pipe dream. We are not equal.).
+att(5661, root).
+
+arg(7088).
+text(7088, biological difference is not a basis for societal difference).
+att(7088, root).
+
+arg(7095).
+text(7095, Monogamy is bad as one individual does not give his/her all in a relationship. It corrupts and perverts sacred bond between man and woman, making it much less intimate and meaningful when there is more than one partner.).
+att(7095, root).
+
+arg(6324).
+text(6324, True. Do you ever see straight pride parades? From my experience non-straight people won't stop talking about stuff related to sexuality. Participating members of the LBGT community are just attention whores.).
+support(6324, 5654).
+
+arg(7100).
+text(7100, Evidence for biological difference has been shaky and unreliable with many sources claiming to have different conclusions).
+att(7100, root).
+
+arg(6507).
+text(6507, A minority should be allowed to take pride and increase awareness of their beliefs (in the form of these parades). ).
+att(6507, 5654).
+
+arg(7103).
+text(7103, People with depression exist.).
+att(7103, 6920).
+
+arg(6330).
+text(6330, True, ever since they added tax benefits and you get paid more in some jobs if you're married (like the military).).
+support(6330, 6134).
+
+arg(8483).
+text(8483, It is not a sustainable argument to keep gay marriage banned just because some people might be upset about the legalization.).
+att(8483, root).
+
+arg(5680).
+text(5680, Marriage is in and of itself a religious construct between 'a man and a woman', are civil unions between two people (in the countries that have them) not enough?).
+att(5680, root).
+
+arg(5937).
+text(5937, This seems to be an american fallacy. Officially atheist countries, such as the former soviet union states, had the same marriage institution (and, interestingly, the same homophobia), despite an absence of religion.).
+att(5937, 5680).
+
+arg(5498).
+text(5498, Marriage should be between a spouse and a spouse, not a gender and a gender).
+support(5498, root).
+
+arg(7111).
+text(7111, Homosexuality has been recorded in hundreds of different species of animals).
+att(7111, 7077).
+
+arg(5803).
+text(5803, you are saying communism is inherently bad. It isn't. That is American propaganda.).
+att(5803, root).
+
+arg(5499).
+text(5499, Marriage does not mean anything at all in 21st century).
+att(5499, root).
+
+arg(7113).
+text(7113, Deadly viruses and maneating tigers are also natural. 'Natural' does not mean 'good.').
+att(7113, root).
+
+arg(5688).
+text(5688, But the concept of "Consent" applies at least to the argument against bestiality.).
+att(5688, root).
+
+arg(5943).
+text(5943, The religiosity of marriage seems to be an American fallacy. Officially atheist countries, such as the former soviet union states, had the same marriage institution (and, interestingly, the same homophobia), despite an absence of religion.).
+att(5943, root).
+
+arg(5808).
+text(5808, We should be equal in the eye of the law.).
+att(5808, 5661).
+
+arg(5733).
+text(5733, It being unconstitutional in the US does not imply anything general (for e.g. my country)).
+att(5733, root).
+
+arg(5507).
+text(5507, divorces are so common.).
+support(5507, 5499).
+
+arg(5739).
+text(5739, Marriage should not be legal for anyone. It should be abolished as a legal institution. It should be replaced by registered partnerships in secular states, both for same-sex and opposite-sex couples, since marriage is a religious institution.).
+att(5739, root).
+
+arg(7122).
+text(7122, antidepressants don't work for everyone).
+att(7122, 7121).
+
+arg(5510).
+text(5510, it is quite important for same sex love to be legitimate).
+att(5510, 5499).
+
+arg(7124).
+text(7124, It is entirely possible to love more than one person at a time. You might as well argue that all families should only have one child.).
+att(7124, 7095).
+
+arg(7130).
+text(7130, the capacity to correct depression implies that the biological infrastructure for happiness may exist in all humans, but is not necessarily expressed).
+att(7130, 7122).
+
+arg(5518).
+text(5518, Marriage creates a significant financial advantage that is unconstitutional to deny to same-sex couples.).
+att(5518, 5499).
+
+arg(8149).
+text(8149, 'Natural' does not mean 'good.' Genetic diseases and venomous insects are natural. ).
+att(8149, 7077).
+
+arg(5745).
+text(5745, one's religion is a personal affair. a bond between an individual and god or no bond at all. It can not be imposed on others without sacrificing freedom of religion. As only one religion can be chosen. Using religion as basis for lawmaking would reduce the form of goverment to a theocratie. ).
+att(5745, 5680).
+
+arg(6977).
+text(6977, This is about the legal ramifications of marriage, not a religious ceremony. Marriage grants certain legal privileges to a couple. For example financial and immigration matters. Everyone is considered equal under the law and therefore everyone has the right to marriage.).
+support(6977, root).
+
+arg(5752).
+text(5752, True equality would be akin to communism.).
+att(5752, 5661).
+
+arg(6823).
+text(6823, What's wrong with polygamy?).
+att(6823, root).
+
+arg(6364).
+text(6364, However some studies say that Gay couples tend to hold longer than the average heterosexual one.).
+att(6364, 5507).
+
+arg(5525).
+text(5525, That is because of people underestimating marriage- it's a society problem. It does not have anything to do with the concept of marriage.).
+att(5525, 5507).
+
+arg(5526).
+text(5526, otherwise, gay couples can never reach true equality.).
+support(5526, 5510).
+
+arg(5639).
+text(5639, Both religions and nations have vested interest in population growth, thus, both have interest in marriage. The question then is what makes most sense for population growth. Too many children not looked after is bad for either society, thus, more marriages i.e. family units are better than fewer.).
+att(5639, root).
+
+arg(5529).
+text(5529, if married couples didn't get a financial advantage in the first place it would be a non-issue. why penalize (i.e. not reward) people who choose to remain legally single regardless of sexual orientation?).
+att(5529, 5518).
+
+arg(7144).
+text(7144, It's the fact in of itself that homosexuality is present in other species that might make it "normal." It is well known that homosexuals are the minority, however for something to be normal does not necessarily mean it is the most occurring. This of course begs the question of what defines "normal.").
+att(7144, 7084).
+
+arg(5642).
+text(5642, One might argue the same for polygamy or marriage between man and animal, thus refuting this premise unless there is a principle that sets heterosexual and homosexual marriages apart from these other types.  ).
+att(5642, 5510).
+
+arg(6551).
+text(6551, These homosexual people are basically nonviolently protesting. It's not 'flaunting' theit homosexuality. They are, in a way, fighting for their rights. This is why there aren't and heterosexual pride parades. They rarely feel any oppression, as it is almost unanimously accepted.).
+support(6551, root).
+
+arg(8621).
+text(8621, People like to do it in the butt).
+support(8621, root).
+
+arg(7867).
+text(7867, This presumes that gay marriage is necessary for all humans to be happy and love each other. Given that many people are infuriated by gay marriage, arguing that it is necessary for universal happiness and love is contentious. ).
+att(7867, 6920).
+
+arg(5540).
+text(5540, While getting rid of the tax breaks entirely is morally equivalent and would support a greater separation of church and state, it is unfortunately an unrealistic solution in most, if not all countries that already grant such tax breaks.).
+att(5540, 5529).
+
+arg(6067).
+text(6067, Marriage does not stem from religion. Early religions codified marriage as a way to legitimize themselves, based on the typical mating unit of a pair.).
+att(6067, 5739).
+
+arg(7874).
+text(7874, That`s just a bullshit excuse for beeing a homophobe.).
+att(7874, root).
+
+arg(6998).
+text(6998, While Communism itself isn't bad, it's realistically unobtainable in a world where people are so readily influenced by greed. All forms of "Communism" have just been oppressive, socialist dictatorships, which have all been bad.
+
+Additionally, this argument strays from the topic at hand.).
+att(6998, 5803).
+
+arg(6565).
+text(6565, Gay pride is a celebration of what makes homosexuals different and unique. It is a display of their attitude,  sexuality, and mannerisms. Gay pride is a positive display of individuality, while homophobia is just hatred for what is different and misunderstood. It is bigotry by the ignorant.).
+att(6565, 5654).
+
+arg(8179).
+text(8179, It's unclear what homosexuality is. In those other organisms, the observed behavior could easily be described as a "mating mistake". Homosexuality is probably best described as an "identity movement".).
+att(8179, 7111).
+
+arg(5552).
+text(5552, A major hurdle is the institution and governance of marriage itself. Should marriage be governed by the state then religion should not be a consideration. Marriage is by nature a religious institution. The recognition of marriage within the state is not dictated by belief.).
+att(5552, root).
+
+arg(5560).
+text(5560, Marriage grants significant rights to the couple getting married. These are seen in tax breaks, insurance coverage, hospital visitation rights etc. If it is to be an inherently religious institution, you cannot base civil liberties on it and claim to have separation of church and state.).
+att(5560, 5552).
+
+arg(8194).
+text(8194, Homosexuals are equal in the eyes of the law. They've always been permitted to marry, and the partner eligibility rules are the same for both hetero- and homosexual. They don't want these equal rights, they want substitute rights because the existing rights are unappealing.).
+att(8194, 5808).
+
+arg(7021).
+text(7021, Marriage is a highly sentimental institution that is hardly worth arguing over. Resolving this debate should be very easy, as it is simply frivolous and unnecessary to human life. If you care so much about marriage on either side of the debate, your priorities suck.).
+support(7021, root).
+
+arg(6962).
+text(6962, I had the exact same opinion a decade ago. Then, one of my best friends came out. He cried, I listened, and I realized none of that mattered. It was a matter of the heart, and who he was. His own mother disowned him. He just wanted to love and be accepted, and I finally realized how wrong I was.).
+att(6962, root).
+
+arg(7052).
+text(7052, Homosexuality is rampant across most animal species, and should therefore be considered the norm/what is natural.).
+att(7052, root).
+
+arg(7063).
+text(7063, Most countries provide benefits to married couples under a different name (it doesnt need to be called a constitution for benefits to exist) .).
+att(7063, 5733).
+
+arg(6640).
+text(6640, Same sex couples and opposite sex couples inherently are different because they physically are different or even require different expenses. Saying that they can be equal is not possible. ).
+att(6640, 5526).
+
+arg(6433).
+text(6433, The Pride Parade is a medium for people who are and have been historically discriminated due to their sexuality/gender identity/etc. to celebrate their pride in their being different, regardless of select "attention whoring". There wouldn't be a pride parade for people who historically are majority.).
+att(6433, 6324).
+
+arg(6829).
+text(6829, Not only do heterosexual relationships experience the same downfalls, ("non-traditional and potentially harmful relationships") homosexuality can be observed naturally in various animals. Also (while declining) infertility rates exist - these relationships "go against nature" but are allowed.).
+att(6829, root).
+
+arg(6682).
+text(6682, Same sex marriage renders no benefit to society as a whole (unbeneficial legislation), in many cases is undesired by the majority, encourages non-traditional, and potentially harmful relationships, and generally goes against nature (a relationship that does not have the ability to reproduce).).
+att(6682, root).
+

@@ -1,0 +1,61 @@
+arg(root).
+text(root, Democracy in its current state is fundamentally flawed, as it grossly overestimates the knowledge an average voter has about the political climate and the consequences political actions may have in the long run.).
+
+arg(10359).
+text(10359, With the democratic model currently being used, one places equal value on the opinion of every voter. This is the dilemma; everyone should have a voice, but not all voices are worth listening to.).
+att(10359, root).
+
+arg(10031).
+text(10031, If the political climate itself is flawed, the knowledge of the voter isn't going to change it for the better, unless the climate (and thus the specific democracy) were to undergo radical change.).
+att(10031, root).
+
+arg(10153).
+text(10153, Social democracy is a political movement/ideology, not a form of government.).
+att(10153, root).
+
+arg(11979).
+text(11979, Theoretically yes, but that implies that people will volunteer their time.  Better solution is for political situations and consequences to be introduced more prominently and way earlier in schooling. (Although for this to work, at least in America, the schools would need to be majorly reformed)).
+att(11979, root).
+
+arg(11982).
+text(11982, When the group becomes so large that the population have individual opinions that become irrelevant, unheard, etc., the answer that the group "agrees" upon can often be found to be flawed or an incomplete solution).
+att(11982, root).
+
+arg(10109).
+text(10109, There are no extant democratic forms of government. The closest is the United States, which is still technically a representative republic. The are significant and fundamental differences between the two.).
+att(10109, root).
+
+arg(11986).
+text(11986, This isn't about two different political ideologies purely coexisting. More so how parts of the government have grown and distanced themselves that the average voter feels ineffective and ill-informed as an individual which contradicts a democracy: the power of the people, not the politicians.).
+att(11986, root).
+
+arg(10292).
+text(10292, it is flawed largely by a fundamental paradox: that of the liberal democracy. This political system that advocates a liberalism of individual choice, conflicts with the collective demands of the democratic. They cannot co-exist as they are pure, partially conflicting ideologies in themselves.).
+att(10292, root).
+
+arg(10139).
+text(10139, There are many countries in Europe that operate under a social democracy, where the fallacy of a functioning democracy is not hard to find.).
+att(10139, 10109).
+
+arg(11909).
+text(11909, The USA is not the country whose political system is closest to democracy. Switzerland is closer for example.).
+att(11909, 10109).
+
+arg(11008).
+text(11008, People are uneducated. Massive open online courses could theoretically address the flaw.).
+support(11008, root).
+
+arg(10335).
+text(10335, A large group's aggregated answers to questions involving... general world knowledge... has generally been found to be as good as, and often better than, the answer given by any of the individuals within the group.).
+att(10335, root).
+
+arg(12188).
+text(12188, A democracy that doesn't protect the rights of individuals isn't a democracy, it's an "ochlocracy" / "tyranny of the majority". In fact, far from being contradictory, liberalism and democracy go hand in hand.).
+att(12188, 10292).
+
+arg(12192).
+text(12192, In representative republic we vote for politicians who the big majority don’t really know, and not directly on actual problems.
+And we are given a lot of false and misleading information because some small group of people fight for power or money.
+Then we lost most of the advantage of crowsourcing).
+att(12192, 10335).
+

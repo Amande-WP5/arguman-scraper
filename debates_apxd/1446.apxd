@@ -1,0 +1,27 @@
+arg(root).
+text(root, Evolution doesn't stop below the neck.).
+
+arg(7082).
+text(7082, Evolution is slow paced. Such a change couldn't have happened in the last centuries or milennia. It'd take a longer time for it to cause a perceivable change.).
+att(7082, root).
+
+arg(6963).
+text(6963, There are different skull shapes between races, so we we know there isn't a barrier. The brain is just another organ, why wouldn't it be susceptible to evolution?).
+support(6963, root).
+
+arg(7107).
+text(7107, First of all, it's measurable. Testosterone levels are not a theory.
+
+Second, evolution is slow, correct. But that hasn't stopped there from being obvious change. The brain is an organ, like any other organ, it evolves.).
+att(7107, 7082).
+
+arg(7110).
+text(7110, Your argument that it would take much longer is flying in the face of reason. If it were to take so long, then why do we have races?).
+att(7110, 7082).
+
+arg(6994).
+text(6994, Black men have 20% more testosterone than whit men.
+
+Testosterone is related to aggression and violence.).
+support(6994, root).
+

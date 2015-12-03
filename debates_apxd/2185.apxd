@@ -1,0 +1,11 @@
+arg(root).
+text(root, Both socialism and capitalism can function as economic systems when employed under adequate circumstances.).
+
+arg(15847).
+text(15847, America's best years economically were either times when we underpaid labor (slavery; child labor), or times when we'd just implemented socialist policies (post-depression). Freedom is the key to prosperity, and only socialism offers actual freedom. Capitalist freedom is actually quite expensive.).
+att(15847, root).
+
+arg(14545).
+text(14545, Nations such as the Scandinavian states have succeeded under largely socialist policies and other western states have prospered under capitalism.).
+support(14545, root).
+

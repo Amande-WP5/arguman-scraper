@@ -1,0 +1,60 @@
+arg(root).
+text(root, Why we shouldn't trust market with our civic life).
+
+arg(14334).
+text(14334, There are certain moral and civic goods that markets do not honor and money cannot buy.).
+support(14334, root).
+
+arg(14338).
+text(14338, There're difference between market economy and market society.
+
+The difference is this: A market economy is a tool, a valuable and effective tool, for organizing productive activity, but a market society is a place where almost everything is up for sale.).
+att(14338, root).
+
+arg(14332).
+text(14332, We don't want a society where
+everything is up for sale.).
+support(14332, root).
+
+arg(14337).
+text(14337, The recourse to market mechanisms and market thinking and market
+solutions deepens in bigger arenas.).
+att(14337, 14332).
+
+arg(14339).
+text(14339, Market thinking and market values
+begin to dominate every aspect of life: personal relations, family life, health, education,politics, law, civic life.).
+support(14339, 14334).
+
+arg(14340).
+text(14340, Inequality: The more things money can buy, the more affluence, or the lack of it, matters.).
+support(14340, root).
+
+arg(14341).
+text(14341, With some social goods and practices, when market thinking and market values enter, they may change the meaning of those practices and crowd out attitudes and norms worth caring about.).
+support(14341, root).
+
+arg(14342).
+text(14342, If the only thing that money determined was access to yachts or fancy vacations or BMWs, then inequality wouldn't matter very much.).
+att(14342, 14340).
+
+arg(14344).
+text(14344, The marketization of everything sharpens the sting of inequality and
+its social and civic consequence.).
+att(14344, 14342).
+
+arg(14343).
+text(14343, When money comes increasingly to govern access to the essentials of the good life --
+decent health care, access to the best education, political voice and influence in campaigns -- when money comes to govern all of those things, inequality matters a great deal.).
+att(14343, 14342).
+
+arg(14336).
+text(14336, Today, there are very few things that money can't buy.
+
+E.g.1 Buy queue time in amusement park by Fast Track or VIP tickets.
+
+E.g.2 Cell upgrade in California's jail
+
+E.g.3 Pay the homeless people to take the place at the head of line of for important Congressional hearings).
+att(14336, 14334).
+

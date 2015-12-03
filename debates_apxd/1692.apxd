@@ -1,0 +1,114 @@
+arg(root).
+text(root, There is no life after death).
+
+arg(9736).
+text(9736, The scrolls date back aprox. 2,000 years written in archaic versions of current languages or dead all together. The term "scrolls" also is misleading since these are fragments or incomplete texts.  This seems to help the argument for translation errors and misunderstandings.).
+att(9736, root).
+
+arg(9635).
+text(9635, For what happens to the children of man and what happens to the beasts is the same; as one dies, so dies the other. They all have the same breath, and man has no advantage over the beasts, for all is vanity. All go to one place. All are from the dust, and to dust all return. ).
+att(9635, root).
+
+arg(9654).
+text(9654, I wasn't aware that life was defined as such. I am reported as having committed a fallacy or an appeal to authority. I guess atheist believe their thoughts are merely the results of atomic motion obeying fixed laws of chemistry while rejecting an absolute law giver.  ).
+att(9654, root).
+
+arg(9648).
+text(9648, It is arguable that our physical bodies and its processes do make up a large or,if not, significant portion of what we might call our identity. E.g. predispositions (likes and dislikes, talents), gender, effects from the impressions from our social context etc.).
+support(9648, root).
+
+arg(9646).
+text(9646, These faculties, like others humans have, can be explained through evolution.  This is a simpler, less question-raising alternative, than the existence of an intervening, personal God.).
+att(9646, root).
+
+arg(9655).
+text(9655, Please explain how anything can arise from nothing through the process of evolution. Exactly what is the probability?).
+att(9655, 9646).
+
+arg(9702).
+text(9702, The discovery of the Dead Sea Scrolls in the 1950s discredits the argument about translation errors. There aren't translation errors besides a half dozen very minor spelling differences).
+att(9702, root).
+
+arg(9668).
+text(9668, Your premises should be phrased as statements. Additionally, these statements should have limited scope so that others may respond with 300 characters or less.).
+att(9668, 9655).
+
+arg(9721).
+text(9721, You assume that only a god can create logic, reason, and intelligence. Evolution through millions of years explain why humans can think and make decisions - due to incentives that are placed through logic, reason, and benefits.).
+att(9721, root).
+
+arg(12420).
+text(12420, How material culture (here archeological evidence) can prove something extrasomatic (like life after death)? If, by afterlife, you mean something can be prove in material culture, than you are looking for zombies. And here are archeological evidence, for example "Vampire" burials).
+att(12420, root).
+
+arg(9631).
+text(9631, You believe any other writing has more historical evidence than that of the Bible? While translated, you're aware that we have more than 20 thousand manuscripts? Providing evidence, consistent evidence of existence, more than the existence of Aristotle, Socrates, or even Joan of Arc?).
+att(9631, root).
+
+arg(9885).
+text(9885, Hasty generalization. A low probability is not equal to impossible. What was the probability that YOU would ever be born, from all the sperm that all of your forefathers have passed for hundreds of thousands of years?).
+att(9885, 9655).
+
+arg(9886).
+text(9886, For the atheists who do not belive in free will, yes, that is how it works.).
+att(9886, 9654).
+
+arg(9634).
+text(9634, The evidence is not only limited to the Bible, but by extra-biblical means such as historians, not to mention archaeological findings. ).
+support(9634, 9631).
+
+arg(12523).
+text(12523, A "Soul" is not scientifically verified to exist. Also please frame your participation in the form of a statement. Questions can't be responded to with the available premises.).
+att(12523, root).
+
+arg(9639).
+text(9639, There is no argument without God, for where does logic, reason, and intelligence originate? ).
+att(9639, root).
+
+arg(9889).
+text(9889, There are no archeological evidence for life after death.).
+att(9889, 9634).
+
+arg(9644).
+text(9644, Evidence from neurology points towards consciousness being purely a process that is carried out by the brain. There is no good reason to suppose that consciousness can survive the destruction of the brain at death.).
+support(9644, root).
+
+arg(9645).
+text(9645, There is no historical fact which could prove the veracity of all the claims of the bible. ).
+att(9645, 9634).
+
+arg(9687).
+text(9687, Something cannot come from nothing because all that is has always been.  The word, "nothing" has, unsurprisingly, no content, and so is meaningless. For there to be something that comes from "nothing" is a logical impossibility.  Even in genesis there was always God, and therefore, never nothing.).
+att(9687, 9655).
+
+arg(9621).
+text(9621, Psalm 14:1 - "The fool says in his heart, “There is no God.”).
+support(9621, root).
+
+arg(9625).
+text(9625, A book is not an adequate authority. Particularly one which refers back to itself, is translated multiple times over thousands of years inconsistently, is internally inconsistent and historically inaccurate among other reasons.).
+att(9625, root).
+
+arg(9605).
+text(9605, Not all of us are headed for the same destination. Eternal life is only promised for the Elect - John 3:16-18).
+att(9605, root).
+
+arg(12470).
+text(12470, How do you define "life" and "death"?
+What makes up life? your physical body, your soul and your wills?
+What is death? when your body stops functioning? or the eternal lost of your will?).
+att(12470, root).
+
+arg(12424).
+text(12424, Books made by Scientists who presents their data for the conclusions they have made, and scrutinized by a number of other scientists trying to prove the other wrong called PEER REVIEW, are more reliable than the Bible.
+The Independent review lends credibility to these works.).
+att(12424, 9631).
+
+arg(12406).
+text(12406, but conciousness isn't a form of energy. Conciousness is formed by linking neurons forming "nets" of understanding.).
+att(12406, root).
+
+arg(12392).
+text(12392, Energy can not be created or destroyed, Everything is energy and energy evolves. Consciousness is just a very complex form of energy.).
+att(12392, 9644).
+

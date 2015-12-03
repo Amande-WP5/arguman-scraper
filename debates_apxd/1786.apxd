@@ -1,0 +1,290 @@
+arg(root).
+text(root, Piracy should be banned and punished).
+
+arg(11392).
+text(11392, Not willing to pay the price asked by the author does not justify obtaining it for free through piracy).
+att(11392, root).
+
+arg(11494).
+text(11494, Most online game stores have a refund policy, so pirating just to see if it works encourages pirating out of habit in the future.).
+att(11494, root).
+
+arg(10815).
+text(10815, How does one distinguish between them?).
+att(10815, root).
+
+arg(11898).
+text(11898, Digital copies of a game are unlimited, infinity minus 1 is still infinity, the creator has lost nothing.).
+att(11898, root).
+
+arg(13827).
+text(13827, If you could copy a car you would. Or you'd be mad not to as the rest of humanity passes you by. ).
+att(13827, root).
+
+arg(11799).
+text(11799, Copyright infringement is not theft, there is nothing that the creator had before but no longer has after.).
+att(11799, root).
+
+arg(11681).
+text(11681, One cannot own an idea or anything immaterial for that matter).
+support(11681, root).
+
+arg(14311).
+text(14311, What if it is significantly easier to pirate content and the content is in a friendlier format then when legitimately purchased?).
+att(14311, root).
+
+arg(10681).
+text(10681, Most income for artists comes through concerts, merchandise and sponsorships. ).
+support(10681, root).
+
+arg(11810).
+text(11810, Copyright infringement is not a robbery, there is nothing that the creator had before but no longer has after.).
+att(11810, root).
+
+arg(11823).
+text(11823, This is a recent development, and habits may not have caught up to it.).
+att(11823, 11494).
+
+arg(11903).
+text(11903, If you otherwise would've bought the item, it's the exact same thing as stealing – the mechanics is just different.
+
+Let's say you actually bought the item, and then managed to steal the money, you could argue the same way. There's still nothing the creator had before, but no longer after.).
+att(11903, 11810).
+
+arg(11341).
+text(11341, Just because something is banned doesn't necessarily mean that it should be banned).
+att(11341, root).
+
+arg(12201).
+text(12201, There is no such thing as "stealing a sale". The closest legal concept is "unfair competition", but: you can't prove that there really is a loss of sales; and pirates aren't competing businesses, they don't sell the files, they share them freely.).
+att(12201, root).
+
+arg(11728).
+text(11728, Just because something is not material does not make it legal to copy. Intellectual property includes brands and icons, both of which are illegal to pass of as original).
+att(11728, root).
+
+arg(11729).
+text(11729, It is theft of a product created by an individual or group.).
+support(11729, root).
+
+arg(11918).
+text(11918, That reasoning is invalid. Buying the item and stealing the money are two separate actions, you can't say to the judge "okay I killed someone, but I also gave birth, so we're even".).
+att(11918, 11903).
+
+arg(10651).
+text(10651, It is banned, at least in some countries, and if caught, punishable.).
+att(10651, root).
+
+arg(10680).
+text(10680, There is no guarantee that the pirated product would have been purchased if it had not been available for pirating, so the net loss for the distributor is the same, wether the product was pirated or not.).
+att(10680, root).
+
+arg(11396).
+text(11396, In many cases, it has helped the progress of society. If it weren't for mass-piracy of crucial software (e.g. Windows) in second-world countries, we'd have fewer people knowing how to access the internet today.).
+att(11396, root).
+
+arg(10731).
+text(10731, Some of us are Peace Main Pirates, only the Morganeer Pirates should punished. ).
+att(10731, root).
+
+arg(13722).
+text(13722, Then there will always be an excuse to monitor all digital activity all the time.).
+att(13722, root).
+
+arg(11924).
+text(11924, You can't just decide that there's no right to profit – it's not an argument.).
+att(11924, root).
+
+arg(11988).
+text(11988, You are stealing the development time for the game. When you buy something you can pirate, you are paying for it to be made, not the copy you receive. Similarly to an amusement park: If you sneak onto a roller coaster without paying for it, the park hasn't lost anything but you still stole a ride.).
+support(11988, root).
+
+arg(10874).
+text(10874, In some cases this is because the developer stopped supporting the original product. For instance, in some places emulators are considered piracy. In other cases piracy-prevention measures break the media.).
+att(10874, root).
+
+arg(11989).
+text(11989, Does that mean you cannot own digital money if it doesn't physically exist?).
+att(11989, 11681).
+
+arg(11929).
+text(11929, The analogy doesn't make sense.).
+att(11929, 11918).
+
+arg(11846).
+text(11846, You can't prove the loss of income: you don't know that the "pirates" haven't already paid, won't pay later, or would have paid if "piracy" was impossible.).
+att(11846, root).
+
+arg(12218).
+text(12218, It's always been like that. Artists/Developers are paid peanuts compared to the Label/Publisher that profits over their name.).
+att(12218, root).
+
+arg(12474).
+text(12474, yes because you don't have power over it. it's just a promise that finance institution will give it back to you in form of others goods and services but we know for a fact (Cyprus, bailouts etc) that it's not 100% safe like owning a real thing.).
+support(12474, 11989).
+
+arg(11701).
+text(11701, Piracy is banned and punished, Pirates that have been caught raiding cargo ships have all been punished.).
+att(11701, root).
+
+arg(11897).
+text(11897, There is no right to profit. Even if you could prove that "piracy" results in a loss of profit for the copyright holders, that wouldn't be reason enough to outlaw it.).
+att(11897, root).
+
+arg(11706).
+text(11706, In some countries, games are not legally available. If a fan wants a developer's game, but it is not legally available in their country or region, there is no choice but to either pirate it or to buy a bootleg copy.).
+att(11706, root).
+
+arg(10657).
+text(10657, In the case of music, piracy affects the artist very little since they earn cents on the dollar for each song/album recorded. It negatively impacts the label the artist is under which still doesn't affect the artist much. It is much better to support the music industry though buying merchandise. ).
+att(10657, root).
+
+arg(12220).
+text(12220, DRM is a general nuisance to many just trying to enjoy their media. Piracy is often the only means to get around it.).
+att(12220, root).
+
+arg(11935).
+text(11935, The argument is irrelevant to the initial premise.).
+att(11935, root).
+
+arg(13841).
+text(13841, No, you argued that someone can't own anything immaterial by using the banking system as an example. I responded that when you have money in a bank you do own something immaterial: a claim on the bank's assets.).
+att(13841, root).
+
+arg(11938).
+text(11938, It's an obvious fact that profit is a reward and not a right. If your business goes bankrupt nobody has an obligation to save it, because making profit is not a right.).
+att(11938, 11924).
+
+arg(10797).
+text(10797, Being from a third world country, pirating was my one and only source for music, video games, and movies. ).
+att(10797, root).
+
+arg(11857).
+text(11857, Piracy is an effective way of avoiding DRM).
+att(11857, root).
+
+arg(11942).
+text(11942, If that was the case, there would be no incentive to live of designing, writing and creating anything non-physical.).
+att(11942, root).
+
+arg(12489).
+text(12489, Infinity is not a number, therefore you can't subtract a number from it.).
+att(12489, 11898).
+
+arg(11627).
+text(11627, If I believed the author's price were too steep then the author would not receive my money whether or not I pirated their work, whereas if I wished to enjoy the work then by not pirating it I am depriving only myself.).
+att(11627, 11392).
+
+arg(11957).
+text(11957, Your analogy doesn't make sense. The premise: 
+
+"If your business goes bankrupt nobody has an obligation to save it"
+
+may be true, but the conclusion 
+
+"because making profit is not a right" 
+
+doesn't logically make any sense.).
+att(11957, 11938).
+
+arg(11083).
+text(11083, Many people also pirate a game to try it before they pay for it. Because games do not release demos anymore you have to try the actual game in order to find out if they have horrible optimization, or some other flaw you consider a dealbreaker.).
+att(11083, root).
+
+arg(11084).
+text(11084, Some pirated content cannot be payed for at all, because the original creator either never sold it, or stopped selling it. (See TV soundtracks, old video games)).
+att(11084, root).
+
+arg(11085).
+text(11085, I'm confused. If it's your only source of these things, why do you want to cut off that source?).
+att(11085, 10797).
+
+arg(12018).
+text(12018, The pirate is stealing a sale. The creator of anything expects x number of sales. By pirating he loses a portion of these sales. ).
+att(12018, 11799).
+
+arg(12498).
+text(12498, Non sequitur: something not being part of ℝ is not proof that addition between it and real numbers cannot be defined. In fact there is a definition, see source.).
+att(12498, 12489).
+
+arg(10876).
+text(10876, In some cases the content is not for sale by the producer, but is publicly available on the internet. Should downloading this content be punished, where there is no way to pay for it?).
+att(10876, root).
+
+arg(12023).
+text(12023, The fact that piracy has forced artists into this way of earning money, is not an argument for keeping it that way. This is a kind of Is to Ought Fallacy.).
+att(12023, 10681).
+
+arg(13851).
+text(13851, You are assuming that piracy is what caused that and not the record label looking for extra profit. Artists earnings are poor because record labels set it up that way. Piracy is just an excuse.).
+att(13851, 12023).
+
+arg(11352).
+text(11352, Intellectual property does not exist.).
+att(11352, root).
+
+arg(11886).
+text(11886, It is because the creator virtually has a game which value is 1 so when you buy it he should have -1 (game) +1 ($) = 1 but you took it without paying so he now has 0 (-1 game + 0 $)).
+att(11886, 11810).
+
+arg(10715).
+text(10715, What if you wanted to play something from long ago, no longer sold anywhere, and if it is it costs way too much?).
+att(10715, root).
+
+arg(10613).
+text(10613, Some people download items because they don't have the money, but for a lot of people piracy facilitates the act of not buying items that you normally would have, effectively robbing the content creator.).
+support(10613, root).
+
+arg(12193).
+text(12193, You have not demonstrated a flaw in my logic. Saying that something "doesn't make sense" is not an argument.).
+att(12193, 11929).
+
+arg(14244).
+text(14244, please explain in what way can you own a promise. Because in my dictionary you cannot own something you do not have control over just like promises which can be kept or not and it depends mostly on second party, not you.).
+att(14244, 13841).
+
+arg(14363).
+text(14363, That's a false analogy. A legal claim is not a simple promise, it's a contractual obligation.
+
+Owning a share of a company is another example of immaterial possession.).
+att(14363, 14244).
+
+arg(13805).
+text(13805, You are assuming that coercing people by law is the only way to get them to financially support your work. Patronage has proven this to be false since before copyright was invented.).
+att(13805, 11942).
+
+arg(13823).
+text(13823, isn't that the same what I've written?).
+att(13823, root).
+
+arg(14252).
+text(14252, The analogy is more accurate if you reproduce the amusement ride with your 3d printer and then ride it. 
+
+Preventing people from using their copying machines is not the same as preventing stealing.).
+support(14252, 11988).
+
+arg(13808).
+text(13808, When you put money in a bank account, you no longer own that money, you own a claim on the bank's assets. Whether or not the bank is able to eventually pay you back is irrelevant, it doesn't change the fact that you own a claim.).
+att(13808, 12474).
+
+arg(13828).
+text(13828, Copyrights are bad for artists and everyone. Copyrights are often used for censorship. Its mostly corporations who have leveraged copyrights to the detriment of artists. The fashion industry is much, much larger than the music industry and there are almost no protections for fashion designers.).
+att(13828, root).
+
+arg(13829).
+text(13829, The nature of digital products is they are easy to copy and share. To information copying and sharing is natural. There is no ethic that holds the government with its guns should fight against nature and follow around the digital products you published just to ensure they are not copied and shared.).
+support(13829, root).
+
+arg(13826).
+text(13826, Once you've sold something, you've sold it so it's out there. Nobody forced you to sell or publish it. 
+).
+att(13826, root).
+
+arg(14430).
+text(14430, You are assuming that if the pirate was unable to obtain the copy via piracy, that they would purchase it. Only in that case can it be called "stealing a sale". However we cannot assume that this is always the case.).
+att(14430, 12018).
+
+arg(14211).
+text(14211, Misclick I meant to say but).
+att(14211, 11085).
+

@@ -1,0 +1,23 @@
+arg(root).
+text(root, The tipping culture is unfair and bad economics).
+
+arg(9637).
+text(9637, Why should the customers have the burden placed on them to supplement the waiter's incomes. The restaurants should pay their workers a minimum wage just like any other industry.).
+support(9637, root).
+
+arg(9965).
+text(9965, It offers an easy avenue to pay employees less than the defined minimum wage. Theoretically tipped workers are guaranteed to make the minimum wage with tips, but in practice, who would actually take their employers to court over it and risk losing everything?).
+support(9965, root).
+
+arg(9966).
+text(9966, That is definitionally the job of the employer. It would be a more accurate reflection of the price, more fair to the customer, and more dependable for the employee, if the tip was included in the listed price and given directly to the employees as additional wages.).
+att(9966, root).
+
+arg(9690).
+text(9690, it depends on the environment of the establishment. Tipping can create a very warm, friendly and familial environment where regular customers are beloved and also very happy to tip well ).
+att(9690, root).
+
+arg(9691).
+text(9691, customers are not unfairly supplementing the servers earnings; they are paying them for a job that they are doing. ).
+att(9691, 9637).
+

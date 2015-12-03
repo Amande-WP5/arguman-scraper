@@ -1,0 +1,28 @@
+arg(root).
+text(root, School hurts kids more than it teaches).
+
+arg(8728).
+text(8728, Standardized testing and prioritizing homework as a tool to compensate for a failing curriculum of "teaching for the test" are what hurt students the most. We created a metric by which we assign social and intellectual value to our children based on of they bubbled the right answer choice. Very sad.).
+att(8728, root).
+
+arg(8769).
+text(8769, High education standards need economic stability more, labor is difficult to sacrifice. Economic stability can not be achieved merely by raising education standards, since the process unfolds across generations. There are more important factors; superstition, harsh climate,disregard for human rights).
+att(8769, root).
+
+arg(8520).
+text(8520, Countries with high educational standards happen to be the economically and socially most stable countries compared to countries with low school funding).
+att(8520, root).
+
+arg(8524).
+text(8524, some schools may perform better than others at providing a healthy learning environment than others).
+att(8524, root).
+
+arg(8527).
+text(8527, Many effects of visiting a school may not be noticed easily/ directly
+e.g socialisation; learning how to learn; ).
+att(8527, root).
+
+arg(8798).
+text(8798, Schools are designed to create an obedient class of working people.).
+support(8798, root).
+

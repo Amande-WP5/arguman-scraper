@@ -1,0 +1,31 @@
+arg(root).
+text(root, The Terms of Service of this website should be translated into english).
+
+arg(5888).
+text(5888, you could just copy and paste it in translate.google.com).
+att(5888, root).
+
+arg(5809).
+text(5809, international users should be able to understand the full extent of what is happening when they are using this website).
+support(5809, root).
+
+arg(5815).
+text(5815, translating only half of a website makes the site look like an unfinished project).
+support(5815, root).
+
+arg(5818).
+text(5818, Most of the internet operates in English since its the most widely understood language ).
+att(5818, root).
+
+arg(5828).
+text(5828, English is the most spoken language of most of the world, it's only natural that all websites should at least have a English option. (Outside China, where it's Mandarin.)).
+support(5828, 5818).
+
+arg(5831).
+text(5831, This is an open source project, it will get translated in couple days.).
+support(5831, 5815).
+
+arg(5842).
+text(5842, Open source relies on people wanting to contribute, the law of probability dictates that there's a chance (however extremely unlikely that is) that nobody will translate it, because nobody is obligated to do it.).
+att(5842, 5831).
+

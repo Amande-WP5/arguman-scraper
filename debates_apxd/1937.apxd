@@ -1,0 +1,150 @@
+arg(root).
+text(root, Illegal immigrants should all be deported.).
+
+arg(13504).
+text(13504, Since you said "all" therefore only one instance is required to counter your premise. Initially all refugees appear illegal since often documentation is lacking. Also
+some arrive because our nation and our taxes have funded weapons and war in their home country forcing them to flee for safety.  
+).
+att(13504, root).
+
+arg(12577).
+text(12577, Maybe, but let's take a look at a country obsessed with importing immigrants, shall we?
+Sweden has become the rape capital of Europe over the years.
+The reports of rape in Sweden have skyrocketed ever since it started accepting so many immigrants.
+Using Europe as a pressure valve doesn't work.
+).
+att(12577, root).
+
+arg(12586).
+text(12586, You'd have to prove that those rapes are related specifically with illegal immigrants. Even if you can prove it, I could argue that women and children that are illegal immigrants shouldn't be deported, since they aren't related with those rapes.).
+att(12586, root).
+
+arg(12567).
+text(12567, Some countries could afford to give some of those immigrant the chance to resolve their situation with the country. Deportation could be used as last resource.).
+att(12567, root).
+
+arg(12564).
+text(12564, There isn't an absolute answer).
+att(12564, root).
+
+arg(12530).
+text(12530, Why?).
+att(12530, root).
+
+arg(12562).
+text(12562, you have to take into account the profit that immigrants have brought onto society, not only economical but also cultural).
+att(12562, 12530).
+
+arg(12571).
+text(12571, This "Cultural profit" that you talk about is complete BS.
+Some police officers advise women to wear hijabs when walking down certain neighborhoods because they could otherwise risk getting beaten up by immigrants.
+Immigrants haven't brought anything but violence when it comes to culture.).
+att(12571, 12562).
+
+arg(12584).
+text(12584, is not about a "rape case", or "many rape cases", you are just talking about a single scenario which in this case is people getting rapped, this is not enough to generalize and state that all immigrants in any country are rappists.).
+att(12584, root).
+
+arg(12835).
+text(12835, This allows a country to have better security and protect the economic and social interests of its citizens. I think the first is definitely valid and the next two though selfish have merit. By entering illegally citizens must cede all or some of these benefits which explains the backlash.).
+att(12835, root).
+
+arg(12960).
+text(12960, They are not citizens, they compete with the countries existing populace for general welfare and it is not up for them to decide if they will make life better for the citizens it makes sense that they require permission to enter.).
+att(12960, root).
+
+arg(12961).
+text(12961, I think you are arguing about who should be labeled an I.I. because they are not all bad people (obviously). At the very least if you believe that we should cede any related cultural and economic benefits we should still screen for security measures and deport those deemed to have illegally entered.).
+att(12961, 12960).
+
+arg(12535).
+text(12535, It has been shown countless times that not only illegal immigrants are most of the time not even refugees, but economic migrants, but they often fail to integrate into european society.
+A clear example of this would be Sharia law courts in the UK.).
+support(12535, 12530).
+
+arg(12538).
+text(12538, What do you mean, "Why"? They're in a country illegally. What else can happen? If you're in someone's building, without their permission, do you think they'll let you stay or kick you out? ).
+support(12538, 12530).
+
+arg(12565).
+text(12565, The answer to this varies according to the economical, social and political contexts of each country.).
+support(12565, 12564).
+
+arg(13544).
+text(13544, History is written by the winners. Perhaps it is better to amend the original statement to say that the land belongs to those with he power to hold it.).
+att(13544, root).
+
+arg(12575).
+text(12575, you can not generalize the fact that all countries have the same type of immigrants, it clearly depends on the country and background immigrants have).
+att(12575, 12571).
+
+arg(12576).
+text(12576, You can't use an specific example to validate a fact with many case-scenarios as truth.).
+att(12576, 12571).
+
+arg(12582).
+text(12582, Again, you are using a single, specific case, to make true a statement that involves many variables and case-scenarias. ).
+att(12582, 12577).
+
+arg(12583).
+text(12583, I'm not citing a single case.
+You can read about Sweden rape statistics yourself if you want.
+If you look further, you'll see that also countries like Germany, France, UK and Italy rape reports are starting to go up, fast.).
+att(12583, 12582).
+
+arg(12630).
+text(12630, Why should a person be illegal simply by crossing an arbitrary line drawn on a map by wealthy aristocrats a long time ago? I can cross borders peacefully, yet when I come into your country you label me with a derogatory term and physically force me to leave. That is more harmful than what I did.).
+att(12630, 12538).
+
+arg(12631).
+text(12631, Nothing you stated is reason enough to violently force people to leave. ).
+att(12631, 12535).
+
+arg(13506).
+text(13506, The initial statement says "all" yet you used the term "most of the time" implying that some refugees should not be deported. Therefore your statement directly contradicts the original premise.).
+att(13506, 12535).
+
+arg(12893).
+text(12893, I agree with this completely. The land belongs to whoever was there first. The only problem is, Native Americans might have difficulty running an entire country by themselves...).
+support(12893, root).
+
+arg(13578).
+text(13578, The only thing that differs inhabitants of a country from those who immigrated is the luck of being born in the right country. Thus, the only reason to deport illegal immigrants is their place of birth, which would make it discriminating.).
+att(13578, root).
+
+arg(12909).
+text(12909, You can do that without making second class citizens. No need to be elitist/nationalist. Everyone traveling through your territory doesn't need your permission and shouldn't be labeled illegal and thrust back out again, it's asinine. It's harmful in the long term and it's an archaic solution. ).
+att(12909, 12835).
+
+arg(12910).
+text(12910, That there is, have no link with the fact that it shouldn’t.).
+att(12910, root).
+
+arg(12787).
+text(12787, There should not be any border.).
+att(12787, root).
+
+arg(12820).
+text(12820, There is).
+att(12820, 12787).
+
+arg(12821).
+text(12821, There is.).
+att(12821, 12787).
+
+arg(12822).
+text(12822, oops.).
+att(12822, 12820).
+
+arg(13531).
+text(13531, Native Americans were governing things fine before settlers came.).
+att(13531, 12893).
+
+arg(13532).
+text(13532, More people immigrating to Sweden and more rape reports is a correlation, not a causation.).
+att(13532, 12577).
+
+arg(13508).
+text(13508, Is rape of a Swedish woman worse than a Saudi woman? If Saudi Arabia is a breeding ground for rapists isn't it better that they can finally be punished when they leave? Europe is the place to catch them! Better than deporting so they can rape again. ).
+att(13508, 12577).
+

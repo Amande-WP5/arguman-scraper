@@ -1,0 +1,7 @@
+arg(root).
+text(root, Telecommuting as much as possible should be standard in all offices.).
+
+arg(8638).
+text(8638, Less time is wasted commuting to work.).
+support(8638, root).
+

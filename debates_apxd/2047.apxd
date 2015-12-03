@@ -1,0 +1,20 @@
+arg(root).
+text(root, Once available every parent should alter their children's genes to have as few flaws as possible.).
+
+arg(13560).
+text(13560, It would benefit the child).
+support(13560, root).
+
+arg(13561).
+text(13561, It would reduce medical costs in the long run).
+support(13561, root).
+
+arg(13566).
+text(13566, It would likely end up that a single perfect child template would be chosen every single time, due to its flawless nature.
+This would result in all children not being unique.).
+att(13566, root).
+
+arg(13567).
+text(13567, That's assuming everyone will have access to gene manipulation. If the monetary cost is too high, it will create a gap between rich and poor in terms of intelligence, health, attractiveness etc. on top of the wealth gap.).
+att(13567, root).
+

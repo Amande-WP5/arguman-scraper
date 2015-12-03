@@ -1,0 +1,148 @@
+arg(root).
+text(root, The U.S should kill everyone in the middle east).
+
+arg(8867).
+text(8867, Don`t feed the troll.).
+att(8867, root).
+
+arg(8870).
+text(8870, not to mention the failure of morality behind the annihilation of a couple Human races.).
+support(8870, root).
+
+arg(8871).
+text(8871, assuming middle east = arabs).
+att(8871, root).
+
+arg(7555).
+text(7555, You're arguing trouble with more trouble. You're saying just because there are other places that also have trouble, we should just ignore this place. (Fallacy of relative privation)).
+att(7555, root).
+
+arg(7566).
+text(7566, But nuking or otherwise killing everybody in Middle-East (which contains NATO allies as well) would likely cause nuclear Armageddon.).
+att(7566, root).
+
+arg(6506).
+text(6506, Since we're only there for the oil anyways, saving lots of American lives).
+support(6506, root).
+
+arg(6510).
+text(6510, dont worry, Israel and ISIS are doing a fine job of killing every Arab anyways.).
+att(6510, root).
+
+arg(6511).
+text(6511, Destroying the middle east will kill millions of people in the process. ).
+att(6511, root).
+
+arg(6514).
+text(6514, There will stop being so much drama, 
+Ex:Live ISIS beheadings on the media
+You kinda just get tired of all it. An end all be all.).
+att(6514, 6511).
+
+arg(7585).
+text(7585, How would you organize the genocide?
+
+Using any effective tools (nuclear, biological, chemical weapons) would likely cause counter-strike by some nation.).
+att(7585, root).
+
+arg(6520).
+text(6520, They aren't doing it fast enough. Nothing against middle eastern people, it's just I'd rather have it be one major thing, kill all the warlords, isis,etc. Then we just grab what we need and gtfo.).
+att(6520, 6510).
+
+arg(7433).
+text(7433, There are US citizens and family of US citizens that live in the Middle East. ).
+att(7433, root).
+
+arg(7278).
+text(7278, Oil is a finite resource, at some point it will run out, at which point the above premise fails to hold.).
+att(7278, root).
+
+arg(7439).
+text(7439, If power was the only measure of "right", anyone who had more power than you would be "right" in exploiting you.).
+att(7439, root).
+
+arg(7139).
+text(7139, SWEDEN YES).
+att(7139, root).
+
+arg(6553).
+text(6553, Even though we destroyed the main headquarters of ISIS, the mindset of ISIS will remain elsewhere in the world.  ).
+att(6553, 6514).
+
+arg(8786).
+text(8786, Just because they are a small percentage of the population does not make it morally OK to wipe out the entire population. Ever heard of "throwing the baby out with the bathwater?").
+att(8786, root).
+
+arg(7157).
+text(7157, Problems are subjective; the "world's" problems and the United States' problems are not the same thing. The US's use of extremely violent force with the atomic bomb does not prove  benevolence.).
+att(7157, root).
+
+arg(7161).
+text(7161, The Middle East is made up of much more than just bad guys. Killing "all the warlords, ISIS, etc." is, on top of being a very vague statement, only referencing a miniscule portion of a very populous and culturally rich region in which human beings have lived for millenia.).
+att(7161, 6520).
+
+arg(7164).
+text(7164, We should also avoid Saudi Arabia since they're a first world country and a valuable ally since they use the USD to sell oil, which gives economic stability.).
+att(7164, root).
+
+arg(7167).
+text(7167, Most Arabs smell like crushed dung beetles.).
+support(7167, root).
+
+arg(6578).
+text(6578, not everyone in the middle east is evil - you could end up killing some awesome people, like Noujain Moustaffa. ).
+att(6578, root).
+
+arg(6579).
+text(6579, Just because there is 'drama' doesn't make it okay to wipe out an entire culture. You could find examples of people being shitty anywhere in the world (school shooters in the US, for example).).
+att(6579, 6514).
+
+arg(6583).
+text(6583, Even if they were all evil, that still would not justify us killing them all - just because someone is evil doesn't mean they deserve to die. Who made the US judge, jury, and executioner of the whole world?).
+support(6583, 6578).
+
+arg(6585).
+text(6585, We would be killing millions of innocents in the process, effectively becoming worse than the threat we're trying to prevent.).
+att(6585, root).
+
+arg(6587).
+text(6587, The amount of effort and risk associated with the genocide of several billion people would do more than counteract whatever security is gained in killing the dangerous portion of the population. ).
+att(6587, 6506).
+
+arg(6602).
+text(6602, The problem seems to be with what the media chooses to cover and spend time on, since what is happening in the middle east probably has no direct effect on you whatsoever. Why should millions die because you don't want to change the channel, or find a different source of news?).
+att(6602, 6514).
+
+arg(6606).
+text(6606, We dropped the A bomb. That makes us judge, jury, and executioner. We are the police of the world, and have been dealing with the worlds problems for decades. ).
+support(6606, 6583).
+
+arg(6607).
+text(6607, you already grabbed what you wanted. You're still there for Israel).
+att(6607, 6520).
+
+arg(7517).
+text(7517, The US is currently butting heads with Russia being in syria. Using our tax money, resources etc.).
+att(7517, 6602).
+
+arg(6616).
+text(6616, the US would lose serious global soft power. I.E. we would hurt our standing amongst other countries, which would end up damaging our political agenda.).
+att(6616, root).
+
+arg(7524).
+text(7524, The US has already nuked Hiroshima and Nagasaki, yet is still leading politics and economy.).
+att(7524, 6616).
+
+arg(7059).
+text(7059, We should avoid Isreal because they are a first world country and a valuable ally.).
+att(7059, root).
+
+arg(6628).
+text(6628, The Middle East had over 205 million people in 2010, the overwhelming majority of whom are civilians. Terrorism has killed approximately 170 thousand people since 2006 with many not even being middle-east based. To kill everyone in the Middle East would be a horrible overcompensation.).
+support(6628, 6585).
+
+arg(7542).
+text(7542, Just because they are a small population does not mean they cannot do big harm
+Ex:Blacks make up 12-13 percent of US population, they do 50% of all violent crime).
+att(7542, 7161).
+

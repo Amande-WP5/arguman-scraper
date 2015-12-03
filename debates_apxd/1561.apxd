@@ -1,0 +1,7 @@
+arg(root).
+text(root, A foreigner speaking, it is not okay for NSA to collect private data from rest of the world and Americans should address it more).
+
+arg(8347).
+text(8347, Seconded).
+support(8347, root).
+

@@ -1,0 +1,7 @@
+arg(root).
+text(root, One harms because one suffer. ).
+
+arg(11856).
+text(11856, Naruto).
+support(11856, root).
+

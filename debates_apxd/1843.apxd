@@ -1,0 +1,25 @@
+arg(root).
+text(root, Believing in god causes logical contradictions).
+
+arg(11235).
+text(11235, Sub tree
+ Definition of god: Creator of the universe).
+att(11235, root).
+
+arg(11238).
+text(11238, Sub tree
+Definition of god: Omnipotent being).
+att(11238, root).
+
+arg(11246).
+text(11246, Having a creator doesn't solve the question as to why anything came to existence. If a creator exists, why did he suddenly came to be? The question would still be open.).
+support(11246, 11235).
+
+arg(11248).
+text(11248, An omnipotent being would have the power to solve every problem, shape every human society and bring peace to the world. However, he fails to show his powers. Though he appeared on toast 2 or 3 times.).
+support(11248, 11238).
+
+arg(11257).
+text(11257, Make a new sub tree if you want to make a different definition or add something to the definition).
+att(11257, root).
+

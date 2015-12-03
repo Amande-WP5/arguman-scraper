@@ -1,0 +1,7 @@
+arg(root).
+text(root, Not all people have died, thus we cannot discount the possibility of immortality.).
+
+arg(7041).
+text(7041, However no one has been proven to be immortal. We cannot accept the idea of immortality either.).
+att(7041, root).
+

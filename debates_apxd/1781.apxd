@@ -1,0 +1,39 @@
+arg(root).
+text(root, There should be inbuilt definitions for logical fallacies in arguman).
+
+arg(10984).
+text(10984, In order to improve an argument after a reported fallacy, we need better tools to determine whether a fallacy report is just. ).
+support(10984, root).
+
+arg(11002).
+text(11002, Its open source, anyone can do it, not only the developers).
+att(11002, root).
+
+arg(10583).
+text(10583, The linked wikipedia page does not describe most of the fallacies used here... if any).
+support(10583, root).
+
+arg(10817).
+text(10817, Mouseover text should describe the fallacies, and there should be far more options to choose from.).
+att(10817, root).
+
+arg(10818).
+text(10818, Navigating away from the fallacy reporting tool to read a Wikipedia article is not optimal.).
+support(10818, 10817).
+
+arg(10825).
+text(10825, and but's for but's should be counted as because's on the frontage of arguman ).
+support(10825, root).
+
+arg(10493).
+text(10493, the names of logical fallacies are not descriptive enough).
+support(10493, root).
+
+arg(10714).
+text(10714, The developers are too lazy to do so. ).
+att(10714, root).
+
+arg(10977).
+text(10977, The wikipedia page is darn bland, lacks example, and lacks fallacies.).
+support(10977, root).
+

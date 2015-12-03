@@ -1,0 +1,11 @@
+arg(root).
+text(root, Bush did 9/11).
+
+arg(12683).
+text(12683, Can jet beams melt steel fuel?).
+att(12683, root).
+
+arg(12326).
+text(12326, jet fuel can't melt steel beams).
+support(12326, root).
+

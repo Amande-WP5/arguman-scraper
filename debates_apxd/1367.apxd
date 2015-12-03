@@ -1,0 +1,7 @@
+arg(root).
+text(root, Children's rights should be abolished).
+
+arg(6101).
+text(6101, All individual points of them, right to education, control over own body, right to opinions, etc should belong to each and every person regardless of age. This includes right for shelter and food if person is unable to provide them for himself.).
+support(6101, root).
+

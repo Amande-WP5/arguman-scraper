@@ -1,0 +1,7 @@
+arg(root).
+text(root, adolescents ought to have the right to make autonomous medical choices.).
+
+arg(8888).
+text(8888, It is difficult to set a boundary on what constitutes being an adolescent or not.).
+att(8888, root).
+

@@ -1,0 +1,19 @@
+arg(root).
+text(root, Ethics is not a science).
+
+arg(7079).
+text(7079, Ethics are subjective ).
+support(7079, root).
+
+arg(8568).
+text(8568, In the broad sense, yes. In the narrower sense morality is a specific evolutionary adaptation that performs a useful function. Namely, it helps us to co-operate and work in groups to support each other. Most humans do share very similar sets of basic, core ethics that hugely influence our behaviour.).
+att(8568, 7079).
+
+arg(8544).
+text(8544, It still has a definable outcome.).
+att(8544, 7079).
+
+arg(8548).
+text(8548, You could argue the same about philosophy. However it's conclusions are still viable as scientific material.).
+att(8548, 7079).
+

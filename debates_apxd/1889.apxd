@@ -1,0 +1,526 @@
+arg(root).
+text(root, Modern feminism is a farce designed to further government power, divide the sexes, destroy masculinity, and encourage female irresponsibility. Men have far less rights than women, and women have life far easier.).
+
+arg(12624).
+text(12624, I don't know why, but I accidentally clicked support and I can't undo it.).
+att(12624, root).
+
+arg(11854).
+text(11854, Mother's day, weddings, engagements, and valentines day all revolve around the woman. Society places an expectation on men to please their women during those days. ).
+support(11854, root).
+
+arg(12267).
+text(12267, How would focusing on 50% of the population be a "distraction"?).
+att(12267, root).
+
+arg(12419).
+text(12419, If it is true that feminists fight for equal rights, and it is true that men are disadvantaged in some ways, then it should be the case that feminists, in their pursuit of equal rights fight for equal rights of men in instances where they are disadvantaged. I can find no examples. Do you have a any?).
+att(12419, root).
+
+arg(12512).
+text(12512, I did not put forward the idea that women invented the myth. I didn't even say Feminists invented it. I only brought it up because feminists often use it erroneously despite it having no basis in fact.).
+att(12512, root).
+
+arg(12445).
+text(12445, Many feminist are also against circumcision).
+att(12445, root).
+
+arg(13209).
+text(13209, There is a difference between radical feminism and a needed cry for equality.).
+att(13209, root).
+
+arg(12449).
+text(12449, A lot of feminist disagree with current attitudes on child rearing, including those which are used to determine custody, as well as the right of men to not economically support a child they don't want. ).
+att(12449, root).
+
+arg(12452).
+text(12452, "The Rape is Rape" campaign, which successfully changed and broadened the FBI definition of rape, including adding that men can be the victim of rape as well. Prior to that, men technically couldn't be raped at all. ).
+att(12452, 12419).
+
+arg(12516).
+text(12516, The source you provided does not show it it's a myth.).
+att(12516, 12512).
+
+arg(12453).
+text(12453, Actively expanding awareness on sexual assault in the military and resources for victims of sexual assault in the military, the vast majority of whom are men. ).
+att(12453, 12419).
+
+arg(12455).
+text(12455, (still) lessenting the burden of war as one carried only by men. ).
+att(12455, 12419).
+
+arg(12456).
+text(12456, Expanding awareness and resources of sexual assault of prisoners, again mostly male. ).
+att(12456, 12419).
+
+arg(12519).
+text(12519, Both sources explain how the wage gap has no basis in fact, merely in misrepresented or just wrong statistics. ).
+att(12519, 12516).
+
+arg(12457).
+text(12457, Actively fighting for longer and paid maternity and paternity leave. ).
+att(12457, 12419).
+
+arg(12458).
+text(12458, Fighting against male stereotypes in the same way they do female ones. ).
+att(12458, 12419).
+
+arg(12462).
+text(12462, IQ tests are not valid measures of intelligence; they are largely only valid in giving an idea of competency or cognitive disability. ).
+att(12462, root).
+
+arg(13217).
+text(13217, False. That's not what daft_monk is trying to say at all. They're simply saying that reported and punished rapists exist.).
+att(13217, root).
+
+arg(12412).
+text(12412, So how does this explanation show that women aren't privileged in society? Part of the original argument was the statement that men have less rights than women. Explaining WHY (not that I agree with your explanation) men have less rights does not make it the case that men don't have less rights.).
+att(12412, root).
+
+arg(12328).
+text(12328, There's no point in arguing who has "more rights" or who "has it harder" because it's not comparable. Men and women face different struggles and feminists want men and women to have all of the same rights.).
+att(12328, root).
+
+arg(12464).
+text(12464, Not all women are attractive and attractiveness is determined by the male gaze. i.e. a male's physical desire for a woman is what determines her value according to your premise.).
+att(12464, root).
+
+arg(12465).
+text(12465, Again, this is not stuff that feminism supports and they have actively argued against. ).
+att(12465, root).
+
+arg(12635).
+text(12635, Women earn less on almost all career choices. ).
+att(12635, root).
+
+arg(12638).
+text(12638, This study has been done in multiple different years, and each of the studies have had similar rates of rape between men and women, and yet the life times are always disproportionately women. ).
+att(12638, root).
+
+arg(12640).
+text(12640, According to the study, about 1/5 of men who have been raped in their entire life times were raped in that one 12 month period. The other 3 studies that find similar rates would suggest that almost all male victims of rape were raped in the 4 years of those studies? I doubt it. ).
+support(12640, 12638).
+
+arg(12649).
+text(12649, Is North Korea not being a democratic country an example of the No Scotsman Fallacy? We are not redefining feminism. They just don't fit in the definition.).
+att(12649, root).
+
+arg(12397).
+text(12397, your source that talks about violent crime says that women are subject to less violent crime like homicide and shootings, excluding rape. There is no support of your claim that women are "less likely to be a victim of trauma or violence including rape.").
+att(12397, root).
+
+arg(12656).
+text(12656, The question is flawed. Feminists fight for equality for women to those of men. Feminism attempts to bring balance between the genders by fighting for women's rights. It does not focus on men's rights per se. Feminists also fight for gender-neutral issues, such as paid parental leave, etc.).
+att(12656, root).
+
+arg(12657).
+text(12657, They are arguing against the 1/3 less wage gap, based on raw data. There remains a wage gap even when adjusted for variables such as career choice, education level, etc.).
+att(12657, 12519).
+
+arg(12659).
+text(12659, They also fought for many mens' issues, such as sexual assault in the military and rape being called rape for men as well).
+support(12659, 12656).
+
+arg(12660).
+text(12660, It should be a "but", not a "however".).
+att(12660, root).
+
+arg(12675).
+text(12675, Read the chart and look for "female" career choices).
+att(12675, root).
+
+arg(12676).
+text(12676, That is true. Wish they didn't take away the editing feature completely. ).
+support(12676, 12660).
+
+arg(12854).
+text(12854, Just click the support button again, it works for me).
+att(12854, 12624).
+
+arg(12115).
+text(12115, Saudi Arabia isn't a third world country, it's by all means a first world country, they have a strong economy, they have a lot of money, and they have an arguably stable government).
+att(12115, root).
+
+arg(12354).
+text(12354, do you have a source to prove all of those assertions?).
+att(12354, root).
+
+arg(13626).
+text(13626, If women are more successful academically then male advantages in education are either not effective or absent. ).
+att(13626, root).
+
+arg(12459).
+text(12459, Changing the attitude that men have to be the sole bread winner or that women should be the stay at home parent.).
+att(12459, 12419).
+
+arg(12297).
+text(12297, They do not. The wage gap is one of the most persistent feminist myths of all time. ).
+att(12297, root).
+
+arg(12355).
+text(12355, Women make less than men with the same education. Women make less than men with the same degree.).
+att(12355, 12297).
+
+arg(12311).
+text(12311, The hijab is just one women's rights issue in Saudi Arabia.).
+att(12311, root).
+
+arg(12356).
+text(12356, circumcision is a choice, and it does not cause the same amount of harm as common female genital mutilation, which is usually intended to harm. Circumcision isn't usually intended to harm the person.).
+att(12356, root).
+
+arg(12357).
+text(12357, First, second, and third world countries are determined by participation in the Cold War and their respective sides. ).
+att(12357, 12115).
+
+arg(12360).
+text(12360, This might seem like a nitpick, but third world countries are countries that did not take a side during the Cold War, not developing countries.).
+att(12360, root).
+
+arg(13069).
+text(13069, A man can't abort a fetus he doesn't have. A man can't prevent a woman from having an abortion because it's illegal to force others to do or not do things. When a relationship consists of two people, both can't have equal say in all things. The child is born in the mother, therefore she gets rights.).
+att(13069, root).
+
+arg(12363).
+text(12363, No, women are required by law to wear one. Women aren't even allowed to drive. There are a lot of other problems like torture and arming terrorist groups. Complete disregard to humans' rights is the real cause of the female inequality, and that's what should be targeted.
+).
+att(12363, 12311).
+
+arg(12364).
+text(12364, Why would women invent this myth?).
+att(12364, 12297).
+
+arg(11759).
+text(11759, Men who use self-defense against women are likely to be charged with assault rather than treated as a victim.).
+support(11759, root).
+
+arg(11763).
+text(11763, Women are more likely to initiate all forms of domestic violence, especially child abuse. Despite this, women are given significant leverage over men in family courts. Women can destroy a male's attractiveness and future romantic prospects by saddling him with debt from child support and alimony.).
+support(11763, root).
+
+arg(13070).
+text(13070, I'm not saying this position is definitely right. It certainly isn't perfect. Maybe it will change. Some feminists think it should. However, it makes enough sense. Enough so that we should realize men aren't being screwed over. If there's anything that bring politics to its knees, it's babies.).
+att(13070, 13069).
+
+arg(11754).
+text(11754, Male genital mutilation is legal in every single country in the form of circumcision.).
+support(11754, root).
+
+arg(12372).
+text(12372, Many feminists attribute this, as well as the lack of resources for male victims of rape, to a culture of masculinity with dangerous repercussions across the sexes. Feminism works to target this culture to the benefit of men and women.).
+att(12372, 11759).
+
+arg(11765).
+text(11765, A woman merely needs to be physically attractive to have her fair share of suitors. However, men are expected to be financially stable and sacrifice time and resources in courting. ).
+support(11765, root).
+
+arg(12365).
+text(12365, I have never met a feminist who didn't enjoy these things like any other woman.).
+att(12365, root).
+
+arg(12268).
+text(12268, Women make less than men for the same work.).
+att(12268, root).
+
+arg(11758).
+text(11758, A man has no legal rights to abort a fetus, or prevent his partner from terminating his offspring.).
+support(11758, root).
+
+arg(12895).
+text(12895, You have no evidence to conclude that any feminists are for it, either.).
+support(12895, root).
+
+arg(12896).
+text(12896, So, you're saying that physically unattractive or plain men can still be attractive partners if they are finantially stable and take the time to get to know the person they're dating, but if women aren't physically attractive, they're screwed? That doesn't seem to support the argument...).
+att(12896, 11765).
+
+arg(13071).
+text(13071, Women are raped all the time with no repercussions on the rapist, even when brought to court. The law will never be able to get everything right. If it doesn't balance out, it's still probably in men's favor (although I admit that's impossible to prove).).
+att(13071, 11759).
+
+arg(12899).
+text(12899, Maybe, but the previous premise says that women make less than men with the same degree.).
+att(12899, root).
+
+arg(12492).
+text(12492, What "should" be targeted is a matter of opinion and preference.).
+att(12492, 12363).
+
+arg(11764).
+text(11764, 
+Women are more likely to be incarcerated for less time or not at all for the same crime as men.).
+support(11764, root).
+
+arg(11751).
+text(11751, Women are exempt from military draft conscription in countries where it exists.).
+support(11751, root).
+
+arg(12353).
+text(12353, Citation is definitely needed to support the claim that feminism "is a farce." Most of these topics only talk about how women have it better than men in the cases listed while not connecting them whatsoever to the first part. ).
+att(12353, root).
+
+arg(12493).
+text(12493, Having other problems does not mean women's rights issues should not be discussed/addressed.).
+att(12493, 12363).
+
+arg(13073).
+text(13073, This is only because the law has perhaps swung a bit too far in the direction of trying to protect women. We should be understanding. For 95% of human history men were able to have their way with women with little or no consequence. A movement happened; now men bitch and moan at every imperfection.).
+att(13073, 11759).
+
+arg(12494).
+text(12494, The entire premise of this argument is complex, posited without support, and written to be inflammatory.
+
+This argument should be divided into no less than 5 separate ones.).
+att(12494, root).
+
+arg(12729).
+text(12729, A lot of people that call themselves "feminist" and write articles and blogs, aren’t feminist.
+Because the very misleading name, makes them believe feminist is about women, and not about sex equality.
+The good move would be to change the name, what a lot of true feminist did.).
+support(12729, root).
+
+arg(12495).
+text(12495, Showing that women are only able to get jobs more traditionally female-oriented does not show women invented a myth about a gender pay gap.).
+att(12495, root).
+
+arg(12733).
+text(12733, Citation needed. ).
+att(12733, 12657).
+
+arg(12734).
+text(12734, Citation needed. Merely saying "Feminists are against it" isn't enough. ).
+att(12734, 12465).
+
+arg(12497).
+text(12497, This may be due to a culture that encourages men to pursue those degrees over women.).
+att(12497, root).
+
+arg(12499).
+text(12499, That may be due to gender bias in the first place.).
+support(12499, 12495).
+
+arg(12395).
+text(12395, Have you ever seen a modern feminist trying in any way to help men in the name of 'equal rights'? ).
+att(12395, 12328).
+
+arg(12503).
+text(12503, The amount of harm it causes compared to another form of GM is irrelevant. The child's human rights are still being violated. ).
+att(12503, 12356).
+
+arg(12359).
+text(12359, just because circumcision is bad doesn't mean that it is worse enough to outweigh female genital mutilation.).
+att(12359, root).
+
+arg(12402).
+text(12402, This is mearly speculation. You don't have any research or studies on this, other than your personal opinion and experience.).
+att(12402, 12365).
+
+arg(13607).
+text(13607, There is also a Father's Day, weddings are about the couple, women can and have asked men to marry them, and wives/girlfriends also do nice things or get their husbands/boyfriends gifts for Valentines Day.).
+att(13607, 11854).
+
+arg(12396).
+text(12396, Women choose different degrees on average than men (for instance, petroleum engineering vs sociology.) 
+Women choose different specialties than average than men. (for instance, pediatrician vs cardiology.)).
+att(12396, 12355).
+
+arg(12758).
+text(12758, Seriously, why did they take away the editing feature at all, how correcting the mistakes we did could be a bad thing ?).
+support(12758, 12676).
+
+arg(13042).
+text(13042, Women take time off for family and maternity leave, this is accepted by society.).
+att(13042, 12396).
+
+arg(12340).
+text(12340, Per job, women make the same pay. But women still take lower-paying jobs. In this way, the pay gap still exists.).
+att(12340, 12297).
+
+arg(12361).
+text(12361, Just because a problem is not as bad as another issue doesn't mean we shouldn't treat it. Treatment of women in developed countries are much better than developing countries, yet there is still much to be made better.).
+att(12361, 12359).
+
+arg(12508).
+text(12508, This is a No True Scotsman Fallacy. ).
+att(12508, root).
+
+arg(12332).
+text(12332, Feminists are against this.).
+att(12332, 11751).
+
+arg(11835).
+text(11835, Women are more vocal about their problems than men. This creats the impression that they're facing signifcantly more problems under the availability heuristic).
+att(11835, root).
+
+arg(12334).
+text(12334, Feminists are against gender stereotypes like these.).
+att(12334, 11854).
+
+arg(12390).
+text(12390, Male genital mutilation is not a choice, they force it on infants.).
+att(12390, 12356).
+
+arg(13659).
+text(13659, You misunderstand. My point is that many rapists go unconvicted, not that all of them do. ).
+att(13659, root).
+
+arg(12379).
+text(12379, It's a reasonably intuitive conclusion to arrive upon, but it doesn't look at the big picture. For some reason, the market highly favors women taking jobs that are socially oriented and thus don't take risks or innovate; grade school teachers, child caretakers, psychotherapists, etc.).
+support(12379, 12364).
+
+arg(12381).
+text(12381, It's basic human nature. If you oppress a group of people, i.e. men or mankind in general, they will also act irrationally and violate others in order to do whatever it takes to be at inner peace.).
+support(12381, 12363).
+
+arg(12367).
+text(12367, Many women choose to stay home and take care of kids. It is natural that less women will make it to more demanding higher paying jobs.).
+att(12367, 12340).
+
+arg(12370).
+text(12370, I agree the definition is rather authoritative and doesn't consider recent history, but I wouldn't consider gender issues in fully industrialized nations to be comparable to nations which are theocratic or developing etc.).
+support(12370, 12357).
+
+arg(12376).
+text(12376, I apologize, here is something I used in another thread using google to verify my beliefs and statistics I've heard. I think the status quo which slightly favors education credentials over measurable intelligence is skewed, and comes at a cost which most people aren't analyzing from this perspective).
+support(12376, 12354).
+
+arg(12410).
+text(12410, This is largely irrelevant, because EVEN IF it were the case that FGM were always worse than MGM (which it's not.) FGM is still illegal in the united states, where as MGM is perfectly legal, and common place. Also, you're making an informal fallacy called 'Fallacy of relative privation'.).
+att(12410, 12359).
+
+arg(12393).
+text(12393, You cannot say that all FGM is worse than MGM because many forms of FGM are less severe than the typical MGM. but ALL forms of FGM (even those less severe than typical MGM) are illegal. Your claim that FGM is worse is unfounded.).
+att(12393, 12356).
+
+arg(12391).
+text(12391, Not all female genital mutilation is not necessarily worse than male genital mutilation. In fact, the typical male genital mutilation (called circumcision in america) is worse than some of the common forms of female genital mutilation (things like a 'ritual nick').).
+att(12391, 12359).
+
+arg(12394).
+text(12394, Men also have no right to decide not to become responsible for a child once it's conceived. If the woman chooses, she can force the man to pay hundreds of dollars a year to support her choice to be a mother. All mothers however, are mothers by choice, due to abortion, adoption, and safe haven laws.).
+support(12394, 11758).
+
+arg(12511).
+text(12511, STEM encouragement is only a very recent development.).
+att(12511, root).
+
+arg(12507).
+text(12507, This is a no true Scotsman fallacy which isn't in the fallacy list I believe. Some feminists fight against men's rights just as some fight FOR them; both using the brand "Feminism". Some feminists for example have actively and successfully stood in the way of shared parenting laws. ).
+att(12507, root).
+
+arg(12502).
+text(12502, Women are being governmentally encouraged to take STEM field positions over men. Not only that but when hiring, studies find a gender discrimination in women's favour despite having the same level of education. ).
+att(12502, 12340).
+
+arg(12509).
+text(12509, Your claim is that feminists are against women being exempt from the draft but your source only shows it was mostly male places like congress and the supreme court who upheld the male draft. It tells us feminists have helped but has no outside sources to back it up, making it useless conjecture.).
+att(12509, 12332).
+
+arg(13075).
+text(13075, Someone who reported this for "appeal to belief" should really explain how it's fallacious. Thanks.
+).
+att(13075, 12390).
+
+arg(11825).
+text(11825, In Saudi Arabia, elections are enacted at the discretion of the current office, execution used for minor offenses, defendants have no right to representation, there is no religious freedom, torture is an acceptable form of punishment, political prisoners are detained, and censorship widespread.).
+support(11825, root).
+
+arg(13208).
+text(13208, By this reasoning, no one who has ever committed rape would be in jail/no one who has committed rape in the past year would be in jail. Such a statement is deliriously illogical, biased and sourceless.).
+att(13208, 13071).
+
+arg(11787).
+text(11787, If you look at the whole world, without ignoring third world countries, feminism is needed. An example is Saudi Arabia where women are treated like second class citizens.).
+att(11787, root).
+
+arg(12454).
+text(12454, Working to remove stigma on sexuality and expanding what is viewed as "acceptable" sexual interest for everyone. Fighting against notions that men only enjoy aggressive, assertive, vaginal penetration of women and cannot acceptably be interested in being penetrated or being passive or dominated. ).
+att(12454, 12419).
+
+arg(12327).
+text(12327, "Modern feminism" has no definitive definition. While some may use feminism to do those things you said, true feminists just want men and women to have the same rights.).
+att(12327, root).
+
+arg(12461).
+text(12461, Neither should those people who are against men be taken as the only voice of feminism. ).
+att(12461, root).
+
+arg(12652).
+text(12652, North Korea is a "Democratic Republic," yet it is blatantly obvious that they are neither. It is not a No True Scotsman if we are not redefining the word. ).
+att(12652, root).
+
+arg(12418).
+text(12418, This is a 'No True Scotsman' fallacy. Feminism is more than just what you consider to be 'true feminism'. People who call themselves feminists, act in the name of feminism, are commonly identified as feminists,and act counter to your definition of feminists mustn't be excluded from consideration.).
+att(12418, root).
+
+arg(12417).
+text(12417, If it is true that feminists fight for equal rights, and it is true that men are disadvantaged in some ways, then it should be the case that feminists, in their pursuit of equal rights fight for equal rights of men in instances where are disadvantaged. Yet, I can find no examples.).
+att(12417, root).
+
+arg(12398).
+text(12398, not all feminists are the same. The "true" feminist want equal rights for women, not necessarily more rights for women and less for men.).
+att(12398, root).
+
+arg(12628).
+text(12628, Yes I have.).
+att(12628, 12395).
+
+arg(12289).
+text(12289, The oppression of women stems from superstition and an overwhelming state that disregards all human rights. You would be more successful trying to convince people they don't need their doctrines and encourage secular thought, rather than campaigning for women to take off a hibab so men attack them.).
+support(12289, 12267).
+
+arg(12258).
+text(12258, That's incorrect, it is a third world country. Even China is considered a third world country, and it is the second/third strongest economy in the world. Saudi Arabia is a theocratic dictatorship and the fact that it is a close ally of the first world illustrates how compromised our ideals our.).
+att(12258, 12115).
+
+arg(11819).
+text(11819, A third world country is not a "modern" place, and doesn't apply to third wave feminism. In the regions of the world where women are explicitly treated as second class, there is a complete disregard for human rights in general and focusing on women is a distraction.).
+att(11819, 11787).
+
+arg(12623).
+text(12623, that picture is only true for a twelve month period in 2010. In the lifetime column of that picture, women are raped much more than men and it actually is contradictory to your argument.).
+att(12623, root).
+
+arg(12411).
+text(12411, If we assume that the definition of rape is coerced sex, or sex against your will, or having sex you didn't consent to, or having sex you didn't want, then according to the CDC, men are raped in near equal numbers to women.
+
+).
+att(12411, 12397).
+
+arg(12400).
+text(12400, While women may have higher levels of education on average, the classroom is still focused towards the male students. In class discussions, they are  interrupted far more than their male counterparts, and get in much less speaking time.).
+att(12400, root).
+
+arg(11756).
+text(11756, Despite having greater enrollment in college, a lower high school dropout rate, receiving less or no punishment for the same crime as men, and being less likely to be a victim of trauma or violence including rape, women still score lower than males on IQ tests on average.).
+support(11756, root).
+
+arg(12414).
+text(12414, You claim "Feminism works to target this culture to the benefit of men and women." but can you show me one example where feminism has benefited men as you claim?).
+att(12414, 12372).
+
+arg(12466).
+text(12466, "being successfully stable" and "sacrifice time and resources" are all active processes that show capability. Part of the feminist movement is that women want to be able to do those things and take on those roles as well. Many women don't want to "just have to be attractive". ).
+att(12466, 11765).
+
+arg(12672).
+text(12672, That is due to the choices Women make.).
+att(12672, 12635).
+
+arg(12911).
+text(12911, With the same education, women make less. 
+
+With the same degree, women make less. 
+
+Among all the career choices, women make less.).
+att(12911, 12733).
+
+arg(12413).
+text(12413, You claim that "feminism works to target this culture to the benefit of men and women". The original premise was that feminism is playing a part in destroying masculinity, it seems to me that your claim here, if true, reaffirms part of the original premise.).
+att(12413, 12372).
+
+arg(12358).
+text(12358, The current widespread (not the Jewish cultural) practice of circumcision, in the United States, originated to stop males from masturbating. There is no real other justification for circumcision other than tradition. 
+Children are circumcized, and it is not a choice by them, much like fem circum. ).
+att(12358, 12356).
+

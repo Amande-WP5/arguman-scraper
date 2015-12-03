@@ -1,0 +1,7 @@
+arg(root).
+text(root, Copyright laws should be completely reformed (not abolished)).
+
+arg(6646).
+text(6646, technology is outpacing law - we need to reform laws to keep up and anticipate future potential legal problems. ).
+support(6646, root).
+

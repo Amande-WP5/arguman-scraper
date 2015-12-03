@@ -1,0 +1,7 @@
+arg(root).
+text(root, There is no meaning of life, but to make a meaning for yourself.).
+
+arg(6835).
+text(6835, Whatever meaning you make for yourself would just become "the meaning of life" from the first half of the sentence).
+att(6835, root).
+

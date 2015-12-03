@@ -1,0 +1,87 @@
+arg(root).
+text(root, People do not know what fallacies are).
+
+arg(7203).
+text(7203, Maybe they know, but they get butthurt and hope to undermine a hard to swallow argument by spamming fallacies.
+
+Wish there was a way to report unjust reports.).
+att(7203, root).
+
+arg(7198).
+text(7198, The link provided does not have listing for every fallacy provided in the selection box, either verbatim or as anything recognizable. Furthermore, providing the definition of a fallacy does not impart the ability to properly recognize said fallacy.).
+att(7198, root).
+
+arg(6635).
+text(6635, Fallacies do not have context. They have very clear definitions. There is only one right way to use them. If the fallacy doesn't exist in the statement then it is being used wrong.).
+att(6635, root).
+
+arg(6931).
+text(6931, I don't have a beard.).
+support(6931, root).
+
+arg(6648).
+text(6648, A fallacy used correctly!).
+att(6648, root).
+
+arg(6655).
+text(6655, You do not know what prejudicial language is. 
+
+I was not making any sort of opinion based statement here. I was stating the fact that there is a website that lists the fallacies that you can read.).
+support(6655, root).
+
+arg(6696).
+text(6696, You also do not know what slippery slope means).
+support(6696, root).
+
+arg(6713).
+text(6713, How is a statement regarding a website being linked to with definitions on it be any kind of fallacy? It is a fact. There is a website. You can click the link. And it has the definitions to all the fallacies.).
+support(6713, root).
+
+arg(7117).
+text(7117, You're not wearing your jean shorts.).
+att(7117, root).
+
+arg(7071).
+text(7071, Tobias Funke).
+support(7071, root).
+
+arg(7125).
+text(7125, It depends on your definition of people. Are these "people" the general public? By "people" do you mean people who do not know what fallacies are? This claim could be argued either way depending on that definition.).
+att(7125, root).
+
+arg(7147).
+text(7147, It contains way more fallacies then there are on this site and takes a fair bit of time to find each one.).
+att(7147, root).
+
+arg(6598).
+text(6598, But they disagree with your opinion and slap a fallacy on it anyway.).
+att(6598, root).
+
+arg(6600).
+text(6600, There is a very easy to understand link that this site provides that explains them to you. Here it is again.).
+att(6600, root).
+
+arg(7195).
+text(7195, Your momma is phat, P.H.A.T.).
+support(7195, root).
+
+arg(7207).
+text(7207, While it is true that there is a link to a list of fallacies, this precludes the assumption that the list is both correct and complete, which it is not. Additionally, this does not address that merely having definitions available imparts correct understanding.).
+att(7207, 6713).
+
+arg(7209).
+text(7209, You should get one).
+att(7209, 6931).
+
+arg(6621).
+text(6621, People understand fallacies in many widespread sources.).
+att(6621, root).
+
+arg(6622).
+text(6622, You don't know what "slippery slope" means).
+support(6622, 6600).
+
+arg(6632).
+text(6632, You don't know what the "argument of the beard" is).
+support(6632, 6600).
+

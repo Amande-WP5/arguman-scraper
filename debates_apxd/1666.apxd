@@ -1,0 +1,15 @@
+arg(root).
+text(root, There should be an app like tinder but for jobs. Like hey you have 42 jobs that meet your qualifications near you. Then the company can swipe left for awful applications.).
+
+arg(9438).
+text(9438, An app like this would likely result.in the companys becoming increasingly more picky. ).
+support(9438, root).
+
+arg(9439).
+text(9439, The layout of the app would suggest a near endless well of suitable employees. That can easily be browsed and it takes no work to deny an application).
+support(9439, 9438).
+
+arg(9490).
+text(9490, This already exists!).
+support(9490, root).
+

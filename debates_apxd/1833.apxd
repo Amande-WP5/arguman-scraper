@@ -1,0 +1,34 @@
+arg(root).
+text(root, humanity is special).
+
+arg(11258).
+text(11258, Similar arguments would claim many species to be equally special.
+Elephants are the only living species with such long tusks.
+Kangaroos are the only animals fighting standing on their tail.
+Platypus are the only mammals laying eggs.).
+att(11258, root).
+
+arg(11252).
+text(11252, We're the only known beings proved to intentionally record and communicate knowledge directly across several generations, through items like books.).
+support(11252, root).
+
+arg(11164).
+text(11164, "Many non-human animals also have some kind of opposable thumb or toe.").
+att(11164, root).
+
+arg(11199).
+text(11199, You are right, interesting. Still, in your source it clearly states that the only animals to have "fully" opposable thumbs are humans, which still makes us special.).
+att(11199, 11164).
+
+arg(11265).
+text(11265, So these are also animals that are special).
+att(11265, 11258).
+
+arg(11822).
+text(11822, humanity is "special").
+support(11822, root).
+
+arg(11146).
+text(11146, We're the only animals with opposable thumbs).
+support(11146, root).
+

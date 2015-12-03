@@ -1,0 +1,15 @@
+arg(root).
+text(root, The most pressing and harmful issues facing Western nations now could have been avoided entirely if women were never given the vote. ).
+
+arg(14667).
+text(14667, Pushing women to enter the workforce was also a mistake that could have avoided a lot of government overreach. Our economy is dependent on HR and other sorts of fields that are dominated by women. Our schools have to act as a daycare for the children without their mom to care for them. ).
+support(14667, root).
+
+arg(14651).
+text(14651, Women voting caused the sizable expansion of the state, it's spending, it's breaking up of the family through welfare creating single mothers - the single biggest predictor of life failure, mental health issues and antisocial repercussions to society).
+support(14651, root).
+
+arg(14666).
+text(14666, Same thing with trying to get women into the workplace. Our economy was strong and we didn't need the government to take care of our kids, sick, or elderly for us.).
+support(14666, 14651).
+

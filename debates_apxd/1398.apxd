@@ -1,0 +1,285 @@
+arg(root).
+text(root, Creationism is not compatible with current scientific theories and discoveries.).
+
+arg(14615).
+text(14615, The question remains - what material explanation could there be for the presence of the material universe? How can one attribute the existence of the universe to the universe?).
+att(14615, root).
+
+arg(15061).
+text(15061, I referred to the "material universe" not simply "universe". If you're proposing that the material universe could have given rise to itself then that's an absurdity because until something exists it cannot exert influence, anything that does exert influence must exist - reducto absurdum.).
+att(15061, root).
+
+arg(15062).
+text(15062, You request evidence but what better evidence can there be for a creator than a huge universe whose presence is otherwise inexplicable scientifically ?).
+att(15062, root).
+
+arg(15071).
+text(15071, How do you know? What is the argument that led you to this conclusion?).
+att(15071, root).
+
+arg(15072).
+text(15072, Belief underpins theory. One must believe that the world can be explained by theories in order to adopt them as explanations for the world, one must believe that the scientific method is a way to truth in order to adopt the scientific method. Its absurd to dismiss belief while believing in science.).
+att(15072, root).
+
+arg(15080).
+text(15080, One must believe that belief underpins theory. One must believe that one must believe the world can be explained by theories ... one must believe that belief is required for the scientific method as a way to the "truth". One must believe that it is absurd to dismiss belief.).
+att(15080, 15072).
+
+arg(6879).
+text(6879, It's impossible to show that anything is 100% factual, so the best possible way of approaching what is true is through theories. ).
+att(6879, root).
+
+arg(14616).
+text(14616, What constitutes 'creationism'? What evidence is there that the universe we observe was not created?).
+att(14616, root).
+
+arg(6986).
+text(6986, In science, a theory is an integrated explanation for a class of real world observations, that are subjected to empirical tests, and found to be dovetailed with reality. There is a distinction between proof and evidence in that proof is a formal procedure in pure mathematics.).
+att(6986, root).
+
+arg(6617).
+text(6617, The theories that science is based on are just theories, which cannot be proven true. Thus, theories add an interesting alternative to a belief, while failing to disprove it.).
+att(6617, root).
+
+arg(15084).
+text(15084, One must believe there is anything beyond the materialistic universe. One must believe that it is absurd for the material universe to emerge from natural causes. One must believe that influence is a huge contributing factor or what decides material existence.).
+att(15084, 15061).
+
+arg(15093).
+text(15093, I can deduce that there's something beyond the material universe by the fact the material universe came into existence for how else could it come to be? ).
+att(15093, 15084).
+
+arg(14713).
+text(14713, But the only difference between a belief and a theory is that a theory is actually supported by evidence. Beliefs are therefore meaningless.).
+att(14713, 6617).
+
+arg(15099).
+text(15099, One must believe that you can deduce something from beyond the material universe. One must believe that there is something beyond the material universe ... one must believe that the existence of the material universe would suggest anything beyond itself.).
+att(15099, 15093).
+
+arg(15106).
+text(15106, Since there is not one single scientific theory or law in favor of creationism, I came to the simple conclusion that there is no evidence for it. If you want to show me the opposite, give me a link with scientific proof.).
+support(15106, 15071).
+
+arg(14715).
+text(14715, How can you attribute the creation of the universe to anything but the universe itself? There is proof that the universe exists at least. Any outside creator would bear the scrutiny of its own origin (i.e. Well then who made god?) and it would require evidence that it actually exists as a thing.).
+att(14715, 14615).
+
+arg(14772).
+text(14772, There is not a single piece of evidence for it.).
+support(14772, 14616).
+
+arg(15137).
+text(15137, The burden of proof is on the creationist to prove it, not on the scientist to dispute it.).
+att(15137, 14616).
+
+arg(15824).
+text(15824, It makes creationism a doubtful explanation; and therefore a poor conclusion to come to regarding this issue. ).
+att(15824, root).
+
+arg(15253).
+text(15253, There is always Deism (belief in a god that doesn't intervene with the universe).).
+att(15253, root).
+
+arg(15190).
+text(15190, Even if there no scientific theory or law in favor of creationism that does not force us to conclude the universe was not created and that creationism isn't a true explanation for the presence of the universe.).
+att(15190, 15106).
+
+arg(15179).
+text(15179, The existence of scientific law is itself evidence of creation. Laws of nature, matter, energy, fields are all evidence of creation for how else could these things have come to exist? Whatever brought these things into existence is what I term "creation".).
+att(15179, 15106).
+
+arg(15208).
+text(15208, One must believe the existence of scientific law is itself evidence of creation. One must believe laws of nature, matter, energy, fields are evidence for creation. One must believe that creation in the storied or religious sense are in any way similar or preferential to natural causes. ).
+att(15208, 15179).
+
+arg(15189).
+text(15189, The opening argument claims that creationism is not compatible with science so it is this claim that must be substantiated not the questions that I asked. So what is there in science that is not compatible with creation? I think they're compatible.).
+att(15189, 15137).
+
+arg(15236).
+text(15236, Exactly.).
+att(15236, 15208).
+
+arg(6542).
+text(6542, Science is slowly answering all the questions about creation... it seems to just be a matter of time until there is scientific reasoning for everything and creationism will become extinct.).
+support(6542, root).
+
+arg(15209).
+text(15209, One must believe the absence of explanatory power and empirical evidence should not force us to dismiss creationism. One must believe creationism provides in any conceivable way an explanation and prediction for how the universe works or emerged. ).
+att(15209, 15190).
+
+arg(15675).
+text(15675, Then all you know about god is from what 12  people claimed, two thousand years ago. A time where the average person worshiped gods of thunder and stones and believed in witchcraft and magic. I cannot tell you whether you should believe or not, but make sure you know who you're listening to. ).
+att(15675, 15253).
+
+arg(15638).
+text(15638, You are now begging the question. You cannot prove the existent of an intelligent creator by stating that the universe's existence requires an intelligent creator. ).
+att(15638, 15093).
+
+arg(15659).
+text(15659, There is no way of telling, whether this hypothetical situation is possible _in principle_. 
+
+Ie. It is not clear, whether even if we understood universe completely, it would be possible to make such a program, therefore the premise doesn't add anything one way or another.).
+att(15659, root).
+
+arg(15583).
+text(15583, The Earth is demonstrably older than 7000 years.).
+att(15583, 15189).
+
+arg(15807).
+text(15807, One must believe there exists a detailed, rigorous, and robust methodology to segregate entities into 'created' and 'not created' classes in the sense they were willed into existence. One must believe that observational data would suggest beyond well-defined testable and natural mechanisms. ).
+att(15807, root).
+
+arg(15769).
+text(15769, that does not prove that the universe was not created, the claim is that there are observations that prove it was not created.).
+att(15769, 15583).
+
+arg(15775).
+text(15775, Once again what observational data is there that demonstrates that the universe was not created? You can either present this here or you cannot, which is it?).
+att(15775, 15209).
+
+arg(15771).
+text(15771, The universe could have been created with the appearance of age. I'm not claiming it was only that it's an assumption that it wasn't.).
+att(15771, 15583).
+
+arg(16112).
+text(16112, There is no observed process with respect to the Cambrian only the observable geological record. 
+
+The supposed process however must be consistent with these observations but it isn't and thus that supposed process should be questioned, the essence of science.).
+att(16112, root).
+
+arg(15808).
+text(15808, One must believe the observational data would suggest anything beyond testable and natural mechanisms. One must believe there are no conflicting explanations between scientific theories and creation narratives. ).
+att(15808, root).
+
+arg(15811).
+text(15811, We don't know why or how the universe came to be, but that doesn't mean we'll never know. Saying "We don't have another theory, so God did it" doesn't provide evidence or proof. We must assume the neutral ground of "I don't know" before we find out.).
+att(15811, 14615).
+
+arg(15812).
+text(15812, Are you for or against this threads initial premise?).
+att(15812, 15807).
+
+arg(15936).
+text(15936, Scientific laws do exist though and so form part of the universe and are no less relevant than any other part of the universe.).
+att(15936, 15179).
+
+arg(15946).
+text(15946, One must believe the existence of scientific laws are in question. One must believe scientific laws _form_ part of the universe, rather than provide descriptions of some fundamental aspects of the universe as scientists determine via scientific method. One must believe these laws are 'creations'. ).
+att(15946, 15936).
+
+arg(15948).
+text(15948, One must surely understand that an explanation for a physical process requires an appeal to another physical process. Every theory in physics makes references to physical quantities. Scientific explanations require that physical quantities already exist.).
+att(15948, root).
+
+arg(15263).
+text(15263, Imagine.
+
+Science develops to the point where we can completely understand the universe.
+
+We create a program that accurately simulates a down-scaled version of the universe.
+
+In such a world, are we not the "creators" of a new universe that is fully compatible with all scientific theories?).
+att(15263, root).
+
+arg(15674).
+text(15674, Religion defies common sense and logic and you can't win against them using those tools. Whenever something gets scientifically disproved, creationism claims that it has a symbolic meaning that we didn't know until it got disproved. Earth is the center of the universe, Rib women, and 7 day creation ).
+att(15674, root).
+
+arg(15210).
+text(15210, One must believe that a universe which may be observed, measured, and tested upon would remain inexplicable, at least in many specific areas of interest. One must believe the act to retreat to religious worldviews in spite of an increasing scientific knowledge is in any way logical.).
+att(15210, 15062).
+
+arg(15830).
+text(15830, "I don't know, therefore god" is not good rational. Don't confuse yourself. If I tell you the universe was created by a giant blue dragon would you believe me? If not why would you believe in something equally unlikely? All you know about god is from humans that lived thousands of years ago).
+att(15830, root).
+
+arg(15767).
+text(15767, What observations are there that are incompatible with the universe being created? This is what the opening argument is about. What scientific discoveries prove the universe could not have been created? ).
+att(15767, root).
+
+arg(15949).
+text(15949, There is no example of a scientific explanation for something that does not appeal to some physical quantity, unless a blank sheet of paper is an acceptable theoretical model for something.).
+support(15949, 15948).
+
+arg(15950).
+text(15950, If there were some scientific theory accounting for the presence of the universe it could only be expressed in terms of physical quantities, necessitating the existence of the universe as preceding the existence of the universe, surely one can understand that.).
+support(15950, 15948).
+
+arg(16119).
+text(16119, One must believe a software craftsman would provide the relevant sources (not ID sites that perpetuate misinformation) on a subject unrelated to his interests, or read the papers in question to satisfy the evidence quota or his understanding of evolution past eighth grade.).
+att(16119, root).
+
+arg(16106).
+text(16106, Uncertain origins leave open the possibility that natural selection was not the origin.).
+att(16106, root).
+
+arg(16114).
+text(16114, One must believe you understand the essence of science, however you name it. One must believe evolutionary processes, witnessed in the field and laboratory today, fail to leave behind evidential marks in the form of ERVs,  psuedogenes, homologous physical structures, etc.).
+att(16114, 16112).
+
+arg(16116).
+text(16116, One must believe that with inferences made from the observable geological record, you may use the argument: you weren't there. One must believe that a criminal to be convicted, you must have been caught in the act. One must believe have any source to back your multiple claims.).
+att(16116, 16112).
+
+arg(15957).
+text(15957, Religion is like science, where it changes over time and does not get it perfect the right time. 
+
+There is reason to believe Genesis in the bible was poetry, and was not meant to be taken literally(see source). This does not make the entire Bible like this.  ).
+att(15957, 15674).
+
+arg(16115).
+text(16115, I do believe I understand the essence of science. An integral part of it is the falsification of hypotheses by observation.The extremely abrupt appearance of many complex phyla in the Cambrian strata is inconsistent with natural selection, it's therefore reasonable to question the hypothesis.).
+att(16115, 16114).
+
+arg(15960).
+text(15960, One must believe that you are making a successful allusion. One must believe that uncertain origins should retreat to overwhelming exceptions that invite pseudoscience or creation narratives. ).
+att(15960, 15948).
+
+arg(16110).
+text(16110, One must believe the basic mechanism for evolution has anything to do with origins. One must believe you understand the difference between the observed processes and the debated origins. ).
+att(16110, 16106).
+
+arg(16118).
+text(16118, For natural selection to be the process that generated the Cambrian phyla, there must have existed ancestors for each of the 40+ distinct phyla culminating in single celled life. No evidence of this is found however anywhere that Cambrian fossils have been discovered.).
+att(16118, 16116).
+
+arg(16117).
+text(16117, One must believe any known issues with the Cambrian is an evolutionary one, rather than taphonomic. One must be ignorant of the fact to insist either of the two must be inconsistent. One must fail to take into account of conditions of preservation of aquatic sediments. ).
+att(16117, 16115).
+
+arg(15582).
+text(15582, Actual evidence. For the record there is no evidence that proves that the universe was ever created. It is entirely possible that the universe exists on a perpetual time loop. It's called the oscillating universe theory. That's more plausible than a magical creator.).
+att(15582, 15062).
+
+arg(16127).
+text(16127, Personal attacks do not an argument make. Sources for any claim will be provided upon request. ID is a perfectly reasonable hypothesis and there's nothing in science to suggest it's unreasonable.).
+att(16127, 16119).
+
+arg(16123).
+text(16123, "Circumstances leading to exceptional
+preservation are not unique to the Burgess
+Shale. Such preservation is now known from
+about 40 Cambrian sites globally").
+att(16123, 16117).
+
+arg(16125).
+text(16125, "The Cambrian explosion is one of the
+most remarkable biological phenomena
+documented in the fossil record" both "explosion" and "remarkable" are used in a peer reviewed scientific journal, there's a reason for this terminology.).
+att(16125, 16114).
+
+arg(16126).
+text(16126, Many of the phyla had exoskeletons and this characteristic must itself have evolved, one would expect ancestral forms exhibiting this trait "Early trilobites show all the features of the trilobite group as a whole; there do not seem to be any transitional or ancestral forms..."
+).
+att(16126, root).
+
+arg(16122).
+text(16122, Conditions for preservation are often reported as superb with even amoeba fossils being found: "buried and preserved in great anatomical detail the remains of animals, plants, and macroscopic bacterial colonies that comprise the Chengjiang Biota" - see below for source.).
+att(16122, 16117).
+
+arg(16124).
+text(16124, One must believe my reference to aquatic sediments had anything to do with its condition to preserve, but rather the result of why such an event occurred in the first place; the combination of the aquatic sediment condition plus organisms of fossilisable hard tissues made this possible.).
+att(16124, 16122).
+

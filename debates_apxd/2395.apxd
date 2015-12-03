@@ -1,0 +1,48 @@
+arg(root).
+text(root, Erotic fictional depictions (ex drawings, stories) of abusive sexual content (ex rape, incest, pedophilia) should be banned).
+
+arg(16065).
+text(16065, It could also help people to deal with their desires by relieving them in fictional context, and then it could go in the opposite direction.
+It is hard to know.).
+support(16065, root).
+
+arg(16064).
+text(16064, If it is true, we should think about it for all violence depictions, and not only sexual violence depictions.).
+att(16064, root).
+
+arg(16063).
+text(16063, Empirical evidences would be good.).
+att(16063, root).
+
+arg(16031).
+text(16031, The depictions will normalize the abusive behavior and increase its prevalence in the general population).
+support(16031, root).
+
+arg(16040).
+text(16040, It is abusive to force people to reveal whether or not they were abused to check whether they are obeying the rule.).
+att(16040, root).
+
+arg(16037).
+text(16037, The only legitimate purpose of depicting abusive sexual content is to prevent further abuse or to alleviate the trauma of an already-abused person.).
+support(16037, root).
+
+arg(16039).
+text(16039, The environment influences what people are sexually attracted to. An increased prevalence of fictional abusive sexual content will influence people who would not otherwise be inclined to abuse.).
+att(16039, root).
+
+arg(16038).
+text(16038, People do not control what they are sexually attracted to).
+att(16038, 16037).
+
+arg(16036).
+text(16036, Only abuse victims may generate and view depictions of abusive sexual content).
+att(16036, root).
+
+arg(16034).
+text(16034, Abuse victims may use these depictions as coping mechanisms, and so we should not deny these people a way of easing their trauma.).
+att(16034, root).
+
+arg(16033).
+text(16033, Because the depictions are fictional, no people are actually being abused, so people should be free to enjoy them.).
+att(16033, root).
+

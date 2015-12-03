@@ -1,0 +1,59 @@
+arg(root).
+text(root, Following a rule is a practice grounded in the mastery of techniques. ).
+
+arg(15354).
+text(15354, The common behavior of mankind is the system of reference by means of which we interpret an unknown language.).
+support(15354, root).
+
+arg(15369).
+text(15369, The common behavior of mankind is the system of reference by means of which we interpret an unknown language.
+).
+support(15369, root).
+
+arg(15365).
+text(15365, Typically, an explorer in an alien culture will not find it difficult to determine when an order is given. One can give orders to oneself).
+att(15365, root).
+
+arg(16188).
+text(16188, Not all rules are good).
+att(16188, root).
+
+arg(15362).
+text(15362, One can imagine cultures that the forms of language and life differ substantially, so that nothing quite corresponds to our orders.).
+support(15362, root).
+
+arg(15360).
+text(15360, If one observed a Robinson
+Crusoe giving himself orders in an unknown language, that would be much more difficult to recognize).
+support(15360, root).
+
+arg(15349).
+text(15349, Neither is right. A decision, not a discovery, is needed.).
+att(15349, root).
+
+arg(15358).
+text(15358, Suppose you came as an explorer into an unknown country with a language quite strange to you. You may not say that the people there gave orders, understood them, obeyed them, rebelled against them, and so on.).
+support(15358, root).
+
+arg(15347).
+text(15347, We are trained to follow a rule.
+).
+support(15347, root).
+
+arg(15353).
+text(15353, We can imagine cultures that the forms of language and life differ substantially, so that nothing quite corresponds to our orders. ).
+att(15353, root).
+
+arg(15352).
+text(15352, If it’s something like Robinson Crusoe gives himself orders in unknown language, that would be much more difficult to recognize. ).
+att(15352, root).
+
+arg(15351).
+text(15351, Typically, an explorer in an alien culture will not find it difficult to determine when an order is given.).
+att(15351, root).
+
+arg(15348).
+text(15348, Different people may reacts in different ways to the order and the training. We do not know who is right.
+).
+att(15348, 15347).
+

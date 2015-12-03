@@ -1,0 +1,135 @@
+arg(root).
+text(root, History is the repeating story of the White race building great Civilizations and pushing Humanity forwards, only to import other races and miscegenerate with them - whereupon the Civilization crumbles and destroys itself.).
+
+arg(14914).
+text(14914, 'Great Civilization' history does consist of just a handful of cultures - Ancient Egypt, Ancient Greece, Ancient Rome, Renaissance Europe, British Empire, Post-1900 United States. These were the petri dishes in which great paradigms were formed and spread to the world.).
+att(14914, root).
+
+arg(14636).
+text(14636, The Islamic arabic world was the most notorious and long running slave taking and abusing Civilization in history - harems of all races - this practice continued for a thousand years. Why then didn't Arabic Civilizations harness that to eclipse White Civilization and get to the enlightenment first?).
+att(14636, root).
+
+arg(14640).
+text(14640, The Mongols - Genghis Khan did far more conquering & rape/pillaging so surely his people should have had the most well regarded contribution to History? Except that's not the case. ).
+att(14640, root).
+
+arg(14639).
+text(14639, During the middle ages, Europe suffered because miscegeneration helped bring down the empire, I agree. China had minimal lasting effect pushing Civilization forward. Chinese Renaissance? Ind revolution? I can't pin down an epoch-making event that came out of Persia or Arabia. ).
+att(14639, root).
+
+arg(14811).
+text(14811, "Chinese Renaissance" is misleading because Renaissance is a European word, referring to very specific, historical factors that had to take place. History is not certain types of people being better than anyone else, nor is it them creating cool stuff.).
+att(14811, 14639).
+
+arg(14908).
+text(14908, The silk road is an example of how it didn't - silk road trade came about because non-whites had resources whites didn't. Also a pre-eminent example would be British India - India failed to make a strong nation, Britain improved India the same way Alexander Great laid foundations across Persia.).
+att(14908, root).
+
+arg(14910).
+text(14910, Indians who have studied history express gratitude for what European colonialism did to bootstrap and improve what was Indian civilization beforehand. It was more like an investment-venture, Britain actually spent more money on India than they got out - by design. It was deemed the right thing to do).
+support(14910, 14908).
+
+arg(14814).
+text(14814, Being white has been a privilege to this part of the world for a long time. Still, being rich was also a part of it. A poor peasant in medieval England was going to die a poor peasant, no matter the hard work.).
+att(14814, root).
+
+arg(14907).
+text(14907, Privilege is a word of comedy, not a word of philosophy. It is like me saying 'White people can't dance properly' - as though that's an argument. Privilege does not impart any information whatsoever as you have used it - it is like say 'White people had Zeus on their side'. You must do better. ).
+att(14907, 14814).
+
+arg(14986).
+text(14986, You have made up something called 'white privilege', just how I could make up the existence of Zeus and invoke him into my argument. You haven't explained anything, I'm an empiricist - can you measure White privilege? esp. in ancient times.I cannot measure Zeus's existence therefore I cannot use him).
+att(14986, root).
+
+arg(14635).
+text(14635, I'd define the most relevant human history as that which created a plastic deformation of human society rather than elastic - the changes that stuck and reverberated throughout the ages. Greece and Rome: civics/philosophy. The Enlightenment, The Renaissance, The Industrial Revolution, Assembly line ).
+att(14635, root).
+
+arg(14634).
+text(14634, I'd define the most relevant human history as that which created a plastic deformation of human society rather than elastic - the changes that stuck and reverberated throughout the ages. Greece and Rome: civics/philosophy. The Enlightenment, The Renaissance, The Industrial Revolution, Assembly line ).
+att(14634, root).
+
+arg(14810).
+text(14810, "Relevant human history". What are you even talking about? Your definitions are absolutely Eurocentric, since you claim history can only follow one "correct" way. Does that mean that non-Western history is not relevant because they didn't progress the same way?).
+att(14810, 14634).
+
+arg(14913).
+text(14913, Great civilizations are the true historical winners that should deserve praise. Why was the Computer not developed in non-white countries? Why was the Industrial revolution not shared with the world from China or India? Why was the theory of Evolution or Relativity achieved in white society?).
+att(14913, 14810).
+
+arg(14269).
+text(14269, Greek Civilization was White run by White people. Egypt was ruled by White people with the Nubian and Semitic races as a minority under rule - this continued until miscegeneration became the norm in both cultures.).
+support(14269, root).
+
+arg(14326).
+text(14326, history is not consist of only Egypt and Greek. Therefore it's not enough to claim this argument true.).
+att(14326, 14269).
+
+arg(14638).
+text(14638, The White race has never been 'privileged' in and of itself. You do hard work and you get rewards - if the White race accumulated rewards it is very telling that other races didn't. Nothing to apologize for. You have not read history if you think war/rape is a White institution - race has no bearing).
+att(14638, root).
+
+arg(14903).
+text(14903, That just makes it all the more impressive and notable white civilization's achievements relative to the others. ).
+att(14903, root).
+
+arg(14637).
+text(14637, Better access to resources? What resources did we have in Britain? When we spearheaded the industrial revolution it spread worldwide - so clearly they had the resources for it too. Europe only had the resources it worked for itself - it didn't have an unfair advantage.).
+att(14637, root).
+
+arg(14904).
+text(14904, History was literally defined as 'heroic acts' for most of 'history' - this means inspiring transcendental civilizational epochs where humanity was pushed forwards - 'Great civilizations' are more important and heroic, white people construct these and generate the heroics that have lasting impact.).
+att(14904, 14811).
+
+arg(14911).
+text(14911, History means 'heroic acts' - it is an appeal to the greatness possible in all men, I defined the premise as 'Great Civilizations' - I am still confident in my conclusion that great civilizations were predominantly white - they pushed all the world forward, this should deserve praise.).
+att(14911, root).
+
+arg(14912).
+text(14912, Mediocre Civilizations are not worthy of significant documentation in the annals of history - it should be meritocratic in order to spur on advancement. ).
+support(14912, 14911).
+
+arg(14924).
+text(14924, And I can say your definitions are wrong and subjective.).
+att(14924, 14911).
+
+arg(14925).
+text(14925, History is not "technological progress by scientific white people".).
+att(14925, 14913).
+
+arg(14926).
+text(14926, What the fuck are you even going on about?).
+att(14926, 14907).
+
+arg(14927).
+text(14927, Where was this "literally defined"?).
+att(14927, 14904).
+
+arg(14928).
+text(14928, What is a "mediocre civilization"? History is not studying advancement or progress by some group of people. If you can dig up an unimportant hut in the middle of nowhere, Africa, that's history, even if it's by an amateur.).
+att(14928, 14912).
+
+arg(14812).
+text(14812, Civilizations are not "white" or "arabic". History is not a race to become the most enlightened group of people either.).
+att(14812, 14636).
+
+arg(14813).
+text(14813, Quite irrelevant to the matter at hand, but Britain could import it from oversees colonies through imperialism. The main point was that the "white civilization" has always had superior access to resources.).
+att(14813, 14637).
+
+arg(14566).
+text(14566, There have been many more non-white civilisations than white civilisations. Its just human nature that civilisations white or non-white rise and fall).
+att(14566, root).
+
+arg(14307).
+text(14307, History is the study of the past, not a particular race. Claiming that "white" civilization is more important than others is blatant Eurocentrism. Claiming that miscegenation caused their downfall is grossly overlooking social, political, religious, and historically contextual factors.).
+att(14307, root).
+
+arg(14345).
+text(14345, Viewed another way, history is the story of one privileged race with better access to resources ambushing every other race with war, raping and enslaving everyone in their path, and viewing themselves as genetically superior based purely on arrogance.).
+att(14345, root).
+
+arg(14546).
+text(14546, During the Middle Ages, Medieval Europe did almost nothing to further human development. It was the Islamic empires and East Asian civilizations that housed most human progress.).
+att(14546, root).
+

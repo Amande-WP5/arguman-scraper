@@ -1,0 +1,7 @@
+arg(root).
+text(root, Arguman should also be an app).
+
+arg(10767).
+text(10767, it would be pretty damn awesome.).
+support(10767, root).
+

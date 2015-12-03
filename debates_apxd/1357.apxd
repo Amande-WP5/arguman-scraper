@@ -1,0 +1,23 @@
+arg(root).
+text(root, The relationship between money and power in a Capitalist society is inherently incompatible with the commonly held principles of a Democracy.).
+
+arg(6029).
+text(6029, The long history of corporate lobbying effectively provides a stronger voice in Government to those with money than those without. In many cases, corporations have had a direct hand in writing the laws that directly affect their business, and in many countries effectively own specific politicians.).
+support(6029, root).
+
+arg(6491).
+text(6491, You're not talking about the incompatibility of capitalism with Democracy, but rather the incompatibility of bribery with capitalism. Whether or not lobbyists exist, a politicians job is to represent their constituents. The problem arises when a politician treats a lobbyist as their main constituent).
+att(6491, 6029).
+
+arg(14624).
+text(14624, Wrong direction. The ideas of economic freedom, financial independence of individuals, privacy, and self-ownership (capitalism) are incompatible with the idea of deciding rulers and making decisions for others (democrazy).).
+att(14624, root).
+
+arg(14641).
+text(14641, Democracy is a dead end - Universal Suffrage without duty or responsibility attached breeds a parasitic free-for-all that would make it a better candidate for removal than Capitalism.).
+att(14641, root).
+
+arg(14642).
+text(14642, This is driven by acquiescent Citizens allowing the Government to have ever expanding rights over them to interfere - Citizens are more complicit to give the Government the right to bully or reward them/their competitors with endless stolen money - and so goverments auction this off.).
+att(14642, 6029).
+

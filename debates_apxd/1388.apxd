@@ -1,0 +1,23 @@
+arg(root).
+text(root, A refrigerator is a refrigerator).
+
+arg(7235).
+text(7235, A refrigerator is made from components of a refrigerator. Thusly a refrigerator exists as a refrigerator. ).
+support(7235, root).
+
+arg(7239).
+text(7239, In addition we can use the argument of Descarte "I think therefore I am" and apply it to the existence of William Perry. William Perry also thinks, and also is. ).
+support(7239, root).
+
+arg(6365).
+text(6365, Refrigerators exist.).
+support(6365, root).
+
+arg(6379).
+text(6379, Refrigerators can also be monsters).
+att(6379, root).
+
+arg(8211).
+text(8211, it could be an alligator.).
+att(8211, root).
+

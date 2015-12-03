@@ -1,0 +1,159 @@
+arg(root).
+text(root, 9/11 was an inside job.).
+
+arg(13272).
+text(13272, This statement requires proof, as even if the structural integrity of the steel could withstand a plane, there are other conclusions one could come to.).
+att(13272, 13191).
+
+arg(13104).
+text(13104, It is unlikely the United States government would willingly kill 2,000+ of its citizens. There is no context to presume it would do such a thing.).
+att(13104, root).
+
+arg(13494).
+text(13494, There were 3 buildings destroyed on 911 in New York and 2 of them (WTC1&WTC2) were hit by planes. The third building WTC7 was never hit by a plane. 
+
+The above is part of the official story, common knowledge and undisputed. But the 911 commission report did not mention building WTC7. ).
+support(13494, root).
+
+arg(13495).
+text(13495, All 3 buildings that collapsed on 911 in New York fell at or near the speed of gravity. This is impossible without explosives. ).
+support(13495, root).
+
+arg(13474).
+text(13474, It was the first known instance of a building of its kind being impacted by a plane of that size travelling at that speed to weaken the buildings integrity first.).
+att(13474, root).
+
+arg(13105).
+text(13105, Other expert testimony claims the resulting fires would be able to melt the steel and definitely take down the building.).
+att(13105, root).
+
+arg(13261).
+text(13261, If we assume that the motive for this alleged "inside-job" would be to justify aggressive foreign policy, it would have been sufficient to just fly the planes into the buildings. It would still have been horrific even if the buildings didn't collapse.).
+support(13261, root).
+
+arg(13433).
+text(13433, I don't know. The destruction of the WTC, with all it represented, was an incredibly dramatic event. I think it's reasonable to say not as much call to war would have occurred without their collapse. The death toll certainly wouldn't have been nearly as high.).
+att(13433, 13261).
+
+arg(13457).
+text(13457, Obviously, you don't understand sarcasm. Why would anyone cite 4chan as evidence for anything?).
+att(13457, root).
+
+arg(13502).
+text(13502, No one says it was, but the official version is that it collapsed due to fire. Depending on which sources you trust, fire may or may not have been enough to bring them down.
+
+I wish I got my B.S. in mechanical engineering instead of electrical.).
+att(13502, root).
+
+arg(13470).
+text(13470, WTC 7 was not hit by a plane at all. ).
+att(13470, root).
+
+arg(13471).
+text(13471, Well, yeah...exactly my point.).
+att(13471, 13457).
+
+arg(13434).
+text(13434, It was the first known instance of a building of its kind collapsing due to fire.).
+att(13434, root).
+
+arg(13487).
+text(13487, Sorry, I misread what you said, completely. ).
+support(13487, root).
+
+arg(13435).
+text(13435, I'm not saying you're wrong but this is just an opinion. If you're going to make a statement, provide evidence. This site is for logical argumentation! Can you provide proof Al Qaeda was formed by the U.S. government?).
+att(13435, root).
+
+arg(13437).
+text(13437, Bush did 9/11).
+support(13437, root).
+
+arg(13438).
+text(13438, 4Chan? The breeding ground for low life fucks? ).
+att(13438, 13437).
+
+arg(13515).
+text(13515, idkwidlool actually said earlier it was hit by a plane. I was specifically answering his premise. ).
+att(13515, 13502).
+
+arg(13180).
+text(13180, Still, they blamed somebody, and we went to war with that somebody and pretty much still are at war with them. ).
+att(13180, root).
+
+arg(13260).
+text(13260, But there is no good reason for the alleged conspirators to go to the extreme length of covertly rigging the buildings to collapse.).
+att(13260, root).
+
+arg(13190).
+text(13190, the "terrorist" organization that did 9/11 was made up by the US govermant so they will have someone to blame for 9/11 and an excuse to invade the middle east which the real reason was for its oil ).
+att(13190, root).
+
+arg(13191).
+text(13191, they put explosives inside it which destroyed it).
+support(13191, root).
+
+arg(13101).
+text(13101, The planes did not bring down the World Trade Center. ).
+support(13101, root).
+
+arg(13102).
+text(13102, The steel bars are known to have melted and burning jet fuel doesn't reach the temperature required to melt steel.).
+support(13102, 13101).
+
+arg(13103).
+text(13103, WTC 7 was reported in England to have collapsed 26 minutes before it actually did.).
+support(13103, 13101).
+
+arg(13291).
+text(13291, The US has done equally destructive things in the past - for America, the ends justify the means.).
+att(13291, 13104).
+
+arg(13136).
+text(13136, The US needs an enemy, and framing other countries for 9/11 is the perfect way to do so.).
+att(13136, 13104).
+
+arg(13292).
+text(13292, If we hadn't have interfered in business that had nothing to do with us. Al Qaeda wouldn't have attacked. We only went there because we wanted oil.).
+att(13292, root).
+
+arg(13137).
+text(13137, They didn't blame a country at all. They blamed the specific terrorist organisation that carried out the attacks, and claimed responsibility for these attacks. ).
+att(13137, 13136).
+
+arg(13106).
+text(13106, This doesn't matter. Blacksmiths temper steel at a much lower temp than jet fuel. The fire was hot enough to weaken the steel frame. ).
+att(13106, 13102).
+
+arg(13658).
+text(13658, True. But WTC 7 also supposedly collapsed due to fire and nothing else, since it wasn't hit by a plane.).
+att(13658, 13474).
+
+arg(13468).
+text(13468, There is a strong history of some governments implementing false flag attacks. In the USA there is certainly motive from the Military Industrial Complex which Eisenhower warned against.  ).
+att(13468, 13104).
+
+arg(13467).
+text(13467, (1) The official version is false and (2) being so far off the truth was (3) clearly a coverup that required support from some government agents. ).
+support(13467, root).
+
+arg(13228).
+text(13228, There is footage of WTC 7 collapsing exactly like a planned demolitions team would collapse a building (implosion). No plane or debris hit the building and U.S Government state that it was from a "fire". No recorded building made from the same materials has ever collapsed from fire in history.).
+support(13228, root).
+
+arg(13491).
+text(13491, You committed the fallacy of arguing from incredulity. Just because you can't think of a good reason "for the alleged conspirators to go to the extreme length of covertly rigging the buildings to collapse" doesn't mean they don't exist.).
+att(13491, 13260).
+
+arg(13667).
+text(13667, "The B-25 Empire State Building crash was a 1945 aircraft accident in which a B-25 Mitchell bomber, piloted in thick fog over New York City, crashed into the Empire State Building.").
+att(13667, 13474).
+
+arg(13486).
+text(13486, There were 3 buildings destroyed on 911 and 2 of them (WTC1&WTC2) were hit by planes. The third building WTC7 was never hit by a plane. 
+
+The above is part of the official story, common knowledge and undisputed. i.e. non-controversial. Please check the sources provided. 
+
+).
+att(13486, root).
+

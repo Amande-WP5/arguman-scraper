@@ -1,0 +1,27 @@
+arg(root).
+text(root, We should respect our elders).
+
+arg(8751).
+text(8751, If someone is responsible for creating you, it does not mean that they own you. You also owe them nothing in return, as you didn't choose to be born.).
+support(8751, 8736).
+
+arg(8736).
+text(8736, Respect should be earned, not given just because someone is older than you.).
+att(8736, root).
+
+arg(9035).
+text(9035, Older people have more life experience, which means they have lots of knowledge, facts and useful advices to give. Much of this knowledge is impossible to have without enough life experience. It's like fighting a war beside a war veteran, it's priceless.).
+support(9035, root).
+
+arg(9036).
+text(9036, Some people act really awful, compared to both same-age and any age.).
+support(9036, 8736).
+
+arg(9038).
+text(9038, With the current state of How-to's and life tips on the internet, we won't be needing their advice and guidance as much as the older generations.).
+att(9038, 9035).
+
+arg(9041).
+text(9041, however you also have older people that don't deserve respect, old drug addicts who haven't had an "revelation" of sorts.).
+att(9041, 9035).
+

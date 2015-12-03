@@ -1,0 +1,57 @@
+arg(root).
+text(root, Functional programming is not useful for most apps).
+
+arg(15928).
+text(15928, We can infer what it means in this argument by how it is used in its "because" clause. It evidently denotes effect-free programming. (For instance, nonstrict/lazy evaluation isn't included, or other features of some F. languages: implicit currying, type inference, pattern matching, etc.)).
+att(15928, root).
+
+arg(15927).
+text(15927, Wikipedia often contains mistakes. I just fixed that one.
+
+).
+att(15927, root).
+
+arg(15879).
+text(15879, (Common) Lisp is noted as functional programming language in, for example, Wikipedia article on functional programming.).
+att(15879, root).
+
+arg(15861).
+text(15861, functional programming languages don't force you to use the paradigm all over the place. State is indispensable for the app. Languages like Clojure support the concept of Atoms, refs etc. for that purpose).
+att(15861, root).
+
+arg(15858).
+text(15858, "Functional programming" is ill-defined.).
+att(15858, root).
+
+arg(15833).
+text(15833, Elm).
+att(15833, root).
+
+arg(15816).
+text(15816, "Lisp isn't a functional language. Lisp has mutable variables, mutable data structures, loops, goto, ... Lisp supports applicative programming with immutable objects where it is desired.").
+att(15816, root).
+
+arg(15778).
+text(15778, Changing state is fully present within functional designs. For example recursion allows new state to be passed into recursive invocations yet involves no mutability.).
+att(15778, root).
+
+arg(15777).
+text(15777, Some impressive results are being achieved with functional languages today. For example a recent success in this area is the Amazon competitor Jet.com. Functional languages are increasing in number and popularity which shows increasing applicability to real world challenges.).
+att(15777, root).
+
+arg(15658).
+text(15658, Y-combinator founder has noted that his and associate's choice of Lisp as basis for one of the first online webstores, had allowed them to beat others by (among other) implementing any new features way faster than competition due to the language used.).
+att(15658, root).
+
+arg(15751).
+text(15751, features and principles from functional programming (e.g. first-order functions, immutability, monads) find wide application in established and new programming languages and at a higher level in system design (Google MapReduce, Twitter Finagle etc.)).
+att(15751, root).
+
+arg(15750).
+text(15750, functional programming allows to express state easily).
+att(15750, root).
+
+arg(15639).
+text(15639, "The problem is that most common code inherently involves state -- business apps, games, UI, etc. There's no problem with some parts of an app being purely functional; in fact most apps could benefit in at least one area. But forcing the paradigm all over the place feels counter-intuitive.").
+support(15639, root).
+

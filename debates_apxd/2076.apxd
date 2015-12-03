@@ -1,0 +1,78 @@
+arg(root).
+text(root, Everyone eligible to vote in a government elections should by law have to vote.).
+
+arg(16316).
+text(16316, this doesn't make it flawed unless you believe in a moral absolutism. Democracy   is morally neutral. It's just a system for decision making. In this case, the decision to kill the third person was democratically made by one and two. 
+You *could* argue that those individuals are at fault.).
+att(16316, root).
+
+arg(16291).
+text(16291, A blank vote doesn’t have a fixed meaning.
+It could mean you disagree, it could mean you agree but aren’t sure what is best, it could mean you don’t care.).
+att(16291, root).
+
+arg(16283).
+text(16283, Because the option to cast a blank vote generally exists, it has the benefit of making it clear who disagrees with the options given in the election (the blank votes).).
+att(16283, root).
+
+arg(16254).
+text(16254, People tend to not want to do what they are forced to do, then they will have more incentive to vote, but less incentive to really get involved in politic.).
+support(16254, root).
+
+arg(16252).
+text(16252, People that doesn’t want to participate, will just do the bare minimum to avoid the punishment, and then will not learn anything or think more than 5min about what they are voting for.).
+support(16252, root).
+
+arg(16242).
+text(16242, ).
+att(16242, root).
+
+arg(16251).
+text(16251, Forcing people that doesn’t want to vote, to vote, have no benefit.).
+att(16251, root).
+
+arg(16210).
+text(16210, There could be an option to vote for no one or "spoiling the ballot").
+att(16210, root).
+
+arg(16212).
+text(16212, Unless a vote for "no one" was allowed.
+
+It also wouldn't make political change more difficult but rather give the winning parties a real mandate).
+att(16212, root).
+
+arg(16211).
+text(16211, This would happen in any form of government with three people if two of them wanted to rob and kill the other.
+
+Democracy is not at fault here).
+att(16211, root).
+
+arg(14594).
+text(14594, What specific benefit would this produce that isn't produced with the current rules?).
+att(14594, root).
+
+arg(13723).
+text(13723, People would vote for whoever the media or their friend told them to vote for in order to avoid punishment. It would make political change more difficult.).
+att(13723, root).
+
+arg(13741).
+text(13741, Democracy is rule by the average and the media. The average person is uninformed about most things, and more concerned with their daily lives, and will vote for whoever gives them the most 'free' stuff or makes them feel good.).
+att(13741, root).
+
+arg(13742).
+text(13742, Democracy is fundamentally flawed. A simple example: Three people form a democracy, the first two vote to rob and kill the third. ).
+att(13742, root).
+
+arg(13714).
+text(13714, There should be an obvious way for people to disagree with all candidates. A tick box, rather than the obscure spoiling of the ballot.).
+att(13714, root).
+
+arg(13695).
+text(13695, This would ensure the people we elect to make our laws, and speak for us, are more representative of the majority .
+).
+support(13695, root).
+
+arg(14588).
+text(14588, Voting is a protected right. Forcing a person to vote will no longer allow for voting to be a protected right. Making not voting Illegal infringes on citizens liberty. persons should not be required to make a decision if they do not agree with any options.  ).
+att(14588, root).
+

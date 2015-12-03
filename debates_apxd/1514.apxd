@@ -1,0 +1,11 @@
+arg(root).
+text(root, There are more than two genders.).
+
+arg(7771).
+text(7771, It's dependent on your definition of gender.).
+att(7771, root).
+
+arg(8436).
+text(8436, Due to an increased awareness of a sexual and societall role spectrum, we can now increasingly identify ourselves with a title that matches our perons).
+support(8436, root).
+

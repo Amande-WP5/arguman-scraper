@@ -1,0 +1,11 @@
+arg(root).
+text(root, Education should be tailored to the highest performers.).
+
+arg(6297).
+text(6297, There is really no way to tell or decide what the best performance is because of the difference in how we all work.).
+att(6297, root).
+
+arg(6219).
+text(6219, The American educational system focuses on students achieving grade level standards rather than excelling beyond expectations. Setting a low bar rather than a high results in mediocrity being considered the goal. ).
+att(6219, root).
+

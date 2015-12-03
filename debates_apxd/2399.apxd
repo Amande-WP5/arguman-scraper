@@ -1,0 +1,7 @@
+arg(root).
+text(root, DotA can show somebody's personality).
+
+arg(16068).
+text(16068, In DotA there are 5 players with different set of role. Supporter, Carry, Mid player, Offlaner, and Tanker. People that often play the same role every time they play, very likely have the personality of that role.).
+support(16068, root).
+

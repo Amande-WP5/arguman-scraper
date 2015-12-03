@@ -1,0 +1,15 @@
+arg(root).
+text(root, Bears have the right to be armed).
+
+arg(8733).
+text(8733, They already have 2 arms.).
+att(8733, root).
+
+arg(8764).
+text(8764, With advances in medical science, we could add an extra appendage to any bear who wished to "be armed".).
+att(8764, 8733).
+
+arg(9048).
+text(9048, Who says they can't?).
+att(9048, root).
+

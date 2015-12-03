@@ -1,0 +1,91 @@
+arg(root).
+text(root, Free software is necessary).
+
+arg(15920).
+text(15920, Human create for its pleasure or for simplify/automatize its work. Libre reusability is a good way to work only one time on one job ; it allow anyone to gain time by reuse all things that humanity already performed.
+Humanity doesn't need to do the same thing twice. Once is enough.).
+support(15920, root).
+
+arg(15834).
+text(15834, Donations, sponsorship, advertising, etc. If you're software is useful enough you can also make a lot of money teaching it to people via books, videos, classes, etc.).
+support(15834, root).
+
+arg(5458).
+text(5458, enhances mutualisation).
+support(5458, root).
+
+arg(5459).
+text(5459, Development becomes faster).
+support(5459, root).
+
+arg(5460).
+text(5460, free software should not be mixed with open source).
+att(5460, 5459).
+
+arg(5476).
+text(5476, Without the boost of greed for Benjamin, it is hard to catch up with the pre-planned development deadlines. ).
+att(5476, root).
+
+arg(5477).
+text(5477, People can earn money by developing free software.).
+att(5477, 5476).
+
+arg(5485).
+text(5485, Ads would be the only option).
+att(5485, 5477).
+
+arg(10988).
+text(10988, Device drivers and operating system kernels are generally considered prototypical examples of 'boring but necessary' software, and Linux has successfully delivered these for many years without profit.).
+att(10988, root).
+
+arg(5519).
+text(5519, Donations and patreon are also an option. And don't forget crowdfunding.).
+att(5519, 5485).
+
+arg(10991).
+text(10991, Software freedom as defined by the FSF does not imply the lack of incentive or compensation. Red Hat is a publicly traded company which distributes and supports free software with $1.54 billion in revenue last year.
+).
+att(10991, root).
+
+arg(10992).
+text(10992, Red Hat had $1.54 billion in revenue last year from distributing and supporting free software without selling ads:
+).
+att(10992, 5485).
+
+arg(5802).
+text(5802, Without the resources often allocated to proprietary projects it is difficult to get developers to work on your project full time unless your project is seen as important by them which impedes progress. Free and proprietary software both have their respective advantages and disadvantages.).
+att(5802, root).
+
+arg(10914).
+text(10914, You can have paid ressources on Free Software project. Take Red Hat by example. Their is many example like this. Ask if you need others.).
+att(10914, 5802).
+
+arg(10925).
+text(10925, Free software can permit end user to take control over software. If enduser cannot develop he can ask help from developers. There are many way to ask help : 
+- calling friend who can help
+- calling paid services
+- build a user community permit better fund raising.
+- etc ).
+support(10925, root).
+
+arg(10927).
+text(10927, not all software should be free).
+att(10927, root).
+
+arg(11721).
+text(11721, define happiness ).
+support(11721, 5460).
+
+arg(10972).
+text(10972, Geeky software should be free. Boring but necessary software needs to bring profit, unless it is hard to get a decent one. That's why lots of end user facing software are for fee, but libraries are free or open source.).
+att(10972, root).
+
+arg(10975).
+text(10975, 'faster' does not equal or imply 'necessity').
+att(10975, 5459).
+
+arg(10982).
+text(10982, In our current capitalist system, it is feasible that making certain goods free may result in a net loss system. E.G. The lack of a soviet incentive system in communism led to a lack of quality in products, in particular the auto industry.
+Qualifier, SOME goods, May result, USSR is not the US).
+support(10982, 10927).
+

@@ -1,0 +1,27 @@
+arg(root).
+text(root, The inconsistent narrative of maths education is detrimental to the development of mathematical reasoning and appreciation.).
+
+arg(14033).
+text(14033, The purpose of math **education** is to **educate** on math. Even disregarding the goal of math education, the argument is on whether the inconsistent narrative it generates is detrimental or not to the development of mathematical reasoning and its appreciation. Not on the aims of the system.).
+att(14033, root).
+
+arg(14032).
+text(14032, The goal of math education is also inconsistent and does not necessarily pander to "mathematical reasoning" and/or "appreciation", but in often cases attempts to follow a standardized format with defined limitations; the question should focus on the goals of math education rather than the results.).
+att(14032, root).
+
+arg(14396).
+text(14396, Maybe it is a too strange or too complex concept to children.).
+att(14396, root).
+
+arg(14395).
+text(14395, What you can do in math depends on the context.
+If the subtraction isn’t defined in a way that describes what happen when you subtract a big number from a small number, it is invalid to do it.
+We should explain to children that operations could be extended how we want in math.).
+att(14395, root).
+
+arg(14027).
+text(14027, Math students are taught, "You can't <x>", and later it's revealed that they can. 
+(Ex: subtraction of larger numbers from smaller ones)
+This hides the beauty of maths and concepts to which students can tie understanding.).
+support(14027, root).
+

@@ -1,0 +1,79 @@
+arg(root).
+text(root, The government should not recognize any form of marriage.).
+
+arg(7939).
+text(7939, It's ridiculous for the state to give approval of who I love ).
+support(7939, root).
+
+arg(9328).
+text(9328, Marriage is a concept, and it is thousands of years old.).
+att(9328, root).
+
+arg(9433).
+text(9433, The same reason for regulate partnership in general (including business). Taxes. Married couples paid different taxes of non-married people do).
+support(9433, root).
+
+arg(9338).
+text(9338, This statement is usually used as a weasel way of opposing same-sex marriage without appearing prejudiced. This severely taints any merit the argument has.).
+att(9338, root).
+
+arg(9203).
+text(9203, Those rights and privileges can be honored by civil contract law. (E.g. I don't need to marry someone to make him my heir or give him power of attorney.)).
+att(9203, root).
+
+arg(9206).
+text(9206, Two or more individuals can create&sign a contract stating the terms of their relationship. If one breaks the contract, the other(s) can sue him. ).
+support(9206, root).
+
+arg(9208).
+text(9208, If the government is going to recognize marriage, it should not allow divorce without fault. No-fault divorce renders marriage meaningless.).
+att(9208, root).
+
+arg(7971).
+text(7971, Your civil state determines certain rights and prohibitions. Thus, it must be regulated.).
+att(7971, 7939).
+
+arg(7977).
+text(7977, Why should there be prohibitions in marriage? The very reason we have marriage licenses was to prevent interracial marriages ).
+att(7977, 7971).
+
+arg(9213).
+text(9213, The state doesn’t care if the parties love each other. There are no questions about a couple’s affections when granting a license. No proof of passion is required.).
+att(9213, 7939).
+
+arg(7979).
+text(7979, Because a civil state is in power does not mean that it must regulate everything ).
+att(7979, 7971).
+
+arg(9445).
+text(9445, The "divorce without fault" is permitted in other kinds of partnership like in business. The government can't force people to "work (or be) together" if both don't want to. The reason for this is that forcing this situation can lead to bigger problems).
+att(9445, 9208).
+
+arg(9680).
+text(9680, Why should they pay different taxes? It is just a different form of government-sanctioned discrimination.).
+att(9680, 9433).
+
+arg(8428).
+text(8428, Currently it has a great deal of social value and is often used to signify the finality and strength of a romantic bond.).
+att(8428, 7977).
+
+arg(9487).
+text(9487, The question of how to divide material possessions after the end of a relationship is usually solved with existing marriage law. ).
+att(9487, root).
+
+arg(9811).
+text(9811, Many people, such as libertarians, have been saying this since before same sex marriage was a relevant topic.).
+att(9811, 9338).
+
+arg(9815).
+text(9815, You cannot know the motivations behind other's arguments. You are merely assuming. This is a poisoning the well type argument where you are just associating the argument with people or behaviors you personally do not approve of. Your response does not even directly respond to the statement.).
+att(9815, 9338).
+
+arg(8448).
+text(8448, This social bond has no increased significance because it is recognized by the state. Social worth should not be regulated ).
+att(8448, 8428).
+
+arg(9392).
+text(9392, It should be considered why the government has an interest in controlling marriage in the first place.).
+att(9392, root).
+

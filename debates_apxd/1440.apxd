@@ -1,0 +1,1324 @@
+arg(root).
+text(root, PC is better than consoles).
+
+arg(8987).
+text(8987, Phil Spencer stated outright that he intends to have XBox 360 games emulated on PC. ).
+att(8987, root).
+
+arg(10191).
+text(10191, Japanese games are boring anyway).
+att(10191, root).
+
+arg(8201).
+text(8201, Buying games moves more money into the industry. Arguing in favor of buying fewer games is hypocritical of anyone who expects or desires to see quality, growth, and innovation in the gaming industry.).
+att(8201, root).
+
+arg(8642).
+text(8642, If the platform is characterised by its supporters not caring about games, then it does possess validity as a gaming platform. ).
+att(8642, root).
+
+arg(7816).
+text(7816, Competent buyers will not be undercut by PC prices.).
+att(7816, root).
+
+arg(7382).
+text(7382, Why spend at least 300$ on a laptop then another 400$ on a console? Just buy a device that performs both actions at a higher quality.).
+att(7382, root).
+
+arg(8995).
+text(8995, The Potato Masher shows this is untrue. It's a cheap PC built out of second-hand parts, can run Metal Gear Solid V at 4K.
+
+).
+att(8995, root).
+
+arg(8378).
+text(8378, The version of GTA V released for PC is the "Next Gen" remake released on PS4 / Xbox One. There's only six month difference between its release on next-gen systems and PC.).
+att(8378, root).
+
+arg(8460).
+text(8460, The publisher still decides the price they sell the game at - and they will not drop it below what is fair for them. 
+Sales are there to move more copies of the game, either because it's not selling or the publisher already recouped their costs (or both).).
+att(8460, root).
+
+arg(8653).
+text(8653, titanfall).
+att(8653, root).
+
+arg(7834).
+text(7834, Ensemble showed that RTS games can be played adequately played with a controller. These games you have listed as unworkable on consoles simply represent the lower standard of developers which focus on PC exclusive content.).
+support(7834, root).
+
+arg(7787).
+text(7787, PC gamers introduce the most stigma into this industry. Gamers who don't want to involve themselves with Nazi association, social ineptness, misogyny or the entirety of World of Warcraft shouldn't game on PC. Instead they should  play cool people games such as Street Fighter and Wii Sports.).
+att(7787, root).
+
+arg(8554).
+text(8554, Xbox One, PS4, and Wii U all have keyboard support for typing.).
+att(8554, root).
+
+arg(7026).
+text(7026, You can customize your PC to your own liking, while consoles barely change it's appearance until the end of its cycle or when the manufacturers decide to do it.).
+support(7026, root).
+
+arg(8400).
+text(8400, It depends on how much you invested in that PC. Low budget gaming systems cost similar to consoles and are similar in performance.).
+att(8400, root).
+
+arg(6925).
+text(6925, PC is more versatile than consoles. You can check your e-mail, use word processors like Microsoft Word, and even make your own games).
+support(6925, root).
+
+arg(8800).
+text(8800, emulation often provides an improved experience to the game on native console hardware and thus should not be looked down up. Additionally, there is no reason to not play motion games using a PC as it can be configured nearly identically to a standard console setup.  ).
+att(8800, root).
+
+arg(7681).
+text(7681, you can't achieve the same performance as a high-end console with a $400 PC ).
+att(7681, root).
+
+arg(8950).
+text(8950, Even a total replacement of everything but the case, drives and power supply would cost less than a whole new system. 
+
+Further, the modular nature of PCs mean you can spread out the upgrade over a longer time period, whereas upgrading a console forces you to pay the whole cost up front.).
+att(8950, root).
+
+arg(8182).
+text(8182, The stigma issue remains.).
+att(8182, root).
+
+arg(8352).
+text(8352, Those games can be played on PC with a controller just like on console. That being said, they are also more likely to contain cheaters on PC than on console, that is true.).
+att(8352, root).
+
+arg(7799).
+text(7799, Researching a title competently does this more efficiently than stealing one.).
+att(7799, root).
+
+arg(8334).
+text(8334, You could always just plug your controller into your PC and use that instead.).
+att(8334, root).
+
+arg(8210).
+text(8210, PC gamers do not pay fair pricesfor these games, they usually pay < 5$ or steal them.).
+att(8210, 8201).
+
+arg(7410).
+text(7410, This means that anyone who invests more money in a high-range PC has an unfair advantage over gamers with low-end/midrange PCs, meaning a less skilled player can beat a more skilled player).
+att(7410, root).
+
+arg(7748).
+text(7748, I use a ps4 controller all the time on pc and its a piece of shit to set up and infrequently fucks up mid game. when i first plugged it in it would double click for every one dpad press. I still use it though.).
+att(7748, root).
+
+arg(7496).
+text(7496, The games wouldn't have a strong online community anymore for multiplayer.).
+att(7496, root).
+
+arg(7989).
+text(7989, Playing games through a service like Steam is just as easy as any console. 
+
+You double click stuff.).
+att(7989, root).
+
+arg(7691).
+text(7691, Pirating a game is a great way to try it before you buy. This protects the consumer from being screwed into buying a bad game that may have had misleadingly good trailers or promises (e.g Watch Dogs, Arkham Knight).).
+att(7691, root).
+
+arg(7411).
+text(7411, this does not necessarily mean the PC is inferior, just that PC gamers may need to dedicate some time to educating themselves).
+att(7411, root).
+
+arg(7844).
+text(7844, a PC has a much higher power ceiling, meaning that in most cases a modest PC still outperforms a console.).
+att(7844, root).
+
+arg(8326).
+text(8326, Renting is rampant on consoles and harms the industry same as piracy: one person buys the game, shares it with the others, and the publisher and developer only get money for that single initial sale, not a single cent from the other players .).
+att(8326, root).
+
+arg(7462).
+text(7462, That's what this webpage is for.).
+att(7462, root).
+
+arg(7426).
+text(7426, In non-casual settings such as in a professional tournament the computers used are standardized.).
+att(7426, 7410).
+
+arg(8941).
+text(8941, Difficulty of pirating games does nothing to discourage piracy on consoles.
+
+If there's a way, pirates will pirate regardless of how difficult it is to do - see the Brazillian piracy technique on the PS4.).
+att(8941, root).
+
+arg(7833).
+text(7833, for the back catalog of console gaming, emulation allows a PC to enjoy many of those same local multiplayer games.  ).
+att(7833, root).
+
+arg(6954).
+text(6954, First sentence from the official Playstation website.
+
+"In almost all cases, a PlayStation Plus account is needed to play online multiplayer on the PS4™.").
+att(6954, root).
+
+arg(7514).
+text(7514, PC's are free to play online by default, but some consoles are not.).
+att(7514, root).
+
+arg(7600).
+text(7600, It's been proven that pirates are more likely to buy the games that they pirate  than non-pirates).
+att(7600, root).
+
+arg(7837).
+text(7837, If a player wants to be competitive and eliminate disadvantages due to a low end PC, they can just lower the graphic settings to obtain high frame rates and eliminate foliage and decals. The only thing a high end PC really offers is more eye candy. ).
+att(7837, 7410).
+
+arg(7943).
+text(7943, Only incompetents reduce an artistic industry down to numbers and performance.
+
+).
+att(7943, root).
+
+arg(8370).
+text(8370, You can't mod in every console, and the released mods for consoles are much less than the released mods for PCs.).
+att(8370, root).
+
+arg(7987).
+text(7987, On the contrary, Smash Brothers on a PC is actually better than it was on a real console. You can play Smash Brothers on a PC at higher resolutions with 4 local players and better textures.).
+att(7987, root).
+
+arg(7468).
+text(7468, Removing the price difference, there is no tangible benefit to using a console, given that most of consoles benefits (For example, local multiplayer,) have either been abandoned on console, or picked up by Steam).
+support(7468, root).
+
+arg(7779).
+text(7779, Because they have delivered more high quality titles over a longer time period than all other competitors in the industry.  Proof is not as important as simple industry sense in this regard.
+
+These choices are important as they reflect which audiences elite developers target. ).
+support(7779, root).
+
+arg(7430).
+text(7430, It would spoil the game for the more casual gamer, sometimes forcing the more casual gamer to lower their graphics settings to attain higher framerates, should they not want to be outgunned.).
+att(7430, 7426).
+
+arg(7864).
+text(7864, They are NOT better in one key aspect: Development.
+
+Consoles have standardized hardware, which is something developers need to solve debugging issues. PCs can have thousands of hardware combinations that make across-the-board bug free versions of the game actually impossible.).
+att(7864, root).
+
+arg(8345).
+text(8345, There are many legal ways to buy PC games for a pittance - Steam sales, bundle sites (Bundle Stars, Indie Gala, Humble Bundle etc) etc.
+
+The higher prices of console games and rentals are more likely to motivate gamers to piracy.).
+att(8345, root).
+
+arg(7687).
+text(7687, someone who doesnt know jack about anything related to computing can still fire up a console and play whereas building a pc and optimizing it, then troubleshooting any (fairly common) problem can be cumbersome for less experimented user).
+att(7687, root).
+
+arg(6905).
+text(6905, PC can achieve 60 fps or more, while consoles are locked on 30-60 fps).
+support(6905, root).
+
+arg(7379).
+text(7379, I can check my e-mail on the ps4/3, wii/wii u, vita, xbox 360/one. Plus you can technically install a linux desktop on the ps2, ps3, wii, wii u. (google drive might work on the console web browser for work processing)).
+att(7379, 6925).
+
+arg(8377).
+text(8377, PC Gamers funding MRA groups has nothing to do with the original question. Also, I don't believe that is true anyways. Citation needed.).
+att(8377, root).
+
+arg(8346).
+text(8346, That's common to both PCs and consoles. It does not make an argument against either.).
+att(8346, 8326).
+
+arg(8166).
+text(8166, You don't have to pay to play online with the Wii U either.).
+att(8166, root).
+
+arg(7432).
+text(7432, you can use a proper size keyboard (and I think mouse) with most consoles from the ps2 onwards through usb.).
+att(7432, root).
+
+arg(7431).
+text(7431, Although not all gamers long for a more cost-effective, higher performance, versatile machine like a PC, that machine is still objectively better.).
+att(7431, root).
+
+arg(7803).
+text(7803, PC gamers support a culture of incompetence where people gloat about not playing games that they own. Out of respect for the needy children in the world then you should game on consoles and buy frugally.).
+att(7803, root).
+
+arg(8405).
+text(8405, It depends on that PC's hardware. Low end systems will perform (and cost) similarly to consoles given comparable graphics settings.).
+att(8405, 6905).
+
+arg(7813).
+text(7813, Is 2009s game of the year uncharted 2 on pc?
+Is 200 award winning the tlou on pc?
+Is tekken released on pc?
+Is umvc released on pc?
+Is mario released on pc?
+Is halo 3 on released on pc?
+Is mgs4 released on pc? 
+Is bayo released no pc?
+Is kh on pc?
+Is bloodborne on pc?
+NoMoreSpaceForMore
+).
+att(7813, root).
+
+arg(7438).
+text(7438, The majority of games on consoles are not optimized for keyboard usage while most PC games allow you to utilize a controller, in addition to other input methods such as a gamepad.).
+att(7438, 7432).
+
+arg(8461).
+text(8461, Typing passwords and email addresses with those onscreen keyboards using a controller is a tedious pain in the ass.).
+support(8461, root).
+
+arg(7480).
+text(7480, The Steam controller, which comes out in November, can emulate any controller perfectly, even a mouse.).
+att(7480, root).
+
+arg(7849).
+text(7849, mouse and keyboard lacks analog functions and rumble, forcing movement to binary set states and providing no tactile feedback to actions, which is a component of said "feel" that can be had on controller but not mouse and keyboard.).
+att(7849, root).
+
+arg(8084).
+text(8084, PC gaming makes more money than console gaming on a global basis).
+att(8084, root).
+
+arg(6909).
+text(6909, You don't have to pay to play online.).
+support(6909, root).
+
+arg(8177).
+text(8177, You can play mods on consoles too, it just requires modifying your console. Project M is a huge mod for Super Smash Bros. Brawl for the Wii, a console game with a ton of modding support. ).
+att(8177, root).
+
+arg(7948).
+text(7948, People shouldn't have to wait 10 years to play a game, unless perhaps you do not care for games.).
+att(7948, root).
+
+arg(7443).
+text(7443, it's still 60 fps same as an xbone or ps4).
+att(7443, root).
+
+arg(8257).
+text(8257, the PC has too many Cheaters. 
+- On PS4 and XboxOne you can play without Cheaters.
+- On the PC Side - Vac, Punkbuster, ..... do nothing. Payed Hooks are everywhere.
+
+for a fair Competition buy a Console.).
+att(8257, root).
+
+arg(7444).
+text(7444, I am not saying the enjoyability is objective because that is an inherently subjective term, but I am saying that in terms of capability, consoles are simply less capable than PCs.).
+att(7444, root).
+
+arg(7974).
+text(7974, PCs allow multiple desktops that can effectively separate work and entertainment on a single machine).
+support(7974, root).
+
+arg(7405).
+text(7405, the question is about all consoles in general. in which the wii u and ps3 are f2p online.).
+att(7405, 6954).
+
+arg(7386).
+text(7386, you can't emulate ps3 / 4, xbox 360 / one or wii u games on pc).
+att(7386, root).
+
+arg(7583).
+text(7583, If you can`t see a difference between 30 fps and 144fps you probably should visit your optician.).
+att(7583, root).
+
+arg(7446).
+text(7446, Except PCs aren't capped at 60, mid-range ones can easily go over 60 on average settings.).
+att(7446, 7443).
+
+arg(8348).
+text(8348, This makes the starting premise irrelevant, as both PCs and consoles use controllers with rumble support.).
+att(8348, root).
+
+arg(8517).
+text(8517, Steam is available both in Brazil and Philippines, and offers lower regional pricing in at least some of these regions, as well as in ones that have higher piracy rates as a result of worse economy (eg: Russia) .
+
+Their business is to sell games, not convince potential customers to pirate.).
+att(8517, root).
+
+arg(7953).
+text(7953, It's entirely possible to hook up a console controller to a computer with the right technical know-how.).
+att(7953, 7849).
+
+arg(8456).
+text(8456, consoles are made via mass production, while computers are quite often customized with specific options, from peripherals to components.).
+att(8456, root).
+
+arg(7451).
+text(7451, in most situations controller support for pc is shit unless you use the (in my opinion) inferior xbox controller [microsoft's fault]).
+att(7451, 7438).
+
+arg(7788).
+text(7788, The left analogue stick is indisputably better than WASD, and as movement is more important than vision. Controllers are the more effective tool for gaming.).
+att(7788, root).
+
+arg(8351).
+text(8351, You can emulate Xbox 360, PS3 and Wii U already, although the emulators are still early in development.).
+att(8351, 7386).
+
+arg(7520).
+text(7520, You can emulate Xbox 360/PS3 on PC, as well as other consoles.).
+att(7520, 7386).
+
+arg(8922).
+text(8922, It's not an increase as much as a resurgence - local multiplayer was common in PC games before the boom in online connectivity in the 2000s.).
+att(8922, root).
+
+arg(8625).
+text(8625, It didn't release simultaneously, this is unacceptable unless you are a casual PC gamer.
+
+Where is ALBW for PC?
+
+Disgraceful).
+att(8625, root).
+
+arg(6928).
+text(6928, This is not the case for Playstations, therefore you cannot say, based on this argument alone, that PC is superior to the PS4.).
+att(6928, 6909).
+
+arg(7970).
+text(7970, You actually can. There are a lot of youtube videos that prove this. $400 computers are actually better than consoles in some cases. And it will be even cheaper in the long run because xbox live and the high cost of console games will continue to waste your money.).
+att(7970, 7681).
+
+arg(8324).
+text(8324, Also, Nvidia provides GeForce Experience which automatically configure the game for the hardware it's running).
+support(8324, 7989).
+
+arg(8388).
+text(8388, Every individual console is crafted with motherly love).
+support(8388, root).
+
+arg(8925).
+text(8925, Your claim is factually incorrect. 
+
+The original version of GTA V was released on Xbox 360 and PS3 in 2013. 
+
+The PC version is the same remaster that was released on XBox One and PS4. XBOne and PS4 had only a six month lead over the PC version, not two years.).
+att(8925, root).
+
+arg(7697).
+text(7697, A console also has far less software capabilities than a PC, which would explain the lower amount of defects.).
+att(7697, root).
+
+arg(8458).
+text(8458, If a console is underpowered, you have to buy a new console or else suffer with it. If a PC is underpowered, you can upgrade its components.).
+support(8458, root).
+
+arg(8226).
+text(8226, Physically collecting games isn't as much of a thing on PC. Sure, you can buy physical copies of PC games, but they often aren't really much more than a Steam installer with a digital code for a game. If you play retro consoles especially, you can always just pop in a disc/cartridge without online.).
+att(8226, root).
+
+arg(8012).
+text(8012, The best versions of Street Fighter are not on PC, nor is the competitive scene (the most important aspect of the series) existent on PC. Your argument has been labelled as void.
+
+).
+att(8012, root).
+
+arg(7485).
+text(7485, You can switch between keyboard & mouse and controller even in-game on a PC.).
+att(7485, root).
+
+arg(8632).
+text(8632, In which case the user should buy a console as worrying about  whether a game will actually function is unacceptable ).
+support(8632, root).
+
+arg(8115).
+text(8115, I don't see console exclusives such as Red Dead Redemption ever coming to PC (without emulation).
+
+And I wouldn't expect anyone to play games such as Just Dance on a PC. Would it be possible? Yes. Is it ideal to do so? No. ).
+att(8115, root).
+
+arg(6983).
+text(6983, You can play with friends on the local network with the PC, and the world record for the largest LAN party was set on PC.).
+att(6983, root).
+
+arg(8321).
+text(8321, On PC, you can buy AAA titles for $20 - and often much less - with some patience and bargain hunting. 
+
+2-3 year old ones can go for as low as $5.).
+att(8321, root).
+
+arg(8336).
+text(8336, You cannot rent DLC on consoles either.).
+att(8336, root).
+
+arg(9050).
+text(9050, Many games fail to obtain the same level of performance while maintaining the visual quality of their console versions when using the same level of hardware.).
+att(9050, root).
+
+arg(8449).
+text(8449, PCs scale to the budget you want to spend on them.
+
+A $400 PC can be built with equal performance to a console.
+
+A $400 system - PC or console - can't achieve anywhere close to the performance of a high-end PC.).
+att(8449, 7681).
+
+arg(7481).
+text(7481, The reasons would not nearly fit into 300 characters.).
+support(7481, root).
+
+arg(8639).
+text(8639, And the consequence was PC gamers waiting 2 years to play the game, this is a joke scenario for a joke platform.).
+att(8639, root).
+
+arg(8175).
+text(8175, It doesn't take that much technical knowledge to use a console controler with a PC, most controllers come with USB and the proper drivers to run them).
+att(8175, 7953).
+
+arg(8473).
+text(8473, PCs can be easily plugged into a TV ( most graphic cards these days have HDMI outputs ) and plenty of PC games can be played from the couch with a gamepad if that is your preference.).
+att(8473, root).
+
+arg(6906).
+text(6906, only for solo gaming. Social gameplay on a local network (i.e. playing super smash bros with friends) is superior while using consoles.).
+att(6906, root).
+
+arg(7537).
+text(7537, A PC can be plugged into a TV via HDMI or any method. The keyboards sits comfortably in your lap with your mouse right next to you. This is my own personal set up and it works very well.).
+att(7537, root).
+
+arg(9455).
+text(9455, Digital Downloads have a much more significant downside, which is DRM. With DRM, the game's publisher can revoke your ownership to the game at any time, making it so that you no longer own the game. When online services go out of business or pubs take down games, you can no longer purchase the game.).
+att(9455, root).
+
+arg(8144).
+text(8144, you can download mods on pc games which makes them even better by fixing glitches, improving game play, adding better graphics, or even adding more content to the game for free! ).
+support(8144, root).
+
+arg(9247).
+text(9247, GTA and Ghost Cheats are Savegame Cheats from last Gen Console (ps3-xbox360) Crossgen shit. Developer fault.  It´s not like a Aimbot , Radar .... . 
+
+).
+att(9247, root).
+
+arg(6965).
+text(6965, You can buy games for a lot less in PC than consoles from Humble Bundles, Steam sales, and some other sites.).
+support(6965, root).
+
+arg(8872).
+text(8872, Describing the competitive scene within a fighting game as 'irrelevant' reflects the lack of industry understanding commonly found in PC gamers.).
+att(8872, root).
+
+arg(9456).
+text(9456, However, when buying physical console games that have no online activation, you can always buy them. You can order some obscure NES game from the late 80s on eBay right now. If Valve ever goes out of business and Steam becomes defunct, then I won't be able to buy any PC games on Steam ever again. ).
+att(9456, 9455).
+
+arg(8457).
+text(8457, Game developers may select specific consoles to release on, but will almost always release on PC, which isn't subject to the console brand war (outside of Macs, which aren't technically PCs anyway). So console requires buying multiple ones (to prevent lockout), whereas going PC requires only one.).
+support(8457, root).
+
+arg(8350).
+text(8350, PCs have almost no market for physical games.
+
+Why this is bad:
+
+Less buying options
+No option to sell for discount off new games
+No tangible value or collectible packaging
+Physical often better priced than digital
+Digital games are gone once provider closes or company revokes it.).
+att(8350, root).
+
+arg(10521).
+text(10521, you can play rocket league on a pc.).
+att(10521, root).
+
+arg(8417).
+text(8417, The nonavailability of a single genre of games on a platform does not mean that platform is not better than the alternative. Plus, Splatoon is only available on the current generation console with the least amount of sales.).
+att(8417, root).
+
+arg(7437).
+text(7437, one cannot say any one gaming system is objectively more enjoyable for every individual gamer, just like one cannot say any one game is objectively better than another - some gamers prefer city-building games, some prefer fps, some gamers prefer PCs, some gamers prefer consoles).
+att(7437, 7431).
+
+arg(7873).
+text(7873, In computer programs several defects are directly caused by incompatible drivers. 
+As such, having fewer software capabilities does not alone explain why consoles have a lower amount of software defects.).
+support(7873, 7697).
+
+arg(8559).
+text(8559, If someone bought a console at launch and a PC of similar specs at the same time and upgraded both at the same time, it is highly likely that upgrading the PC would be much more costly than jumping to the next console. ).
+att(8559, 8458).
+
+arg(8434).
+text(8434, That literally doesn't make any sense. Is having too many features an issue for you? Can you not play games on your PC because you're constantly distracted by Tumblr?).
+att(8434, root).
+
+arg(7828).
+text(7828, Any RTS (be it starcraft, or any C&C game) which might or might not be better games (you are posing A LOT of "indisputable" statements in this thread) cant be competently played with controllers. You cant use decent keyboard + mouse on a console, you CAN however use a controller on PC).
+att(7828, root).
+
+arg(8537).
+text(8537, Explain the $40 copies of old EA Sports games on the shelves at Walmart.
+
+Steam, GOG, and Humble Bundle sales are objectively the cheapest deals in gaming. It's not even close. 
+
+The only argument in favor of physical games was resale value, but that's been ruined now, too, by online activation.).
+att(8537, 8350).
+
+arg(8233).
+text(8233, Accurate emulation takes years to achieve, in many cases up to ten or more before most bugs are ironed out. It usually requires game-by-game tinkering on the user end to get optimal performance, and even then it's rarely perfect. Requires beefy hardware and online features often not supported.).
+att(8233, root).
+
+arg(8415).
+text(8415, PC gets plenty of notable, quality games. To name just a few:
+ 
+Mechwarrior, Star Citizen, System Shock, Shadowrun Returns, Starcraft, X-Com 2, Total War, Civilization, S.T.A.L.K.E.R., Satellite Reign, Dawn of War and the early parts of Fallout, Witcher, Crysis and Hitman series).
+att(8415, root).
+
+arg(10009).
+text(10009, One must consider what titles one likes to play. Some titles are console exclusive. Also the quality of a game is not necessarily technology dependant- old games are still enjoyable. If the premise is "the newest games that are available cross-platform have the best graphics on pc" then i agree.).
+att(10009, root).
+
+arg(7515).
+text(7515, In this case, a PC being better is purely subjective. Some people prefer PC gaming, some people prefer console gaming. Sure, if you go to a PC circlejerk subreddit, you will find definitive 'proof' that PC gaming is superior.).
+att(7515, 7481).
+
+arg(8431).
+text(8431, CoD, Destiny, CS: GO, TF2, Battlefield, etc... having some of the highest player counts and sales out of any other game beg to differ.).
+att(8431, root).
+
+arg(7783).
+text(7783, They might just be targetting the market where people pay 60 dollars for a game instead of 10.
+This does not by any stretch of the imagination mean that market might be objectively the best one (it might be for the dev, but they are not objective)).
+att(7783, 7779).
+
+arg(8435).
+text(8435, What are you waiting for exactly? The most recent 3D Zelda game was Skyward Sword, and is currently far superior on PC.).
+att(8435, root).
+
+arg(8486).
+text(8486, A mechanical keyboard can be wielded easier than a console and has the right mass and shape to cause substantially worse bodily harm than a baseball bat (which legally qualifies as a deadly weapon).).
+att(8486, root).
+
+arg(8362).
+text(8362, Consoles are generally smaller and can be more easily wielded as a weapon, therefore being more useful in fighting off burglars or other assailants).
+att(8362, root).
+
+arg(8218).
+text(8218, More Japanese developers are starting to support PC gaming. Tales of Zestiria is coming out on PC same day as PS4/PS3, and most of the main FF games are on Steam. Niche titles like Neptunia are also available. Nintendo games won't be showing up on PC, that's true, but more JRPGs in the future.).
+att(8218, root).
+
+arg(8437).
+text(8437, It means neither renting nor ease of piracy can be held as for or against either platform - both have the same effective result.).
+att(8437, 8346).
+
+arg(7323).
+text(7323, Platforms such as Steam allow for connectivity with anyone, LAN or online.  Furthermore, most co-op PC games have built in multiplayer functionality which allows you to play with your friends in the same room.).
+att(7323, 6906).
+
+arg(9810).
+text(9810, It's hardly any different from the fact that a console's manufacturer can remotely block your system - not a specific game, not a specific distribution platform, your physical $400 console - for any given reason, blocking you permanently from online access or any game updates. ).
+att(9810, 9455).
+
+arg(7675).
+text(7675, a console does have fewer software defects as the software is optimized for a single machine.).
+att(7675, root).
+
+arg(8487).
+text(8487, Macs are PCs, whether you accept it or not. You can install MacOS on a non-Mac system these days, and you can boot Windows or Linux on a Mac as well.).
+att(8487, 8457).
+
+arg(7427).
+text(7427, Most gamers aren't looking to break the world record for largest LAN-party. Most gamers just want an easily accessible system with which to party up with friends. Whether or not this is easier on PCs than on consoles is debatable, and often varies from game to game ).
+att(7427, 6983).
+
+arg(7588).
+text(7588, It is much easier to illegally download games, harming developers.).
+att(7588, root).
+
+arg(8190).
+text(8190, Just because it's better does not mean it's more enjoyable. I enjoyed playing Call of Duty more on consoles with a controller than I did on PC with mouse/keyboard, and not playing with m/k on PC automatically means losing every round. ).
+att(8190, root).
+
+arg(7442).
+text(7442, not all people want to play fps most of the time. Also some fps i prefer to play with a controller on pc like Resident evil, Dying Light an others.).
+att(7442, root).
+
+arg(10237).
+text(10237, It's extremely different. No matter what, you will always be able to play physical games without online activation. The fact that publishers can prevent you from redownloading and thus playing single player games is strictly a digital game thing. ).
+att(10237, 9810).
+
+arg(8455).
+text(8455, A lot of the services you mentioned are not available in developing/2nd world countries such as Brazil, Philippines, etc. Many of these countries have computers, but don't have games released in their country, or are too expensive to purchase, so they resort to piracy.).
+att(8455, 8345).
+
+arg(9813).
+text(9813, This still leaves cheaters in PS4 versions of MGSV, DCUO, Destiny, COD:AW, BF4, Diablo 3, Rocket League, NBA 2016 and DSII among others (it literally took a few minutes of research to find out).).
+att(9813, 9247).
+
+arg(7582).
+text(7582, Laptop is a PC, so of course
+
+PC + console > PC).
+att(7582, root).
+
+arg(7434).
+text(7434, This is also evident in the games themselves - there is far more non-verbal communication in PC games than console games.).
+support(7434, root).
+
+arg(8955).
+text(8955, You can't install Linux on PS3 any more unless you kept an outdated firmware version - which can't be used to play online and can't run games that require newer firmware versions.).
+att(8955, root).
+
+arg(8025).
+text(8025, You cannot rent. Services like Gamefly, which are ~$12/month for two games out, allow users to play $60 retail games, at launch, for less than $10 if they beat the game in around two months, an easy feat for most. This isn't including retail outlets like Family Video, either.).
+att(8025, 6965).
+
+arg(9816).
+text(9816, Then explain why PS4 versions of Diablo 3 are full of cheaters, while the PC version is cheater-free?
+
+You can't hack the savegame files or the game's logic on PC, and Blizzard is actively monitoring for any exploiters or botters - and banning them.).
+att(9816, 9247).
+
+arg(8153).
+text(8153, I disagree with this as one of the biggest problems is whether or not a game will actually run on one's PC and because there are a seemingly infinite amount of PC configurations, trying a game out first will always be better than just researching it.).
+att(8153, 7799).
+
+arg(8821).
+text(8821, They haven't been "abandoned," by consoles if the older consoles that still have those features still exist. The debate is PC vs. consoles, not PC vs. modern consoles. ).
+att(8821, 7468).
+
+arg(7743).
+text(7743, most of the games I find fun to play are aimed at people who want a single player experience.).
+att(7743, 7496).
+
+arg(8356).
+text(8356, That's what standardization is for. 
+The developers use standardized APIs such as OpenGL or DirectX. It's the responsibility of the hardware manufacturer to ensure that their hardware and drivers produce correct results to given API calls.).
+att(8356, 7864).
+
+arg(7982).
+text(7982, It's actually easier to develop games on PCs than consoles because they're so much more powerful, you don't have to optimize programs as much to get good performance out of them. PS3 games were some of the most difficult games to program. It was harder to program Doom on the Jaguar than PC.).
+att(7982, 7864).
+
+arg(8917).
+text(8917, Manufacturing of the discs / cartridges and their transportation both increases game costs and has a negative impact on the environment. Digital distribution does not suffer from either of these problems.).
+att(8917, 8226).
+
+arg(8394).
+text(8394, Dependence on physical copies has a downside: with a console game, you will be prevented from playing the game if the disc/cart is damaged, destroyed... or, in case of a disc, merely scratched (which some consoles did very often).).
+att(8394, 8226).
+
+arg(8570).
+text(8570, That hasn't been "ruined". The debate is console vs. PC, not modern consoles vs. PC. You can still buy thousands and thousands of console games that don't require online activation. And even most modern console games don't require online activation. ).
+att(8570, 8537).
+
+arg(7507).
+text(7507, People may skew the results/responses to promote a product.).
+att(7507, 7462).
+
+arg(7656).
+text(7656, Console manufactures have an entire hardware platform to push at once, very easy to advertise to the masses.
+
+A PC is a collection of products.).
+support(7656, root).
+
+arg(7511).
+text(7511, all gamers should educate themselves in such things.).
+att(7511, 7411).
+
+arg(8163).
+text(8163, if you just assume every pc is a powerful machine you end up with situations like ac: unity where the game looks pretty but runs badly on all hw).
+att(8163, 7982).
+
+arg(7463).
+text(7463, Some people actually prefer the Xbox Controller.).
+att(7463, 7451).
+
+arg(7503).
+text(7503, The vast majority of gamers appear to want a system that can be easily plugged in to a TV, and played from the couch, at least it would seem this way, since consoles are more popular than PCs (when gaming).).
+att(7503, root).
+
+arg(7836).
+text(7836, in addition, online multiplayer requires no additional cost to the player, unlike Xbox Live Gold and Playstation Plus. ).
+support(7836, root).
+
+arg(8919).
+text(8919, Not even there. There are plenty of older PC games which support various modes of local multiplayer - including split-screen.).
+att(8919, root).
+
+arg(7395).
+text(7395, there are far more PC exclusives than console exclusives).
+att(7395, root).
+
+arg(8251).
+text(8251, Accurate emulation takes years to achieve, in many cases up to ten or more before most bugs are ironed out. It usually requires game-by-game tinkering on the user end to get optimal performance, and even then it's rarely perfect. Requires beefy hardware and online features often not supported.).
+att(8251, root).
+
+arg(8181).
+text(8181, A Link Between Worlds can't be played on PC yet due to lack of a fully functioning 3DS emulator. Also, while this does not entirely refute the point, in order to legally play games on emulators you need to own the console anyways. ).
+att(8181, root).
+
+arg(8165).
+text(8165, There are several games exclusive to PC as well ( Dota 2, Pillars of Eternity, Star Citizen). Also, the games mentioned range over several platforms which would cost hundreds of dollars to get them all, so not a fair comparison.
+Also, with the use of emulators, PC has access to a plethora of games.).
+att(8165, 7813).
+
+arg(7772).
+text(7772, 1). Where is your proof  they are "indisputably" the most elite devs?
+
+2). Why do choices of some devs matter? They might just be trying to make the most money which says nothing about which system is better. ).
+att(7772, root).
+
+arg(8289).
+text(8289, have edited the last line. "real" was not the right word. "fair" is way better and Mouse and Keyboard are fine.
+Some Genre are better with Mouse and Keyboard - FPS, Real Time Strategy. On the other Side  - Driving Games - Jump and Run  better with a Gamepad. Not every Gamer prefer the same.  ).
+att(8289, root).
+
+arg(8104).
+text(8104, on Steam there are sales often and you can buy some games from them for even cheaper than renting with of course the added bonus of being able to keep it. and you also can get far more games on a pc than on an individual console because PC's have been around for far longer than the ps4 and xbox one).
+att(8104, 8025).
+
+arg(8146).
+text(8146, playing the devils advocate:
+
+while a good PC could run at a much better resolution and a higher FPS, you would have to spend thousands of dollars to achieve it than some who just wants to game at 1080p.).
+att(8146, root).
+
+arg(8142).
+text(8142, consoles are not powerful enough to run at 60 fps and 1080p while a good pc can run on 4k and 100 fps).
+support(8142, 6905).
+
+arg(7394).
+text(7394, most people are likely to buy a 60 Hz monitor / tv due to lack of understanding how resolution and frame rate work there for they won't get the > 60 fps bonus).
+att(7394, 6905).
+
+arg(8178).
+text(8178, At this time, PS3/360 emulation is less than serviceable, with only a few games being able to be run well. The specifications required in order to emulate PS3/360 games are also fairly high. ).
+att(8178, 7520).
+
+arg(8003).
+text(8003, People who believe SSB is better on PC aren't intellectually capable of having fun, and so their opinions shouldn't be factored into debate.).
+att(8003, 7987).
+
+arg(8915).
+text(8915, If we're comparing both platforms over their whole lifetime, then the argument against PCs over lack of local multiplayer games is null and void. 
+There are plenty of older PC games which support local multiplayer through splitscreen, hot-seat or other similar means.).
+att(8915, 8821).
+
+arg(7854).
+text(7854, in time, nearly all console exclusive games come to PC through emulation and are often better as a result due to increased resolution, unlocked framerate, custom texture replacement, and other overall modding of the game).
+att(7854, root).
+
+arg(7381).
+text(7381, Since a mouse and keyboard is an objectively better control input than a controller, in terms of precision and accuracy in FPS games.).
+support(7381, root).
+
+arg(7861).
+text(7861, Only a part of all players prefer or even like FPS games, so that's not always an argument).
+att(7861, root).
+
+arg(7457).
+text(7457, Besides the fact that we are talking about FPS games in this thread, which means you are diverting the topic by saying "not all people want to play FPS," we are also talking about objective performance, not subjective enjoyability, and in performance a mouse and keyboard takes the cake.).
+att(7457, 7442).
+
+arg(8636).
+text(8636, You do not know what the word objectively means.
+
+Street Fighter 4 didn't even launch simultaneously on PC, this is unacceptable.
+
+Where is the community? This is also unacceptable as the series literally relies on a thriving community which PC cannot provide.
+
+Gimp platform ).
+att(8636, root).
+
+arg(7487).
+text(7487, A PC is more versatile in what it can do and better at what it can do. PCs can do everything that consoles can do, for cheaper as well. The initial cost of a decent gaming computer may be equal to or higher than a console, however the games on PC are cheaper as well.).
+att(7487, root).
+
+arg(8928).
+text(8928, There are plenty of cheaters on consoles. COD: Ghosts and GTA Onine are just crawling with them, and the games' publishers are completely ineffective in stopping them.).
+att(8928, 8257).
+
+arg(7436).
+text(7436, you could spend £100 on a ps3 and still get a good gaming experience with some great exclusive games).
+att(7436, 7382).
+
+arg(8186).
+text(8186, Because you need a laptop for school or work to do your work on the go. ).
+att(8186, 7382).
+
+arg(7419).
+text(7419, some gamers prefer consoles over PCs. Gaming is not objectively a more enjoyable experience on one system than on another. Not all gamers long for a more sophisticated/customisable platform, some (most gamers, it would appear) are perfectly content with the simplicity of a console.).
+att(7419, 7382).
+
+arg(8266).
+text(8266, I was with you until that last line. Playing with a keyboard/mouse allows for a higher skill ceiling than with a controller. Yes, you can use k/m for some console games, however most everyone else would be using a controller. Real competition with FPS games is only on PC.).
+att(8266, 8257).
+
+arg(7852).
+text(7852, this is incorrect.  Rendering more frames than your screen can display only introduces screen tearing which is not beneficial.  ).
+att(7852, root).
+
+arg(7806).
+text(7806, If you are that concerned about needy children, maybe it would be even better to buy cheap games on pc, only the ones you actually play, and send the extra 59 dollars you would have spend on a console game their way).
+att(7806, 7803).
+
+arg(7811).
+text(7811, The quality of exclusives is better on consoles.
+
+See - Mario Kart 8, Halo 3 and Red Dead Redemption vs The Sims 2 & Doom).
+att(7811, 7395).
+
+arg(8387).
+text(8387, The initial acquisition of the PC is still much more complicated. Plus, getting games up and running can be a pain. I've had to do modding DURING the installation process just to get a game to work.).
+att(8387, 7989).
+
+arg(7544).
+text(7544, this is untrue. all competitive gamers aim for between 60 and 120 fps, because the higher refresh rate means less delay between a movement (fx mouse or keyboard) and the screen showing the movement).
+att(7544, root).
+
+arg(8646).
+text(8646, When PC gamers learn to care about the art form, and the concept of fun more than specifications and numbers, then elite developers such as EAD & R* North may take them seriously.).
+att(8646, 8378).
+
+arg(8173).
+text(8173, The next Street Fighter game (V) will be released on PC at the same time as PS4 and will have cross-platform play. ).
+att(8173, 8012).
+
+arg(8528).
+text(8528, The best versions of Street Fighter by any quantifiable measurement are on the PC. The PC SF4 has less input lag, runs at higher resolutions, and runs smoother than any console or arcade version. 
+
+The "competitive scene" is irrelevant to the majority of people who play games. It's a niche.).
+att(8528, 8012).
+
+arg(7441).
+text(7441, you forget to explain why the PC is objectively better..).
+att(7441, 7431).
+
+arg(8530).
+text(8530, Irrational social stigmas have nothing to do with the actual quality of software and don't change the fact that the best version of Ultra Street Fighter 4 on the planet is objectively the PC version.).
+att(8530, 8182).
+
+arg(7830).
+text(7830, you can build an effective standalone PC that is dedicated to the task of playing games. ).
+att(7830, root).
+
+arg(8533).
+text(8533, Most games are designed for limited consoles anyway; most PC games are simply higher resolution/higher framerate ports of console games. Most games aren't demanding for even modest PC hardware, which is orders of magnitude more powerful than console hardware. They don't need that much optimization.).
+att(8533, root).
+
+arg(8380).
+text(8380, If the game isn't good enough for someone to keep, the developer does not deserve more than the one sale.).
+att(8380, 8326).
+
+arg(8552).
+text(8552, On the contrary, most pro-console arguments depend on artificially created exclusivity (ie. there is no reason that Nintendo couldn't release the next Mario Bros. game on Steam). 
+
+We're debating the quality of the platforms--not specific games. If we just look at platforms, the PC is better.).
+att(8552, root).
+
+arg(8354).
+text(8354, Analog sticks are for steering.
+A mouse is for pointing.
+
+Sticks are better for general movement.
+A mouse is better for shooting or other precise pointing actions.).
+support(8354, root).
+
+arg(8536).
+text(8536, Used games hurt developers far more than piracy.).
+att(8536, 7588).
+
+arg(8535).
+text(8535, If you run AC: Unity with console quality textures, don't care about getting more than 30fps, and sub 1080p resolutions, it runs just as well as the "heavily optimized" console version on incredibly modest low budget PCs.).
+att(8535, 8163).
+
+arg(8422).
+text(8422, Ubisoft is infamous for having unoptimized games. Their games don't even run well on the consoles you're in full support for. Besides, if a developer needs to push a quick optimization fix, it's much easier on PC, whereas consoles only allow for weekly updates that need heavier certification.).
+att(8422, 8163).
+
+arg(7390).
+text(7390, A PC does these tasks much more efficiently with a keyboard, and the little keyboards that can be attached to the controllers are inferior for the same reason phone keyboards are inferior - They are small and prone to typos.).
+att(7390, 7379).
+
+arg(7706).
+text(7706, If you buy a high quality computer it will stay relevant for a longer time than a console where they will eventually just try to sell you a new one a few years later.
+And if your computer does lack in some areas you can buy upgrades for just those areas.).
+att(7706, 7681).
+
+arg(7765).
+text(7765, But you can, with the added benefit of being able to upgrade part of the system when it either dies or becomes outdated.).
+att(7765, 7681).
+
+arg(7186).
+text(7186, Systems like steamboxes, which are PCs made for the living room, can be used for social gameplay. Hell, it doesn't even have to be a steambox. You can easily hook up a normal PC into a livingroom TV and play socially with multiple controllers and the right setup.).
+att(7186, 6906).
+
+arg(7945).
+text(7945, Most Pirates are from low income households which were not going to buy the game in the first place.).
+att(7945, 7588).
+
+arg(7575).
+text(7575, The console is only superior when it comes to local multiplayer. For multiplayer in general that isn`t true. Steam improved the mutiplayer experience on pc really drastically.).
+att(7575, 6906).
+
+arg(8171).
+text(8171, You can play PC games with a controller, and most PC games have rubmle support.).
+att(8171, 7849).
+
+arg(8429).
+text(8429, Using mods - actual mods - on consoles is more complicated for the end user than on PC.
+
+In contrast, PC games often have official modding tools released by their developers.).
+att(8429, 8177).
+
+arg(7882).
+text(7882, Sure an RTS game can be played adequately by an controller, it can be played much better with kb+m. My Razer Naga and gaming keyboard provides up to 30 accessible keys for actions skills or macros. This more than double of what a controller is capable.).
+att(7882, 7834).
+
+arg(8099).
+text(8099, Zelda can be played on a PC using an emulator).
+att(8099, root).
+
+arg(7829).
+text(7829, Yeah I didn't think so ).
+support(7829, 7787).
+
+arg(7995).
+text(7995, The best versions of every Street Fighter game are on the PC.
+
+You can play Wii Sports on the PC (at a higher resolution than a real console).
+
+If someone takes your advice, their best option is to use a PC.).
+att(7995, 7787).
+
+arg(8409).
+text(8409, Many games explicitly separate casual and competitive (often called "ranked" or "ladder") matches. 
+
+Nobody forces casual gamers to enter competitive matches if they don't want to.).
+att(8409, 7430).
+
+arg(7818).
+text(7818, Super Mario Galaxy - The best game in entertainment history, cannot be played competently with WASD. Therefore WASD is an unacceptable standard within this industry.).
+support(7818, root).
+
+arg(8185).
+text(8185, With peripherals coming along like the Steam Controller, these hard distinctions between the advantages of Keyboard/Mouse vs. Controller are shaping up to blend together more seamlessly.).
+att(8185, root).
+
+arg(8790).
+text(8790, Statistically speaking, PC gamers are neck beards and fedora loving freaks. Console gamers are normal people, why would I want to join the "master race"? ).
+att(8790, root).
+
+arg(7440).
+text(7440, At around 30 FPS the increases in performance with FPS start diminishing, so at 30 FPS you will begin to stop noticing your loses due to inferior hardware.).
+att(7440, 7430).
+
+arg(7960).
+text(7960, Joysticks are not as accurate when aiming. The reason it feels better with a mouse is because you have a sense of control and precision. Which some people would prefer over vibrating motors.).
+att(7960, 7849).
+
+arg(6908).
+text(6908, frame rate is meaningless if the game itself is not available on PC. Examples include: rocket league, smash bros, mario cart, halo MCC).
+att(6908, 6905).
+
+arg(8131).
+text(8131, some of these games are quite good,  but you can, or will soon be able to play all these games on a pc with an emulator. and you can't play world of warcraft, starcraft, the civilization series, terreria, kerbal space program, the half life series, league of legends, and much more on a console  ).
+att(8131, 7813).
+
+arg(8426).
+text(8426, There's a difference between releasing games exclusively for a superior platform, and knowing what method allows for the most income. Rockstar released GTA V in three waves, earning them the most revenue possible. That's why they didn't burst out the gates with the best version to begin with.).
+att(8426, root).
+
+arg(8188).
+text(8188, Why should I have to wait 10 years just to steal games?).
+att(8188, 8099).
+
+arg(8056).
+text(8056, Optimization is always ideal, regardless of platform. With PC you don't know the limitations of the customer. They typically won't know either. You WANT your product as small as possible.
+
+With a console you know that your product will work on one system the same as any other.).
+att(8056, 7982).
+
+arg(10449).
+text(10449, these components can't achieve the same performance because the games aren't optimized as they are on consoles).
+att(10449, root).
+
+arg(7459).
+text(7459, Dualshock 4 is natively supported on Windows and even the Dualshock 3 can be set up fairly easily. Plus you can use flightsticks, racing wheels, and other peripherals on PC.).
+att(7459, 7451).
+
+arg(8213).
+text(8213, More and more local multiplayer games are appearing on PC.).
+att(8213, 7575).
+
+arg(8023).
+text(8023, Rendering at higher frame rates than the display refresh rate reduces input lag due to shorter rendering and raster scan times. 
+
+Aliased controller response is not an issue when the frame rate is locked at multiple times the screen refresh rate (e.g. 120 fps @ 60 Hz)).
+att(8023, 7852).
+
+arg(6930).
+text(6930, Academic studies have proven that higher framerates increase player performance).
+support(6930, 6905).
+
+arg(8960).
+text(8960, V-Sync, FreeSync and G-Sync exist to solve that problem.
+
+The ability to produce the frames faster means that under heavier load (a large number of models, effects etc on screen), the system will still be able to maintain an acceptable frame rate (and not drop from 30 FPS to 18 FPS)).
+att(8960, 7852).
+
+arg(8628).
+text(8628, Same happens to any digital games or DLC you own on the console if you lose your PSN / XBL / eShop account.
+
+Certain consoles could - and did - scratch discs without user fault  including some models of Xbox 360 and PS2 (the latter if stored long enough with the laser in a specific position).).
+att(8628, root).
+
+arg(8523).
+text(8523, Buying a PC from Dell is no more difficult than buying a video game console. Using Steam is no more difficult than using PSN or Xbox Live. 
+
+Just because one game was poorly made does not mean that there is any flaw in the platform itself.).
+att(8523, 8387).
+
+arg(8032).
+text(8032, That may be true with prebuilt PCs, but if you build your own, it is a lot cheaper since you don't have to pay for the building of the entire computer.).
+att(8032, 7681).
+
+arg(8389).
+text(8389, RapeLay is a crude rape simulator that got more media attention than it deserved, not a "champion PC exclusive" in any way.
+
+Try Star Citizen, Shadowrun Returns, X-Com 2 or the Total War series. Those are actual high-profile PC exclusives.).
+att(8389, root).
+
+arg(8118).
+text(8118, Consoles smell better than PC).
+att(8118, root).
+
+arg(8195).
+text(8195, A sizable amount of Japanese developers don't support PC as a gaming platform. I play games on PC and console, and my favorite games released this year (Little Battlers eXperience, Etrian Mystery Dungeon, and Splatoon) are not available on PC. My most anticipated game, Persona 5, isn't on PC either.).
+att(8195, root).
+
+arg(7283).
+text(7283, You feel the shooting while playing FPS games.).
+support(7283, root).
+
+arg(7912).
+text(7912, PC distribution channels such as Steam are more reasonable to work with from a developer perspective.  For example Sony/MS/Nintendo has strict approval systems for games to enter their platform.  The big three also require significant start up costs rather than commission-only based on sales.).
+support(7912, root).
+
+arg(9950).
+text(9950, This is a subjective opinion; it has no value in a debate over whether PCs are an objectively better gaming platform than consoles. Besides, a quality gaming PC can emulate PS3 now anyway, and a  PS3 controller can easily be paired to a PC. PS3 is therefore irrelevant to the broader debate.).
+att(9950, 7743).
+
+arg(8469).
+text(8469, Software bugs are a result of lack of quality testing or mismanagement of the development team. There were AAA console games that have been released with game-breaking bugs.).
+att(8469, 7675).
+
+arg(7546).
+text(7546, I agree that people on /r/PCMasterRace may be predisposed against consoles, however the reasons why we support PC are both numerous, clearly stated, and for the most part rooted in objective facts, such as performance, cost, and versatility.).
+att(7546, 7515).
+
+arg(9955).
+text(9955, DRM platforms like Steam and Origin exist, and are very, very successful. Piracy is not impactful enough to the industry to be relevant to the broader discussion of whether PCs are objectively better gaming platforms than consoles. Furthermore, piracy has been discussed elsewhere in this debate.).
+att(9955, 8210).
+
+arg(8976).
+text(8976, It was an assertion that you cannot emulate them at all, period. That premise is false.
+
+An assertion that you cannot emulate them accurately or at acceptable speeds would be true.).
+att(8976, root).
+
+arg(8982).
+text(8982, While it's true the systems have been around for close to a decade, the emulators were not in development for nearly as long.
+
+RPCS3 started development four years ago, and Xenia only two years ago.).
+att(8982, root).
+
+arg(10495).
+text(10495, this leads to fragmented systems. Instead of developing for one system, one architecture and gpu library. Developers now need to consider permutations on each making the project cost prohibitive and drives funds away from developing experiences to technicalities of systems itself.  ).
+att(10495, 7026).
+
+arg(8328).
+text(8328, The PC's digital marketplace has a much healthier economy than consoles.
+
+On a PS4, you can only download from the PS Store. Prices are high.
+
+On a PC, you can download from Steam, Origin, Uplay, GOG and more. Low prices are common.
+
+Consoles are monopolised. PC has a competitive marketplace.).
+support(8328, root).
+
+arg(8940).
+text(8940, Difficulty of pirating games does nothing to discourage piracy on consoles.
+
+If there's a way, pirates will pirate regardless of how difficult it is to do - see the Brazillian piracy technique on the PS4.
+).
+support(8940, root).
+
+arg(8571).
+text(8571, On the flip side, if you lose access to your Steam/GOG/Origin/Whatever account, you won't be able to redownload your digital games on PC. You can make the argument that this requires stupidity on the part of the user but so does scratching your discs.).
+att(8571, 8394).
+
+arg(7684).
+text(7684, some people actually prefer to have machines dedicated to a single task and wouldn't like to mix their work with their entertainment. ).
+att(7684, root).
+
+arg(8314).
+text(8314, Renting harms the industry as much as piracy: one person buys the game, shares it with the others, and the publisher and developer only get money for that single initial sale, not a single cent from the other players .).
+att(8314, 8025).
+
+arg(7380).
+text(7380, Most console gamers have laptops).
+att(7380, 6925).
+
+arg(7449).
+text(7449, most of these are Indy games made by people for the sake of making a game in a torrented version of game maker. [to be clear I know the range of exclusives is higher but I can get better quality exclusives on ps3 / 4. But hopefully that changes with current gen being an x86]).
+att(7449, 7395).
+
+arg(12117).
+text(12117, Just stating that someone is wrong while not providing evidence to why they are wrong doesn't make you correct).
+att(12117, 8012).
+
+arg(7855).
+text(7855, However it might be possible, it can in no way compare to running on a PC game (which has the option to choose for controller). For example Red Alert 3 was also ported to consoles, which worked, but compared to mouse+keyboard, only barely.
+).
+att(7855, 7834).
+
+arg(8379).
+text(8379, Emulation is not illegal in many countries.).
+att(8379, root).
+
+arg(8381).
+text(8381, You are a troll).
+att(8381, root).
+
+arg(8198).
+text(8198, 95% of the "counter arguments" delivered by PC gamers rely on the ability to illegally emulate console gaming anyway, meaning that supporting PC gaming is actually hand in hand with actively harming the industry. As further evidenced by how PC Gamers fund MRA groups.
+).
+att(8198, root).
+
+arg(7422).
+text(7422, With a 60 Hz monitor, the frame refresh rate of the screen is capped at 60 a second, however, with the computer generating frames at a rate higher than 60, every time the monitor refreshes it has a more accurate picture of what the computer is trying to display.).
+att(7422, 7394).
+
+arg(8224).
+text(8224, This is true, but a lot of the ones I like still aren't on PC. And developers "starting," to support PC isn't a reason that PC is better than consoles right here and now. Though in five years I'll get back to you on this, since I do think it'll change.).
+att(8224, 8218).
+
+arg(8478).
+text(8478, They want a system that is cheap and simple to use. Their choice of console over PC is often informed by false assumptions about the cost, complexity and ease of use of both platforms.
+
+Steam Machines have that audience covered.).
+att(8478, 7503).
+
+arg(10522).
+text(10522, your point is untrue as there is an emulator for the xbox 360 in the works which was released only 10 years ago.
+and even without emulators pc has thousands of  games that you can't play on consoles  according to wikipedia ).
+att(10522, 8233).
+
+arg(8439).
+text(8439, Tell that to all of the consoles that have overheated this generation and last generation. Packing a bunch of cheap hardware in such a small space tends to cause issues.).
+att(8439, 7675).
+
+arg(7770).
+text(7770, Nintendo EAD, Rockstar North and Team ICO are indisputably the three most elite developers in the entire industry. These developers prioritise game development for consoles over PC. 
+
+E.G 1 - GTAV is the most important release of the last decade and released a year late on PC.
+
+
+
+
+
+).
+att(7770, root).
+
+arg(8030).
+text(8030, As I have won every argument, I therefore represent the higher intelligence of console gamers compared to PC gamers. As console gamers are more intelligent (and socially adept) they are better able to interpret art forms and overall can extract more meaningful experiences from video games. ).
+att(8030, root).
+
+arg(11861).
+text(11861, In order for a master system to emulate a slave system, the master system must be 10 times stronger, if we follow moores law and assume pc=console on the console release day, emulation is possible about 5 years after, and don't forget the newest hardware is expensive. Argument refuted.).
+att(11861, 8198).
+
+arg(7814).
+text(7814, A mouse provides far more control than an analogue stick, making aiming far more accurate, precise, and quick. Movement is also used in conjunction with WASD and the mouse, allowing even an casual player to look and move in any direction almost instantly with great accuracy. ).
+att(7814, 7788).
+
+arg(7505).
+text(7505, Just because one gaming system is more popular, does not mean it is superior).
+att(7505, 7503).
+
+arg(8333).
+text(8333, Opportunity does not make the thief.
+
+Pirates don't pirate because it's easy, they do it because they don't want to pay for the games.).
+att(8333, 7588).
+
+arg(7991).
+text(7991, Console piracy is rampant. It had a large role in killing the Dreamcast.
+
+Console piracy is actually a bigger problem than PC piracy, because PC hardware manufacturers make money on hardware sales whereas console manufactuers lose money on hardware and have to make it up through games.).
+att(7991, 7588).
+
+arg(6913).
+text(6913, Rocket League is available for PC, and you can play console games in a PC using an emulator).
+att(6913, 6908).
+
+arg(8678).
+text(8678, PC's library of couch co-op games is vastly superior to xbone and ps4 COMBINED (75 xbone, 99 ps4, 351 pc).  This includes the new early access game Rivals of Aether, an extremely well-designed, fun, and competitive platform fighter on Steam.  ).
+att(8678, 6906).
+
+arg(7992).
+text(7992, Champion console exclusive - Zelda > Champion PC exclusive - Rapelay).
+att(7992, root).
+
+arg(7475).
+text(7475, This is provably wrong, as most PC exclusives are actually exclusives because they cannot be ported to a controller so few buttons.
+The most popular exclusives are things such as 
+Dota 2
+League of Legends
+World of Warcraft
+That are not:
+"Indy games made by people for the sake of making a game").
+att(7475, 7449).
+
+arg(11864).
+text(11864, You mean doesn't right?
+What he meant was that we're debating the platform in a meta standard, not ultimately which one has the best games).
+att(11864, 8642).
+
+arg(8484).
+text(8484, /r/PCMasterRace is predisposed against console fanboyism more than against consoles as such.
+).
+att(8484, 7546).
+
+arg(8424).
+text(8424, Crappy indie games have on more than a few occasions led to their developers getting job offers in bigger companies and developing the same concept into a much higher quality game with larger team and higher budget - among other games, this happened with Portal (see "Narbacular Drop")).
+att(8424, 7449).
+
+arg(8525).
+text(8525, This is not a red herring.  It is a fact that current emulators are not capable of emulating the latest generation consoles at a comparable level of performance.).
+support(8525, 7386).
+
+arg(8934).
+text(8934, No cheat detection method will detect every possible cheat and never return a false positive. 
+
+Both VAC and Punkbuster detect and stop cheaters - this can be found out easily by checking their ban statistics.).
+att(8934, 8257).
+
+arg(8503).
+text(8503, Renting has nothing to do with whether or not the publisher deserves the sales. High quality games will be rented more, and people who rented a game will have less reason to actually buy it later (since they already finished it).
+
+(the same can be said about piracy on any platform)).
+att(8503, 8380).
+
+arg(8447).
+text(8447, You can. 
+
+PS4 uses a cut-down version of same chip as R9 270X. PS4 has 10% less CU and 20% lower clocks, causing  28% performance drop, giving overall performance comparable to R7 260X.
+
+A system with either of these GPUs and more system RAM than PS4 can be built with a $400 budget.).
+att(8447, 7681).
+

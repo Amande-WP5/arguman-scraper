@@ -1,0 +1,15 @@
+arg(root).
+text(root, Mithril is killing React).
+
+arg(15985).
+text(15985, Mithril is much faster).
+support(15985, root).
+
+arg(15984).
+text(15984, Mithril is much smaller).
+support(15984, root).
+
+arg(15983).
+text(15983, Learning Mithril is much easier than react).
+support(15983, root).
+

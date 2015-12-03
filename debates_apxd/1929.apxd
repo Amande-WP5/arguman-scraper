@@ -1,0 +1,93 @@
+arg(root).
+text(root, There is existence after death.).
+
+arg(12797).
+text(12797, That being said, this isn't relevant, because what happens to that energy when we die is known. The signals were only able to exist because energy was brought to the brain via oxygen due to blood flow due to the heart pumping. When the heart stops pumping, no more oxygen, no more signals.).
+att(12797, root).
+
+arg(12442).
+text(12442, The meaning of "existence after death" is uncertain.
+
+It can mean:
+
+1. Religious existence (where people's soul live in places we cannot reach, like Heaven and Hell)
+
+2. Mind existence in Physical sense (in electronic field maybe?)
+
+3. Physical Body (yes, it exist after death) ).
+att(12442, root).
+
+arg(13008).
+text(13008, The concept of existence in general and our universe specifically will not come to an end, but your consciousness will.).
+support(13008, root).
+
+arg(13007).
+text(13007, That existence does not include you.).
+att(13007, root).
+
+arg(13009).
+text(13009, No consciousness has ever been observed to exist without a biological brain, thus it is safe to conclude that when your brain ceases to function, your consciousness will no longer exist.).
+support(13009, 13008).
+
+arg(13010).
+text(13010, Energy is prone to entropy, not spontaneous growth in complexity.).
+att(13010, root).
+
+arg(12439).
+text(12439, There is no positive proof for it.
+
+(I am not claiming there is not existence, but only doubting the justification for claiming there is such existence.)).
+att(12439, root).
+
+arg(12444).
+text(12444, Energy can be dissipated or transform into another type. It's just as likely that the energy of your conciousness is just dissipated and absorbed by other molecules. ).
+att(12444, root).
+
+arg(12621).
+text(12621, Consciousness is not energy, it is a concept.).
+att(12621, root).
+
+arg(12627).
+text(12627, Everything in the universe is made up of atoms. The chemicals in our brain that create thought are made of atoms and are only different to anything "physical" by the complexity and arrangement of those atoms, Energy evolves, so couldn't that mean our thoughts can evolve beyond our physical senses?).
+att(12627, 12444).
+
+arg(12629).
+text(12629, Every conceivable thing has a concept attached to it. Now if I replaced "Consciousness" with "Thought and Awareness" which is still a concept of something very real, What would you say then?).
+support(12629, 12621).
+
+arg(12701).
+text(12701, It could be considered chemical or electrical energy.).
+att(12701, 12621).
+
+arg(12362).
+text(12362, Energy can not be created or destroyed it's nature is to evolve, our conscientiousness is simply a complex form of energy.).
+support(12362, root).
+
+arg(12720).
+text(12720, You have to prove that. Chemical or electrical energy is detectable and testable.).
+att(12720, 12701).
+
+arg(12724).
+text(12724, There is way more reason to believe that our brain, together with our consciousness, decomposes into the dirt on our earth just like our body.).
+att(12724, 12627).
+
+arg(12794).
+text(12794, I was going under the view that consciousness is just the result of the activity of the brain, which is in the form of electrical and chemical signals. Of course you're right, the brain/mind is still a mystery and neuroscientists are far from being able to measure what's all of going on in there.).
+att(12794, 12720).
+
+arg(12796).
+text(12796, "Consciousness" is just our thoughts constantly arising and disappearing, which is the internal sensation of what is externally brain signals, much in the same way our perception of sound and color are.).
+support(12796, 12794).
+
+arg(13000).
+text(13000, Consciousness isn't a form of energy, it's a particular arrangement of matter and energy. There is no conservation law for arrangements.).
+att(13000, 12362).
+
+arg(13001).
+text(13001, "Energy evolves" is a meaningless statement.).
+att(13001, 12627).
+
+arg(13002).
+text(13002, Evolution is a process that affects populations of organisms, not physical quantities.).
+support(13002, 13001).
+

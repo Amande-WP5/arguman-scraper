@@ -1,0 +1,31 @@
+arg(root).
+text(root, Is water wet?).
+
+arg(9519).
+text(9519, How would you define "wet"? If water isn't wet, what is? Water not being wet would mean that nothing is wet, and the word "wet" would be meaningless.).
+att(9519, root).
+
+arg(9520).
+text(9520, Yup.).
+support(9520, root).
+
+arg(9521).
+text(9521, Not if it is frozen.).
+att(9521, root).
+
+arg(9531).
+text(9531, is the water wet, or what the water touches becomes wet?).
+att(9531, root).
+
+arg(9533).
+text(9533, can water make something else wet without being wet itself?).
+att(9533, root).
+
+arg(9542).
+text(9542, If we define wet as "covered or soaked with water or another liquid", then technically yes, water is wet. ).
+att(9542, 9531).
+
+arg(9544).
+text(9544, No, because the situation of being wet is something that has been covered in a layer of water that has not yet dried. Water cannot layer on itself because water molecules attract other water molecules, absorbing it into a bigger mass. Therefore, water is not wet.).
+att(9544, root).
+

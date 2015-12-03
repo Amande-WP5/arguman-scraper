@@ -1,0 +1,80 @@
+arg(root).
+text(root, This is an argument).
+
+arg(10727).
+text(10727, Appeal to Ignorance or Negative Proof.).
+att(10727, root).
+
+arg(12552).
+text(12552, 1 Fallacy Reported:
+Begging the Question).
+att(12552, root).
+
+arg(10631).
+text(10631, Not true. I disagreed with [this post](http://en.arguman.org/this-is-an-argument#10453)).
+att(10631, root).
+
+arg(10642).
+text(10642, It is not an argument until we start discussing.).
+att(10642, root).
+
+arg(11307).
+text(11307, This is a rebuttal.).
+att(11307, root).
+
+arg(10527).
+text(10527, Then this doesn't necessarily belong on the site, as this is a conversation, not an argument).
+att(10527, root).
+
+arg(10528).
+text(10528, I may have just made an argument by disagreeing).
+att(10528, 10527).
+
+arg(10668).
+text(10668, An argument is defined as an oral disagreement. Given, these are true: a. There are no textual arguments, and b. crap, in my dissagreement, it is now an argument, if you discount a.).
+att(10668, root).
+
+arg(10669).
+text(10669, An argument is defined as 
+
+"a discussion involving differing points of view"
+
+Therefore, the argument has begun. Prepare yourselves, men.).
+support(10669, root).
+
+arg(10440).
+text(10440, You cannot prove the contrary.).
+support(10440, root).
+
+arg(11834).
+text(11834, No, this is Patrick).
+att(11834, root).
+
+arg(10441).
+text(10441, I agree with you so it isn't an argument yet.).
+att(10441, 10440).
+
+arg(10560).
+text(10560, You are making a claim).
+support(10560, root).
+
+arg(11836).
+text(11836, There are people in this arguement arguing weather or not this is an arguement.).
+support(11836, root).
+
+arg(10453).
+text(10453, The website defines these maps as "Argument Maps" so within the boundaries of the website, this is in fact an argument, regardless of the content.).
+att(10453, 10441).
+
+arg(10555).
+text(10555, You only disagreed with yourself as of yet, so it isn't an argument yet. But it is now.).
+att(10555, 10528).
+
+arg(10718).
+text(10718, Logically speaking, arguments need not have premises at all, but may just have a conclusion. The statement can be seen as a conclusion with no supporting premises. Whether it was intended to be an argument and how we define when a proposition becomes an argument is a whole other matter.).
+att(10718, 10668).
+
+arg(10720).
+text(10720, In logic, arguments can still be valid if they have only a conclusion but no premises. The proposition can be presented as an argument. Given the nature of the site, it is reasonable to assume it was posed as an argument. Therefore, the proposition is an argument.).
+support(10720, root).
+

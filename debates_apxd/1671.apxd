@@ -1,0 +1,27 @@
+arg(root).
+text(root, The most important way for an overweight person to lose weight is to eat less carbohydrates).
+
+arg(9607).
+text(9607, I would agree, since sugar is a simple carb, but not all carbohydrates are created equally. Eating more complex carbs (beans, whole grains) can give you sustained energy throughout the day, while certain fats (like olive oil) can be stored (as fat) on your body within minutes. ).
+att(9607, root).
+
+arg(9359).
+text(9359, The statement is true, however eating less than your TDEE is generally more important.).
+att(9359, root).
+
+arg(9461).
+text(9461, Counter-example: 
+
+Let's say someone has a TDEE of 2000
+
+- If they eat 1500 calories worth of carbs and 1000 calories of fat/protein, they will gain weight. 
+
+- If they eat 1800 calories worth of carbs and no fat/protein, they will lose weight. 
+
+Even increasing carbs, weight can be lost.).
+att(9461, root).
+
+arg(9574).
+text(9574, Science on the field of health is in general inaccurate and often contradicting. Saying that there is one "most important way" of losing weight is based on mankind knowing everything there is to know about health, which is not true. ).
+att(9574, root).
+

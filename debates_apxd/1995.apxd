@@ -1,0 +1,23 @@
+arg(root).
+text(root, If the universe is infinite it has always existed and always will).
+
+arg(16028).
+text(16028, Maybe because you are responding to your own post ;)).
+att(16028, root).
+
+arg(15964).
+text(15964, Why did make an exact carbon copy of a post I submitted weeks prior?).
+att(15964, root).
+
+arg(13453).
+text(13453, The argument depends on whether you're referring to the universe as infinite in size, time, or both. If the second or third, then the argument must be correct by definition.).
+support(13453, root).
+
+arg(13242).
+text(13242, There are different kinds of infinity. ).
+att(13242, root).
+
+arg(13300).
+text(13300, we have strong evidence to suggest that there was a beginning and there will be an end. ).
+att(13300, root).
+

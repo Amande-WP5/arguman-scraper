@@ -1,0 +1,63 @@
+arg(root).
+text(root, English Class Should Not Be Graded).
+
+arg(10065).
+text(10065, For some, English classes teach a new language (in countries where English isn't the primary language). Hence, it should be graded, at least in these countries, to determine how well a student has learned the specific language.).
+att(10065, root).
+
+arg(8247).
+text(8247, Having an opinion that goes against the majority, will bring biases within English teachers . Ex: Giving the guy who had good support and argument involved killing people , an B; but the guy with less support who wanted to save people an A ).
+att(8247, root).
+
+arg(8223).
+text(8223, Since majority of the time all the answers are supposed to be "your intrepretations" a teacher can't be responablly asked to judge your opinion and give a grade on it).
+support(8223, root).
+
+arg(8234).
+text(8234, Teachers do not judge your opinion, they judge the support that you give and if it is sufficient to come to the conclusion that you came too.).
+att(8234, 8223).
+
+arg(10162).
+text(10162, Someone with more support has more proof and therefore has more reason for his answer. If you have less support you do not have as much proof and therefore don't have as much grounds for your confusion. ).
+att(10162, 8247).
+
+arg(10333).
+text(10333, While they do not grade based on opinion, they do grade based on their interpretation of the quality of your argument. There is no objective method to gauge such an idea, therefore it is unfair to the student if a teacher claims his argument is weak when this is merely the opinion of the teacher.).
+att(10333, root).
+
+arg(10115).
+text(10115, Some aspects of English, such as grammar, spelling, and vocabulary, have right and wrong answers. Grading is a good way to determine how well a student understands these rules of the English language. ).
+att(10115, root).
+
+arg(10187).
+text(10187, I've never experienced this and I've had plenty of English teachers with different views than myself. I'm sure some exist who would do this, but they are trained to judge the quality of the writing and the argument, and to be unbiased towards the actual viewpoint. Most enjoy unique perspectives.).
+att(10187, 8247).
+
+arg(12407).
+text(12407, grading is sadly one of the only ways to make kids pay attention in classes. Other ways include making the classes more entertaining and interactive, which some teachers have accomplished, but is very difficult.).
+att(12407, root).
+
+arg(13279).
+text(13279, In that case, it's not a failing of the grading system, it's a failing of the teacher, who should be fired. Teachers are held to specific standards when it comes to grading, including English teachers, and if a teacher is found to be biased then they will be penalized.).
+att(13279, 8247).
+
+arg(13273).
+text(13273, All teachers grade using a set of standards (Common Core here in Illinois).  The standards, which are objective, are translated in to proficiency scales, which are used basically like a check list. As long as a student shows that they can demonstrate a skill, they get a good grade.).
+att(13273, 10333).
+
+arg(12386).
+text(12386, u defnitly shood, cuz den u have peepl who talk liek dis).
+support(12386, root).
+
+arg(11134).
+text(11134, Texts and internet message board posts should be.).
+att(11134, root).
+
+arg(13297).
+text(13297, it is far easier and more effective to grade people on the 9 pillars of intelligence; then offering advice on what professions somebody might do best with their scores.).
+support(13297, root).
+
+arg(13298).
+text(13298, you have contradicted yourself; English classes are graded and people do communicate like that.).
+att(13298, 12386).
+

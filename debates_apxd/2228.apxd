@@ -1,0 +1,183 @@
+arg(root).
+text(root, Marijuana usage is harmful).
+
+arg(14856).
+text(14856, The Terrible Truth About Cannabis).
+support(14856, root).
+
+arg(14857).
+text(14857, Marijuana use linked to cardiovascular complications and death).
+support(14857, root).
+
+arg(14838).
+text(14838, Cannabis Use and Risk of Lung Cancer).
+support(14838, root).
+
+arg(14846).
+text(14846, Marijuana Said to Trigger Heart Attacks).
+support(14846, root).
+
+arg(14849).
+text(14849, Persistent Cannabis Users Show Neuropsychological Decline from Childhood to Midlife).
+support(14849, root).
+
+arg(14853).
+text(14853, Respiratory Effects of Marijuana and Tobacco Use in a U.S. Sample).
+support(14853, root).
+
+arg(15055).
+text(15055, Do you not mean it is intellectually dishonest to post so many cons from poor studies, without a single pro.).
+att(15055, root).
+
+arg(14889).
+text(14889, Study Finds Marijuana To Be Effective Against Depression).
+att(14889, root).
+
+arg(14890).
+text(14890, Cannabis is no more addictive than anything enjoyable, like video games. Both have around a 9% addiction rate. 
+Cannabis dependence is usually a lot less harmful than prescription drug dependence.).
+att(14890, root).
+
+arg(14920).
+text(14920, This was a very poor study, with a very small sample size of 20 and based on only 1 MRI of each person. 
+The scientists prejudices are reflected in his conclusions and media interviews.).
+att(14920, root).
+
+arg(15082).
+text(15082, Yes. I was thinking pro in terms of the premise.).
+att(15082, 15055).
+
+arg(15019).
+text(15019, It's intellectually dishonest to post so many pros without a single con. Especially on such a controversial topic.).
+att(15019, root).
+
+arg(14877).
+text(14877, "A longitudinal study" just by reading the title I can tell that you can't establish a causal relationship. This is ridiculous, how many people didn't get the memo that correlation doesn't mean causation ).
+att(14877, root).
+
+arg(14887).
+text(14887, Harvard: Marijuana Doesn’t Cause Schizophrenia).
+att(14887, root).
+
+arg(14888).
+text(14888, Schizophrenia seems to be disappearing (from the general population), even though cannabis use has increased markedly in the last 30 years.).
+att(14888, root).
+
+arg(14831).
+text(14831, Marijuana has been proven to cause schizophrenia).
+support(14831, root).
+
+arg(14832).
+text(14832, Smoking cannabis increases risk of depression in the case of genetic vulnerability).
+support(14832, root).
+
+arg(14833).
+text(14833, Study finds brain changes in young marijuana users).
+support(14833, root).
+
+arg(14834).
+text(14834, Cannabis use changes the size and shape of sperm, potentially affecting male fertility).
+support(14834, root).
+
+arg(14883).
+text(14883, Lack of hippocampal volume change in long-term heavy cannabis users.  These findings are consistent with recent literature suggesting that cannabis use is not associated with structural changes within the brain as a whole or the hippocampus in particular.).
+att(14883, root).
+
+arg(14835).
+text(14835, Brain Changes Are Associated with Casual Marijuana Use in Young Adults).
+support(14835, root).
+
+arg(14836).
+text(14836, Cannabis Dependence).
+support(14836, root).
+
+arg(14837).
+text(14837, Cannabis Use, Abuse, and Dependence).
+support(14837, root).
+
+arg(14886).
+text(14886, University College London re-examined this issue with a sample size over twice as large, and taking into account alcohol use, cigarette use, maternal education, and other potential confounders. The result? The authors found no association between cannabis and IQ at all, not even among heavy users.).
+att(14886, root).
+
+arg(14839).
+text(14839, Cannabis Use Steals 8 IQ Points from the Teenage Mind).
+support(14839, root).
+
+arg(14840).
+text(14840, Decreased dopamine brain reactivity in marijuana abusers is associated with negative emotionality and addiction severity).
+support(14840, root).
+
+arg(14841).
+text(14841, Effects of Marijuana Smoking on Pulmonary Function and Respiratory Complications).
+support(14841, root).
+
+arg(14842).
+text(14842, The Health Effects of Marijuana).
+support(14842, root).
+
+arg(14843).
+text(14843, Long and Short Term Effects of Marijuana Use).
+support(14843, root).
+
+arg(14844).
+text(14844, Longtime Marijuana Use Linked With Decreased Motivation, Study Finds).
+support(14844, root).
+
+arg(14845).
+text(14845, Marijuana May Cause Heart Problems in Young Adults).
+support(14845, root).
+
+arg(14847).
+text(14847, Marijuana Smoking Tied to Testicular Cancer).
+support(14847, root).
+
+arg(14848).
+text(14848, Marijuana Use and Risk of Lung Cancer).
+support(14848, root).
+
+arg(14850).
+text(14850, Review of the Validity and Significance of Cannabis Withdrawal Syndrome).
+support(14850, root).
+
+arg(14851).
+text(14851, Regular Marijuana Use Bad for Teens’ Brains).
+support(14851, root).
+
+arg(14852).
+text(14852, Regular Pot Smokers Have Shrunken Brains, Study Says).
+support(14852, root).
+
+arg(14854).
+text(14854, Teen Marijuana Use Linked with Schizophrenia).
+support(14854, root).
+
+arg(14858).
+text(14858, Even casually smoking marijuana can change your brain, study says).
+support(14858, root).
+
+arg(14859).
+text(14859, Cannabis Smoking 'Permanently Lowers IQ').
+support(14859, root).
+
+arg(14884).
+text(14884, “Through my studies, we failed to find any positive association.” Instead, “the association would be negative, between lung cancer and the use of marijuana."
+
+Cannabinoids kill cancer cells therefore cannabis can help prevent cancer. 
+
+Vaporizing and oral cannabis is an alternative.).
+att(14884, 14838).
+
+arg(14855).
+text(14855, Teens Who Smoke Weed Daily are 60% Less Likely to Complete High School Than Those Who Never Use).
+support(14855, root).
+
+arg(14885).
+text(14885, University College London re-examined this issue with a sample size over twice as large, and taking into account alcohol use, cigarette use, maternal education, and other potential confounders. The result? The authors found no association between cannabis and IQ at all, not even among heavy users.).
+att(14885, 14859).
+
+arg(14882).
+text(14882, Cannabis is neuroprotective. It helps protect the brain from damage.
+
+Cannabis causes neurogenesis. It can cause brain cell gowth.).
+att(14882, 14833).
+

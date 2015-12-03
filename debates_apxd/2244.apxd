@@ -1,0 +1,28 @@
+arg(root).
+text(root, Father ate the cake).
+
+arg(15012).
+text(15012, What do you mean).
+att(15012, root).
+
+arg(15017).
+text(15017, It mean father is evil thinking ,rherw is no evidence to said farher have this thinking.).
+att(15017, root).
+
+arg(14992).
+text(14992, He loves sweet! So he can't resist the temptation of the strawberry cake.).
+support(14992, root).
+
+arg(14995).
+text(14995, This cake is father bought for grandfather, that's no reason father ate the cake. If father want eat cake he can buy one for himself.
+).
+att(14995, 14992).
+
+arg(15002).
+text(15002, He bought the cake for his father! Reverence is very important! How can he do that!).
+support(15002, 14995).
+
+arg(15010).
+text(15010, Because of the cake is father buy, if father ate the cake, no one will suspect him.so he can eat it without fear.).
+support(15010, root).
+

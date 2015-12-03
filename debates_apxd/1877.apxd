@@ -1,0 +1,19 @@
+arg(root).
+text(root, Everything can be argued about.).
+
+arg(11797).
+text(11797, If this is objectively true then there would be no use arguing this point, therefore rendering it false).
+att(11797, root).
+
+arg(11707).
+text(11707, Not personal opinions.).
+att(11707, root).
+
+arg(11917).
+text(11917, I argue that your personal opinion that personal opinions cannot be argued with is wrong, as I just proved. ).
+att(11917, 11707).
+
+arg(11921).
+text(11921, Because that's not his opinion that's a fact. There are things we disagree about and no one of us has a better anwser than the other. ).
+att(11921, 11917).
+

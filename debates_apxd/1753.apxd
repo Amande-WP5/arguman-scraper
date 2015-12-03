@@ -1,0 +1,34 @@
+arg(root).
+text(root, The Electoral College should be abolished.).
+
+arg(10893).
+text(10893, The "National Popular Vote Interstate Compact" will inevitably abolish the electoral college's impact.).
+att(10893, root).
+
+arg(10283).
+text(10283, It might also be a good idea to do away with the current Voting system altogether and replace it with another).
+att(10283, root).
+
+arg(10926).
+text(10926, that assumes the "National Popular Vote Interstate Compact" MUST and WILL come to fruition.).
+att(10926, 10893).
+
+arg(10261).
+text(10261, If you win the right states you can get into office even if the majority of the country votes against you.).
+support(10261, root).
+
+arg(14779).
+text(14779, Because the Single Transferable Vote
+
+* Does not punish third party votes
+* Keeps local election
+* Largely eliminates plurality rule
+* Eliminates the need to vote based on others' votes
+* Is much more resistant to gerrymandering
+* Eliminates the need for expensive runoff elections).
+support(14779, 10283).
+
+arg(14817).
+text(14817, And, it means that candidates would have to actually campaign in states that they would otherwise either automatically win or lose under the Electoral College (red state vs blue state). Under the EC, solid red and solid blue states have no voice in what should be key issues of the election. ).
+support(14817, 14779).
+

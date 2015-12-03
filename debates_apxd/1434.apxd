@@ -1,0 +1,19 @@
+arg(root).
+text(root, Every Decision We Make Creates A New Reality.).
+
+arg(7307).
+text(7307, The assumption that our decisions ALTER reality is a bias of cognition - we like to think our free will is strong. However, it is more accurate (if less comforting) to acknowledge that our actions are a product of our reality.).
+att(7307, root).
+
+arg(7002).
+text(7002, This argument is wrong. The actions we do affect reality but there is no evidence that proves that they create a new reality. The many-worlds interpretation of quantum mechanics states that every possible outcome of a QUANTUM phenomenon is happening but in separate universes. ).
+att(7002, root).
+
+arg(7011).
+text(7011, Although our actions do not create new realities literally, they do transform our reality, thus making it different from what it was, becoming new.).
+support(7011, root).
+
+arg(7346).
+text(7346, Just as a reality greatly impacts an individual's action, the individual has complete agency to commit any actions; of which will have certain consequences and radiating influences, thereby creating new realities that stem from decisions. ).
+att(7346, 7307).
+

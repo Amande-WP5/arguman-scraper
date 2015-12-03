@@ -1,0 +1,17 @@
+arg(root).
+text(root, arguman.org is a copy project.).
+
+arg(14633).
+text(14633, If you want to see original, you can look this url http://whyask.us).
+support(14633, root).
+
+arg(14664).
+text(14664, arguman.org is an argument mapping platform, and the first form of argument maps was published on **1852**).
+att(14664, 14633).
+
+arg(14665).
+text(14665, and here is another argument map. is arguman.org still a copy of your twitter-replica designed site? check the source.    
+
+Disclaimer: I'm the founder of arguman.org).
+att(14665, 14664).
+

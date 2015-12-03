@@ -1,0 +1,189 @@
+arg(root).
+text(root, Believing aliens is just as illogical as believing god.).
+
+arg(11660).
+text(11660, Well you really got me backed into a corner with that one. Your arguement is airtight. I can really see now how foolish and vain my initial intentions were this entire time. Thank you.).
+att(11660, root).
+
+arg(11664).
+text(11664, Earth is not a example of "a god having created the universe".
+What happen on earth is a example of "life evolving in a planet".
+The two arguments have the same form, but only one is valid.).
+att(11664, root).
+
+arg(11666).
+text(11666, This is the only way believing in something could literally be illogical, otherwise it is only unreasonable.).
+support(11666, root).
+
+arg(11667).
+text(11667, your missing my entire point. Don't give up though. I'm certain you'll have this whole debate squared up in no time.).
+att(11667, 11664).
+
+arg(11502).
+text(11502, We don't know the probability of life per planet/galaxy/etc.).
+att(11502, root).
+
+arg(11504).
+text(11504, We don't know the probability of either event happening.).
+att(11504, root).
+
+arg(11671).
+text(11671, It would be good to have way to discuss misunderstandings and problems of form without adding new branches, to not obstruct the content.).
+att(11671, 11667).
+
+arg(11669).
+text(11669, doesn't this just draw a perfect roadmap as to the level of conditioning that has been occurring in culture? Stated one way, an argument draws a support grade of 11. Now take that SAME EXACT ARGUMENT and swap the terms we see a support grade of 0 as well as a citation for slothful induction. ).
+att(11669, root).
+
+arg(11260).
+text(11260, "Aliens" already exist in the form of humans on earth, its simply the belief that biological matter can exist elsewhere as well as here. ).
+att(11260, root).
+
+arg(11183).
+text(11183, What did I misrepresent?).
+att(11183, root).
+
+arg(11188).
+text(11188, There is. We know that it is possible for life to evolve on a planet, because we have an example of it having happened: Earth. We do not have such an example of a god.).
+att(11188, root).
+
+arg(11289).
+text(11289, We are very close on resolving this issue once we find microscopic form of life in other planets. Or then aliens would only include creatures above a certain size and intelligence.).
+att(11289, root).
+
+arg(11208).
+text(11208, The same exact thing can be argued exactly the opposite here. Check it, "We know that God created the universe, because we have an example of it having happened: Earth. We do not have such an example of an alien.").
+att(11208, 11188).
+
+arg(11068).
+text(11068, straw man fallacy).
+att(11068, root).
+
+arg(11437).
+text(11437, Mathematically, there should be another intelligent life form in among the 1E23 (1 sextillion) stars our universe. ).
+att(11437, root).
+
+arg(11215).
+text(11215, You cannot simply attribute our existence to God. I could also argue a pink unicorn created us and since we exist, a pink unicorn exists. There is no evidence that we exist because of a god or a specific god.).
+att(11215, 11208).
+
+arg(11330).
+text(11330, aliens are possible with our current understanding of how life works, and omnipotent gods are not.).
+att(11330, root).
+
+arg(12199).
+text(12199, you can't prove that Absolute doesn't exist. 
+"There is God" and There is no God" both are methaphysical assertions.).
+att(12199, root).
+
+arg(11221).
+text(11221, Same here, "We have 1 example that God exits (humanity) so it is reasonable to believe that he created the entire universe. There are zero examples of physical evidence for an alien. See guys, these are informal fallacies of ad ignoratio elenchi and formal fallacies of relevance petitio principii ).
+support(11221, root).
+
+arg(11223).
+text(11223, Thats what I was pointing out with an example. See the one next to it?).
+support(11223, 11215).
+
+arg(11186).
+text(11186, Believing in aliens means having the idea that biological life can be found somewhere on another galaxy/solar system. A god would be an omnipotent being that created the universe and might not be biological or even physical. It is an entirely different thing.).
+att(11186, root).
+
+arg(11162).
+text(11162, It is far more likely, that somewhere in this vast universe, someday, or a long time ago, something has come alive (apart from life on earth) than that some kind of superior being that is exactly as a believer might imagine has come into existence.).
+att(11162, root).
+
+arg(12208).
+text(12208, Fallacy of Assertion).
+att(12208, 11162).
+
+arg(12112).
+text(12112, Aliens may exist, God DOESN'T exist.  Comparing the two is like comparing apples to oranges).
+att(12112, root).
+
+arg(11591).
+text(11591, The existence of aliens is a testable hypothesis and a phenomenon that can be predicted with the knowledge we have. The existence of god is not testable and requires an assumption leading (in many cases) to contradictions.).
+att(11591, root).
+
+arg(12255).
+text(12255, you only say god is illogical, and for strengthen argument you use appeal to ridicule. For instance god can be both, illogical and logical, on metastate. 
+In other words we cannot even defined god in logic, to make that we need metalogic (Tarski's undefinability theorem).  ).
+att(12255, root).
+
+arg(12180).
+text(12180, The expectation that evidence will exist is not evidence. The fact remains that we have not yet discovered alien life.).
+att(12180, 11289).
+
+arg(11040).
+text(11040, There is no evidence for either.).
+support(11040, root).
+
+arg(12227).
+text(12227, We is undefined.
+
+Sentence is illogical: 
+
+[who is we?] don't know our best guess of life per planet/galaxy/etc.
+
+Probability is a guess at potentials, based on measured conditions.
+
+Humans have guessed at this potential based on measured conditions).
+att(12227, 11502).
+
+arg(11047).
+text(11047, Believing in god causes logical contradictions (depending on you definition of god)
+Believing in life forms formed on a different planet does not).
+att(11047, root).
+
+arg(12323).
+text(12323, "The existence of some gods are testable." [Citation needed.]).
+support(12323, root).
+
+arg(12282).
+text(12282, The sentence isn't illogical. The original argument was "There are 1 sextillion stars. So other life must exist". This argument (not even an argument since only 1 premise) requires a premise claiming there exists a sufficiently-high probability of life occurring in a given star system.).
+att(12282, 12227).
+
+arg(12089).
+text(12089, There are MANY possible definitions of God, when one God has been disproved the description is altered to preserve its credibility. It is not possible to test every description of God therefore it is not testable.).
+att(12089, root).
+
+arg(11650).
+text(11650, Bible citations don't count as evidence. We are proof to biological lifeforms so we have 1 proof for biological lifeform, therefore we can assume other biological lifeforms can be found elsewhere.).
+att(11650, root).
+
+arg(12240).
+text(12240, I can prove that God is illogical.  A god is an unfalsifiable hypothesis, a god cannot be proven or disproven.  It's the same concept as "I can fly when nobody is looking" or "I have a magical unicorn friend that talks to me when I'm alone"  It's just illogical, and that's why I say there is no god.).
+att(12240, 12199).
+
+arg(12147).
+text(12147, I sometimes like to think of how giant the observable universe is. we have no idea how much bigger it can be. The more matter there is in the universe, the closer it becomes for small possibilities such as another intelligent life to become a reality.).
+att(12147, root).
+
+arg(11386).
+text(11386, You cannot just make truth claims without proof. The christian bible cites occasions where other worldly beings visit the earth and calls them angels. So by saying we are proof to aliens, one could argue we are proof to angels and by that proof to God. But its fallacy cause of the initial bad axiom ).
+support(11386, root).
+
+arg(11668).
+text(11668, The existence of some gods are testable. (relatively to the definition)
+In fact, if one god require assumptions that lead to contradictions, we have a proof that this god don’t exists.).
+att(11668, 11591).
+
+arg(11390).
+text(11390, Again, I'm merely showing that this argument was dead the moment it started by not recognizing bad axioms, lack of definitions and no proof to the preceding claims.).
+support(11390, root).
+
+arg(11226).
+text(11226, "We have 1 example that God exits (humanity)." The problem with this is that you can easily replace "God" with everything you like and it would be just as believable. That is called a "God of the gaps" argument, which in itself is a fallacy.).
+att(11226, 11221).
+
+arg(11229).
+text(11229, "There are zero examples of physical evidence for an alien." Our existence is an example, why did you suddenly take this one away? Misleading argument.).
+att(11229, 11221).
+
+arg(11189).
+text(11189, We have 1 example for alien life (humanity) so it is reasonable to believe that we might discover more. There are zero examples of physical evidence for a god.).
+support(11189, 11188).
+
+arg(11187).
+text(11187, It is reasonable to believe that in the vast space in the universe we might discover that life evolved more than one time. It requires no faith to say that alien life could exist. No real scientist ever  said that they believe aliens certainly exist, because granted, that would be called belief.).
+att(11187, 11040).
+

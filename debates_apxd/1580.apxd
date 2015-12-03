@@ -1,0 +1,19 @@
+arg(root).
+text(root, video games are pretty cool i guess).
+
+arg(8741).
+text(8741, Grinding in MMORPG's is tedious and ultimately pointless.).
+att(8741, root).
+
+arg(8631).
+text(8631, It is a base form of entertainment that appeals only to the lowest common denominator.).
+att(8631, root).
+
+arg(8662).
+text(8662, Actually you seem to be thinking of Frisbee golf).
+att(8662, 8631).
+
+arg(8393).
+text(8393, sometimes they are fun).
+support(8393, root).
+

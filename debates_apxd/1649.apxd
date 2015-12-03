@@ -1,0 +1,152 @@
+arg(root).
+text(root, Capitalism is OK).
+
+arg(9416).
+text(9416, They are the mechanisms by which Capitalism operates and thus it's primary characteristic. While markets are capable in rare cases of making corrections, it is unethical when those corrections come at the expense of human lives and suffering, as they surely would if essential services were subject.).
+att(9416, root).
+
+arg(9430).
+text(9430, "Capitalism is OK" is not objective, it is a value judgement based on what ever criteria you want it to be based on. It is impossible to discuss any government system or legal state-of-affairs without talking about how its behaviour and function affects those under it, namely its Ethics.).
+att(9430, root).
+
+arg(9066).
+text(9066, Capitalism is just a system (and as such, is neutral). You can think of other systems but they will all be flawed in a way or another. The biggest flaw is the humanity itself.
+If you think the system is rigged, try to fix it first (that's the purpose of politics) rather than throw it right away).
+support(9066, root).
+
+arg(9070).
+text(9070, One could prefer equality of income over equality of chances (2 forms of equity)
+It's all about what society wants and needs. Capitalism is the right system for economic development and innovation. But do developed countries still need that ? Probably yes, but for how long ?).
+att(9070, root).
+
+arg(9429).
+text(9429, What is ethical and what isn't is subjective. I am trying to be objective here.
+If you want ethical behavior then turn to the state to enforce the law. ).
+att(9429, 9416).
+
+arg(9432).
+text(9432, I tend to agree to that. Capitalism has to be calibrated to fit one's culture etc.
+Balance is the key).
+support(9432, root).
+
+arg(9675).
+text(9675, Actually, you cannot fix capitalism. Advocating for revisionist policies which is virtually what 99.9% of all politicians support only puts a band aid on the problem.).
+att(9675, root).
+
+arg(9676).
+text(9676, Fit's the wealthiest of people's culture.).
+att(9676, 9432).
+
+arg(9442).
+text(9442, Do you mean "ponzi" scheme ?
+I believe you misunderstand the wealth creation and distribution processes.
+Wealth creation is driven by innovations of all kinds. This typically results in increased workforce and capital productivity and thus in higher wages and dividens (highly simplified)).
+att(9442, root).
+
+arg(9450).
+text(9450, If one or the other (workforce vs capitalists) get more than the other this is simply a market mechanism and each party should get what it deserves in the end. If this does not happen this means the market is flawed and needs to be fixed).
+support(9450, 9442).
+
+arg(9053).
+text(9053, "Good" and "bad" are human inventions. They are common values upon which we all agree to live together. "Good" and "bad" are defined by laws. If you have a different understanding of them, you'll be an outlaw. This isn't fair from an objective standpoint, but certainly fair to the citizens.).
+support(9053, root).
+
+arg(9454).
+text(9454, You also seem to be confused about globalization. In western countries lower paid manual jobs are generally due to the globalization which states that a white blue collar does not deserve to be paid higher than a Chine blue collar for example.).
+att(9454, root).
+
+arg(9054).
+text(9054, It creates a huge wealth gap, therefore taxes should be reasonably higher in the US. Just look at Canada for an example.).
+att(9054, root).
+
+arg(9057).
+text(9057, This isn't fair because it is the exercice of the "law" of the strongest. The law of the strongest is the ultimate law but is never fair.
+The law of the strongest is always true, whatever the context (physics, economics, politics, etc.)).
+support(9057, 9053).
+
+arg(9060).
+text(9060, Taxes and capitalism are not incompatible.
+Taxes are a matter of politics and therefore of society choice. If you think income redistribution is fairer or just serves your purpose, you should try to convince the society you live in to raise taxes and grant subsidies).
+att(9060, 9054).
+
+arg(9062).
+text(9062, Do not forget that the gap is widening but that no one is getting poorer. It's just that the richests' wealth increases faster than the poorests' wealth.
+Besides, social mobility does exist in capitalism (though there is a lot of room for improvement)).
+att(9062, 9054).
+
+arg(9063).
+text(9063, capitalism promotes freedom of the market so anybody could become a rich man.).
+support(9063, root).
+
+arg(9067).
+text(9067, Capitalism is OK for now, but it relies heavily on unlimited economic growth, which will sooner or later be impossible in a world with finite resources.).
+att(9067, root).
+
+arg(9457).
+text(9457, If you add to this globalization the third industrial revolution and the resulting automation, the Western blue collars find themselves jobless if they do not accept lower wages. But please note that the problem is not that people get fired, it rather is that they cannot find another job).
+support(9457, 9454).
+
+arg(9459).
+text(9459, ... for structural reasons such as the lack of skills and the lack of education opportunities).
+support(9459, 9457).
+
+arg(9465).
+text(9465, at the present, we are keen to just talk about the things which are considered as a problem instead of trying to fix them. If something is seen as a threat or problem and the only thing we do about it is just talking, then it eventually means that IT is OK. So capitalism is literally OK. ).
+support(9465, root).
+
+arg(9567).
+text(9567, To sustain a morally right capitalist market it requires legislation that limits the top from getting too powerful.).
+att(9567, root).
+
+arg(9385).
+text(9385, the same can be said for all other societal systems.  A dictatorship might be the perfect system if only the best possible dictator were selected.
+
+This premise thus implies that capitalism is OK in exactly the same sense as fascism is OK.).
+att(9385, 9066).
+
+arg(9391).
+text(9391, Markets are fine for luxury goods like iPads and expensive shoes, but crucial items such as medicine, and important public services such as the Police, Army and Fire Service, should not be subject to the often short-sighted profit-based motives and instabilities inherent in Capitalism. ).
+att(9391, root).
+
+arg(9393).
+text(9393, Capitalism seems very similar to a pyramid scheme. It requires consistent "growth" in order to continue functioning. This typically is achieved by the continual creation of large amounts of lower-paid manual labour jobs in industry and construction. As the world automates, this produces a problem.).
+support(9393, 9067).
+
+arg(9395).
+text(9395, In reality this does not happen. Wealth is many, many, many, many times over more often inherited than earned, most notably at the top end of the income spectrum.).
+att(9395, 9063).
+
+arg(9501).
+text(9501, It's a socioeconomic system that places ultimate authority in wealth. Either the wealthy have control of government, or they seek to eliminate it. Removing the authority of government doesn't rid us of authority, it merely transfers all authority to the super wealthy. The end result is feudalism. ).
+att(9501, root).
+
+arg(9398).
+text(9398, In theory Capitalism is not particularly problematic. However it's practical implementation has resulted in a strengthened ruling class that drift between business and government interests. Corporations write laws to benefit themselves. This is incompatible with Democracy and hurts the lower classes).
+att(9398, root).
+
+arg(9400).
+text(9400, This is a feature of the system. It seeks to throw off any and all restrictions placed upon it, and does so unethically -- shopping for low tax rates, corporate lobbying etc. Western government over the last 100 years has been preoccupied with reigning in Capitalism and cleaning up its excesses.).
+support(9400, 9398).
+
+arg(9401).
+text(9401, Your argument shoud begin with however. I never said that capitalism was the only system OK.).
+att(9401, 9385).
+
+arg(9410).
+text(9410, Short-sighted profit-based motives are not inherent to capitalism but rather to some (not all) human beings.
+Instabilities are caused by structural flaws that are constantly created and fixed
+Public goods such as defence are particular but compatible with capitalism in an insurance-like way).
+att(9410, 9391).
+
+arg(9414).
+text(9414, Inheritance is not a feature of capitalism but rather a society choice. I do believe it is an unfair custom but it is cultural).
+att(9414, 9395).
+
+arg(9419).
+text(9419, You're generalizing. This is not a feature of the system. Socialism has failed once and it does not mean that socialism is bound to fail every time someone tries to implement it. When the timing and the methods will be right it will probably succeed).
+att(9419, 9400).
+
+arg(9426).
+text(9426, Regardless of it's origin, it goes against the typically stated characteristics and goals of Capitalism, particularly meritocracy and market forces, and makes them largely irrelevant in many cases. Supporters of a pure Capitalist society should favour a 100% inheritance tax.).
+att(9426, 9414).
+

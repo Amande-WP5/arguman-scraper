@@ -1,0 +1,11 @@
+arg(root).
+text(root, Mainstream Media outlets choose to manipulate statistics to favor their political ideals; they ought not do this.).
+
+arg(6048).
+text(6048, If a public is misinformed, it cannot make informed decisions about voting).
+support(6048, root).
+
+arg(6055).
+text(6055, Media outlets may mistell statistics on accident; we do not need to assume intentions).
+att(6055, root).
+

@@ -1,0 +1,23 @@
+arg(root).
+text(root, We should limit service in Congress to one term per person.).
+
+arg(9705).
+text(9705, This will make it more difficult for lobbyists to fill congress with candidates who care more about the money which they will make from their sponsors than they care about the ultimate good of the nation. Hence, congress will be slightly more beneficial to the public.).
+support(9705, root).
+
+arg(9720).
+text(9720, Less experienced people would be in Congress. Limiting it to one would mean all the delicate systems placed would be shattered.).
+att(9720, root).
+
+arg(9786).
+text(9786, Then nobody would be in Congress long enough to learn fully how government works. A less extreme limit may be more appropriate.).
+att(9786, root).
+
+arg(9284).
+text(9284, An one term limit could create a deadlock where one congress becomes deadlocked on an issue, an election occurs, and the next congress has no interest in resolving that deadlock.).
+att(9284, root).
+
+arg(9174).
+text(9174, This will result in the constant churn of the membership of Congress, bringing in fresh ideas and people who are elected to solve current problems. It will destroy the power structure currently existing via seniority. It will prevent Congress from being a career option.).
+support(9174, root).
+

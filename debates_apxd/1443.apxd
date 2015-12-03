@@ -1,0 +1,27 @@
+arg(root).
+text(root, We should abolish systems of incarceration).
+
+arg(6955).
+text(6955, Incarceration systems are the most practical systems of justification for most criminals because they provide effective restraint of violent persons while working as crime prevention for those who fear prison.).
+att(6955, root).
+
+arg(7116).
+text(7116, Convicts of crimes that do not warrant the death penalty but are significant enough to warrant punishment should be incarcerated. ).
+att(7116, root).
+
+arg(6995).
+text(6995, they fail to rehabilitate).
+support(6995, root).
+
+arg(7000).
+text(7000, They increase feelings of shame, and helplessness, which can be fuel for future crime).
+support(7000, root).
+
+arg(7005).
+text(7005, They deter crime through fear).
+support(7005, 6955).
+
+arg(7006).
+text(7006, They incapacitate individuals from committing crimes).
+support(7006, 6955).
+

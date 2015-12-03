@@ -1,0 +1,15 @@
+arg(root).
+text(root, Apple has "air." Amazon has "fire." Google has "earth." I think Microsoft should create something called "water.").
+
+arg(9535).
+text(9535, They could live together in harmony until Amazon attacks and everything changes).
+support(9535, root).
+
+arg(9331).
+text(9331, Then we would need a 5th company to create something called "Avatar" so it can be the master of all four elements. Mastering them all would inevitably create a monopoly.  ).
+att(9331, root).
+
+arg(9436).
+text(9436, Illuminati!).
+support(9436, 9331).
+

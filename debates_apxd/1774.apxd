@@ -1,0 +1,15 @@
+arg(root).
+text(root, The Doctor in Doctor Who should never be female.).
+
+arg(10397).
+text(10397, The fact that he is male is one of the defining characteristics, and has been the subject of plot-devices, jokes, relationships etc. Although biologically he could change, he shouldn't because it would completely change the dynamic of the show. ).
+support(10397, root).
+
+arg(10461).
+text(10461, The fact that the character can be almost completely altered is what's truly interesting about the doctor. Certain plot devices and jokes won't last forever, and seeing the doctor from a female perspective has a lot of potential to bring something new to the show.).
+att(10461, 10397).
+
+arg(10508).
+text(10508, this does not mean that changes in the dynamic are bad, remember that this Doctor Who is a reboot, The show has already gone through a metamorphosis once already, not to mention each change of doctors/companios. Who's to say that a female doctor would be bad, it may be fun with new jokes and devices).
+att(10508, 10397).
+

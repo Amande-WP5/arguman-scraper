@@ -1,0 +1,7 @@
+arg(root).
+text(root, Timezones should be based on longitude only, daylight saving time abolished.).
+
+arg(8423).
+text(8423, Having daylight savings time greatly interfeirs with our internal clocks and has no purpose in modern times.).
+support(8423, root).
+

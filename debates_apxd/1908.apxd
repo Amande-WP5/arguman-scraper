@@ -1,0 +1,32 @@
+arg(root).
+text(root, We only see, what we know).
+
+arg(12253).
+text(12253, This is not the common interpretation of see. The difference between see and look is that "see" is normally about things we can't avoid, or when there wasn't a previous intention.).
+att(12253, root).
+
+arg(12305).
+text(12305, That comma is incorrect).
+att(12305, root).
+
+arg(12215).
+text(12215, This is generally valid for a subtle kind of things. I don't need to know an animal to see it, but i need to know  arts and history to grasp some details from past art, for example.).
+att(12215, root).
+
+arg(12238).
+text(12238, but you know it's "animal" and not for example "stone". Furthmore knowledge can be graded. You can say: "it is", "it is animal" and "it is a duck". In all this statements you use your knowledge. And of course knowledge is not individual, it's based on historical and cultural factors. ).
+att(12238, 12215).
+
+arg(12242).
+text(12242, In other words, I don't need to knowledge of an animal to see it. I need knowledge to comprehend what it is. ).
+att(12242, 12238).
+
+arg(12246).
+text(12246, However there is difference between looking and seeing. If you say "i don't need knowledge of animal to see it", it would better fit here " i don't need knowledge of animal to look at it". ).
+att(12246, 12242).
+
+arg(12247).
+text(12247, Because you can look at animal and couldn't see it (it could be hiding), but you cant see something and don't graps it mentally. 
+).
+support(12247, 12246).
+

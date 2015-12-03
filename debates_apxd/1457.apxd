@@ -1,0 +1,11 @@
+arg(root).
+text(root, It is impractical to try to understand how the universe works.).
+
+arg(7093).
+text(7093, No. By understanding we solve problems and create a better future.).
+att(7093, root).
+
+arg(7098).
+text(7098, For centuries people have tried to understand the universe. It has lead to us having the best quality of life ever.).
+att(7098, root).
+

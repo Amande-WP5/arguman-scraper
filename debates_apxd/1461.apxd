@@ -1,0 +1,37 @@
+arg(root).
+text(root, Most people are illogical, and democracy is a representation of some of the dumbest people.).
+
+arg(7231).
+text(7231, Because the dumbest people are, most often, the loudest.).
+support(7231, root).
+
+arg(8396).
+text(8396, Democracy is a representation of what a majority of (dumb) people think).
+att(8396, root).
+
+arg(8468).
+text(8468, Loudness has nothing to do with representation, as both loud and quiet people may only (legally) cast one vote per ballot.).
+att(8468, 7231).
+
+arg(8470).
+text(8470, A society of predominantly logical people would have a democracy that is representative of the smartest people.).
+att(8470, 8396).
+
+arg(7094).
+text(7094, Most people are illogical because they are not trained to be logical. ).
+att(7094, root).
+
+arg(8475).
+text(8475, Being logical is not human nature. However, enforcing structure over human is not as practical as providing education and training to human, so logic emerges on its own.
+
+This is one of the human fallacies, often the most direct and obvious solution as preferred by human, is the wrong one. ).
+att(8475, root).
+
+arg(8770).
+text(8770, This is outside the premise of the argument, as the argument states that most people are illogical).
+att(8770, 8470).
+
+arg(8776).
+text(8776, The dumbest people are the easiest to be cajoled into action with slogans, catchy music and/or fear. They are also the most likely to vote on single issue politics motivated in these ways.They are the least likely to do research and approach a situation pragmatically.).
+support(8776, root).
+

@@ -1,0 +1,7 @@
+arg(root).
+text(root, Trolls are productive to argument analysis).
+
+arg(8361).
+text(8361, They are able to bring out untouched points that need noting, can portray their message through sarcasm and satire, and rely on fast-paced critical thinking.).
+support(8361, root).
+

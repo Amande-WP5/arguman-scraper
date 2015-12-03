@@ -1,0 +1,7 @@
+arg(root).
+text(root, Arguman should notify you whenever someone responds to one of your premises.).
+
+arg(7628).
+text(7628, It's very easy to lose track of one and not end up responding to one).
+support(7628, root).
+

@@ -1,0 +1,163 @@
+arg(root).
+text(root, Creationism is a scientific doctrine).
+
+arg(15406).
+text(15406, Genetic algorithms apply the Evolution principles on data : mutation, selection, reproduction.
+Genetic algorithms are widely used as heuristics for many optimization problems, and lead to major results in case of drug design, evolvable hardware, artificial intelligence and simulation.).
+att(15406, root).
+
+arg(16148).
+text(16148, By the same reasoning the claim the universe was not created must therefore also be non-scientific. So belief in creationism is no less rational than belief in naturalism.).
+att(16148, root).
+
+arg(16147).
+text(16147, All proposed origin explanations are metaphysics.).
+att(16147, root).
+
+arg(16146).
+text(16146, What observations can you cite that disprove the the claim that the world was created? ).
+att(16146, root).
+
+arg(12071).
+text(12071, It can be reproduced. (See examples given for it being observed). Also computer simulations containing similar reproductive mechanisms in the members will show evolution in certain circumstances.).
+att(12071, root).
+
+arg(16145).
+text(16145, Creationism need not draw upon the Bible.).
+att(16145, root).
+
+arg(11873).
+text(11873, Being disagreed or falsified doesnt make a scientific preposition any less scientific. A preposition is either scientific or not, that doesn't depent on its degree of truth. Therefore creationism can be scientific even if it is widely regarded as false.  ).
+att(11873, root).
+
+arg(15405).
+text(15405, Evolution, notabily mutation propagation and, more globally, speciation, is observable in the case of the Genus Spartina, and the Spartina Townsendii species that is the result of an hybridation of Spartina maritima and Spartina alterniflora with an event of genome doubling.).
+att(15405, root).
+
+arg(12072).
+text(12072, It can make accurate predictions. The predictions of the Theory of evolution are not 'species X will evolve into species Y' they are that 'in the right conditions species X will evolve such that its chance of reproduction is higher'.).
+att(12072, root).
+
+arg(15959).
+text(15959, A heliocentric theory was not supported by the science at the time, and there was very little evidence. The Church was being pro-science by rejecting the idea. ).
+att(15959, root).
+
+arg(12198).
+text(12198, Evolution is a scientific premise because it is falsifiable. There are possible observations that would prove our understanding of evolution obsolete, such as a human fossil from the same age with dinosaurs, or a million year old humanoid fossil with same DNA as modern human. ).
+att(12198, root).
+
+arg(15958).
+text(15958, Just because it has been translated doesn't mean it looses its credibility. The vast majority of "differences" in all of the translations are spelling and grammer, less than 1% are differences in meaning, and none of them change the message.).
+att(15958, root).
+
+arg(15956).
+text(15956, One must believe nonmaterial(s) do not include ideas, beliefs, values, or norms. One must believe certain fields of science do not study ideas, beliefs, values, or norms. One must believe an agent, material or nonmaterial, is exempt from entertained studies, if not scientific inquiry. ).
+att(15956, root).
+
+arg(15955).
+text(15955, One must believe the definition you provided is the only oral tradition of creation myths known to mythologists. One must believe material investigations are required to consider an agency, material or not, within the realms of creation myths which is a small, albeit, meaningful oral tradition.).
+att(15955, root).
+
+arg(15935).
+text(15935, It is metaphysics.).
+att(15935, root).
+
+arg(15934).
+text(15934, Unanimity isn't necessary for science.).
+att(15934, root).
+
+arg(15933).
+text(15933, Material investigations are the only investigations permitted and relevant in a scientific investigation, which is the subject of this debate.).
+att(15933, root).
+
+arg(15932).
+text(15932, In religious terms, divinity or godhead is the state of things that come from a supernatural power or deity, such as a god.).
+support(15932, root).
+
+arg(15931).
+text(15931, Creationism is the religious belief that the Universe and life originated from specific acts of divine creation.).
+support(15931, root).
+
+arg(15930).
+text(15930, Creationism is the belief that non material agencies brought the material universe into existence. A non-material agency cannot be subject to material investigation so cannot be studied by science which is by definition the study of the material.).
+att(15930, root).
+
+arg(15893).
+text(15893, One must believe the definition you provided is the only oral tradition of creation myths known to mythologists. One must believe material investigations are required to consider an agency, material or not, within the realms of creation myths which is a small, albeit, meaningful oral tradition.).
+att(15893, root).
+
+arg(15870).
+text(15870, It is the exceptions that decide the fate of a theory. A serious problem is the Cambrian explosion, this seems to falsify the theory.).
+att(15870, 12072).
+
+arg(15826).
+text(15826, It can only do so if it:
+
+-Makes falsifiable predictions
+-Empirically tests it's predictions
+-Subjects itself to peer review
+-Changes it's theory to incorporate new data
+
+Creationism makes at best only the first of these steps, to be scientific it must use all of them. ).
+att(15826, 11873).
+
+arg(15700).
+text(15700, If the bible is not a scientific book it does not hold grounds for the claims it makes.
+
+You can't be exempt from criticism by not being a scientific book and still make scientific claims.
+).
+att(15700, root).
+
+arg(15820).
+text(15820, Creationism is the belief that non material agencies brought the material universe into existence. A non-material agency cannot be subject to material investigation so cannot be studied by science which is by definition the study of the material.).
+att(15820, root).
+
+arg(15701).
+text(15701, Touching on the truth (which is objectively the truth) by chance or an educated guesstimate without providing proof doesn't mean it's a legitimate scientific claim.
+That's like making a wild guess to a quiz question and claiming afterwards you knew the answer all along.).
+att(15701, root).
+
+arg(15695).
+text(15695, Science: A cosmic Jewish zombie can make you live forever if you symbolically eat his flesh and telepathically tell him that you accept him as your master so he can remove an evil force that was placed on humanity because a rib women was convinced by talking snake to eat from a magical tree. ).
+att(15695, root).
+
+arg(15591).
+text(15591, Job is not a factual account of events  among most Christian Scholars. It's a morality poem that was written much later than most of the OT Books. Typically it's seen as a retelling of a legendary folk tale that's inspired by divine wisdom, but not a factual account of history. ).
+att(15591, root).
+
+arg(15333).
+text(15333, The Bible has been translated many times throughout the years. I highly doubt the Bible said the earth is round before Galileo proposed it, especially since the Catholic Church banned him from teaching it. ).
+att(15333, root).
+
+arg(15316).
+text(15316, check the value of Pi according to the Bible, which also states that the sky is a roof, that the moon shines, that the stars are small, that bats are birds, that insects only have four legs, and don't get me started on Genesis.).
+att(15316, root).
+
+arg(15315).
+text(15315, The book of Job also says that the Earth has four corners. that verse doesn't mean "clean" as in free of disease, but pure. And the psalms passage means that god knew you before you existed (DNA doesn't determine your entire life; only your genetic traits and contains the infortion to make proteins)).
+att(15315, root).
+
+arg(11499).
+text(11499, It does not involve observation and experiment. It simply makes statements based of off a book that holds no scientific credibility. ).
+att(11499, root).
+
+arg(11536).
+text(11536, It is almost unanimously disagreed with by the scientific community and offers no predictions that can be tested that are more accurate than other theories.).
+att(11536, root).
+
+arg(11556).
+text(11556, It is pseudoscience.).
+support(11556, 11536).
+
+arg(11956).
+text(11956, Evolution is an operation that cannot be observed. It cannot be reproduced. And it cannot make accurate predictions. Can evolution even be considered a scientific hypothesis?).
+att(11956, 11536).
+
+arg(11963).
+text(11963, The Bible is not a scientific textbook, however where it does touch on the subject it lines up perfectly: The Earth is a sphere in space (Job 26:7), the Water Cycle (Job 36:27, 28), dead bodies cause disease (Leviticus 11:28) and the presence of DNA (Psalms 139:16).).
+att(11963, 11499).
+
+arg(12070).
+text(12070, It can be observed. Domesticated animals are very different from their non-domesticated ancestors. MANY crops now are vastly different to their pre-farming ancestors . ).
+att(12070, 11956).
+

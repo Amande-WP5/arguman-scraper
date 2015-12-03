@@ -1,0 +1,7 @@
+arg(root).
+text(root, Can something be the same but different as something else).
+
+arg(11606).
+text(11606, The word you're looking for is "similar").
+att(11606, root).
+

@@ -1,0 +1,38 @@
+arg(root).
+text(root, "gif" not "jif").
+
+arg(12106).
+text(12106, I just made a new word, it's spelled 'asdfadsehjkfdas' and pronounced like apple.  Grammar means everything when naming words, if the creator is so stupid to not add an 'e' to the name, that's their fault.  If they wanted people to pronounce it jif, they should have spelled it correctly).
+att(12106, root).
+
+arg(11788).
+text(11788, There is no e in gif, so the word is pronounced with a hard G).
+att(11788, root).
+
+arg(11516).
+text(11516, Many other acronyms that are pronounced instead of spelled are not said with the sounds of the initials of the words that they represent. For example, LASER, Light Amplification by Stimulated Emission of Radiation, is not pronounced "lasēr" (IPA).).
+att(11516, root).
+
+arg(11973).
+text(11973, But it doesn't matter what grammar indicates it should be, the creator decides how it is pronounced, much like a person decides how he/she wants his/her name to be pronounced. ).
+att(11973, 11788).
+
+arg(11608).
+text(11608, Pronunciation of all words change over time. Even their definitions change. "Literally" is sometimes used as the antonym to "literally", for instance.).
+att(11608, root).
+
+arg(12047).
+text(12047, My name is James, but you should pronounce it as "Owen".).
+att(12047, 11973).
+
+arg(11360).
+text(11360, The creator of the .gif stated himself that is was pronounced "Jif").
+att(11360, root).
+
+arg(11365).
+text(11365, it is a "Graphics Interchange Format"
+
+and Graphics is pronounced with a hard g
+therefore the acronym is also pronounced with a hard g).
+support(11365, root).
+

@@ -1,0 +1,65 @@
+arg(root).
+text(root, Postmortem organ donation should be opt-out).
+
+arg(13443).
+text(13443, While people would have the option to avoid such a thing (for example, for religious or ethical purposes), it would have a much higher chance of saving another's life.).
+support(13443, root).
+
+arg(13572).
+text(13572, Presumably because in other aspects of life you aren't already dead).
+att(13572, root).
+
+arg(13444).
+text(13444, This may lead people to donate, whether comfortable with the decision or not, because opting out may "look bad.").
+att(13444, root).
+
+arg(13573).
+text(13573, One can imagine that this incentive goes significantly down (possibly to zero) if the demand for organ transplants is met. If the majority (or possibly even a plurality) of people donate organs, this demand would be met.).
+att(13573, root).
+
+arg(13505).
+text(13505, Opt out organ donation puts people at a higher risk of dying in hospital*. It's not generally considered just moral or fair to put people in greater risk without their consent.
+
+*see attached because.).
+att(13505, root).
+
+arg(13485).
+text(13485, The only difference (even now) is a little heart on your ID. Nobody actively inquires about it now, and that seems unlikely to change.).
+att(13485, 13444).
+
+arg(13493).
+text(13493, The system could be 100% shame free. Right now its simply a checkbox on your liscence that no one ever knows or sees unless you point it out to them. ).
+att(13493, 13444).
+
+arg(13507).
+text(13507, Being an organ donor creates financial and moral incentives to let you die. While doctors may not consciously act on these incentives, they may do so unconsciously. Ergo opt out organ donation puts people at a higher risk of dying in the hospital.).
+support(13507, 13505).
+
+arg(13599).
+text(13599, Also, how is this reductio ad absurdum?).
+att(13599, root).
+
+arg(13341).
+text(13341, This allows for religious beliefs to be accommodated).
+support(13341, root).
+
+arg(13342).
+text(13342, This would save many more people).
+support(13342, root).
+
+arg(13601).
+text(13601, The better system would be to eliminate the ability for people to not answer. Right now, no answer means no, whereas in the ideal system, answering would be mandatory, eliminating the need for opting in or out.).
+att(13601, root).
+
+arg(13503).
+text(13503, Opting out is a presumption of consent. For something as vital as vital organs (heh) there must be freely given consent, not simply presumed consent. If presumed consent is okay for harvesting organs, why is presumed consent so uncommon in other aspects of life? ).
+att(13503, root).
+
+arg(13596).
+text(13596, If it is permissible to do things without consent to someone who is dead, then necrophilia is permissible. Necrophilia is not permissible, therefore something cannot be permissible on the grounds that they are already dead.).
+att(13596, 13572).
+
+arg(13598).
+text(13598, That's a very large leap. I think it's pretty clear that there's a difference between necrophilia and saving people's lives. Even if there weren't, you're still giving people a mechanism to defend themselves from such behavior. This is not the case in necrophilia.).
+att(13598, 13596).
+

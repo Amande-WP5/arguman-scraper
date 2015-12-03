@@ -1,0 +1,17 @@
+arg(root).
+text(root, The Viral Common Core Math Problem standards should be removed.).
+
+arg(14295).
+text(14295, There are no "common core math problem standards." The images that crop up on right wing blogs and your grandparents' Facebook posts are usually either fake, falsely attributed to Common Core, or both. Common Core does not require any specific method for problem solving be taught. ).
+att(14295, root).
+
+arg(14133).
+text(14133, ...it restricts the free interpretation of mathematics and further imposes the system on children at an young age in school, limiting creativity and freedom of expression, making subjects like math and science even more dull and boring due to their lack of human beauty.).
+support(14133, root).
+
+arg(14195).
+text(14195, 30/2 is equivalent according to their definition, or equal in meaning, to 5+5+5.
+
+They confound representation with the thing itself.).
+support(14195, root).
+

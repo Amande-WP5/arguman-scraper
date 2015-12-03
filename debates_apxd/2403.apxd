@@ -1,0 +1,7 @@
+arg(root).
+text(root, 'mom' only replies to korporalkernel's posts.).
+
+arg(16131).
+text(16131, Every reply of mom's to date is a response to one of my posts.).
+support(16131, root).
+

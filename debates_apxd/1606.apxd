@@ -1,0 +1,43 @@
+arg(root).
+text(root, The reason students fail in school is because they don't work hard enough.).
+
+arg(9868).
+text(9868, Effort doesn't solve the problem if the subject is not thoroughly understood or comprehended.).
+att(9868, root).
+
+arg(8757).
+text(8757, There are several more important factors, including quality of education, environment, and genetics.).
+att(8757, root).
+
+arg(8762).
+text(8762, Some people are on a different educational level than others, and may comprehend topics at different speeds. The public schooling system does not take this into affect, and can cause people to fail school disregarding the amount of effort they put in.).
+att(8762, root).
+
+arg(9214).
+text(9214, No matter how hard the students work in a forced curve school, some will fail. If all students work at 100% maximum capacity, they will all have perfect scores and some students would have to be failed due to the curve, possibly at random.).
+att(9214, root).
+
+arg(8670).
+text(8670, People who have had success in school have done so through their own personal achievements.).
+support(8670, root).
+
+arg(8699).
+text(8699, There are some students with diagnosable diseases and/or disorders that can impede their learning and lead to their failing, even if they work hard to make good grades.).
+att(8699, root).
+
+arg(8707).
+text(8707, Forced curve schools will force a certain amount of students to fail.).
+att(8707, root).
+
+arg(8708).
+text(8708, They still didn't work hard enough to pass in a forced curve school.).
+att(8708, 8707).
+
+arg(9168).
+text(9168, Speed of comprehension or mastery shouldn't matter if enough effort is applied, since it is very possible to catch up from being behind.).
+att(9168, 8762).
+
+arg(9944).
+text(9944, This is a broad, declarative statement with no support whatsoever. It fails to take into account a myriad of relevant factors that impact a student's success, and also fails to consider the possibility of corruption within education institutions.).
+att(9944, 8670).
+

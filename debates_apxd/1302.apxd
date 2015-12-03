@@ -1,0 +1,27 @@
+arg(root).
+text(root, Underwear should be forbidden for reducing bacteria growth in genitals).
+
+arg(5466).
+text(5466, Wearing a thing under your panties doubles the thickness of your clothes and produces a sweaty section between your legs which then acts as a promising area for bacteria growth and smell formation.).
+support(5466, root).
+
+arg(5589).
+text(5589, Most people in society change their underwear everyday, with washes in between use. Which in turn, results in restricted bacteria growth.).
+att(5589, root).
+
+arg(5482).
+text(5482, No one makes you wear underwear. Education would be more effective than laws.).
+att(5482, 5466).
+
+arg(5484).
+text(5484, society is dumb).
+att(5484, 5482).
+
+arg(5505).
+text(5505, The right kind of underwear can result in even less bacterial growth than freeballin'.).
+att(5505, root).
+
+arg(5547).
+text(5547, More balls caught in zippers).
+att(5547, root).
+

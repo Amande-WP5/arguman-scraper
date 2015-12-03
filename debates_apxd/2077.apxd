@@ -1,0 +1,8 @@
+arg(root).
+text(root, blob in database is not a good idea).
+
+arg(13698).
+text(13698, database is not for blob
+blob is not searchable).
+support(13698, root).
+

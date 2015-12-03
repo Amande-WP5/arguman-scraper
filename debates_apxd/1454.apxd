@@ -1,0 +1,40 @@
+arg(root).
+text(root, You should send me $5).
+
+arg(7087).
+text(7087, You could be a terrorist. I don't fund terrorists.).
+att(7087, root).
+
+arg(7181).
+text(7181, I don't have $5.).
+att(7181, root).
+
+arg(7504).
+text(7504, You haven't provided a means of doing so.).
+att(7504, root).
+
+arg(7506).
+text(7506, You haven't showed me a good reason for such act, let alone a medium of monetary transfer.).
+att(7506, root).
+
+arg(7050).
+text(7050, I'm hungry).
+support(7050, root).
+
+arg(7792).
+text(7792, I am a red blooded 'murican born and raised in Texas. Also I'm sure that it's some kind of sin for ISIS to use US dollars.).
+att(7792, 7087).
+
+arg(7794).
+text(7794, I will provide one once you agree).
+att(7794, 7504).
+
+arg(7801).
+text(7801, How do i know if you're not going to use the money for drugs? I should send you a sandwich instead.
+).
+att(7801, 7050).
+
+arg(7065).
+text(7065, I'm hungry, too. Without knowledge of local cost of living or exchange rates, I could venture to say that $5 locally would have more utility in my hands than in yours. ).
+att(7065, 7050).
+

@@ -1,0 +1,76 @@
+arg(root).
+text(root, Computer Science is not actually a science).
+
+arg(16130).
+text(16130, Computer Science is a Formal Science. It studies abstract concepts, logic, algorithms, etc., but with very real applications. Not to be confused with Natural Science which studies laws of Nature. But it is still a Science.).
+att(16130, root).
+
+arg(16108).
+text(16108, At what level is engineering different than science? And, even if they were different, what would make the theory behind it not a science?).
+att(16108, root).
+
+arg(16093).
+text(16093, The scientific method can be applied when testing the practical applications of the theoretical, for example when testing the performance of algorithms.).
+att(16093, root).
+
+arg(16092).
+text(16092, It is more closely related to mathematics).
+support(16092, root).
+
+arg(16075).
+text(16075, Finding new things to do and finding how to use them are hallmarks of engineering, not science.).
+att(16075, root).
+
+arg(15622).
+text(15622, CS is a field that utilizes properties of light (optical drives; fiber), electricity (binary), and electromagnetism (HDD). Programming involves the use of logic the scientific method, arrays, etc. CS is more of an applied science, but it's 1 that's strongly dependent on physical sciences and math.).
+att(15622, root).
+
+arg(16069).
+text(16069, Science, unlike math, is based mainly on empirical evidence.).
+att(16069, root).
+
+arg(15621).
+text(15621, Wikipedia—"Computer science is the scientific and practical approach to computation and its applications." You're likely referring to the practical approach. Many, however, take the scientific approach. The 2 are markedly different in that one group finds new things to do & the other how to use them).
+att(15621, root).
+
+arg(15586).
+text(15586, Computer science... differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.).
+support(15586, root).
+
+arg(16067).
+text(16067, Otherwise you could make every theory falsifiable.
+Ex: "god exists and you can’t write a program that say if a another program will halt (for whatever program)"
+It would be meaningless.).
+support(16067, root).
+
+arg(16066).
+text(16066, The theory should be falsifiable by empirical evidences.
+The halting problem is entirely based on pure logic.).
+att(16066, root).
+
+arg(15991).
+text(15991, It doesn't matter that most of it is concerned with knowingly or unknowingly utilizing theorems (engineering). There are still models and theorems emerging from it regularly.).
+att(15991, root).
+
+arg(15978).
+text(15978, There is no need to study "natural objects" (i.e. math).).
+att(15978, 15586).
+
+arg(15977).
+text(15977, Halting problem
+
+If you write a program that can check if a program halts and work on every program you falsified it).
+att(15977, root).
+
+arg(15857).
+text(15857, Computer science is not falsifiable.).
+support(15857, root).
+
+arg(15831).
+text(15831, People who say that know nothing about computer science. It's based on logic and rational similar to and even more advanced than math.).
+att(15831, root).
+
+arg(15608).
+text(15608, getting some ?).
+att(15608, 15586).
+

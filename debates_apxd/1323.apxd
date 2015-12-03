@@ -1,0 +1,15 @@
+arg(root).
+text(root, Survivor is the greatest show ever).
+
+arg(5593).
+text(5593, after 31 seasons its still managed to remain interesting and awesome).
+support(5593, root).
+
+arg(5600).
+text(5600, Interest is subjective, and while it may remain interesting to some for all 31 seasons, to others it may not be interesting for all 31 seasons.).
+att(5600, 5593).
+
+arg(5638).
+text(5638, shows that are uninteresting to most die off before season 31.  Some people will dislike all shows but their opinions dont matter since they live in cave).
+att(5638, 5600).
+

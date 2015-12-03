@@ -1,0 +1,7 @@
+arg(root).
+text(root, There must be no communications inaccesible to government agencies that hold a warrant.).
+
+arg(14563).
+text(14563, That would be a violation of personal privacy and would least to the oppression of opposing viewpoints.).
+att(14563, root).
+

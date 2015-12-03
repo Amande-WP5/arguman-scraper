@@ -1,0 +1,11 @@
+arg(root).
+text(root, Arguman is kinda cool.).
+
+arg(11895).
+text(11895, Cool is subjective).
+att(11895, root).
+
+arg(11952).
+text(11952, The original meaning comes from "not warm" so the word 'cool' is actually a relative term; the modern connotation society has thrust upon it, however, is in fact subjective.).
+att(11952, 11895).
+

@@ -1,0 +1,63 @@
+arg(root).
+text(root, Eliminating hunger in the world will ultimately increase hunger due to increased population growth).
+
+arg(9656).
+text(9656, Over population is a myth. There is currently enough food to feed 10 billion people, and we are only at 7. While world population continues to grow, the growth rate continues to drop. Recent developments in Africa might result in a national population explosion, but that too will eventually settle.).
+att(9656, root).
+
+arg(9647).
+text(9647, It's likely mankind will continue with the status quo.).
+att(9647, root).
+
+arg(9657).
+text(9657, It is the undeveloped countries that are currently both the hungriest and the most fertile.).
+att(9657, root).
+
+arg(10067).
+text(10067, Overabundance of food leads to obesity. Obese people have less sex.).
+att(10067, root).
+
+arg(9377).
+text(9377, By increasing health standards (more food) people will fall back to having food shortage again (more people). While this is true, it does not make it wrong to help. Many things can change in the course of years and the world could look different in a few decades.).
+support(9377, root).
+
+arg(9650).
+text(9650, In more developed countries have a slower population growth even when they have less hungry people).
+att(9650, root).
+
+arg(10129).
+text(10129, I'd just like to point out that Africa can't have a national population surge because Africa is not a country.).
+att(10129, 9656).
+
+arg(9468).
+text(9468, A boom-colapse cycle very often happens in animal populations.).
+support(9468, root).
+
+arg(9470).
+text(9470, Human societies have many more tools available to them to regulate their populations, such as appeals to reason and government policy.).
+att(9470, 9468).
+
+arg(9556).
+text(9556, When discussing wether or not elimintating hunger will cause more hunger, there is no way around making assumptions about the future. We can never truly predict the future, so we cannot know for sure if the population will grow when eliminating hunger.).
+att(9556, root).
+
+arg(9409).
+text(9409, You are making an assumption that things will get better. There are good arguments that things may get worse. GMO's create less diversity which increase risk of crop failure. Fossil fuel is limited. The fish in the oceans are on decline, etc... ).
+att(9409, root).
+
+arg(9417).
+text(9417, Unless we implement capitalism as a way of supplying nutrition).
+att(9417, root).
+
+arg(9418).
+text(9418, Think of the possibilities!).
+support(9418, 9417).
+
+arg(10119).
+text(10119, We can know that it will grow at least a certain amount. If you remove the deaths directly and indirectly caused by malnutrition and starvation, the global population growth rate *will* be shifted upwards. The valid question is "by how much?").
+att(10119, 9556).
+
+arg(9379).
+text(9379, With development of new techniques of how to store and produce food and GMO's efficiently, the world's economy and agriculture could look very different in only a few decades, rendering the problem obsolete. We may even colonize mars this century. ).
+att(9379, root).
+

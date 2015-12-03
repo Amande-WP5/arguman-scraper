@@ -1,0 +1,7 @@
+arg(root).
+text(root, Shakespeare expands women’s character versatility, but dresses them up as men to do so.).
+
+arg(13011).
+text(13011, Rosalind has to dress up like a man to woo a heterosexual man.).
+support(13011, root).
+

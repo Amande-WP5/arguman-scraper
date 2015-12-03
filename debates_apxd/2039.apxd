@@ -1,0 +1,52 @@
+arg(root).
+text(root, Reconstruction was a failure.).
+
+arg(13460).
+text(13460, Blacks still had to deal with violence and discrimination because of their race. ).
+support(13460, root).
+
+arg(13461).
+text(13461, Even though rules were established, a lot of people didn't listen to the rules. They weren't implemented enough. ).
+support(13461, root).
+
+arg(13456).
+text(13456, The treatment of African Americans after slavery remained the same.They were were still treated poorly and were looked down upon.).
+support(13456, root).
+
+arg(13455).
+text(13455, Black people continuing to have worsening discrimination and restrictions placed on them, though slavery was abolished.).
+support(13455, root).
+
+arg(13450).
+text(13450, most blacks were left on their own with nothing when reconstruction was over).
+support(13450, root).
+
+arg(13449).
+text(13449, It only made conditions for black people worse.).
+support(13449, root).
+
+arg(13452).
+text(13452, How could you say conditions were worse when slavery was abolished?).
+att(13452, 13449).
+
+arg(13454).
+text(13454, Black people were better off than they were during slavery. ).
+att(13454, 13449).
+
+arg(13458).
+text(13458, Blacks had to follow black codes which restricted and constrained their rights, and still had inferior everything compared to whites.).
+support(13458, 13450).
+
+arg(13462).
+text(13462, i would say that yes black people were in a better spot but in every situation there is an equal if not greater chance of ups and down so they were free but how free were they?
+).
+att(13462, 13452).
+
+arg(13464).
+text(13464, Blacks were under constant threat of violence.).
+support(13464, root).
+
+arg(13465).
+text(13465, Blacks were still treated poorly. ).
+support(13465, root).
+

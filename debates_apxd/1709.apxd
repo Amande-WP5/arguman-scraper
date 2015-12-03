@@ -1,0 +1,15 @@
+arg(root).
+text(root, The problem with arguing is not finding the right argument, it's finding an audience that would recognize a good argument).
+
+arg(9734).
+text(9734, A rational argument and an irrational argument sound the same to an irrational person).
+support(9734, root).
+
+arg(9740).
+text(9740, Trying to form good arguments is still beneficial. For example, having a discussion where it really matters, people are mostly going to be rational e.g. political debates with politicians requires skill but at least it is important, debates with strangers can be irrational but they don't matter.).
+att(9740, 9734).
+
+arg(9830).
+text(9830, an emotional argument might work best on an irrational audience. Just look at political debates.).
+att(9830, 9734).
+

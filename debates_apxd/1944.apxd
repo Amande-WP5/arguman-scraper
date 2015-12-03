@@ -1,0 +1,7 @@
+arg(root).
+text(root, Censorship is immoral).
+
+arg(12914).
+text(12914, People often equate editorial discretion in private mediums as censorship akin to that found in totalitarian dictatorships. There is a difference.).
+att(12914, root).
+

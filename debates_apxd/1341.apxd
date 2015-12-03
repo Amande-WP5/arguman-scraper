@@ -1,0 +1,21 @@
+arg(root).
+text(root, women are root of all evil).
+
+arg(6663).
+text(6663, god created women, therefore, god is the root of all evil.).
+att(6663, root).
+
+arg(5885).
+text(5885, Evil originates not only from women).
+att(5885, root).
+
+arg(5975).
+text(5975, All things being equal, a good deal of evil in the word comes from women, as a good deal of evil in the world comes from men as well.).
+support(5975, 5885).
+
+arg(7199).
+text(7199, If you mean things like a hurricane or ebola, those are amoral.
+
+One needs to be both a moral agent and a nefarious destructive force to be called evil. And the only organism capable of birthing such dual entities is the woman.).
+att(7199, 5885).
+

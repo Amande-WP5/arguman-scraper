@@ -1,0 +1,35 @@
+arg(root).
+text(root, Life is not worth living.).
+
+arg(16136).
+text(16136, At least non-existence can’t become completely awful.).
+att(16136, root).
+
+arg(16074).
+text(16074, The alternative of non-existence seems much more boring.).
+att(16074, root).
+
+arg(15461).
+text(15461, Having stimuli to hate something doesn’t add worth to it.).
+att(15461, root).
+
+arg(15460).
+text(15460, Your opinion is overbearing (überheblich); you take the opinions the view from other away, and say that the wold (ontology) is negative. But the can not there be truth about the value of life. Each one set the value of life for himself, but is not a ontological fact.).
+att(15460, root).
+
+arg(6461).
+text(6461, Life can feel like it is worth living at times. It all comes down to whether you feel life has been "more bad" or "more good" at a given time. At the moment it feels like it has been more bad for me. ).
+att(6461, root).
+
+arg(7004).
+text(7004, Life is worth living because without life their would be no stimuli to hate life with.).
+att(7004, root).
+
+arg(6569).
+text(6569, If you assume that there are more negativity than positivity, then life becomes depressing. If you become mindful, and appreciate the small things in life, you'll soon realize that life is full of wonders and happiness. It's all about the mindset. Psychedelics can aid in getting the right mindset.).
+att(6569, root).
+
+arg(6398).
+text(6398, The value of life is ultimately negative because any positive experiences will always be outweighed by suffering which is a more powerful feeling.).
+support(6398, root).
+

@@ -1,0 +1,7 @@
+arg(root).
+text(root, Videogames are art.).
+
+arg(6157).
+text(6157, They can express ideas, emotions, and stories just as literature or paintings can.).
+support(6157, root).
+

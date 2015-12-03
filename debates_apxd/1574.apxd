@@ -1,0 +1,7 @@
+arg(root).
+text(root, The road systems in the United States would be more efficient if they were privately owned).
+
+arg(8375).
+text(8375, Roads are natural monopolies and corporations can be just as bureaucratic and inefficient as governments. That amount of land owned by so few individuals will surely become corrupt.).
+att(8375, root).
+

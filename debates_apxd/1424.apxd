@@ -1,0 +1,7 @@
+arg(root).
+text(root, Judging people based on their character can be just as superficial as judging people by their appearance.).
+
+arg(6946).
+text(6946, Character is within a person's power to change. Their given appearance may not be.).
+att(6946, root).
+

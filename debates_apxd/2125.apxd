@@ -1,0 +1,16 @@
+arg(root).
+text(root, Test).
+
+arg(14305).
+text(14305, The test may have been to see if no one would add a premise, in which case it failed.).
+att(14305, root).
+
+arg(14201).
+text(14201, Succeed (?)).
+att(14201, root).
+
+arg(14488).
+text(14488, you're right ->
+i edited my premise).
+support(14488, 14305).
+

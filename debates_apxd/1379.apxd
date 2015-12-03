@@ -1,0 +1,53 @@
+arg(root).
+text(root, Art is selfish. ).
+
+arg(6381).
+text(6381, Your decision to do less for others results in more pain and less relief.).
+att(6381, 6273).
+
+arg(6383).
+text(6383, It is your choice to be on those streets.).
+att(6383, 6368).
+
+arg(6891).
+text(6891, It is most natural and healthy for an individual organism to pursue the activities that the organism finds most mentally and spiritually rewarding.).
+att(6891, root).
+
+arg(6368).
+text(6368, Art is no longer just paintings in galleries, if it ever was. Art, both endorsed or disruptive, ranging from innocuous to offensive, is on the streets and largely unavoidable. ).
+att(6368, 6318).
+
+arg(6273).
+text(6273, Not making the best use of your time doesn't make you selfish. Creating art is beneficial to people for different reasons. Is helping out at the food bank selfish because I could be spending my time constructing houses in Central Africa?).
+att(6273, 6241).
+
+arg(6423).
+text(6423, Spending 100% of your time on 'generous uses' may actually produce less good for all in the long run. If you go without eating in order to help others, you will eventually starve to death and be unable to help anyone. A similar argument may be made that leisure, such as art, prevents burnout.).
+att(6423, root).
+
+arg(6305).
+text(6305, Art is sharing. 
+You take part of yourself and share it with rest of the world.).
+att(6305, root).
+
+arg(6307).
+text(6307, People may not want or benefit from that part of you.).
+att(6307, 6305).
+
+arg(6241).
+text(6241, If someone is capable of pursuing a more generous use of their time, they are withholding their efforts, for the sake of their own fulfillment.).
+support(6241, root).
+
+arg(6314).
+text(6314, What is bad about someone spending time for their own fulfillment?).
+att(6314, 6241).
+
+arg(6318).
+text(6318, You are not forced to involve. 
+You are only given more options.).
+att(6318, 6307).
+
+arg(6984).
+text(6984, it is also your choice to not jump off a cliff.  A choice ceases to become a choice when your well-being depends upon it.).
+att(6984, root).
+

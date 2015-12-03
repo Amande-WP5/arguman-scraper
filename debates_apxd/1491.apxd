@@ -1,0 +1,7 @@
+arg(root).
+text(root, Is the breach of privacy by any sort of policing organization/government justifiable under the subjective notion of suspected terrorism? ).
+
+arg(7371).
+text(7371, This is not an argument, just a question.).
+att(7371, root).
+

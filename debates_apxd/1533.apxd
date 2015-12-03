@@ -1,0 +1,117 @@
+arg(root).
+text(root, Cats are better than dogs.).
+
+arg(8682).
+text(8682, But the requires a reference to the sources for "on average".).
+att(8682, root).
+
+arg(8051).
+text(8051, They don't need to be walked. That frees up nearly half an hour on your day.).
+support(8051, root).
+
+arg(8108).
+text(8108, Cats are known for eliminating household pests such as mice. ).
+support(8108, root).
+
+arg(8062).
+text(8062, Cats are certified homies. They're okay to live in small spaces.).
+support(8062, root).
+
+arg(8113).
+text(8113, You could get rid of your cat and free up some more time.).
+att(8113, 8051).
+
+arg(8119).
+text(8119, If you have Cynthia's dog (I think it's Pomeranian), it should not be too much of a hassle.).
+att(8119, 8062).
+
+arg(8122).
+text(8122, They also bring in carcasses.).
+att(8122, 8108).
+
+arg(8684).
+text(8684, Our tools for figuring out if cats are "okay" with something may not be advanced enough to really tell. So they might be not okay with that.).
+att(8684, 8062).
+
+arg(7988).
+text(7988, Dogs are more useful, ergo better than cats.).
+support(7988, root).
+
+arg(8172).
+text(8172, Saying on type of pet is better than another is subjective, so any premise is ultimately valid.).
+att(8172, root).
+
+arg(8183).
+text(8183, Dogs are on average much more genuine and loyal than cats, who are usually only interested in food, peace and quiet.).
+att(8183, root).
+
+arg(8189).
+text(8189, Cats take care of their own hygiene, meaning humans seldom have to give them baths. It also means they don't smell, like dogs do.).
+support(8189, root).
+
+arg(8656).
+text(8656, Cats don't cover their poop in the litter box and it makes your house smell like ass.).
+att(8656, root).
+
+arg(8680).
+text(8680, But some of them do.).
+att(8680, 8656).
+
+arg(8681).
+text(8681, This implies that "don't smell like dogs" is an advantage of cat's. Which is subjective.).
+att(8681, 8189).
+
+arg(9903).
+text(9903, Dogs come in a wider variety of breeds than cats do. This wider variety of shapes, sizes, and personalities means that you're more likely to find a dog that suits specific needs. ).
+att(9903, root).
+
+arg(8775).
+text(8775, Cats silently judge their owners and can cause irreversible self esteem issues in young children and insecure manchildren).
+att(8775, root).
+
+arg(13629).
+text(13629, They also bring in household pests).
+att(13629, 8108).
+
+arg(13630).
+text(13630, Inside only animals (dogs and cats) normally do not smell badly. 
+
+Inside-Outside or exclusively outside animals do tend to smell more strongly due to their being outside often.).
+att(13630, 8189).
+
+arg(13631).
+text(13631, If you define 'better' as 'stronger', cats are not better than dogs.).
+att(13631, root).
+
+arg(7983).
+text(7983, The use of dogs in personal and coletive safety is more widespread and effective than the use of cats. For example, dogs can be used for vigilance of a house and detecting drugs and diseases more reliably than cats.).
+att(7983, root).
+
+arg(13679).
+text(13679, if schizophernia runs in the family, you may want to get a dog to avoid toxoplasmosis, a parasite that lives in cat feces.).
+att(13679, root).
+
+arg(13661).
+text(13661, Cats are better.).
+att(13661, 8172).
+
+arg(13662).
+text(13662, That's true for domestic cats and dogs, but the large cats are much stronger than any kind of wild dog or species in the dog family. The premise didn't specify. ).
+att(13662, 13631).
+
+arg(13663).
+text(13663, they're *gifts*).
+att(13663, 8122).
+
+arg(8772).
+text(8772, Since this argument is subjective, cats have superpowers! They use their whiskers to guage whether or not they can fit through a space, and are extremely sensitive to air movement that can be used to sense prey, foe or life in a mutilated victim. Some species run fast as f***! Also, hiding in boxes.).
+support(8772, root).
+
+arg(8683).
+text(8683, This becomes objective, if you can objectively define what "better" is.).
+att(8683, 8172).
+
+arg(13605).
+text(13605, Really? someone posted a fallacy to this. This whole premise is subjective and mostly opinion. There is no conclusion so, ..|..).
+att(13605, 8772).
+

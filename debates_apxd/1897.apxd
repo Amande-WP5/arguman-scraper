@@ -1,0 +1,31 @@
+arg(root).
+text(root, Skeletons are actually spooky.).
+
+arg(14652).
+text(14652, Most people do not know this but on average 40% of all people in the world currently have a Skeleton hiding inside of them without their written consent).
+support(14652, root).
+
+arg(12655).
+text(12655, I hope you never see an X-ray of your body...).
+att(12655, root).
+
+arg(12257).
+text(12257, Skeletons aren't real, right?).
+att(12257, root).
+
+arg(12260).
+text(12260, *gives calsiums*).
+support(12260, root).
+
+arg(12043).
+text(12043, If you saw a skeleton moving by itself you'd shit your pants.).
+support(12043, root).
+
+arg(12006).
+text(12006, Spooky scary skeletons).
+support(12006, root).
+
+arg(12012).
+text(12012, doot doot thank mr skeltal).
+support(12012, 12006).
+

@@ -1,0 +1,15 @@
+arg(root).
+text(root, If there is so-called white privilege in the West, there is Asian privilege in the East).
+
+arg(13740).
+text(13740, White privilege is white genetics and western civilization. Building the most successful civilization the world has ever seen, and reaping the rewards is white privilege. Being white is to carry those genes, and all that comes with that. Asians have something similar too, in their own different way.).
+support(13740, root).
+
+arg(13860).
+text(13860, the Americas were primarily built on slave labor. Slaves drove profits and investment more than indentured servitude or journeymanship. America today would look much different without the forced labor of Africans and Natives.).
+att(13860, 13740).
+
+arg(13856).
+text(13856, That is actually not at all what white privilege is, and people of color have had a huge impact in the creation of most or all of the civilizations that white people occupy. White supremacy can be found globally due to white colonialism and imperialism.).
+att(13856, 13740).
+

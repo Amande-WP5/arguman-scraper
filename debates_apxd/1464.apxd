@@ -1,0 +1,11 @@
+arg(root).
+text(root, Shinoa is best girl).
+
+arg(7131).
+text(7131, Shinoa may not be the best girl.).
+att(7131, root).
+
+arg(7136).
+text(7136, the rest of that show has been just a carbon copy of Attack on Titan).
+att(7136, 7131).
+

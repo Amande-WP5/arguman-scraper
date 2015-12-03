@@ -1,0 +1,64 @@
+arg(root).
+text(root, Moral differences are not simply cultural differences).
+
+arg(15699).
+text(15699, Let's define culture: Handed down rituals and expressions (like food, clothing, music, religion) that bind a community.
+Morality: Values and choices about right and wrong behavior.
+
+Morality is often taught through culture but can be treated as independent, even spanning cultures.).
+att(15699, root).
+
+arg(15457).
+text(15457, but the difference in concepts, must be explained; so can not culture explain the difference ?).
+att(15457, root).
+
+arg(14967).
+text(14967, It would be very "good" that people try to find their own core ethical principles, and make compromises with the others ethical frameworks.).
+att(14967, root).
+
+arg(15447).
+text(15447, Morality and culture are different concepts so moral differences don't have to be explained by or overlap with cultural differences.).
+support(15447, root).
+
+arg(14760).
+text(14760, i think there is universal morality to some extent. The practice is different but the moral principles in deep are the same. ).
+support(14760, root).
+
+arg(14761).
+text(14761, the custom is different but the belief is somehow the same. ).
+support(14761, 14760).
+
+arg(14758).
+text(14758, it is based on moral relativism that there should be moral differences).
+support(14758, root).
+
+arg(14759).
+text(14759, it is not that extreme ).
+att(14759, 14758).
+
+arg(14956).
+text(14956, could you explain me, why moral relativism entails the notion, that moral "should be" relative ? Is it not a metaethical view ? (How it "is", and not how it "should" be) ).
+att(14956, 14758).
+
+arg(14957).
+text(14957, but you don`t have a way to prove this. Moral relativism is quite simple to prove. Doesn`t show that moral relativism is true, because we can show, that different cultures show different moral notions.).
+att(14957, 14760).
+
+arg(14963).
+text(14963, It would be very good, but 
+philosophers tried to find these core principles, and we end up with many different ethical frameworks.).
+att(14963, 14760).
+
+arg(14965).
+text(14965, There are the consequentialist ethics : preference utilitarianism, hedonist utilitarianism, negative utilitarianism, lexical utilitarianism.
+And there are also a lot a deontological ethics, by example the kant’s categorical imperative.).
+support(14965, 14963).
+
+arg(14966).
+text(14966, I think deontological ethics are untenable, they are just strategies, and aren’t really core ethical principles.).
+att(14966, 14965).
+
+arg(14968).
+text(14968, A lot of what people do is harmful even in their own ethical framework.).
+support(14968, 14967).
+

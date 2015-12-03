@@ -1,0 +1,11 @@
+arg(root).
+text(root, Astrology is not a science).
+
+arg(15223).
+text(15223, Current natal astrology in newspapers is just a bullshit came out in 1930s).
+support(15223, root).
+
+arg(15222).
+text(15222, There is no scientific proof about relation between human and stars ).
+support(15222, root).
+

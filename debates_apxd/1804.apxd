@@ -1,0 +1,7 @@
+arg(root).
+text(root, There is no moral problem in reviving people).
+
+arg(12052).
+text(12052, If you mean bringing someone who's been dead for a long time, then you must know that this person didn't consent.).
+att(12052, root).
+

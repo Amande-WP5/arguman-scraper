@@ -1,0 +1,30 @@
+arg(root).
+text(root, There is a need for countries, their borders, and nationalism to give everyone within a sense of belonging. An open country's citizens would have no connection to one another.).
+
+arg(15660).
+text(15660, The concept of national state has existed for only about 100-150 years.
+
+Most of the human history, people didn't divide themselves into nations, however, they had places and people to feel belonging to.).
+att(15660, root).
+
+arg(15637).
+text(15637, There are many bad consequences of strict borders including limitations on trade, international friction,  and the demonization of others based on their geographical location. As to, nationalism, one only need look at the Patriot Act and nationalism's role in creating WWII to see its dangers.).
+support(15637, root).
+
+arg(15624).
+text(15624, That is what I'm saying. The original post states borders and nationalism are necessary because they give people a sense of togetherness & group identity. If this can be achieved through alternate means, and if those means can have a more positive affect on society, then no need for them exists.).
+att(15624, root).
+
+arg(15602).
+text(15602, We could have "a sense of belonging" to all the sentient beings.
+Which would be a lot better.).
+att(15602, root).
+
+arg(15587).
+text(15587, Where you are born and where your ancestors decided to arbitrarily draw imaginary lines are not really sound parameters for building the perfect "club", are they? If they were, we wouldn't need the internet, which can provide the same sense of communal belonging.).
+att(15587, root).
+
+arg(15601).
+text(15601, Even on the internet, people generally stick to certain communities, whether it be, for example, reddit, tumblr, youtube, or whatever else. To many, each website is like a country. There's a sense of belonging within, but for the people they know and love.).
+att(15601, 15587).
+

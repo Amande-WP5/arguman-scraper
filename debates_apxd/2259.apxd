@@ -1,0 +1,19 @@
+arg(root).
+text(root, Privacy is less important to a generation that grew up with YouTube, Facebook, Twitter, and texting.).
+
+arg(15141).
+text(15141, information can be collected and shared, and the ease with which it can be maintained for indefinite periods of time).
+support(15141, root).
+
+arg(15140).
+text(15140, The ways in which the Internet can be harnessed for questionable purposes that encroach on privacy have yet to be fully addressed by the courts.).
+att(15140, root).
+
+arg(15138).
+text(15138, This generation are comfortable offering information about themselves online ------ sending email, writing blogs, and posting photos and information about themselves on social networking sites.).
+support(15138, root).
+
+arg(15139).
+text(15139, They just do not realize how much of their personal privacy, their very identities, they put at risk. Nor do they fully comprehend the extent to which they are inviting mischief, embarrassment and harm, perhaps for decades to come, from others looking to dig up digital dirt.).
+att(15139, 15138).
+

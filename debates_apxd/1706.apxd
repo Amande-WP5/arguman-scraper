@@ -1,0 +1,7 @@
+arg(root).
+text(root, The rights of workers to collectively bargain for better wages and benefits have been severely undermined. We should make it easier for workers to join unions. ).
+
+arg(9799).
+text(9799, We should also make it more difficult for the unions to go against the wishes of the workers in it).
+att(9799, root).
+

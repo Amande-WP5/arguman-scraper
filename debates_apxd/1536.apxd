@@ -1,0 +1,23 @@
+arg(root).
+text(root, Sex in the media is a danger for youth. ).
+
+arg(8150).
+text(8150, sex is a natural part of life and children need to be educated about it so that they can make informed and safe decisions when the time comes. ).
+att(8150, root).
+
+arg(8274).
+text(8274, media's general portrayal on sex is unrealistic. it's far from being educational.).
+att(8274, 8150).
+
+arg(8421).
+text(8421, If it were refomed to be more educational, it would be benifitial.).
+att(8421, 8274).
+
+arg(9152).
+text(9152, it reinforces dangerous sexual behavior in teens. this often leads to STD s, teen pregancy, abortions, etc.  ).
+support(9152, root).
+
+arg(9157).
+text(9157, Media promotes sex as an act for successful people, giving teens the idea that you will be successful if you have sex. ).
+support(9157, root).
+

@@ -1,0 +1,11 @@
+arg(root).
+text(root, There should be a new letter in the alphabet).
+
+arg(8833).
+text(8833, Why?).
+att(8833, root).
+
+arg(8842).
+text(8842, That's already in the alphabet).
+att(8842, 8833).
+

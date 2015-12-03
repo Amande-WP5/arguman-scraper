@@ -1,0 +1,75 @@
+arg(root).
+text(root, Static typing is better than dynamic typing in programming languages.).
+
+arg(16071).
+text(16071, Static typing serves as reliable documentation.).
+support(16071, root).
+
+arg(16094).
+text(16094, Dynamic typing languages are much easier to use, learn and faster for prototyping.).
+att(16094, root).
+
+arg(16267).
+text(16267, Static type checking provides a very important category of tests (and help prevent logical errors too). These sort of tests don't need to be explicitly written. On the other hand they are more often than not neglected in dynamic languages.).
+att(16267, root).
+
+arg(16198).
+text(16198, Typing is merely one check that can be performed. A comprehensive test suite provides a lot more confidence in the code, and minimises the effectiveness of the type checking.).
+att(16198, root).
+
+arg(16095).
+text(16095, Type systems can sometimes forbid valid programs, especially if a the type system is not very expressive.).
+att(16095, root).
+
+arg(16097).
+text(16097, Static typing allows compilers to optimize in a way that is hardly achievable with dynamic typed languages).
+support(16097, root).
+
+arg(16132).
+text(16132, Depends on your application. One is not better then another in each and every case.).
+att(16132, root).
+
+arg(16103).
+text(16103, Once a statically typed language is learnt, it's easier to switch to / learn a dynamic typed one then the other way around.).
+att(16103, 16094).
+
+arg(16102).
+text(16102, It's harder to develop in and maintain big codebases or legacy code.).
+att(16102, 16094).
+
+arg(16101).
+text(16101, Type annotations are optional in Python).
+att(16101, root).
+
+arg(16100).
+text(16100, Dynamic typing is theoretically a subset of static typing with just one type.).
+att(16100, 16095).
+
+arg(16099).
+text(16099, It's easier to manage a large team or a big codebase.).
+support(16099, root).
+
+arg(16098).
+text(16098, Programming tools like IDE's can provide a richer set of supporting features or they are more sophisticated. Mainly regarding refactoring, suggestions, debugging, metrics, detection, prove, inspection, documention, generation, build,...).
+support(16098, root).
+
+arg(16090).
+text(16090, Static types help you craft a domain model that is logical and consistent.).
+support(16090, root).
+
+arg(16096).
+text(16096, Python 3.5 serves too, which is a dynamically typed programming language.).
+att(16096, 16071).
+
+arg(16091).
+text(16091, Global type inference means that some statically typed programs can be written with very few, or no explicit types).
+att(16091, 16071).
+
+arg(16073).
+text(16073, ).
+att(16073, root).
+
+arg(16072).
+text(16072, It is easier to detect and fix compile-time errors than runtime errors.).
+support(16072, root).
+

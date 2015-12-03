@@ -1,0 +1,112 @@
+arg(root).
+text(root, Humans are still evolving).
+
+arg(10596).
+text(10596, Source on "our gene pool is changing"?).
+att(10596, root).
+
+arg(10600).
+text(10600, Yes?).
+att(10600, root).
+
+arg(11261).
+text(11261, evolution is based on laws of universe. its happening around us all the time. and cause of evoulution's nature we can't just realize it in a short-time).
+support(11261, root).
+
+arg(10344).
+text(10344, We, as a species, have evolved naturally. To our knowledge nothing can stop evolution, and thus we must still be evolving.).
+support(10344, root).
+
+arg(10416).
+text(10416, But so is God if you ask me (a plague -not to the gaming industry but to the mankind / obviously god is not a fail...)).
+att(10416, root).
+
+arg(10417).
+text(10417, God is a plague to the gaming industry?).
+att(10417, 10416).
+
+arg(10645).
+text(10645, Genetic mutations happen VERY frequently. In fact, your cells have mutated. It can happen anytime your DNA is replicated (When your cells reproduce).).
+att(10645, 10596).
+
+arg(10688).
+text(10688, You don't really need a source, in theory, a gene pool cannot stay the same. This is a simple concept of biology.).
+att(10688, 10596).
+
+arg(10761).
+text(10761, Was reported as begging the question. So here is a source that demonstrates the 4 processes involved to describe population genetics. Natural selection and mutation is an occurring fact and it's existence is undeniable. Since they are always present, evolution will always, in some way, exist.).
+support(10761, 10688).
+
+arg(10762).
+text(10762, It is a provable fact that evolution is still ongoing. So it is actually: "Evolution must be ongoing since we can prove that it is ongoing." No appeal to ignorance, see the other arguments for the sources as to how exactly it is proven that evolution is unstoppable.).
+att(10762, root).
+
+arg(10390).
+text(10390, The concept of evolution says we must be evolving. However, if something was to somehow stop us from evolving, then we would not be able to know this. Evolution is too slow for us to verify that it is still happening.).
+att(10390, root).
+
+arg(10393).
+text(10393, You pre suppose that we have evolved from something. This is inherently false. Erybody knows that God created Adam and Eve because Sims 4 was out of stock.).
+att(10393, root).
+
+arg(10401).
+text(10401, Evolution only "stops" when the following points are achieved: Natural selection is random (not directed) and mutations stop happening. -> This would cause the gene pool to stay the same. However our gene pool is changing so we are still evolving.).
+att(10401, 10390).
+
+arg(10402).
+text(10402, Sims 4 was a major fail and EA is a plague in the gaming industry.).
+att(10402, 10393).
+
+arg(10403).
+text(10403, We know that our gene pool is changing. In reality, it is impossible to observe a population without a changing gene pool. Mainly because you would need a population without mutating offsprings and total random selection.).
+support(10403, 10344).
+
+arg(10966).
+text(10966, That's a different argument. Saying "X has been proven true" is not equal to "Nothing has proven X false, to our knowledge". As written, the latter is textbook Appeal to Ignorance. Further, saying "Humans are evolving because it has been proven they are evolving" is Proof by Assertion/CircularRsng).
+att(10966, 10762).
+
+arg(10968).
+text(10968, "Evolution is change in the heritable traits of biological populations over successive generations." Because of DNA's propensity for mutation, every procreating DNA-based species is by definition undergoing evolution. Thus, humans are evolving.).
+support(10968, root).
+
+arg(10969).
+text(10969, Whether or not humans are under the pressures of natural selection is another matter. Natural selection is only one type of evolution. "Other, nonadaptive causes of microevolution include mutation and genetic drift.").
+att(10969, 10968).
+
+arg(10970).
+text(10970, it is well established in the medical sciences that there is genetic diversity between different lineages of humans which must be taken into account when designing treatments.
+Humans are still exposed to the same selective reproductive pressures which resulted in the current genetic differences.).
+support(10970, root).
+
+arg(12232).
+text(12232, Given the fact that human intelligence is the greatest form of development known to intelligent species, there can't be any evolutionary advancements.).
+att(12232, 11261).
+
+arg(12325).
+text(12325, You ignore the the fact that IQ has been increasing at an average of 3 points per decade.Which proves that the highest known intelligence is not necessarily the highest possible intelligence and that humanity is still slowly evolving.).
+att(12325, 12232).
+
+arg(10722).
+text(10722, Appeal to Ignorance (not available in the "report fallacy" list).
+
+This fallacy occurs when it is claimed that since X hasn't been disproven, X must be true.
+
+So claiming "Evolution must be ongoing since we don't know of anything that can stop it" is an Appeal to Ignorance.).
+att(10722, 10344).
+
+arg(12235).
+text(12235, Even if we are actively evolving, it is ultimately at a rate or level we cannot observe.).
+att(12235, root).
+
+arg(10774).
+text(10774, Cultural globalization will bring us neutral (and wider) views to interpret reality. That will happen, as we finish with ethnocentrism, and let us look at what we have in common as Human Beings.).
+support(10774, root).
+
+arg(12190).
+text(12190, I'm only responding to this one branch of the map. The words chosen at the start of your branch state that evolution can't stop since we know of nothing that can stop it. The words are right there, and they're not equivalent to saying it's been proven that evolution can't stop. I can't divine intent).
+att(12190, root).
+
+arg(11143).
+text(11143, If X has been proven true, we can believe that it is true unless proven otherwise. Thus, to our knowledge, evolution is still ongoing. Stop reporting fallacies that don't exist.).
+att(11143, 10966).
+

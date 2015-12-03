@@ -1,0 +1,7 @@
+arg(root).
+text(root, Everything is a remix.).
+
+arg(6614).
+text(6614, The definition of a "remix" is that something which already exists is altered from its original state. If an artist starts with nothing, and creates a completely unique sound (like they would by strumming a guitar or pressing a key on a piano) then by definition it is not a remix.).
+att(6614, root).
+

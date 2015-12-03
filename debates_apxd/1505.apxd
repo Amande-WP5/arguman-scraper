@@ -1,0 +1,84 @@
+arg(root).
+text(root, Definitions are best kept 'loose'/open in discussions).
+
+arg(8147).
+text(8147, The desire to explicitly define every single term before a discussion even begins is typically a bad-faith attempt at pre-emptive derailment by trolls. Only in rare cases do we need to define things in order to discuss them. Nothing is learned when discussions converge to arguments over semantics.).
+support(8147, root).
+
+arg(15149).
+text(15149, But having loose definitions creates unnecessary arguments and does not allow for further discussion on proper matters. ).
+att(15149, root).
+
+arg(7860).
+text(7860, what is your definition of "loose/open").
+att(7860, root).
+
+arg(7598).
+text(7598, However closing down defintions and narrowing them to a set frame makes a conversation/discussion move forward more efficiently).
+att(7598, root).
+
+arg(7612).
+text(7612, Because of the fact that people interpret concepts and keywords very differently, you may sometimes have a hard time being understood and get to a conclusion).
+att(7612, root).
+
+arg(9195).
+text(9195, Common usage should always take precedence over ideologically hijacked terminology. Concrete over abstract should also be a primary goal. And most importantly, Kant is a tedious old windbag.).
+att(9195, root).
+
+arg(9236).
+text(9236, Words defined through common usage have an inherent bias and particularly when it comes to definitions of key concepts like ex. 'Democracy' and 'developed/developing nations' in discussions regarding IR which then becomes a problem for the nature of the discussion reaching a reasonable conclusion.).
+att(9236, 9195).
+
+arg(7596).
+text(7596, Everyone intreprets concepts and keywords very differently and staying open to others interpretations/perspective makes finding a reasonable conclusion easier.).
+support(7596, root).
+
+arg(9243).
+text(9243, The opposite approach will always lead to mass confusion, if definitions are kept "loose" and vary considerably from common usage. An attempt must be made towards one or the other: loose but highly reflective of common usage, or strictly defined. ).
+att(9243, 9236).
+
+arg(9248).
+text(9248, Not disputing you, but what in particular would you find biased in the common usage of democracy? I guess the fact that it was just a vote for landed white males? It would be more accurate to state those facts, than to assume a definition that omits them, I would think. ).
+att(9248, 9236).
+
+arg(7994).
+text(7994, Loose definitions can result in irrelevant fights over semantics.).
+att(7994, root).
+
+arg(7845).
+text(7845, Disparate understandings of a words definition leads to incomplete or inaccurate transfer of ideas between participants in a conversation.).
+att(7845, root).
+
+arg(14475).
+text(14475, loose definitions increase the risk of semantic shifts.).
+att(14475, root).
+
+arg(14476).
+text(14476, A election system is not a democracy.).
+att(14476, 9248).
+
+arg(15129).
+text(15129, But the lack of agreed upon definitions is what often cause a discussion to converge to "arguments over semantics".
+
+Yes, defining all terms prior to discussion is a pipe dream, but identifying when a discussion is stuck arguing over a definition (effectively, but often hidden), is crucial.).
+att(15129, 8147).
+
+arg(9326).
+text(9326, Common usage is often the opposite of concrete. This is because common words are used for a wide range of contexts and meanings, and thus people will not know for certain which meaning you are thinking of.
+Examples: Cock, fuck, dealer, log, bug...).
+att(9326, 9195).
+
+arg(15131).
+text(15131, Yes, it makes the discussion more focused.
+
+Example: "Religion is good/bad"
+
+This never gets anywhere. 
+
+Acknowledging that religion is a very loose/complex term and splitting it in eg. cultural and personal aspects makes it possible to move forward.).
+support(15131, 7598).
+
+arg(14525).
+text(14525, getting caught up in semantics detracts from the actual argument at hand.).
+support(14525, root).
+

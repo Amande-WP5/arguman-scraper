@@ -1,0 +1,53 @@
+arg(root).
+text(root, You cannot prove the absence of something immaterial.).
+
+arg(10190).
+text(10190, Prim numbers are immaterial
+
+I can prove there is no biggest prime number).
+att(10190, root).
+
+arg(9704).
+text(9704, Hitchens' Razor).
+support(9704, root).
+
+arg(9797).
+text(9797, You aren't disagreeing at all).
+att(9797, root).
+
+arg(10196).
+text(10196, The best we can do logically is deduce or infer from the lack of supposed necessary effects. E.g., if God is immaterial and all good and all powerful, the problem of evil suggests that God cannot exist b/c suffering exists. This rests on the assumption God, as defined, would stop existent suffering.).
+att(10196, root).
+
+arg(9807).
+text(9807, I understood that I don't have to. I don't question this. But is it technically possible to prove the absence? ).
+att(9807, 9704).
+
+arg(9643).
+text(9643, Immaterial things such as love, or even logic and reason cannot be proven? What about Intelligence, Justice, Virtue, Morality, or Evil? Can these things be proven? Or, do you mean absence of evidence is not evidence of absence? ).
+att(9643, root).
+
+arg(9506).
+text(9506, You cannot prove the presence of something immaterial either. ).
+att(9506, root).
+
+arg(9507).
+text(9507, Burden of proof. I don't have to prove the absence if you cannot prove the presence in the first place.).
+att(9507, root).
+
+arg(9745).
+text(9745, You can through logic. All you know about it is from 12 people 2000 years ago where everyone believed in magic and monsters and worshiped flood gods and stones. Those 12 people are the ones who spread the message, they are the only ones who saw everything).
+att(9745, root).
+
+arg(9513).
+text(9513, The burden of proof is on the person claiming the presence.).
+support(9513, 9506).
+
+arg(9694).
+text(9694, Just because you cannot prove something to be impossible does not mean that it is true, and just because you cannot prove something is impossible does not make it then possible.).
+att(9694, root).
+
+arg(9526).
+text(9526, I can tell you that I'm thinking of an apple. Yet I can't prove it so I can't prove the existence of my thoughts. ).
+att(9526, 9513).
+

@@ -1,0 +1,19 @@
+arg(root).
+text(root, Free will is an illusion).
+
+arg(9199).
+text(9199, Nothing is random. But because everything acts according to laws, and when all the variables and laws are known then it can be predicted with a 100% certainty, which means it is predetermined which means that there is no such thing as free will but only fate.).
+support(9199, root).
+
+arg(7914).
+text(7914, if all motion in the universe has been predetermined or random, it might only be an illusion).
+att(7914, root).
+
+arg(7534).
+text(7534, All motion in the universe is predetermined or random).
+support(7534, root).
+
+arg(7808).
+text(7808, I am sending this response of my own free will.).
+att(7808, 7534).
+

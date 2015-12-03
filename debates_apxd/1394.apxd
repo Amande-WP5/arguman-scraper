@@ -1,0 +1,7 @@
+arg(root).
+text(root, The Seventeenth Amendment of the U.S. Constitution should be repealed.).
+
+arg(6455).
+text(6455, The purpose of the Senate was to represent the law makers of each State, thus it undermines the effort of a local State's government and opens up the possibility that a State's own Senators will work in opposition to the very legislative body they were suppose to represent.).
+support(6455, root).
+

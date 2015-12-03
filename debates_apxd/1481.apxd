@@ -1,0 +1,7 @@
+arg(root).
+text(root, Democracy is an outdated political system which fails to solve socioeconomic problems of the modern era  ).
+
+arg(7289).
+text(7289, We haven't had a true democracy in quite a long time.).
+att(7289, root).
+

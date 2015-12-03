@@ -1,0 +1,7 @@
+arg(root).
+text(root, Vaccines do not cause autism).
+
+arg(10234).
+text(10234, There is zero evidence for it.).
+support(10234, root).
+

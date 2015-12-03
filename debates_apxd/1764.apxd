@@ -1,0 +1,11 @@
+arg(root).
+text(root, Knock. Knock.).
+
+arg(10418).
+text(10418, who was phone?).
+att(10418, root).
+
+arg(10337).
+text(10337, How does one know exactly who is there?).
+att(10337, root).
+

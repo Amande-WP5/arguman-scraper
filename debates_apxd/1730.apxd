@@ -1,0 +1,11 @@
+arg(root).
+text(root, Equal pay for everyone in an organization reduces turnover.).
+
+arg(10056).
+text(10056, People could be less willing to work jobs with longer hours or more responsibility. People promoted to these kinds of positions could leave for easier jobs, resulting in an increase in turnover. ).
+att(10056, root).
+
+arg(9956).
+text(9956, A level pay structure reduces comparisons amongst employees. Performance bonuses reward outstanding achievements , so everyone is focused on rewards rather than worrying about what someone else makes as compared to themselves.).
+support(9956, root).
+

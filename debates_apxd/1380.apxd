@@ -1,0 +1,25 @@
+arg(root).
+text(root, Art is for art, not society).
+
+arg(6275).
+text(6275, Art should be free, but soceity is not free mostly).
+support(6275, root).
+
+arg(6287).
+text(6287, Art is made by the society and directly reflects the society that creates it.).
+att(6287, 6275).
+
+arg(6290).
+text(6290, Without society, there is no Art).
+att(6290, root).
+
+arg(6294).
+text(6294, Artist may not be part of soceity).
+att(6294, 6287).
+
+arg(6298).
+text(6298, it does not matter what it is for, what matters is what it ends up being.
+
+The best of intentions does not convey the best of results.).
+att(6298, root).
+

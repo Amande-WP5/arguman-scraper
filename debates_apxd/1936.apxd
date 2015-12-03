@@ -1,0 +1,47 @@
+arg(root).
+text(root, Philosophy is Useful).
+
+arg(12496).
+text(12496, Philosophy can't be useful because usefulness affects impartiality. You can't be impartial while trying to be useful.).
+att(12496, root).
+
+arg(12539).
+text(12539, Philosophy, especially ethics, discuss about impartiality. 
+
+It let us understand more about impartiality. Bringing the world better.
+
+Philosophy can be useful, and not negatively affecting impartiality.).
+att(12539, 12496).
+
+arg(12531).
+text(12531, Phylosophy isn't useful for itselt).
+att(12531, root).
+
+arg(12543).
+text(12543, Animal cells, for instance, are useful for themselves.).
+support(12543, root).
+
+arg(12532).
+text(12532, It depends on reflection and thoughts a person to be useful or not. Some people may have great insights from phylosophy, others not.).
+support(12532, 12531).
+
+arg(12540).
+text(12540, Nothing is useful for itself.).
+att(12540, 12531).
+
+arg(12542).
+text(12542, There are things which are useful for itself.).
+att(12542, 12540).
+
+arg(12648).
+text(12648, Philosophical thought has existed since the dawn of mankind. Philosophy as we know it started centuries before the common era and we still wonder what love is.).
+att(12648, root).
+
+arg(12777).
+text(12777, A tool is impartial, but it still can be useful.).
+att(12777, 12496).
+
+arg(12785).
+text(12785, It is at the root of any other knowledges.).
+support(12785, root).
+

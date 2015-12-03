@@ -1,0 +1,11 @@
+arg(root).
+text(root, Radio Stations need to play the same songs over and over to make you listen. ).
+
+arg(12286).
+text(12286, If you play a song too often, people will most likely get sick of it, resulting in not wanting to hear it, anymore.).
+att(12286, root).
+
+arg(13241).
+text(13241, When you tune into a station you want to hear a good song, and the only way to play good songs. Is to limit the amount of songs you play. Resulting in a smaller playlist the repeats. ).
+att(13241, 12286).
+

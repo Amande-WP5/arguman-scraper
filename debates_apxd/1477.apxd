@@ -1,0 +1,7 @@
+arg(root).
+text(root, startups valuations are way overpriced).
+
+arg(7264).
+text(7264, uber is in over 60 countries and 290 cities).
+att(7264, root).
+

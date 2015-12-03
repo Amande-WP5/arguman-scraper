@@ -1,0 +1,23 @@
+arg(root).
+text(root, Europe should close its borders for refugees).
+
+arg(16087).
+text(16087, Only Germany which had historically hosted significant populations of muslims and had an incentive after WWII to rebuilt its international image was eager to shelter Syrian refugees. Many other countries were reluctant or even opposed receiving them (such as Hungary and Romania).).
+att(16087, root).
+
+arg(16086).
+text(16086, Europeans tend to be nationalist and reluctant to open up and provide for refugees so culturally and ideologically distinct from them.).
+support(16086, root).
+
+arg(16085).
+text(16085, Not all member states have the possibility to socially integrate Middle Eastern refugees.).
+support(16085, root).
+
+arg(13518).
+text(13518, The European Union has declared that human rights extend beyond borders.).
+att(13518, root).
+
+arg(13521).
+text(13521, Europeans paid taxes and their military industries used the money to bomb endlessly and sell weapons there. ).
+att(13521, root).
+

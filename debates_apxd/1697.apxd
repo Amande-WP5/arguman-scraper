@@ -1,0 +1,19 @@
+arg(root).
+text(root, Bestiality is not inherently wrong).
+
+arg(14599).
+text(14599, If the animal suffer it is wrong.).
+att(14599, root).
+
+arg(9801).
+text(9801, This may not be the case in primates and cetaceans, as we have shown they can grasp basic language, and this is evidence of higher intelligence).
+att(9801, root).
+
+arg(14613).
+text(14613, If the animal doesn't suffer, is it wrong?).
+att(14613, 14599).
+
+arg(9683).
+text(9683, it is not inherently harmful and as property, consent of the animal is irrelevant. ).
+support(9683, root).
+

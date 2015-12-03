@@ -1,0 +1,15 @@
+arg(root).
+text(root, Arguman is useless).
+
+arg(13562).
+text(13562, As useless as every other website).
+att(13562, root).
+
+arg(13591).
+text(13591, You're asserting this point on Arguman. You've invalidated your own assertion.).
+att(13591, root).
+
+arg(13718).
+text(13718, Everything is fundamentally useless.).
+support(13718, root).
+

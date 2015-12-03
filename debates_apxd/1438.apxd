@@ -1,0 +1,225 @@
+arg(root).
+text(root, Taxation is not theft. ).
+
+arg(7099).
+text(7099, "You cannot live here if you don't pay for it"
+"You cannot have this apple if you don't pay for it").
+att(7099, 7085).
+
+arg(9327).
+text(9327, It doesn't matter that a service is received if consent was never given. The tax collectors won't allow you to deny consent, and if you try to avoid paying they will punish you somehow.).
+att(9327, root).
+
+arg(7085).
+text(7085, The state cannot work if it isn't funded, I know. But demanding money using coercion is the same as extortion. It is, by definition, theft. If this theft has good or bad consequences is another issue, but we can deny it is indeed theft.).
+att(7085, root).
+
+arg(7509).
+text(7509, You are essentially receiving a service (Healthcare, protection, infrastructure, education etc.) and it is expected that you provide payment for such services. (Just as it is expected that you pay for a service such as a car repair)).
+support(7509, root).
+
+arg(7404).
+text(7404, You consent when you participate in a society that provides public services like roads, schools etc. You're free to leave and stop paying taxes any time, as long as you're willing to relinquish the use of any services provided by the government.).
+att(7404, root).
+
+arg(12098).
+text(12098, The store selling the apple owns the apple. this analogy rests on the question of if the state owns all the land that make up the nation. On what grounds can it be claimed that the state owns all the land in the nation?).
+att(12098, root).
+
+arg(9333).
+text(9333, Source? If you try to leave your home country, you will still be taxed as a citizen in your country of origin (at least in USA). Try to opt out of the government system by having no identity, you are also blocked from finding gainful employment or opening a bank account. Unrelated to taxed services.).
+att(9333, root).
+
+arg(9339).
+text(9339, Source? If I stop paying taxes I am not free to leave, I am jailed. You lose a lot more than access to government services   if you do not pay, which is why it is forceful and theft. I do not simply consent by being alive, since the government enforces a monopoly over these things I have no choice.).
+att(9339, 7404).
+
+arg(7119).
+text(7119, Taxes go towards stuff that benefits the taxee.).
+support(7119, root).
+
+arg(9341).
+text(9341, The only prison sentence you can face regarding tax payment is if you willingly defraud the state. This is the crime of fraud. You can not be jailed for owing taxes in the West. There is no such thing as a debtors prison. Jailed citizens can not pay off their tax bill.).
+att(9341, 9339).
+
+arg(9352).
+text(9352, If you don't want to buy the apple, you are free to walk out the store. That is a voluntary exchange. You can't go to someone's wallet, request money to keep yourself in power, and get mad when they say I worked for that money. That is an involuntary exchange. The government enforces a monopoly.
+
+).
+att(9352, root).
+
+arg(6993).
+text(6993, If the consequences of disagreeing are coercion and punishment, then the agreement of society is not voluntary.).
+att(6993, root).
+
+arg(7003).
+text(7003, It's the cost of living in a society. You can't go to the store, request an apple, and get mad when they say that it costs money. It's true that you are forced to pay them for it, but that's because it isn't free.).
+att(7003, 6993).
+
+arg(7482).
+text(7482, While the social contract does exist, you are free to opt-out at any time, and eschew paying taxes, as well as sever any legal ties, to an existing government. You can renounce citizenship, become a stateless individual, and refuse to pay taxes. You must take personal responsibility for the results.).
+att(7482, root).
+
+arg(7488).
+text(7488, You are free to opt-out of the system at any time.).
+att(7488, root).
+
+arg(7184).
+text(7184, If theft is taking something without consent or permission, then consent is the only thing that matters. Whether the thief gives you stuff after stealing from you wouldn't matter. Taxes are theft if you do not consent.).
+att(7184, 7119).
+
+arg(9360).
+text(9360, They will do other things to violate your property against your will, such as garnishing wages or seizing assets. If you try to prevent this, then it is more punishable but there is no such punishment for them for failing to collect taxes fairly, misallocating funds, providing inadequate service,etc).
+att(9360, 9341).
+
+arg(9372).
+text(9372, Source on renouncing citizenship? If you become a stateless individual, you are still bound to the laws of the territory. You can not replace the existing state by forming your own infrastructure and system. There is no non-revolutionary way to opt out. Why amI responsible for the services rendered?).
+att(9372, root).
+
+arg(9376).
+text(9376, Yes, when you reside in a country you are typically bound by the laws of that country, that is normal. You are free to opt-out of this too, by going somewhere else. Personal Responsibility is the key, you must be willing to take responsibility for your own support if you shun society.).
+support(9376, 9372).
+
+arg(9561).
+text(9561, Coercion is a necessary part of building a society that people find tolerable. Therefore we're morally justified when we take from one to provide for the greater good, which of course must always trump selfish concerns about property. "If the children are on fire, then you've no right to the well." ).
+support(9561, root).
+
+arg(6902).
+text(6902, I do not have the choice not to pay tax because I am under the threat of force if I do not pay.).
+att(6902, root).
+
+arg(9563).
+text(9563, Even while remaining within the same nation, you can work under the table, rent housing informally and make purchases second hand without paying sales tax.
+
+Alternatively, steal a tent and move to the middle of nowhere where you can live off the land.).
+support(9563, 7488).
+
+arg(9632).
+text(9632, Moving the goalposts for what theft is defined as. What benefit do you gain from theft? Taxes on the other hand provide numerous positive externalities. Your attitude towards these investments is irrelevant so long as you live within that society. You can always be a pirate in the southern seas.).
+att(9632, 7184).
+
+arg(9486).
+text(9486, If I flee theft, does this absolve the wrongdoing? No, government merely claims exemption. I am not personally responsible for government services, in actuality taxation is avoiding personal obligation. The consequences of opting out carry over to more than the services rendered, it is coercion.).
+att(9486, 9376).
+
+arg(9638).
+text(9638, Because some people are selfish, and selfishness is destructive to the community.).
+support(9638, root).
+
+arg(7474).
+text(7474, You absolutely have the choice to not pay taxes if you so wish. However, society will ensure that you do not benefit in any way, no matter how minor, from those people that do pay taxes to maintain a high standard of living and the governmental, legal, and social infrastructure of a modern country.).
+att(7474, 6902).
+
+arg(9356).
+text(9356, You can renounce your citizenship of any country and become a stateless individual. You are then exempt from all taxes, however you then have no right to benefit from the infrastructure of a state and society and those that pay, work and bleed to maintain it. You must take personal responsibility.).
+support(9356, 9333).
+
+arg(7525).
+text(7525, In common usage, theft is the taking of another person's property without that person's consent with the intent to deprive the rightful owner of it.
+
+Since there are no rightful owners there is no theft. 
+).
+support(7525, root).
+
+arg(9641).
+text(9641, This same tax revenue funds the death and destruction of the human race through war, a patent system which allows oppressors to control the supply of essential commodities such as food and medicine, the war on drugs, a deadly and inefficient system of roads, unaccountable police shootings, etc.).
+att(9641, root).
+
+arg(12100).
+text(12100, If I take something from you, and you say that I stole, and I say that it's not theft if it's legal, and I just so happen to make the law. Is it theft? On what grounds does the state have the authority to make the law legalizing it's taking of money from citizens by threats of force anyways? ).
+att(12100, root).
+
+arg(12101).
+text(12101, This is a form of begging the question. By saying that it's not theft if it's legal, and it's legal because the state says it is, you are assuming that the state is legitimate in order to try and prove that the primary means of funding the state is legitimate. ).
+att(12101, root).
+
+arg(12102).
+text(12102, If I break into your house, steal $1,000 in cash you have under your bed, and then do your dishes for you, is it no longer theft because you benefited in some way from the whole thing? ).
+att(12102, 9632).
+
+arg(12105).
+text(12105, If you insist that the benefit must be greater than or equal to the value of the money taken, then by necessity, SOME taxes must be theft. 
+
+If you insist that the exchange must be voluntary, then taxation is thereby theft because it is involuntary.).
+support(12105, 12102).
+
+arg(9509).
+text(9509, You won't benefit from the fruits of your own labor, either. You can't work, own a business, or own property without paying taxes. In making sure that you do not benefit, you are also prevented from contributing. If the services rendered represent what society wants, why must it be done forcefully? ).
+att(9509, 7474).
+
+arg(12107).
+text(12107, The state will haul you off to jail for many of those activities so you're not really free to do them without punishment, so it's not a 'legitimate' way to opt out. Also if the only way to opt out of paying taxes is to break the law and go to jail, this reinforced the point that taxation is coercive).
+att(12107, 9563).
+
+arg(9522).
+text(9522, the definition of stealing refers to a person or entity taking that which they have no legal right to. The system of taxation has been deemed "legal" by the state, and so the collecting of money through taxes cannot be considered stealing (as the government has a legal right to the money)).
+att(9522, root).
+
+arg(9627).
+text(9627, Without tax revenue, people would die. Your property is not as important as life. ).
+att(9627, 7184).
+
+arg(9319).
+text(9319, The rightful owner is the person who is being taxed. Taxes are taken without consent.).
+att(9319, 7525).
+
+arg(12137).
+text(12137, There are numerous employers and job opportunities that have opted out of the state. I myself have worked general labor under the table. More lucrative options would be in the arms or drugs trade where your employers would be organizations such as the Hell's Angels. You could also work alone.).
+att(12137, root).
+
+arg(12146).
+text(12146, We are not discussing "legitimate" or convenient ways to opt out. The threat of force may be real, but if they take nothing it is not theft.).
+att(12146, 12107).
+
+arg(9653).
+text(9653, Taxation doesn't solve the problem of selfishness. People can still abuse the welfare system or use their position of power for narrow self-benefit. Selfishness is beneficial to basic survival and encouraging people to succeed in obtaining as many resources as possible.).
+att(9653, 9638).
+
+arg(6899).
+text(6899, Theft is taking something without permission; tax has the implicit agreement of society.).
+support(6899, root).
+
+arg(12093).
+text(12093, neither of those fallacies apply here--by accepting the government as a legal authority (which you have, implicitly, by not actively rejecting it--because of the structure of the society you were born into) you have also implicitly accepted its definition of "legal." ).
+att(12093, 9522).
+
+arg(9571).
+text(9571, Both employment held to state and federal standards (i.e., minimum wage, safety requirements, treatment) and opening an FDIC insured bank account at a federally recognized bank are benefits of the state you would be choosing to opt out of. You can still find employment and someone to hold your money).
+att(9571, 9333).
+
+arg(12096).
+text(12096, If an employer refused to abide by the regulations imposed by the state, they would be shut down. Insofar that employers cannot opt out of the state, they cannot hire employees who opt out without you considering that employee to be 'benefiting' from the state.).
+att(12096, 9571).
+
+arg(7383).
+text(7383, You do have the choice of not paying tax by avoiding society. A social contract exists where it is implied that the taxes paid are beneficial to the one paying (i.e. for use of roads, schools, police, or parks). ).
+att(7383, 6902).
+
+arg(15996).
+text(15996, since the government also taxes currency they did not create, the ownership of produce and property people own taxation is not limited to the currency created by government and by using that logic the government would own the time and produce of it's country. ).
+att(15996, root).
+
+arg(15888).
+text(15888, The state does not need any such grounds: It is a simple fact that it is able to make such laws.).
+att(15888, 12100).
+
+arg(15889).
+text(15889, The government is the one which creates the currency so it's the actual owner of the money in any case. When you are taxed you are simply returning to the government that which it already owns.).
+att(15889, 9319).
+
+arg(15906).
+text(15906, Taxation is necessary for a government to function effectively, which in turn allows the government to serve its people. In short, taxes are payment for governmental services we otherwise take for granted.).
+support(15906, root).
+
+arg(15997).
+text(15997, If the taxee wants to buy other things than the state provides, than the taxee values said things more highly than what the state provides. The means of the taxee to buy what he wants are sacrificed to provide him with things he does not want.).
+att(15997, 7119).
+
+arg(15998).
+text(15998, usually you will be locked against your will in a cage and enslaved by government until you surrender to their will).
+att(15998, 7482).
+
+arg(16002).
+text(16002, We are all subjects of Her Majesty the Queen and its her money).
+support(16002, root).
+

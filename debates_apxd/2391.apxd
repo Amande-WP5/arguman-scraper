@@ -1,0 +1,15 @@
+arg(root).
+text(root, CoffeeScript is still better than ES6).
+
+arg(15988).
+text(15988, Tabs/indents are better. {} sucks.).
+support(15988, root).
+
+arg(15989).
+text(15989, All ES6 stuff was stolen from CoffeeScript).
+support(15989, root).
+
+arg(15987).
+text(15987, IcedCoffeeScript is better for callback hell. This could solve any problem with difficult async workflow. You will despise generators, promises, async await.).
+att(15987, root).
+

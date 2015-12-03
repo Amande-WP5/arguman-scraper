@@ -1,0 +1,133 @@
+arg(root).
+text(root, Sometimes it's rational to be "immoral").
+
+arg(9988).
+text(9988, You can act for your immediate self interest but the same would be a awful choice for the long term. Therefore you could act for your (short term) self interest but against (long term) interest.).
+att(9988, root).
+
+arg(10208).
+text(10208, Another example would be a thief in the street who is hungry & takes what is needed to survive. Is it truly immoral? Depends what you read. Assuming so,  the question would be is it rational to preserve yourself & steal instead of going hungry and staying moral. happy and dead or alive and enslaved.).
+support(10208, root).
+
+arg(9861).
+text(9861, If we should act against our own self interest because there is a possibility that there will be indirect benefits to us as our "Goodness" reverberates thru society. Then this is an appeal to our self interest. You cant say that we ought to act against our self interest because it is in our interest).
+att(9861, root).
+
+arg(10193).
+text(10193, People's preference with how immediate returns on their actions should be, is called time preference. EG: some people are willing to accept $10 today rather than $15 next week. Pointing out that some actions pay out now with future costs does not show that it is always rational to be moral.).
+att(10193, 9988).
+
+arg(10200).
+text(10200, This only holds up if acting in self interest is what is always rational. If it's assumed being moral is in itself our goal "b/c" it will bring happiness, then being moral is always in our self interest.   
+Edit: added "b/c", check below for a more detailed argument.).
+att(10200, root).
+
+arg(10201).
+text(10201, Walking Dead).
+support(10201, root).
+
+arg(10204).
+text(10204, For example, someone who takes credit for another's work to get a raise.  Socrates would say that the worker has enslaved himself to his greed and isn't being rational, which would bring him satisfaction.).
+support(10204, 10200).
+
+arg(10206).
+text(10206, If he would receive negative consequences from his fruad to get a raise, such as guilt or other psychological effects then you are simply giving 1 example where it is irrational to be immoral. when the point of contention is that it is SOMETIMES rational to be immoral. ).
+att(10206, 10204).
+
+arg(10205).
+text(10205, You cannot presuppose that it is rational to be moral, and that it is our goal to be moral, in order to show that it is always rational to be moral. This is a type of begging the question.).
+att(10205, 10200).
+
+arg(10207).
+text(10207, Just because someone takes 1 action in the pursuit of money does not imply they are a 'slave' to greed. ).
+att(10207, 10204).
+
+arg(10209).
+text(10209, The point was that in acting selfishly, the worker was not obeying reason and therefore being irrational, even when it appears he is acting in his self interest.).
+att(10209, 10206).
+
+arg(10210).
+text(10210, In that action we may say he was acting in accordance with his greed, a desire, therefore not reason.  So, yes the worker was a slave to greed by not keeping with his true goal of happiness by remaining moral.).
+att(10210, 10207).
+
+arg(10211).
+text(10211, There are different moral philosophies. Any moral structure is going to instruct you to do X or refrain from Y. There are scenarios in which X harms you, or Y benefits you. Therefore, it is sometimes in your interest to act in ways that are considered immoral.).
+support(10211, root).
+
+arg(10212).
+text(10212, If there were no scenarios in which X harms you, and Y benefits you, there would be no need for the moral systems to command X or prohibit Y.).
+support(10212, 10211).
+
+arg(10214).
+text(10214, Sorry if that's how it came out.  Let me try this way.  1.  Being moral brings us happines. 2. Doing what makes us happy is rational. 3 Doing what makes us unhappy is irrational. 4 Being immoral makes us unhappy.  5. Therefore, being immoral is irrational. ).
+att(10214, 10205).
+
+arg(10217).
+text(10217, How is it unreasonable to pursue your desires? You are just asserting this without argument.).
+att(10217, 10210).
+
+arg(10218).
+text(10218, You cannot say what other's 'true goals' are. Additionally, if he is seeking money, the purpose of money is to be able to spend it, it is likely that he is going to use the money he used 'immoral' means to obtain, on something he believes will make him happier. Whether it's charity, or a new TV etc.).
+att(10218, 10210).
+
+arg(10219).
+text(10219, You are still begging the question with premise 1. You are equating acting towards happiness with being rational, which is fair. but you are simply asserting that being moral is what makes us happy. thereby simply asserting that being moral IS rational by definition.).
+att(10219, 10214).
+
+arg(9817).
+text(9817, because sometimes acting morally goes against your own self-interest and makes you worse off overall.).
+support(9817, root).
+
+arg(9854).
+text(9854, By acting against your self interest you are indirectly acting for him. 
+By being good you'll increase someone trust in society and this person may be giving your wallet back to the authority istead of kepping it.).
+att(9854, 9817).
+
+arg(9848).
+text(9848, an example is simple: if you can steal money with a seemingly zero percent chance of being caught, that would be rational, since you will be better off.).
+att(9848, root).
+
+arg(9832).
+text(9832, Acting solely on self-interest by being immoral can be irrational.).
+att(9832, 9817).
+
+arg(9833).
+text(9833, unless you can't show an example of immoral and rational behavior, we can assume it is not possible.).
+att(9833, 9817).
+
+arg(9841).
+text(9841, How can it be irrational to act in your own self interest? You cant give an example of acting in your self interest that harms you. If you give an example where acting in your self interest harms others, you have to explain why it's irrational to harm others. You have not done so.).
+att(9841, 9832).
+
+arg(10569).
+text(10569, If it leads to a negative outcome, then it wasn't ultimately in your self interest. ).
+att(10569, root).
+
+arg(10252).
+text(10252, Doing what makes us happy is not always rational. Removing your spouse from life support may be the rational thing to do, but it certainly does not make one happy. ).
+att(10252, 10214).
+
+arg(10253).
+text(10253, But society as a whole will not be better off, and as a member of society, harming society as a whole is generally against your long term self-interest.).
+att(10253, 9848).
+
+arg(10571).
+text(10571, You have simply defined being rational with not being selfish. Why is it irrational to be selfish?).
+att(10571, 10209).
+
+arg(10266).
+text(10266, Suppose you had to kill either the president or two people, but you had to kill one of the two people. You'd rationally kill the two people, although you immorally saved fewer lives than you could have.).
+support(10266, root).
+
+arg(10268).
+text(10268, If we should act against our own self interest because there is a possibility that there will be indirect benefits to us as our "Goodness" reverberates thru society. Then this is an appeal to our self interest. You cant say that we ought to act against our self interest because it is in our interest).
+att(10268, 10253).
+
+arg(10579).
+text(10579, think of conceps like Kants categorical imperative. ).
+att(10579, 9841).
+
+arg(10271).
+text(10271, While acting in self interest by gambling, you may hurt yourself by losing.).
+att(10271, 9841).
+

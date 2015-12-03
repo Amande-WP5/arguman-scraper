@@ -1,0 +1,7 @@
+arg(root).
+text(root, The voting age should be lower than 18 in Canada).
+
+arg(12709).
+text(12709, The youth vote is significantly lower than the senior vote. Allowing more youths to vote would not do much democratically. In the 2011 election 18-24 had ~39% turnout compared to 45-74 with ~70%.).
+att(12709, root).
+

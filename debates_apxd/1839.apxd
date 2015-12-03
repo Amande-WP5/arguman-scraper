@@ -1,0 +1,157 @@
+arg(root).
+text(root, the Earth is not moving).
+
+arg(11171).
+text(11171, If c designates the velocity of light (relative to the ether), then its velocity relative to the earth should be c-v for a light beam moving in the same direction as the earth, and c+v when it moves in the opposite direction.
+
+Experiments have shown that c+v and c-v are equal, so v must be 0.).
+support(11171, root).
+
+arg(11512).
+text(11512, The experiment took for granted the moveiment of Earth around the Sun and so its results were ununderstandable in its time. Only after relativity theory they started to make sense again, but relativity is just a model, it is not a fact. Another model could be proposed involving Earth standing still.).
+att(11512, root).
+
+arg(11665).
+text(11665, "Another model could be proposed involving Earth standing still." Citation needed, nobody ever said that and if you could propose this model, you would likely gain the nobel price for physics.).
+att(11665, 11512).
+
+arg(11194).
+text(11194, You can geometrically prove the earth is moving, because it changes the distance with every other planet in the solar system and even with the sun itself. If you combine every movement and distance, you can come to only 1 conclusion. Read the source to understand how exactly it is calculated.).
+support(11194, root).
+
+arg(11175).
+text(11175, There's no empirical proof that Earth is in fact moving, there's only a model of the universe that "explains better" the empirical data we have about movements of planets and stars.
+
+But nothing prevents this data we have from being explained in terms of a static Earth.).
+support(11175, root).
+
+arg(11338).
+text(11338, "There's no empirical proof that Earth is in fact moving, there's only a model of the universe". However, the model of the universe contains not only every planet's position but also their individual movement, including earth.).
+att(11338, 11175).
+
+arg(11730).
+text(11730, Equally reasonable does not mean equally likely. There is no TRUE reference frame. There is no reference frame that is special or more important. Assigning a probability to the likelihood of any reference frame is nonsensical.).
+att(11730, root).
+
+arg(11180).
+text(11180, no one can state that the Earth is moving, for the same reason no one could state that it was static in the past, or that no one could state that the Sun is static today, or that our galaxy has a static center.
+
+Everything is a difference of perspective.).
+support(11180, root).
+
+arg(12075).
+text(12075, in order for other matter to be moving faster than the speed of light if the earth was stationary, some matter would have to be moving faster than the speed of light if the earth is moving. ).
+att(12075, root).
+
+arg(11230).
+text(11230, If we would make the same experiment on Mars and it gets the same result it would show that the experiment was irrelevant).
+att(11230, 11171).
+
+arg(11893).
+text(11893, The earth is moving constantly.).
+att(11893, root).
+
+arg(11231).
+text(11231, Movement is relative).
+att(11231, root).
+
+arg(11485).
+text(11485, The experiment cited was evidence that "no ether or fundamental reference frame of the universe exists" OR that "the Earth is still".).
+att(11485, root).
+
+arg(11491).
+text(11491, Your cited source is not evidence for the earth standing still. See the other premises for reference.).
+att(11491, 11485).
+
+arg(11493).
+text(11493, The experiment is irrelevant to the question as it was carried out before the understanding of space, time, and the motion through it was overhauled and re-worked by Einstein.).
+att(11493, 11485).
+
+arg(11514).
+text(11514, it is equally possible that everything is moving around the static earth, rather than the earth moving around something else.).
+support(11514, root).
+
+arg(11522).
+text(11522, The only thing moving through 'space' at c is light however light does not move through time. Everything moves through 'spacetime' at c. Earth may be moving through time at c though and we would be none the wiser.).
+att(11522, root).
+
+arg(11533).
+text(11533, space =/= spacetime. Also any massless particle travels at c (in m/s) not just light.).
+att(11533, root).
+
+arg(11193).
+text(11193, When astrologists talk about the earth "moving" it is always in relation to the solar system. And in that sense, it is moving.).
+att(11193, root).
+
+arg(11291).
+text(11291, According to Einstein's Theory of Special Relativity everything is moving at c through spacetime.).
+att(11291, root).
+
+arg(11195).
+text(11195, You are referring to the fact that the universe has no reference point, which is true, but that is the reason why we define reference points to be able to describe the movements between objects. For example, it gives us the possibility to calculate how exactly the earth moves around the sun.).
+att(11195, 11180).
+
+arg(11537).
+text(11537, Its not equally possible. That contradict everything we know about physics. There are a lot more evidence of the earth moving around the sun than otherwise.).
+att(11537, 11514).
+
+arg(11295).
+text(11295, The experiment cited was evidence that no ether or fundamental reference frame of the universe exists. NOT that the earth is still. Einstein's theory of Special Relativity shows that no reference frame is 'special'.).
+att(11295, 11171).
+
+arg(11299).
+text(11299, The lack of proof that the earth IS moving is not proof that the earth is NOT moving.).
+att(11299, 11180).
+
+arg(11340).
+text(11340, We have proof that the earth is moving. Source included.).
+att(11340, 11299).
+
+arg(11827).
+text(11827, I was under the impression that even General Relativity did not allow for super-luminal apparent movement (with the exception of expanding space).).
+att(11827, root).
+
+arg(11733).
+text(11733, This assumes that one reference frame (the reference frame of the sun) is more important than another which is NOT true.).
+att(11733, 11194).
+
+arg(11734).
+text(11734, This is not consistent with General Relativity.).
+att(11734, root).
+
+arg(11196).
+text(11196, Ironically, the Michelson–Morley experiment you added as a source for your argument takes into account the movement of the earth around the sun. Without earths movement this experiment would have been useless. Also, your conclusion is a huge simplification of the experiment.).
+att(11196, 11171).
+
+arg(11584).
+text(11584, I am on the earth. I can dig a hole and move the earth. The earth is made of atoms. Atoms are never still. When I dig my hole, I am moving atoms left, right, up, and down.).
+att(11584, root).
+
+arg(11587).
+text(11587, You are incorrect. A reference frame with Earth stationary is just as reasonable as a reference frame with the sun stationary which is just as reasonable as any other object in free-falls reference frame.).
+att(11587, 11537).
+
+arg(11602).
+text(11602, If Earth were not moving, the vast majority of matter would be moving faster than c. According to our current understanding of the universe, this is impossible.).
+att(11602, root).
+
+arg(11603).
+text(11603, Gluons also move at the speed of light. Change your answer to "massless particles" and you would be correct.).
+att(11603, root).
+
+arg(11612).
+text(11612, Although it is equally likely that the earth is stationary or the sun is. That doesn't make the possibility that the earth is stationary equal to the possibility that the earth is moving. There is an infinite number of possibilities making the chance minute or impossible. ).
+att(11612, 11587).
+
+arg(11613).
+text(11613, It can't be equally possible because it would mean the majority of the universe is moving at superluminal speeds.).
+att(11613, 11612).
+
+arg(11614).
+text(11614, But there are trillions of other possibilities of where the center of the universe is making it highly unlikely that it's the center of earth.).
+att(11614, 11338).
+
+arg(12069).
+text(12069, Yes. This is correct. With Earth stationary (how are you defining it to be stationary?) there will still be nothing (from Earths reference frame) moving faster than light.).
+support(12069, 11827).
+

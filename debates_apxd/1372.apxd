@@ -1,0 +1,31 @@
+arg(root).
+text(root, People prefer buying than donating).
+
+arg(6308).
+text(6308, It is much easier to buy, than it is to donate.).
+att(6308, root).
+
+arg(6167).
+text(6167,  Buying is a must, donating is a should).
+support(6167, root).
+
+arg(6522).
+text(6522, Buying something produces a direct, instant, and tangible return. Donating most often only produces delayed returns that are indirect and/or intangible.).
+support(6522, root).
+
+arg(6533).
+text(6533, People may feel better about themselves when donating rather than buying - donating can contribute to self-esteem by producing feelings of altruism, compassion, and empathy. Because you get something in return for your purchase, buying may not produce similar emotions. ).
+att(6533, root).
+
+arg(6540).
+text(6540, It's an evolutionary advantage to provide for oneself before providing for another. However, in today's society there is such an abundance of stuff (new car, iphone, levi jeans) that there is no limit to what we can give ourselves, so we continue, even while others go without food and clean water.).
+support(6540, root).
+
+arg(6544).
+text(6544, The funds don't always go help their intended cause. A lot of the cash is used to pay the administrators. ).
+support(6544, root).
+
+arg(6584).
+text(6584, No one must buy anything. Through a life of substantial agriculture, one can be self existing without the need to buy from others.).
+att(6584, 6167).
+

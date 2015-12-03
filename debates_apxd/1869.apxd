@@ -1,0 +1,152 @@
+arg(root).
+text(root, People don't have free will).
+
+arg(16138).
+text(16138, Radioactive decay is considered non-deterministic so in principle any physical system sensitive to that decay is unavoidably non-deterministic. Conservation laws therefore need not be violated if a system is non-deterministic.).
+att(16138, root).
+
+arg(16143).
+text(16143, A non-deterministic system cannot be distinguished from a system that possesses free will and so free will could be present with no requirement to violate conservation laws.).
+support(16143, 16138).
+
+arg(16135).
+text(16135, Only if a human is a deterministic system.).
+att(16135, root).
+
+arg(16134).
+text(16134, One's actions aren't completely determined by one's inputs.).
+att(16134, root).
+
+arg(16133).
+text(16133, I do.).
+att(16133, root).
+
+arg(16048).
+text(16048, If it was not deterministic it would be kinda random 
+Still not free will).
+att(16048, root).
+
+arg(15706).
+text(15706, Each premise only need to be related to the parent premise.).
+att(15706, root).
+
+arg(15705).
+text(15705, You have to use the collapse axiom to know what will happen.
+Saying QM doesn’t describe a non-deterministic universe make "deterministic" meaningless.).
+att(15705, root).
+
+arg(15703).
+text(15703, This is not a valid thought experiment.
+You can create a lot of paradox with time travel, then you can’t conclude anything based on a thought experiment based on time travel.(apart its impossibility)).
+att(15703, root).
+
+arg(15673).
+text(15673, I agree with you. When some people hear about the lack of free will, they think of it in terms of being coerces into doing something they don't want. It's simply an application of conservation of mass and energy, which doesn't say much.).
+att(15673, root).
+
+arg(11794).
+text(11794, Stating that "The collapse of the wave function means quantum theory is not deterministic" is contradictory with the fact that one can use Schrodinger on the whole system instead of using the collapse axiom and find a deterministic evolution.).
+att(11794, root).
+
+arg(15672).
+text(15672, The reason you don't agree with past actions is because you have new information available to you. Unless you want to break conservation of mass and energy, your brain is going to behave the same way given the exact same circumstances. ).
+att(15672, root).
+
+arg(11784).
+text(11784, The burden of proof is with those who claim that the universe IS deterministic, which as far as modern science can determine it is not. The collapse of wavefunctions in quantum mechanics is NOT deterministic.).
+att(11784, root).
+
+arg(11785).
+text(11785, My premise did not state that people have free will.).
+att(11785, root).
+
+arg(11795).
+text(11795, Nobody until now disproved the determinism with this process. If you can, please do.).
+att(11795, root).
+
+arg(11575).
+text(11575, That isn't self evident, it's just another belief. ).
+att(11575, root).
+
+arg(11725).
+text(11725, If conscious decisions doesn't happen, it just makes my point stronger).
+att(11725, root).
+
+arg(11791).
+text(11791, I didn't say it did, but the discussion should be related to the question.).
+att(11791, 11785).
+
+arg(11793).
+text(11793, The hypothesis that the universe is deterministic needs only a single counter-example to be shown false which it has in Quantum Mechanics.).
+att(11793, root).
+
+arg(11789).
+text(11789, Your logic is right. But since there is scientific evidence which points to the universe being deterministic, you'd have to prove them wrong to state that "the universe is not deterministic". But I also can't state the opposite.).
+att(11789, 11784).
+
+arg(11818).
+text(11818, To put this simply: You go back in time and watch yourself without interfering; If you believe that you will watch yourself do the exact same things, then you shouldn't believe in free will).
+support(11818, root).
+
+arg(11554).
+text(11554, People receive "inputs" from the environment through life, but they can't choose which "inputs " to receive .).
+support(11554, root).
+
+arg(11970).
+text(11970, The question resides on Free will aplied to the context of human beings. There is no logic using comparisons with a dice of mechanic process to reach a conclusion on the context given.).
+att(11970, root).
+
+arg(11578).
+text(11578, It isn't just a belief ,it has scientific evidence and theories.).
+att(11578, 11575).
+
+arg(11592).
+text(11592, All scientific evidence for a determined reality is based off the belief that brain activity could happen without conscious decision taking place.  ).
+att(11592, 11578).
+
+arg(11593).
+text(11593, It isn't known when or even if conscious decision making happens in the brain.).
+support(11593, 11592).
+
+arg(11746).
+text(11746, The universe is not deterministic.).
+att(11746, root).
+
+arg(11951).
+text(11951, Free will is a meaningless concept.
+
+Does a mechanical process that always reaches the same conclusion based on the same inputs have free will?
+
+Does a fair die roll have free will?
+
+Free will implies something entirely outside of those two options.).
+att(11951, root).
+
+arg(12087).
+text(12087, No. Decisions that are made are largely influenced by your brain chemistry in the moment and the knowledge you had at the time. You will not always agree with your past decisions. Also some actions are based on reflexes that change over time.).
+att(12087, 11818).
+
+arg(12234).
+text(12234, Most of our actions like you said are controlled by our brain so knowing this we should infer how many psychological factors can easily influence our consciousness making it not at all "free".).
+att(12234, 12087).
+
+arg(11892).
+text(11892, Term 'free will' implies there is something of which to be free, so the very phrase assumes potential constraints the will. Constraint source (i.e.: 'natural' - deterministic, physics, etc. or 'supernatural' - Creator, intelligent design, etc.) changes the nature of your argument. ).
+att(11892, root).
+
+arg(11632).
+text(11632, This is called "Limited Free Will" the idea that we have the ability to choose between given options, but we don't have the ability to choose what options we are given).
+support(11632, 11554).
+
+arg(11771).
+text(11771, You have to prove it, and if you prove it, it is also required to prove that the universe not being deterministic means that people have free will.).
+att(11771, 11746).
+
+arg(11964).
+text(11964, Free will is a concept that has a meaning, so it is not meaningless.).
+att(11964, 11951).
+
+arg(11637).
+text(11637, Determinism is the philosophical position that for every event, including human action, there exist conditions that could cause no other event.).
+support(11637, root).
+

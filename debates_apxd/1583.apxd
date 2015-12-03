@@ -1,0 +1,7 @@
+arg(root).
+text(root, Human sex must involve genitalia).
+
+arg(8492).
+text(8492, The act of sex by definition has to involve the genitals of at least one party.).
+support(8492, root).
+

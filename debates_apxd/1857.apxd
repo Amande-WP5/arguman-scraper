@@ -1,0 +1,11 @@
+arg(root).
+text(root, Amy Schumer is a rapist).
+
+arg(11473).
+text(11473, People can confess and still lie. ).
+att(11473, root).
+
+arg(11459).
+text(11459, she confessed it herself.).
+support(11459, root).
+

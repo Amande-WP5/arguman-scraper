@@ -1,0 +1,75 @@
+arg(root).
+text(root, We are superior to A.I).
+
+arg(8902).
+text(8902, AI could survive without us. If they mange to outlive us and are programmed to have goals that are extremely vast they could potentially work towards those goals as humans have forever (populate the universe for example). Humans also have no use that would be relevant to anything else in existence.).
+att(8902, root).
+
+arg(8883).
+text(8883, Artificial Intelligence will be created by humans, and cannot exist without us. AI will simply be a tool that we invent to benefit the human race. If humans were to disappear, AI would have no use that would be relevant to anything else in existence.).
+support(8883, root).
+
+arg(9719).
+text(9719, If AI is perfected it will be able to calculate every outcome to any situation. At a fraction of what a human is capable of making us obsolete.).
+att(9719, root).
+
+arg(9221).
+text(9221, Duel-processing is nothing compared to what the human body simultaneously processes each mili second for sometimes over 100 years non stop).
+att(9221, root).
+
+arg(8929).
+text(8929, AI is basically ours. It destroying us would be because of our bad use of it, like if we shot ourselves with a gun, which doesn't mean that guns control us.).
+support(8929, root).
+
+arg(9732).
+text(9732, Currently, the main challenge in making human like or better intelligence is not in processing or detection of stimulus, it's in perception. So many signals from our senses don't make it to our direct attention. It is easy to add a camera to a robot, but it's hard to tell it what to pay attention to).
+att(9732, root).
+
+arg(9733).
+text(9733, Also, the fear in AI. Is that the difference between human and animal intelligence is very small once you know what you're looking for. We could possibly make an AI that surpasses human intelligence while attempting to get it to that level. The effects of that would be unknown.).
+att(9733, 9732).
+
+arg(8241).
+text(8241, A.I 'consciousness' is very basic, it only understands what we call sensual data. Human consciousness however is subtlety but vastly greater. It is expandable and shrinkable. It just isn't completely understood by science and probably won't be for a very long time.).
+support(8241, root).
+
+arg(8242).
+text(8242, We have a long list of cognitive biases which can make it difficult to reason correctly.).
+att(8242, root).
+
+arg(8244).
+text(8244, Artificial intelligence doesn't exist yet.).
+att(8244, root).
+
+arg(8245).
+text(8245, Superiority is not decided on the perfection of cognition).
+att(8245, 8242).
+
+arg(9892).
+text(9892, Computers are not yet powerful enough to house a sentient AI.).
+support(9892, 8244).
+
+arg(8416).
+text(8416, From what we know, however, human intelegence functions on an imput/output system. the one thing that really separated us over hypothetical, super-advanced computers was duel-processing, which quantum computers can achieve as well.).
+att(8416, 8241).
+
+arg(9927).
+text(9927, if humans create some AI that can "create" things, then this will be out of control. ).
+att(9927, 8883).
+
+arg(9894).
+text(9894, It is necessary to consider the consequences of your options before taking action.).
+att(9894, root).
+
+arg(9896).
+text(9896, What is it determined by?).
+att(9896, 8245).
+
+arg(9845).
+text(9845, In any given situation you can only take one outcome anyway, to calculate all possible outcome has very little advantage in the real world).
+att(9845, 9719).
+
+arg(10542).
+text(10542, we created AIs. without us they wouldn't exist.).
+support(10542, root).
+

@@ -1,0 +1,11 @@
+arg(root).
+text(root, Animal testing is a necessary evil.).
+
+arg(16204).
+text(16204, are there circumstances where animal testing is not evil? Is there "humane" testing possible?).
+att(16204, root).
+
+arg(14974).
+text(14974, they must only be used if alternative non-animal models cannot answer the scientific question).
+att(14974, root).
+

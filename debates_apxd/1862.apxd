@@ -1,0 +1,27 @@
+arg(root).
+text(root, Having a one world order would actually be beneficial.).
+
+arg(15901).
+text(15901, A world order that promoted worldwide/universal togetherness could be nothing but beneficial for all of humanity, but one that encouraged slaughter and *total* anarchy would be destructive.).
+support(15901, root).
+
+arg(15892).
+text(15892, Because everyone would live under the same laws it wouldn't be possible for one country to exploit another.).
+support(15892, root).
+
+arg(11501).
+text(11501, This is entirely dependant on what the world order's goals and objectives are. A world order that wants to kill everyone is not exactly beneficial. ).
+att(11501, root).
+
+arg(11969).
+text(11969, Jeremiah 10:23 says human governments cannot rule the world. Daniel 2:44 says God will bring out just one government that will be successful indefinitely.  ).
+support(11969, root).
+
+arg(11557).
+text(11557, Beneficial for who? It's unlikely that it would be beneficial for all segments of society. ).
+att(11557, root).
+
+arg(12046).
+text(12046, How can you demonstrate that the Bible is a reliable source?).
+att(12046, 11969).
+

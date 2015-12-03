@@ -1,0 +1,27 @@
+arg(root).
+text(root, What we see, touch, smell, feel and consider about the world around us is actually a misinterpretation of the true reality of things the way they are. We cannot, for example, think and see in more than 3 dimensions.).
+
+arg(11012).
+text(11012, To add to that, I must leave the human perception of colour. Some people are colourblind, with a certain perception of colour. Another has a more vibrant interpretation, a non-colourblind person. With such inconsistencies, how can one say there is a singe way that the world is, that humans can know?).
+support(11012, root).
+
+arg(11262).
+text(11262, If this statement is true, then we cannot know anything about the reality. We could not claim that what we sense is the reality, nor that what we sense is not the reality.).
+att(11262, root).
+
+arg(11314).
+text(11314, You don't know for sure that no one can think in more than three dimensions. You only know that YOU can't. In other words, you don't know that someone else doesn't have a somehow more objective understanding of the universe.).
+att(11314, root).
+
+arg(11033).
+text(11033, What color is this dress? Are you sure?).
+support(11033, 11012).
+
+arg(11131).
+text(11131, I can easily imagine things in more than three dimensions.).
+att(11131, root).
+
+arg(11139).
+text(11139, There is no evidence for a “true reality”. What we call reality is indeed just a collection of sensory percepts, the origin of which is unknown.).
+att(11139, root).
+

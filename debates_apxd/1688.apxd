@@ -1,0 +1,19 @@
+arg(root).
+text(root, Publication ban on ISIS bomb attack in Ankara/Turkey should be removed).
+
+arg(9557).
+text(9557, People have rights to know about the truth.).
+support(9557, root).
+
+arg(9558).
+text(9558, Most of Turkish newspapers are related to Government).
+att(9558, root).
+
+arg(9560).
+text(9560, Social media is the best news resource in Turkey).
+support(9560, 9558).
+
+arg(9562).
+text(9562, Publication ban is becoming common in Turkey everytime government fails.).
+att(9562, root).
+

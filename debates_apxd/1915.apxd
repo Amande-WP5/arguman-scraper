@@ -1,0 +1,15 @@
+arg(root).
+text(root, It's okay to guess or 'brute force' in Words With Friends).
+
+arg(12251).
+text(12251, Everyone has the same advantage of being able to guess without penalty. ).
+support(12251, root).
+
+arg(12252).
+text(12252, Brute forcing means that whoever is willing to sit there the longest plugging in letters will be able to get a higher score. This can lead to stale, noncompetitive game play. ).
+att(12252, root).
+
+arg(12275).
+text(12275, It is almost the same as screen peaking).
+att(12275, root).
+

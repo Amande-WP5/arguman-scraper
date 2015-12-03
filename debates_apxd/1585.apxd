@@ -1,0 +1,7 @@
+arg(root).
+text(root, Jet fuel can't melt steel beams).
+
+arg(8472).
+text(8472, It can burn hot enough to make steel lose from 50% to 90% of its strength, which is enough to cause buildings to collapse.).
+att(8472, root).
+

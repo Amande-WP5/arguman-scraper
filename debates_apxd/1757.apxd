@@ -1,0 +1,43 @@
+arg(root).
+text(root, If we found evidence of Aliens, we should try to be really silent and limit the amount of radio noise we emit.).
+
+arg(15187).
+text(15187, Signals can just die out. We'd be wasting money by beaming signals all the way into space.).
+att(15187, root).
+
+arg(10352).
+text(10352, We have no knowledge of their intent and disposition for conquest and harm.).
+support(10352, root).
+
+arg(10353).
+text(10353, They might have the solution to many great scientific questions that can help us as a species and boost us into a new technological age.).
+att(10353, root).
+
+arg(10646).
+text(10646, If they are technologically advanced enough to be a  threat to mankind (i.e. travelling long distances and having advanced weaponry), then they must be able to discover our planet without the need of us sending them signals.).
+att(10646, 10352).
+
+arg(10384).
+text(10384, First, we will ascertain their intent and capabilities before risking exposure. Assumptions are inappropriate in uncharted scenarios like this. Caution and preparation come first, followed by a warm welcome if they turn out to be friendly. We can learn a lot from each other if given a chance. ).
+support(10384, root).
+
+arg(14778).
+text(14778, It may take them significantly longer to do so, which would give us time to prepare for any possible danger.).
+att(14778, 10646).
+
+arg(14819).
+text(14819, In space, no one can hear you scream... Seriously though, the genie is already out of the bottle. We have radio and television transmissions already that will reach "them" before long. Any new ones would not get to them any faster.).
+att(14819, root).
+
+arg(14821).
+text(14821, Most likely first contact scenarios:
+A. They're good and tech-superior; thus, we have much to gain from them
+B. They're bad yet tech-inferior; thus, we have nothing to fear
+C. They're bad and tech-superior; and thus, we are doomed
+D. They're good but tech-inferior; ergo, they have much to fear.).
+att(14821, root).
+
+arg(14822).
+text(14822, Therefore, there is no logical reason to worry about them, but there is a great deal to worry about, with regard to ourselves.).
+support(14822, 14821).
+

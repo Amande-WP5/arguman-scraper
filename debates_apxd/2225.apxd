@@ -1,0 +1,27 @@
+arg(root).
+text(root, We must tell our children about Santa Claus (or Father Christmas)).
+
+arg(14895).
+text(14895, Santa Claus is a example to teach our children that they can be delusional and that their parents can lie to them.).
+att(14895, root).
+
+arg(14826).
+text(14826, It is a tradition, not some sort of religion or any kind of destructive sect. Anyway, the child will know the truth some time.).
+support(14826, root).
+
+arg(14825).
+text(14825, We should not lie to our children!).
+att(14825, root).
+
+arg(14873).
+text(14873, Before someone invented them it was tradition to not tell your kids about them...).
+att(14873, 14826).
+
+arg(14902).
+text(14902, Parents should be able to choose how they raise their own children, excluding anything that could harm the child in some way of course. ).
+att(14902, root).
+
+arg(14909).
+text(14909, That it is a tradition now does not mean that it should be a tradition. (Fallacy of is to ought?)).
+att(14909, 14826).
+

@@ -1,0 +1,11 @@
+arg(root).
+text(root, I should be allowed to raise, slaughter, and sell puppy meat.).
+
+arg(12034).
+text(12034, You'd have to get licences and be on the same page companies that sell other kinds of animal foods are.).
+att(12034, root).
+
+arg(12187).
+text(12187, The problem is finding a market that wants to purchase said meat, if you are not living in a society where it is considered normal. If you a are making it solely for personal consumption it should be fine ).
+att(12187, root).
+

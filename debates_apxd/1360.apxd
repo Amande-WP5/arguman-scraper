@@ -1,0 +1,11 @@
+arg(root).
+text(root, TV shows are not enjoyable if you already know the outcome prior to watching.).
+
+arg(6081).
+text(6081, I have watched TV shows knowing the outcome and they have been enjoyable.).
+att(6081, root).
+
+arg(6112).
+text(6112, Studies have actually shown that knowing the ending of a story makes it more enjoyable.).
+support(6112, 6081).
+

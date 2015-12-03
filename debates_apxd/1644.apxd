@@ -1,0 +1,11 @@
+arg(root).
+text(root, Zurich has the greatest quality of life of all cities).
+
+arg(9004).
+text(9004, One can swim the Limmat river in summer.).
+support(9004, root).
+
+arg(9005).
+text(9005, Bahnhofstrasse is extremely expensive and shows our prestige.).
+support(9005, 9004).
+

@@ -1,0 +1,39 @@
+arg(root).
+text(root, Robo advice experience should be consistent with Client Access).
+
+arg(5647).
+text(5647, advice businesses may opt to provide Robo advice.).
+att(5647, root).
+
+arg(5634).
+text(5634, It's all about digital advice whether it is before, during or post advice being given.).
+support(5634, root).
+
+arg(5640).
+text(5640, Robo advice requires an automated on boarding process).
+att(5640, root).
+
+arg(9588).
+text(9588, direct to consumer option means the client needs to be digitally triaged by the application.).
+att(9588, root).
+
+arg(9590).
+text(9590, a client may transition from virtual advised client, to scaled advice client, to holistic/lifestyle planning client - therefore the experience should be consistent.).
+support(9590, root).
+
+arg(8840).
+text(8840, advice can be single issue (scaled) or multiple issues (holistic), or value based.).
+att(8840, 5634).
+
+arg(9741).
+text(9741, it is complimentary to the existing advice service offering.).
+support(9741, 5647).
+
+arg(9846).
+text(9846, robo advice is about providing advice; client access may simply be a document system and/or electronic fact find only.).
+att(9846, 9590).
+
+arg(9743).
+text(9743, there is no human intervention involved in digital advice. client needs to be able to complete the advice, open an account and monitor the progress with virtual guide.).
+support(9743, 5640).
+

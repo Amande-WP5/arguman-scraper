@@ -1,0 +1,19 @@
+arg(root).
+text(root, Is my Russian friend Alex gay?).
+
+arg(12919).
+text(12919, Is it Important To Know If One Friend Of Yours Preferes Eat or Fish To Eat?).
+support(12919, 12917).
+
+arg(12921).
+text(12921, mmmm i like fish mmmm).
+support(12921, 12919).
+
+arg(12917).
+text(12917, Is That So Important?).
+att(12917, root).
+
+arg(12918).
+text(12918, yes).
+support(12918, root).
+

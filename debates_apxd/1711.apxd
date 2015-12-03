@@ -1,0 +1,7 @@
+arg(root).
+text(root, Half Life 3 will never be confirmed).
+
+arg(11446).
+text(11446, There is a 3 in the original statement, therefore - Half Life 3 confirmed. ).
+att(11446, root).
+

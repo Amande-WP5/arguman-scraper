@@ -1,0 +1,35 @@
+arg(root).
+text(root, In the 90's, Nintendo was better than Sega).
+
+arg(16189).
+text(16189, Sonic was better).
+att(16189, root).
+
+arg(15443).
+text(15443, Sega does what Nintendon't.).
+att(15443, root).
+
+arg(15308).
+text(15308, Better hardware does not equal a better company overall. For example, Wii U has inferior specs, but many would agree that it has better games than competing consoles.).
+att(15308, root).
+
+arg(15336).
+text(15336, Mario and Zelda were killer apps...).
+support(15336, root).
+
+arg(15314).
+text(15314, The original premise is a declarative statement of an objective nature, not a statement of preference.).
+att(15314, root).
+
+arg(15234).
+text(15234, Cyborg Justice was a Sega Genesis exclusive.).
+att(15234, root).
+
+arg(15252).
+text(15252, To decide what you like better is purely subjective. ).
+att(15252, root).
+
+arg(15233).
+text(15233, The SNES had a 15-bit RGB palette (32,768 colors) and could display 256 simultaneously on-screen, whereas the Genesis had a 9-bit palette (512 colors) and could only display 61 simultaneously on-screen.).
+support(15233, root).
+

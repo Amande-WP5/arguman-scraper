@@ -1,0 +1,11 @@
+arg(root).
+text(root, Reading and study when free).
+
+arg(13430).
+text(13430, its fun).
+support(13430, root).
+
+arg(13431).
+text(13431, This is not really an argument, its simply a suggestion for what to do with ones free time. ).
+att(13431, root).
+

@@ -1,0 +1,44 @@
+arg(root).
+text(root, You should try LSD at least once).
+
+arg(15697).
+text(15697, A lot of people don't like to use drugs in general.
+Hallucinogens are still a big mystery to science. Just from the fear of the unknown they shouldn't be recommended on the scale you're suggesting.
+There are recorded cases of them causing irreversible changes in healthy adults.).
+att(15697, root).
+
+arg(15380).
+text(15380, "the brain becomes “hyperconnected” and allows for increased communication between different regions. The brain actually re-organized connections and linked previously unconnected regions of the brain. These connections were not random, but appeared very organized and stable.").
+support(15380, root).
+
+arg(15300).
+text(15300, Psychedelics cause neurogenesis and connect different parts of the brain. That doesn't leave you unnerved, it leaves you "renerved". With more brain cells that are more connected.
+Hallucinogen Persisting Perception Disorder is very rare and is something 99% of psychedelic users never experience.).
+att(15300, root).
+
+arg(15301).
+text(15301, If someone's never taken a psychedelic I'd recommend psilocybin "magic mushrooms" over LSD. It's more natural and usually a more pleasant, shorter experience.).
+att(15301, root).
+
+arg(15313).
+text(15313, I agree that LSD can give you a life-changing experience. But what's your source? Who said that quote? Who stated that some areas of the brain aren't connected without LSD? that statement makes no sense. Even a simple task requieres many areas of the brain to work together.).
+att(15313, root).
+
+arg(6300).
+text(6300, It connects areas of your brain that have never connected before. Maybe your geometric recognition connects with your creativity and you become aware of realities that you once never knew. As a great psychonaut once said; "Acid opens up doors, but once they're open, you can't close them". 
+).
+support(6300, root).
+
+arg(14676).
+text(14676, This is only in people who have pre-existing mental disorders, even those who experience it generally recover.).
+att(14676, root).
+
+arg(14597).
+text(14597, it has been known to have side effects and leave you more psychologically unnerved then before.
+(Hallucinogen Persisting Perception Disorder)).
+att(14597, root).
+
+arg(14712).
+text(14712, Regardless, if you do try it, you should first invest in a quality sound system.).
+att(14712, root).
+

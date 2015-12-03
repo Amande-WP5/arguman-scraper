@@ -1,0 +1,39 @@
+arg(root).
+text(root, Luna is a binary planet, not a moon).
+
+arg(10663).
+text(10663, The Sun has a stronger gravitational influence on it, unlike every other planetary moon in the solar system).
+support(10663, root).
+
+arg(10664).
+text(10664, The Earth-Luna mass ratio would be the closest among any planetary moon to planet to one. ie, Luna would be the largest satellite in comparison to its planet.).
+support(10664, root).
+
+arg(10665).
+text(10665, Unlike every other planetary moon, it has a purely convex orbit. ie, it never loops its own orbit, and it never appears to backwards when drawing its orbit around the sun.).
+support(10665, root).
+
+arg(10666).
+text(10666, The center of mass in this system would be inside the Earth).
+att(10666, root).
+
+arg(11598).
+text(11598, But the moon rotates around the Earth, similar to the way other satellites rotate around other planets.).
+att(11598, root).
+
+arg(10947).
+text(10947, Since there is no other known example of binary planets, there is no need to distinguish these types. For now, "Moon" adequately encompasses the characteristics of this and other lunar systems.).
+att(10947, root).
+
+arg(11604).
+text(11604, If you look relative to the sun, it looks like two very close planets. Luna never moves backwards or crosses its own path. This is unique behavior among moons.).
+att(11604, 11598).
+
+arg(11605).
+text(11605, It's also twice the mass ratio of Pluto—Charon, which is considered a binary system).
+support(11605, 10664).
+
+arg(11075).
+text(11075, We can look at other binary systems for guidance, though. For instance, we know what binary star systems look like. And we can find a binary dwarf planet in the Pluto-Charon system.).
+att(11075, 10947).
+

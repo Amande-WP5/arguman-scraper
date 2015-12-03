@@ -1,0 +1,80 @@
+arg(root).
+text(root, If a tree falls on the woods and there is nobody to listen, we will never know if it makes noise).
+
+arg(12416).
+text(12416, The thesis supposes there is no one to listen "at the moment the tree fell".
+
+It does not claim that (1) there is never anyone to listen, or (2) we are unable to hear.
+
+So listening the recording of the fell afterwards, does not conflict with any premise.).
+att(12416, root).
+
+arg(12426).
+text(12426, Now I have ask:
+How do you define listening).
+att(12426, root).
+
+arg(12448).
+text(12448, Most effective does not meen perfect. We must always question stabelished patterns to develop.).
+att(12448, root).
+
+arg(12450).
+text(12450, we just belive too much in what we have seen or tested so far).
+support(12450, root).
+
+arg(12302).
+text(12302, You'd be listening.).
+att(12302, root).
+
+arg(12303).
+text(12303, Sound is a phenomennon which occurs without the need of someone to hear it. If sound didn't exist before living beings could hear it, then how did they develop organs to perceive something that doesn't exist?).
+att(12303, root).
+
+arg(12312).
+text(12312, The question here is about not to assume that something that has been happening so far, will happen for ever.).
+att(12312, 12303).
+
+arg(12313).
+text(12313, That is true, but the question is the certainty of the vibrations. Just like the schröder cat. It makes noise, and it doesn´t.).
+att(12313, root).
+
+arg(12403).
+text(12403, The most concrete way of knowing anything so far has been the scientific method. Scientifically, we have directly observed an overwhelming amount of instances where trees have made a noise after they fell. In fact, we have no recorded instances of a tree making no noise (all conditions being equal).).
+att(12403, root).
+
+arg(12404).
+text(12404, You can look at the data without playing it. therefore you observe the sound via your eyes rather than your ears.).
+att(12404, 12302).
+
+arg(12405).
+text(12405, Empiricism and induction are invalid.).
+support(12405, root).
+
+arg(12278).
+text(12278, You could install a microphone in the woods and check the recording).
+att(12278, root).
+
+arg(12408).
+text(12408, Sounds are vibrations in the gas around the source of noise, so yes, when the tree falls it sure does make noise.).
+att(12408, root).
+
+arg(12292).
+text(12292, We cannot know that it will, as we cannot know anything for sure. To say that we know that the tree will make noise (or sound) indicates that we know there can't be an exception. Just because a tree has made sound every time anyone has ever heard it fall doesn't mean it has to the next time. ).
+support(12292, root).
+
+arg(12293).
+text(12293, It depends on how we define sound. If we define it as "the sensation produced by stimulation of the organs of hearing by vibrations transmitted through the air or other medium", then we can know that it doesn't make noise (as noise is sound).).
+att(12293, root).
+
+arg(12520).
+text(12520, Your statement brings up an interesting discrepancy due to different ways of thinking about what sound is. One definition is vibration of air molecules, while another is perception of those waves by organs including the ear and brain. The definition you choose determines the answer to the proverb.).
+att(12520, root).
+
+arg(12522).
+text(12522, It only determines the answer to the proverb if you come from a scientific viewpoint, whereby we can say that the tree will cause air molecules to vibrate, but if there's nothing around with ears, it doesn't cause any auditory signals. This is still side stepping the point of the proverb.).
+att(12522, 12520).
+
+arg(12517).
+text(12517, I think it's worth considering a definition of listening besides literal listening. The general point of the proverb is that we can never know what happens outside of our perception. At the time the proverb was written there was no way to record sound waves or listen after the event.).
+att(12517, 12416).
+

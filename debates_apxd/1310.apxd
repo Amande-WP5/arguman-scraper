@@ -1,0 +1,143 @@
+arg(root).
+text(root, Babies are worthless and stupid).
+
+arg(5564).
+text(5564, Your comment is stupid and so is the question. People with children will know love that people without could never comprehend. Children are the only reason for marriage. My children are awesome and I wouldn't trade or give up anything for them and I would give my life for them with out question. ).
+att(5564, root).
+
+arg(5767).
+text(5767, Love is irrational, and it doesn't touch the point of babies being not stupid).
+att(5767, 5564).
+
+arg(5774).
+text(5774, Women don't wanna have kids with tesla or newton, they want chad thundercock and drug dealers).
+att(5774, root).
+
+arg(5783).
+text(5783, They are just as if not even less constructive for society
+
+At least babies grow).
+support(5783, root).
+
+arg(7253).
+text(7253, If you define "intelligence" as the capacity to learn, babies are not stupid by any means; babies' brains have a far higher degree of neuroplasticity than adults'. That's why, for example, children can learn new languages much more easily than adults can. So really adults are the stupid ones!).
+att(7253, root).
+
+arg(7571).
+text(7571, The behaviour being caused by evolution is not in itself a reason for it being desirable or having moral value.).
+att(7571, root).
+
+arg(5491).
+text(5491, They cannot move by their own, and need to be held or pushed around in strollers, better known as "pea chairs" in the childfree community.).
+support(5491, root).
+
+arg(5493).
+text(5493, They look like deformed peas with a tiny body when first born, hence the nickname several baby haters give to them - "peas.").
+support(5493, root).
+
+arg(5681).
+text(5681, this is universally true,
+
+take for instance coal-> diamonds (monetary value)
+your childhood memories (personal value)
+an oldtimer (monetary value)
+human rights (moral value)).
+att(5681, root).
+
+arg(5496).
+text(5496, Their whines are loud, annoying and unhuman. They are nicknamed "pea gas leakage" by the child-hating community, and it is often considered the most annoying sound on the planet.).
+support(5496, root).
+
+arg(5502).
+text(5502, Without babies, there would not be adults, therefore if babies are worthless, adults are worthless.).
+att(5502, root).
+
+arg(5503).
+text(5503, Maybe adults are also worthless.).
+att(5503, 5502).
+
+arg(5513).
+text(5513, Their screams are annoying to attract the attention of the mother. We have evolved to be annoying so we are taken care of.).
+att(5513, 5496).
+
+arg(5515).
+text(5515, Something worthless can obtain worth over time through natural changes.).
+att(5515, 5502).
+
+arg(5630).
+text(5630, Babies are an investment of human capital. Like an IPO stock, it has growth potential. Over the long term, societally, they are likely to have value.).
+att(5630, root).
+
+arg(5532).
+text(5532, people that have babies tend to have a lower IQ, because people with a higher IQ tend to go for their jobs and studies- not for creating offspring. Making every generation, thus babies, dumber.).
+support(5532, root).
+
+arg(5539).
+text(5539, many disabled people, and eventually elderly people, also need to be pushed around, fed, and generally taken care of. are these types of people also worthless and stupid?).
+att(5539, 5491).
+
+arg(5543).
+text(5543, They lack empathy and good conversation skills. A baby only cares for itself and will never ask you how your day was.).
+support(5543, root).
+
+arg(5544).
+text(5544, Eventually they will grow up enough to be able to talk. In time/with good parenting, they will learn empathy and communication.).
+att(5544, 5543).
+
+arg(5545).
+text(5545, Adults were babies once.).
+support(5545, 5503).
+
+arg(5546).
+text(5546, This is due to to their inability to talk and their lack of understanding that verbal communication is the common in our society
+).
+att(5546, 5543).
+
+arg(5548).
+text(5548, We need a means of measuring worth.).
+att(5548, 5515).
+
+arg(5549).
+text(5549, gradual socialisation will likely take care of this).
+support(5549, 5546).
+
+arg(5551).
+text(5551, Would this worthlessness based on appearance carry over to deformed individuals (baby or adult)?).
+att(5551, 5493).
+
+arg(5554).
+text(5554, People with high IQ came into the world as babies. Given the premise, that people with high IQ produce babies with high IQ and that babies with high IQ are preferable; the solution would be an increase in babies by high IQ couples. This makes (specific) babies a part of the solution.).
+att(5554, 5532).
+
+arg(8192).
+text(8192, We have more than enough resources to feed and house all babies. Hunger is caused by poverty and inequality, not scarcity.).
+att(8192, root).
+
+arg(8652).
+text(8652, You can't so no to dat ass.).
+att(8652, root).
+
+arg(8655).
+text(8655, Babies poop a lot and it's the icky kind of poop that looks like a jar of peanut butter fell into a tar truck that was vomited out of an orangutan's butt.).
+support(8655, root).
+
+arg(8232).
+text(8232, There is no evidence for this. If you perceive that to be their desire, even if you were correct, it might only signal that there are few other options for them. This becomes self-fulfilling prophecy if you yourself then pursue becoming "Chad Thundercock", drug dealer extraordinaire.).
+att(8232, 5774).
+
+arg(7216).
+text(7216, IQ is only slightly influenced by genetics, while upbringing and the childhood environment have a major impact on the resulting IQ.).
+att(7216, 5532).
+
+arg(7218).
+text(7218, The elderly have already made a contribution to society by paying taxes for years, they have effectively prepaid for their care.).
+att(7218, 5539).
+
+arg(8239).
+text(8239, This is wrong because women and men find things attractive that they like (money, beauty, intelligence, humor, and wit). You can't generalize half of the population, saying they are only attracted to 'x' with certainty. ).
+att(8239, 5774).
+
+arg(7224).
+text(7224, There are too many babies being made vs the resources available to raise them properly).
+att(7224, 5630).
+

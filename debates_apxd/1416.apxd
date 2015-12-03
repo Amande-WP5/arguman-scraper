@@ -1,0 +1,15 @@
+arg(root).
+text(root, Those who create discussions on arguman are not doing so for the sake of discussion but rather as a plea for their beliefs to be heard).
+
+arg(12574).
+text(12574, Some people has the mindset of just proving their point, instead of trying to find the right conclusion in an argumentation.).
+support(12574, root).
+
+arg(6612).
+text(6612, This is irrelevant to the point of arguman.).
+att(6612, root).
+
+arg(7045).
+text(7045, What you said is irrelevant to the question.).
+att(7045, 6612).
+

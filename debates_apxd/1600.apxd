@@ -1,0 +1,11 @@
+arg(root).
+text(root, Capital punishment should be completely illegal).
+
+arg(8658).
+text(8658, Humans aren't perfect and mistakes will happen, killing all the inmates on death row will not justify the few innocent deaths that will inevitably occur under that type of policy.).
+support(8658, root).
+
+arg(11464).
+text(11464, Inmates are on death row for several years to avoid innocents being executed. ).
+att(11464, 8658).
+

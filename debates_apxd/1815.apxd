@@ -1,0 +1,11 @@
+arg(root).
+text(root, White Privilege Does Exist).
+
+arg(11204).
+text(11204, We have to check our privileges at least 3 times a day to detect oppression tumors.).
+support(11204, root).
+
+arg(12050).
+text(12050, Could you please provide examples that support your premise?).
+att(12050, root).
+

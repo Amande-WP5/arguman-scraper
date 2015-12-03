@@ -1,0 +1,31 @@
+arg(root).
+text(root, Dark humour shouldn't be censored.).
+
+arg(10784).
+text(10784, How do you tell them apart?).
+att(10784, root).
+
+arg(10345).
+text(10345, It may be beneficial to gate (not censor) the content to not needlessly offend the easily offended. You must state that you are ok with it.).
+att(10345, root).
+
+arg(10008).
+text(10008, It isn't).
+att(10008, root).
+
+arg(10032).
+text(10032, Depending on whether it's harmful, silent jabs or borderline hate speech masquerading as "dark humor".).
+att(10032, root).
+
+arg(10165).
+text(10165, You're right. It doesn't get censored.).
+support(10165, 10008).
+
+arg(10166).
+text(10166, In most countries (excluding countries where free speech gets censored) dark humor doesn't get censored.).
+att(10166, root).
+
+arg(10186).
+text(10186, It does happen. The ACLU defines censorship as, "the suppression of words, images, or ideas that are 'offensive'. (It) happens whenever some people succeed in imposing their personal, political, or moral values on others." And it can be done by "private pressure groups", rather than the government.).
+att(10186, 10165).
+

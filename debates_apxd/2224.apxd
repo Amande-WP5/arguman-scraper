@@ -1,0 +1,11 @@
+arg(root).
+text(root, If we were to abolish all ethics, humanity will be able to answer many scientific things about the human body (And possibly augment it) that would have taken decades and possibly centuries to answer.).
+
+arg(15070).
+text(15070, If we abandon ethics then what is the motivation for doing medical research?).
+att(15070, root).
+
+arg(14875).
+text(14875, That's true. But I believe it's better the way it is. Unless people are  willing to volunteer.).
+support(14875, root).
+

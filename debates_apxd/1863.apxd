@@ -1,0 +1,11 @@
+arg(root).
+text(root, Phones have become a plague).
+
+arg(11500).
+text(11500, They have connected people in ways that no one ever dreamed was possible. ).
+att(11500, root).
+
+arg(11555).
+text(11555, The outcome of this discussion highly depends on the interpretation of "plague" in this context. Please clarify it.).
+att(11555, root).
+

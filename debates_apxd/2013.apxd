@@ -1,0 +1,57 @@
+arg(root).
+text(root, Barring an active epidemic, a person should be allowed to refuse vaccination for themselves and those they are responsible for and to not be punished by society.).
+
+arg(16177).
+text(16177, If they do choose to go un-vaccinated they should be banned from public schools or public events.  They can choose not to be vaccinated, but if they do they shouldn't be allowed to be involved in public life because they put others, who can't choose to be vaccinated, in danger.  ).
+att(16177, root).
+
+arg(15939).
+text(15939, This decision doesn't just involve himself, he's putting a lot of other lives at risk. The anti vaccine argument is nothing but ignorant. People don't have the right to make decision that put other people at risk. If I have Ebola, I don't have the right to just walk out the hospital.).
+att(15939, root).
+
+arg(15902).
+text(15902, They are risking contributing to the cause of such an epidemic. It could be avoided in the first place by people being responsible with their health and getting vaccinated to begin with.).
+att(15902, root).
+
+arg(13497).
+text(13497, But that person could "be sure of who they encounter in their day to day life" by staying home or only meeting with people who are previously informed of their disease.   ).
+att(13497, root).
+
+arg(13498).
+text(13498, Both the potential harm and the effectiveness depends on the vaccine. Some vaccines have more risks than other. Some vaccines are more effective than others.).
+att(13498, root).
+
+arg(13330).
+text(13330, That could also expand the epidemic, if they refuse vaccination they should have to be isolated as to assure no further spread, especially with a viral infection.).
+att(13330, root).
+
+arg(13325).
+text(13325, Due to the nature of the sovereignty of the individual over their own body and the doctrine of the medical professional to "do no harm" (including subjecting a patient to unnecessary emotional/mental duress), no one can be forced to participate in a medical procedure that they do not consent to. ).
+support(13325, root).
+
+arg(13318).
+text(13318, Regardless of a persons reasons for not wanting vaccination, the actual risk to those around them is not high enough to warrant the forcing of a medical procedure on an individual.).
+support(13318, root).
+
+arg(13336).
+text(13336, That person cannot be sure of who they encounter in their day to day life, and very well may pass on a disease to someone who is very at risk for it. ).
+att(13336, 13318).
+
+arg(13337).
+text(13337, We know that vaccines do not cause harm (or rather the numbers are amazingly slim) and do protect others. ).
+att(13337, 13325).
+
+arg(13334).
+text(13334, The way vaccines work is mainly through herd immunity. No vaccine is 100% effective, but if the people around someone who is infected are vaccinated, the chance of it spreading to others is minimized. This is what stops epidemics before they happen.).
+att(13334, root).
+
+arg(13335).
+text(13335, That person will come into contact with people who cannot be safely vaccinated (those with compromised immune systems, young, elderly etc) who are most at risk for the diseases. And as such the person can be a carrier.
+
+Everyone who can be vaccinated should be vaccinated to maintain Herd Immunity).
+att(13335, root).
+
+arg(13324).
+text(13324, This compromises people who are heavily at risk, such as people with AIDS, the elderly, and the very young. Because relationship webs grow exponentially, there is a sharp rise in cases even during a small decrease in vaccination rate.).
+att(13324, root).
+

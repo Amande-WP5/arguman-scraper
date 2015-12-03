@@ -1,0 +1,7 @@
+arg(root).
+text(root, Badgers aren't real).
+
+arg(9849).
+text(9849, They are a lie made up by the government to draw public attention away from the real problem of superintelligent diurnal owls. People may think they have seen real Badgers but these are in fact Weasels painted by the government. ).
+support(9849, root).
+

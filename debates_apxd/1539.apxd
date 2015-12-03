@@ -1,0 +1,7 @@
+arg(root).
+text(root, Donald Trump is not a viable candidate for the GOP).
+
+arg(8418).
+text(8418, well, duh.).
+support(8418, root).
+

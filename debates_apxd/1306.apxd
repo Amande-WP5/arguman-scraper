@@ -1,0 +1,36 @@
+arg(root).
+text(root, Capital punishment should be abolished).
+
+arg(15713).
+text(15713, The purpose of the justice system isn't to punish people or exact vengeance.).
+support(15713, root).
+
+arg(15702).
+text(15702, Because a person doesn't fit into what the general population deems a person should be like doesn't mean that person deserves to die.
+(S)He is just as much a part of humanity and therefor we should create an image of society where everyone has their place. Even the most extreme people should fit in).
+att(15702, root).
+
+arg(5483).
+text(5483, $28,893.40 per year per inmate is a considerable cost for offenders deemed unable to be rehabilitated.).
+att(5483, root).
+
+arg(5797).
+text(5797, Maintaining each death row prisoner costs taxpayers $90,000 more per year than a prisoner in general population. ).
+att(5797, 5483).
+
+arg(5880).
+text(5880, Impoverished defendants, as compared to those in the middle or upper-classes,  are represented by incompetent, inexperienced legal counsel. Poor people comprise nearly all death row convictions, making the death penalty applicable, almost exclusively, to those of low socio-economic status. ).
+support(5880, root).
+
+arg(5824).
+text(5824, "It's cheaper" is a pretty callous way to justify killing people.).
+att(5824, 5483).
+
+arg(5825).
+text(5825, Innocent people are convicted and executed. Conservatively, over 4% of those sentenced to death are innocent. ).
+support(5825, root).
+
+arg(5833).
+text(5833, There is no credible evidence that capital punishment deters crime. ).
+support(5833, root).
+

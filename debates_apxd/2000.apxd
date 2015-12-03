@@ -1,0 +1,12 @@
+arg(root).
+text(root, Human evolution is influenced more by the laws of man and less by the natural world (i.e. nature).).
+
+arg(16161).
+text(16161, Humans are a natural phenomenon, therefore there is no reason to distinguish human behaviour as a non-natural phenomenon. This is not done for any other species. ).
+att(16161, root).
+
+arg(13245).
+text(13245, This has only been the case for a very small amount of time. Evolution occurs over tens of  thousands of years and civilization is still very young by comparison. 
+).
+att(13245, root).
+

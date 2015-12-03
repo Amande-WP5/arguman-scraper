@@ -1,0 +1,7 @@
+arg(root).
+text(root, Self-image influences person's perception.).
+
+arg(13716).
+text(13716, The prior state of mind of a person colours the experience. Self image heavily influences state of mind.).
+support(13716, root).
+

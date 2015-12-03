@@ -1,0 +1,23 @@
+arg(root).
+text(root, 30 years ago, we're romanticizing islamic culture via media like Alladdin and a 1001 nights. Today, the view has grown skewed. Has Islam changed or our perception of Islam?).
+
+arg(10641).
+text(10641, It is due to globalization that we get to know how islamic culture really is. Now we can see its mistakes and virtues, while before this phenomennon we could only see what we've been told (Which is mostly the most remarkable characteristics)).
+att(10641, root).
+
+arg(10892).
+text(10892, The "terrorist islam" we see today is just a revolutionary marxist-influenced branch of Islam. Real orthodox (or "traditional") Islam is pacific and respectful of Christianity.).
+att(10892, root).
+
+arg(10682).
+text(10682, The branch of islamic rule is a different now than it was thirty years ago. The current islamic rule stems from saudi arabia, and is a very strict, aggressive form of islam. Thirty years ago the islamic rule was more lenient and a passive form.).
+att(10682, 10641).
+
+arg(10547).
+text(10547, this is not really a premise because it cannot be answers by any of sender premises.).
+att(10547, root).
+
+arg(11126).
+text(11126, Islam has changed our perception of Islam through demonstration.).
+support(11126, root).
+

@@ -1,0 +1,586 @@
+arg(root).
+text(root, The right to bear arms should be restricted.).
+
+arg(9863).
+text(9863, I was only arguing against one point of your statement
+
+).
+att(9863, root).
+
+arg(7662).
+text(7662, Firearms are the only adequate tool to protect that right for many people.).
+att(7662, 7633).
+
+arg(7704).
+text(7704, Militias do exist in virtually all states. The second amendment does not state that that is the reason though. What it does state is that the right of the people to keep and bear arms shall not be infringed.).
+att(7704, root).
+
+arg(7712).
+text(7712, 3 children died for kinder eggs and you banned those. Is that number sufficient to completely ban a chocolate snack?).
+att(7712, root).
+
+arg(8575).
+text(8575, Freedom is measured by the right of the people to do as they want without hindrance or restraint. Banning people from owning firearms directly goes against that definition. ).
+att(8575, root).
+
+arg(8580).
+text(8580, A mental health check would increase the cost of receiving a concealed carry permit and would not catch enough people to offset the cost. Additionally this could be used to bar people through false diagnosis.).
+att(8580, root).
+
+arg(8582).
+text(8582, The purposes of the bill of rights was to outline fundamental human rights as well as state's rights. That example is not relevant. Firearms ownership is a fundamental right of being a human. Driving a sports car fast is not. Owning an automatic firearm is not equivalent to speeding.).
+att(8582, root).
+
+arg(8583).
+text(8583, Freedom can also be measured by the right of people to pursue their interests without the omnipresent threat of violent murder; or, in other words, "hinderance or restraint" by way of being unable to continue doing as they want on account of being dead.).
+att(8583, 8575).
+
+arg(8721).
+text(8721, Vigilante type justice is against the US constitution. People have the right to a fair trial and don't deserve to be killed on the judgement of a single person. If at all possible non-lethal methods should be used as self protection.).
+att(8721, root).
+
+arg(8588).
+text(8588, The fundamental human right to keep and bear arms does not in anyways infringe on the fundamental human right to life. ).
+att(8588, 8583).
+
+arg(7586).
+text(7586, Also, when the access to firearms is restricted, home intruders/attackers are less likely to possess a lethal firearm, reducing the need to have one in your own home.).
+support(7586, root).
+
+arg(9714).
+text(9714, The constitution was written over 200 hundred years ago, it was written based on life in the 1700's, when a tyrannical gov't was a realistic threat, when most people needed to kill their own food, and when it was easier to commit crime.).
+att(9714, root).
+
+arg(8595).
+text(8595, The military being a stronger force does not mean we do not have the right to fight back against them if they are oppressors.).
+att(8595, root).
+
+arg(10513).
+text(10513, Your 'probability' is entirely a made up fact unless you can support it. DOJ estimates show between 500,000 and 1 million defensive firearm uses per year.).
+att(10513, root).
+
+arg(8590).
+text(8590, Fully automatic weapons are already heavily regulated (assuming you are speaking of the USA). Regulated by both by the National Firearms act of 1934, and the Firearm Owners Protection Act of 1986. FOPA in particular makes full-auto weapons prohibitively expensive, generally over $5000/firearm.).
+att(8590, root).
+
+arg(7735).
+text(7735, But it DOES show the right to bear arms is not necessary to insure a free state).
+att(7735, root).
+
+arg(8629).
+text(8629, This is not a reason to make killing easier for this person.).
+att(8629, root).
+
+arg(9708).
+text(9708, The countries mentioned are severely politically unstable, where as the US is not under any significant threat of a similar uprising.).
+att(9708, root).
+
+arg(9713).
+text(9713, Criminals don't give up their drugs because the gov't says so, law enforcement seizes them. Law enforcement could do the same for suspected illegally obtained firearms.).
+att(9713, root).
+
+arg(9715).
+text(9715, The right to keep and bear arms is not a fundamental human right, the way the right to life, freedom of opinion, or freedom of religion are.).
+att(9715, 8588).
+
+arg(10786).
+text(10786, By using that logic, are you also implying that keeping the general public from obtaining nuclear weapons is restricting their freedom?).
+att(10786, 8575).
+
+arg(7699).
+text(7699, Those figures are not sufficient to restrict firearm ownership. Additionally, including a system for determining mental stability is a direct infringement of the privacy of medical records and could be abused to bar people from owning firearms.).
+att(7699, root).
+
+arg(7632).
+text(7632, The laws of a society should reflect the needs and requirements of a current society, and should be changed if they are not suitable (hence 'amendment'). The second amendment was written at a time when fully automatic, precision or concealable firearms were not available.).
+support(7632, root).
+
+arg(10280).
+text(10280, Saying a behaviour/culture is very difficult to change does not mean that it is the right culture to cultivate. 
+
+At some point in time, slavery, inequality were accepted as mainstream morally accepted practices.).
+att(10280, root).
+
+arg(8774).
+text(8774, Bears have four legs and no arms. You have revealed yourself as a fraud to the bear community).
+att(8774, root).
+
+arg(7637).
+text(7637, Most people doing all these crimes arent registered gun owners. They obtained the guns in an illegal way, what's stopping them from continuing?).
+att(7637, root).
+
+arg(7638).
+text(7638, If one is being burgled by someone who is armed I don't see how it would be overly-excessive to respond in kind.).
+att(7638, root).
+
+arg(7639).
+text(7639, 300 dead people is not a reason to forbid guns for the rest of the population.).
+att(7639, root).
+
+arg(7641).
+text(7641, If gun laws aren't tightened, criminals' guns cannot be collected either.).
+att(7641, root).
+
+arg(7644).
+text(7644, "a well regulated militia" refers to the national guard.).
+att(7644, root).
+
+arg(7645).
+text(7645, Restricting access to deadly firearms and banning certain categories can help reduce the availability of guns to criminals and/or make it more difficult for them to get their hands on them in the first place.).
+att(7645, root).
+
+arg(7646).
+text(7646, Many children simply took the guns from their parents.).
+att(7646, 7637).
+
+arg(7648).
+text(7648, If the laws are not tightened, it is not possible to take away guns from criminals either. ).
+att(7648, 7637).
+
+arg(7650).
+text(7650, There shouldn't need to be a "legit reason" to have a gun in your home.).
+att(7650, root).
+
+arg(10127).
+text(10127, Mental stability can change very quickly, such as in the aftermath of a traumatic event. ).
+att(10127, root).
+
+arg(7657).
+text(7657, We are not talking about prohibiting, but about restricting.
+Restricting would for example ensure only mentally stable citizens are allowed to own a gun, which is still a significant part of the population.).
+att(7657, 7639).
+
+arg(7749).
+text(7749, It DOES impy it might be time to change it.
+
+For example, a law might once have stated a horse couldnt go faster than 50km/h on certain roads. Sportscars are not included in that law. As time progresses this law needs to be amended because sports cars have appeared.).
+att(7749, root).
+
+arg(10479).
+text(10479, Bears are living creatures and the rights to their arms belong to them. A human does not have the right to bears' arms.).
+support(10479, root).
+
+arg(7753).
+text(7753, No need to open up the privacy of medical records. In most countries there is just a mandatory mental health check before a license is given.).
+att(7753, 7699).
+
+arg(9265).
+text(9265, There are other effective alternatives that you are not considering; other non-firearm weapons and martial arts which are proven effective at self defense and disarming attackers armed with any weapon, at various distances. There is much information on this matter, if one is serious about it.).
+att(9265, root).
+
+arg(7664).
+text(7664, Restricting access to firearms and banning certain categories of weapons will not matter since common handguns and rifles are used in the vast majority of crimes.).
+att(7664, 7645).
+
+arg(7666).
+text(7666, Where else would one store a gun for recreational shooting, hunting, antique collecting, or home protection?).
+att(7666, root).
+
+arg(8031).
+text(8031, Assuming you are a mentally stable individual with no past of violence a restriction just helps society as a whole. You will still be able to get them because restriction =/=ban).
+att(8031, root).
+
+arg(7670).
+text(7670, Why not use a less-than-lethal weapon such as a taser, beanbag gun or capsicum spray?).
+att(7670, root).
+
+arg(7672).
+text(7672, If anyone would be really aggresive and unstable, he could as well stab someone with a knife.).
+att(7672, root).
+
+arg(9922).
+text(9922, Begging the question. Your premise makes an implicit assumption that there is a 'gun problem').
+att(9922, root).
+
+arg(7682).
+text(7682, Less than lethal weapons are not sufficient protection against someone intent on causing you harm. Tasers are difficult to use, bean bag guns do not cause sufficient harm to incapacitate with near certainty. Indoors Capsicum spray will hit you as well.).
+att(7682, 7670).
+
+arg(7686).
+text(7686, The second amendment specifically states the right of the people to keep and bear arms shall not be infringed. The right of the people, not the right of the well regulated militia.).
+att(7686, 7644).
+
+arg(7689).
+text(7689, Europe being considered more free does not infer that the second amendment is for any reason invalid. ).
+att(7689, root).
+
+arg(7692).
+text(7692, At the moment, the second amendment is federal law and as such firearms should not be restricted. You would need to pass an amendment first. ).
+att(7692, 7632).
+
+arg(7540).
+text(7540, These activities can still be performed with even heavy restrictions on gun access.).
+att(7540, root).
+
+arg(7694).
+text(7694, If the government did decide to oppress citizens, it is highly unlikely that they would have full military support. Military defectors and public firearm ownership would be sufficient. ).
+att(7694, root).
+
+arg(8578).
+text(8578, That ban is not related and should not have been imposed.).
+att(8578, 7712).
+
+arg(7671).
+text(7671, A criminals firearm cannot be collected until they are apprehended and used in the commission of a crime. There would be no reasonable way to "collect" guns.).
+att(7671, 7641).
+
+arg(11541).
+text(11541, The best solution is a solution that has been shown to work. Gun restriction has been shown to work.).
+att(11541, root).
+
+arg(7696).
+text(7696, That does not mean that guns should be restricted. Moral killing exists for self-defense, state defense, and national defense. ).
+att(7696, root).
+
+arg(7677).
+text(7677, Criminals not having firearms does not reduce the need to have one in your own home. Your right to self defense is not dependent on the weapon of your attacker.).
+att(7677, 7586).
+
+arg(7698).
+text(7698, They wouldn't need full military support since the non-defectors will still have access to modern military equipment and weapons.).
+att(7698, 7694).
+
+arg(8627).
+text(8627, This assumes that gun restrictions will not be effective. That's a fallacy of the beard.
+
+Meanwhile, counter-offense is not the only defensive solution. Another is shielding, another is fleeing. There is an unproven assertion that there is some scenario where counter-force is the only defense.).
+att(8627, 7696).
+
+arg(7676).
+text(7676, A gun in the home is 22 times more likely to be used to kill or injure in a domestic homicide, suicide, or unintentional shooting than to be used in self-defense. ).
+att(7676, root).
+
+arg(7695).
+text(7695, The second amendment "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed." implies a well regulated militia is that legit reason. That militia doesn't exist and the state vastly out guns the people.).
+att(7695, 7650).
+
+arg(8617).
+text(8617, The study you cite commits the fallacy of composition, since the CDC data it uses is specifically stated to be "not nationally representative" as it is all voluntary reporting by a small set of states.).
+att(8617, root).
+
+arg(9604).
+text(9604, An assumption not borne out by facts. Australia and UK, have very strict controls, and virtual bans on civilian handguns (which is almost all crimes involving a firearm).  Violent crime involving weapons did NOT decline, and have increased since bans and confiscation took place.).
+att(9604, 7586).
+
+arg(9703).
+text(9703, Our nation was also founded on the premise that every man has the right to bear arms. If you are going to use the founding documents in a case against the right to bear arms, then you mustn't cherry-pick your ideals or else it discredits your original argument.).
+att(9703, root).
+
+arg(10275).
+text(10275, While this is true a person with a history of mental instability is more likely to misuse a gun than a person with a clean record and so this factor should still be taken into account.).
+att(10275, 10127).
+
+arg(9835).
+text(9835, Not everybody can use martial arts, and no matter how good at martial arts you are, if an intruder is bigger, stronger and a better fighter they'll be able to overpower you.  Guns allow 90 lb grandmas to fight off 230 lb brutes.).
+att(9835, 9265).
+
+arg(7578).
+text(7578, Escalation or deterrence is not necessarily the best form of protection. Alternative ways of protecting oneself/household/family are available. Additionally, increases in socioeconomic factors such as education, mental health, etc, are linked with lower crime, reducing the need for protection.).
+att(7578, root).
+
+arg(7925).
+text(7925, The second ammendment was written so we can protect ourselves from intruders and government,  this is something that never goes away over time.   Look at history where citizens were disarmed, they could not protect themselves against the government.   Also, assault weapons are already illegal.).
+att(7925, 7632).
+
+arg(7667).
+text(7667, the sole purpose/intent of a gun is to kill.).
+support(7667, root).
+
+arg(8597).
+text(8597, The right to tickle arms should be restricted.).
+att(8597, root).
+
+arg(9580).
+text(9580, 90% of all violent crimes in US do not involve a firearm.
+
+In crimes where a firearm WAS present, 83% of the time the criminal did not use or threaten to use the firearm.
+
+2/3 of those who die each year from firearms are criminals being shot by criminals.).
+att(9580, root).
+
+arg(7634).
+text(7634, Criminals aren't likely to give up their firearms, meaning that these malicious acts will continue regardless of legislation because criminals inherently do not care for the law.).
+att(7634, root).
+
+arg(9925).
+text(9925, Tyrannical government is a realistic threat. A simple look at current political landscape disproves your premise. Unprovable assumption that it was easier to commit crime.).
+att(9925, 9714).
+
+arg(11426).
+text(11426, if someone is already pointing at you with a gun he would pull the trigger if you try to reach for your gun (or whatever you want to use as defense)
+
+i assume you do not always have your gun in your hand).
+att(11426, root).
+
+arg(7567).
+text(7567, In europe almost no one has a weapon at home and still there isn`t more crime.).
+att(7567, root).
+
+arg(7627).
+text(7627, We do not eradicate the harm by banning firearms, we only eradicate the good. "If guns are outlawed, only outlaws will have guns." The solution is not to ban firearms, it is to solve the problem at its roots, which is exactly what we are already doing: Since 1993 gun homicide rates have halved.).
+att(7627, root).
+
+arg(7618).
+text(7618, The USA isn't the only modern society, Syria, Israel and the Kurdish Autonomous republic in Iraq are part of it and in case of civil war, weapons might be necessary. ).
+att(7618, root).
+
+arg(9257).
+text(9257, If one is serious about self-defense, there are many effective alternatives to firearms; including non-automated, non-mechanical, and/or non-lethal weapons, and myriad forms of martial arts.).
+att(9257, 7662).
+
+arg(9711).
+text(9711, A "school stabber" would have a much more difficult time killing/injuring a significant amount students with just a knife, because a knife has much shorter range and the "stabber" could be restrained much easier with a large enough group of heroic students/staff.).
+att(9711, 7672).
+
+arg(8586).
+text(8586, Knife wounds are generally less deadly than gun wounds and knives are harder to kill someone with if you don't have training.).
+att(8586, 7672).
+
+arg(7708).
+text(7708, Fully automatic weapons, which dramatically increase one person's ability to kill, facilitate mass shootings, and should certainly be restricted. If everyone could only get semi automatic guns with small clip sizes, mass shootings would be far less severe, and the benefits of guns would remain.).
+att(7708, root).
+
+arg(7745).
+text(7745, Other research suggests higher availability of guns equals higher homicide rate).
+att(7745, root).
+
+arg(7629).
+text(7629, Most of europe has restricted gun laws and are still considered free states, arguable more free than the US, and have been for as long or longer.).
+att(7629, root).
+
+arg(7607).
+text(7607, The second amendment was written in the 1700s soon after the American Revolution and is not relevant today.).
+att(7607, root).
+
+arg(8607).
+text(8607, The phrase "well-regulated" implies restrictions on manner, behavior, and usage. A militia is an organized group, which mass unregulated gun ownership is not.).
+att(8607, root).
+
+arg(7633).
+text(7633, Self-defence is a right, but firearms are an overly-excessive tool to ensure that right.).
+att(7633, root).
+
+arg(7630).
+text(7630, Firearms may help reinforce the right to self defence, but it also allows for much more malicious acts to happen (such as armed assault, armed robbery, murder ect.).).
+att(7630, root).
+
+arg(7619).
+text(7619, The gun problem is so endemically infested into the core of American culture that it isn't going to go away - The best solution is more responsible people with firearms because criminals aren't going to give theirs up because the gov't said they should.).
+att(7619, root).
+
+arg(9843).
+text(9843, At the time of writing "well regulated" meant that it was in good working order, able to perform it's function.  A militia is not necessarily organized, as they can be recruited from the population as need be in a crisis, which is why the right of the people to bear arms shouldn't be limited.).
+att(9843, 8607).
+
+arg(9640).
+text(9640, The interpretation of the 2nd Amendment pertaining to individual rights comes from D.C. vs Heller in 2008. Supreme Court case law determined this "fundamental human right" by the same authority it has allowed gays to marry all across the country. Also: amendments exist. See 18th and 21st for lulz.).
+att(9640, 8582).
+
+arg(7593).
+text(7593, "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed."
+
+The goal of uninfringed arms-keeping is the security of a free State, this goal weighs higher than reasons to restrict it.
+
+).
+att(7593, root).
+
+arg(9930).
+text(9930, The Constitution's age does not correspond to its relevancy. It was and is a document that protects human rights, at its core, and human rights, if in a stable system, do not change over time).
+att(9930, 9714).
+
+arg(9596).
+text(9596, More current CDC research (2010) shows that the number of defensive firearm uses equals or exceeds the number of criminal uses, ranging from 500,000 per year to 3,000,000 per year depending on metrics. ).
+att(9596, 7676).
+
+arg(9847).
+text(9847, No. People also hunt and shoot for sport and for fun. Your statement is blatantly incorrect. ).
+att(9847, 7667).
+
+arg(9399).
+text(9399, (USA centric) Fully automatic firearms are already restricted. No fully automatic firearm has been implicated in a mass shooting since the Valentine's Day Massacre in 1929. ).
+att(9399, 7708).
+
+arg(8587).
+text(8587, Many people seek to restrict weapons based on features, magazine capacity, bullet types and calibers, as well as cosmetics. Everyone wants to restrict the mentally insane from owning firearms, but restricting a good person from owning firearms of any kind is unconstitutional.).
+att(8587, root).
+
+arg(7707).
+text(7707, The major viable reason to have a gun at this point in time is because you enjoy guns, need them for some recreational activity or for hunting. These would not be affected by restricting (not banning) the right to bare arms, considering you are a sane, non-criminal member of society.).
+support(7707, root).
+
+arg(8604).
+text(8604, Our nation was founded on the notion that every person has the self-evident right to live. And the Constitution directs the government to provide for the general welfare. Tacitly allowing mass shootings through willful inaction does not provide for the general welfare.).
+support(8604, root).
+
+arg(7551).
+text(7551, Owning firearms for personal use should be restricted. There is no legit reason to have a gun in your home.).
+support(7551, root).
+
+arg(9629).
+text(9629, Some people have been determined by society to be incapable of being trustworthy with such responsibility. We deny driving licenses and voting rights for such reasons - it makes sense to deny some people the ability to put bullets into people.).
+support(9629, root).
+
+arg(7538).
+text(7538, Massacres at American schools happen with a frequency not comparable to that in any other country of the world.).
+support(7538, root).
+
+arg(8584).
+text(8584, If you really feel as though having a gun will save your life and your families lives, you shouldn't opposed to going through some extra loops to get a gun. If you are truly fit to own a gun (you know how to use it and you are mentally stable) then gun control laws should not restrict your access.).
+support(8584, root).
+
+arg(8612).
+text(8612, The only way by which firearms can be restricted are if other people with firearms prevent people from obtaining said firearms, meaning firearm ownership will only be reserved for a privileged class.).
+att(8612, root).
+
+arg(7521).
+text(7521, Firearms possessed primarily for self-defence are not needed in modern society and inflict more harm than good.).
+support(7521, root).
+
+arg(7529).
+text(7529, Firearms are an integral part of many activities such as sporting and hunting for food).
+att(7529, root).
+
+arg(8734).
+text(8734, I identify as a bear, therefore i should have the right to have arms of a bear.).
+att(8734, root).
+
+arg(9935).
+text(9935, I just described exactly how it does. Your argument does nothing to describe otherwise; it simply states that my argument is false without any supporting logic whatsoever.
+As long as people are being murdered by guns, the right to bear arms is an infringement on the right to life.).
+att(9935, 8588).
+
+arg(8599).
+text(8599, "bear" does not mean the same thing as "own" or "keep in a certain place." It means to carry, to use. 
+
+Minutemen didn't usually store guns in their homes. They stored them at armories, along with powder and shot, and reported there when called to action. Lexington and Concord were armory sites.).
+support(8599, 7551).
+
+arg(7556).
+text(7556, A desire for safety from home intruders or thieves is a legitimate reason to want a gun in your house.).
+att(7556, 7551).
+
+arg(7658).
+text(7658, Lower crime rates does not mean that the desire for personal protection is not an adequate reason to own a firearm.).
+att(7658, 7567).
+
+arg(7622).
+text(7622, European society is more stable and has a better developed police force and is not constantly in a state of warfare, America has a (relatively) large amount of people spread through a large area, making self-defence something that some Americans need firearms to perform. Self-defence is a right.).
+att(7622, 7567).
+
+arg(7673).
+text(7673, Human beings have the freedom to choose the form of protection that fits them best.  Additionally, humans are free to choose whether or not they need protection.).
+att(7673, 7578).
+
+arg(9851).
+text(9851,  hunting = killing animals).
+att(9851, 9847).
+
+arg(9852).
+text(9852, shooting at targets is not... Are you joking? Seriously? Are you really suggesting that guns can only be used for killing? ).
+att(9852, 9851).
+
+arg(9626).
+text(9626, It is already illegal for most criminals to possess firearms. Yet we don't collect them. In 2003 there were 61,170 prohibited persons committed attempted to purchase a gun from a licensed dealer and were reported to the FBI. A Federal felony. 0.1% were prosecuted.).
+att(9626, 7641).
+
+arg(9628).
+text(9628, It decreased FIREARM related deaths. TOTAL deaths from all weapons (also total crimes) increased.).
+att(9628, root).
+
+arg(7690).
+text(7690, The fact that the second amendment is old does not mean that the second amendment does not apply and that firearms can be restricted. That would be a clear violation of that amendment.).
+att(7690, 7607).
+
+arg(7631).
+text(7631, The citizens in the country will lose their ability to oppose the government and will also not be able to defend the country when the military fails.).
+att(7631, root).
+
+arg(8623).
+text(8623, Under that reasoning then guns could be restricted from places where sport and hunting do not occur.
+
+But even still, there is no reason given why those acts need to be protected or are essential. Animals for food can be caught via trapping.).
+att(8623, 7529).
+
+arg(8585).
+text(8585, This does not address the previous premise. Owning a firearm for the purposes of self defense is a valid reason for owning a firearm and to protect gun rights. ).
+att(8585, 7676).
+
+arg(9716).
+text(9716, The bill of rights also says I have the right to freedom of speech, but if I go online and call a girl ugly enough times that she commits suicide, I can go to jail. 
+Would that be considered and infringement on my "fundamental rights"?).
+att(9716, 8582).
+
+arg(7709).
+text(7709, If someone comes into my house with a knife with the intent to stab me and chop me up into pieces, I want to be able to reach for a gun and shoot them because I don't know if I could disarm a knife-wielding person.).
+att(7709, root).
+
+arg(10452).
+text(10452, The Queen of England will invade US if its population is unarmed.).
+support(10452, root).
+
+arg(7702).
+text(7702, The saying "guns don't kill, people do" is cliche, but raises a valid point: guns facilitate killing, but do not cause it or carry it out. In fact, gun bans are consistently linked to higher murder and homicide rates. Banning guns just means that only police and criminals will have them.).
+att(7702, root).
+
+arg(7649).
+text(7649, The probability is higher that an aggressive, unstable person will use a gun against someone, than for a normal person to actually need a gun for self-defence.).
+support(7649, root).
+
+arg(7705).
+text(7705, When controlling for general violence trends and other factors, 
+
+"for each percentage point increase in gun ownership, the firearm homicide rate increased by 0.9%."
+
+Just because violence in general has decreased doesn't mean we've done anything about gun violence specifically.).
+att(7705, 7627).
+
+arg(10177).
+text(10177, Not true. Guns can also be used to maim and injure.).
+att(10177, 7667).
+
+arg(7678).
+text(7678, Citizens bearing arms would not be able to oppose a government that has control of a military. Modern military forces have great resources, training and organisation and simply owning a gun is no longer enough for citizens to oppose a government.).
+att(7678, 7631).
+
+arg(10179).
+text(10179, There should most definitely be a "legit reason" to have a machine built for killing in your home.).
+att(10179, 7650).
+
+arg(10182).
+text(10182, It is likely the 230 lb brute would have a higher reaction time than a 90 lb grandma, meaning a gun in the grandma's hand would do little good.).
+att(10182, 9835).
+
+arg(10185).
+text(10185, However, the constitution is a malleable document. Amendments can and have been repealed when no longer relevant.
+Is it reasonable to think a nation of individual gun owners could fulfill the founder's intent against the current capability of the military?).
+att(10185, 7690).
+
+arg(10511).
+text(10511, People are murdered daily with hammers, knives, cars, and baseball bats. Does the ability to own these items infringe on the right to human life?).
+att(10511, 9935).
+
+arg(7549).
+text(7549, Restricting the right to bear arms is not equal to banning firearms; those using firearms for sports and hunting would still be able to continue said activities.).
+att(7549, 7529).
+
+arg(12126).
+text(12126, People living in Alaska should be able to have bigger guns because there are bigger threats such as wildlife attacks there, while people living in suburban America don't need to have assault weapons because they would never need something like that).
+att(12126, root).
+
+arg(9623).
+text(9623, If an intruder has a gun pointed at you and some distance, they have the advantage. That really is the problem: since guns have been easily obtained already, guns are required to effectively defend against them. Guns, or bulletproof skin.).
+att(9623, 9257).
+
+arg(7778).
+text(7778, Your source is very biased. They state that there is "no example" where banning guns decreased the number of deaths, when Australia is a clear example to the opposite.
+).
+att(7778, 7702).
+
+arg(7685).
+text(7685, The right to bear arms does not correlate with violance rates.).
+support(7685, root).
+
+arg(8742).
+text(8742, Perhaps the right to bear LETHAL arms should be restricted. If guns couldn't kill people, there would no longer be the need for a cliché and sportsman or collectors could still hoard firearms to their hearts' content while the less innocent would have to settle for a more personal engagement.).
+att(8742, root).
+

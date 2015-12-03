@@ -1,0 +1,19 @@
+arg(root).
+text(root, sea water is both very good and very bad).
+
+arg(5591).
+text(5591, its bad to drink for men).
+support(5591, root).
+
+arg(5594).
+text(5594, its good to drink for fishes).
+support(5594, root).
+
+arg(5606).
+text(5606, if you roll a 6-sided dice you're gonna get a number from 1-6).
+support(5606, root).
+
+arg(5608).
+text(5608, That does not qualify as "very bad". Sea water has an awful lot of great applications.).
+att(5608, 5591).
+

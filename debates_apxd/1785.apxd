@@ -1,0 +1,27 @@
+arg(root).
+text(root, There is no inherent "good" or "bad", only actions and reactions created as social constructs).
+
+arg(10626).
+text(10626, Good and Bad make sense only with culture which is a social creation. ).
+support(10626, root).
+
+arg(10640).
+text(10640, Our conceptions of good and evil might have their roots in our genes. If our DNA urges us to survive and reproduce then killing an ally can dampen our chances of survival and that may be why we think murdering a friend is inherently evil.).
+att(10640, root).
+
+arg(11697).
+text(11697, Enslaving people is an action. Being a slave is a reaction to people owning slaves.).
+att(11697, root).
+
+arg(10732).
+text(10732, But only if "social construction" excludes coercion. Being born a slave can't possibly be an action or a reaction.).
+att(10732, root).
+
+arg(10758).
+text(10758, We can learn how different people behave, and decide whether or not we value their presence. We all have inherent moral values that make us a social animal. Things that bring people together are good, things that break society apart are bad.).
+att(10758, root).
+
+arg(10844).
+text(10844, We assume a common society is "good", why is that? We know that enabling and building a society is beneficial for our biological imperative, but there is no inherent "good" in creating a society, only safety.).
+att(10844, 10758).
+

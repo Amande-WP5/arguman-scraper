@@ -1,0 +1,11 @@
+arg(root).
+text(root, We are one.).
+
+arg(7561).
+text(7561, We are many).
+att(7561, root).
+
+arg(8441).
+text(8441, We are, Anonymous.).
+support(8441, 7561).
+

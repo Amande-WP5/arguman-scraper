@@ -1,0 +1,24 @@
+arg(root).
+text(root, Large trees are large).
+
+arg(13404).
+text(13404, A large tree as a concept is, by definition, large.).
+support(13404, root).
+
+arg(13370).
+text(13370, Tree.).
+support(13370, root).
+
+arg(13378).
+text(13378, Small trees are small).
+att(13378, root).
+
+arg(13492).
+text(13492, This depends on who is evaluating the largeness of the tree and by which parameters they are defining "large." A tree that has been deemed "large" by Person A may not fit Person B's criteria of "large"; thus, a "large" tree may not always be "large" to everyone.).
+att(13492, root).
+
+arg(13552).
+text(13552, That doesn't disprove the statement. The statement didn't talk about a specific tree, but just large trees.
+The only thing we know about the trees we're talking about is that they are large, in an abstract way, so there is no way we can discuss the statement without accepting that they are large.).
+att(13552, 13492).
+

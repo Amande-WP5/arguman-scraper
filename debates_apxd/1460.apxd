@@ -1,0 +1,11 @@
+arg(root).
+text(root, Leadership and management are very different.).
+
+arg(7393).
+text(7393, What is the definition of ''leadership''.).
+att(7393, root).
+
+arg(10100).
+text(10100, Leadership involves people following a certain leader while managers have people who work for them.).
+support(10100, root).
+

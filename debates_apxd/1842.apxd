@@ -1,0 +1,171 @@
+arg(root).
+text(root, PC is better then mac).
+
+arg(11256).
+text(11256, Macs are PCs. Your argument is flawed.).
+att(11256, root).
+
+arg(12076).
+text(12076, There is no Mac OS. It is OS X. How can you judge, what you can't even name?).
+att(12076, root).
+
+arg(12077).
+text(12077, I did not say that "PC and Mac are the same." I said a Mac is a PC.).
+att(12077, root).
+
+arg(11509).
+text(11509, The software on a Mac is often higher quality. Many apps not available on PC are on Mac, making the Apple Brand the better choice for some.).
+att(11509, root).
+
+arg(12422).
+text(12422, OSX does have a better security architecture, and more tightly managed application privileges, making creating a virus for the platform more difficult.).
+att(12422, root).
+
+arg(11255).
+text(11255, Your premise is weak, and runs off topic. "Is seem" is your only, very weak point. You have to do better than that, or your patient dies.).
+att(11255, root).
+
+arg(11798).
+text(11798, The Mac OS is clearly inferior to Windows in terms of compatibility and usability).
+att(11798, root).
+
+arg(11267).
+text(11267, University discounts aren't exclusively for macs. Dell, for instance, sells PC and also offers a discount for college students.).
+att(11267, root).
+
+arg(11800).
+text(11800, PC has more).
+att(11800, root).
+
+arg(11397).
+text(11397, then mac what?).
+att(11397, root).
+
+arg(11805).
+text(11805, OSx had more REPORTED vulnerabilities than Windows. Reporting vulnerabilities actually makes a system more safe, Linux lives like this. Having more vulnerabilities reported doesn't make a system less safe. ).
+att(11805, root).
+
+arg(11192).
+text(11192, More things are compatible with PC).
+support(11192, root).
+
+arg(11274).
+text(11274, Macs might be "personal computers" but PC is generally associated with computers that run windows software, which are entirely different to Macs. Their interface, features, system structure, and many other qualities are very different, so they are presented as two categories of computer.).
+att(11274, 11256).
+
+arg(11808).
+text(11808, It all depends on what you are going to use it for.).
+att(11808, root).
+
+arg(11431).
+text(11431, Is /r/osx really the most balanced place to source for evidence?).
+att(11431, root).
+
+arg(11430).
+text(11430, I'd argue for most things in development, a Linux environment would be better. And I'm fairly certain they open-sourced the languages for iOS, so that will be another thing to do on Linux soon as well.).
+att(11430, root).
+
+arg(11549).
+text(11549, True, I was considering only Windows PCs on my statement.).
+att(11549, 11430).
+
+arg(11329).
+text(11329, I never said that OSX has better virus protection. "The operating system OSX is seen as more stable and protected against viruses than Windows" is what I said. If, like you said, Macs have less viruses and malwares than Windows, it only makes my point stronger.).
+att(11329, root).
+
+arg(11333).
+text(11333, Where did I say that it's exclusively Macs? I only said that most discount come from Apple, not every single discount.).
+att(11333, 11267).
+
+arg(11335).
+text(11335, both of them have valid usecases that they excel at compared to the other.).
+att(11335, root).
+
+arg(11978).
+text(11978, Softwares for OS X and iOS are reviewed by Apple staff. Softwares on windows don't have such regulations.).
+support(11978, 11509).
+
+arg(12108).
+text(12108, The name of the OS is completely irrelevant, you can't say that my argument is false by that standard).
+att(12108, 12076).
+
+arg(12109).
+text(12109, If Mac is just as compatible, then how come you need programs like Wine to run certain software that Windows runs native?).
+att(12109, root).
+
+arg(11841).
+text(11841, Arguman isn't meant to be used as a source to prove a point, it's meant to be used as a discussion board to help its users to think critically about a debate.  ).
+att(11841, root).
+
+arg(12037).
+text(12037, This is subjective reasoning. I see no evidence that Windows is easier to use, or has better compatibility.).
+att(12037, 11798).
+
+arg(11855).
+text(11855, Your premise assumes that there are more unreported vulnerabilities on Windows machines than on OSx or that OSx vulnerabilities are fixed faster than Windows vulnerabilities.  Could you provide data that supports this?).
+att(11855, 11805).
+
+arg(11615).
+text(11615, OSx has more vulnerabilities than Windows.  ).
+att(11615, root).
+
+arg(11619).
+text(11619, Many apps not available on Mac are on PC such as a large number of video games, the majority of popular software available on Mac is also available on PC which would make the software quality equivalent for both platforms for these programs.).
+att(11619, 11509).
+
+arg(11757).
+text(11757, A osx subreddit is more likely to have OSX users. As OSX users, they will be more biased towards OSX. Arguman is an unbiased discussion board by itself.).
+att(11757, root).
+
+arg(12057).
+text(12057, you have no source.).
+att(12057, 11800).
+
+arg(11870).
+text(11870, I agree, the key differences lie in the abilities of the product, which mostly are defined by the OS. Also, they are geared towards different markets. The assertion that "PC is better than Mac" is subjective and highly dependent on personal opinion, but "PC and Mac are the same" is a fallacy.).
+support(11870, root).
+
+arg(12059).
+text(12059, This all depends on what you use your computer for. ).
+att(12059, 11798).
+
+arg(12280).
+text(12280, You can write "Mac OS is clearly inferior to Windows in terms of compatibility and usability." and get away with it? That "argument" would not stand, even if it had seven legs.).
+att(12280, 12108).
+
+arg(11354).
+text(11354, I know, my point was just to clarify that discounts shouldn't be considered a plus from Mac because some PCs also offer discounts. ).
+att(11354, 11333).
+
+arg(11356).
+text(11356, Just for clarification, OSX itself doesn't have a better protection against viruses than Windows. Windows has a larger user base, so viruses and malwares are most frequently made for Windows. With that said, general OSX user are less prone to get viruses than general Windows users.).
+support(11356, root).
+
+arg(11635).
+text(11635, is arguman.org really more balanced place to discuss than r/osx? I believe it's as balanced as any place because it is a discussion board.).
+att(11635, 11431).
+
+arg(11370).
+text(11370, Macs are needing less RAM to work. For example Adobe Photoshop CC needs 8GB RAM to run on Windows but it needs 4GB RAM to run on Mac. ).
+att(11370, root).
+
+arg(11476).
+text(11476, You are comparing operating systems, not hardware. Macs (as in hardware) are only made by Apple. PCs (as in hardware other than Mac) are made by many. Saying "PCs are better than Macs" is too broad, and it really means nothing. The original argument was written by a child, perhaps?).
+att(11476, 11274).
+
+arg(11270).
+text(11270, Depends highly on the type of user. For games, definetely. For software development, one can argue the unix system in OS X makes it better. For iOS app development, OS X is better for obvious reasons. ).
+att(11270, root).
+
+arg(11213).
+text(11213, The operating system OSX is seen as more stable and protected against viruses than Windows. That is the reason why most companies and universities like to buy Macs instead of PCs. Also, most universities have a discount on Macs. Granted, for private use and gaming the PC is way better.).
+att(11213, root).
+
+arg(11394).
+text(11394, RAM is more expensive for mac, with $200 for 8GB additional, while 8GB of ram for pc is ~$50).
+att(11394, 11370).
+
+arg(12423).
+text(12423, Linux is vastly superior to both. It has better security than both (with most software for the platform being open source), far more customization options (which contribute to a more efficient workflow), and it's completely free to use, copy, modify, and redistribute under the GPL license.).
+att(12423, root).
+

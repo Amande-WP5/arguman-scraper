@@ -1,0 +1,11 @@
+arg(root).
+text(root, There is an afterlife.).
+
+arg(8869).
+text(8869, Looks like you messed up with your premise.).
+att(8869, root).
+
+arg(8846).
+text(8846, there is not one substantial scientific proof for this.).
+att(8846, root).
+

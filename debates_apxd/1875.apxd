@@ -1,0 +1,19 @@
+arg(root).
+text(root, This argument thread will have the most argument replies and will be on the ''the most crowded argument'' of this week).
+
+arg(11638).
+text(11638, Go to the home page -> Click on Statistics to check out the statistics ).
+support(11638, root).
+
+arg(11640).
+text(11640, cmmon lets get this hyped up).
+support(11640, root).
+
+arg(11890).
+text(11890, It is a useless argument and useless arguments are not crowded).
+att(11890, root).
+
+arg(11687).
+text(11687, Lol).
+att(11687, root).
+

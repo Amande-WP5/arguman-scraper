@@ -1,0 +1,77 @@
+arg(root).
+text(root, Anarchy is not a viable economic system.).
+
+arg(7937).
+text(7937, That's soon changed to some form of ruling, and a leader will manifest itself. That in itself is leaving anarchy.).
+att(7937, root).
+
+arg(7934).
+text(7934, We would not be able to invent anything other than anarchy, if anarchy was not viable in the first place.).
+att(7934, root).
+
+arg(7944).
+text(7944, We only got so far because we agreed to empower a leader, which breaks the very concept of anarchy.).
+att(7944, root).
+
+arg(7946).
+text(7946, We have invented other, more viable economic systems.).
+att(7946, 7934).
+
+arg(7950).
+text(7950, Soon enough rapists and assassins, free of groups, would seize the world. Not just a group can opress the weaker.).
+att(7950, root).
+
+arg(8488).
+text(8488, It is entirely possible to live in a world without centralized rulership, while still having rules and laws governing human interaction. Organization would happen on a voluntary basis, and those who break the law would still be punished either directly or indirectly through economic ostracization.).
+att(8488, root).
+
+arg(8495).
+text(8495, How do you know unless you experiment? And how do you experiment when no government in the world wants to give up power? Anarchy could be viable after mass decentralization. ).
+att(8495, root).
+
+arg(8506).
+text(8506, Anarchy is not an economic system, it is a lack of a form of government or leadership. To claim that it is not a viable economic system is a misunderstanding of the term.).
+att(8506, root).
+
+arg(8509).
+text(8509, Anachy will create many leaders and this is fine. Anarchy is not about abolishing leadership but is about opposing authority and hierarchies. ).
+att(8509, 7937).
+
+arg(7894).
+text(7894, Without moderation from a strong institution, humanity is prone to commit acts of savagery and make progress impossible.).
+support(7894, root).
+
+arg(7897).
+text(7897, Without organization, men wouldn't have the impetus to create housing and caring for others, leaving the incapable population under misery.).
+support(7897, root).
+
+arg(7921).
+text(7921, Nature is governed by law of the strongest which is basically anarchy).
+att(7921, root).
+
+arg(7924).
+text(7924, You need to define "viable" for the argument to be meaningful.
+Nature consists of pure anarchy, and it's viable.).
+att(7924, root).
+
+arg(7926).
+text(7926, Men have the ability to be compassionate naturally; organization does not create compassion ).
+att(7926, 7897).
+
+arg(7930).
+text(7930, Unchecked warlords killing at will (etc) is what detrimines the poor and incapable in an anarchistic society ).
+support(7930, 7926).
+
+arg(7931).
+text(7931, Anarchy is what men started with. We made housing for ourselves and our closest community because we needed eachothers help to survive nature.
+This would still be the case today, you would barely survive solo in a post-apocalyptic world.).
+att(7931, 7897).
+
+arg(7932).
+text(7932, Humans are the only creature to progress socially, scientifically, economically and politically, only because we abandoned anarchy and the laws of nature ages ago.).
+att(7932, 7921).
+
+arg(7933).
+text(7933, We made progress from living in caves to what we are today. Despite of savage actions.).
+att(7933, 7894).
+

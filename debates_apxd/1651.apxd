@@ -1,0 +1,39 @@
+arg(root).
+text(root, All foods besides vitamins and calorie-dense paste should be abolished).
+
+arg(9537).
+text(9537, all of these jobs could easily be repositioned into the vitamin and calorie-dense paste industry).
+att(9537, root).
+
+arg(10069).
+text(10069, Tasty food makes people happy. ).
+att(10069, root).
+
+arg(9364).
+text(9364, Your poop would smell really bad from all the vitamins.).
+att(9364, root).
+
+arg(9088).
+text(9088, It would solve the obesity crisis and stop a plethora of other health defects).
+support(9088, root).
+
+arg(9368).
+text(9368, it would start a plethora of other health defects.).
+att(9368, 9088).
+
+arg(9100).
+text(9100, It would also cause a huge number of health issues as you wouldn't receive a well balanced diet).
+att(9100, 9088).
+
+arg(9101).
+text(9101, You're restricting peoples free will).
+att(9101, root).
+
+arg(9592).
+text(9592, I can guarantee you that the last thing you want is a calorie-dense paste diet. The largest problem with obese people is the amount of food they eat and the calorie density. A calorie dense paste is basically a perfect description of cake frosting. You want high density or weight and low calories.).
+att(9592, root).
+
+arg(9179).
+text(9179, In doing so, you will destroy millions of jobs. This move will eliminate virtually all jobs in farming and food service. Millions of distribution jobs would be affected as well.).
+att(9179, root).
+

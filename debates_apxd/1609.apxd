@@ -1,0 +1,7 @@
+arg(root).
+text(root, There ain't no such thing as a free lunch).
+
+arg(8702).
+text(8702, You will not get if you do not give; you must work for everything.).
+support(8702, root).
+

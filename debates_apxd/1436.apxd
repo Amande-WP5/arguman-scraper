@@ -1,0 +1,11 @@
+arg(root).
+text(root, I should quit my job because there is too big of a generational gap between me and my coworkers.).
+
+arg(6854).
+text(6854, A generational gap can be an advantage. Being able to see the world from that generation's perspective is a super-power in its own right.).
+att(6854, root).
+
+arg(6857).
+text(6857, Work occupies about a third of your waking life; it's important to spend that time enjoyably if possible.).
+support(6857, root).
+

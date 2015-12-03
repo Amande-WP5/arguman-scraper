@@ -1,0 +1,15 @@
+arg(root).
+text(root, Racism is not only white degrading black).
+
+arg(10934).
+text(10934, One definition of racism requires large powerful institutions that actively discriminate against a race. Whites largely control such institutions but blacks do not. Therefore, racism can only be white-on-minority.).
+att(10934, root).
+
+arg(6570).
+text(6570, If black history month is constitutional then why would white history month considered racist? White people have arguably done more for our country, wether they be French, German, British, etc. than black people have. For that matter why is there a distinction at all. It should just be HISTORY.).
+att(6570, root).
+
+arg(6564).
+text(6564, "racial discrimination" shall mean any distinction, exclusion, restriction, or preference based on race, colour...or origin that has the purpose or effect of...impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms...of public life.).
+support(6564, root).
+

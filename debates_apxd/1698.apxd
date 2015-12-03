@@ -1,0 +1,11 @@
+arg(root).
+text(root, Hardcover books are a better investment than paperback).
+
+arg(9707).
+text(9707, Hardcover books are more resilient and will last a longer amount of time. Therefore, they are a better investment than paperback.).
+support(9707, root).
+
+arg(9712).
+text(9712, The spine of hardcover books tend to be less flexible than softcover, leading to additional wearing.).
+att(9712, root).
+

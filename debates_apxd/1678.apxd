@@ -1,0 +1,130 @@
+arg(root).
+text(root, Free will is a lie.).
+
+arg(9669).
+text(9669, If you can give a formula for when a particular atom of a radioactive substance will decay, I will agree. Until then, I believe that generalizations can be made based on group behavior that will consistently prove correct, but individual entities often act randomly even within a predictable system.).
+att(9669, root).
+
+arg(9609).
+text(9609, We constantly assert our will to obtain what we want.  There are no physical obstructions/laws which keep us from making choices to our satisfaction.  If this is all it takes to be free, then we have free will.).
+att(9609, root).
+
+arg(9564).
+text(9564, It is self-evident that we are able to make choices. We can think about our own thoughts and actions, consider different outcomes, and adjust our own mood and behavior.).
+att(9564, root).
+
+arg(9660).
+text(9660, The opposite is not clear either. Free will could be seen as a subsystem within the field of cause and effect which in turn is not contrary to the possibility of unpredictability in the same way non-linear systems may present areas of linearity).
+att(9660, root).
+
+arg(9663).
+text(9663, No, the ability to break nature describes omnipotence; having unlimited control. Free will gives me the ability to navigate nature at my own discretion, but I still must abide by nature.).
+att(9663, root).
+
+arg(9665).
+text(9665, You appeal to the dictionary rather than to Scripture? Do you reject having a sin nature? Are you Christian? Do you find merit in Ezekiel 36:25-27 or the conversation between Jesus in Nicodemus in John 3? ).
+att(9665, 9663).
+
+arg(9666).
+text(9666, John 10:26 "but you do not believe because you are not among my sheep." Consider, the Scripture does not say you are not among my sheep because you do not believe. Consider, John 6:44. Got total depravity, brother?).
+support(9666, 9665).
+
+arg(9469).
+text(9469, Whether it contradicts our intuitions doesn't change the reality.).
+att(9469, root).
+
+arg(9584).
+text(9584, If our universe was completely scripted, that would be true. However, we are constantly adapting to random events. Intelligence is the ability to analyze this data, discover new patterns, and form new strategies. The choice regarding which solution we choose is what we consider free will.).
+att(9584, root).
+
+arg(9441).
+text(9441, Due to laws of cause and effect, all future events are already logically determined by previous events.).
+support(9441, root).
+
+arg(9444).
+text(9444, The laws of the universe may not be predictable, the chaos theory and the general behavior of entropy in the universe are in favor of that.).
+att(9444, 9441).
+
+arg(9671).
+text(9671, Given complete knowledge of a system, we can predict what will happen next.).
+support(9671, 9441).
+
+arg(9672).
+text(9672, Two things occur when we make choices: we understand that a state of affairs is lacking and we will to obtain that state of affairs.  The current physical state of affairs in the brain cannot account for either of these  experienced phenomena.).
+att(9672, 9441).
+
+arg(9723).
+text(9723, Making choices and "free will" are not analogous. Plus, any system with some sort of feedback composition can "adjust" its output according to specific inputs, i.e., robots. This doesn't mean they are free to choose. ).
+att(9723, 9564).
+
+arg(9727).
+text(9727, There can be no choice in a universe that obeys physical laws.).
+support(9727, 9441).
+
+arg(9879).
+text(9879, A computer program could do the same.).
+att(9879, 9564).
+
+arg(9463).
+text(9463, If future events were not causally connected to past events, the world would be essentially incoherent and we'd be no closer to justifying this definition of "free will").
+att(9463, 9441).
+
+arg(9466).
+text(9466, This very strongly contradicts our intuitions on the matter. We all believe we have free will.).
+att(9466, root).
+
+arg(9730).
+text(9730, A scientific theory is based on evidence not ignorance. Not being able to predict a pattern of behavior for something does not prove that the pattern doesn't exist.
+Since there are fundamental universal laws that all partials obey, there must be only one possible outcome out of a give situation.).
+att(9730, 9669).
+
+arg(9731).
+text(9731, Making choices is not the same thing as free will. If you go back in time and watch yourself without interfering, do you think you're gonna make the same choices? or will you go on a completely different path because of free will.).
+att(9731, 9609).
+
+arg(9608).
+text(9608,  Free will is not having a choice, but the ability to choose contrary to one's nature making them autonomous in nature. Flap your arms like a bird. You have the choice to flap like a bird, but you are grounded in your human nature. You committed the Fallacy of Equivalence.).
+att(9608, 9564).
+
+arg(9738).
+text(9738, Many interpretations of quantum mechanics hold that the universe is indeterminate at its most fundamental level.).
+att(9738, 9441).
+
+arg(9739).
+text(9739, Either the universe is deterministic, in which case you are slave to the laws of cause and effect and cannot change your destiny, or it is indeterministic and you are slave to random probabilities.).
+support(9739, root).
+
+arg(9617).
+text(9617, There is no such thing as "random", but any slight change in a variable causes a vastly different result (chaos theory), which is why we as people and not supernatural beings cannot predict the future).
+att(9617, 9584).
+
+arg(9502).
+text(9502, It doesn't change reality itself but it may change the validity of the definition.).
+att(9502, 9469).
+
+arg(9505).
+text(9505, This is not an irrelevant conclusion.
+
+If past events do not cause future events, then you also cannot cause anything to happen through exerting your free will.).
+support(9505, 9463).
+
+arg(9744).
+text(9744, If no new circumstances are added to the past, I don't see why my past self would choose otherwise.  If I bought a taco for lunch yesterday, that is what I wanted, If what I want doesn't change when I go back, my decision for a delicious taco would not either.  ).
+att(9744, 9731).
+
+arg(9508).
+text(9508, Even if the laws of physics are non-deterministic, it is not clear how *unpredictability* might give rise to *agency*).
+att(9508, 9444).
+
+arg(9510).
+text(9510, This statement is true but irrelevant with the orijinal argument.).
+att(9510, 9505).
+
+arg(9746).
+text(9746, Free will doesn't mean all choices change if we hop in a time machine and watch them again.  It just means doing what I did wasn't necessary. Hobbes defines Free will as freedom to do what we will. Even if it is necessary to do X we still will X, and are able to will X. Since we do that, we are free).
+support(9746, 9744).
+
+arg(9582).
+text(9582, Nope, there are plenty of things in the world that behave in a probabilistic and non-deterministic manner. You can predict with reliability what populations of people or regions of the brain will do in certain scenarios, but not all cases, and not for individuals or neurons.).
+att(9582, root).
+

@@ -1,0 +1,27 @@
+arg(root).
+text(root, There are now two kinds of Muslims; those who prefer governance through secular liberal democracy and those who prefer governance through Sharia law.).
+
+arg(14958).
+text(14958, The Muslims who believe in governance through Sharia believe in armed jihad.  Those who believe in governance through secular liberal democracy do not believe in armed jihad.).
+support(14958, root).
+
+arg(15135).
+text(15135, Surely there would exist a Muslim somewhere that prefers one of the many other forms of government.).
+att(15135, root).
+
+arg(14975).
+text(14975, The real enemy of the west is the one within. The left wing guarantees Radical Islam will destroy western nations. Islam has a practiced method of subversion of a strong nation - it has been carried out in Iran and other middle east countries throughout history and the left allowed Europe to be next).
+att(14975, root).
+
+arg(14976).
+text(14976, When I grew up, in the UK, I had a close friend of mine from Persia (now Iran) - He always told me over and over that Islam took over his country and they fled - he said he really hopes it doesn't happen to the UK too - I listened but was doubtful such a thing would happen. He was 100% right.).
+support(14976, 14975).
+
+arg(14977).
+text(14977, That was only 10 years ago.).
+support(14977, 14976).
+
+arg(14987).
+text(14987, So Muslims are faced with making a choice between traditional Islam and a Westernized version that rejects armed jihad.).
+att(14987, root).
+

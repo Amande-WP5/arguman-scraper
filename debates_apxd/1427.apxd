@@ -1,0 +1,49 @@
+arg(root).
+text(root, I shouldn't apply to a college that I don't think I can get into).
+
+arg(8471).
+text(8471, You could be wrong in your assumption.
+
+Edit: If this is an appeal to belief, then so is the original premise, which explicitly bases its truth on its own statement belief.).
+att(8471, root).
+
+arg(8474).
+text(8474, If the application fee for the given college is low, or free, then this has no bearing.).
+att(8474, root).
+
+arg(8476).
+text(8476, There could be a number of things that increases your chances for acceptance, from heritage, to geography, to economic standing, to some experience you've had. You don't know the full set of criteria that a college may use in accepting an applicant.).
+att(8476, root).
+
+arg(6838).
+text(6838, Better to save your energy for the ones that will work out.).
+support(6838, root).
+
+arg(6839).
+text(6839, You're probably not that good a judge of which colleges you can get into.).
+att(6839, root).
+
+arg(6840).
+text(6840, The mindset of pre-judging things aren't going to work without trying them is a very bad habit!).
+att(6840, root).
+
+arg(6843).
+text(6843, The amount of energy required to apply to an additional college is outweighed by the return gained from it even with a minuscule success rate.).
+att(6843, 6838).
+
+arg(8304).
+text(8304, It may not be economically feasible to attend college at all if your intended career field will not yield a lifetime increase in income to offset the cost of tuition.).
+support(8304, root).
+
+arg(7037).
+text(7037, But if you never try, you'll never know... Just what you're worth.).
+att(7037, root).
+
+arg(7358).
+text(7358, Not everyone can afford to apply to every college that they want to get into. ).
+support(7358, root).
+
+arg(8445).
+text(8445, If applying to this college is free and it does not take any extra effort, then there is no harm in trying. You never know what will happen.).
+att(8445, root).
+

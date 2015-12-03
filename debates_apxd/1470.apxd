@@ -1,0 +1,27 @@
+arg(root).
+text(root, Facebook is unlikely to be overtaken by another fully featured social media service for the forseeable future.).
+
+arg(7174).
+text(7174, Facebook, while becoming less "cool", is so integrated into many societies that it has become more of a utility, to the point that not having one is on the level of not having a key device, such as a smart phone. In order for it to die out, many of the current users would need to die, or move enmass).
+support(7174, root).
+
+arg(8157).
+text(8157, history has shown (livejournal, friendster, tribe, myspace, facebook) that new trends and distinguishing features can create dominant new players).
+att(8157, root).
+
+arg(8161).
+text(8161, it holds an index of nearly 1/3 of the world's population, it's network will demonstrate staying power.).
+support(8161, root).
+
+arg(7173).
+text(7173, It is so ingrained not only in popular video games, other social medias, and above all else it is a reliable, widespread form of communication between people who under any other circumstances wouldn't be able to connect.).
+support(7173, root).
+
+arg(8196).
+text(8196, It has been seen that there is currently a slight increase in preference for Instagram rather than Facebook among teenagers.).
+att(8196, root).
+
+arg(8132).
+text(8132, if something replaced the need for an internet connection to connect people's profiles around the world, well...nevermind Facebook would probably already be on top of that.).
+att(8132, root).
+

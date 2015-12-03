@@ -1,0 +1,15 @@
+arg(root).
+text(root, Birini unutmak istersen unutursun. Unutmak psikolojiktir.).
+
+arg(16266).
+text(16266, unutmak demeyelim de vazgecmek olabılır kolay kolay hafızdan ne ınsanlar ne olaylar ne durumlar sılınır ).
+att(16266, root).
+
+arg(16265).
+text(16265, her şey senle baslar ve iradeli oldugun muddetce kendi otokontolunu saglayabılırsın).
+support(16265, root).
+
+arg(15243).
+text(15243, Hayatta bazı şeyler unutuyum deyince unutulmaz.Anılar izin vermez.Psikolojiktir ama silinmeyen anıları yok ettiğimizde.).
+att(15243, root).
+

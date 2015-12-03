@@ -1,0 +1,84 @@
+arg(root).
+text(root, Music can be objectively bad or objectively good.).
+
+arg(6480).
+text(6480, The quality of the recording has nothing to do with the quality of the song. 
+Only with a marketing standard.
+Raw music is as good as anything else.
+1 mic or 10 mics, it only serves the texture of the sound you want to create. 
+Some of the worst songs have the best recording quality.).
+att(6480, root).
+
+arg(5778).
+text(5778, the quality of a recording and the musical quality of a melody are objective factors ).
+att(5778, root).
+
+arg(6782).
+text(6782, Farts could release positive emotions in the brains of creatures that were engineered to enjoy them. We might find farts bad, but ours is is not the only standard.).
+att(6782, root).
+
+arg(6450).
+text(6450, Farting into a microphone and calling it music is objectively bad.).
+support(6450, root).
+
+arg(6454).
+text(6454, Another example is records having a more "pure" sound than CD or MP3. ).
+support(6454, root).
+
+arg(6513).
+text(6513, Beat boxing sounds like farts. Farts smell, sounds awful, and are objectively bad, due to releasing negative emotions in the brain. Therefore, beat boxing is objectively bad.).
+att(6513, root).
+
+arg(6459).
+text(6459, One could fart into a microphone in rhythm and then it could theoretically imitate beatboxing).
+att(6459, 6450).
+
+arg(6462).
+text(6462, This would require a definition of what makes music "good" or "bad". It may be that music that is accepted as good by a majority of the population is "good". However, baroque composers will take umbrage at that statement.).
+att(6462, root).
+
+arg(6470).
+text(6470, Does one say that music is bad if the artist created a different feeling than the one intended?).
+att(6470, root).
+
+arg(5814).
+text(5814, It depends a little bit on how you define 'bad' and 'good'. Music can be objectively well or poorly executed. Although intentionally sloppy or unusual music can arguably be good in part because it is technically 'bad'.).
+att(5814, root).
+
+arg(6471).
+text(6471, It can be a marketing product or the product of the heart.).
+support(6471, root).
+
+arg(6472).
+text(6472, Agreed. The original premise of this argument is very flawed. What is the arbiter of good and bad? Is "simple" music good, or is it bad? Why? When we design other things, we intend for them to be simple and easy to use. So how in the medium of music do we decide if complexity is good or bad and why?).
+support(6472, 5814).
+
+arg(6473).
+text(6473, If you are to say effective/ineffective, that could CERTAINLY be a factor of whether or not the music is good or bad. Unless of course you are referring to the other meanings of good and bad, in which case there is no argument. Some music supports hatred while some supports equality, and so on.).
+att(6473, root).
+
+arg(6182).
+text(6182, Technical attributes of a recording, performance, etc. may be be objectively measured (i.e. signal-to-noise ratio, use of melodic intervals, technical proficiency) but assigning positive or negative value to these attributes is subjective, being wholly dependent upon the listener's preferences.).
+att(6182, 5778).
+
+arg(5822).
+text(5822, Objectively bad or good is an oxymoron -it cannot exist).
+att(5822, root).
+
+arg(5834).
+text(5834, Poor quality can add to the musical experience (old cassettes sounding choppy, but enhances that old-world feel)).
+att(5834, 5778).
+
+arg(5763).
+text(5763, Not anyone likes the sime kind of things. You must dislike what I do like.
+Who is to choose what is objectively good?).
+att(5763, root).
+
+arg(6209).
+text(6209, It seems you mean music can be "ineffective" rather than "bad", and the same for "effective" and "good".).
+att(6209, root).
+
+arg(6108).
+text(6108, Music can be made with a certain purpose in mind such as evoking certain emotions. Some music can be bad at making you feel a certain way, some can be good.).
+support(6108, root).
+

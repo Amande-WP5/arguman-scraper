@@ -1,0 +1,39 @@
+arg(root).
+text(root, We should fix gender pay inequality by creating new laws and regulations.).
+
+arg(9776).
+text(9776, Gender pay inequality doesn't exist when looking at the same job opportunities. The issue is more about the different career choices people make. As it stands at the moment, women are statistically more likely to apply for slightly lower paying jobs than men. There are different causes for this.).
+att(9776, root).
+
+arg(9768).
+text(9768, We shouldn't plan our economy to depend upon women in the workforce in the first place. The case could be made that humanity thrived for the most part functioning this way.).
+att(9768, root).
+
+arg(9769).
+text(9769, The status quo doesn't need to be micromanaged. Children deserve the most contact possible, and it is easy to overburden businesses. Laws and regulations are expensive, even the ones designed to create revenue theoretically divert opportunity from elsewhere. ).
+support(9769, 9768).
+
+arg(9783).
+text(9783, Just because societies functioned well without depending on women in the economy, does not mean it wouldn't work with women partaking in it. Fallacy of is to ought.).
+att(9783, 9768).
+
+arg(9788).
+text(9788, Full employment could theoretically be achieved with less than 50% of the workforce, especially with advanced technology.).
+att(9788, 9783).
+
+arg(10138).
+text(10138, It is difficult to solve a problem that has never existed).
+att(10138, root).
+
+arg(9826).
+text(9826, Employing only women and keeping men at home would be an option too, according to your own logic.).
+att(9826, 9788).
+
+arg(9785).
+text(9785, Countries where there are women quotas do not show any problems when it comes to family planning. It simply just shifts to more men choosing to be stay at home dads. It is not a good argument to say that children need the attention of their mum, because they wouldn't lose it in the first place.).
+att(9785, 9769).
+
+arg(9857).
+text(9857, There is no gender pay gap. The study that stated there was, did not account for job type and hours worked. Just the general pay differences between women and men.).
+att(9857, root).
+

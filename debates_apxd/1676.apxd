@@ -1,0 +1,187 @@
+arg(root).
+text(root, The universe is a simulation.).
+
+arg(11250).
+text(11250, I do not see why proving irrational numbers are finite is a requirement. Clearly a simulated universe is complex enough for our puny understanding.).
+att(11250, root).
+
+arg(11169).
+text(11169, Smart city is future).
+support(11169, root).
+
+arg(9875).
+text(9875, Being computable does not equal being a simulation.).
+att(9875, root).
+
+arg(9361).
+text(9361, A computer simulating the entire universe would be unfathomably complex.).
+att(9361, root).
+
+arg(10652).
+text(10652, The universe is already unfathomably complex.).
+att(10652, 9361).
+
+arg(9479).
+text(9479, Assuming more simulated universes will exist than real ones, with no other information it's more likely we are in one of the simulated ones.).
+support(9479, root).
+
+arg(10891).
+text(10891, This seems to imply machinery to effect the simulation beyond the scope of the "Universe" being simulated. Where exactly is this machinery if not in the Universe?).
+att(10891, root).
+
+arg(9355).
+text(9355, Any incompleteness can be remedied ad-hoc by introducing new axioms or axiom schemas.).
+att(9355, root).
+
+arg(9474).
+text(9474, It's impossible to tell from the inside if a universe is a simulation or a "real" one.).
+support(9474, root).
+
+arg(10990).
+text(10990, Depends on the type simulation. Many simulations take shortcuts that lead to inconsistencies that could be detected from within the simulation (e.g. cars disappearing and respawning in GTA when you aren't looking at them).).
+att(10990, 9474).
+
+arg(10986).
+text(10986, This is a fundemental misunderstanding of universe. It could exist from another universe, exrtraverse, dimension etc. Universe, despite it's etymology, does not mean everything. The universe is just anything we could possibly interact with. You are thinking about the term Cosmos.).
+att(10986, 10891).
+
+arg(9348).
+text(9348, There exists an isomorphism between the laws of physics and a sufficiently complex formal calculus; that is, the laws of physics are computable.).
+support(9348, root).
+
+arg(10822).
+text(10822, How do we determine that the Universe is a simulation, within the Universe itself?).
+att(10822, root).
+
+arg(10995).
+text(10995, The burden of proof is on you to demonstrate a plausible mechanism. 
+
+If I said that the mouse on my PC is a tangible hologram which could have been projected from other dimensions, you'd not allow it. 
+
+How is the universe, using your own definition, different to my mouse?).
+att(10995, 10986).
+
+arg(11224).
+text(11224, A computer running such a simulation can't have infinite memory.
+In our universe, there are irrational numbers like pi, which contain infinite information (they go on forever without any pattern). To show that the universe is a simulation, one needs to show that irrational numers are finite.).
+att(11224, root).
+
+arg(9374).
+text(9374, The theory of a simulation undetectable by science is discouraged by the Ockham's razor principle. The principle basically states that among competing hypotheses, the one with the fewest assumptions should be selected. I linked a source to understand the principle better.).
+att(9374, root).
+
+arg(11523).
+text(11523, It doesn't matter if the universe is simulated - so long as the inhabitants believe it is real. ).
+att(11523, 9361).
+
+arg(9566).
+text(9566, This argument does not favor the statement "The universe is a simulation". It is only stating that we can't know for sure, making the statement "The universe is not a simulation" equally correct. ).
+att(9566, 9474).
+
+arg(10614).
+text(10614, Simulating an arbitrary portion of the universe is nontrivial.).
+att(10614, root).
+
+arg(9370).
+text(9370, Its being unfathomable to you is no matter to its possibility in principle.).
+att(9370, 9361).
+
+arg(11277).
+text(11277, If we conceive that simulations are but a special kind of model, and that not all models can be simulated (for example, incomputable numbers/functions), then a simulable universe implies that the universe is incomplete (in the sense of Goedel's incompleteness theorem).).
+att(11277, 9474).
+
+arg(9484).
+text(9484, It's plausible that more simulated universes will exist than "real" ones because in each universe there might be many civilisations, and each civilisation might run many simulations.
+
+Universes within simulations may in turn run simulated universes of their own.).
+support(9484, 9479).
+
+arg(9853).
+text(9853, The claim is already parsimonious; it is essentially a consequence of the Physical Church-Turing thesis, which says that every effective process is computable. This would reduce science to computation. Thus, it can be seen as an application of Ockham's razor.).
+att(9853, 9374).
+
+arg(9856).
+text(9856, Assuming it is technologically possible to simulate a universe, or at least a portion of a universe; the closer we are to the advent of that tech, the more likely we are in a simulated universe.).
+support(9856, root).
+
+arg(10241).
+text(10241, The only assumption required is the assumption that a universe simulation such that we observe in our universe is possible.).
+att(10241, 9374).
+
+arg(10243).
+text(10243, If such simulations are possible then it follows that such simulations far outnumber the "real" universe.).
+support(10243, 10241).
+
+arg(10842).
+text(10842, We might observe a behavior that doesn't apply to the real universe and is just a simulation error of our universe. This can make the "real" universe far less complex than we observe ours.).
+support(10842, root).
+
+arg(10965).
+text(10965, There's no such thing as the "scope of the universe". If we are having the entire space and time as a scope, we can't say there is another "where", since there is no such thing as space outside the universe. ).
+att(10965, 10891).
+
+arg(11049).
+text(11049, Simple laws can give rise to complex behavior. For instance, Conway's Game of Life is Turing complete, so it's entirely possible that this universe is a simulation and the real universe is a 2D grid of cells.).
+att(11049, root).
+
+arg(9350).
+text(9350, Due to Goedel's incompleteness theorem, any such calculus is necessarily incomplete; so that an isomorphism between the laws physics and computation implies that the laws of physics are incomplete.).
+att(9350, 9348).
+
+arg(10971).
+text(10971, For it to be something other than just the simulation, the real universe would have to comprise at least the simulation and some other things. Therefore, the real universe cannot be less complex than just the simulation. ).
+att(10971, 10842).
+
+arg(11098).
+text(11098, It does make it more than likely that it would be attempted by any sufficiently advanced society.).
+att(11098, 9875).
+
+arg(10880).
+text(10880, Its being in principle, fathomable to you and I is material to our ability to hold the original contention that the Universe is a Simulation. Otherwise there would be no meaning to that contention, such as with the following: 
+"A thing which can never be understood has some indescribable property.").
+att(10880, 9370).
+
+arg(11100).
+text(11100, Our own proximity to that advent speaks nothing about that of our "host" civilization.).
+att(11100, 9856).
+
+arg(11102).
+text(11102, The "root" universe itself may be described as a set of computations similar to that of a digital universe, regardless of whether it is simulated within another "child" universe.).
+att(11102, root).
+
+arg(11103).
+text(11103, We only understand that they are inconsistencies because we recognize that they are imperfect approximations to the 'real' universe. Without that measuring stick, we would have no way of differentiating an 'inconsistency' from a law of nature (e.g. Heisenburgs Uncertaincy Principle).).
+att(11103, 10990).
+
+arg(11108).
+text(11108, Although widely accepted, it's still not certain that the universe we observe is turing computable.).
+att(11108, 11049).
+
+arg(11111).
+text(11111, We may not recognize these inconsistencies as such, we may in fact see them as "authentic" components of our reality.).
+att(11111, 11103).
+
+arg(11118).
+text(11118, I would allow it. This is because the Universe is defined by relativity. Demonstrated through Einsteins theory of same. e.g. Relative to neo's unwoken perspective in the matrix, the "Real" world is a different universe than the matrix.).
+support(11118, 10995).
+
+arg(13194).
+text(13194, since some believe it is a simulation then that means it cant be one because it would probably be designed for the people living in it not to know that it is a simulation ).
+att(13194, root).
+
+arg(11052).
+text(11052, Our ability to comprehend or discuss any given statement is irrelevant to its truth. Additionally, our ability to understand and discuss the truth of a given statement does not depend on our ability to understand all necessary conditions for it or implications of it (i.e. 1+1=2 without set theory).).
+att(11052, 10880).
+
+arg(11282).
+text(11282, By this logic, every number could contain infinite information. The existence of irrational numbers is a matter of encoding; different encodings exist; it is possible to do geometry without irrational quantities. That a given encoding "diverges" does not mean that the information is infinite.).
+att(11282, 11224).
+
+arg(13200).
+text(13200, It isn't demostrate).
+att(13200, 10652).
+
+arg(10987).
+text(10987, A modern computer would be unfathomably complex for a cavemen. That hasn't stopped us from building them. The limits of human imagination aren't a useful measuring tool.).
+att(10987, 9361).
+

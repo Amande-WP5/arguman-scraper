@@ -1,0 +1,30 @@
+arg(root).
+text(root, Taste in music and film is entirely subjective. Therefore, reviews for these mediums are unavoidably biased.).
+
+arg(10598).
+text(10598, Finding a statistical opinion of a movie\music would in no way mean that the opinions are not subjective.
+You can find statistics of how popular a music genre is, but that doesn't make the genre preference any more objective.).
+att(10598, root).
+
+arg(10354).
+text(10354, The point of a review is also to look at various objective qualities, such as overall quality (production of an album) and to compare the work itself to works similar in nature to it.).
+att(10354, root).
+
+arg(10381).
+text(10381, Quality of music and film is hard to define without any subjective values.
+What is good sound? What is scary? What is unpredictable? What is interesting?
+The expectations to quality are also known to increase with time, as the viewers\listeners are getting used to new effects.).
+att(10381, 10354).
+
+arg(10382).
+text(10382, There are no rational causes for why we like the movies and music we like. Our preferences are based on emotions, and our emotions are based on subjetive associations\experiences\memories.).
+support(10382, root).
+
+arg(10570).
+text(10570, This is not really relevant, though. The statement is that reviews have to be subjective. Whether reviews are pointless or not is a different discussion. ).
+att(10570, root).
+
+arg(10396).
+text(10396, Reading many reviews from different people of said subject, although some may differ, would give you the majority consensus or the average opinion so that you can statistically have a higher chance of liking/disliking the subject.).
+att(10396, 10382).
+

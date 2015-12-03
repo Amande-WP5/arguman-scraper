@@ -1,0 +1,15 @@
+arg(root).
+text(root, Humans are directly influencing global warming).
+
+arg(9829).
+text(9829, what evidence or proof do we have of this claim? I will not believe a claim unless sufficient support for it is provided.).
+att(9829, root).
+
+arg(9831).
+text(9831, The Intergovernmental Panel on Climate Change (IPCC) reported in 2014 that scientists were more than 95% certain that global warming is being caused mostly by increasing concentrations of greenhouse gases and other human (anthropogenic) activities.).
+support(9831, 9829).
+
+arg(9860).
+text(9860, Certain gases that contribute to the greenhouse effect, fueling climate change, have been released into the atmosphere in extremely large amounts in comparison to the pre-Industrial era.).
+support(9860, 9829).
+

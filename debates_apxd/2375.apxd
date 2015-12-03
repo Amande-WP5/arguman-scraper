@@ -1,0 +1,36 @@
+arg(root).
+text(root, Socialized Prostitution would greatly improve many aspects of America.).
+
+arg(15874).
+text(15874, Prostitutes wouldn't be victimized by the gov't for selling what's theirs to sell. In fact, socialization could help to remove the stigmatization that many sex workers suffer as a result of lingering American puritanism, as they'd become government employees w/ benefits (no pun intended). ).
+support(15874, root).
+
+arg(15867).
+text(15867, It has been tied to a decrease in sexual violence towards women. ).
+support(15867, root).
+
+arg(15872).
+text(15872, Ok. I edited it for you. Your argument was compelling.).
+support(15872, root).
+
+arg(15871).
+text(15871, Prostitutes serve similar functions as psychologists. They have heard it all, and thus they can be told absolutely anything. Having a member of the opposite sex to thus discuss one's life struggles, as well as providing him or her with a level of sexual validation, can heal a stress-sickened mind.).
+support(15871, root).
+
+arg(15868).
+text(15868, It could potentially lower the amount of gun violence by providing thirsty young men with some much-needed release, and by being socialized, it removes the barrier of "wealth" from preventing any individual from fulfilling a biological imperative. ).
+support(15868, root).
+
+arg(15860).
+text(15860, It keep the discussion well organized : if don’t agree with a "because", but agree with the conclusion, i can add a "but" to the "because". (if the two things are together, it is a lot less clear)
+In fact it is the goal of this site to well organize discussions.).
+support(15860, root).
+
+arg(15856).
+text(15856, Perhaps, but I don't think it makes much of a difference. It really just gives opponents more room to dispute the claim.).
+att(15856, root).
+
+arg(15852).
+text(15852, I think it is better to separate the given reasons in "because" premises.).
+att(15852, root).
+

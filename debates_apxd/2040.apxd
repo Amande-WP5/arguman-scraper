@@ -1,0 +1,15 @@
+arg(root).
+text(root, The good done in the name of religion outweighs the harm done for the same reason.).
+
+arg(13553).
+text(13553, What good was done in the name of religion to outweigh the killing of a person?).
+att(13553, root).
+
+arg(13489).
+text(13489, By which measure does one objectively weigh how much "good" or "bad" an outcome is? ).
+att(13489, root).
+
+arg(13499).
+text(13499, It is impossible to prove this argument objectively. One religion's measure of "good" and "bad" can be entirely independent of another's.).
+att(13499, root).
+

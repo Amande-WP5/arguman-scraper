@@ -1,0 +1,7 @@
+arg(root).
+text(root, A decentralized network is the only acceptable future for large-scale communications).
+
+arg(11110).
+text(11110, It can scale to suit any application, with minimal additional infrastructure.).
+support(11110, root).
+

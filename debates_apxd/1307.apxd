@@ -1,0 +1,23 @@
+arg(root).
+text(root, Fusion is just a cheap tactic to make weak gems stronger.).
+
+arg(15310).
+text(15310, When two gems combine, it creates something greater than the sum of their parts. That's why they're so great.
+
+Fusion makes gems stronger, and maybe it's "cheap," but who cares?).
+support(15310, root).
+
+arg(5506).
+text(5506, It is an advanced tactic for making Saiyans stronger. ).
+att(5506, root).
+
+arg(5897).
+text(5897, It's pretty good as a source of energy. And bigass bombs.).
+att(5897, root).
+
+arg(14617).
+text(14617, all i wanna do
+ is see you turn in-to 
+a giant woman).
+att(14617, root).
+

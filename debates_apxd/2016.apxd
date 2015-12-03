@@ -1,0 +1,81 @@
+arg(root).
+text(root, Stupid people breeding stupid people is causing humanity to create new generations of less intelligent humans).
+
+arg(13347).
+text(13347, Genetics is not so much the factor as child rearing is. The way we raise our children is the single most important factor in how successful they'll turn out to be. A child must be thought social skills for example in order to succeed in an educational environment. ).
+att(13347, root).
+
+arg(13619).
+text(13619, "Bad forms of mutations" is not defined within the concept of natural selection. Traits are not 'good' or 'bad' - they either promote their inheritance, do not, or have no effect.).
+att(13619, root).
+
+arg(13618).
+text(13618, Natural selection is context dependent. The context has changed, but that does not mean natural selection is not occurring.).
+att(13618, root).
+
+arg(13402).
+text(13402, Education has gotten better and more widespread, and average IQ cannot change.).
+att(13402, root).
+
+arg(13620).
+text(13620, "bad" forms of mutations can be seen as forms of mutations in which it has NOT helped the development of the species. As the mutations may have weakened the species mentally and or physically. ).
+att(13620, 13619).
+
+arg(13362).
+text(13362, I would imagine our ability to edjucate far excedes that. ).
+att(13362, root).
+
+arg(13423).
+text(13423, Your source is biased.).
+att(13423, root).
+
+arg(13372).
+text(13372, It is possible that breeding practices deviating from natural selection caused either the strengthening or weakening of genetics in terms of intelligence.
+
+In fact, it is possible natural selection is happening and the strongest are being selected outside humanity's superficial analysis of it.).
+att(13372, root).
+
+arg(13376).
+text(13376, 200 years ago a child with even a slight disability both mental and physical would most likely die young. Today, you can survive/breed/prosper regardless of your genes, handicaps and mental capacity.).
+att(13376, 13372).
+
+arg(13338).
+text(13338, Scientists have found that our bodies and our minds have both deteriorated significantly compared to our ancestors).
+support(13338, root).
+
+arg(13339).
+text(13339, You don't have a source to back that up. ).
+att(13339, 13338).
+
+arg(13340).
+text(13340, Intelligence is not genetic and edjucation is many areas of the world is the best it has ever been, leading to more and more well edjucated indivduals. ).
+att(13340, root).
+
+arg(13346).
+text(13346, Genetics play a role in intelligence.).
+att(13346, 13340).
+
+arg(13348).
+text(13348, http://thetruthwins.com/archives/scientists-discover-proof-that-humanity-is-getting-dumber-smaller-and-weaker).
+att(13348, 13339).
+
+arg(13349).
+text(13349, We no longer have "Natural selection" applied through our evolution. So many bad forms of mutations are able to stay consistent as time goes on. Prehistoric humans genes were constantly subjected to selective pressure in an environment where the species survival depended on it. ).
+support(13349, 13346).
+
+arg(13542).
+text(13542, Your sentence's grammar is incorrect which makes me believe education isn't any better. Plus you have no source to back up your statement. Your simply stating something untrue and something that you have no idea about.).
+att(13542, 13402).
+
+arg(13549).
+text(13549, "Stupidity" is an ambiguous term. People have intelligence in certain things while being completely oblivious in other things.).
+att(13549, root).
+
+arg(13623).
+text(13623, Development does not describe a process with a goal - in an evolutionary sense, development merely describes changes over time. Development cannot be helped. "Bad", "weakened", etc. are applying values to traits that do not strictly exist within an evolutionary framework.).
+att(13623, 13620).
+
+arg(14589).
+text(14589, Stupidity is subjective and does not define an individual or group. A stupid person is defined by other individuals. Those other individuals do not know all, therefore they are in their own rights stupid. People who cannot nurture a child should make the responsible decision to wait until they can.).
+att(14589, root).
+

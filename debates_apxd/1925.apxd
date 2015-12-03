@@ -1,0 +1,109 @@
+arg(root).
+text(root, This statement is false. ).
+
+arg(12581).
+text(12581, You can't deduct if it true of false. The premise may be conventionally true or false, so it can be used in other deductions.).
+support(12581, root).
+
+arg(12428).
+text(12428,  for example Tarski explain that liar paradox).
+att(12428, root).
+
+arg(12637).
+text(12637, Some paradoxes can appear to be both true and false. Sometimes you can't prove which one of them they are.).
+att(12637, root).
+
+arg(12415).
+text(12415, It's both false and true.).
+att(12415, root).
+
+arg(12580).
+text(12580, "This sentence is false" can be considered an axiom. ).
+att(12580, root).
+
+arg(12514).
+text(12514, I'm going to go with... True.).
+att(12514, root).
+
+arg(12446).
+text(12446, This statement disproves that.).
+att(12446, root).
+
+arg(12632).
+text(12632, Nothing can be false and true.).
+att(12632, 12415).
+
+arg(12643).
+text(12643, "this" don’t refer to "this statement is false", because "A = not A" is false.
+If you said it explicitly:
+P : "P is false", you get "P : "P is false"" is false.
+
+Then the negation of "this statement", don’t imply the negation of "this statement is false".).
+att(12643, root).
+
+arg(12658).
+text(12658, It can’t, because "this statement" is ambiguous.
+If it mean :
+P : "P is false", P doesn’t have a valid definition, because it is circular.
+If it mean :
+P = not P, the equation is false.).
+att(12658, 12580).
+
+arg(12677).
+text(12677, I think you are confusing a statement with a premise. A statement cant establish if a premise is true or not. ).
+att(12677, 12658).
+
+arg(12730).
+text(12730, I would like a extended explanation or a link, because i read it a lot of time and still don’t understand what you want to say.).
+att(12730, 12677).
+
+arg(12767).
+text(12767, Provability within a formal calculus is a special thing, which the most generic statements are not subject to.).
+support(12767, 12637).
+
+arg(12769).
+text(12769, There are four possible meanings of the word 'axiom': A) a self-evident truth that requires no proof, B) a basic definition for setting up a theory, C) an established but unnecessary principle, or D) a convenient, arbitrary assumption. The contention only makes sense as D).).
+att(12769, 12581).
+
+arg(12775).
+text(12775, You can always prove that it can’t be false and true in the same time.).
+att(12775, 12637).
+
+arg(12781).
+text(12781, A statement can be true or false depending on which formal logical system is used.   Thus the statement could be true in one system while false in the other. ).
+att(12781, 12632).
+
+arg(12782).
+text(12782, Any consistent axiomatic system of mathematics will contain theorems which cannot be proven.
+
+If all the theorems of an axiomatic system can be proven then the system is inconsistent, and thus has theorems which can be proven both true and false.).
+support(12782, 12580).
+
+arg(12783).
+text(12783, A statement is true or false depending of the context, because a great deal of what the statement mean depend on the context.
+Still nothing can be true and false, any system that lead to it, is wrong.).
+att(12783, 12781).
+
+arg(12784).
+text(12784, I could say that in my system, what you said is wrong, and that there is no other system.
+And if you prove i am wrong, it doesn’t prove i am not right.
+And i can say it is false that you prove i am wrong.
+Do you see the madness it is, if something could be false and true ?).
+att(12784, 12781).
+
+arg(12336).
+text(12336, I refuse to acknowledge this question was asked.).
+att(12336, root).
+
+arg(12337).
+text(12337, By commenting on the post I have acknowledged its existence, leading to a contradiction.  ).
+att(12337, 12336).
+
+arg(12823).
+text(12823, it is.).
+support(12823, root).
+
+arg(13501).
+text(13501, It is neither true nor false because it is begging the question. ).
+att(13501, root).
+

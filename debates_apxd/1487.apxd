@@ -1,0 +1,115 @@
+arg(root).
+text(root, TV will be dead in a few years).
+
+arg(8402).
+text(8402, It's the same concept. There are also thinkers on the Internet. "Randomly" maybe was too much radical but you can pick an interesting channel or broadcasting service which will be the same as TV channels. And you have plenty of more things on the Internet.).
+att(8402, root).
+
+arg(8135).
+text(8135, Clarification, CABLE WILL BE DEAD, the television will continue to be around as a medium to watch Netflix which will replace cable services. ).
+support(8135, root).
+
+arg(7821).
+text(7821, This conclusion is not just correct, its also relevant. This is an alternative to radio when there is no internet. Saved songs on an ipod are always accessible, given enoguh battery power. Its also on demand, just like hulu and netflix. Isn't this what youre arguing?).
+att(7821, root).
+
+arg(7406).
+text(7406, in all but niche situations radio HAS died).
+att(7406, root).
+
+arg(7569).
+text(7569, Of course I'm assuming, would there be discussion if not? The fact is that new technologies offer more broadcast selection freedom. And yes, radio is still surviving, and I supposed the reason of this (it isn't easy to change for users with radio listening habits)).
+att(7569, root).
+
+arg(8480).
+text(8480, "Television" refers to a transmission of broadcast content, not on-demand streaming. I can connect a modern television to a computer, that doesn't make the computer programs "television.").
+att(8480, root).
+
+arg(8482).
+text(8482, You can use CDs, MP3s instead, just like they used to do with cassettes in cars, on long trips, especially where radio programming would be inconsistent.).
+att(8482, root).
+
+arg(7576).
+text(7576, There is no alternatives for TV in certain conditions (cheap mass broadcast, Internet connectionless location)).
+att(7576, root).
+
+arg(7959).
+text(7959, This is possible through streaming services that offer "suggested" movies and shows.).
+att(7959, root).
+
+arg(7587).
+text(7587, You want someone else choosing bull**it for you? Pick a random youtube channel).
+att(7587, root).
+
+arg(8151).
+text(8151, this statement is too vague. Cable subscriptions will be dead eventually, but television will still exist, watched through streaming services on televisions connected over the internet. The exact same content will be available on the same device, only the source of the content will differ. TV lives.).
+att(8151, root).
+
+arg(8112).
+text(8112, With a streaming service still comes the choice. The stress relief of TV comes from the fact that one does not have to engage. Even with a "random movie" button, one still has to make the choice between "choose yourself" and "random." It is the inherent "choicelessness" of TV that makes it appealing).
+att(8112, 7959).
+
+arg(7580).
+text(7580, It also feels good to be able to turn it on and just receive content chosen and organised by someone else without having to think.).
+att(7580, root).
+
+arg(8130).
+text(8130, This is false. Radio is the home to sports broadcasts, music, and radio shows. Since radio frequencies need to be purchased, niche stations with a small audience will die quickly. ).
+att(8130, 7406).
+
+arg(7306).
+text(7306, People can now enjoy most television shows/entertainment on the internet. ).
+support(7306, root).
+
+arg(8170).
+text(8170, How is choosing RANDOMLY remotely better than having some person thinking about what is good or not? Someone says "Oh, I totally recommend watching Game of Thrones" and you're like "Nah, I think I'll pick a random series".).
+att(8170, 7587).
+
+arg(7309).
+text(7309, If you can enjoy the same television shows on the internet, than only an internet access is necessary to enjoy television and internet shows.).
+support(7309, 7306).
+
+arg(7311).
+text(7311, Paying only for internet access allows you to cut costs on buying a television and cable tv.).
+support(7311, 7309).
+
+arg(7313).
+text(7313, But that's what they said about radio too.).
+att(7313, root).
+
+arg(7314).
+text(7314, Most television shows are available to be streamed on free sites such as Youtube, Hulu, Vimeo, etc. There are also Premium Streaming sites that cost less than Cable but provide just as much content (Netflix, Hulu Plus, Amazon Prime Streaming).).
+support(7314, 7309).
+
+arg(7319).
+text(7319, As technology advances, computers and internet access will become cheaper and cheaper. It will be more efficient to have a computer and internet, than to have television).
+support(7319, 7311).
+
+arg(7320).
+text(7320, TV and internet are tramsitted via the same media. Also, TVs are increasingly becoming like computers.).
+att(7320, 7306).
+
+arg(7322).
+text(7322, There is no alternative for Radio in certain situations such as: driving in the car, when there is no internet access available, etc. ).
+att(7322, 7313).
+
+arg(7337).
+text(7337, IPod).
+att(7337, 7322).
+
+arg(7350).
+text(7350, I think in a few years radio use will also be removed by other devices use, but nowadays some old generations listen to radio from habit).
+att(7350, 7337).
+
+arg(7785).
+text(7785, What niche situations? Ive been listening to the same local radio stations since I moved here to the U.S. in 1998.).
+support(7785, 7406).
+
+arg(7360).
+text(7360, You are assuming. There is no evidence to support the original argument. The best analogy would be a comparison to Radio, but even on that one you are only assuming.).
+att(7360, 7350).
+
+arg(7377).
+text(7377, TVs are expensive and computers are better and PC gaming is better.).
+support(7377, root).
+

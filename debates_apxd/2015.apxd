@@ -1,0 +1,15 @@
+arg(root).
+text(root, Arguman's character limit for a premise is good for discourse).
+
+arg(13379).
+text(13379, unless I'm using the service wrong, it would be nice to have links to learn more about the topic (i.e. sources urls)).
+att(13379, root).
+
+arg(13332).
+text(13332, It is similar to how people speak in verbal conversation.).
+support(13332, root).
+
+arg(13333).
+text(13333, It forces people to speak in succinct terms and makes it harder for people to make superfluous arguments. ).
+support(13333, root).
+

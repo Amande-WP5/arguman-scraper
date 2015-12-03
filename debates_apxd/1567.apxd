@@ -1,0 +1,15 @@
+arg(root).
+text(root, The Syrian civil war should be ended with diplomatic means. ).
+
+arg(8307).
+text(8307, [Maybe] overthrow[ing] the Assad dictatorship—was worth the lives it would cost in an attempt to produce better and more humane governance in Syria. That time has long past. There is now virtually no chance that an opposition military “victory” will lead to stable or peaceful governance in Syria.).
+support(8307, root).
+
+arg(8308).
+text(8308, If enhancing our means to achieve our objectives is not a viable option, the alternative is to alter our objectives, based on an understanding that at this point simply stopping the conflict is a far greater US and global interest than anything else. ).
+support(8308, root).
+
+arg(8310).
+text(8310, It is the conflict that is killing and displacing millions, destabilizing Syria's neighbors, fueling extremism, exacerbating sectarianism and inspiring terrorists around the world. ).
+support(8310, 8308).
+

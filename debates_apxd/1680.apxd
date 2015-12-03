@@ -1,0 +1,45 @@
+arg(root).
+text(root, Making the world a better place doesn't matter.).
+
+arg(9876).
+text(9876, This implies that it doesn't matter to help anyone from suffering from anything.
+It implies that when somebody is screaming of agony from cancer, helping the person does not matter.
+Further it would imply that it does not matter if somebody were to crack your face for no reason.).
+att(9876, root).
+
+arg(9877).
+text(9877, That does not mean the world could not be improved.).
+att(9877, root).
+
+arg(9476).
+text(9476, In the long run, the world would end. It would just be a brief moment in cosmic time scale of billions of years.).
+support(9476, root).
+
+arg(9478).
+text(9478, For each person improving the world, there are others who are destroying it, for their self-interests.).
+support(9478, root).
+
+arg(9483).
+text(9483, But making the world better for everyone is theoratically possible and it's for the good of eveyone.).
+att(9483, 9478).
+
+arg(9491).
+text(9491, It is only possible if people work together to create such a world. And practically, it would not be possible for everyone simultaneously to put his/her narrow self-interest aside to create a better world.).
+att(9491, 9483).
+
+arg(9492).
+text(9492, The fact that the world will end in billions of years is irrelevant to individual humans who only live for a few decades and who's well-being can be improved by our efforts to "make the world a better place".).
+att(9492, 9476).
+
+arg(9503).
+text(9503, The existence of individuals who are destroying the world is not a reason for other people to give up on trying to improve the world. In fact, the existence of individuals who are destroying the world is one of the primary reasons for trying to improve the world.).
+att(9503, 9478).
+
+arg(9511).
+text(9511, It does matter to many people that do suffer under circumstances which can not be solved with their own power.).
+att(9511, root).
+
+arg(9515).
+text(9515, We are not talking about a perfect world here, but a "better" world. If only ten, a hundred or a billion people did what they could to make the world a better place, it would matter.).
+att(9515, 9491).
+

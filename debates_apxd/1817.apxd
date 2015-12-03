@@ -1,0 +1,87 @@
+arg(root).
+text(root, A global government should be created).
+
+arg(10902).
+text(10902, there a number of things that only a world government is capable of doing—like ending nuclear proliferation, ensuring global security, intervening to end genocide, and defending human rights.…to deal with climate change…to launch civilization-scale projects…including colonization of the solar system).
+support(10902, root).
+
+arg(11281).
+text(11281, A globally unified government would not mean the sudden disappearance of these selfish populations, it would simply mean that they lose their ability to determine their own actions. They would likely refuse to accept or obey the world government, leading to disorder.).
+att(11281, root).
+
+arg(11232).
+text(11232, This could be extremely difficult or even impossible.).
+att(11232, root).
+
+arg(10899).
+text(10899, It must follow and support all lifestyles and ideologies.).
+att(10899, root).
+
+arg(10896).
+text(10896, There would be no reasonable escape from a corrupt world government.).
+att(10896, root).
+
+arg(10922).
+text(10922, These can also be achieved through treaties and partnerships between countries.).
+att(10922, 10902).
+
+arg(11278).
+text(11278, If we create a global government that DOESN'T adhere to everyone's beliefs, unrepresented populations are unlikely to acknowledge or support its decisions and actions, rendering it pointless. ).
+att(11278, 11232).
+
+arg(11279).
+text(11279, For many populations around the world, those "petty differences" define their worldview. If the only way to make a global government function is to require that all populations suddenly reject their history, culture, and beliefs, then it is functionally impossible.).
+att(11279, root).
+
+arg(10938).
+text(10938, A global society working towards common goals for the betterment of our species; only if we can put aside our petty differences).
+support(10938, root).
+
+arg(10939).
+text(10939, Most countries tend to cater towards the needs of their own citizens, partnerships of this scale are improbable and bound to fail).
+att(10939, 10922).
+
+arg(11696).
+text(11696, We would (if in a democracy) technically still be able to vote for local candidates who would focus on local issues. A fair amount of compromise could be achieved, without losing complete freedom.).
+att(11696, 11281).
+
+arg(11699).
+text(11699, there is no need to create global government to allow human interactions. The only thing needed is for normal governments stop suppressing such interactions).
+att(11699, 10938).
+
+arg(11702).
+text(11702, we know from experience that once institution has been founded it tries to increase its competencies and reach. This would mean that in time local initiatives would lose their meaning.).
+att(11702, 11696).
+
+arg(11703).
+text(11703, EU is such initiative yet everybody knows that it's Germany and France who are dealing the cards so there is little breathing rule for others).
+att(11703, 11696).
+
+arg(11704).
+text(11704, We live in a world where only fittest survive no matter if it's democracy or anything else.The only thing that is decided by founding such institutions is the definition of the fittest. Giving such powerful tool to the most connected would only mean less freedom for everybody else.).
+att(11704, root).
+
+arg(10949).
+text(10949, Certain governments are so corrupt that a global government, in the world's current state, would be even more corrupt. Furthermore, there are so many problems around the world that having a global government deal with them all would be incredibly taxing.).
+att(10949, root).
+
+arg(10937).
+text(10937, The UN even if it is not exactly what it is about here, has a lot of difficulties to act and to have other country respecting his decisisons. Therefore a project such as a global government is a lot trickier).
+att(10937, root).
+
+arg(12239).
+text(12239, This kind of a design is extremely impractical, unstable, and ultimately not ideal. Plus, it would be very difficult or even impossible to incorporate hundreds of religions, ideals, languages, and cultures.).
+att(12239, root).
+
+arg(13948).
+text(13948, Not necessarily. It is enough to accept all lifestyles and ideologies and to be neutral about religious matters.).
+att(13948, 10899).
+
+arg(13950).
+text(13950, A global government would not be dependant on every nation accepting their decision. It would in fact have an easier time making controversial decisions.).
+att(13950, 10937).
+
+arg(13814).
+text(13814, We can't even create local governments that are not saturated with corruption. Until we can solve that larger governments will only mean larger corruption.).
+att(13814, root).
+

@@ -1,0 +1,96 @@
+arg(root).
+text(root, Politically correct speech is a tool of false controversy causing inverse bigotry and insular banding of bigots).
+
+arg(12834).
+text(12834, what do you mean by " is wrong about being pc" ?).
+att(12834, root).
+
+arg(12594).
+text(12594, We DO have to measure intent. You can't just act as if every person would talk the same way. There are many public figures today whose only drawback when talking is being offensive to others. A good example is Trump calling an opponent a pig in a debate. Why defend him when he gets criticized?).
+att(12594, root).
+
+arg(12595).
+text(12595, Today most people against PC seem to be individuals who are pissed that we can't be publicly sexist and racist anymore without being criticized. PC is not a "tool" and is not enforced, it's simply the resonance of what society thinks today. People are still free to say whatever they want.).
+att(12595, root).
+
+arg(12845).
+text(12845, That is quite the generalization, maybe there are other reasons?
+
+also,
+Have you ever heard of people losing their jobs for saying something that was taken the wrong way? or perhaps have you ever seen someone get tazed for asking a question?
+
+free speech is an illusion).
+att(12845, 12595).
+
+arg(12592).
+text(12592, Without any control, public figures would be able to say whatever they want. Be racist, make jokes about the holocaust, condone beating of women and insult opponents. It's still free speech but society should be free to criticize what other people say.).
+att(12592, root).
+
+arg(12593).
+text(12593, If a single person (or a minority of the population) is wrong about being PC, it is not at all a huge problem. It's not affecting society and free speech at all.).
+att(12593, root).
+
+arg(13617).
+text(13617, People are free to say whatever they want. People are not free from the consequences of what they say. ).
+att(13617, root).
+
+arg(12836).
+text(12836, I mean that if some people take PC too far, it' still doesn't make it totally unnecessary.).
+support(12836, 12834).
+
+arg(12838).
+text(12838, measuring intent =/= knowing intent.
+
+Its funny that you also highlight my point by making your example "someone called someone [x]" without contextualizing intent.).
+att(12838, 12594).
+
+arg(12841).
+text(12841, If they said whatever they wanted wouldn't that be more honest than current politics?
+Let them say damning ignorant things, makes it easier to vote.
+).
+att(12841, 12592).
+
+arg(12851).
+text(12851, "have you ever seen someone get tazed for asking a question?" Even if that might be true, it doesn't seem to be about PC anymore. Getting tazed for saying something is not the same as verbal criticism.).
+att(12851, 12845).
+
+arg(12850).
+text(12850, It's not about being honest, PC is about being able to shift focus to real issues and disregarding things like offending the opponent. For example, trump is a horrible candidate and likes to waste time talking about "raping mexican immigrants" and how another public figure is "a pig".).
+att(12850, 12841).
+
+arg(12855).
+text(12855, Too far could mean ruining a persons career or physical violence etc...
+
+When words have widely varying relative ever changing meanings political correctness should judge action instead.).
+att(12855, 12836).
+
+arg(12857).
+text(12857, You're right, it was to address your point that people are free to say whatever they want.).
+support(12857, 12851).
+
+arg(12859).
+text(12859, in a debate it's trump's time to waste. if he fails to expound upon the topic in his time limit he is only hurting himself. don't vote for him.
+
+if in attempting to publicly shame him the media diverts attention from the real issue you have a good example of why PC is worthless.).
+att(12859, 12850).
+
+arg(12875).
+text(12875, You use the word "shame" him, but I disagree, people verbally criticize him. It's not like this criticism has done any damage on him and I'm sure he can ignore it just fine.).
+support(12875, 12859).
+
+arg(12877).
+text(12877, If someone takes PC to the level of physically harming someone, he is a criminal. Criminals don't follow laws and they should have nothing to do with it. Violent people are not supported by PC people as far as I see it.).
+att(12877, 12855).
+
+arg(12486).
+text(12486, Publicly shaming other's words regardless of intent can foster illogical persecuted affirmations against their attackers. ).
+support(12486, root).
+
+arg(12484).
+text(12484, Any word can be made politically incorrect with the right tone from the wrong person).
+support(12484, root).
+
+arg(13095).
+text(13095, How does that apply to ruining someone's career?).
+att(13095, 12877).
+

@@ -1,0 +1,11 @@
+arg(root).
+text(root, Multi language of EU: challenge or treasure?).
+
+arg(14874).
+text(14874, Make a statement not a question so we can discuss it with the but and because premises).
+att(14874, root).
+
+arg(14869).
+text(14869, Different culture background. ).
+support(14869, root).
+

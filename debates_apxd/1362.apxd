@@ -1,0 +1,137 @@
+arg(root).
+text(root, Bullying is not entirely a bad thing.).
+
+arg(6960).
+text(6960, Bullied people are prone to depression, low self-esteem, suicidal tendencies, and can worsen the academic performance of those who suffer from it. Their insecurities can dampen their sociability and affect their ambitions. Also, witnesses of bullying can be affected too.).
+att(6960, root).
+
+arg(6680).
+text(6680, It leads to almost incurable scars, such as complete lack of ability to trust others. It can and does frequently also lead to long-lasting confidence issues, and inabilities to accept compliments due to said confidence issues.).
+support(6680, root).
+
+arg(6698).
+text(6698, Bullying is not exclusive to being a child. As an example, it can happen in the work place as an adult.).
+att(6698, root).
+
+arg(6968).
+text(6968, Though the idea of bullying being useful to stand up to bullying is ridiculous, a world without bullying and abuse is not (as of yet) possible.).
+att(6968, root).
+
+arg(6718).
+text(6718, Being bullied, in a general sense, is one of the main reasons why one would need to learn to stand up to confrontation in the first place.  That skill is no longer as useful in a world without bullying (especially at an early age).).
+att(6718, root).
+
+arg(8766).
+text(8766, That's for the bullies, not the victims.).
+att(8766, root).
+
+arg(8768).
+text(8768, Anecdotal evidence is never sufficient.).
+att(8768, root).
+
+arg(6148).
+text(6148, Bullying is a huge contributor to teen suicide. Harassment by peers weaken one's self-confidence, self-esteem, and overall disposition.).
+att(6148, root).
+
+arg(6707).
+text(6707, If you knew want went through the victims   heads, you would not make this argument. Living a life with depression and self-hate is awful. Trying to force kids to fit societal norms to this degree is not worth it. It's better to have kids who aren't as ready for adulthood, than kids suffering daily.).
+att(6707, root).
+
+arg(6077).
+text(6077, It causes physical and psychological damage, which goes against basic human rights.).
+att(6077, root).
+
+arg(6088).
+text(6088, A thing can be good (which is the original premise) and still violate human rights ).
+att(6088, 6077).
+
+arg(6091).
+text(6091, Both bullying and being bullied are possible symptoms of child abuse.).
+att(6091, root).
+
+arg(6094).
+text(6094, That depends entirely on how they solve the problem. If they give in rather that standing up for themselves, they learn that behavior instead.).
+att(6094, root).
+
+arg(6096).
+text(6096, You would have to not consider the violation of human rights bad.).
+att(6096, 6088).
+
+arg(6103).
+text(6103, "Not entirely a bad thing" is not the same as "a good thing".
+
+For example, gender discrimination in jobs is a violation of human rights; companies may benefit from it (e.g. not having to pay for childcare leave), making it "good" for the company, but it does not make it a good thing.).
+att(6103, 6088).
+
+arg(10130).
+text(10130, It's still a positive for the bullies. ).
+att(10130, 8766).
+
+arg(6987).
+text(6987, "adolescent bullies have higher self-esteem and social status, as well as lower rates of depression and social anxiety").
+support(6987, root).
+
+arg(10131).
+text(10131, If bullying were encouraged to the point where everyone was a bully (regardless of whether they were also a victim) in their adolescent years, this could increase overall standard of living. ).
+att(10131, 10130).
+
+arg(7040).
+text(7040, I was bullied a bit growing up, and learned to adapt and deal with things, whether through violence, or other means. It made me stronger in the end).
+support(7040, root).
+
+arg(6121).
+text(6121, There are other ways to learn these skills, without the possible implication of violence or mental trauma, such as though group activities and sports. Negative experiences like bullying at a young age leaves lasting mental scars that can cause a person to suffer for the rest of their life.).
+att(6121, root).
+
+arg(10135).
+text(10135, Perhaps if the victims did a little bullying as well, they wouldn't have so much pent up anger, and school shootings would decline. ).
+att(10135, root).
+
+arg(7048).
+text(7048, Learning how to deal with opposition should be regulated so as to not hurt either party physically or psychologically, which is not necessarily the case for bullying.).
+att(7048, root).
+
+arg(6125).
+text(6125, This isn't relevant to whether bullying is bad or not.  Abuse causing certain actions does not make these actions inheritly good or bad.).
+att(6125, 6091).
+
+arg(10147).
+text(10147, There would then be more victims, which may increase the chance).
+att(10147, 10135).
+
+arg(6056).
+text(6056, It can force a child to learn how to deal with confrontation and stand-up for himself/herself at an early age.).
+support(6056, root).
+
+arg(6729).
+text(6729, How will you learn to deal with opposition in your life. Children are not the only ones that are bullied in society.).
+support(6729, root).
+
+arg(8835).
+text(8835, this would only be the case if bullying was able to be highly regulated, if we were able to interrupt when it reaches its peek of positive effects, when the effects start to become negative and long term. How would one effectively regulate bullying?).
+att(8835, 8766).
+
+arg(6661).
+text(6661, This entirely depends on how severe the bullying is. Teasing or moderate verbal bullying can have a positive effect, but some kids are bullied for practically no reason other than that they're bullied, which can be incredibly harmful.).
+att(6661, 6056).
+
+arg(8838).
+text(8838, this would only be the case if bullying was able to be highly regulated, if we were able to interrupt when the bullying reaches its peek of positive effects, and when the effects start to become negative and long term. How would one effectively regulate bullying?).
+att(8838, root).
+
+arg(8843).
+text(8843, But it can also lead to school shootings.).
+att(8843, 6056).
+
+arg(10144).
+text(10144, According to this article listed below, Austria is the worst when it comes to bullying and Sweden is the best. Yet Sweden ranks higher in the OECD index.).
+att(10144, 10131).
+
+arg(10244).
+text(10244, Different people are affected differently, and there isn't just one type of bullying.).
+att(10244, root).
+
+arg(10189).
+text(10189, However, teaching kids to excel in more productive arenas would probably have a more positive effect on them, and no negative effect on others. In a way, athletics or any other form of competition can be the same as bullying, only instead of using your fists, you bully them with your awesomeness.).
+att(10189, root).
+

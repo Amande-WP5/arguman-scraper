@@ -1,0 +1,11 @@
+arg(root).
+text(root, A hotdog is a sandwich.).
+
+arg(13006).
+text(13006, a sandwich is characterized by two separate slices/buns).
+att(13006, root).
+
+arg(13068).
+text(13068, Say the two "sides" of a hot dog were to be separated. Would the food then cease to be a hot dog?).
+att(13068, 13006).
+

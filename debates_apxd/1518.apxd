@@ -1,0 +1,7 @@
+arg(root).
+text(root, The world should get rid of all its borders. Fences don't make good neighbors.).
+
+arg(8432).
+text(8432, What if your neighbor is an ass?).
+att(8432, root).
+

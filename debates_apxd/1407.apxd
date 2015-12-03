@@ -1,0 +1,211 @@
+arg(root).
+text(root, It is important to fund manned space flight).
+
+arg(7081).
+text(7081, Being in a weightless environment, orbiting the earth, on the moon, on Mars, or just in space is super cool.
+
+Going on a space vacation would be sick, why aren't we funding this?).
+support(7081, root).
+
+arg(6650).
+text(6650, There are many other ways to inspire young people to get into science that are much cheaper and less dangerous than manned space flight.).
+att(6650, root).
+
+arg(7713).
+text(7713, It is not guaranteed that manned missions to space would somehow protect us from these solar flares.  In fact,  it would be safer to keep humans on Earth rather than sending them closer to the Sun in the first place.).
+att(7713, root).
+
+arg(6776).
+text(6776, One could argue that there are few things more appealing than "to boldly go where no one has gone before".).
+att(6776, 6650).
+
+arg(6691).
+text(6691, The scientific consensus on the extinction event that wiped out the Dinosaurs is a massive Asteroid Impact. Humans would not survive a similar event and we would be wiped out quickly. This is one reason why it makes sense to invest in technologies to allow for travel in and safe habitation of space.).
+support(6691, root).
+
+arg(6780).
+text(6780, But this doesn't address the issue. Besides, politics and jails are necessary institutions at this point. You would need to propose a solution to these established processes that saves us the resources to put toward space exploration. ).
+att(6780, root).
+
+arg(7101).
+text(7101, The previous premise is a false dichotomy.).
+support(7101, root).
+
+arg(7716).
+text(7716, It is the only way we have currently to avoid asteroids and the sun's death in a few billion years).
+support(7716, root).
+
+arg(6705).
+text(6705, Because the challenge pushes us to discover new skills and technology.).
+support(6705, root).
+
+arg(6793).
+text(6793, Other cataclysmic threats, such as solar flares or nearby supernovae could still harm us.).
+att(6793, root).
+
+arg(6796).
+text(6796, It is disingenuous to contend that government money can be spent on only "warfare, politics, and jails.").
+att(6796, root).
+
+arg(7721).
+text(7721, That does not mean that space-focused research has nothing to offer.  In fact, it has given us a lot.).
+att(7721, root).
+
+arg(7115).
+text(7115, Diverting any threatening asteroids is a much more feasible plan than relocating people to an extremely distant planet that may not even be habitable. ).
+att(7115, 6691).
+
+arg(7724).
+text(7724, Earth has a very limited supply of resources. As our technology develops, we find more efficient use of these resources, but we also find faster ways of harvesting them. Inevitably, we will have to look elsewhere.).
+att(7724, root).
+
+arg(6716).
+text(6716, There are many problems that require funding on Earth. We should not spend money on space exploration when we have issues such as poverty and hunger on our own planet.).
+att(6716, root).
+
+arg(7128).
+text(7128, "X is entertaining" does not imply "X is important". ).
+att(7128, 7081).
+
+arg(7129).
+text(7129, Arguably there are other undiscovered depths for humans. Besides space exploration, there is still the brain and consciousness (AI), mathematical, hardware/engineering feats, and other frontiers we have yet to cross. They can also contribute to spaceflight.).
+att(7129, 6776).
+
+arg(7281).
+text(7281, Because it is our purpose as a race to expand, multiply, explore, colonize and conquer. ).
+support(7281, root).
+
+arg(6728).
+text(6728, it is a better destiny for money than warfare, politics and jails.).
+support(6728, root).
+
+arg(6817).
+text(6817, If we cannot sustainability manage our resources on this planet, we will run into the same resource limitations on the next. We need to learn how to use resources more efficiently and how to minimize our impact as a species. ).
+att(6817, root).
+
+arg(7133).
+text(7133, Humans need a constant supply of food, water, and oxygen, while robotic probes can be powered for many years by an RTG (used by Curiosity) or solar panels (used by Spirit and Opportunity).).
+support(7133, root).
+
+arg(7445).
+text(7445, The most common diversionary tactics typically rely on the massive use of explosives. This has inherently unpredictable factors and may make the problem worse by breaking the body up into a shower of smaller bodies that hit either us or other bodies in our solar system. It is a last-resort solution.).
+att(7445, 7115).
+
+arg(7447).
+text(7447, We are protected from the most common forms of solar flares, extremely harsh ones still do penetrate the magnetic field and can cause problems on Earth. The sun is capable of far more powerful solar flares than those observed during the lifetime of our species.).
+att(7447, root).
+
+arg(6821).
+text(6821, A lot can be done using unmanned probes though.).
+att(6821, root).
+
+arg(7137).
+text(7137, That money could possibly be spent more efficiently, with more scientific impact, on unmanned missions. The vast majority of our empirical scientific knowledge of the solar system was acquired using robotic spacecraft.).
+att(7137, root).
+
+arg(7141).
+text(7141, Space is an excellent investment.).
+support(7141, root).
+
+arg(7297).
+text(7297, We don't need to expand. We can easily just sit here in our current home and still be happy.).
+att(7297, 7281).
+
+arg(6745).
+text(6745, Astronomers have concluded that there are no asteroids that pose a significant threat to earth.).
+att(6745, 6691).
+
+arg(7148).
+text(7148, Importance is a subjective value. A thing can be important precisely because it is entertaining.).
+att(7148, 7128).
+
+arg(6833).
+text(6833, could there not be challenges on earth for us to face that would lead to new technology? How to keep up with rising demand of food? Alternative forms of energy? Better use of natural resources? What exists in our oceans? Spaceflight is not the only challenge, it is simply the hardest one.).
+att(6833, 6705).
+
+arg(7151).
+text(7151, We must be conscious of other values as well. If a thing (such as space flight) causes harm, is it acceptable? Even if it is also entertaining?).
+att(7151, 7148).
+
+arg(6751).
+text(6751, Our knowledge about bodies that may collide with other things in our solar system is still relatively poor, it is entirely possible that a collision on a neighbouring body could cause debris to hit our planet, as has happened before. Further, collisions during flight can cause bodies to alter course).
+att(6751, 6745).
+
+arg(7154).
+text(7154, Humans are much more versatile in space than current robotic probes, even with restrictive space suits, and may play a key role in preventing asteroid impacts.).
+att(7154, 7115).
+
+arg(6753).
+text(6753, Space exploration can also be seen as an investment for the very-long-term. Still, the returns may only come up when our issues on Earth have already been solved.).
+att(6753, 6716).
+
+arg(7156).
+text(7156, This assumes we have one "money" that we can only spend on one thing, when in reality funding can go to many separate things. Funding space exploration and funding the end of poverty are not mutually exclusive).
+att(7156, 6716).
+
+arg(7472).
+text(7472, Even if partial allocation of funds is permitted, the more money spent on space flight means less money available for fighting poverty. ).
+att(7472, 7156).
+
+arg(7476).
+text(7476, This assumes that with the decrease of funds allocated to space flight, the funds allocated to fighting poverty would increase.).
+att(7476, 7472).
+
+arg(6849).
+text(6849, We don't have to choose. We have funding to completely end poverty, and then spend other money on space exploration).
+att(6849, 6716).
+
+arg(6571).
+text(6571, We will inevitably run out of recources in this world. Given, we need to find alternative planets with which to survive.).
+support(6571, root).
+
+arg(6862).
+text(6862, Space exploration and research can create technologies to help solve these issues in novel ways.
+
+Research for space travel has created new ways to stabilize buildings, grow and store food, and treat disease.).
+att(6862, 6716).
+
+arg(7776).
+text(7776, There have always been challenges here on earth. Spaceflight would be in addition to those.).
+att(7776, 6833).
+
+arg(6871).
+text(6871, We are protected from solar flares thanks to the Earth's magnetic field.  Otherwise, we would have all died a long time ago.).
+att(6871, 6793).
+
+arg(7187).
+text(7187, It will lead people to your anus).
+support(7187, root).
+
+arg(6592).
+text(6592, It inspires young people to get into science.).
+support(6592, root).
+
+arg(8207).
+text(8207, You consider only one technique out of very many possibilities, identify problems with that one technique that may actually be avoidable, and then conclude that no effective solution exists.).
+att(8207, 7445).
+
+arg(8214).
+text(8214, A nuclear explosion need not destroy an asteroid in order to alter its orbit and prevent collision with the Earth. By detonating the device above the asteroid, a small layer of matter on the surface is vaporized, imparting a change in momentum to the body.).
+support(8214, 8207).
+
+arg(8228).
+text(8228, Many other techniques techniques to deflect an asteroid have been identified, such as a kinetic impact, gravity tractor, solar sail, or mass driver. ).
+support(8228, 8207).
+
+arg(7531).
+text(7531, That is very subjective. Maybe the purpose of the human race is to live together in peace on Earth and never set foot on an extraterrestrial body ever again. Or maybe, we are destined to pollute the planet so fast that we are not able to escape. Who knows.).
+att(7531, 7281).
+
+arg(7798).
+text(7798, Current space technologies makes manned space missions very expensive and impractical. Money could be better spent on unmanned missions and R&D before manned missions become feasible.).
+att(7798, root).
+
+arg(6626).
+text(6626, because there is almost definitely a ton of scientific knowledge out there that we can't access from here).
+support(6626, root).
+
+arg(7132).
+text(7132, Military research has contributed more to spaceflight than space-focused research itself. German missile/rocket technology is the basis for modern flight. Modern military aerospace developments have pushed space research boundaries. Plus, they give more money to the US economy.).
+att(7132, 6862).
+

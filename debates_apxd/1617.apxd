@@ -1,0 +1,11 @@
+arg(root).
+text(root, Mirrors cannot be real because our eyes are not real).
+
+arg(9033).
+text(9033, The world is not real.).
+support(9033, root).
+
+arg(8778).
+text(8778, If newborn babies could speak, they would be the most intelligent beings on Planet Earth.).
+support(8778, root).
+

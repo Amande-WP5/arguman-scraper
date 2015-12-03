@@ -1,0 +1,7 @@
+arg(root).
+text(root, The American two party political system (Democrats and Republicans), is ultimately going to be our downfall.).
+
+arg(14548).
+text(14548, It only allows for essentially two stances or opinions on an issue to be represented thereby violating the democratic principles of the country and disheartening the people.).
+support(14548, root).
+

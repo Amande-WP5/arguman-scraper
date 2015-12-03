@@ -1,0 +1,11 @@
+arg(root).
+text(root, The Euro currency is a good thing.).
+
+arg(8296).
+text(8296, It reduces inefficiencies and costs associated with exchange rates for many small neighbouring countries.).
+support(8296, root).
+
+arg(8315).
+text(8315, Less competitive economies might struggle when exporting to countries outside of the Eurozone, as the price of their products/services is increased by the strong currency).
+att(8315, root).
+

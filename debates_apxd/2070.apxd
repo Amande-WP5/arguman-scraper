@@ -1,0 +1,295 @@
+arg(root).
+text(root, Evolution is not fact.).
+
+arg(14523).
+text(14523, it is the most evidence-supported theory currently in existence. ).
+att(14523, root).
+
+arg(14678).
+text(14678, evolution is like this: a mother has two children, one who is ill and another who is healthy, because he has a strong immune system. The ill child die, the healthy child survive and make another generation and another, and another etc, the healthy child has adapt. So what`s wrong with evolution ?).
+att(14678, root).
+
+arg(14679).
+text(14679, of course we don`t know, why some species survive. But evolution is something observerly. you can look a generation and the following generation and see who survive or adapt. To say evolution is just a theory is a bit weird.).
+att(14679, 14678).
+
+arg(15063).
+text(15063, Nothing except that it requires the existence of these ancestors. If the evidence is that there were no ancestors (as is the case with the Cambrian) then a different explanation must be sought. What's wrong with seeking alternative explanations?).
+support(15063, 14678).
+
+arg(15064).
+text(15064, I'm stating that there is no evidence whatsoever that the morphologically diverse Cambrian fauna arose via natural selection. If they had we'd see fossil evidence of the ancestors, branches etc. Now tell me why should I believe they evolved without evidence? isn't that called "faith"?).
+support(15064, 14679).
+
+arg(15066).
+text(15066, Evolutionists often make the mistake of focusing only on where the theory agrees with observation and dismissing those areas where it disagrees. Scientific theories aren't judged by how much they agree with observation but by whether they DISAGREE with ANY observations.).
+att(15066, 14523).
+
+arg(15068).
+text(15068, If a theory predicts something yet the prediction is found to be false, then the theory is proven wrong - do you agree with this? For example this is why we reject Newtonian gravitation despite its many agreements with observation.).
+att(15068, root).
+
+arg(13845).
+text(13845, Nothing is. A fact - to humans who live in a world of uncertainty - is so until proven otherwise. Considering evolution has yet to be disproven - it is fact.).
+att(13845, root).
+
+arg(15108).
+text(15108, "Cambrian explosion is also a fact yet is completely inconsistent with gradualistic Darwinian evolution"
+
+[citation needed]).
+att(15108, root).
+
+arg(15109).
+text(15109, The "disagreeable" part is basically nonexistence and the overwhelming part that speaks for evolution is technicly undeniable.).
+att(15109, 15066).
+
+arg(15110).
+text(15110, The theory of evolution doesn't necessarily predict anything. It doesn't and it also isn't required to.).
+att(15110, 15068).
+
+arg(15111).
+text(15111, So you could say they are still the most supported by evidence. And the evidence is huge.).
+att(15111, root).
+
+arg(13691).
+text(13691, This does nothing to invalidate the theory or prove it to be untrue. There is plenty of proof and nothing that disproves it, ergo it is as useful to us as any fact would be.).
+att(13691, root).
+
+arg(13745).
+text(13745, Nothing other than entirely abstract things, like mathematics or philosophy can be proven to be true. In the real world, you only have theories that you can try and disprove.).
+att(13745, root).
+
+arg(14130).
+text(14130, A scientific hypothesis or theory is never considered proved, no theory in physics for example is ever described as "proved" but may are eventually disproved. Furthermore you can't label it a fact if there's any degree at all of uncertainty and there is, in any hypothesis about the material world.).
+att(14130, root).
+
+arg(13894).
+text(13894,  You seem to be mistaken on what a theory is. 
+Theories do not graduate to become facts.
+A theory is a falsifiable explanation with predictive power that has no falsifying evidence.
+Examples of such include Germ theory, Theory of gravity. Do you deny these as facts? ).
+att(13894, root).
+
+arg(14205).
+text(14205, The degree of uncertainty surrounding evolution is minuscule. There is less evidence for Gravity. By your definition of a fact, nothing is, but to all intensive purposes, evolution is a fact. The evidence is so overwhelming, and in great numbers, the possibility of evolution being false, is nigh on).
+att(14205, 14130).
+
+arg(14206).
+text(14206, impossible. ).
+att(14206, 14205).
+
+arg(14435).
+text(14435, I'm referring to morphological differences which give rise to differing taxa. A two headed human is a human - with two heads, it's still taxonomically a human. The Cambrian evidence requires worms to develop shells and eyes with no convincing intermediates.).
+att(14435, root).
+
+arg(14496).
+text(14496, Despite the evidence - the fossil record - indicating the dramatic, sudden appearance of these beasts the dogmatic evolutionist insists they did evolve. One should listen to the evidence and in this case it screams at us - these animals arose suddenly leaving no credible trace of any evolution.).
+att(14496, root).
+
+arg(14384).
+text(14384, Consider Anomalocaris, Opabinia etc. Fossils are found all over the earth yet no evidence of credible ancestral fossils has ever been found. In many locations conditions for preservation are superb with even amoeba found in the earlier strata Without evidence why accept the claim they evolved?).
+support(14384, root).
+
+arg(14437).
+text(14437, But we have found some intermediates, at least for eyes. Near as we can tell, the eye developed from the Parietal Eye^1. It's not a huge stretch to make either. Besides, you're just rehashing the "microevolution" argument. Morphological changes add up. Species drift to the point of new taxa forming.).
+att(14437, 14435).
+
+arg(14135).
+text(14135, But the Cambrian explosion is also a fact yet is completely inconsistent with gradualistic Darwinian evolution, how can one say that two contradictory hypotheses are facts?).
+att(14135, 13845).
+
+arg(13958).
+text(13958, The common definition of "fact"; "a thing that is known or proved to be true" - Evolution is proven and known to be true. If we're being pragmatic, not a lot of things are facts. However, I think we can say with enough certainty, evolution is a fact, without being too pragmatic. ).
+att(13958, root).
+
+arg(14137).
+text(14137, Creationism isn't either. So let's not talk about that.).
+att(14137, root).
+
+arg(14383).
+text(14383, Large morphological changes cannot be caused by small genetic mutations. I see no evidence of this nor does Darwinian natural selection propose this. The Cambrian record reveals dramatic morphological disparity with no evidence of transitions why accept a claim that has no evidence?).
+att(14383, root).
+
+arg(14212).
+text(14212, Yes, it is a theory, just like gravity, and I don't see you jumping out of windows.).
+att(14212, root).
+
+arg(14214).
+text(14214, Many observations that are consistent with Darwinian evolution and many observations are consistent with Newtonian gravitation,  that does not "prove" Newtonian gravitation theory.
+
+If observation contradicts prediction the theory is wrong and there are such observations, focus on these.
+
+).
+att(14214, 14205).
+
+arg(14231).
+text(14231, Because large changes can be caused by small mutations. Changing a single gene can have cascade effects that cause very different thing. If this were not possible, evolution could not occur quickly enough to explain the world we see today. Likely a similar effect caused the increase in variance.).
+att(14231, 14135).
+
+arg(14494).
+text(14494, If Anomlocaris arose through natural selection and the preservation conditions in the preceding strata are superb then I'd expect to see fossils of ancestral forms. There is no trace of these and this can't be explained away. This is why paleontologists say "Cambrian Explosion". ).
+att(14494, 14437).
+
+arg(14427).
+text(14427, If large morphological changes can't happen from chance mutations, how do you explain animals that have multiple heads, or additional limbs? We've given additional legs to flies by changing a single gene. It wouldn't take much more than that in these cases.).
+att(14427, 14383).
+
+arg(14495).
+text(14495, Darwinian evolution - if a theory it be - requires that the diverse cambrian animals have lineage - this lineage must have existed for evolution to be the explanation. Yet despite excellent conditions for fossil preservation we find no trace. Everywhere we find Trilobytes they appear suddenly.).
+support(14495, 14494).
+
+arg(14709).
+text(14709, In it's most basic form, evolution is nothing more than the proven theory that things change over time. You can argue the specifics, but the actual "big picture" theory is as sound as can be.).
+att(14709, root).
+
+arg(15929).
+text(15929, One must therefore believe that gibberish replies are a comforting substitute for reasoned discourse.).
+att(15929, root).
+
+arg(15277).
+text(15277, Usefulness is irrelevant. Usefulness does not determine an items existence. If that were so, we wouldn't have an appendix. Also note the absence of evidence is not the evidence of absence. "Plenty" is a relative term. My definition of "plenty" may be far different from yours. Also it is.).
+att(15277, 13691).
+
+arg(15212).
+text(15212, One must believe that we have yet to find multicellular fossils dating before trilobites  (circa 530 mya) in the Ediacaran era (circa 580 mya) or single cell fossils (circa 3.75 bya) in the Archean era. One must believe the quote mine in question holds any merit today.).
+support(15212, root).
+
+arg(15181).
+text(15181, The lack of expected Cambrian precursor fossils is universal. Everywhere on earth we find Cambrian fossils we see the absence of precursors do you deny this? ).
+att(15181, 15109).
+
+arg(15180).
+text(15180, From Darwin's Origin of Species "[The origin of Cambrian trilobites] must at present remain inexplicable; and may be truly urged as a valid argument against the views here entertained.").
+support(15180, 15108).
+
+arg(15182).
+text(15182, It does predict things, if it be true then certain other things must necessarily be true. If this were the case then how can people present any evidence for the theory? It requires ancestors to have existed in the past. If such ancestors never existed then natural selection was not the cause.).
+att(15182, 15110).
+
+arg(15211).
+text(15211, One must believe this is not a textbook case of quote mining. Page 308 to contextualise the quote in question: http://tinyurl.com/oza7gvf
+
+He tries to explain the case in his time which tectonic subduction was yet to be studied; sediment may erode or metamorphose much greater if much older.
+
+).
+att(15211, 15180).
+
+arg(15232).
+text(15232, Darwin's "Origin of Species" is a highly outdated scientific paper.).
+att(15232, 15180).
+
+arg(15772).
+text(15772, Diverse Cambrian life just appears in fossil record 550 MYA. There are no convincing fossils for the necessary ancestral tree. Either the ancestors left no trace or there were no ancestors. But preservation conditions were exemplary with even amoeba fossils being present in the preceding strata.).
+att(15772, root).
+
+arg(16107).
+text(16107, One need not believe there is an absence of fossils. One should seek evidence however before adopting the hypothesis. In the absence of evidence it is prudent to remain skeptical.
+).
+att(16107, root).
+
+arg(15773).
+text(15773, The truly interested reader can find the context for themselves, space limits what I can include within a single response.).
+att(15773, 15211).
+
+arg(15774).
+text(15774, Everywhere we find Cambrian fossils we find a lack of expected ancestry, be it Wales, Canada or China - these ancestors left no trace in the fossil record despite superb conditions for preservation, on what grounds do you conclude they ever existed?).
+att(15774, 15212).
+
+arg(15810).
+text(15810, One must believe proper citations are without relevant source information, including specific pages. One must believe you understand tectonic subduction in the field of paleontology. ).
+att(15810, 15773).
+
+arg(15809).
+text(15809, One must believe physical phenomena will not leave behind physical evidence, another must believe destruction of physical evidence will undermine the implied pattern of gradual change and diversification through time in a proposition that explains consistent pattern(s) and concurrent relationships.).
+att(15809, 15774).
+
+arg(15817).
+text(15817, There are fossils in the preceding strata, even fossilized embryos. Its never been that there aren't fossils only that there aren't any of the expected fossils. No evidence of evolution and no credible explanation for the lack of evidence, only an incredible explanation - they didn't evolve.).
+att(15817, root).
+
+arg(15944).
+text(15944, scientific weight is that the fossils indicate a sudden appearance, prevailing opinion is that there's an inexplicable absence of expected evidence. ).
+att(15944, root).
+
+arg(15813).
+text(15813, If the absence of expected evidence cannot be explained by failed preservation or destruction then it's rational to conclude the original expectation of that evidence ever existing is in error.).
+att(15813, 15809).
+
+arg(15815).
+text(15815, One must believe erosion, metamorphism, decomposition, and tectonic subduction in general are not contributing factors of the incomplete fossil record. One must believe that older the sediment, the less chance there is for fossils to erode or metamorphose to the extent to which they are destroyed.).
+att(15815, 15813).
+
+arg(15843).
+text(15843, One must believe you have any scientific papers to reinforce your multiple claims. One must believe you have any specifics on the fossils in question in addition to the expected ancestry from which they may have transitioned. One must believe tectonic subduction is not a contributing factor. ).
+att(15843, 15817).
+
+arg(15845).
+text(15845, One must believe the fossil record is not a database organised and managed by scientists with isotopic dating to determine ages, but some radar that magically shares information. One must believe in a false dichotomy if they were to discount the predicted existence of fossils however destructible. ).
+att(15845, 15772).
+
+arg(15869).
+text(15869, It is the scientific community that chose and continue to use the moniker Cambrian "explosion". It is the scientific community who consider the appearance of these fossils abrupt, sudden, dramatic.).
+att(15869, 15843).
+
+arg(15943).
+text(15943, One must believe you have any response within the debate that presents scientific weight, persuasive evidence, or logical arguments. ).
+att(15943, 15929).
+
+arg(15945).
+text(15945, when presented with scientific weight elsewhere in this forum you choose to label that as a fallacy an "appeal to authority"!).
+att(15945, 15943).
+
+arg(15947).
+text(15947, One's refusal to be persuaded, one's disregard for presented arguments, one's dismissal of evidence can often blind one to the truth.).
+att(15947, 15943).
+
+arg(15952).
+text(15952, One must believe that you watched the videos you provided from BBC. One must ignore the answers provided that there are Ediacaran fauna discoveries across continents. One must believe the Cambrian explosion is an evolutionary event, not a taphonomic event. ).
+att(15952, 15947).
+
+arg(16113).
+text(16113, One must believe that you understand or have read papers on the key mechanism for evolution, let alone evolution at all. One must believe the evidence of expected ancestry is absent when explicitly provided. One must believe Cambrian fauna has to do with evolution, rather than a taphonomic event.).
+att(16113, root).
+
+arg(15953).
+text(15953, One must believe that my individual assessment of your multiple claims ever arrived to my pointing out that specific fallacy. One must believe you have presented scientific weight.).
+att(15953, 15945).
+
+arg(15954).
+text(15954, One must believe Ediacaran fossils are not well known to palaeontologists: Kimberella, Dicksonia costata, Yorgia waggoneri, Ernietta, Rangea, Pteridinium, Marywadea, Spriggina, Praecambridium, Vendia, Archaeapsis, Chondroplon and Andiva.).
+att(15954, 15947).
+
+arg(16111).
+text(16111, I and others believe that there is an absence of evidence to support the hypothesis that natural selection gave rise to the Cambrian fauna.).
+att(16111, root).
+
+arg(16120).
+text(16120, If you care to read your source you'll find remarks like "have meant that no common stem-group member of two or more of these groups has yet been convincingly demonstrated" and " all five major clades of deuterostomes were already present in the Lower Cambrian").
+att(16120, 16113).
+
+arg(16129).
+text(16129, Yunnanozoon is the earliest hemichordate a soft bodied organism of some considerable complexity dated around 525MYA. Dipleurozoans look rather different and are dated 555 MYA. They are found in different parts of the world never together so don't seem related at all.).
+att(16129, root).
+
+arg(16121).
+text(16121, One must believe this is not a quote mine, when pressed further: "...except possibly yunnanozoons..." Yunnanozoon, an early Cambrian organism that is considered to have descended from one of the Ediacaran dipleurozoans; an organism belonging to the same taxonomic Phylum as you and I.).
+att(16121, 16120).
+
+arg(15891).
+text(15891, One must believe scientific parlance should cater to the casual reader. One must believe credence diminish as a result of questionable titles not so much the papers in question. One must believe theories may not modify or remain consistent with new information.).
+att(15891, 15869).
+
+arg(16109).
+text(16109, One must believe that one need not believe the absence of expected fossils, when presented with evidence of the presence of expected fossils in the face of an argument that insists in the absence of expected fossils. One must believe there remains an absence of evidence.).
+att(16109, 16107).
+
+arg(15951).
+text(15951, One must believe there are any credible references that point out the alleged prevailing opinion that there continues to be an inexplicable absence of expected evidence since Darwin's quote out of context. One must believe there is an absence of fossils in question.).
+att(15951, 15944).
+
+arg(15293).
+text(15293, Not at all. You are talking about a timespan of 70-80 MILLIONS of years (pre-Cambrian explosion period during which evolution accelerated).
+
+By analogy, ~99% of human history, max transportspeed was on foot. Then for ~1% we had horses: speed x3. In the last 0,1% years we have transport speeds x50!).
+att(15293, 15064).
+

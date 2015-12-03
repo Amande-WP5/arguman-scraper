@@ -1,0 +1,7 @@
+arg(root).
+text(root, "It's Whataboutry" is balderdash.).
+
+arg(10950).
+text(10950, When making a comparative assessment of performance of two entities, it is illogical to ignore the past record, or its parts, of one of those.).
+support(10950, root).
+

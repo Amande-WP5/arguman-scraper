@@ -1,0 +1,23 @@
+arg(root).
+text(root, The alleviation of suffering should be one of the motivations of everyone and every organisation. ).
+
+arg(11980).
+text(11980, But shouldn't we then deliberately increase individual suffering in the near term in order to increase evolutionary pressure and ultimately reduce suffering in the long term?).
+att(11980, root).
+
+arg(12296).
+text(12296, in the context of the modern/industrialized era, the suffering experienced by individual human beings, or individual communities thereof, does not 'play out' on a time-frame that is compatible with the notion of evolutionary processes.).
+att(12296, 11980).
+
+arg(11981).
+text(11981, I don't understand ^^ To be analysed.).
+att(11981, 11980).
+
+arg(11960).
+text(11960, This is already included in "alleviation of suffering". If one suffering allows less suffering globally, then it is "alleviation of suffering" in the end. ).
+att(11960, root).
+
+arg(11888).
+text(11888, If suffering of one entity leads to the survival or genetic reproduction of a more fit entity, suffering of a single species member may benefit that species as a whole. A more correct phrasing might be 'needless suffering', assuming you can quantitatively and qualitatively define 'needless'.).
+att(11888, root).
+

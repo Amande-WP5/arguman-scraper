@@ -1,0 +1,39 @@
+arg(root).
+text(root, The Church of the Flying Spaghetti Monster should be seen and respected as a legitimate Religion (not just U.S, internationally) ).
+
+arg(15962).
+text(15962, If Christians can say Yahweh exists, Muslims can say Allah exists, Hindus can say Vishnu exists etc. etc., then people sure as hell claim a Flying Spaghetti Monster exists.).
+support(15962, root).
+
+arg(15842).
+text(15842, That means you have to require factual evidence to deem any "faith" a religion; which basically eliminates all religions from consideration as soon as any one tenet is proven as highly unlikely to be true (which is easy for any religion).).
+att(15842, root).
+
+arg(15311).
+text(15311, That's why it should be considered just like all the other religions out there.).
+att(15311, root).
+
+arg(13621).
+text(13621, You can not deny that something is less real just because you believe it is not. You can however believe in something because you have faith in it. ).
+support(13621, root).
+
+arg(14202).
+text(14202, What constitutes proof? Proof requires an advocate and a skeptic to reach agreement, that is all proof is (in the material sciences). Two parties might never agree not because either is wrong in an absolute sense, but because they do not share initial axioms.).
+att(14202, root).
+
+arg(13984).
+text(13984, It was purposefully created to mock religion.).
+att(13984, root).
+
+arg(14203).
+text(14203, For example one may be a philosophical materialist the other a dualist. Such a two are unlikely to reach agreement on many questions simply because of this difference. Neither materialism or dualism are however deemed true or false by any "proof".).
+support(14203, 14202).
+
+arg(14196).
+text(14196, Who is to say that it is no more legible than other religions, there is equal proof of their gods existence as there is to the FSM's).
+att(14196, 13984).
+
+arg(14198).
+text(14198, I'd personally require some rational basis for considering it (a spaghetti base creature that can fly) true and I currently have no such basis.).
+att(14198, 13621).
+

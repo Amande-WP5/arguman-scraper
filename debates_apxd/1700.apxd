@@ -1,0 +1,11 @@
+arg(root).
+text(root, We should stop corporations from shifting their profits and jobs overseas to avoid paying U.S. income taxes.).
+
+arg(16051).
+text(16051, people are not willing to pay higher prices for goods and therefore corporations will lose their competitive gain with countries like China and individuals who produce ideas, design and code will lose their jobs. Due to  globalisation the only way to stay competitive is by joining the competition.).
+support(16051, root).
+
+arg(16050).
+text(16050, economics).
+att(16050, root).
+

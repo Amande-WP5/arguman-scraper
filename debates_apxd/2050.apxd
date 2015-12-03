@@ -1,0 +1,87 @@
+arg(root).
+text(root, There is no "Meaning of Life").
+
+arg(15905).
+text(15905, There is no definitely proven divine purpose for our existence, allowing all individuals to create purposes of their own.).
+support(15905, root).
+
+arg(13692).
+text(13692, Much as a work of art has no inherent meaning until interpreted by a conscious observer, so can life as a concept not be claimed to be inherently meaningful.).
+support(13692, root).
+
+arg(13850).
+text(13850, we have found the meaning of life. The meaning of life is 'to live forever'. If we do not live forever, then everything we do will crumble. If everything we do crumbles, then everything we do will be for nothing. Thus, there will be no point in doing anything.).
+att(13850, root).
+
+arg(15022).
+text(15022, The meaning of life is not to live forever.).
+att(15022, 13850).
+
+arg(15023).
+text(15023, A creator doesn’t give a definite universal meaning either.
+The meaning is still in the creator, not an intrinsic property of the thing itself.).
+att(15023, root).
+
+arg(15024).
+text(15024, You proved it couldn’t be that.).
+support(15024, 15022).
+
+arg(13565).
+text(13565, The meaning of life is to create one.).
+att(13565, root).
+
+arg(13932).
+text(13932, Meaning and definition are the same thing. Just look them up, they will give you the same definition or meaning.).
+att(13932, root).
+
+arg(15049).
+text(15049, Eventually we will be gone, and the universe will continue without us, so there's no possibility there's any meaning whatsoever, except for the individual and subjective meaning we hope to gain through the course of our lives.).
+support(15049, root).
+
+arg(15051).
+text(15051, Your criteria for meaning of life is to live forever. We don't live forever, thus there is no meaning.).
+att(15051, 13850).
+
+arg(15059).
+text(15059, Does anything have a meaning then? Can you give an example of something that has meaning?).
+att(15059, 13692).
+
+arg(13602).
+text(13602, create one _____?).
+att(13602, 13565).
+
+arg(13694).
+text(13694, It depends on the meaning of the word "life". As an abstract concept it is not supposed to be observable in reality and compared with concrete objects like songs or paintings.).
+att(13694, 13692).
+
+arg(13699).
+text(13699, This is a definition of life. The argument is about a meaning, i.e. a sense.).
+att(13699, root).
+
+arg(13705).
+text(13705, No things possess any "meaning" as their property. Meaning exists only within conscious minds (e.g. human). Therefore, as long as there is at least one living human, meaning exists. Thus, there is no need to know whether there is a creator.).
+att(13705, root).
+
+arg(13604).
+text(13604, According to a dictionary, the meaning of life is: The condition that distinguishes animals and plants from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death.).
+att(13604, root).
+
+arg(14989).
+text(14989, if I try to understand the live without meaning, my motivations are gone for everything. I think we could describe (objectivly) the world, as a world with meaning, with a sense to flourish. The living things have a meaning, as surviving.The geology and seas the meaning to give the conditions of life).
+att(14989, root).
+
+arg(13707).
+text(13707, With this definition, anyone could give life any meaning he or she wants to, and it would necessarily be correct. Then the question would be pointless, as it is presumably about a definite, universal meaning.).
+att(13707, 13705).
+
+arg(13702).
+text(13702, We don’t know if there is any meaning. Things that have a meaning are created by someone who created it for a reason. We do not know if there is anyone who created life, thus we cannot know the meaning of life. If there is however a conscious creator of life, he should know for what purpose we exist).
+att(13702, root).
+
+arg(13942).
+text(13942, I did
+1. the thing, action, feeling, idea etc that a word or words represent
+2. the special importance or purpose of something
+The first definition may include “definition”, the second definitely not. It is possible, but not sensible that the creator of this discussion meant a definition of life.).
+att(13942, 13932).
+

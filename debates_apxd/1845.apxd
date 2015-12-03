@@ -1,0 +1,35 @@
+arg(root).
+text(root, This argument has the same total count for each premise type (however, but and because).).
+
+arg(11294).
+text(11294, this argument was true in a specific time and space but not currently.).
+att(11294, root).
+
+arg(11418).
+text(11418, That doesn't mean people will balance the number of each type of premise.).
+att(11418, root).
+
+arg(11298).
+text(11298, because you changed it).
+support(11298, 11294).
+
+arg(11305).
+text(11305, This change will not permanently effect the statement.).
+att(11305, 11298).
+
+arg(11317).
+text(11317, More premises will be added.).
+support(11317, 11305).
+
+arg(11547).
+text(11547, Or did they?).
+att(11547, root).
+
+arg(11443).
+text(11443, They just did.).
+att(11443, 11418).
+
+arg(12119).
+text(12119, They didn't.).
+support(12119, 11547).
+

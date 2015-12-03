@@ -1,0 +1,31 @@
+arg(root).
+text(root, Social sciences are not actually science.).
+
+arg(9947).
+text(9947, They do arrive to conclusions other scientists can agree upon.).
+att(9947, root).
+
+arg(9891).
+text(9891, Science is defined usually as either a learning discipline, pursuit of knowledge, or a body of knowledge based on observations and/or experiments. Politics or political science is the study of different political systems and behavior as well as its effects on a community.).
+att(9891, root).
+
+arg(9926).
+text(9926, They very often don't produce reproducible experiments, or indeed experiments at all.).
+support(9926, root).
+
+arg(10058).
+text(10058, If you can use the scientific method to come to a rational and valid conclusion, then you are doing science, regardless of what you are studying. ).
+att(10058, root).
+
+arg(11101).
+text(11101, Social sciences research reality just like any other form of science. This argument is so 1850.).
+support(11101, root).
+
+arg(9959).
+text(9959, There is a large difference between a "soft science" and "not a science". Social science is especially difficult because it is nearly impossible to control for every variable. This does not make it not a science, it merely makes it a less accurate one.).
+att(9959, root).
+
+arg(9997).
+text(9997, It depends.  Positivist social scientists tend to be more scientific in that they readily utilize the scientific method in their work. Interpretivist social scientists are not really scientific. Ideology also plays a huge part in some SS fields, making them much less objective, too.).
+att(9997, root).
+

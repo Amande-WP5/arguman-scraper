@@ -1,0 +1,55 @@
+arg(root).
+text(root, All recreational drugs should be legalized but heavily regulated.).
+
+arg(16202).
+text(16202, And sources for "the vast majority").
+support(16202, root).
+
+arg(16193).
+text(16193, some drugs are known to highly correlate usage with criminality).
+att(16193, root).
+
+arg(15691).
+text(15691, It got to the point where we're harming more people with laws than the drugs themselves. Small exmaple: Heroin (besides having bad withdraw) doesn't cause brain damage, users do not use it irresponsibly unless access is limited. Heroin addicts can live a normal life with regulated access. ).
+support(15691, root).
+
+arg(15620).
+text(15620, The greatest negative impact drugs have is when they're over used due to addiction. Even heroin, considered the most addictive illegal drug, has an addiction rate of 23%. That means 77% of heroin users don't experience addiction. The addiction rate for cannabis is 9%, about the same as video games.).
+support(15620, root).
+
+arg(15607).
+text(15607, You need sources to that :
+"their drug use does not negatively impact their life").
+att(15607, root).
+
+arg(15588).
+text(15588, Many drugs are habit forming and can lead to degenerative nervous system disorders and chronically (no pun intended) impaired judgement, so legalization  also requires the development of an infrastructure for those whose drug use becomes destructive to themselves and/or those they love. ).
+att(15588, root).
+
+arg(15394).
+text(15394, Drug use is a victimless crime. It is a health issue not a criminal issue. Punishing people for a health issue only makes their condition worse.
+If someone on drugs commits a crime we already have laws in place to deal with them.).
+support(15394, root).
+
+arg(15444).
+text(15444, Heavy regulation, taxes, and other restrictions could drive the drug trade to the black market if it's too overbearing, leading to the same problems we have now (other than the mass incarceration) ).
+att(15444, root).
+
+arg(15401).
+text(15401, The vast majority of illegal drug users are not criminals and their drug use does not negatively impact their life. For most it is a positive to their lives.
+Ruining someone's life for something that they enjoy and benefit from is the real crime.
+).
+support(15401, root).
+
+arg(15396).
+text(15396, Many illegal drugs have shown great therapeutic value. Stigmatizing and not researching or using these substances is ignorant and prolongs the suffering of those that could benefit.
+).
+support(15396, root).
+
+arg(15395).
+text(15395, Drug laws have ruined more lives than drugs themselves.
+Unregulated drugs are a health risk.
+Unregulated drugs empower criminals, increasing crime and harm.
+A criminal record or being sent to jail/prison is often more harmful to a person than the drugs they use.).
+support(15395, root).
+

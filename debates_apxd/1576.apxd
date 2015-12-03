@@ -1,0 +1,69 @@
+arg(root).
+text(root, PS4 is better than XBOX.).
+
+arg(8401).
+text(8401, Nobody actually cares except for some nerds on the Internet).
+att(8401, root).
+
+arg(8398).
+text(8398, microsoft is evil).
+support(8398, root).
+
+arg(13303).
+text(13303, It is in the grand scheme of things... rather irrelevant and just causes unnecessary trifling. ).
+support(13303, 8401).
+
+arg(8464).
+text(8464, Microsoft has Hololens, technically the next generation Xbox (Xbox Two), so it's a worthy investment when buying Xbox games than PS4's.
+
+Xbox's real competitor is not even PS4, it's Facebook's game console/control that is in making.).
+att(8464, root).
+
+arg(13203).
+text(13203, PS4 is better optimized for gaming, while Xbox One suits family usage of medias such as music, movies and games altogether. ).
+support(13203, root).
+
+arg(13204).
+text(13204, Gaming consoles are not comparable to computers-- while computers can do a better job at running games, they weren't built for that and their usage, including high-end computers built for quality performance, is not restricted to gaming.).
+att(13204, root).
+
+arg(8357).
+text(8357, It's more complementary in terms of technical aspects. ).
+support(8357, root).
+
+arg(13448).
+text(13448, Playing online multiplayer on Xbox Live requires a (paid) Gold membership; playing online multiplayer on PSN does *not* require a (paid) Plus membership.).
+support(13448, root).
+
+arg(8845).
+text(8845, I had to contact the playstation support, because the disc drive broke down after only 4 months.).
+att(8845, root).
+
+arg(8848).
+text(8848, Most games aim to achieve parity between the two consoles, making one console's capability over the other meaningless because one is held back to achieve parity with the other.).
+att(8848, 8357).
+
+arg(8858).
+text(8858, While these two platforms are good, in their own right, they are outshined by a competitor of which they are trying to mimic, the PC. Being cheaper in the long run with compatibility with third-party programs, the PC is choice for any gamer, meanwhile the consoles are low-end PCs with a high price.).
+att(8858, root).
+
+arg(8863).
+text(8863, Sony has Project Morpheus.).
+att(8863, 8464).
+
+arg(13478).
+text(13478, The moral standing of a company does not effect how good its product is.).
+att(13478, 8398).
+
+arg(13383).
+text(13383, The PS4 is objectively more powerful as a computer and will maintain a closer parity to PCs in the coming years for game development. ).
+support(13383, root).
+
+arg(13219).
+text(13219, The point of the argument wasn't "What's better than PS4 or Xbox one?").
+att(13219, root).
+
+arg(13197).
+text(13197, computers are surperior to both due to the fact that among other things, they have more games and you don't have to pay to play online ).
+att(13197, root).
+

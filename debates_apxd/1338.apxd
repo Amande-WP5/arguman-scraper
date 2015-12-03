@@ -1,0 +1,73 @@
+arg(root).
+text(root, It is worth to finish this school).
+
+arg(6749).
+text(6749, I was raised in a society that told me if I didn't go to college I would work fast food for the rest of my life.).
+support(6749, root).
+
+arg(7036).
+text(7036, Given one's intelligence and fortitude, school may not be necessary. There are plenty of successful entrepreneurs to follow.).
+att(7036, root).
+
+arg(6763).
+text(6763, School is a great place to try completely different subjects and get a hint of what we enjoy doing. Plus it is a great place to make friends and that is enjoyable.).
+att(6763, root).
+
+arg(5772).
+text(5772, it will probably give me more job opportunities
+).
+support(5772, root).
+
+arg(5773).
+text(5773, it will result into higher pay in the future).
+support(5773, root).
+
+arg(5776).
+text(5776, i have already started and dropping out would mean a year of not doing anything).
+support(5776, root).
+
+arg(5777).
+text(5777, Mental health and mental state is important in getting job opportunities, so both should be taken into account).
+att(5777, 5772).
+
+arg(6770).
+text(6770, Just because you are told something doesn't make it true.).
+att(6770, root).
+
+arg(5785).
+text(5785, i do not enjoy doing it ).
+att(5785, root).
+
+arg(5786).
+text(5786, i am not particularly interested in the subject).
+att(5786, root).
+
+arg(5788).
+text(5788, it will be extremely difficult for me to actually finish ).
+att(5788, root).
+
+arg(5789).
+text(5789, if you are absolutely sure you will never need anything you learned at that school again, or that you will never need the degree that you will receive, you could consider dropping out of this school
+).
+att(5789, root).
+
+arg(5792).
+text(5792, if you need/want the degree, it is worth trying).
+att(5792, 5788).
+
+arg(5795).
+text(5795, you doubt your own qualities).
+support(5795, 5788).
+
+arg(5889).
+text(5889, That year is a sunk cost either way.).
+att(5889, 5776).
+
+arg(6714).
+text(6714, It's possible you won't work in the field you're going to school for, so you might not earn more.).
+att(6714, 5773).
+
+arg(6715).
+text(6715, Enjoying what you do has value too.).
+att(6715, 5773).
+

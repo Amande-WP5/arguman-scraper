@@ -1,0 +1,60 @@
+arg(root).
+text(root, humans should incorporate insects into our normal diet.).
+
+arg(5575).
+text(5575, Insects contain high quality protein, vitamins, and amino acids.
+).
+support(5575, root).
+
+arg(5578).
+text(5578, Insects have a high food conversion rate, meaning less food to produce the same amount of protein as compared to traditional livestock.).
+support(5578, root).
+
+arg(5590).
+text(5590, changing the perception of what is edible/ not edible may take several generations).
+att(5590, root).
+
+arg(5597).
+text(5597, Insects may add a huge variety to traditional cuisines).
+support(5597, root).
+
+arg(5721).
+text(5721, Because nowadays it is easy to prepare food such that the ingredients are unrecognizable.).
+support(5721, root).
+
+arg(5602).
+text(5602, Steps can be made to slowly incorporate the idea and make it appealing over time. ).
+att(5602, 5590).
+
+arg(5603).
+text(5603, Humans generaly reject change).
+support(5603, 5590).
+
+arg(5605).
+text(5605, Many cultures already use insects as food as well as many ancient cultures (such as Ancient Rome), and it would not take long to develop ways to process these insects into more palatable meals for westerners.).
+att(5605, 5590).
+
+arg(5611).
+text(5611, wild insects can be toxic to humans, because they may have been exposed to insecticides and spores.).
+att(5611, root).
+
+arg(5612).
+text(5612, It depends on how they're prepared. Eaten raw, insects are known transmitters of parasites between animals (filarial, heart, horsehair worms). While this is much less likely as well, some carry diseases.).
+att(5612, root).
+
+arg(5624).
+text(5624, This is irrelevant as most food eaten by humans is prepared and cooked so it is safe to eat. Many animals get parasites that are harmful to humans, but cooking the meat makes it safe to east.).
+att(5624, 5612).
+
+arg(6979).
+text(6979, In the case of an apocalypse, eating insects for nutritional purposes would be easier. ).
+support(6979, root).
+
+arg(5644).
+text(5644, We would most likely cultivate insects in farms, and not hunt wild insects.).
+att(5644, 5611).
+
+arg(6591).
+text(6591, Many humans already do.).
+support(6591, root).
+

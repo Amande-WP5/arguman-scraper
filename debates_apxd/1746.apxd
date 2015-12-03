@@ -1,0 +1,7 @@
+arg(root).
+text(root, Marijuana should be legalized nationally in the United States, just as it is already in Colorado.).
+
+arg(10221).
+text(10221, it would clear up jail space and generate more tax revenue to spend on other things like education  ).
+support(10221, root).
+

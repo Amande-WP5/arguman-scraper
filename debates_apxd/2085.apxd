@@ -1,0 +1,37 @@
+arg(root).
+text(root, Ethnic diversity reduces social solidarity and diminishes social capital).
+
+arg(15306).
+text(15306, Original prem. concerns _ethnic_ diversity; nothing prevents ethnically diverse people from sharing a broad _cultural_ background. One's culture needn't be defined by one's ethnicity.
+
+Eg: Mauritius.  Tensions linked to _social_ issues in otherwise VERY multi-ethnic and peaceful society.).
+att(15306, root).
+
+arg(15151).
+text(15151, Ethnic homogeneity correlates with strong democracy.).
+support(15151, root).
+
+arg(13750).
+text(13750, Diversity reduces charity and volunteering. ).
+support(13750, root).
+
+arg(13748).
+text(13748, Ethnic diversity reduces concern for the environment.).
+support(13748, root).
+
+arg(13743).
+text(13743, demographic homogeneity has often been linked with higher levels of trust, social cohesion, and belongingness typically thought to compose sense of community).
+support(13743, root).
+
+arg(13862).
+text(13862, in the long run, there are many benefits of diversity.).
+att(13862, root).
+
+arg(13749).
+text(13749, The lack of a common unified culture means people can only relate to people based on universal values. People often mistakenly project their cultural beliefs onto other people as universal values, taking them for granted. It leaves only our most basic instincts to relate to people with.).
+support(13749, root).
+
+arg(13831).
+text(13831, In nature, diversity is a sign of health and strength. We strive to keep biological habitats diverse for this reason. When diversity is lacking the ecosystem suffers as disease causes more damage. Since humans are part of the natural world, diversity is also health and strength for communities.).
+att(13831, root).
+

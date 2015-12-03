@@ -1,0 +1,47 @@
+arg(root).
+text(root, If accused of a crime or offense you did not do it is smart to confess if doing so minimizes the consequence).
+
+arg(9963).
+text(9963, This does not make it right, and any system where this holds true should be either abolished or fixed.).
+att(9963, root).
+
+arg(9985).
+text(9985, It's up to the prosecutor as to what charges will be brought against you. Being open and honest could implicate you with even more charges. The best policy is to say nothing.).
+att(9985, root).
+
+arg(9986).
+text(9986, That pertains to any time between the arrest and before you go to your arraignment. If your lawyer advises you to confess in court, then you should probably do it.).
+att(9986, 9985).
+
+arg(9993).
+text(9993, One should never lie on a court.).
+att(9993, root).
+
+arg(9518).
+text(9518, Viewed on a systemic level, everyone acting this way would give false-accusers a great deal of power.).
+att(9518, root).
+
+arg(9322).
+text(9322, you could easily fall into the trap of false confession, and the real criminal could possibly get away with it.).
+att(9322, root).
+
+arg(10178).
+text(10178, A lie in court is illegal; is that not a net increase in harm?).
+att(10178, root).
+
+arg(10111).
+text(10111, (assuming you meant "lie in a court"): What if the net result of the truth is greater harm than the lie?).
+att(10111, 9993).
+
+arg(10180).
+text(10180, However, if you do so, is it acceptable to deny the offense in other settings?).
+att(10180, root).
+
+arg(10114).
+text(10114, Your assumption is that you will know the final outcome of the consequences. There is no way to fully know the future repercussions of admitting to a crime which you did not commit. Since committing a crime is a known negative value, the rational course would be to not confess to a false charge.).
+att(10114, root).
+
+arg(10072).
+text(10072, This is an advice a lawyer will give you, simply because the evidence against you is too overwhelming, and fighting for your innocence will most likely result in a harsher sentence.).
+support(10072, root).
+

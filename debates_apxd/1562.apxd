@@ -1,0 +1,7 @@
+arg(root).
+text(root, Drug addiction is a disease ).
+
+arg(8294).
+text(8294, Clinical research reveals that some individuals may be more vulnerable to drug dependence than others due to genetic and developmental risk factors.).
+support(8294, root).
+

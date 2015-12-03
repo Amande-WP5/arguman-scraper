@@ -1,0 +1,7 @@
+arg(root).
+text(root, Today's feminism should have no role in first world countries).
+
+arg(8203).
+text(8203, Feminism focus on empowering women. The true cause that should be supported is Gender Equality.).
+support(8203, root).
+

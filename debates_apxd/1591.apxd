@@ -1,0 +1,35 @@
+arg(root).
+text(root, The U.S. Supreme Court's decision in Citizens United v. Federal Election Commission ought to be overturned. ).
+
+arg(8561).
+text(8561, The first amendment guarantees freedom of political speech).
+att(8561, root).
+
+arg(9196).
+text(9196, Virtually every society in human existence has an oligarchy with a concentration of wealth and power. USA had an oligarchy before Citizens United, and it will have one even if it is overturned.).
+att(9196, root).
+
+arg(9201).
+text(9201, The Constitution IS the authority. SCOTUS exists to rule by the Constitution, not its own whim or public opinion.).
+support(9201, 8561).
+
+arg(9211).
+text(9211, Their interpretation of the Constitution is ever-changing; and the Constitution is not set in stone. Amendments are always a possibility, so that was an appeal to authority, because it has no bearing on whether the ruling SHOULD be overturned. If you believe in democracy, then it has to go.).
+att(9211, 9201).
+
+arg(9216).
+text(9216, That's an appeal to tradition and an appeal to common practice. The fact that it's the norm and has been that way for a long time has no logical hold on the issue.).
+att(9216, 9196).
+
+arg(9235).
+text(9235, Freedom of political speech does not assume a weighted freedom, based on wealth. This is equivalent to buying more votes, which actually detracts from other citizens' freedom of political speech. ).
+att(9235, 8561).
+
+arg(8918).
+text(8918, Regardless of whether or not campaign funds can qualify as free speech, wealth also equals power; and the ruling thus transforms our nation from a democracy to a oligarchical plutocracy. ).
+support(8918, root).
+
+arg(9254).
+text(9254, Not just votes, but it also robs voters of any influence. It makes your vote empty in effect. The will of the people becomes nothing to the will of a few oligarchs.).
+support(9254, 9235).
+

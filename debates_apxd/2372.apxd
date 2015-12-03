@@ -1,0 +1,11 @@
+arg(root).
+text(root, The mere idea of a caliphate, or religious state, is inherently fascist. Especially, when considering the fact that a majority of Muslims both favor Sharia law and the establishment of a single, vast Islamic state.).
+
+arg(16005).
+text(16005, You might just be racist).
+att(16005, root).
+
+arg(15846).
+text(15846, It would likely be a state typified by fascist characteristics, such as: nationalism, racism, scapegoating, human rights violations, militarism, sexism, propaganda, religious/political overlap, a ruling elite, anti-democracy, and anti-intellectualism.).
+support(15846, root).
+

@@ -1,0 +1,12 @@
+arg(root).
+text(root, Fallacies don't always imply an argument is wrong.).
+
+arg(13439).
+text(13439, Fallacious arguments can arrive at correct conclusions; arguing that a conclusion must be false because its supporting argument contains a fallacy is itself a logical fallacy known as "argument from fallacy".).
+support(13439, root).
+
+arg(13429).
+text(13429, It does invalidate the line of reasoning, and to some extent the argument one is making.
+One can be correct while not arguing well at all. And arguing well is the point of this website - not just being right.).
+att(13429, root).
+

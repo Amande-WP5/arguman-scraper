@@ -1,0 +1,455 @@
+arg(root).
+text(root, a) Jesus Christ was a real person; b) Jesus Christ rose from the dead.).
+
+arg(13551).
+text(13551, How so? Most modern historians do consider this as proof of his existence. Please enunciate. ).
+att(13551, root).
+
+arg(13019).
+text(13019, The book is evidence, which may be deemed to 'proove' the premise.).
+att(13019, root).
+
+arg(13021).
+text(13021, Eye-witness accounts are still considered strong evidence even today).
+att(13021, root).
+
+arg(12633).
+text(12633, That is hearsay. It requires faith to believe.).
+att(12633, root).
+
+arg(12828).
+text(12828, You're right that we can't prove a negative. But really it's hard to "prove" anything. I believe we should consider something untrue until we look at the evidence and then make a statement about the probability. There's no claim or evidence that Elvis rose from the dead, so it's unlikely.).
+att(12828, root).
+
+arg(12830).
+text(12830, All we can really do is make decisions about the likelihood of things. Science being against Jesus, we start out extremely skeptical. So now, let's look at any historical sources that exist. Arriving at "no decision", "unlikely", "likely", or even "mysterious" are all fine if we did it thoroughly.).
+support(12830, 12828).
+
+arg(12642).
+text(12642, "There is "near universal consensus" among scholars that Jesus existed historically" From wikipedia concerning argument a.).
+support(12642, root).
+
+arg(12832).
+text(12832, By that logic there is also no proof that Zeus did not exist. You cannot prove a negative.).
+att(12832, root).
+
+arg(12833).
+text(12833, All evidence points to all people eventually dying. To claim that one person did not die would require a strong foundation of evidence. The claim provides none, save for hearsay.).
+att(12833, root).
+
+arg(12842).
+text(12842, False. There is an entire body of evidence and testimonials from people claiming Elvis rose from the dead.).
+att(12842, 12828).
+
+arg(12843).
+text(12843, The book only claims it, but doesn't prove it.).
+att(12843, root).
+
+arg(12848).
+text(12848, Fallacy of burden of proof. We have obvious reason to believe that people just die after death (duh). If YOU want to prove that people might rise after death, it is YOU that has to provide substantial proof for this claim.).
+att(12848, root).
+
+arg(12956).
+text(12956, Correct, and that's exactly what the "Appeal to Consensus" and "Appeal to Belief" fallacies state.
+
+Realize that this doesn't suggest we shouldn't believe that these people existed. It only suggests that you can't PROVE a person existed simply by showing that most believe it.).
+att(12956, root).
+
+arg(12962).
+text(12962, Of course we can only say it's likely. But then we can only say anything from the past likely happened or didn't, and can't actually know for sure. There is more evidence for many events and people than there is for Jesus but the experts, knowing that, apparently still think there's enough.).
+att(12962, root).
+
+arg(12853).
+text(12853, To rephrase, all evidence points to all persons dying "completely", and never becoming alive again.).
+att(12853, root).
+
+arg(12963).
+text(12963, This isn't about showing that "most *believe* it." People with Ph.Ds, using critical thinking skills, have arrived at the conclusion that he likely lived, in the same way they arrived @ the conclusion Genghis Khan, Cleopatra, and thousands of others lived. Do you not believe other historical claims?).
+att(12963, 12956).
+
+arg(12957).
+text(12957, No one is questioning the value of experts. There is a big difference between saying "consensus among experts suggests it is likely correct" and "something is provably correct because of experts". Formal proofs can be really annoying that way ;)).
+att(12957, root).
+
+arg(12856).
+text(12856, I am not currently aware of any strong evidence showing anyone has ever come back to life from death. If you have counter-evidence, yes, I would of course be open to considering it (if anything, for selfish purposes :).).
+att(12856, root).
+
+arg(12964).
+text(12964, It's impossible to reason out the existence of Jesus using nothing but logic mechanisms and no external evidence. Everything is consensus. Science is consensus. I believe global warming is real because there's overwhelming consensus, but I haven't tested the atmosphere myself. Do you see my point?).
+support(12964, 12963).
+
+arg(12858).
+text(12858, Wouldn't it be true that before Jesus's birth, all available evidence would have supported the proposition that all people die and do not come back to life?).
+att(12858, root).
+
+arg(12860).
+text(12860, We are currently trying to determine if there is any strong evidence showing Jesus came back to life.
+
+You're using circular reasoning. You're saying Jesus didn't come back to life because there's no evidence any person has ever done that, but this topic is about finding evidence of it, w/ Jesus.).
+att(12860, 12856).
+
+arg(13054).
+text(13054, We can discuss that, but since it deviates from your root premise "Historians agree Jesus was a real person", it should be in a different branch of the argument map.).
+att(13054, root).
+
+arg(13140).
+text(13140, This does not prove any of Jesus' or his follower's claims. That is because Jesus (as recorded by his followers decades later in the Gospels) asserted that he is God, which is idolatry. The Torah demands we reject all alleged prophets that violate the Torah.).
+att(13140, root).
+
+arg(13419).
+text(13419, Video footage is typically easy to fake using low-tech techniques such as optical illusions or certain angles or high-tech special effects.  Therefore, a video, even from multiple angles and every moment, would likely not be very convincing to most people.).
+att(13419, root).
+
+arg(13032).
+text(13032, The only evidence that has been supplied is the account provided by the Gospel scriptures. This is not sufficient evidence to accept such an extraordinary claim. There exist no contemporaneous accounts that specifically corroborate the resurrection story. ).
+support(13032, root).
+
+arg(13053).
+text(13053, Correct. In an informal discussion forum, expert evidence is critical. But in a formal logic context, now you're doing math, and math has rules. I'm not sure you can ever capital-P Prove an historical event occurred using formal logic. That's why words like "likely" become critically important.).
+att(13053, 12962).
+
+arg(12968).
+text(12968, The first written reference other than the bible was written around a century later, in passing.).
+att(12968, root).
+
+arg(12969).
+text(12969, Tacitus wasn't a contemporary, and only mentioned it in passing.).
+att(12969, root).
+
+arg(12865).
+text(12865, Your source only looks at evidence for the claim that Elvis' death was faked and he is still alive.  This is different from the claim that he rose from the dead.).
+att(12865, 12842).
+
+arg(12866).
+text(12866, There's plenty of literature from ancient Greece asserting there was a Zeus.).
+att(12866, root).
+
+arg(12867).
+text(12867, Correct, the burden is on the prover. That's why I started this topic: to see how much evidence there is for it. The evidence will be in the form of historical accounts. Was he really crucified? Really put in a tomb? Really found missing? ).
+att(12867, 12848).
+
+arg(12970).
+text(12970, Tacitus mentioned the events in passing, trying to give context for something else. He also wasn't even born until 56 CE.).
+att(12970, root).
+
+arg(12971).
+text(12971, This consensus is formed without any contemporary references. ).
+att(12971, 12642).
+
+arg(12869).
+text(12869, Let's focus on Jesus for now!).
+att(12869, 12866).
+
+arg(12972).
+text(12972, We can't prove that either way because there aren't even contemporary records of his existence.).
+att(12972, 12860).
+
+arg(12870).
+text(12870, Reasons and evidence supporting/rejecting the main contention are branched off of the main premise.  As daft_monk pointed out, this chain has circular reasoning flaws, therefore the primary premises should be addressed above in the proper place.).
+att(12870, 12856).
+
+arg(12871).
+text(12871, This was definitely true, as Jesus' rising completely shocked people (in the gospel of course. I don't know about other historical accounts because I don't know any or if there even are any)).
+att(12871, 12858).
+
+arg(13038).
+text(13038, This is an issue with Arguman as a whole.  Fallacies are often erroneously reported, likely just when someone disagrees and no fallacy exists.).
+att(13038, root).
+
+arg(13039).
+text(13039, What would extraordinary evidence look like to you?  ).
+att(13039, root).
+
+arg(12874).
+text(12874, True. However, my point is that given the arbitrary definitions of them both, we should refrain from the trap of thinking about it as having any equivalency or similarity to Harry Potter or LOTR magic. It would be unknown territory for mankind, sure. But science is too.).
+att(12874, root).
+
+arg(12878).
+text(12878, Let me rephrase. My premise is a question in response to the topic argument: "Do you have evidence showing that Jesus was an exception to the belief that all people die completely?").
+att(12878, 12860).
+
+arg(12881).
+text(12881, A simple request for evidence supporting an extraordinary claim should not be cast as circular reasoning.).
+att(12881, 12860).
+
+arg(12976).
+text(12976, Contemporary sources do not exist for a lot of historical figures that we consider existing in the past. Hannibal and Boudica have no contemporary sources supporting their existence. ).
+att(12976, root).
+
+arg(12889).
+text(12889, Looking at reasons and evidence for the main contention is the whole point of this argument.  Simply stating that no evidence exists (or you aren't aware of any) is not constructive.
+Scroll up, and refer to the "because" premises for evidence supporting the main contention.).
+att(12889, 12881).
+
+arg(12892).
+text(12892, These sources were written 60+ years after the events. Are there more contemporary external sources? If not, then why?).
+att(12892, root).
+
+arg(12897).
+text(12897, Not that I'm aware of.  This may be due to a number of reasons:
+1)Historical record keeping was not as prevalent as it is today (see source), likely due to reliance on oral tradition.
+2)Christianity was not prevalent as it is today, so historians needed to be in the right place at the right time.).
+att(12897, 12892).
+
+arg(12898).
+text(12898, If we're unable to tie "a higher state of being" (whatever that means) to anything evidence-based, we should also refrain from positively supporting the original claim of Jesus's resurrection.).
+att(12898, 12874).
+
+arg(12978).
+text(12978, Contemporary sources are rarer than you think they are. Many historical figures have no contemporary sources backing their existance, the most infamous example being Hannibal.).
+att(12978, 12971).
+
+arg(13084).
+text(13084, Science can't prove historical facts, except to establish consistency between the alleged past and the observable present. "People (in general) can rise from the dead" is a scientific claim. "One specific person rose from the dead once" is a historical claim.).
+att(13084, root).
+
+arg(13026).
+text(13026, There are a number of books, which claim that various people have risen from dead and books which claim that it is not possible.
+
+Are there any reasons, why this particular book and its contents should be accepted as evidence?).
+att(13026, 13019).
+
+arg(13092).
+text(13092, None of that is proof of his existence.).
+att(13092, root).
+
+arg(13077).
+text(13077, Saying that a human being rose from the dead is also a scientific claim, not just a historical one. It is impossible for a person to die and come back to life. If you could prove that it is possible, scientists around the world would praise you. ).
+att(13077, root).
+
+arg(13094).
+text(13094, Even that only shows what the author may have believed to have taken place.  We have no way to evaluate his information except to compare it to what other authors may have believed to have taken place. ).
+att(13094, root).
+
+arg(13055).
+text(13055, I agree. I think there should be limits on how often you can report a fallacy, and when you report, you have to prove the fallacy by summarizing the argument in traditional form, and comparing it to the form of the fallacy.).
+att(13055, 13038).
+
+arg(13189).
+text(13189, This is actually just a question to clarify. Are you saying that Jesus, if he was God, would have been violating a rule laid down in the Torah, and that therefore he can't be true? I haven't read your source yet, but I find that interesting.).
+att(13189, 13140).
+
+arg(13057).
+text(13057, That is textbook "Appeal to Ignorance" (please read source). Lack of evidence for X does not prove or disprove X. The only sound argument you can make is  "Jesus was a person. There is no evidence of a person resurrecting. Therefore there is no evidence of Jesus resurrecting". ).
+att(13057, root).
+
+arg(13056).
+text(13056, This was reported as "Appeal to Belief", but I don't see it. AtB is when it's claimed that most people believe, therefore true. I do see "Appeal to Ignorance", since the argument is "There is no proof that X, therefore X didn't occur". ).
+att(13056, root).
+
+arg(13058).
+text(13058, In small claims court, maybe. Not in science. Extraordinary claims require extraordinary evidence. ).
+att(13058, 13021).
+
+arg(12762).
+text(12762, Consensus does not imply factuality.).
+att(12762, 12642).
+
+arg(12763).
+text(12763, That would imply that any historical figure from far past could be fictional, in a similar vein of mindset, if consensus does not imply fact.).
+att(12763, 12762).
+
+arg(13059).
+text(13059, Eye-witness accounts are still a major factor in the historical method, which is the primary process of studying historical events.  The only science that may apply in this case is archaeology.  The extraordinary assertion that you made is addressed in another premise above.).
+att(13059, 13058).
+
+arg(13061).
+text(13061, I...
+Hannibal Lector wasn't fiction?
+I admit I never really looked or cared, but I always thought he was a fictional character.).
+att(13061, 12978).
+
+arg(12791).
+text(12791, No person, much less Jesus Christ, has ever been proven to have risen from the dead.).
+att(12791, root).
+
+arg(12792).
+text(12792, This would mean magic is real.).
+att(12792, root).
+
+arg(13063).
+text(13063, That would be true, if there is no evidence of a person resurrecting. A question that needs to be answered to progress towards the resolution of this argument is "Is there evidence Jesus resurrected?" We can't use argument proofs s/a set theory; we need to use informal logic.).
+att(13063, 13057).
+
+arg(12795).
+text(12795, A book said he rose from the dead. ).
+support(12795, root).
+
+arg(12800).
+text(12800, To answer your first question: Extra-biblical sources mentioning Jesus were written by historians Josephus and Tacitus. Other sources include the Church fathers, as well as the first-hand testimony of Paul.).
+att(12800, root).
+
+arg(12990).
+text(12990, They may suggest it, but they still can't prove it. Something that some people said 2000 years ago is not proof.).
+att(12990, root).
+
+arg(12801).
+text(12801, a) Extra-biblical sources mentioning Jesus were written by historians Josephus and Tacitus. Other sources include the Church fathers, as well as the first-hand testimony of Paul.).
+support(12801, root).
+
+arg(12802).
+text(12802, This topic isn't about other people. As for Jesus Christ, well, that's exactly what this topic is set to analyze. Let's not jump to a conclusion without arriving there with evidence.).
+att(12802, 12791).
+
+arg(12803).
+text(12803, Not "magic" per say, but a higher state of being, and probably the God of the Bible, if Jesus really said the things he did. Your premise as phrased isn't useful. However you can rephrase to say that all science shows it to be impossible, which is true and relevant, but not proof.).
+att(12803, 12792).
+
+arg(12808).
+text(12808, I trust consensus among experts (if they're non-biased) but let's look at the primary sources ourselves, since we can. I unfortunately don't know what they are and on the internet it's hard to discern trash from true. I'm hoping some people here are more knowledgeable. ).
+att(12808, 12642).
+
+arg(12809).
+text(12809, Just because something is written in a book does not make it true.).
+att(12809, 12795).
+
+arg(12810).
+text(12810, Jesus Christ was a person. If no person has ever been shown to have risen from the dead, then by definition Jesus must necessarily not have risen from the dead.).
+att(12810, 12802).
+
+arg(13065).
+text(13065, However if those accounts were determined to be as reliable as other historical accounts, it would be sufficient evidence to force us to admit to ourselves that something extremely strange happened. And then we might try to find plausible explanations, and if we can't… it remains a mystery.).
+att(13065, root).
+
+arg(12811).
+text(12811, A "higher state of being" could be magic.).
+att(12811, 12803).
+
+arg(12812).
+text(12812, There is no proof that Gods exist.).
+att(12812, 12803).
+
+arg(12814).
+text(12814, You can't prove a negative. For example, you cannot prove that Elvis did not also rise from the dead.).
+att(12814, 12803).
+
+arg(13111).
+text(13111, Have you never heard of the Carthagian general?).
+att(13111, 13061).
+
+arg(13064).
+text(13064, The necessity of "faith in the unprovable" within Christianity mean if Jesus is the son of God it would be appropriate that his resurrection has unprovable. Lack of proof that he rose from the dead may be a necessary consequence him being the son of God. It it was proven, it wouldn't require faith.).
+att(13064, root).
+
+arg(12955).
+text(12955, "Appeal to Force" (threats of violence if someone disagrees) was reported above, but I don't see it anywhere.).
+att(12955, 12642).
+
+arg(12824).
+text(12824, Your logic is flawed. It's never been proven that someone has risen from the dead, but it also hasn't been proven that no person has risen from the dead.
+).
+att(12824, 12810).
+
+arg(12826).
+text(12826, But it could not be. Therefore the statement that "it would mean magic is real" is false. Besides, "magic" is a subjective term. ).
+att(12826, 12811).
+
+arg(13420).
+text(13420, This question comes down to how Christianity and Judaism view Jesus, with the former viewing him as fulfillment to the Torah and Judaism, and the latter as un-fulfilling which would indicate a false prophet or idolatry.  ).
+att(13420, 13189).
+
+arg(12975).
+text(12975, Historians believe that Tacitus is a reliable source, because Tacitus called Christianity "a most mischievous superstition." This suggests that he is biased against Christianity, yet he writes about Christus being crucified under Pontius Pilate.).
+att(12975, 12970).
+
+arg(12625).
+text(12625, Is there any reliable historical evidence for his existence? If we can establish there is, is there any reliable historical evidence for his rising? (Don't define it as unreliable because it speaks of something we believe to be impossible; analyze the sources in their own merit).).
+att(12625, root).
+
+arg(13050).
+text(13050, You're right. I didn't post the argument intending the title to represent my POV, because it doesn't. 
+
+Moving onto the next step, can it be proven that *it's likely that* "Jesus was crucified and put in a tomb" and "Jesus was later found to be missing from said tomb"?).
+support(13050, root).
+
+arg(13027).
+text(13027, I agree. It's impossible to logically prove the premise "Jesus Christ was a real person". It shouldn't have been posted with that wording. You CAN prove "Christ likely existed" since informal logic allows for inductive reasoning which results in either a "strong" or "weak" argument.).
+att(13027, 12964).
+
+arg(12807).
+text(12807, These people are experts. Historians who have likely analyzed hundreds, if not thousands, of claims. Consensus among experts is why science has gotten as far as it has and how we can determine which stories from history are true or myth.).
+att(12807, 12762).
+
+arg(13036).
+text(13036, Even if there were multiple contemporaneous, eye-witness accounts detailing Jesus' resurrection, that still would not be sufficient evidence to prove it.).
+att(13036, 13032).
+
+arg(13041).
+text(13041, The type of evidence that would qualify as sufficient is probably impossible to supply. We would need something like video footage (eg: CCTV) of Jesus from multiple angles covering every moment from his crucifixion to his supposed resurrection. ).
+att(13041, 13039).
+
+arg(13030).
+text(13030, The claim that Jesus rose from the dead is an extraordinary claim. To substantiate this claim, we must be supplied with extraordinary evidence. We have not been supplied with extraordinary evidence.).
+att(13030, root).
+
+arg(12862).
+text(12862, If there is any historical evidence Zeus did exist, then I will notch it down from 100% unlikely to 99%, and maybe eventually analyze it further. Let's stick to Jesus for now. Keep in mind, I'm a non-believer.).
+att(12862, 12832).
+
+arg(12886).
+text(12886, There's no way to prove Jesus was unique other than by an analysis of empirical evidence of supposed events. Instead of saying "we must prove that Jesus was special to prove he rose from the dead", try to find actual historical evidence that he rose from the dead. I think we can't but let's try.).
+att(12886, 12878).
+
+arg(12849).
+text(12849, The resurrection claim actually claims Jesus did die then rose from the dead.
+To claim that "all evidence points" to something, is an impressive claim that you have analyzed all possible evidence.  Are you certain, or are you willing to have an open mind and consider evidence that is new to you?).
+att(12849, 12833).
+
+arg(12840).
+text(12840, "a higher state of being" is vague and also subjective and therefore borders on being arbitrarily equal to or different from magic.).
+att(12840, 12826).
+
+arg(12827).
+text(12827, I agree. I was hoping to be able to analyze the Jesus claim regardless. ).
+att(12827, 12812).
+
+arg(13633).
+text(13633, Josephus's work is a known forgery.
+Tacitus tells the story of a minor cult riot, where a bunch of Christians were anointing themselves (christening) and causing violence and disruption in the street to get executed and become the Christus in a giant "I am Spartacus!" moment.).
+support(13633, 13551).
+
+arg(12804).
+text(12804, It doesn't mean it's not true. Analyze the claim historically in the same way you'd analyze one that's not religious. What textual evidence exists? Which are as reliable as other sources from the day? Do any support each other? Are any events known to have occurred and what are the conclusions?).
+att(12804, 12633).
+
+arg(15821).
+text(15821, There isn't consensus about global warming and science isn't about consensus else the Catholic church were right to condemn Galileo because his claims were extraordinary at the time not part of any consensus.).
+att(15821, 12964).
+
+arg(12805).
+text(12805, b) The reliability of the Gospels can be argued for based on criteria of dissimilarity, embarrassment, multiple attestation, and cultural and historical congruency.  Once accepted as reliable, then the empty tomb, and the events that followed, compellingly suggest that the resurrection happened.).
+support(12805, root).
+
+arg(15822).
+text(15822, So an extraordinary claim then is one for which its not feasible to provide evidence. In which case its illogical to dismiss an extraordinary claim on the grounds there is no evidence.).
+att(15822, 13041).
+
+arg(15823).
+text(15823, There is evidence but the evidence isn't deemed satisfactory by all parties. The Gospel accounts - the most extant of ancient documents - is all that a reasonable person could expect to find when the supposed event took place so long ago.).
+att(15823, 13063).
+
+arg(15854).
+text(15854, Imagine an ancient book telling you that in a certain part of the world you could observe 3 moons. That's different from a claim of the type "the Romans built spas". Written accounts of the latter coming from multiple sources are enough to establish historicity. Much more is required for the moons.).
+att(15854, 13084).
+
+arg(15864).
+text(15864, The evidence required scales to the size of the claim. If you claim that a man who went by the Aramaic name of "Eashoe"  lived 2000 years ago in Jerusalem, then that claim requires very little evidence—a single reference from the period. If your claims aren't physically possible, that burden grows.).
+att(15864, 13039).
+
+arg(15866).
+text(15866, Yeah, but nobody claims that Hannibal was a god who possessed the powers of levitation, bread-transfiguration, wine-to-blood transubstantiation, perfection, and the ability  to heal mortally wounded/diseased people with the touch of his hands. Also, nobody's killed in Hannibal's name for centuries.).
+att(15866, 12976).
+
+arg(15865).
+text(15865, Not 1 book of the NT was written within 20 years of Christ's alleged death. There are no eye witness accounts of a man named Jesus who self-resurrected in the first century. The NT is, at best, a poorly translated collection of 3rd-hand accounts, of unknown authorship, and filled w/ known forgeries.).
+att(15865, 13021).
+
+arg(15877).
+text(15877, Eyewitness account reliability has been questioned since the beginning of the 20th century. It is not considered "strong" evidence.).
+att(15877, 13021).
+
+arg(15886).
+text(15886, Even if a historical 'Jesus' really existed, he may have been far removed from the character depicted in the Bible. The Abraham Lincoln who appears in the Bill and Ted movie never actually existed even though obviously he is based on a real person.).
+att(15886, 13551).
+

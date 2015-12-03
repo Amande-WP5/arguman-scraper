@@ -1,0 +1,23 @@
+arg(root).
+text(root, Transformers are better than Batman).
+
+arg(8989).
+text(8989, Not true.).
+att(8989, root).
+
+arg(8992).
+text(8992, Voltron is even better.).
+att(8992, root).
+
+arg(9000).
+text(9000, Na Na Na Na Na Na Na Na Na Na Na Na Na Na Na Na).
+support(9000, root).
+
+arg(9056).
+text(9056, The batmobile is already better than any transformers...).
+att(9056, 9000).
+
+arg(9065).
+text(9065, this is an opinion).
+att(9065, root).
+

@@ -1,0 +1,84 @@
+arg(root).
+text(root, Donald Trump is the president the U.S deserves).
+
+arg(9071).
+text(9071, not the one it needs right now).
+att(9071, root).
+
+arg(16128).
+text(16128, Yes, and many populist leaders at their times reflected to a great extent the identity of a crisis-ridden ppl, it doesn't matter, the important is that this president won't do any good for the US. He will only isolate it from the rest of the world, and a GeoPol aggressive stance will backfire on US.).
+att(16128, root).
+
+arg(16157).
+text(16157, He will Make America Great again.).
+support(16157, root).
+
+arg(16054).
+text(16054, if they vote for him then the system of democracy is working. ).
+support(16054, root).
+
+arg(15923).
+text(15923, He only sounds good to the uninformed. He complains about Mexicans? Net immigration from mexico last year was 0. He said i'm going to remove Obama care and replace it with "something terrific" wow such policy much president. All he says is words and half of them don't make sense to any thinking man.).
+att(15923, root).
+
+arg(15922).
+text(15922, He did explain why america doesn't deserve Donald in the first statement. You simply can't understand for some reason. No president should be against science, and we simply don't have the space to justify or explain to you such a basic statement. ).
+att(15922, root).
+
+arg(15903).
+text(15903, 1) The U.S. president can be considered the figurehead or "face" of America. Trump is not a suitable person to represent a whole country.
+2) A country should not be run as a business, and it seems this is his intention. 
+3) His ideas for foreign relations would ruin U.S. ties with other countries.).
+att(15903, root).
+
+arg(15904).
+text(15904, This is not true of a lot of Americans, especially those who value foreign ties and progressive/liberal agendas.).
+att(15904, root).
+
+arg(8878).
+text(8878, Trump proves to be a science denier (anti-vax, anti climate change) which is a bad start for a president. Also, a president who thinks that mexican immigrants all want to rape american women is not what america wants.).
+att(8878, root).
+
+arg(8965).
+text(8965, I said that he could be detrimental, which then again is not what america deserves. I never used the word need, therefore making this argument about wordplay.).
+att(8965, root).
+
+arg(8876).
+text(8876, He embodies the spirit of the american people.
+
+
+).
+support(8876, root).
+
+arg(8879).
+text(8879, This is not mutually exclusive with the majority of the american peoples 'world view').
+att(8879, 8878).
+
+arg(8880).
+text(8880, While true in some sort (because some people support him) he still has a strong opposition).
+att(8880, 8876).
+
+arg(8882).
+text(8882, Just because a fair amount of people share his views, that does not make his opinions more valid. His opinions and behaviour can still be seen as detrimental for the country, which in conclusion would not be what america deserves.).
+att(8882, 8879).
+
+arg(8963).
+text(8963, That conclusion only implies he's not the president the americans need, it does not mean that he's not the one they deserve.).
+att(8963, 8882).
+
+arg(9082).
+text(9082, You haven't made a case for why america doesn't deserve this and so saying he's detrimental as a basis for why they don't deserve him is meaningless unless you can prove they deserve better.).
+att(9082, 8965).
+
+arg(9086).
+text(9086, considering the statement is that the people deserve Trump the debate/discussion that follows should be wether or not the american people deserve the effects of Trump as president and not on what does effects are.).
+att(9086, 9082).
+
+arg(8964).
+text(8964, Many may oppose him for various reasons but the amount of shared characteristics with Trump and the majority of the US population suggests he does to a great extent reflect the identity of the people ).
+att(8964, 8880).
+
+arg(14204).
+text(14204, that's not good for America. ).
+att(14204, 8964).
+

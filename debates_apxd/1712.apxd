@@ -1,0 +1,51 @@
+arg(root).
+text(root, There should be only one Takbir in Salah).
+
+arg(9770).
+text(9770, of the following Hadith:).
+support(9770, root).
+
+arg(9777).
+text(9777, of the following Hadith:).
+support(9777, root).
+
+arg(9759).
+text(9759, of the following Hadith:).
+support(9759, root).
+
+arg(9760).
+text(9760, There should be three Takbirs within one Raka'at).
+att(9760, root).
+
+arg(9765).
+text(9765, of the following Hadith:).
+support(9765, root).
+
+arg(9775).
+text(9775, of the following Hadith:).
+support(9775, root).
+
+arg(9779).
+text(9779, The hadeeth of al-Baraa’ was classed as da’eef by Sufyaan ibn ‘Uyaynah, al-Shaafa’i, al-Humaydi the shaykh of al-Bukhaari, Ahmad ibn Hanbal, Yahya ibn Ma’een, al-Daarimi, al-Bukhaari, and others. ).
+att(9779, 9775).
+
+arg(9782).
+text(9782, The hadeeth of Ibn Mas’ood was classed as da’eef by ‘Abd-Allaah ibn al-Mubaarak, Ahmad ibn Hanbal, al-Bukhaari, al-Bayhaqi, al-Daaraqutni and others. ).
+att(9782, 9777).
+
+arg(9753).
+text(9753, There should be only one Takbir in Salah).
+support(9753, root).
+
+arg(9755).
+text(9755, There should be two Takbirs in Salah.).
+att(9755, root).
+
+arg(9757).
+text(9757, of the following Hadith).
+support(9757, 9760).
+
+arg(9758).
+text(9758, of the following Hadith:).
+support(9758, 9760).
+

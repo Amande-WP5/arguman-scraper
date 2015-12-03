@@ -1,0 +1,7 @@
+arg(root).
+text(root, This world is another planet's hell).
+
+arg(5898).
+text(5898, Since we've never seen that planet...it could definitely be worse!).
+att(5898, root).
+

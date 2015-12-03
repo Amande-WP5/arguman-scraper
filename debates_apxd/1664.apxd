@@ -1,0 +1,17 @@
+arg(root).
+text(root, Websites should post their password requirements on their login pages so we can remember, what we needed to do to a normal password to make it work on their site).
+
+arg(9874).
+text(9874, It WOULD make it easier for a hacker, because brute forcing is way faster and simpler if you know the rules for the password.).
+att(9874, root).
+
+arg(9893).
+text(9893, A hacker nowadays would first try to make an acc to see what the password rules are and then start the hacking
+
+With the clue on the login page he would at maximum have an advantage of a few minutes (so it can be ignored)).
+att(9893, 9874).
+
+arg(9523).
+text(9523, It would help the users but not the ones that try to hack the acc).
+support(9523, root).
+

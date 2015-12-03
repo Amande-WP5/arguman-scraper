@@ -1,0 +1,11 @@
+arg(root).
+text(root, A universal currency would help the economy for now and the future.).
+
+arg(8697).
+text(8697, This would prevent the emergence of competing currencies, and distort local pricing mechanisms since less competitive markets would be forced to invest in an international monetary scheme without the choice of less globally influenced financing.).
+att(8697, root).
+
+arg(8718).
+text(8718, If everyone uses the same currency, there is more incentive for economies to work together and a global economy would lead to unity and further globalization.).
+support(8718, root).
+

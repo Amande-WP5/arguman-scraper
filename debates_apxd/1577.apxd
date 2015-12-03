@@ -1,0 +1,51 @@
+arg(root).
+text(root, Any religious organization should be banned).
+
+arg(8744).
+text(8744, Faith is not scientific, and requires no scientific inquiry. Religious organizations (whether deities exist or not) seek to improve the lives of those who suffer.).
+att(8744, root).
+
+arg(8748).
+text(8748, Most religions have built a culture and community not revolving around a deity.).
+att(8748, root).
+
+arg(8749).
+text(8749, Religious institutions are often corrupted. They promoted/promotes war (every religion), covered child rapes (Christian specialty), instigated religious purges... No religion can claim having clean institutions.).
+support(8749, root).
+
+arg(8364).
+text(8364, Religious organizations (churches / cults etc) i.e. the ones based on human believe or disbelieve in a deity or deities create unnecessary inequality in society which potentially leads to conflicts.).
+support(8364, root).
+
+arg(8368).
+text(8368, Existence or non-existence of a deity is scientifically not provable thus rendering religious discussions and such organizations pointless.).
+support(8368, root).
+
+arg(8384).
+text(8384, To politically threaten violence against self organized groups will threaten and weaken the sanctity of freedom other self organized groups feel. Religious organizations can be crime free and voluntary. Banning them would endanger everyone's freedom.).
+att(8384, root).
+
+arg(8390).
+text(8390, Threatening all religious organizations would lead to conflicts and potential inequality, many are peaceful organizations. Meanwhile the amount of religiosity is in decline worldwide anyways.).
+att(8390, 8364).
+
+arg(8391).
+text(8391, fedoras).
+att(8391, root).
+
+arg(8392).
+text(8392, That which is pointless does not negate my right to do it. ).
+att(8392, 8368).
+
+arg(8404).
+text(8404, It is not pointless to discuss somthing that has not (yet) been proven).
+att(8404, 8368).
+
+arg(8407).
+text(8407, The amount of conflict that would be created by banning religion would far exceed anything in the world now. Most conflict centered around religion is because people feel their faith is threatened, imagine how this would be compounded if every religious person in the world felt this pressure.).
+att(8407, 8364).
+
+arg(8859).
+text(8859, most major religions have developed strong political undercurrents (ie Catholicism/anti-abortion). To support a religion is to allow these undercurrents to continue, even if you don't agree with them yourself. Abolishing religion would move society forwards and away from these prejudices. ).
+support(8859, root).
+

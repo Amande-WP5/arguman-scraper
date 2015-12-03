@@ -1,0 +1,7 @@
+arg(root).
+text(root, People should work on some form of art everyday.).
+
+arg(6083).
+text(6083, Some people who are struggling to survive financially dont have the luxury of time to indulge in art ).
+att(6083, root).
+

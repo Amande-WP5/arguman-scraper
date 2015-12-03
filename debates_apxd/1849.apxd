@@ -1,0 +1,15 @@
+arg(root).
+text(root, Males and females should face the same physical requirements in testing when trying out for positions that require physical strength, such as the army, fire department and police.).
+
+arg(11343).
+text(11343, the requirements are there for a reason, and all people who apply for such jobs should fit those requirements to fufill those reasons.).
+support(11343, root).
+
+arg(11359).
+text(11359, Care should be taken to make sure the physical tests do not deny someone who can perform in the job.).
+att(11359, root).
+
+arg(11642).
+text(11642, Political correctness should not come in the way of safety ).
+support(11642, root).
+

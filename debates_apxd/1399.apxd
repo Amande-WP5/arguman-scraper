@@ -1,0 +1,7 @@
+arg(root).
+text(root, Report Fallacy does not mean "I disagree with you".).
+
+arg(6484).
+text(6484, A fallacy is a failure in reasoning that renders an argument invalid.).
+support(6484, root).
+

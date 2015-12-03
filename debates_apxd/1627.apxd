@@ -1,0 +1,31 @@
+arg(root).
+text(root, Reddit shouldn't have a voting system.).
+
+arg(8890).
+text(8890, It would be difficult to separate posts with some quality from spam, especially in popular subreddits.).
+att(8890, root).
+
+arg(8894).
+text(8894, Not agreeing with the most popular opinion on reddit is considered Spam by a majority of the community.).
+att(8894, 8890).
+
+arg(9008).
+text(9008, However, the downvote should be removed because it leads to censorship based on consensus fallacies. Just because you don't like hearing something, doesn't make it wrong or unworthy of being heard.).
+att(9008, root).
+
+arg(9058).
+text(9058, shouldn't that mean instead, we should teach Reddit how to be respectful of other opinions?).
+att(9058, 8894).
+
+arg(9061).
+text(9061, the voting system is one of the trademark features of Reddit, without it we would be getting a near impossible to keep up with constant feed of low quality posts.).
+att(9061, root).
+
+arg(9091).
+text(9091, A voting system supports popular opinions, not the quality of the delivered content.).
+support(9091, root).
+
+arg(9105).
+text(9105, Quality of content is subjective and unmeasurable.Only Alternative would be a selected team of moderators, but they aren't impeccable either.  ).
+att(9105, 9091).
+

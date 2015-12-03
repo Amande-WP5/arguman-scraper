@@ -1,0 +1,7 @@
+arg(root).
+text(root, Cosmetic microtransactions are not bad.).
+
+arg(8735).
+text(8735, They don't negatively affect gameplay and can add aesthetic variety between players.).
+support(8735, root).
+

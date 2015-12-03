@@ -1,0 +1,63 @@
+arg(root).
+text(root, If we assume it is possible to simulate a universe. A piece of hardware with just enough power to simulate one universe will eventually be simulating an infinite amount of them, through more of these machines being built inside of the simulated universes.).
+
+arg(14302).
+text(14302, It should be infinite power).
+att(14302, root).
+
+arg(14474).
+text(14474, Since this is a quantum computer we are talking about, the amount of power required would only have to be enough to simulate one universe. In the simulated universe, those being simulated would have to have enough power to simulate another universe in a quantum computer. The result being that each).
+att(14474, root).
+
+arg(14329).
+text(14329, The idea of a computer being only powerful enough to barely simulate one universe but in doing this simulate infinite is self denying.).
+att(14329, root).
+
+arg(14486).
+text(14486, (*) most of these particles whould be used to save the positions of the particles of the simsimulaton but some of them have to be used to create the "rules" of the simsimulated universe).
+support(14486, root).
+
+arg(14487).
+text(14487, I'd say there is a difference between "an universe" and "the universe"
+"the universe" is where we live in
+and "an universe" can be variable in size and other atributes).
+att(14487, root).
+
+arg(14428).
+text(14428, Could you please explain why this needs to be true?).
+att(14428, root).
+
+arg(14352).
+text(14352, The stimulated universe has to be smaller than the universe so you have a finite amount of universe in universes until one universe gets to small to stimulate an universe).
+att(14352, root).
+
+arg(14353).
+text(14353, Each simulations will have to be more simple than what simulate it.
+At the end it will be too simple to simulate anything, and then this will result in a finite number of simulations.).
+att(14353, root).
+
+arg(14567).
+text(14567, Computers can't run evaluations on infinity- because it can't be represented.).
+att(14567, root).
+
+arg(14303).
+text(14303, Yes, that is implied as well. Although it doesn't affect the prior points validity.).
+att(14303, 14302).
+
+arg(14328).
+text(14328, It can be assumed that if it is a perfect simulation of our universe, then the quantum computer that was created in the original universe would eventually be created in the simulated universe causing a sort of cascading effect of infinite simulated universes.).
+support(14328, root).
+
+arg(14324).
+text(14324, it can simulate approximately. According to wikipedia, "...  the use of simplifying approximations and assumptions within the simulation ..." Therefore it's not true that the hardware needs to have infinite power.).
+att(14324, 14302).
+
+arg(14304).
+text(14304, Maybe the proper form of the idea you're raising is that if a computer is able to simulate itself to a tee and a bit more then we can have infinite processing power by using all of those little bits of excess power.).
+att(14304, 14302).
+
+arg(14485).
+text(14485, in a simulation of an universe i need to save every position of every particle and additionally the rules how they interact (e.g. the speed of light or two electrons push each other)
+the biggers computer inside the simulation would be made by all particles of the simulated universe (*)).
+support(14485, 14428).
+

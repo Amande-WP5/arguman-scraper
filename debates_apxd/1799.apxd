@@ -1,0 +1,108 @@
+arg(root).
+text(root, Earth is a common, everyone has the right to receive a share of its riches).
+
+arg(11319).
+text(11319, Animals can exercise the right of being free, having food, water and other resources. Just because they would not understand that they have a right to it, wouldn't make it fair to take it away from them.).
+att(11319, root).
+
+arg(11322).
+text(11322, Only humans can define rights and humans decide the rights of animals. Humans generally prefer the rights of humans above animals. When defining the right in the question, we generally refer to humanity's right here, not animals.).
+att(11322, root).
+
+arg(11377).
+text(11377, Since "everyone" is commonly defined as "every person", your assertion that "sharing with everyone" implies "sharing with animals" only makes sense if you consider animals to be people.).
+att(11377, root).
+
+arg(11296).
+text(11296, If Earth isn't a common, then who does it belong to? Nobody? God? Whoever can defend their piece of it?).
+att(11296, root).
+
+arg(11646).
+text(11646, You're not arguing against the original premise, you're proposing that it should be understood as including animals and not only humans.).
+att(11646, root).
+
+arg(11266).
+text(11266, Animals in general can exercise their right to food, water and land. So at least these three resources should be divided equally, as animals can use them.).
+att(11266, root).
+
+arg(11268).
+text(11268, earth riches belong to earth, not people).
+support(11268, root).
+
+arg(10838).
+text(10838, Only if animals are considered to be people and treated equally to humans.).
+att(10838, root).
+
+arg(11273).
+text(11273, Put crudely, why? Rights are not universal absolutes, they are the result of societies. Rights are created when society decides upon them. Why would society want to reward everyone equally, when not everyone contributes equally to society? ).
+att(11273, root).
+
+arg(11300).
+text(11300, Rights are not rewards, e.g. you don't earn the right to free speech, you have it from birth to death.).
+att(11300, 11273).
+
+arg(11318).
+text(11318, "Everyone" is presumably referring to humans. This was a question about how humans should divide resources on Earth.).
+att(11318, root).
+
+arg(11320).
+text(11320, "Only if animals are considered to be people" Who established the rule that they have to be considered people? You set up this rule yourself. If we ruled that animals have a right to earth resources, we would have to share it with every other animal (because we are animals ourself too).).
+att(11320, 10838).
+
+arg(11550).
+text(11550, The question is about the fairness of dividing earths shares between humans. I argue that it is not. Just because humans place their rights above the animals it doesn't make it a fair thing.).
+att(11550, 11322).
+
+arg(11814).
+text(11814, But all jobs aren't equal. Why should a person who spent 30 years of his life training to become a doctor get the same things that a person who heats food in microwaves does.
+This will greatly reduce the incentive to do risky, unwanted, and hard jobs).
+att(11814, root).
+
+arg(10753).
+text(10753, divided among who ? Only humans? By this logic, what legitimates the fact that earth's resources should be divided only among humans ?).
+att(10753, root).
+
+arg(10765).
+text(10765, We would then have to share our world with animals proportionally.).
+att(10765, root).
+
+arg(11858).
+text(11858, This discussion isn't about jobs. The right to a share of the Earth's riches doesn't imply wage equality.).
+att(11858, 11814).
+
+arg(12525).
+text(12525, The definition of earth's riches needs to be defined. Water, of course, and vegetables, but animals? Trees and plants? Do people living in the desert have the right to live somewhere where they can grow crops? Who implements this? All these and more are tough questions.).
+att(12525, root).
+
+arg(11875).
+text(11875, Even if this definition is correct, it does not answer the original question, but rather forces it to be rephrased as "Is the access to Earth's riches a right or a reward?").
+att(11875, 11300).
+
+arg(10879).
+text(10879, Where is it established that only humans have legit right to earth's resources ? First you have to define what gives a living being this right. ).
+att(10879, 10838).
+
+arg(11117).
+text(11117, It would be meaningless to grant a right to beings who cannot exercise it.).
+att(11117, 10879).
+
+arg(12384).
+text(12384, If that were the case that everything was equally distributed. Society would stand still. No body would get fairly rewarded for their efforts, whether their efforts were big or small. You could be an architect or a street sweeper get the same amount of "riches".).
+support(12384, 11858).
+
+arg(11363).
+text(11363, The point I was referring to, as stated in my last question, was what legitimates that humans have right to earth but animals don't. If I made this question is because I undestood what you stated, or I woudn't have asked "..resources should be divided only among humans?".).
+att(11363, 11318).
+
+arg(11779).
+text(11779, I argued against the question on your parent statement, you can read it. Also, I didn't say that the question should be UNDERSTOOD as including animals and humans anywhere in this board. ).
+att(11779, 11646).
+
+arg(12527).
+text(12527, We can possibly nullify this problem by granting everyone access to the earth's riches produced in their city, state, region, or locality. It would be a tricky line drawing situation but overall, a positive move. Still though, I don't know what we can do to help those in the desert!).
+att(12527, 12525).
+
+arg(12524).
+text(12524, Biologically we are all made to live off of the earth. It's essential to our good health. A scientific analysis would say living w/ out access to earth's riches depletes health; therefore the law should consider it a right. We've already made progress towards this point w/ access to clean air.).
+support(12524, root).
+

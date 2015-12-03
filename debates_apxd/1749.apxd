@@ -1,0 +1,37 @@
+arg(root).
+text(root, If guns are legal to carry, so should swords.).
+
+arg(10346).
+text(10346, Where are guns allowed but swords are not? ).
+att(10346, root).
+
+arg(10140).
+text(10140, Guns shouldn't be legal to carry).
+att(10140, root).
+
+arg(10141).
+text(10141, They are.).
+att(10141, 10140).
+
+arg(10534).
+text(10534, That does not necessarily stop you from carrying them.
+
+Pepper spray does not require a license, yet people can carry that. That is a self defense weapon just like a sword.).
+att(10534, root).
+
+arg(10536).
+text(10536, I meant to say that they are illegal to carry, and there is no licence to change that.).
+att(10536, 10534).
+
+arg(10451).
+text(10451, Swords are legal to own in America, but unlike guns, there is no licence to carry them.).
+att(10451, 10346).
+
+arg(14724).
+text(14724, There can be only one. {Chops off your head}).
+att(14724, root).
+
+arg(14726).
+text(14726, It is not a "begging the question" fallacy.).
+att(14726, 10140).
+

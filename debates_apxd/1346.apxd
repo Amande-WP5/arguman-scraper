@@ -1,0 +1,87 @@
+arg(root).
+text(root, The trace amounts of chemicals and "toxins" in vaccines do not cause any more harm to humans than everyday living does).
+
+arg(5891).
+text(5891, MSG is used to prevent changes in the vaccine when it is exposed to light, heat, or humidity and is consumed regularly by humans daily.).
+att(5891, 5872).
+
+arg(6807).
+text(6807, Most people do not have egg alergies. The fact that people  with those alergies are harmed by eggs does not mean that everyone is.).
+att(6807, 5995).
+
+arg(5995).
+text(5995, If the extra protein (egg protein) doesn't hurt anyone, why would the cdc and mayo clinic, all explicitly discourage exposure of patients with severe egg allergies to the MMR, flu, or yellow fever vaccines?).
+att(5995, root).
+
+arg(6079).
+text(6079, Since high levels of thimerosol, and thus mercury, are found in some flu vaccines, provided his cousin (or the driver) were of small enough body mass, significant effects such as partial loss of vision or even mood swings and mental disturbances may occur.).
+att(6079, root).
+
+arg(5919).
+text(5919, Over/improper use of antibiotics have led to a significant increase in multi-resistant bacterial strains such as MRSA, one of the most common and difficult medical complications to treat or recover from.).
+att(5919, root).
+
+arg(5907).
+text(5907, there is also more formaldehyde found in food ingested daily than there is in a years worth of vaccines).
+att(5907, root).
+
+arg(5916).
+text(5916, Adding to your premise, most scientists believe that MSG is completely harmless. The notion of it being a harmful chemical is a myth and should not be taken seriously.).
+support(5916, root).
+
+arg(5922).
+text(5922, Foods that contain MSG typically also contain high levels of sodium that can cause headaches and other health effects so it's still worth keeping a eye out for, as MSG being in a food is a sign that some of the other ingredients might be harmful in high quantities.).
+att(5922, 5916).
+
+arg(5872).
+text(5872, There are 6 mains ingredients in vaccines than many believe cause harm to the human body. Those are aluminium, antibiotics, egg protein, formaldehyde, MSG, and Thimerosal . ).
+support(5872, root).
+
+arg(5873).
+text(5873, Tell that to my cousin. He got a flu vaccine as a kid and then, boom! Hit by a car.).
+att(5873, root).
+
+arg(5876).
+text(5876, Humans are exposed to more aluminum through the air we breathe daily than the vaccines injected into our body once a year).
+att(5876, 5872).
+
+arg(5879).
+text(5879, Antibiotics are helpful to our bodies by stopping the growth of bacteria, and the antibiotics in vaccines are there to prevent the growth of bacteria in the vaccine).
+att(5879, 5872).
+
+arg(5884).
+text(5884, Egg protein, only found in a few vaccines, is used to create the vaccine itself. It is extra protein in our body, and doesn't hurt anyone.).
+att(5884, 5872).
+
+arg(5940).
+text(5940, The notion of MSG itself being harmful is still widely debunked, and the quality of the food it is in is irrelevant when discussing its supposed harmful effects in a vaccine.).
+att(5940, 5922).
+
+arg(5886).
+text(5886, Formaldehyde is used to kill bacteria and other viruses that may have contaminated the vaccine in production, and is often removed before the vaccine is packaged.).
+att(5886, 5872).
+
+arg(5890).
+text(5890, We do not know if your cousin is still alive or if the vaccine given, is to compel people to no longer look both ways crossing the street.).
+att(5890, 5873).
+
+arg(5899).
+text(5899, Thimerosol contains trace amounts of mercury in it, however fish eating populations consume more mercury from the fish than they do in a dose of the vaccine. There are no credible articles that show a link between thimerosol exposure and autism).
+att(5899, 5872).
+
+arg(6822).
+text(6822, There is no possible way that your cousin getting hit by a car and them getting a flu vaccine are in any way related ).
+att(6822, 5873).
+
+arg(6053).
+text(6053, Thimerosol is 50% mercury by weight, more than an insignificant proportion. Additionally, some vaccines such as the multi dose presentation of Afluria contain significant amounts of mercury. Tolerable levels are 30 micrograms/day, this one contains 24.5 micrograms per dose.).
+att(6053, 5899).
+
+arg(6860).
+text(6860, There are two types of mercury, methylmercury and ethylmercury. The first is toxic, the second, not so much. Thimerosol contains ethylmercury. ).
+att(6860, 6053).
+
+arg(6106).
+text(6106, It's quite different to ingest something and have it slowly metabolising in your intestines than to inject it directly into your bloodstream.).
+att(6106, 5899).
+

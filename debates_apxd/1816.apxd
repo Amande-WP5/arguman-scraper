@@ -1,0 +1,148 @@
+arg(root).
+text(root, Free will (the existence of autonomous human decisions made neither predictably nor randomly) is not real.).
+
+arg(16311).
+text(16311, ).
+support(16311, root).
+
+arg(16305).
+text(16305, The problem is not physical, the problem is logic.
+Whatever the world, the two properties of your definition are incoherent. ).
+att(16305, root).
+
+arg(16302).
+text(16302, If there is no necessity, it imply it is not deterministic.
+"the power" and "the ability to act at one's own discretion" seem to imply it is not random. (here i am unsure, the meaning you give to that is not clear).
+Then your definition imply the two properties given by the other definition.).
+att(16302, root).
+
+arg(16297).
+text(16297, Then it is not really decisions, it is just reflexes.).
+att(16297, root).
+
+arg(16296).
+text(16296, We don’t have free will, but we have some control.
+We make choice, and what we want influence the world.
+It is just that our choices are produced by deterministic process.).
+att(16296, root).
+
+arg(16295).
+text(16295, If something is not potentially predictable, then it have no structure/pattern, and then it is random.).
+support(16295, root).
+
+arg(16293).
+text(16293, It mean that a system with free will is non-deterministic, and then there is no distinction to do.).
+att(16293, root).
+
+arg(16151).
+text(16151, How can we distinguish between a decision made randomly and a decision made from free will?).
+att(16151, root).
+
+arg(16150).
+text(16150, Radio active decay is non-determinstic. Therefore physical systems can themselves be non-deterministic. Free will is also non-determinstic therefore free will could be present in some physical systems yet be regarded as simply non-deterministic.).
+att(16150, root).
+
+arg(16149).
+text(16149, Its not possible to observationally distinguish between a non-deterministic system and a system with free will. ).
+att(16149, root).
+
+arg(11478).
+text(11478, The definition of free will is "the power of acting without the constraint of necessity or fate; the ability to act at one's own discretion." - The definition in the title is not correct. ).
+att(11478, root).
+
+arg(11482).
+text(11482, The term 'Free Will' is not what the debate is about. 'Free Will' is just the term they used to encase everything he included in the brackets. Read it again and ignore the term Free Will and the brackets to understand the point.).
+att(11482, 11478).
+
+arg(11481).
+text(11481, We have an impression of having free will.).
+att(11481, root).
+
+arg(11483).
+text(11483, This type of free will still does not exist. We are stuck experiencing first hand our deterministic future with the illusion of control.).
+att(11483, 11478).
+
+arg(10895).
+text(10895, Decisions are entirely governed by physical processes that are either predictable or random.).
+support(10895, root).
+
+arg(10897).
+text(10897, All decisions are made by the mind, which is governed by physical processes.).
+support(10897, 10895).
+
+arg(10898).
+text(10898, Of the two ways of describing physical processes, one (classical physics) is predictable and the other (quantum physics) is random.).
+support(10898, 10895).
+
+arg(10900).
+text(10900, The mind is the behaviour of the brain, which is entirely physical.).
+support(10900, 10897).
+
+arg(10901).
+text(10901, All decisions come from minds.).
+support(10901, 10897).
+
+arg(10904).
+text(10904, Decisions are made either predictably or randomly.).
+support(10904, root).
+
+arg(10906).
+text(10906, Not all decisions come from minds. Some or all decisions come from souls.).
+att(10906, 10901).
+
+arg(10908).
+text(10908, There is no definition of a soul that effectively distinguishes it from the mind.).
+att(10908, 10906).
+
+arg(10910).
+text(10910, There is no basis on which to assert the existence of a non-physical soul.).
+att(10910, root).
+
+arg(10911).
+text(10911, Only physical/natural processes can be shown to exist. Supernatural processes by definition do not exist in nature (which is to say that they do not exist at all - supernaturalness is a meaningless concept).).
+support(10911, 10910).
+
+arg(10915).
+text(10915, Here is the distinction: souls are not physical, whereas the mind is.).
+att(10915, 10908).
+
+arg(10916).
+text(10916, Then decisions must be predictable.).
+att(10916, 10898).
+
+arg(10917).
+text(10917, That violates the definition of free will.).
+att(10917, 10916).
+
+arg(10919).
+text(10919, Then decisions must be random.).
+att(10919, 10898).
+
+arg(10920).
+text(10920, That violates the definition of free will.).
+att(10920, 10919).
+
+arg(10921).
+text(10921, There can be no definition of a soul that makes it neither predictable nor random.).
+att(10921, 10906).
+
+arg(10923).
+text(10923, All phenomena are either predictable or random. No coherent alternative exists.).
+support(10923, 10921).
+
+arg(10931).
+text(10931, Some decisions come from reflexes, bypassing the mind.).
+att(10931, 10901).
+
+arg(10932).
+text(10932, Reflexes are still governed by neural activity, which is predictable.).
+att(10932, 10931).
+
+arg(11326).
+text(11326, That is the premise of the whole argument).
+support(11326, 10920).
+
+arg(11327).
+text(11327, That is the premise of the whole argument).
+support(11327, 10917).
+

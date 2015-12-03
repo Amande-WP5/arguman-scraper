@@ -1,0 +1,11 @@
+arg(root).
+text(root, Arguman should prohibit users from posting messages or points that have already been posted or made clear.).
+
+arg(11783).
+text(11783, the same points can often be used for diffrent conclusions).
+att(11783, root).
+
+arg(11582).
+text(11582, Maybe there should be a better way to flag a repeated argument, or reference another comment tree.).
+att(11582, root).
+

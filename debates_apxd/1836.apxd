@@ -1,0 +1,11 @@
+arg(root).
+text(root, We need a "need more evidence for this premise" option).
+
+arg(11245).
+text(11245, People do a lot of claims with no support added or not enough).
+support(11245, root).
+
+arg(11272).
+text(11272, You need more evidence for this premise).
+att(11272, 11245).
+

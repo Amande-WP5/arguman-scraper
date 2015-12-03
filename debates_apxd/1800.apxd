@@ -1,0 +1,90 @@
+arg(root).
+text(root, Life has no meaning).
+
+arg(11451).
+text(11451, This is not the meaning of life, only the condition that perpetuates life.).
+att(11451, root).
+
+arg(11409).
+text(11409, meaning is subjective and any human being can attribute different meaning to its life, thus each life means something to at least someone).
+att(11409, root).
+
+arg(10764).
+text(10764, I think you are confusing meaning with purpose. If you don't believe in a creator, life has no direct "purpose" but it sure has  a meaning if you look at it from a biological perspective.).
+att(10764, root).
+
+arg(11820).
+text(11820, You're begging the obvious. Looking for meaning is a trait human ancestors evolved throughout millions of years to survive. That's why a healthy adult is always driven by a goal. The Universe doesn't "think", why would you believe that random chance was acting in a grand scheme of things.).
+att(11820, root).
+
+arg(11651).
+text(11651, You don’t need to have the purpose to propagate your DNA to propagate your DNA efficiently, you only need to do what propagate your DNA.).
+att(11651, root).
+
+arg(11658).
+text(11658, What evolutionary perspective are you speaking about, because evolutionary theory don’t say that the meaning of life is to pass on your genes.
+Evolutionary theory explain why most living organisms do it, 
+conclude that it is then the "meaning of life", is a opinion not based on science.).
+att(11658, root).
+
+arg(11659).
+text(11659, It was worded poorly, basically an organism within a population wants to propagate and give the genes to his offsprings, so it's the individuals meaning, not every life form together.).
+att(11659, 11658).
+
+arg(11410).
+text(11410, That's right, the question should be "Life has no single meaning").
+support(11410, root).
+
+arg(11520).
+text(11520, Life with a purpose other than propagation of it's DNA would eventually not propagate its DNA. 
+Therefore the purpose of all existing life is to propagate it's DNA.).
+att(11520, root).
+
+arg(11285).
+text(11285, You do not need a god-given purpose to create change in the lives of yourself and others. In fact, being free of a deterministic destiny means that your actions are more meaningful, because they were the result of your own personal choices, instead of some unchanging pre-determined fate. ).
+att(11285, root).
+
+arg(11452).
+text(11452, We can create our own meaning through aspirations and objectives. ).
+att(11452, root).
+
+arg(10751).
+text(10751, meaning is subjective and any human being can attribute different meaning to its life, since thre isn't a higher entity that could give life a general meaning).
+support(10751, root).
+
+arg(11566).
+text(11566, Existence does not imply a necessary purpose of continuing to exist.).
+att(11566, 11520).
+
+arg(11567).
+text(11567, Evolution does not confer a purpose. That's like trying to define a purpose based on gravity or any other natural or mechanical process.).
+att(11567, root).
+
+arg(10763).
+text(10763, From an evolutionary perspective, the meaning of life is to pass on your genes to your offsprings.).
+att(10763, root).
+
+arg(11573).
+text(11573, He/she didn't said that evolution conferred the purpose. Instead, it was said that the meaning of life is to pass forward genes to perpetuate life, in an evolutionary perspective , that is ,considering only the evolutionary aspect of it.).
+att(11573, 11567).
+
+arg(12314).
+text(12314, Bisognerebbe dimostrarlo).
+att(12314, root).
+
+arg(12315).
+text(12315, should prove).
+support(12315, 12314).
+
+arg(11760).
+text(11760, Yes but assuming that life's purpose is determined and an inherent quality of all life what other purpose could all life have that explains its' continued existence. If life's purpose did not encompass reproduction we would choose to do something else and future generations would not exist.).
+att(11760, 11651).
+
+arg(11639).
+text(11639, I didn't say any of those things.).
+att(11639, 11567).
+
+arg(11641).
+text(11641, We are not talking about the purpose of the existence of life, we are talking about the meaning of life as seen from an evolutionary perspective.).
+att(11641, 11566).
+

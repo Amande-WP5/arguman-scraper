@@ -1,0 +1,67 @@
+arg(root).
+text(root, College students should not have to take courses that have nothing to do with their major.).
+
+arg(7400).
+text(7400, They should take courses that tie into their major. without being directly related.).
+att(7400, root).
+
+arg(8060).
+text(8060, As we can tell from our delightfully educated society that is not true. Education varies across the country pretty drastically and aiming to make someone a better member of society should be a continuous goal. ).
+att(8060, root).
+
+arg(8065).
+text(8065, Colleges are pretty much self-paced. Some have restrictions on how long you can work on a program but a part time student usually just takes longer to finish. ).
+att(8065, root).
+
+arg(7728).
+text(7728, They should have become well-rounded scholars via the liberal arts approach used in high school).
+att(7728, root).
+
+arg(7734).
+text(7734, that doesn't mean that a more relevant and useful career or life related skill couldn't have been learnt whilst still learning these meta skills. ).
+att(7734, root).
+
+arg(8080).
+text(8080, Example: I am taking a Theater Arts Course as it is one of the possible classes that is required for me to Transfer. I am a biology major.).
+support(8080, root).
+
+arg(7603).
+text(7603, What are these courses that have nothing to do with some major?).
+att(7603, root).
+
+arg(7604).
+text(7604, You only addressed one of two points there.).
+att(7604, root).
+
+arg(7315).
+text(7315, a majority of the time the student will never use that information again.).
+support(7315, root).
+
+arg(7325).
+text(7325, However the skills used to attain and learn the information will be used. ).
+att(7325, 7315).
+
+arg(7332).
+text(7332, It is the school's goal to develop well-rounded scholars, not students who are only knowledgeable in one specific topic.).
+att(7332, root).
+
+arg(7336).
+text(7336, Students may find unknown interests if they are forced to explore outside their boundaries. ).
+att(7336, root).
+
+arg(8665).
+text(8665, It should have been understood before starting that such courses would have to be taken, since these courses are often required to graduate from the college.  So they wouldn't be "extra" at all, and would be required as a result of a deliberate choice (going to that school, choosing that degree).).
+att(8665, root).
+
+arg(7353).
+text(7353, Courses on how to think critically, validate our knowledge and understand logical pathways would be beneficial to anyone regardless of their major.).
+att(7353, root).
+
+arg(7355).
+text(7355, Not everyone can afford the costs of taking extra courses, or spare the extra time. ).
+support(7355, root).
+
+arg(7378).
+text(7378, That is why there is financial aid, federal grants, and scholarships available.).
+att(7378, 7355).
+

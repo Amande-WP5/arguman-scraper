@@ -1,0 +1,39 @@
+arg(root).
+text(root, Anti-aging medication should carry the highest priority in medical research).
+
+arg(11496).
+text(11496, It has a 100% mortality rate. Every human is predisposed to it. Its effects severely lower quality of life for sufferers (and those close to them) often for a long time. It is MASSIVELY expensive to society.).
+support(11496, root).
+
+arg(12551).
+text(12551, Most people don't want to die. ).
+support(12551, root).
+
+arg(11497).
+text(11497, Longer human lifespans will lead to a more experienced work-force, scientific community and government agency.).
+support(11497, root).
+
+arg(11498).
+text(11498, Population increase will need to be managed.).
+att(11498, root).
+
+arg(11507).
+text(11507, Heart disease accounts for 40% of all U.S. deaths. ).
+support(11507, root).
+
+arg(11535).
+text(11535, These would both decrease massively if all the effects of aging were combated. Our immune system becoming weaker due to aging is a large reason that cancer is more common in older people. Heart failure is also usually caused by the degeneration of the heart due to aging.).
+att(11535, root).
+
+arg(12156).
+text(12156, Anti-aging medication would greatly reduce the risk of cancer. AIDS affects very few people when compared to the amount of people aging affects.).
+att(12156, root).
+
+arg(12121).
+text(12121, I would say that making sure cancer and AIDS don't kill people anymore is more important than making sure grandma doesn't look 80 anymore).
+att(12121, root).
+
+arg(11506).
+text(11506, Unless it prevents heart disease and cancer we will continue to die in our seventies. It would be rational to prioritize developing better treatments for heart disease  and cancer over anti aging medications. ).
+att(11506, root).
+

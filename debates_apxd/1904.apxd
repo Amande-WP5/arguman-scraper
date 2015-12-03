@@ -1,0 +1,11 @@
+arg(root).
+text(root, About 102,000,000,000 gods have been in humanity, at what point are we going to stop thinking that ours is the real one?).
+
+arg(12654).
+text(12654, Some people have experienced what they call "miracles". I personally don't think something supernatural happened, but they surely do and that reinforces their belief.).
+att(12654, root).
+
+arg(12086).
+text(12086, Polytheism).
+att(12086, root).
+

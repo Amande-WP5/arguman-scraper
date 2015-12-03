@@ -1,0 +1,21 @@
+arg(root).
+text(root, This is not ok).
+
+arg(8723).
+text(8723, That is, though.).
+att(8723, root).
+
+arg(8731).
+text(8731, Because it is not ok.
+
+Don't you dare report me for begging the question.).
+support(8731, root).
+
+arg(8732).
+text(8732, these may only be circumstantially appropriate or inappropriate).
+att(8732, 8731).
+
+arg(8973).
+text(8973, It could be ok in an alternative universe).
+att(8973, 8731).
+

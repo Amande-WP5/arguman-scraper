@@ -1,0 +1,7 @@
+arg(root).
+text(root, Your argument is invalid).
+
+arg(10882).
+text(10882, http://memecrunch.com/meme/I0AX/darth-vader-on-a-charizard-your-argument-just-became-invalid/image.jpg?w=900&c=1).
+support(10882, root).
+

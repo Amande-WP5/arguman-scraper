@@ -1,0 +1,153 @@
+arg(root).
+text(root, Plants should have the right to vote.).
+
+arg(8913).
+text(8913, People in comas cannot vote.).
+att(8913, root).
+
+arg(8614).
+text(8614, We should totally do this.).
+att(8614, root).
+
+arg(13205).
+text(13205, Plants have no place in human society, thus shouldn't be allowed to vote for the destiny of our species.).
+att(13205, root).
+
+arg(8494).
+text(8494, This will only open the floodgate to plant-based racism).
+att(8494, root).
+
+arg(8593).
+text(8593, Plants have feelings too.).
+support(8593, root).
+
+arg(8529).
+text(8529, With this line of reasoning anyone in comas would also lose the right to vote. In reality they have the right all along but cannot articulate it. Likewise nothing would be problematic giving plants the right to vote, they just won't use their right. ).
+att(8529, root).
+
+arg(8942).
+text(8942, People in comas still have the right to vote. They don't temporary lose a right, they simply don't use it because of a medical condition.).
+att(8942, 8913).
+
+arg(9858).
+text(9858, Plants have no proven sentience and ability to communicate their vote. As they are unable to vote -- and will never be able to vote -- there is no reason to give them voting rights.).
+att(9858, root).
+
+arg(8671).
+text(8671, The right to vote is given to people, not organisms.).
+att(8671, root).
+
+arg(14306).
+text(14306, Plants are affected by some laws, for example water control laws, or laws about pesticides. ).
+att(14306, 13205).
+
+arg(9489).
+text(9489, Animals could be trained to cast votes. Or objects such as computers could be manipulated to cast votes. ).
+att(9489, root).
+
+arg(13218).
+text(13218, Humans are organisms).
+att(13218, 8671).
+
+arg(8679).
+text(8679, That requires a proof.).
+att(8679, 8593).
+
+arg(10525).
+text(10525, poop *is* a *habitat* for living things, though).
+att(10525, root).
+
+arg(8609).
+text(8609, By this reasoning you could give literally every object on earth a right to vote. (They just wouldn't use it.)).
+att(8609, 8529).
+
+arg(10935).
+text(10935, People in comas have the potential to vote eventually. Plants would never be able to decide on who to vote for or actually vote.).
+att(10935, 8529).
+
+arg(8666).
+text(8666, This would mean that all organisms (including fungi and microorganisms) would need to be taken into account. Given that there are already around 50,000,000 bacteriophage per mL of ocean water, taking the entire population into account would be unfeasible.).
+att(8666, root).
+
+arg(14442).
+text(14442, They are, without intelligence a human can’t live.
+They could be less intelligence than others, but it doesn’t mean they aren’t.
+Plants really aren’t intelligent.).
+att(14442, root).
+
+arg(9296).
+text(9296, There are laws that affect poop too, and we don't give poop the right to vote.).
+att(9296, root).
+
+arg(9299).
+text(9299, poop is not living).
+att(9299, 9296).
+
+arg(10537).
+text(10537, If anything the living things inside of poop should given the right to vote, not the poop itself.).
+att(10537, 10525).
+
+arg(8611).
+text(8611, A population is a group of individuals of one species that live in a particular geographic area where as a community is all the organisms that inhabit a particular area; an assemblage of populations of different species living close enough together for potential interaction. ).
+support(8611, root).
+
+arg(8667).
+text(8667, Plants cannot communicate with humans and vote in an eligible manner, nor can they assist in the right to govern. They should be granted, however, the right to assemble plant governments and restrict Venus fly-traps (also known scientifically as Trumptraps) from fucking everything up.).
+att(8667, root).
+
+arg(10941).
+text(10941, Taking that argument prima facie, children should have equal power to determine household rules as their parents.).
+att(10941, root).
+
+arg(8493).
+text(8493, the mutual intelligibility barrier between humans and plants  makes it impossible to know whether the concept of democracy is supported by the plant kingdom or not).
+att(8493, root).
+
+arg(10942).
+text(10942, How do we know they currently don't vote in their own society? We humans are very naive.).
+att(10942, root).
+
+arg(13302).
+text(13302, Here is atleast some evidence.).
+att(13302, 8679).
+
+arg(14490).
+text(14490, Plants are diverse living beings which inhabit every country on Earth. Politics affects them (Evironmental policies, agricultural and technological development, transportation, etc.) in a very direct way and thus they should have a say.).
+support(14490, root).
+
+arg(14491).
+text(14491, That's because children have not achieved maturity and we're talking about plants in their adult stage.).
+att(14491, 10941).
+
+arg(14492).
+text(14492, That only further supports the original premise. Our apparently democratic system is ignoring an overwhelming majority of living beings.).
+att(14492, 8666).
+
+arg(14493).
+text(14493, We're already discriminating plants by denying them the right to vote.).
+att(14493, 8494).
+
+arg(14436).
+text(14436, The Triffids are coming and they'll be pretty upset to find we've denied them rights.).
+support(14436, root).
+
+arg(8490).
+text(8490, they cannot express their vote in an eligible manner).
+att(8490, root).
+
+arg(14441).
+text(14441, Some voting people are not intelligent too, intelligence is relative).
+att(14441, root).
+
+arg(9294).
+text(9294, There are laws that can effect plants as well.).
+support(9294, root).
+
+arg(13196).
+text(13196, plants are not intelligent ).
+att(13196, root).
+
+arg(15312).
+text(15312, Plants are not people.).
+att(15312, root).
+

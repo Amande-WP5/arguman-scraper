@@ -1,0 +1,15 @@
+arg(root).
+text(root, The presence of the universe can't have a scientific explanation.).
+
+arg(14596).
+text(14596, Scientific explanations can only be expressed in terms of physical quantities. Therefore it's illogical to claim that physical quantities are the explanation for the presence of physical quantities.).
+support(14596, root).
+
+arg(14773).
+text(14773, That's not true, where is it stated as a "law" that scientific explanations can only be expressed in terms of physical quantities? Take philosophy for example, where we can easily discuss the existence of the universe itself. It doesn't necessarily need an answer to be legitimate.).
+att(14773, 14596).
+
+arg(15060).
+text(15060, But I intentionally wrote "scientific" explanations. An alternative term is "scientific theory". A scientific theory is by definition testable by experiment and so must refer to physical quantities.).
+att(15060, 14773).
+

@@ -1,0 +1,111 @@
+arg(root).
+text(root, Time does not exists.).
+
+arg(15339).
+text(15339, If time does not exist your definition of exist is useless because it depends on time...).
+att(15339, root).
+
+arg(15299).
+text(15299, The important part is that it is relative, and then "moving slower in absolute" is meaningless.).
+att(15299, root).
+
+arg(15291).
+text(15291, Depends on your definition of "time" and "exist", which are both untrivial (sic). 
+
+Unless explicated, the premise is meaningless.).
+att(15291, root).
+
+arg(15281).
+text(15281, Movement is a change in distance.
+You can measure time by any others kinds of change.
+Time is about change, not only about movement.).
+att(15281, root).
+
+arg(15280).
+text(15280, This definition assumes space, which is a less fundamental concept than the concept of existence.
+There is space, when there are distances between the things that are.).
+att(15280, root).
+
+arg(15275).
+text(15275, That assumes that "occupies" is a property meaningful for time itself.
+Even if "occupies", is a reflexive property, your conclusion should be that a duration of time occupy a duration of time, and not that time occupy a duration of time.).
+att(15275, root).
+
+arg(10629).
+text(10629, The only way we can measure time is by measuring movement. ).
+support(10629, root).
+
+arg(12341).
+text(12341, Just because a concept is useful does not imply that the concept is true. ).
+att(12341, root).
+
+arg(12342).
+text(12342, This definition of existence is contradictory to quantum field theory. A less colloquial and more scientific definition is needed to discuss further. ).
+att(12342, root).
+
+arg(10820).
+text(10820, To exist is to occupy a region of space for a duration of time. Time by the reflexive property occupies all times, so if time is present in any spaces at all, then it exists. And time does exist in my room.).
+att(10820, root).
+
+arg(10637).
+text(10637, Time has been proven to fluctuate near bodies with a great gravitational pull and at or near the speed of light.).
+att(10637, root).
+
+arg(11693).
+text(11693, Exactly! You use time to measure movement.).
+att(11693, root).
+
+arg(11429).
+text(11429, My point was that we cannot measure time. We measure movement. ).
+att(11429, root).
+
+arg(11433).
+text(11433, As rkyeun said, the definition of "to exist" is "to occupy a region of space for a duration of time", so no, these things don't really exist.).
+att(11433, root).
+
+arg(11434).
+text(11434, Your argument assumes that the statement being discussed is true - that time does exist. ).
+att(11434, root).
+
+arg(11436).
+text(11436, It would be the same to say that everything moves faster (or slower), not depending on time to exist. ).
+att(11436, 10637).
+
+arg(10683).
+text(10683, the time is just perception where events occur with the transfer of energy from one to another. If something happens twice as fast, and your clock runs twice as fast, you won’t notice the difference.).
+support(10683, root).
+
+arg(10692).
+text(10692, The assumption that time does exist, which is physically distinct from spatial dimensions and exists independent of measuring properties of objects allows the prediction & explanation of a wide range of phenomenon that otherwise cannot be explained.).
+att(10692, root).
+
+arg(10696).
+text(10696, If you can measure time in any way, it need to exist. You cant measure something thats not there.).
+att(10696, 10629).
+
+arg(10697).
+text(10697, What you are saying is that time exist, but its a measure method, not a thing to measure. Example: Height is measured in Meters. Time is "meters", not height. But even in that situation, the concept of time still exist in reality.).
+att(10697, 10683).
+
+arg(12042).
+text(12042, Atomic clocks in space experience less time than those on Earth. Also, objects don't lose their speed when affected by this.).
+att(12042, 11436).
+
+arg(12181).
+text(12181, Speed is relative, so their speed have to be relative to something. If everything surrounding the atomic clocks moves slower, the speed could still be counted as the same. From earth, everything in that area will be moving slower, and we do for simplicity's sake say that they experience less "time".).
+att(12181, 12042).
+
+arg(12183).
+text(12183, Doesn't your argument already assume that time exists? 
+
+"They experience less time, so time must be real". Begging the question. ).
+att(12183, 12042).
+
+arg(10716).
+text(10716, You can't measure movement without time. Does that mean movement doesn't exist?).
+att(10716, 10629).
+
+arg(10717).
+text(10717, Colors are a perception of light frequencies. Sound is a perception of vibrating air molecules. Language is a perception of combinations of sound frequencies. Do these things also not exist?).
+att(10717, 10683).
+

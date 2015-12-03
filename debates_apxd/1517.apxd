@@ -1,0 +1,20 @@
+arg(root).
+text(root, Every State should always be in Daylight Savings year round without ever "falling back".).
+
+arg(7738).
+text(7738, Morale of the general public is higher if they get to experience more hours of sunlight.  ).
+support(7738, root).
+
+arg(7740).
+text(7740, The sun already goes down earlier in fall and winter, why also lose an hour?).
+support(7740, root).
+
+arg(7877).
+text(7877, i don't care if it is default or daylight saving.
+just the switching annoys me).
+att(7877, root).
+
+arg(10145).
+text(10145, That would just be switching the time by an hour entirely, removing the need for DST in the first place. ).
+att(10145, root).
+

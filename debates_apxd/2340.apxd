@@ -1,0 +1,11 @@
+arg(root).
+text(root, You should free your blender).
+
+arg(16070).
+text(16070, I purchased it and see no legal, ethical, or moral obligation to free it.).
+att(16070, root).
+
+arg(15643).
+text(15643, They have rights.).
+support(15643, root).
+

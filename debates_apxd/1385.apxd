@@ -1,0 +1,19 @@
+arg(root).
+text(root, It is dangerous to broadcast radio waves to outer space).
+
+arg(14598).
+text(14598, This all plays upon the Fermi paradox and whether or not there is intelligent life looking for other intelligent life for what ever reason. The most likely explanation is that we are alone, the first intelligent life or that higher life forms don't care about us.).
+att(14598, root).
+
+arg(6465).
+text(6465, Our obnoxious TV program will anger extraterrestrials).
+support(6465, root).
+
+arg(6416).
+text(6416, It is often impossible to avoid broadcasts to space.).
+att(6416, root).
+
+arg(6419).
+text(6419, Modern radio systems that provide signals such as communications, music, TV and other entertainment, must be long-ranged and high-powered to reach a broad audience).
+support(6419, 6416).
+

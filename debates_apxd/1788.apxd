@@ -1,0 +1,45 @@
+arg(root).
+text(root, Under the assumption that God and all religious beliefs are false. Can religion as a whole be considered harmful either on a macro or micro scale).
+
+arg(10814).
+text(10814, Beliefs about reality inform our actions, as we attempt to bring forth desired consequences.
+False beliefs about reality bring forth undesired or unforeseen consequences.
+Holding false beliefs is therefore inherently harmful, because it prevents us from achieving the results we desire.).
+support(10814, root).
+
+arg(10808).
+text(10808, the problem of religion is faith. To absolutely believe in something and base your life on it with 0 proof is problematic. Where do you draw the line between splashing kids in water to not burn in fire when they die, and decapitating people. To a child, that's not as wrong as it is to you.).
+support(10808, root).
+
+arg(10835).
+text(10835, Believing in a supernatural being is not a condition to do these things).
+att(10835, root).
+
+arg(10836).
+text(10836, Yes, because religion is not based on reasoning and thinking. It's based on believing in the values of your ancestors. They can be good and they can bad.).
+support(10836, root).
+
+arg(10837).
+text(10837, There are enough examples of secular/non-religious fundraisers which do the exact same thing. Also, many secular countries where many people are non-religious express the same kind of compassion towards mankind, minus the superstitious part.).
+att(10837, root).
+
+arg(10674).
+text(10674, Take christianity for example.
+
+Macro: The Pope preaches love and tolerance and wishes for there to be less wealth inequality in the world as according to the bible.
+
+Micro: Many churches do fundraisers for the poor and the needy based on their interpretation that they are obligated to donate.).
+att(10674, root).
+
+arg(10638).
+text(10638, Not entirely bad but definitely not entirely good. Religion has been obstructing science and is the excuse for many wars in history. The moral teachings of religion vary according to the context, so what some consider right values are what other people think is wrong.).
+att(10638, root).
+
+arg(10872).
+text(10872, The Pope also does many things harmful on a macro scale. Among other things the protection of child molesters, and denying equal marriage rights to gay couples.).
+att(10872, 10674).
+
+arg(11114).
+text(11114, Is the fact that he or she does a good deed in the name of a supernatural being relevant? ).
+att(11114, 10835).
+

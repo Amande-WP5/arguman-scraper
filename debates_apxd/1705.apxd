@@ -1,0 +1,7 @@
+arg(root).
+text(root, We should guarantee healthcare as a right of citizenship. It’s time for the U.S. to provide universal healthcare to all.).
+
+arg(9998).
+text(9998, The U.S violates the international human rights standards, which includes providing basic healthcare for everyone.).
+support(9998, root).
+

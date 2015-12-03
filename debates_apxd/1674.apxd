@@ -1,0 +1,34 @@
+arg(root).
+text(root, Kurds should be independent from Turkey.).
+
+arg(9428).
+text(9428, While the new states may benefit internally from this scenario, globally there would likely be chaos, or at least a more difficult diplomatic situation
+).
+support(9428, root).
+
+arg(9701).
+text(9701, Kurds also live in Syria and Iraq, and their desire for a unified Kurdistan would require consent of all three existing states.).
+att(9701, root).
+
+arg(9340).
+text(9340, The right of nations to self-determination is a cardinal principle in modern international law (commonly regarded as a jus cogens rule), binding, as such, on the United Nations as authoritative interpretation of the Charter’s norms.).
+support(9340, root).
+
+arg(9458).
+text(9458, This not against the original argument. Original argumant doesn't say that other nations should not be independent. So, there's a fallacy here but I don't know the name of it to report.).
+att(9458, 9340).
+
+arg(9594).
+text(9594, Autonomy or states are more efficient and easy to apply than dividing countries to many parts.).
+support(9594, root).
+
+arg(9421).
+text(9421, By this logic, all nations should have the right to separate themselves from the recognized state that they belong to,
+Think scotland, catalonia , bavaria and hundreds of other nations
+).
+att(9421, 9340).
+
+arg(9424).
+text(9424, This would possibly result in the world collapsing into thousands of small states, all, instead of united by living in a foreign state, separating themselves from their neighbour states. ).
+att(9424, 9421).
+

@@ -1,0 +1,7 @@
+arg(root).
+text(root, Palestine should be recognized as a sovereign state).
+
+arg(8327).
+text(8327, The souvereignity of palestine is a diplomatic necessity).
+support(8327, root).
+

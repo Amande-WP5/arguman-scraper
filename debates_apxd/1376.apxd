@@ -1,0 +1,16 @@
+arg(root).
+text(root, Gay people are bad for society, and should be banned.).
+
+arg(6333).
+text(6333, Several surveys (especially The National Violence Against Women Survey) show that homosexual domestic violence rates are equal to, and very likely greater than, heterosexual relationships.  Domestic violence is bad for children, which means future generations are at a disadvantage because of it.).
+att(6333, root).
+
+arg(6370).
+text(6370, Your articles, specifically your second reference, which is now mine, refutes your argument. "...other words, that domestic violence is not an LGBT issue."
+The numbers are higher because 1. This survey limits sample size, 2. LGBT individuals are counted twice. 3.%s are VERY misleadingly subjective.).
+att(6370, 6333).
+
+arg(6254).
+text(6254, How so?).
+att(6254, root).
+

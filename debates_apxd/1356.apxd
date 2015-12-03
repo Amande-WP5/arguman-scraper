@@ -1,0 +1,19 @@
+arg(root).
+text(root, Altruism is an evolutionary mechanism, and existed long before religion).
+
+arg(6057).
+text(6057, Organisms whose success is a demonstration of their failure to die off prove that altruistic acts among agents with parallel goals more often benefit both, without a Boolean winner and loser.   Among agents with parallel goals a win for both provides more sustainable success than a win for just one.).
+support(6057, root).
+
+arg(6022).
+text(6022, Evolutionary biology has proven that altruism existed long before religion did.).
+att(6022, root).
+
+arg(14631).
+text(14631, Social species maintain altruistic behavior to form groups, and outcast the members which don't return the favor. If an organism isn't social in nature, then it has to have traits that allow it survive which altruistic species don't, but any social species which is social is also altruistic.).
+support(14631, root).
+
+arg(14623).
+text(14623, Why would evolution support altruism? It is all about competing against other life forms).
+att(14623, root).
+

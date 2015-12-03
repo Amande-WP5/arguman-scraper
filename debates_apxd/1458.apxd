@@ -1,0 +1,7 @@
+arg(root).
+text(root, No man ever knowingly does wrong.).
+
+arg(7091).
+text(7091, People do things that they know are objectively wrong. Those things might feel "right", but we have the ability to see past that objectively. I know killing someone is wrong because I'm able to visualize other peoples' lives. Since we can empathize, we can willingly do wrong.).
+att(7091, root).
+

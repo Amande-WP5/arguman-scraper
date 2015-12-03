@@ -1,0 +1,15 @@
+arg(root).
+text(root, Taylor Swift is the Queen of Pop).
+
+arg(8737).
+text(8737, Emotion by Carly Rae Jepsen has better songs, a clear, crisp sound and a new sheen of consummate professionalism.).
+att(8737, root).
+
+arg(8615).
+text(8615, I agree! All Too Well is one of the best songs of the modern age!).
+support(8615, root).
+
+arg(8619).
+text(8619, Treacherous is better.).
+att(8619, 8615).
+

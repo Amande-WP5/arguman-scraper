@@ -1,0 +1,35 @@
+arg(root).
+text(root, For environmental reasons, governments should start heavily taxing meat industries instead of subsidizing them.).
+
+arg(7722).
+text(7722, Taxing food is seen as unethical, since it is essential for a population's survival.).
+att(7722, root).
+
+arg(7963).
+text(7963, You're mentioning that as if it's a good thing. I think you meant to agree with a because ).
+att(7963, root).
+
+arg(7969).
+text(7969, Meat is fairly expensive and with our supply chain in the US getting meat to a location is often times harder because of storage issues. Nuts are cheaper and shelf stable ).
+att(7969, root).
+
+arg(7750).
+text(7750, Although food is essential, meat itself isn't necessarily required. We have enough substitutes to justify a luxury tax. ).
+att(7750, 7722).
+
+arg(7890).
+text(7890, Cows are one of the primary sources of methane in the world. ).
+att(7890, root).
+
+arg(7660).
+text(7660, It's unsustainable, and taxing meat could help decrease consumption.).
+support(7660, root).
+
+arg(7796).
+text(7796, In some areas the nutritional value of meat can not be easily replaced by other sources of lower or equal price. This poses a problem for those that cannot afford the extra for the replacement. Some will have their nutrition compromised in this situation.).
+att(7796, 7750).
+
+arg(7804).
+text(7804, these types of places are 3rd world country where the least of the governments' worries are about the environment. These types of laws should be implemented in 1st world countries. ).
+att(7804, 7796).
+

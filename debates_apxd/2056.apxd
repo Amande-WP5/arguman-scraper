@@ -1,0 +1,7 @@
+arg(root).
+text(root, Exam scores amongst university students is positively correlated to study time.).
+
+arg(13563).
+text(13563, This statement is about numerical statistics. It needs experimentation and proof, not argumentation.).
+att(13563, root).
+

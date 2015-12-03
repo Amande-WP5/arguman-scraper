@@ -1,0 +1,15 @@
+arg(root).
+text(root, The term 'Marriage' should be replace by 'Civil Union' in all U.S. legislation.).
+
+arg(6764).
+text(6764, Separation of church and state is a founding principle of the U.S. government. Two people who that want to be legally recognized as a couple, no matter the gender combination, should be joined legally by a civil union. Leave the religious stuff ('marriage') to the religious organizations. ).
+support(6764, root).
+
+arg(6801).
+text(6801, Marriage is no longer a religious construct. ).
+att(6801, 6764).
+
+arg(8306).
+text(8306, This would have no effect on legislation. We could also change the word to "Bananafamming" and it would have no impact on what the institution is or what it does.).
+att(8306, root).
+

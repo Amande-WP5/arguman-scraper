@@ -1,0 +1,49 @@
+arg(root).
+text(root, There is no such thing as true infinity.).
+
+arg(13615).
+text(13615, True Infinity is not adequately defined.).
+att(13615, root).
+
+arg(13466).
+text(13466, Mathematics as we know it today could not exist without at least the concept of infinity.).
+att(13466, root).
+
+arg(13475).
+text(13475, Accuracy is not the only possible form of real infinity.).
+att(13475, root).
+
+arg(13496).
+text(13496, Any object can be divided infinitely and yet the parts of it always exist in one form or another. ).
+att(13496, root).
+
+arg(13329).
+text(13329, We can never achieve an infinite amount of accuracy).
+support(13329, root).
+
+arg(13344).
+text(13344, Time is infinite).
+att(13344, root).
+
+arg(13350).
+text(13350, Time is an illusion.).
+att(13350, 13344).
+
+arg(13351).
+text(13351, It isn't. It's not absolute and it's completely relative. Reality is completely timeless. ).
+att(13351, 13344).
+
+arg(13500).
+text(13500, However since reality is full of conscious beings in the act of observing time, so time is existing through them. So as there is at least one conscious being experiencing it, time exists.  
+
+And if there is always at least one conscious being in existence then time is infinite.).
+att(13500, 13351).
+
+arg(13614).
+text(13614, It depends on what you mean by infinity. In mathematics, you can treat infinity like a number so long as it is meaningful to do so. If you mean physical infinities, there are many results in physics that require adding terms that are infinite to get something finite. ).
+att(13614, root).
+
+arg(13612).
+text(13612, The black hole information paradox will have to be resolved before we can know this for certain. ).
+att(13612, 13496).
+

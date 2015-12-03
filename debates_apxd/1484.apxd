@@ -1,0 +1,9 @@
+arg(root).
+text(root, Lucid Dreaming is something everyone should learn.).
+
+arg(7374).
+text(7374, Not all all people are capable of either 
+A) remembering their dreams or
+B) lucid dreaming in general).
+att(7374, root).
+

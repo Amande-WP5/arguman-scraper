@@ -1,0 +1,11 @@
+arg(root).
+text(root, It would be better if we had an clever artificial language everyone would learn.).
+
+arg(8430).
+text(8430, We've tried that many times and it has never cought on.).
+att(8430, root).
+
+arg(7903).
+text(7903, we cannot force EVERYONE to learn the language. There will always be some rogue country.).
+att(7903, root).
+

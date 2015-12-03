@@ -1,0 +1,7 @@
+arg(root).
+text(root, Challenge, find a scientific study which shows blacks improve IQ/test scores from integrated schools. hint: you can't).
+
+arg(15963).
+text(15963, Such a study would be meaningless, there is no proof IQ tests measure anything, it's just a number.).
+att(15963, root).
+

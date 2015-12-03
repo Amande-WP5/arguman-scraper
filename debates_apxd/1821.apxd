@@ -1,0 +1,7 @@
+arg(root).
+text(root, Prostitution should be legal.).
+
+arg(10958).
+text(10958, Decriminalizing prostitution would decrease rape and STDs.).
+support(10958, root).
+

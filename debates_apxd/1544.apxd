@@ -1,0 +1,11 @@
+arg(root).
+text(root, The entire planet should fall under the jurisdiction of one government.).
+
+arg(8109).
+text(8109, The function of the government is to stabilise society by establishing standards of trade and security. In a highly homogenous/globalised world, where the acts of one group of people affect all, a clear mandate of norms needs to resonate through all human affairs if we wish to progress any further.).
+support(8109, root).
+
+arg(8169).
+text(8169, This would likely occur as a by-product of the blurring and eventual dissolving of national boundaries through globalisation and free-movement treaties. Specific regions will require regulatory authorities, and these will then form a kind of regional assembly/parliament below the global government.).
+att(8169, root).
+

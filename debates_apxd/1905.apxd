@@ -1,0 +1,7 @@
+arg(root).
+text(root, Truth is more important than comfort.).
+
+arg(12091).
+text(12091, Highly depends on the context. One can argue that truth is better than comfort because it makes people stronger. Others can argue that choosing hard truths over comfort can make some lifes miserable and, in some extreme cases, kill people. Examples can be given easily for both cases. ).
+att(12091, root).
+

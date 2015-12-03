@@ -1,0 +1,67 @@
+arg(root).
+text(root, We should not care about life after death).
+
+arg(8477).
+text(8477, We should care about all life. If life continues after death, then we should care about that too.).
+att(8477, root).
+
+arg(8743).
+text(8743, As we don't know what happens after death, it makes more sense to focus on answering that question first.).
+att(8743, 8477).
+
+arg(8491).
+text(8491, Serving as an incentive to be good is not the only reason to care if life after death exists. It would change everything we know about the nature of existence and consciousness.).
+att(8491, root).
+
+arg(8498).
+text(8498, Regardless of what the truth is and what conclusion people draw, it is still reasonable to at least care about it.).
+support(8498, 8491).
+
+arg(8499).
+text(8499, We should care about life after love).
+att(8499, root).
+
+arg(8507).
+text(8507, Cher would understand).
+support(8507, 8499).
+
+arg(8924).
+text(8924, Curiosity is only useful for interests that can be learned while living.).
+att(8924, root).
+
+arg(8926).
+text(8926, Through technology, we might just be able to create it.).
+att(8926, root).
+
+arg(8930).
+text(8930, One life, if it's all that you have, is more precious than two; and thus it stands to reason that operating under the belief that there is no afterlife, one would take more care into considering their actions towards themselves and others.).
+support(8930, root).
+
+arg(9460).
+text(9460, We don't know what is useful from life to after death.).
+att(9460, 8924).
+
+arg(8663).
+text(8663, Many people use that act of caring (their "beliefs", if you will) to encourage them to continue their life BEFORE death.).
+att(8663, root).
+
+arg(8444).
+text(8444, because even if it were true, it causes us to devalue the opportunity, challenges, and life we know to exist. Life after death serving as an incentive for good human behavior is not the most noble reason to be good.).
+support(8444, root).
+
+arg(8689).
+text(8689, There is no scientific knowledge as to what happens after death.).
+support(8689, root).
+
+arg(8694).
+text(8694, It is important to be curious, otherwise we would never find out what actually happens after death.).
+att(8694, 8689).
+
+arg(9597).
+text(9597, If by "life after death" you mean a continued existence after one's body dies, then I think the only way we can "care" about it is by trying to figure out what that would be exactly. Figuring this out could lead to a deeper understanding of ourselves. What would persist is, in itself, interesting.).
+att(9597, root).
+
+arg(9622).
+text(9622, Acceptance of both the unknowable, and the inevitability of death, from a psychological perspective, are healthier attitudes that make you a stronger individual, particularly if by "care" you mean "worry". Worrying about such unknowns is actively bad for your psyche, due to their irreconcilability.).
+att(9622, 8498).
+

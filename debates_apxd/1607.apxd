@@ -1,0 +1,27 @@
+arg(root).
+text(root, balh).
+
+arg(8729).
+text(8729, Hlab.).
+att(8729, root).
+
+arg(8690).
+text(8690, blah blah blah).
+support(8690, root).
+
+arg(8691).
+text(8691, blah blah).
+support(8691, 8690).
+
+arg(8692).
+text(8692, blah blah).
+support(8692, root).
+
+arg(8705).
+text(8705, abul abul).
+att(8705, 8691).
+
+arg(8706).
+text(8706, babul).
+att(8706, 8692).
+

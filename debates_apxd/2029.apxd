@@ -1,0 +1,29 @@
+arg(root).
+text(root, As soon as self driving cars get published, driving a car manually should be illegal).
+
+arg(13403).
+text(13403, Not everyone can afford self driving cars, and immediately making a thing as widespread a thing as driving cars illegal would have disastrous consequences.).
+att(13403, root).
+
+arg(13441).
+text(13441, Because of the reasons others have noted, it would be better to ban the *sale* of human driven cars, once the market is sufficiently broad.).
+att(13441, root).
+
+arg(13411).
+text(13411, It would reduce accidents).
+support(13411, root).
+
+arg(13418).
+text(13418, Removing every car in use would also do that. Unless every single car is immediately replaced by self-driving cars, it would not make sense to make it illegal immediately.).
+att(13418, 13411).
+
+arg(13432).
+text(13432, This would result in hundreds of thousands of illegal machines on the road and would a legal and infrastructure nightmare. Most people also would not be able to simply go buy a new car, and even more would still not have paid off their now illegal car. 
+
+This idea would take decades to roll out).
+att(13432, root).
+
+arg(13479).
+text(13479, There are many unanswerable moral debates as to what a self-driving car should do in certain situations and an individual may disagree with the morals programmed into the car.).
+att(13479, root).
+

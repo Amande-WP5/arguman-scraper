@@ -1,0 +1,166 @@
+arg(root).
+text(root, Vim is better than emacs).
+
+arg(15899).
+text(15899, This is seldom an important point with computers being more powerful now. The two practically run at the same speed on a decently new computer.).
+att(15899, root).
+
+arg(15898).
+text(15898, Ed is the *default* text editor, making this argument pointless. /s).
+att(15898, root).
+
+arg(15897).
+text(15897, Emacs is also built-in.).
+att(15897, root).
+
+arg(15896).
+text(15896, Commands are, in my opinion at least,  much easier to remember, and Emacs users can much more easily exit their program (the old joke about asking a new vim user to exit as a random character generator comes into play here). The lack of an "editing/insert mode" makes emacs a lot easier to jump into.).
+att(15896, root).
+
+arg(15876).
+text(15876, UltraEdit blows it away and can (if you want) emulate other editors.).
+att(15876, root).
+
+arg(15875).
+text(15875, UltraEdit blows it away and can (if you want) emulate other editors.).
+att(15875, root).
+
+arg(15873).
+text(15873, magit is one of the best git clients there is).
+support(15873, root).
+
+arg(15372).
+text(15372, It is hard/impossible to reconfigure some of the keybindings in emacs. (like C-x)).
+support(15372, root).
+
+arg(15573).
+text(15573, What if vim/emacs is the best tool for the job? For general text editors, what does Atom/Sublime/Visual Studio Code do that vim/emacs cannot? Vim is a text editor, not an IDE, so arguing that it lacks the features of Eclipse/IntelliJ is an unfair comparison.).
+att(15573, root).
+
+arg(15572).
+text(15572, So can Emacs.).
+att(15572, root).
+
+arg(15571).
+text(15571, Vim also has an undo tree, with visualization plugins such as Gundo and undotree.).
+att(15571, root).
+
+arg(15570).
+text(15570, Vim can run in a console, making it useful for things such as ssh.).
+support(15570, root).
+
+arg(15567).
+text(15567, It takes as long as some operating systems to start.).
+support(15567, root).
+
+arg(15566).
+text(15566, It's a text editor; that shouldn't be necessary.).
+att(15566, root).
+
+arg(15544).
+text(15544, You use the best one for the job. For example with java, Eclipse is the go-to IDE. For general text editors, there are Atom and Sublime Text. There's also Visual Studio Code as a new experimental text editor.).
+att(15544, root).
+
+arg(15542).
+text(15542, Both have been succeeded by better text editors and Integrated Development Environments which have made both emacs and vim obsolete.).
+att(15542, root).
+
+arg(15543).
+text(15543, which one ?).
+att(15543, 15542).
+
+arg(15409).
+text(15409, vim naturally use non-composed commands, which is really appreciable for peoples that don't handle composition (as ctrl+v), for comfort or health reason.
+However, vim naturally handle perfectly composed commands, and use it, among others, for redoundancy (ctrl+c is equivalent to ESCAPE).).
+support(15409, root).
+
+arg(15408).
+text(15408, vim uses a complete and extensible keystroke language system, which leads to natural construction of complex commands.).
+support(15408, root).
+
+arg(15407).
+text(15407, An IDE may needs that, not a text editor.
+Moreover, vim have modules for handle version control, flags, multiple user editing,…).
+att(15407, root).
+
+arg(15379).
+text(15379, You have "undo-tree" (undo-tree-visualize is pretty cool)).
+support(15379, root).
+
+arg(15378).
+text(15378, You have "find-file → /sudo::/" to open a file in root.).
+support(15378, root).
+
+arg(15376).
+text(15376, You have "rgrep").
+support(15376, root).
+
+arg(15377).
+text(15377, You have "kmacro-start-macro-or-insert-counter").
+support(15377, root).
+
+arg(15373).
+text(15373, You have a lot of awesome extensions in emacs.).
+att(15373, root).
+
+arg(15375).
+text(15375, You have a lot of very useful commands in emacs.).
+att(15375, root).
+
+arg(15374).
+text(15374, You have org-mode.).
+support(15374, 15373).
+
+arg(15366).
+text(15366, The default configuration of emacs is pretty bad.).
+support(15366, root).
+
+arg(15371).
+text(15371, A lot of default customizations aren’t good.).
+support(15371, 15366).
+
+arg(15370).
+text(15370, Flycheck is better than Flymake.).
+support(15370, root).
+
+arg(15368).
+text(15368, A lot of default extensions aren’t the best.).
+support(15368, 15366).
+
+arg(15367).
+text(15367, The keybindings are not ergonomics at all.).
+support(15367, 15366).
+
+arg(15363).
+text(15363, Why is it a bad text editor ?).
+att(15363, root).
+
+arg(15364).
+text(15364, Emacs is not a operating system. (i know it is just a joke)).
+att(15364, root).
+
+arg(15361).
+text(15361, You can start it as a daemon at the start of the computer.
+After it, you start emacs client, which is very fast.).
+att(15361, root).
+
+arg(15330).
+text(15330, You can make more powerful development environment contains version control, chat, etc in Emacs).
+att(15330, root).
+
+arg(15328).
+text(15328, Emacs is a nice operating system but bad  text editor).
+support(15328, root).
+
+arg(15329).
+text(15329, Emacs startup time is longer).
+support(15329, root).
+
+arg(15326).
+text(15326, Vi is coming as builtin in linux systems).
+support(15326, root).
+
+arg(15327).
+text(15327, Vim is more light weight).
+support(15327, root).
+

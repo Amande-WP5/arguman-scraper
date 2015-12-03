@@ -1,0 +1,15 @@
+arg(root).
+text(root, If you were to possess one basic item, the hatchet would be the most useful on a deserted island).
+
+arg(13463).
+text(13463, Land may be too distant to survive the trip.).
+att(13463, root).
+
+arg(13381).
+text(13381, Inflatable raft).
+att(13381, root).
+
+arg(13719).
+text(13719, You could build a shelter and kill animals to name a few things.).
+support(13719, root).
+

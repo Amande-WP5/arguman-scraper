@@ -1,0 +1,46 @@
+arg(root).
+text(root, Brother ate the cake).
+
+arg(15006).
+text(15006, when human is in hungry state ,everything is delicious and everything is eatable.).
+support(15006, root).
+
+arg(14998).
+text(14998, He did not say "he was hungry today".).
+support(14998, root).
+
+arg(14994).
+text(14994, It is said that "Curiosity kills a  cat."
+Due to the brother doesn't like sweets usually,
+it is possible that he may suddenly interested in the things that he does not care before.).
+support(14994, root).
+
+arg(14997).
+text(14997, Since the brother does like to eat sweet, the chance he ate the strawberry cake is very very low.).
+att(14997, 14994).
+
+arg(14996).
+text(14996, The bother doesn't feel hungry today.).
+support(14996, root).
+
+arg(14999).
+text(14999, A real man do not eat the cake which does not  allowed to eat.).
+att(14999, root).
+
+arg(15004).
+text(15004, Maybe he just bought something to eat. ).
+att(15004, 14998).
+
+arg(15009).
+text(15009, because he want to try the sweet today.).
+support(15009, root).
+
+arg(15011).
+text(15011, Sometimes people could do some contradictory things.
+).
+support(15011, root).
+
+arg(15014).
+text(15014, Perhaph brother didn't eat the cake,he broke the cake .).
+att(15014, root).
+

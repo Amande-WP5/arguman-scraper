@@ -1,0 +1,7 @@
+arg(root).
+text(root, McDonald's food is bad for your health).
+
+arg(6567).
+text(6567, Their restrooms are clean and available for freeloaders.).
+att(6567, root).
+

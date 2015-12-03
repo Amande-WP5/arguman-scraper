@@ -1,0 +1,22 @@
+arg(root).
+text(root, You should be required to add a 'however' premise explaining how a post is fallacious when you report it as such.).
+
+arg(11479).
+text(11479, This would add clutter to the board and a logical fallacy is best given the premise 'but' to represent it being an objection. I would propose a 'custom' fallacy type that allows a comment that would be visible only when clicked.).
+att(11479, root).
+
+arg(11570).
+text(11570,  But I still think that it should be mandatory for every fallacy reported. Simply because 
+
+a.) people dont seem to know what some of these fallacies are and report them anyways.
+b.) the person being reported should be given an explanation so they can understand how what they said was fallacious.).
+att(11570, 11479).
+
+arg(11492).
+text(11492, That actually makes a lot of sense.).
+support(11492, 11479).
+
+arg(11583).
+text(11583, The clutter could be removed if the fallacy had to be clicked on to expand/collapse either a popup window or list item to display the reasoning. They should also implement a way to expand/collapse trees and arguments to allow more friendly viewing.).
+att(11583, 11479).
+

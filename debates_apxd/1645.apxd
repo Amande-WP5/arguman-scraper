@@ -1,0 +1,100 @@
+arg(root).
+text(root, America should be punished for war crimes).
+
+arg(9024).
+text(9024, if you read the article, you'll see that DWB was in contact with the US military letting them know that there was a hospital there, and that there was no action, then the US proceeded to bomb the hospital for 40+ minutes. The UN is slightly corrupted at best.).
+att(9024, root).
+
+arg(10584).
+text(10584, Russias role in the Syrian war is irrelevant for this discussion; ).
+att(10584, root).
+
+arg(9015).
+text(9015, Since it was classified as an accident by the UN, it would be difficult to do so.).
+att(9015, root).
+
+arg(9016).
+text(9016, The fact that the US hasn't revealed why despite the public grilling them on it might mean that it is classified. Russia invaded Crimea, so don't glorify them. Nothing in politics is black and white.).
+att(9016, root).
+
+arg(9032).
+text(9032, You shouldn't fuck with the US, the United Nations main quarters are located in New York.).
+att(9032, root).
+
+arg(9034).
+text(9034, This should not make them immune.).
+att(9034, 9032).
+
+arg(9029).
+text(9029, Saudi Arabia is the current UN chair of human rights. A country that doesn't allow women to drive, has atheists executed as terrorists, and publicly flogs journalists who speak out against the royal family, the Salafists, or the country in general. So yes, the UN being corrupt is more than accurate.).
+support(9029, 9024).
+
+arg(10442).
+text(10442, Question is overbroad. Potential sub-issues to address: 1) what specific crime (worth differentiating whatever actions you're referring to), 2) can a country be responsible for a crime in the aggregate, or just the individuals responsible? 3) What punishment can feasibly be carried out?).
+att(10442, root).
+
+arg(10625).
+text(10625, Russia's role was not mentioned in the premise you responded to.).
+att(10625, 10584).
+
+arg(10624).
+text(10624, Many of the actions were committed based on false information from our leadership. The people should not suffer based on the lies of their leaders.).
+att(10624, root).
+
+arg(9011).
+text(9011, They complain about Russia supporting the Assad regime, then they bomb a Doctors Without Borders hospital for no apparent reason.).
+support(9011, root).
+
+arg(10594).
+text(10594, America is responsible for thousands of deaths of both civilians and suspected terrorists in Afghanistan and Pakistan. Attacks on terrorists and suspected terrorists are carried out using armed drones. Whistleblowers have admitted that suspects above the age of 12! are considered targets. ).
+support(10594, root).
+
+arg(10599).
+text(10599, The USA are running a world wide network of inofficial prisons, the existence of which has only been admitted in 2012.
+It is known that suspects have been transported to foreign or privately run organisations for further treatment, including torture.).
+support(10599, root).
+
+arg(10425).
+text(10425, They use their economical and political power to enforce others to adopt their culture, values and religion. On top, they use their moral 'superiority' as an argument for their wars (where everyone has to support them) which is highly questionable.).
+support(10425, root).
+
+arg(10627).
+text(10627, The people responsible for the decisions themselves should be the ones to face trial, rather than the whole country. Many of these actions are committed without public knowledge, and others based on false information.).
+att(10627, root).
+
+arg(10634).
+text(10634, Officers would be charged for war crimes committed.).
+att(10634, 10624).
+
+arg(10658).
+text(10658, Who specifically is America? The leadership of the country perhaps deserves punishment but the citizens of the country do not.).
+att(10658, root).
+
+arg(10438).
+text(10438, Upon further investigation it may turn out the US intentionally bombed the DWB hospital, which would be a war crime. However, it is irresponsible in scale and quality to compare that to support for Assad's regime, which has waged full scale chemical and conventional war against its own civilians.).
+att(10438, 9011).
+
+arg(10759).
+text(10759, All officers are following either a direct order or an intent of their next higher, acting within the established law. ).
+att(10759, 10634).
+
+arg(9026).
+text(9026, Russia's actions against Crimea is completely irrelevant, I think America should stand trial for their crimes, just as Russia should stand trial for theirs. Being a supremacy shouldn't make you immune to the wrath of the UN.).
+att(9026, 9016).
+
+arg(10760).
+text(10760, Regardless of the age, a threat is a threat. ).
+att(10760, 10594).
+
+arg(10540).
+text(10540, they slaughtered tens of thousands of innocent people in Hiroshima and Nagasaki even though Japan was just about to surrender anyway. and the USA didn't get punished for it. and then the murdered lots of doctors and patients who did nothing wrong and nothing happened to the USA either.).
+support(10540, root).
+
+arg(10545).
+text(10545, It was total war. The Japanese killed thousands of civilians in other fronts. Also do you have substantial evidence that they were about to surrender? It seemed the 2nd bomb was what forced the decision. ).
+att(10545, 10540).
+
+arg(10550).
+text(10550, He is correct. The bomb was a political move to increase America's negotiating position against the Soviets for the spoils of war.  Japan had already given terms for surrender that were identical to the ones that they signed after the bomb was dropped. ).
+att(10550, 10545).
+

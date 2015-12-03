@@ -1,0 +1,147 @@
+arg(root).
+text(root, Income should be equal).
+
+arg(16315).
+text(16315, High granularity within bounds is still very simple, and more versatile than low granularity within bounds (progressive income tax).  I see no benefit in limiting granularity.  We should start a separate argument about how income should be bounded.).
+att(16315, root).
+
+arg(16286).
+text(16286, The idea breaks down into: "income inequality should be discrete" and "income inequality should be bounded". The former is for simplicity, and is based on the premise that the goal of the inequality is to attract people to certain jobs. The latter is for bounding the negative effects of inequality.).
+att(16286, root).
+
+arg(16284).
+text(16284, Highly specialized jobs, such as those of doctors and researchers, are generally intrinsically gratifying.
+The unreasonable cost of higher education in some countries is a separate problem that can be solved by making the state fund education and offer basic income.).
+att(16284, root).
+
+arg(16282).
+text(16282, Currently, money is one of the central proxies for power. If the goal is power/influence equality, it must either include income equality, or a disentanglement of the two.).
+att(16282, root).
+
+arg(16276).
+text(16276, If we agree that multiple levels of income are needed, why limit things to a coarse two-level system, which may not be enough to obtain the desired result? Why not use the full power of the more granular system we have now, which is to allow any level of income?).
+att(16276, root).
+
+arg(15731).
+text(15731, The page's premise is promoting equal income- financial income is the outcome of people fulfilling various economic opportunities. If people are paid equally regardless of performance, there is no opportunity for anyone since the outcome has already been decided.).
+att(15731, root).
+
+arg(15730).
+text(15730, It is compatible, in that everyone has an equal opportunity to create an opportunity for their children. Children do not create their own opportunities, obviously. Regardless of equality, inheritance is a good thing, as property isn't destroyed after death, and needs to be accounted for somehow. ).
+att(15730, root).
+
+arg(15688).
+text(15688, Patently not the same effect. More like a homeopathically watered down version of the same effect? Sure. ).
+att(15688, root).
+
+arg(15729).
+text(15729, If you click on the links in the article, you can see the theories that replaced it are all dealing with the same subject matter and build upon the theory. There is more than one theory for describing how species accumulate resources for reproduction; but the concept is at the forefront of ecology.).
+att(15729, root).
+
+arg(15472).
+text(15472, That money translates into power is a separate problem, and should be addressed separately. For example, one can reduce the influence of money on politics by banning large contributions to political organizations.).
+att(15472, root).
+
+arg(15687).
+text(15687, You can't just have goal in mind, propose a solution and then disregard any other side consequences. Why would someone go through hell to become a doctor, graduate with $250,000 in loans (on average) and then earn as much money as the person microwaving his food at McDonald's. ).
+att(15687, root).
+
+arg(15635).
+text(15635, However, your source says that the theory you refer to "was popular in the 1970s and 1980s, [..], but lost importance in the early 1990s, when it was criticized by several empirical studies". Without specifying what particulars of the theory you mean, it is hard to evaluate relevance of source.).
+att(15635, root).
+
+arg(15612).
+text(15612, This is not really true. Cuban doctors don't volunteer for the roles, they are sent by the state to do the work. While some might become doctors just because they feel a higher call, some will do it for the money.).
+att(15612, root).
+
+arg(15634).
+text(15634, >  Owning parts of the world is what defines ownership. 
+
+The premise I replied to had, and I also included in my premise "morally". Ie. the fact that you do have legal ownership of more of the world is not neccessarily morally right. ).
+att(15634, root).
+
+arg(15613).
+text(15613, Money translates into power, but the problem is not money. It's power by itself. Money is just one way to obtain a certain amount of power. If you remove money, another form to obtain power will appear as history has shown.).
+att(15613, root).
+
+arg(15599).
+text(15599, If you think this is true, you didn't read my source.).
+att(15599, root).
+
+arg(15516).
+text(15516, Inherited property is a form of generational resource accumulation, which is not compatible with the idea of equal opportunity. Also, one is not "caring for children" by hoarding resources generation after generation. The above would be an example of with-holding resources from the general public.).
+support(15516, root).
+
+arg(15553).
+text(15553, This is patently false but I love that it has come up because it is a crux to this debate. A person in life should always have the freedom to accumulate resources in order to facilitate the Prosperity of his children. You deny this most fundamental liberty and therefore are in support of tyranny.).
+att(15553, 15516).
+
+arg(15523).
+text(15523, It is indeed possible to separate parenting from resource distribution. This is the case for all living organisms other than humans, possibly with the exception of territory.).
+att(15523, root).
+
+arg(15520).
+text(15520, It depends on other conditions. To have equal access to employment and the basic securities of life in a socialist (referring to Marxist definition) framework is great, but capitalism as a socioeconomic system disintegrates with equal income. It is an impossibility under capitalism.).
+att(15520, root).
+
+arg(15518).
+text(15518, Higher income is not necessary to attract doctors to these locations. Is West Africa an attractive location? Yet Cuban doctors, paid sometimes one-quarter of that of the average worker, volunteer in the thousands.).
+att(15518, root).
+
+arg(15512).
+text(15512, Why don't I get to own more of the world? Owning parts of the world is what defines ownership. Property does not disappear after the owner dies. Skills are also inherited. Owning property is a prerequisite for caring for children- you can't separate parenting from resource distribution.).
+att(15512, root).
+
+arg(15510).
+text(15510, You don't automatically morally get to own more of the world for your children just by owning more material possessions.
+
+Children of A are not neccessarily more skilled than children of B, it could well be that A's descendants are no better than B (parents).).
+att(15510, root).
+
+arg(15496).
+text(15496, Look, the "successful" is the corrupted government…
+You want the "successful" to have what they want, but you already have it by default guy…).
+att(15496, root).
+
+arg(15495).
+text(15495, The blame is not "on them", blame is just a tool.
+There is no "free-will", and there is no "identity".
+What you said is based on bad (or missing) philosophical reasonings.).
+att(15495, root).
+
+arg(15469).
+text(15469, In our current society, money translates into power, income inequality leads to abuse and anxiety.).
+support(15469, root).
+
+arg(15485).
+text(15485, If you have a person A and a person B, and A replicates by having 2 children, and B replicates by having 16 - then two generations in A's camp has 4 young people in it while B's camp has 256. Should A's family be deprived of earned income to the extent that B replicated with no plan to pay for them?).
+att(15485, root).
+
+arg(15490).
+text(15490, A solution must be voluntary through charity not coercive through State government fiat. If the rich are not bailing out the masses of poor with no skills via charity perhaps they have judged that there is an appropriate blame that lies at the feet of the parents - not them, the successful.).
+support(15490, root).
+
+arg(15489).
+text(15489, If western parents destined to send their children to Government schools (not adequately giving them skills for a prosperous life) had had twice as many children, then the deserving skilled worker would be penalized doubly so- a tyrannical system. ).
+support(15489, root).
+
+arg(15488).
+text(15488, All this illustrates is that millions of parents in the west for example gave birth to children destined to suffer abuse and live lives of anxiety. The blame rests with them. They did not vet or improve the education system and thus the skills they received - the only way to gain money, thus power.).
+att(15488, 15469).
+
+arg(15487).
+text(15487, I also think it is one of the great moral failings that has yet gone improperly addressed that people do have children with no probable reason to believe they can pay for that child's prosperity or quality of life. If you cannot afford proper education you are derelict in duty by having children.).
+att(15487, root).
+
+arg(15486).
+text(15486, The earnings of the skilled individuals of camp A are watered down as an increasing function of how many children B produced, even if they are valueless. This is a form of tyranny. You do not automatically morally get to own more of the world just by replicating yourself via sexual reproduction.).
+support(15486, 15485).
+
+arg(15471).
+text(15471, The same effect could be achieved by keeping only two levels of income: basic and incentive. For example, the incentive income could be 50% higher, and would be offered to those who perform a role that in demand and is currently hard to find people to fill.).
+att(15471, root).
+
+arg(15470).
+text(15470, A society without income inequality will not be able to attract workers to essential roles. For example, how will society ensure that doctors are available in unattractive locations? Currently, a higher income can serve as an incentive.).
+att(15470, root).
+

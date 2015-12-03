@@ -1,0 +1,7 @@
+arg(root).
+text(root, Is my black friend Terrelle Tyrone Tyron).
+
+arg(8325).
+text(8325, yes).
+att(8325, root).
+

@@ -1,0 +1,70 @@
+arg(root).
+text(root, The meaning of life is 42).
+
+arg(7679).
+text(7679, knowing this, changes nothing.).
+att(7679, root).
+
+arg(7530).
+text(7530, 42 is the answer to the question nobody knows. It was never cited to be "what is the meaning of life".).
+att(7530, 6708).
+
+arg(9292).
+text(9292, We do not know for certain that Steven knows the answer.).
+att(9292, 8794).
+
+arg(9293).
+text(9293, 42 is a beautiful number and deserves respect that's why ).
+support(9293, root).
+
+arg(6708).
+text(6708, According to the Hitchhiker's Guide to the Galaxy.).
+support(6708, root).
+
+arg(7591).
+text(7591, However, nobody knows what the meaning of life is. Therefore 42 is the answer.).
+att(7591, root).
+
+arg(7597).
+text(7597, I only know the german translation, but there it is clearly stated as "the meaning of life".).
+att(7597, root).
+
+arg(6741).
+text(6741, What does that mean for every other number?).
+att(6741, root).
+
+arg(9443).
+text(9443, Consider, instead, if 42 were not the meaning of life, but rather the answer to the ultimate question of life, the universe, and everything. Further, consider if this question could be stated as "What do you get when you multiply six by nine?").
+att(9443, root).
+
+arg(8634).
+text(8634, 2 balls + (5 go-nads x 8 beards) = 42).
+support(8634, root).
+
+arg(9452).
+text(9452, That's 54...?).
+att(9452, 9443).
+
+arg(8794).
+text(8794, Stephen Fry is the only surviving person who knows the answer to "Why 42?").
+att(8794, 7591).
+
+arg(8649).
+text(8649, However, nobody knows what the meaning of life is, therefore 42 is not the answer).
+att(8649, 7591).
+
+arg(9471).
+text(9471, Perhaps there is something fundamentally wrong with the universe. ).
+att(9471, 9452).
+
+arg(10964).
+text(10964, Deep Thought got the answer right but had a terrible interface. 42 is just a close approximation to the irrational number: 
+√(41*43)
+
+This number really does encode the meaning of life: the encoding scheme is left as an exercise for the reader.).
+att(10964, root).
+
+arg(10974).
+text(10974, Meaning requires a message, message requires communication, communication requires a sender and medium, there is no well specified sender and medium through which life can be assumed to be a message, we can not assume a well specified meaning, integers are well specified, 42 is an integer.).
+att(10974, root).
+

@@ -1,0 +1,15 @@
+arg(root).
+text(root, Russian red army is actually funded by US.).
+
+arg(5516).
+text(5516, Check the source.).
+support(5516, root).
+
+arg(5531).
+text(5531, If you are a socialist, basically your beliefs are funded by capitalism.).
+att(5531, root).
+
+arg(6232).
+text(6232, Only if your economic system includes capitalism).
+att(6232, 5531).
+

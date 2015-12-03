@@ -1,0 +1,37 @@
+arg(root).
+text(root, Anime is autistic. (In the same sense that minecon is)).
+
+arg(9601).
+text(9601, The same could be said about any visual media. The truth is that there are some good movies, some good shows, and some good anime, but most are very cheaply made garbage. The lowest common denominator among all three is going to be sexuality and forced emotional conflict. It's not unique to anime.).
+att(9601, root).
+
+arg(9536).
+text(9536, Anime is still, in most occasions, a cheaply made animated cartoon that is done as fast as possible with plot points being women's breast's and the hero screaming until his hair goes blonde. Plagued with filler material and bad animation, anime is a terrible source of entertainment. ).
+att(9536, root).
+
+arg(9717).
+text(9717, Anime is not a living creature so it cannot exhibit signs of mental illness. As a form of entertainment it is unbiased to specific mental health problems.).
+att(9717, root).
+
+arg(9718).
+text(9718, The above premise assumes that the OP's definition of autism is the medical form of autism instead of the colloquial definition. Therefore, he has taken the argument into a different direction, misleading the argument.).
+att(9718, root).
+
+arg(8785).
+text(8785, vaccines).
+support(8785, root).
+
+arg(8817).
+text(8817, Anime is a natural contraceptive).
+support(8817, 8785).
+
+arg(9473).
+text(9473, Autism is a neurodevelopmental disorder attributed to humans and neither 'Anime' nor 'MineCon' are humans.).
+att(9473, root).
+
+arg(9809).
+text(9809, That is not the correct usage of the "Wrong Direction" fallacy. 
+
+Wrong direction is an informal fallacy of questionable cause where cause and effect are reversed.).
+att(9809, 9718).
+

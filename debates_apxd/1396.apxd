@@ -1,0 +1,23 @@
+arg(root).
+text(root, We should end standardized testing.).
+
+arg(6487).
+text(6487, Standardized testing is the only way that students can be effectively compared to one another. The required ability of students to earn good grades (GPA) differs between schools, and cannot be used fairly to compare students to one another.).
+att(6487, root).
+
+arg(6500).
+text(6500, Students do not learn fron testing, and may times, they will not get their results to see how to improve. ).
+att(6500, 6487).
+
+arg(6560).
+text(6560, While standardized grading might not be the most effective learning method for the student (and conventional schooling and testing is), it is the only effective way to compare students from different schools.).
+att(6560, 6500).
+
+arg(6636).
+text(6636, Standardized testing is not a true measure of a student's intelligence, mastery of a subject, or of a teacher or school's competency. We should be teaching more critical thinking skills rather than rote memorization.).
+support(6636, root).
+
+arg(9602).
+text(9602, It leads teachers to teach the students just how to pass the test and not the original subject).
+support(9602, root).
+

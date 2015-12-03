@@ -1,0 +1,7 @@
+arg(root).
+text(root, Being unresponsible is unethical).
+
+arg(11839).
+text(11839, Intentionally or inintentionally choosing to be irresponsible for your actions and putting people in harm is unethical).
+support(11839, root).
+

@@ -1,0 +1,27 @@
+arg(root).
+text(root, Psychology is science.).
+
+arg(15334).
+text(15334, The goals of psychology differ from typical science subjects (physics, biology, etc.). In these "hard" sciences, one is able to prove something that can be considered a fact. (e.g., Newton's Law). The goal of psychology is to show evidence, not proof- due to individual differences.).
+att(15334, root).
+
+arg(11511).
+text(11511, Medicine is an application of science, much like engineering. ).
+att(11511, root).
+
+arg(11519).
+text(11519, Psychology ultimately does more harm than good regarding the interaction of humans as a social species. Philosophy is sufficient for understanding the mind. Medicine and treatment of preventable neurological disorders are science. The human brain is more complex than can be understood by observation).
+att(11519, root).
+
+arg(11521).
+text(11521, Consciousness and observation are a subset of the mind, and knowledge can only be obtained via closing the gap between conscious and subconscious. Also, the healing process of a patient is decided by the environment; a doctor can only provide or remove aspects of that environment to allow healing.).
+support(11521, 11519).
+
+arg(10108).
+text(10108, Psychology relies on the same rigorous and critical scientific approach all the other fields follow, forming testable hypothesis and performing repeatable experiments.).
+support(10108, root).
+
+arg(10458).
+text(10458, Psychology is a study; scientific study yes because you study it using scientific principles. Making bread is called baking but you can also harden clay via baking however you won't find clay in a baking cook book. Same methods, different things.).
+att(10458, 10108).
+

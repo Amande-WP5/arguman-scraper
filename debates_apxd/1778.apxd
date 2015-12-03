@@ -1,0 +1,8 @@
+arg(root).
+text(root, Teachers should not limit bathroom visits for students.).
+
+arg(10588).
+text(10588, There's a limit to how many bathroom visits are normal during one class. If a pupil really needs to go to the bathroom very often, then the child should be taken to medical examination before the bathroom limit is reached.
+Otherwise pupils could use bathroom visits as free time.).
+support(10588, root).
+

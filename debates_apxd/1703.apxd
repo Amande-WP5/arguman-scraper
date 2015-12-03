@@ -1,0 +1,7 @@
+arg(root).
+text(root, If corporations want us to buy their products they need to manufacture those products in this country, not in low-wage countries.).
+
+arg(9800).
+text(9800, Then the price of the good will rise, which may cause them to sell fewer.).
+att(9800, root).
+

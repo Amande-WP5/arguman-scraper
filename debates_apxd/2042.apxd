@@ -1,0 +1,7 @@
+arg(root).
+text(root, Vaccines can worsen the symptomology of pre-existing behavioral/neurological disorders.).
+
+arg(13488).
+text(13488, There is a relationship between bodily health (which vaccines sometimes, if only temporarily and in some individuals, affect) and brain functioning (which influences behavior).).
+support(13488, root).
+

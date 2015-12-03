@@ -1,0 +1,7 @@
+arg(root).
+text(root, Arguments should be positive (e.g. contain no 'not')).
+
+arg(11174).
+text(11174, It is easy to get confused about "but" and "because" premises.).
+support(11174, root).
+

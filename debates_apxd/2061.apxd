@@ -1,0 +1,51 @@
+arg(root).
+text(root, It is better to pay cash on a car purchase).
+
+arg(13671).
+text(13671, Who buys a car in an emergency?).
+att(13671, root).
+
+arg(13708).
+text(13708, If your previous car was totalled. Most people need to replace their car quickly in that situation or risk an incident at work. ).
+att(13708, 13671).
+
+arg(13580).
+text(13580, You are not burdened with debt later on).
+support(13580, root).
+
+arg(13581).
+text(13581, You may miss out on some dealer-financed discounts).
+att(13581, root).
+
+arg(13582).
+text(13582, It keeps you from buying above your means).
+support(13582, root).
+
+arg(13583).
+text(13583, It may hurt your credit rating in the long run).
+att(13583, root).
+
+arg(13584).
+text(13584, You pay less if you don't get charged the interest).
+support(13584, root).
+
+arg(13586).
+text(13586, But it may expand your means if you can pay over a longer period).
+att(13586, 13582).
+
+arg(13587).
+text(13587, But this is illusory. They should simply wait until they can afford it.).
+att(13587, 13586).
+
+arg(13588).
+text(13588, In an emergency people don't have that luxury.).
+att(13588, 13587).
+
+arg(13589).
+text(13589, Taking on this debt can leave you with a cash-cushion to deal with unexpected emergencies).
+att(13589, 13580).
+
+arg(13590).
+text(13590, Some loans are also 0% APR).
+att(13590, 13584).
+

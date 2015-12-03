@@ -1,0 +1,7 @@
+arg(root).
+text(root, Does "The Binding of Issac: Rebirth" deserve all the praise it is getting?).
+
+arg(8703).
+text(8703, A game being good is subjective, and because people praise games they see as good, and because many people see the game as good, it gets praise. It deserves the praise because it has convinced many people that it is a good game.).
+support(8703, root).
+

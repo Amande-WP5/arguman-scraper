@@ -1,0 +1,11 @@
+arg(root).
+text(root, Law enforcement training standards are not comprehensive enough, and should entail more stringent academic requirements. ).
+
+arg(12298).
+text(12298, the range of scenarios an average officer will experience necessitates a nuanced understanding of many societal variables, such as mental illness and substance abuse, which are not adequately covered in high school (education requirement for officers) or in police academies. ).
+support(12298, root).
+
+arg(12300).
+text(12300, officers often make poor decisions while on duty due to a lack of necessary information about any given situation, leading to poor results for society and the police alike. Many of these are cases in which training or education in a specific field could have prevented an undesirable outcome.).
+support(12300, root).
+

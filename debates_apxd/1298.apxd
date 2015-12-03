@@ -1,0 +1,109 @@
+arg(root).
+text(root, Running is better than cycling.).
+
+arg(5692).
+text(5692, Running is a more natural activity, whereas bicycling is artificial. ).
+support(5692, root).
+
+arg(5579).
+text(5579, you cant cycle in the wet while holding an umbrella).
+att(5579, root).
+
+arg(5464).
+text(5464, You burn more calories and move more muscles. ).
+support(5464, root).
+
+arg(5470).
+text(5470, Cycling is not just sports, it is also a common way of transportation).
+att(5470, root).
+
+arg(5857).
+text(5857, Cycling is a low impact activity, and is easier on your body.).
+att(5857, root).
+
+arg(5471).
+text(5471, Cycling is a less tiring activity as opposed to running.).
+support(5471, root).
+
+arg(7249).
+text(7249, In some parts of the world cyclists cause traffic problems. Running is a more considerate way to exercise.).
+support(7249, root).
+
+arg(7266).
+text(7266, Running is high impact on the joints where cycling is not. ).
+att(7266, root).
+
+arg(5616).
+text(5616, The lack of possibility to carry an umbrella alone should not disqualify a means of transport from being the better than another. ).
+att(5616, 5579).
+
+arg(5895).
+text(5895, If you suddenly need to escape a situation very fast, the odds of having a bicycle at hand are low.).
+support(5895, root).
+
+arg(5901).
+text(5901, Poor running form can be just as unhealthy).
+att(5901, root).
+
+arg(5517).
+text(5517, so is walking/running).
+att(5517, 5470).
+
+arg(5527).
+text(5527, Not if you keep pace up when cycling. The same amount of calories per minute exercised can be equal if not casually riding. ).
+att(5527, 5471).
+
+arg(5905).
+text(5905, Cycling lets you get somewhere faster with less effort but running is ideal for the most energy expended in the shortest amount of time (and also the least distance travelled.), more energy expended = faster muscle growth.
+
+The fact that one may be better than the other is subjective.).
+att(5905, root).
+
+arg(5535).
+text(5535, Cycling is more apt for longer distances, making it a more reliable form of transportation.).
+att(5535, 5517).
+
+arg(5844).
+text(5844, An improper seat and poor posture while riding can cause potential damage to the perineum which could lead to erectile dysfunction.).
+support(5844, root).
+
+arg(5467).
+text(5467, Cycling cause less knee and calf injuries).
+att(5467, 5464).
+
+arg(5541).
+text(5541, Whilst cycling you can cover more ground for the same amount of energy expended).
+att(5541, 5471).
+
+arg(10192).
+text(10192, It is easy to cause postural imbalance issues with cycling through constant bending of the torso and overdevelopment of the anterior chain. Running puts the body is a more natural and balanced posture, with more involvement of the posterior chain and a rigid torso being proper running form.).
+support(10192, root).
+
+arg(10194).
+text(10194, It is faster to recover from a cycling workout or perform when recuperating from another day, with less potential for acute injury, so it is a preferable conditioning exercise for endurance athletes.).
+att(10194, root).
+
+arg(10195).
+text(10195, Running has greater carryover than cycling to a variety of sports or physical activities.).
+att(10195, 5470).
+
+arg(10150).
+text(10150, Both cycling and running have variable amounts of tiringness depending on intensity. ).
+att(10150, 5471).
+
+arg(7234).
+text(7234, Running requires very little or no equipment and therefore can be done more easily).
+support(7234, root).
+
+arg(10151).
+text(10151, If you did have a bike on hand, it would probably be a better option. ).
+att(10151, 5895).
+
+arg(10158).
+text(10158, You can still wear a jacket to protect you from the rain).
+att(10158, 5579).
+
+arg(10173).
+text(10173, I often do this. A jacket with a hood, and a pair of gloves is all you really need for this to not be a problem.).
+att(10173, 5579).
+

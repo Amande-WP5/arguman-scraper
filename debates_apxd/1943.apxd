@@ -1,0 +1,7 @@
+arg(root).
+text(root, Real Estate agent/brokers are an unnecessary profession in a successful economy ).
+
+arg(13239).
+text(13239, The buyer/seller of a home would have to spend time learning regulations on buying/selling a house, draw up paperwork, coordinate schedules to meet the potential buyer/seller, etc. This could lead to a hassle for people too busy to worry about such things. ).
+att(13239, root).
+

@@ -1,0 +1,160 @@
+arg(root).
+text(root, Arguing on the internet is pointless!).
+
+arg(6255).
+text(6255, It allows anonymous conversation to take place with people from a multitude of backgrounds to expand our world view and potentially change our viewpoints of topics.).
+att(6255, root).
+
+arg(5572).
+text(5572, just because a discussion is anonymous it doesnt mean its pointless).
+att(5572, root).
+
+arg(5650).
+text(5650, It gets rid of any stereotypes that one can not subconsciously control meaning that people can talk to each other as perfect equals. ).
+support(5650, 5572).
+
+arg(6239).
+text(6239, Anyone on the fence about the issue may join one side or another).
+att(6239, root).
+
+arg(7236).
+text(7236, Many things in life are pointless yet are still done to achieve entertainment. Examples include art and games.).
+att(7236, root).
+
+arg(5910).
+text(5910, We obviously are weirdos.).
+att(5910, root).
+
+arg(5581).
+text(5581, the shelter that is imposed by discussing anonimously may help some people express an opinion on a certain topic that they would never dare to state in a face-to-face discussion).
+support(5581, 5572).
+
+arg(5656).
+text(5656, While anonymity allows one to speak opposing opinions without physical backlash, it also allows one to say hurtful and nasty things with no purpose other than to tear down the other individual.).
+att(5656, 5581).
+
+arg(5659).
+text(5659, All life is pointless.).
+support(5659, root).
+
+arg(5779).
+text(5779, Even "wrong" arguments can fuel constructive conversations and conclusions.).
+att(5779, root).
+
+arg(6662).
+text(6662, The internet provides a genuine front for a great deal of important issues. People with access to online debating fronts such   as this bear the ability to either support or alter their opinion on genuinely important matters.).
+support(6662, root).
+
+arg(5713).
+text(5713, But whether a person is willing to make a particular argument has no bearing on whether that argument is right or wrong.).
+att(5713, 5581).
+
+arg(5924).
+text(5924, Increased source diversity could bring forth ideas that would not surface otherwise. If people only propose preexisting ideas, then only new relations between known ideas can occur. If more ideas are present, a greater number of new relations can be made, increasing chance of meaningful findings.).
+att(5924, root).
+
+arg(5596).
+text(5596, Discourse and dialogue on certain topics should be encouraged where the alternative might have been none at all. The information age has helped make more issues visible to society in this way. (If we go about it respectfully).).
+att(5596, root).
+
+arg(6328).
+text(6328, The person being tortured is at the mercy of the torturer. In an argument on the internet, both people are consenting to a discussion when/if they reply and have the option to remove themselves from this at any time. Torture also involves tangible physical/psychological harm.).
+att(6328, root).
+
+arg(6270).
+text(6270, Others can rally in support of those choosing to discuss topics properly and not support those attempting to dismantle the person instead of the argument.).
+att(6270, 5656).
+
+arg(7270).
+text(7270, It is torture because of the uneducated masses who observe the debate.).
+att(7270, 6328).
+
+arg(6528).
+text(6528, Arguing on the internet is a more accessible way to practice debate skills).
+att(6528, root).
+
+arg(5621).
+text(5621, I relish challenges. It is fun and entertaining for intellectual  weirdos. ).
+support(5621, root).
+
+arg(7126).
+text(7126, This assumption assumes that people can't change their minds everyday.).
+att(7126, root).
+
+arg(5625).
+text(5625, arguing ove the net, doesnt mean we're weirdos. ).
+att(5625, 5621).
+
+arg(5821).
+text(5821, It is a logical fallacy to discredit an idea based on the premise of knowing where the idea comes from. The idea itself is the argument. ).
+support(5821, 5713).
+
+arg(5959).
+text(5959, No one is going to change their point of view because of an online argument).
+support(5959, root).
+
+arg(6195).
+text(6195, This is a generalizing statement, you cannot know if someone will change their view or not. Even if 100% of people before this point have never changed their view after viewing an argument on the internet, that does not mean that no one will in the future.).
+att(6195, 5959).
+
+arg(6547).
+text(6547, We are arguing over the internet about if we should argue over the internet.).
+support(6547, 5910).
+
+arg(7295).
+text(7295, It doesn't matter what medium an argument is taking place within, an argument can change peoples views for the better.).
+att(7295, root).
+
+arg(7299).
+text(7299, It's just as useful as arguing IRL. Some people might not take your arguments into consideration anyway.
+ Arguing is a great thing, but just with the right people.).
+att(7299, root).
+
+arg(6557).
+text(6557, when we argue on the Internet, we are all just arguing with ourselves about how much we hate the opposing viewpoints.).
+support(6557, root).
+
+arg(6997).
+text(6997, why are you here then).
+att(6997, root).
+
+arg(6220).
+text(6220, To some, torturing others is a form of entertainment.).
+att(6220, root).
+
+arg(7008).
+text(7008, this assumes people change their minds everyday).
+att(7008, root).
+
+arg(6576).
+text(6576, It's fun.).
+att(6576, root).
+
+arg(7012).
+text(7012, Because it is a form of entertainment, it naturally devolves into meaninglessness.).
+att(7012, root).
+
+arg(7016).
+text(7016, People are willing to make unsupported claims for fun. Very few people are willing to expend effort to support their statements with evidence.).
+support(7016, 7012).
+
+arg(5568).
+text(5568, Arguing on the internet is a form of entertainment.).
+att(5568, root).
+
+arg(7200).
+text(7200, OP's Mom is gay).
+support(7200, root).
+
+arg(6608).
+text(6608, Most information on any topic is found on the internet and therefore the internet is changing/making up peoples minds every day. ).
+att(6608, 5959).
+
+arg(7049).
+text(7049, Everyone's doing it wrong.).
+support(7049, root).
+
+arg(7060).
+text(7060, Generalization without evidence).
+att(7060, 7012).
+

@@ -1,0 +1,11 @@
+arg(root).
+text(root, If you are unresponsible then you are careless).
+
+arg(9870).
+text(9870, Being responsible is being obligated to be in charge of or in control of a certain thing. When you care, you give concern or interest to a certain thing. When you choose to not for the thing, you lack the feeling of obligation, and thus lack care and responsibility for said thing.).
+support(9870, root).
+
+arg(10041).
+text(10041, Someone could carefully choose to neglect certain responsibilities.).
+att(10041, root).
+

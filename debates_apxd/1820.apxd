@@ -1,0 +1,11 @@
+arg(root).
+text(root, A.I shouldn't be enslaved).
+
+arg(12049).
+text(12049, If an artificial intelligence cannot suffer, then it wouldn't affected if it were enslaved.).
+att(12049, root).
+
+arg(11129).
+text(11129, That requires a distinction between artificial actors (like companies, non-intelligent software, nations, etc) and AI.).
+att(11129, root).
+

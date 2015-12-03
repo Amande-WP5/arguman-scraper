@@ -1,0 +1,7 @@
+arg(root).
+text(root, Rich people should spend more money, the society will benefit.).
+
+arg(15048).
+text(15048, It's in our (regular people) interest that they spend their money, because the effect will cascade down the layers in society, providing jobs and wealth to those not so rich.).
+support(15048, root).
+

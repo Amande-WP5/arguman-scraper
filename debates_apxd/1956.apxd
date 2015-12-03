@@ -1,0 +1,11 @@
+arg(root).
+text(root, Cognitive Dissonance is key to the human condition).
+
+arg(12817).
+text(12817, it allows us to be moral agents).
+support(12817, root).
+
+arg(12818).
+text(12818, Not all people are moral agents).
+att(12818, 12817).
+

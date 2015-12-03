@@ -1,0 +1,28 @@
+arg(root).
+text(root, Drones are a threat to privacy and get innocent civilians in other countries killed).
+
+arg(13253).
+text(13253, The technology itself may be neutral however the policies in place whereas the NSA justifies firing a hell fire missle because the target looked around the right age to be in ISIS is not.).
+att(13253, root).
+
+arg(13238).
+text(13238, Like any piece of technology they are not inherently good or evil. The user defines that role. ).
+att(13238, root).
+
+arg(13289).
+text(13289, The issue here is with drones, in general. What you are arguing for is tighter regulation of the NSA, which may or may not be a valid issue, but is not the issue at hand. The issue here is are drones, as a whole, a threat? Or does the issue stem from those who misuse them?).
+att(13289, 13253).
+
+arg(13244).
+text(13244, A drone can potentially outrange binoculars. (Possibly not consumer grade but none the less)
+
+Microphones and cameras are invasions of privacy when used certin ways such as say bugging someones home illegally.
+
+The NSA is a separate topic entirely.
+).
+att(13244, root).
+
+arg(12986).
+text(12986, I can see much farther away with binoculars than I can with a drone. Why does nobody care about them? Are microphones and cameras also invasions of privacy? What about the NSA? I don't think drones should be such a controversy. Punish those who use them irresponsibly, end of story.).
+att(12986, root).
+

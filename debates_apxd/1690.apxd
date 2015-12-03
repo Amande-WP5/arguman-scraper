@@ -1,0 +1,7 @@
+arg(root).
+text(root, Ethics man did what had to be done).
+
+arg(9579).
+text(9579, Ethics are what someone ought to do. Morality describes what someone is actually doing.).
+att(9579, root).
+

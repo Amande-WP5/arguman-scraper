@@ -1,0 +1,539 @@
+arg(root).
+text(root, True communism is better than capitalism, and should be pursued.).
+
+arg(8273).
+text(8273, This is from actual applications of the free market, not theoretical ideas ).
+att(8273, root).
+
+arg(7820).
+text(7820, Greed is impossible to remove from the human condition).
+support(7820, root).
+
+arg(12534).
+text(12534, As you move towards true communism, the distinction between "the state" and the citizens diminishes until there ceases to be a "state". There are just the people, making decisions together. Corruption will be found, conflict won't gather momentum if the masses are cooperative. The economy will work.).
+att(12534, root).
+
+arg(7557).
+text(7557, True communism also abolishes the idea of an above average standard of living, and with the government bearing the full weight of the economy while trying to average out money distribution, the average standard of living sounds close to or equal to poverty as we see it today.).
+att(7557, root).
+
+arg(8481).
+text(8481, Similar more to the original founding of America? ).
+att(8481, root).
+
+arg(8061).
+text(8061, the states referenced in your source actually dont follow a True Communist framework. Deaths in Russia and China due to "communism" are actually deaths under capitalism since these societies never established truly communist states).
+att(8061, root).
+
+arg(7848).
+text(7848, Society is advanced and improved due to monetary consequence rather than moral consequence. ).
+support(7848, root).
+
+arg(7744).
+text(7744, Then that makes the two options equally unrealistic, and the whole question becomes meaningless.).
+att(7744, root).
+
+arg(13675).
+text(13675, it also removes all motivation for individuals to push their limits and 'work harder' than their peers).
+att(13675, root).
+
+arg(7870).
+text(7870, That is only applicable in societies with capital, which is not the case of true communism.).
+att(7870, 7848).
+
+arg(7872).
+text(7872, I agree these do play a part. But you cannot deny the speed and accountability that the free market offers ).
+att(7872, root).
+
+arg(8279).
+text(8279, If the method in which you measure success of a theory isn't based on the preservation of human rights then this argument doesn't matter).
+att(8279, root).
+
+arg(7881).
+text(7881, All individuals will have access to their needs, independent of the profession. What would determine whether you're elligible for acquiring goods is being active at your job, and being useful for the community. A doctor would get the same payment as a builder, which is full access to their needs.).
+att(7881, root).
+
+arg(7886).
+text(7886, Capital based societies provide more benefit to human beings. ).
+att(7886, 7870).
+
+arg(7888).
+text(7888, Communism kills. 80-100 million deaths so far ).
+support(7888, 7886).
+
+arg(7891).
+text(7891, True communism is unachievable. Any deviation from the exact doctrine is deadly due to the lack of individual rights ).
+support(7891, 7888).
+
+arg(7893).
+text(7893, Eliminating corruption from government is impossible. There is no evidence to refute this ).
+att(7893, root).
+
+arg(11684).
+text(11684, capitalism and regulation exlude each other).
+att(11684, root).
+
+arg(8303).
+text(8303, Please refute this claim ).
+att(8303, 7891).
+
+arg(7782).
+text(7782, A commune does not have to be comprised of equals. You are thinking of the U.S.' propagandized interpretation. A true commune seeks only the betterment of the people within it, focusing on the wellbeing of it's members, over wealth. It is a small distinction, in reality, and does not exclude reward.).
+att(7782, root).
+
+arg(11688).
+text(11688, automation in capitalism means that production is getting cheaper and cheaper so less and less work needs to be done to aquire certain products, but some work has to be done nevertheless. This is better option because owner of production is getting rewarded for his efforts.).
+att(11688, root).
+
+arg(8316).
+text(8316, How can you regulate wages and fair distribution of wealth without a state? ).
+att(8316, root).
+
+arg(8319).
+text(8319, If it can't be forced, why do we debate whether or not it should be pursued? How can we pursue without regulation or prompting from governing bodies?).
+att(8319, root).
+
+arg(8372).
+text(8372, In a Socialist sense this is accomplished by Democratically elected workers councils for each industry that manage and vote on remuneration. There may exist various tiers of these, depending on the level of organisation and representation required for particular decision-making (local vs. national).).
+support(8372, 8316).
+
+arg(8373).
+text(8373, Communism has protected human rights better than capitalism? ).
+att(8373, root).
+
+arg(7791).
+text(7791, Bread lines have nothing to do with Communism and Capitalism. Full Communism has been tested and tried in many countries in Latin America, showing major depressions as well.).
+att(7791, root).
+
+arg(8376).
+text(8376, The impetus comes from below, not above.).
+support(8376, 8319).
+
+arg(7797).
+text(7797, What determines the distribution of wellbeing and benefit to members of a commune that aren't equal? ).
+att(7797, 7782).
+
+arg(8382).
+text(8382, Sounds like a libertarian ).
+att(8382, 8376).
+
+arg(12345).
+text(12345, A group that works in perfect cohesion and equally distributes labor is no different than a group that focuses on the individual and happens to result in equally distributed labor. My definition assumes that perfect capitalism results in equality.).
+support(12345, root).
+
+arg(7807).
+text(7807, Not trying to be antagonistic at all here, just trying to understand. Being paid based on need and ability? That sounds like socialism, what are the inherent differences?).
+att(7807, root).
+
+arg(8292).
+text(8292, We can argue about what the best system is in dream land, but it's clear which system is superior in protecting human rights in actual application ).
+att(8292, root).
+
+arg(7802).
+text(7802, "with it's members being paid according to need, and ability" - Marx
+
+).
+att(7802, 7797).
+
+arg(8395).
+text(8395, That description of true communism is synonymous with anarchy without all the bad things that can happen. You can't squeeze blood from a turnip).
+att(8395, root).
+
+arg(13815).
+text(13815, here's how I'd argue:
+
+No person's are equal.
+Most person's are exceptional people.
+Therefore, most exceptional people are not equal. ).
+support(13815, root).
+
+arg(8413).
+text(8413, Sources please ).
+att(8413, root).
+
+arg(11026).
+text(11026, What 'capitalism' can and cannot result in is impossible to determine, because it is a vision for social organization, and not a reproducible proposal for a specific action or policy.).
+att(11026, root).
+
+arg(7825).
+text(7825, Communism- "to each according to need, and ability"
+
+Socialism - "to each according to need, and contribution"
+
+Communism removes the ability to, as a carpenter, monopolize wall trim by making the most of it. One pay for one skill= no accumulation of wealth other than savings. ).
+att(7825, 7807).
+
+arg(7817).
+text(7817, The very fact that individuals can be superior is exactly why these things always end in genocide and oppression.).
+att(7817, root).
+
+arg(7900).
+text(7900, Also due to a government that cannot be held accountable other than by moral objections (which does little to nothing) ).
+support(7900, 7891).
+
+arg(7553).
+text(7553, Human conscience is derived from material conditions, and is malleable. Men would have no motives to be greedy if everybody has access to all the resources. Thus, conscience is dependent on the current economic system.).
+att(7553, root).
+
+arg(11590).
+text(11590, Government is complex. The number of issues government has causes them to become watered down. ).
+att(11590, root).
+
+arg(7570).
+text(7570, Bread lines also occurred during the major depressions caused by unbridled, unrestrained capitalism, a system which has been practically tried and tested, unlike Full Communism.).
+att(7570, root).
+
+arg(11990).
+text(11990, see my black book of capitalism source with those deaths attributed to capitalism, it would seem that capitalism does not focus on the preservation of human life or human rights ).
+support(11990, 8373).
+
+arg(7558).
+text(7558, Bread lines.).
+att(7558, root).
+
+arg(11030).
+text(11030, False dillemma. It is possible that humans are neither wholly competitive nor wholly cooperative. It has also not been shown why either condition would be relevant to the affirming or rejecting the initial proposal.).
+att(11030, root).
+
+arg(11031).
+text(11031, No society has ever taken all of the steps necessary because no such list of steps exists. No one has ever written a well specified set of action proposals for reproducibly achieving communism for which there is broad objective consensus on as being or resulting in the 'true' path.).
+att(11031, root).
+
+arg(7527).
+text(7527, True Communism by human nature is unachievable.
+
+Man will always seek more, greed is an instinct. ).
+att(7527, root).
+
+arg(12344).
+text(12344, At their best, true communism and true capitalism are indistinguishable. ).
+att(12344, root).
+
+arg(8369).
+text(8369, There is no such as true communism and never will be.).
+att(8369, root).
+
+arg(7746).
+text(7746, True unsinkable ships are better than ships that have the possibility of sinking and should be pursued. It can be pursued but is impossible to be attained. ).
+att(7746, root).
+
+arg(7786).
+text(7786, There is payment in communism. "with individuals being paid according to need, **and** **ability**. Skilled labor is rewarded in true communism. 
+
+Saying that there is not payment is believing in an interpretation of communism designed to scare citizens of a capitalist society. ).
+att(7786, root).
+
+arg(11036).
+text(11036, Unsubstantiated claim of superiority over an unspecified number of alternatives without any specific comparison or reference to measurable properties.).
+att(11036, root).
+
+arg(8479).
+text(8479, Yes, it is very similar. The decision-making councils are made up of those who work in particular industries and are elected directly from them to represent the industry. This is in contrast to today's career politicians. Since there is no real state, "politician" is not a job under Full Communism.).
+support(8479, root).
+
+arg(10953).
+text(10953, There is such thing as true communism in theory, and we don't know it will never work because we have never taken all the steps required to shift to a true communist society.).
+att(10953, 8369).
+
+arg(11023).
+text(11023, Neither 'true communism' nor 'true capitalism' should be pursued. Both are extremely underspecified visions offering little utility to legislatorrs concerned with the details of implementations, use labels which needlessly polarize the electorate, and would unnecessarily decrease social stability.).
+att(11023, root).
+
+arg(11044).
+text(11044, The same could be said about anarchy or even despotism.).
+att(11044, 10953).
+
+arg(11620).
+text(11620, But what would make people put all the effort in becoming a doctor for example if they're going to be paid like everyone else.).
+support(11620, root).
+
+arg(11622).
+text(11622, This can justify slavery ).
+att(11622, root).
+
+arg(13052).
+text(13052, Altering one or the other to cater more to true human nature might provide a workable system. Perhaps incorporating the best of both.).
+att(13052, 7744).
+
+arg(13043).
+text(13043, I point to the source I posted above:
+"human children — and most higher animals — are “moral” in a scientific sense, because they need to cooperate with each other to reproduce and pass on their genes, he said.").
+att(13043, 11030).
+
+arg(8270).
+text(8270, Again. True communism doesn't kill in theory. But any deviation from perfection results in massive turmoil. Communism that isn't 100% communism doesn't make it capitalism. While the free market doesn't gaurantee human rights, it is the system that values human rights the most ).
+att(8270, 8061).
+
+arg(7780).
+text(7780, The needs of the many outweigh the needs of the few / ends justify the means ).
+support(7780, root).
+
+arg(7536).
+text(7536, True communism can help to abolish poverty).
+support(7536, root).
+
+arg(11465).
+text(11465, Someone's been sucking the milk from Stalin's tit. ).
+support(11465, root).
+
+arg(13644).
+text(13644, capitalism is voluntary exchange of goods and services between two individuals. There is no place for regulation. If you regulate exchange then this is not capitalism anymore.).
+att(13644, root).
+
+arg(7559).
+text(7559, That's actually chatolic socialism. There is no concept of "money" in true communism, and the average life in communism is much better than the average life in capitalism, as overproduction and "scheduled obsolescence" wouldn't exist, thus granting the right amount of the best equipment to everyone.).
+att(7559, 7557).
+
+arg(11063).
+text(11063,  Most argue that capitalism fails due to greed. Considering greed as a negative component of human will born from ego, "True Communism", a theoretical model based on absolute equality in the absence of class, could be veiwed the same as putting the hyenas in the same cage as the antelope.  ).
+att(11063, root).
+
+arg(7835).
+text(7835, This completely eliminates the process of improvement. Why should I make better trim in a faster way if I'm paid the same. The answer is because it's better for the collective. But the idea of everyone in the commune wanting the greater good is naive. ).
+att(7835, 7825).
+
+arg(11053).
+text(11053, The claim that consciousness is derived purely from material condition fails to recognize emotion as component of consciousness. By considering the rational, one can recognize that basic human needs and material "equality" have little to do with why people become greedy.  ).
+att(11053, 7553).
+
+arg(11028).
+text(11028, The economic calculation problem due to lack of prices.).
+att(11028, root).
+
+arg(8286).
+text(8286, The statement we're addressing is whether or not it should be pursued over capitalism. Pursuit will lead to failure that is larger in scope to capitalism because of reasons previously stated. Yes the USSR was not perfect communism. But it was the pursuit of communism, which is what is being argued ).
+support(8286, root).
+
+arg(8341).
+text(8341, your premise rests on your supposed knowledge on the psyches of others, and is therefore merely a belief. Also there are instances of corruption being eliminated in government so its fair to say that you can eliminate corruption in gov't).
+att(8341, 7893).
+
+arg(7736).
+text(7736, Anything can be coveted, happiness for example. This system must be completely void of greed for it to not collapse. It always ends with the death of minority groups ).
+att(7736, 7553).
+
+arg(7757).
+text(7757, In reality people don't have access to all the same resources, neither in communism nor in capitalism.
+In both cases, the richer is the one higher in machiavellianism.
+We also know for certain that people don't have the same motives, the same values or the same conscience, regardless of society.).
+att(7757, 7553).
+
+arg(8408).
+text(8408, What is your definition of success of a political theory?).
+att(8408, root).
+
+arg(8412).
+text(8412, I would assume you would argue that the free market has a net negative effect on humanity? ).
+att(8412, root).
+
+arg(11035).
+text(11035, A society without money would be needlessly inefficient, because money is one of the most direct tools a society has for incentivizing the completion of socially necessary labor which would otherwise not be performed or prioritized in the absence of an incentive.).
+att(11035, 7559).
+
+arg(8284).
+text(8284, The idea that a true communist framework is attainable is not real. Any attempts to achieve this always end in blatant disregard for individual rights and needless killing of innocent people. Which is why the pursuit of communism is not superior to capitalism ).
+att(8284, 8061).
+
+arg(8301).
+text(8301, Nirvana Fallacy ).
+att(8301, 8061).
+
+arg(7763).
+text(7763, Only if the anadulterated achievement of a political theory is what gives these systems value. Other sources of value are present, such as quality of life, individual freedoms, good of the collective. This proves the existence of a subjective winner between the two and thus the question is relevan).
+att(7763, 7744).
+
+arg(7827).
+text(7827, If you can't use wealth to produce wealth, where does improvement and ingenuity come from? The state? That severely limits and slows the ability to provide a better quality of life for all ).
+att(7827, root).
+
+arg(7869).
+text(7869, Your argument has no basis other than pure belief. Also, human conscience changes throughout the times: There is no more slavery, yet everyone who wasn't a slave in 100 b.C thought it would never change.).
+att(7869, 7820).
+
+arg(13794).
+text(13794, if law is not accepted then it is not obeyed. I don't understand what is the problem here. Also I don't understand what do you mean by controlling morality? Please explain).
+att(13794, root).
+
+arg(8353).
+text(8353, "Something that naturally develops when a society meets certain standars" sounds like something that cannot, and should not be pursued.).
+att(8353, root).
+
+arg(7560).
+text(7560, This flaw is found in any political system. However, Full Communism accounts and adjusts for greed in a more sensible and sustainable way than any other political system. Other systems typically do not account for, and even actively promote, the negative results of unbridled greed.).
+att(7560, 7527).
+
+arg(7800).
+text(7800, If you are rewarded for ability in a communist government, that in itself allows for the formation of an elite class which is what communism sets out to abolish in the first place ).
+att(7800, 7786).
+
+arg(7875).
+text(7875, The payment is not in a monetary unit, rather, in necessities. Say you'd work for a shoe-making company. You'd get a certification of your work, and can present it at distribution centers, where you'd take from the shelves all you needed, and only what you needed. No reason to take more.).
+att(7875, 7786).
+
+arg(7535).
+text(7535, .. so is sustainable capitalism.).
+att(7535, 7527).
+
+arg(11077).
+text(11077, There is no scientific consensus about what "human nature" is. Greed is a social construct and would be unnecessary under communism in an abundant society.  ).
+att(11077, 7527).
+
+arg(7764).
+text(7764, Capitalism cannot remove all aspects of economy or poverty, because it cannot remove the affect from outside economies.
+You would first need to remove the possibility for anyone to gain any riches from trading with any outside economies.).
+support(7764, root).
+
+arg(12789).
+text(12789, Regulation does not constitute a change in ownership of a market from private to state. It is a relationship between the participants, in some cases through elected officials, and businesses. ).
+att(12789, 11684).
+
+arg(12536).
+text(12536, The only circumstance under which true communism could be achieved is everyone wanting it. That condition is also self-perpetuating. Therefore there is one step: spread its message until everyone wants it. If it hasn't happened yet, the world isn't ready, and if it has, the world is ready.).
+support(12536, 11031).
+
+arg(7866).
+text(7866, Pride and conscience play a fundamental role. A manufacturer would sleep better at night if they make sure they're offering the most comfort possible to the community. Scientists would search for new drugs to help the unhealthy, and take pride on their achievement. Piety is also determinant.).
+att(7866, 7835).
+
+arg(7543).
+text(7543, It removes all aspects of economy and its issues, meaning no more crisis and poverty. It also makes all men truly equal upon the law, deleting social differences. True communism also would imply in a better industry.).
+support(7543, root).
+
+arg(13666).
+text(13666, Less corruption is better. ).
+support(13666, root).
+
+arg(11080).
+text(11080, It's not impossible to have a transparent government that can be held accountable by its people if all people were engaged and had access to the facts. ).
+att(11080, root).
+
+arg(8312).
+text(8312, This is simply not true. Human attitudes and behaviour are constantly reshaped by the changing economic systems in which people find themselves. The only thing that can be said for certain is that the current economic system, capitalism, promotes greed as a human trait. Humans are cooperative animls).
+att(8312, 7527).
+
+arg(7915).
+text(7915, The weight of the evidence of history is against this claim. Those countries are typically authoritarian state-capitalist. If the state exists at all, it's not Full Communism.).
+att(7915, 7791).
+
+arg(8290).
+text(8290, That is incorrect, as the existence of a government indicates the lack of true communism. Communism, by its very nature, isn't something you can try, it's something that naturally develops when a society meets certain standards. Communism cannot be forced, and thus we've never actually seen it.).
+att(8290, 7791).
+
+arg(8329).
+text(8329, well if the gauge is preservation of humans rights capitalism is just as guilty if not more. The Black Book of Capitalism accredits more than 100 million deaths in the 20th century alone to capitalism. Capitalism isn't preserving human life or rights any better.).
+att(8329, 8279).
+
+arg(11066).
+text(11066, Both are only theories at best. But which one might be regulated easier? Communism relies on the regulation of the will of it's people whereas capitalism,  is best regulated in physical reality. But then we go back to the corruption within the regulation and right back to human will again. So close!).
+support(11066, 11023).
+
+arg(8399).
+text(8399, So it's the exact same thing as a republic but instead of physical boundaries to divide power it's divided by trade? ).
+att(8399, 8372).
+
+arg(8385).
+text(8385, It can only be pursued from an individual standpoint. Therefore, any attempt to instigate change to communism that isn't from an individual point of view is null because it's not technically communism. Therefor it should not be pursued by any means other than personal revelation ).
+support(8385, 8382).
+
+arg(13668).
+text(13668, Centralization makes corruption easier. True communism is more centralized than true capitalism. Therefore true communism is not better than capitalism.).
+att(13668, 13666).
+
+arg(13674).
+text(13674, whether they are possible for humanity to achieve is not the question.  in theory, true communism is better, therefore, if we are to pursue it or another system (that we also 'may not' be able to achieve), we should clearly choose the one that is 'better').
+att(13674, 7744).
+
+arg(13673).
+text(13673, there's a place for regulation in human rights and civil liberty? Don't human rights involve voluntary exchanges?).
+att(13673, 13644).
+
+arg(13781).
+text(13781, only if given right or regulation is voluntarily accepted by both sides. It cannot be forced upon them by third party to call it capitalism).
+att(13781, 13673).
+
+arg(7767).
+text(7767, The victimization of a scapegoat is always the end game of communism, because it's impossible to force everyone to be equal, which causes strife. This is why every attempt at communism ends up with people needlessly dying. Protection of innocents is always better than economic equality. ).
+att(7767, root).
+
+arg(8332).
+text(8332, Having the word moral in an argument does not make it an appeal to belief. There is nothing holding a communistic government in check other than what they believe is to be good for the community ).
+att(8332, 7900).
+
+arg(13782).
+text(13782, but what if it is not voluntarily accepted? I only ask because the probability of anything having 100% voluntary agreement is highly unlikely. Also, so I'm clear; Trade=>manmade=>no control. PersonalMorality=>unique to Individual=>theoretically controllable. Correct????
+  ).
+att(13782, 13781).
+
+arg(13807).
+text(13807, Communism gov. relies 1)social equality 2)ethics. Since social currency is morality, its very hard to track. Social equality requires most/all to agree that they are all equal. Human nature don't work like that. If you do, great. But most people think their a lil better than others. equality=>DNE.
+).
+support(13807, root).
+
+arg(13811).
+text(13811, you must consider the other aspects of humanity to argue this. Take a schoolyard. Theres no market, just "equality", right? no. Kids group and conquer. If I'm well educated and self reliant, would I agree an illiterate is equal? no. Do women have to date every man because there all equal? no. See?).
+support(13811, 13807).
+
+arg(13806).
+text(13806, Capitalism as a system of gov relies 1st  on markets in reality and 2nd ethics. Since market currency is $, a physical currency, it can be tracked and regulated. If honest people are in charge of regulating trade, then bad ethics become evident and punishments can be carried out.  ).
+support(13806, 13794).
+
+arg(7754).
+text(7754, If a society allows for the growth of an individual who desires more (covets), while providing for the basic needs of it's citizens, the insecure can still become wealthy within it, while being less able to victimize it's poor. Or, put another way, communes can abide the wealthy. ).
+att(7754, 7736).
+
+arg(8322).
+text(8322, yes communism is a superior system at protecting human rights b/c it recognizes sociopolitical standing as relative to your access to (in a broad sense) "materials" a system with that in mind will protect the rights of humans over a system that prioritizes competition).
+support(8322, 8292).
+
+arg(8291).
+text(8291, It's not hard to think about a perfect system. Perfectism: Nobody is murdered and no one is without want. It's infallible because it's the perfect system! But it isn't attainable. It's also worse when you try to get "perfectism" and it ends up killing more than when you started. ).
+att(8291, 8061).
+
+arg(7809).
+text(7809, When an individual is awarded for his/her works/abilities alone, they are superior, yet not elite. Put another way, doctors should be paid more than clerks, but doctors should not be allowed to use that wealth to build more wealth, as it would exclude those who do not have wealth from the same. ).
+att(7809, 7800).
+
+arg(11125).
+text(11125, Communism only works as automation increases. If all farming is done by robots, there are no humans in need of being paid to incentivize food production, and food can thus be free to all. Every industry that can be turned over to automation can be communal, but all others must remain capitalist.).
+att(11125, root).
+
+arg(7741).
+text(7741, Having a government that is incapable of corruption and that values inherent good over capital is unrealistic and unachievable. Mediocrity is acceptable because no one is hurt, but "the collective" isn't furthered either. ).
+att(7741, root).
+
+arg(7568).
+text(7568, The industry will only produce top-notch equipment and goods, as the primary objective is to offer as much satisfaction to the people as possible. No scheduled obsolescence means that products won't be made with the intent to need reparing and there won't be as many little updates to said products.).
+support(7568, 7543).
+
+arg(15735).
+text(15735, The economic calculation problem is based on supply and demand + time. Prices are no longer relevant in a world where computers and the internet can give us real time supply and demand + time calculations. Price is obsolete.).
+att(15735, 11028).
+
+arg(15737).
+text(15737, Dan Pink argues we are better motivated by Autonomy, Mastery, and Purpose than by the old model of reward and punishment.).
+att(15737, 13675).
+
+arg(15738).
+text(15738, Capitalism's focus on the individual naturally results in unequally distributed labor. As technology increases efficiency, fewer workers are needed.).
+att(15738, 12345).
+
+arg(11025).
+text(11025, 'True communism' does not imply a better industry, because 'true communism' does not exist as a well specified set of policy proposals from which different people can objectively and repeatedly derive the same implications. That is to say, we can not reliably draw any implications from it at all.).
+att(11025, 7543).
+
+arg(15732).
+text(15732, A person in a "true communist" society would never be in a situation where they cannot afford to eat after having spent all their money elsewhere, as in capitalism.).
+att(15732, 12344).
+
+arg(12374).
+text(12374, It seems to me that placing all control in the hands of the state would have serious consequences if the state were to fail in some way (war, corruption, economic crisis).).
+att(12374, root).
+
+arg(15733).
+text(15733, I stand in line for bread every time I want bread in this capitalist society. We have tons of lines everywhere.).
+att(15733, 7558).
+
+arg(15836).
+text(15836, Regardless of where we sit on the capitalist/communist spectrum, we're doomed as long as society remains dependent on hierarchical governance. That's why Stalinism failed (the state became the ruling class) and that is why capitalism serves only to funnel wealth from the poor to the rich.).
+att(15836, root).
+

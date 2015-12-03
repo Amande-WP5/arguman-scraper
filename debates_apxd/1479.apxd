@@ -1,0 +1,7 @@
+arg(root).
+text(root, There is nothing wrong with using psychiatric drugs to treat depression.).
+
+arg(10080).
+text(10080, If it's only used by the individual and effects no one around them nor is abused.).
+att(10080, root).
+

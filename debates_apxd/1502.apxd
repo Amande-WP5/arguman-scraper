@@ -1,0 +1,83 @@
+arg(root).
+text(root, iOS is better than Android).
+
+arg(8754).
+text(8754, User friendliness is defined by each user).
+att(8754, root).
+
+arg(7547).
+text(7547, iOS is, in general, more reliable and optimised for a smaller set of devices.).
+support(7547, root).
+
+arg(7552).
+text(7552, Android is more open, giving developers access to almost any capability of the devices, allowing for more innovative applications.).
+att(7552, root).
+
+arg(7565).
+text(7565, Both have their advantages and drawbacks and both are better than the other in some applications.).
+att(7565, root).
+
+arg(7581).
+text(7581, Using iOS is actually a sin. Sorry.).
+att(7581, root).
+
+arg(8753).
+text(8753, They are not directly comparable because iOS is made specifically for Apple products, and Android is an open source OS for anyone to use. ).
+att(8753, root).
+
+arg(7723).
+text(7723, Therefore it's restricted to the will (less supported systems, services etc.) of one company only.).
+att(7723, 7547).
+
+arg(7838).
+text(7838, Putting power in the hands of the user is only a good thing when the user is capable of handling that power.).
+att(7838, root).
+
+arg(8756).
+text(8756, Many users prefer Android because it has the potential to be manipulated much more easily than iOS, even if it doesn't have all the same features built in.).
+att(8756, root).
+
+arg(7726).
+text(7726, Many iOS users are non-believers, thus not caring about you).
+att(7726, 7581).
+
+arg(8758).
+text(8758, The statement doesn't specify "for developers." This could be an advantage for Android for many users.).
+att(8758, root).
+
+arg(8760).
+text(8760, The holes are only manipulated if you expose them. Unlike iOS, Android users can choose and control permissions. ).
+att(8760, root).
+
+arg(7727).
+text(7727, It also introduces more holes which can be manipulated by people wanting to do harm.).
+att(7727, 7552).
+
+arg(8763).
+text(8763, Android users have the choice of which features to enable or disable. If they want to expose a potential problem, they can choose, unlike iOS.).
+att(8763, root).
+
+arg(7729).
+text(7729, Although IOS is more streamlined and user friendly, Android puts more "power" into the hands of the user allowing the user to do as they please within a larger limit than IOS.).
+support(7729, 7552).
+
+arg(7730).
+text(7730, It is more difficult for people to pirate iOS apps, making it less harmful for developers.).
+support(7730, root).
+
+arg(7731).
+text(7731, It's more user-friendly. Nearly everything that is possible with IOS is given to you.).
+support(7731, root).
+
+arg(8534).
+text(8534, Android 5.0 was a huge security update for those holes you're talking about.).
+att(8534, 7727).
+
+arg(8344).
+text(8344, With great power comes great responsibility.).
+support(8344, 7838).
+
+arg(7810).
+text(7810, This also introduces more points of failure.).
+att(7810, 7729).
+

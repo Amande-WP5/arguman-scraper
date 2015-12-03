@@ -1,0 +1,11 @@
+arg(root).
+text(root, Bernie Sanders cannot win the Democratic Nomination).
+
+arg(8501).
+text(8501, His policies are too far outside of what the Democratic party considers reasonable.).
+support(8501, root).
+
+arg(8450).
+text(8450, Sanders is currently second in the polls and is gaining on Clinton while Clinton's going downhill in the polls.).
+att(8450, root).
+

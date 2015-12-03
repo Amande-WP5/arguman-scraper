@@ -1,0 +1,15 @@
+arg(root).
+text(root, WTC Building 7 was brought down by controlled demolition).
+
+arg(9636).
+text(9636, nah bros).
+att(9636, root).
+
+arg(10038).
+text(10038, The effects of planes filled with jet fuel being flown into buildings with steel frames have not been scientifically tested enough to provide sufficient evidence that it could not have caused the demolition of a building. ).
+att(10038, root).
+
+arg(9603).
+text(9603, Fire had never before caused the collapse of a steel-framed high-rise and according to firefighters demolition explosives characterize the dynamics of the collapse seen in videos.).
+support(9603, root).
+

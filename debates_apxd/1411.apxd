@@ -1,0 +1,35 @@
+arg(root).
+text(root, The United States should work to provide an accepting environment for the LGBTQ community).
+
+arg(14668).
+text(14668, We shouldn't encourage or advertise the lifestyle at all. People who are gender dysmorphic are in a vulnerable psychological state, and they don't need people encouraging them to make bad decisions and feed their negativity. If they want to become a social movement, they have to be open to criticism).
+att(14668, root).
+
+arg(14621).
+text(14621, ...You sure about that? Source? I'm pretty sure you are trying to refer to the Declaration of Independence. This is grasping for straws by begging the question. In any case, the intention of these documents within this context is to prevent authority from harming people, not to create their happines).
+att(14621, root).
+
+arg(6744).
+text(6744, what does 'safe environment' mean?).
+att(6744, root).
+
+arg(6846).
+text(6846, I changed the title to help clarify).
+att(6846, 6744).
+
+arg(6577).
+text(6577, According to the Constitution, all humans should be given equal access to the pursuit of happiness.).
+support(6577, root).
+
+arg(14647).
+text(14647, It causes more harm than good - it's proponents know this but they foist authoritarian bullying tactics through LGBTQ issues anyway - they want to create more apparent homophobes, sexists, racists so that they remain in cultural 'power'. It should be rolled back significantly as a movement.).
+att(14647, root).
+
+arg(14648).
+text(14648, Our society is going to collapse because precious debate time/bandwidth is being wasted on red herring subjects like these while economic / technological issues literally threaten us with extinction. Shelve it until after we navigate those or give your movement a mute button so others can at least).
+att(14648, root).
+
+arg(14669).
+text(14669, People who are driven to believe their sexual identity is of the utmost political concern will ignore other issues and use their quandary to bring more attention to themselves. ).
+support(14669, 14647).
+

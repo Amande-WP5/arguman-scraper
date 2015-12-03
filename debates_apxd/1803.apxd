@@ -1,0 +1,216 @@
+arg(root).
+text(root, Gender affects intelligence).
+
+arg(11950).
+text(11950, One of your sources tells there are more schools accepting more men than schools acception more women, which goes against your point that society creates a better learning environment for women.).
+att(11950, root).
+
+arg(11420).
+text(11420, There is no prevalent proof that the Y chromosome would give you more intelligence. I would even go to the length of saying it is absolutely absurd to think this chromosome that is only found in men can lead to such a significant change in intelligence.).
+att(11420, root).
+
+arg(10886).
+text(10886, The question of whether intelligence is determined "largely" by genetics is still disputed among scientists.).
+att(10886, root).
+
+arg(11515).
+text(11515, IQ tests are not accurate reflections of overall intelligence.).
+att(11515, root).
+
+arg(11517).
+text(11517, There could be differences that IQ tests could help identify with different genders.).
+att(11517, 11515).
+
+arg(11416).
+text(11416, differences in average IQ between men and women are small in magnitude and inconsistent in direction).
+att(11416, root).
+
+arg(10998).
+text(10998, If intelligence is based on ones genes, and gender is determined by a varying of the final chromosome, there is a chance that gender effects intelligence).
+att(10998, root).
+
+arg(11529).
+text(11529, That's circular thinking.).
+att(11529, root).
+
+arg(11551).
+text(11551, That wikipedia quote is very poorly sourced -  if you read the citations they contradict this assertion.).
+att(11551, 11416).
+
+arg(11553).
+text(11553, That wikipedia article doesn't support that statement at all, including the references.).
+att(11553, root).
+
+arg(12197).
+text(12197, Your argument was 1) Genders perform differently on IQ, 2) IQ tests are the measurement of intelligence, so genders have different int. Now it's 2a) IQ tests measure thought patterns, 2b) thought patterns = intelligence. It's Proof by Assertion to claim that thought patterns = intelligence. Explain).
+att(12197, root).
+
+arg(12200).
+text(12200, Faulty Analogy. Your main argument is "Gender affects intelligence". Using the fact that brain patterns are different between men and women as evidence is invalid unless you can demonstrate that the two are equivalent.).
+att(12200, root).
+
+arg(12202).
+text(12202, Possible case of Affirming the Consequent depending on user's reasoning: "Different intelligence affects brain waves. Genders have different brain waves, therefore different intelligence". One may imply the other, but the reverse is not necessarily true.).
+att(12202, root).
+
+arg(12254).
+text(12254, Model forming could be equally effective but different. I guess one could equate intelligence to a value but I think that could be too simplified.I assumed that thought patterns was about equivalent to "understanding models" but may be too broad a term.).
+att(12254, 12197).
+
+arg(11561).
+text(11561, The Y chromosome gives men greater variation by enabling a different set of traits. Men tend to have a larger brain, which in the very least is more resilient to physical trauma. Males mature slower than females likely because the complexity required for intelligence takes time to create.).
+att(11561, 11420).
+
+arg(11911).
+text(11911, The difference could be the result of random noise between test scores. Environment can affect scores as well.).
+att(11911, root).
+
+arg(12205).
+text(12205, The user you're responding to may be implying that the "differences" are multi-dimensional; that you can't say they "add up to zero" because intelligence is not a single variable.).
+att(12205, root).
+
+arg(12204).
+text(12204, "You can't possibly believe X" is Appeal to Ridicule. You're taking as self-evident that that would be absurd. It might be, but that's not a valid proof of it.).
+att(12204, root).
+
+arg(12206).
+text(12206, The only way to argue this is by having an exact definition of what intelligence is. Is it a one-dimensional value? Are there different kinds of intelligence? How do we measure it? As-is, the word "intelligence" has no clear definition so we cannot prove the claim. High risk of Equivocation fallacy).
+att(12206, root).
+
+arg(11579).
+text(11579, Intelligence cannot be measured).
+att(11579, root).
+
+arg(10772).
+text(10772, The brain is proven to be influenced by hormones, why is it absurd to think that being in a certain gender might give one a small advantage.).
+support(10772, root).
+
+arg(11913).
+text(11913, Both males and females have been shown to perform above and below each other at different times. Using IQ appears subjective. Is year of test taken into account? Would conflicting findings mean they are not different?).
+att(11913, root).
+
+arg(12122).
+text(12122, It could be true, even though your example is very unlikely to happen. Generally, admission rates between schools wouldn't be this different between them. ).
+att(12122, root).
+
+arg(12125).
+text(12125, Your happiness with the conclusion is completely irrelevant in the discussion . Also, doesn't make it logically true.).
+att(12125, root).
+
+arg(11994).
+text(11994, Yes if one group reacts differently under a certain environment that could indicate a difference and I presume that one would look at the standard deviation or other statistical hypothesis tests to root out random error.).
+att(11994, 11911).
+
+arg(10852).
+text(10852, Measurable intelligence is also affected by how you are treated and how you have been treated, which are also strongly related to gender.  It is difficult to the point of impossibility to separate these effects; you'd have to capture babies at birth and raise them in a gender-blind way.).
+att(10852, 10772).
+
+arg(11997).
+text(11997, The more I think about it the less likely it seems that one would be capable of designing a test which would only access aspects of intelligence. I'm just inclined to think that there would be a difference simply because aspects of brain development would be directed differently depending on gender.).
+att(11997, 11911).
+
+arg(12131).
+text(12131, Men and women are different between and among themselves in many aspects, however to prove your conclusion you would have to point out all aspects that have some impact on the overall intelligence of each gender and them compare each one of these impacts.).
+att(12131, root).
+
+arg(10865).
+text(10865, Intelligence is largely genetic and conditioned through exposure to new stimuli. Knowledge on the other hand can be affected by the gender.).
+att(10865, root).
+
+arg(11624).
+text(11624, My premise is not arguing whether or not intelligence is based on genes, I am merely using the original "But" premise that it is to disprove its own conclusion.).
+att(11624, root).
+
+arg(12060).
+text(12060, You're only agreeing that there is a difference. If you are you can't possibly believe that the differences add up to 0.).
+att(12060, root).
+
+arg(12368).
+text(12368, Gender is not biological sex. The correct word would be sex, not gender. ).
+att(12368, root).
+
+arg(12063).
+text(12063, Under your rational we must refuse most psychology findings for not having an experimental design. Regardless of that, experimental design shows there's significant effect of sex hormones on brain activity in rats and vitro. This suggests that different levels of hormones effect the brain differentl).
+att(12063, 10852).
+
+arg(12065).
+text(12065, but there is enough evidence to suggest that the brain function of a man is different than that of a woman. which is my main argument. ).
+att(12065, 11579).
+
+arg(12066).
+text(12066, Your rational is wrong. More schools accepting more men than women can still mean that overall more woman are getting accepted in schools than men.
+ex: In a random country, there are 2 schools accepting 5 men and 2 women each, and 1 school accepting a 100 women and 2 men).
+att(12066, 11950).
+
+arg(12067).
+text(12067, Yes, but if we agree that they're different, then one of them must be smarter than the other. And I am happy with that conclusion.).
+att(12067, root).
+
+arg(12140).
+text(12140, Environment is not taken into account in IQ tests. Different genders sometimes experience different environments. Drawing a causal connection between these independent variables would be fraught with problems.).
+att(12140, 11994).
+
+arg(12143).
+text(12143, Those tests alone would not prove males and females aren't scoring randomly along some equal intelligence level.).
+att(12143, 11994).
+
+arg(12144).
+text(12144, Not all brain functions affect intelligence.).
+att(12144, 12065).
+
+arg(12385).
+text(12385, When you give credence to a concept that is unfounded; i.e. female oppression in the first world, and aid in it's popularity - you create opportunity that is implausible.).
+att(12385, 12122).
+
+arg(12191).
+text(12191, I am not arguing that one is merely more or less intelligent than the other but that brain function and thus how intelligent thought is implemented could be different between genders. There is sexual dimorphism between male and female brains. And I agree as I have said this argument is pointless.).
+att(12191, 12143).
+
+arg(12073).
+text(12073, it would be impossible to measure this and prove it because of all of the different factors that you cannot control for. Even if gender does make a difference, it can't possibly out-weigh all of the other factors that play into intelligence.).
+att(12073, root).
+
+arg(12194).
+text(12194, Adequate tests likely cannot be constructed that access only aspects of intelligence instead of environmental effects on brain formation, exposure to information or other things like creativity. This question cannot be accessed until we sufficiently understand the direct workings of the human brain.).
+support(12194, 12191).
+
+arg(11552).
+text(11552, I am operating under the premise that IQ tests measure an aspect of intelligence though not "overall" and because it is different between a male and female their intelligence is different. If we cannot define and quantify any aspect of intelligence then this argument is pointless along both fronts.).
+att(11552, 11529).
+
+arg(11524).
+text(11524, The fact that they perform differently identifies differences in thought patterns and thus differences in intelligence. Even if such tests are not accurate measures of IQ there is a difference between males and females.).
+att(11524, root).
+
+arg(11518).
+text(11518, IQ tests are not the be all and end all objective test for intelligence.).
+att(11518, 11517).
+
+arg(11508).
+text(11508, There is a difference in IQ distribution between the genders. There are more males with very high or low IQ, whereas females tend to have an IQ that is closer to average with less deviation from the middle.).
+support(11508, root).
+
+arg(11920).
+text(11920, There are many evidences that IQ isn't a very trustworthy metric for measuring intelligence overall. So, comparing men and women intelligence based on IQ scores isn't an acceptable approach.).
+att(11920, 11553).
+
+arg(10791).
+text(10791, There are differences but one gender is not more "intelligent." They have their own strong suits, so to speak, but IQ tests show that genders are equally smart.).
+att(10791, 10772).
+
+arg(12544).
+text(12544, Gender is "the attitudes, feelings, and behaviors that a given culture associates with a person’s biological sex." If one considers intelligence to be influenced in any way by attitudes, feelings, or behaviors, then the premise would still be valid. ).
+att(12544, 12368).
+
+arg(11568).
+text(11568, Except women have the advantage when it comes to society creating a learning environment for them, yet they confer no lead. Men are more likely to be victim of violence, punished more harshly than the women for the same crime, dropout of high school, and less likely to to be admitted to college. ).
+att(11568, 10852).
+
+arg(11003).
+text(11003, Even so, knowledge consumption during one's lifetime also affects intelligence. If one gender was genetically inferior but had greater access to knowledge, there would be no way to know which gender was objectively more intelligent.).
+att(11003, 10998).
+
+arg(11928).
+text(11928, Again, the conclusion that Bruce Charlton exposes is that the slower brain development on men makes them better at IQ tests than women. However, as IQ tests aren't a trustworthy metric for measuring intelligence as a whole, this conclusion doens't mean men are smarter than women.).
+att(11928, 11561).
+

@@ -1,0 +1,15 @@
+arg(root).
+text(root, Programming languages with fancy type systems (like Haskell) will never become mainstream.).
+
+arg(15909).
+text(15909, Maybe is not related with the original topic. I was just testing the new related argument feature :')).
+att(15909, root).
+
+arg(15908).
+text(15908, ).
+support(15908, root).
+
+arg(15894).
+text(15894, A programming language has a limited "strangeness budget", and if this budget is exceeded, the language becomes too hard to learn.).
+support(15894, root).
+

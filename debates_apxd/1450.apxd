@@ -1,0 +1,31 @@
+arg(root).
+text(root, Since texting while driving is illegal, billboards should be illegal).
+
+arg(7384).
+text(7384, The point of billboards are to get your attention.).
+support(7384, root).
+
+arg(7105).
+text(7105, Road signs, like speed, exits, or information are basically the same as billboards and they do not cause accidents. It is also fairly easy to tune out billboards anyways.).
+att(7105, root).
+
+arg(8302).
+text(8302, Not all vehicle occupants are drivers, so billboards would pose no threat to their safety. Some vehicles do not even require drivers.).
+att(8302, root).
+
+arg(7032).
+text(7032, Thinking out and typing a message takes more time on average than glancing at a sentence and comprehending what you read in most cases.).
+att(7032, root).
+
+arg(7389).
+text(7389, Anything that distracts you and causes you to be at more risk of a crash should be illegal.).
+support(7389, root).
+
+arg(7388).
+text(7388, A distraction will cause one to be at more risk to accidents on the road.).
+support(7388, root).
+
+arg(7387).
+text(7387, If the point of billboards is to ''get your attention'', than it is simply a distraction from the road.).
+att(7387, 7384).
+

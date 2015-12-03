@@ -1,0 +1,11 @@
+arg(root).
+text(root, The taking of a life is not immoral.).
+
+arg(7327).
+text(7327, The correct spelling is '' Immoral'').
+att(7327, root).
+
+arg(7361).
+text(7361, What is ''immoral'' is subjective to each individual and what belief system they hold.).
+att(7361, root).
+

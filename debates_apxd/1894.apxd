@@ -1,0 +1,19 @@
+arg(root).
+text(root, Individuals should have the right to end their life at any time for any reason, so long as it is done on their own private property).
+
+arg(12679).
+text(12679, Would health insurance start using above premise to start incentivising more people to end their life to save on costly end of life care?).
+att(12679, root).
+
+arg(12680).
+text(12680, Would this end life insurance policies as we know them?).
+att(12680, root).
+
+arg(12175).
+text(12175, Because it is an irreversible choice, thorough psychological evaluations should take place beforehand to ensure it is a conscious and well thought out choice ).
+att(12175, root).
+
+arg(11939).
+text(11939, To deny an individual the ability to commit suicide is to deny that they own themselves. It means that other people have a higher claim on the individual's life than the individual has.).
+support(11939, root).
+

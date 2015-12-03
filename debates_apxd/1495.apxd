@@ -1,0 +1,64 @@
+arg(root).
+text(root, aggreed fist fights to solve an issue should not be illegal).
+
+arg(7623).
+text(7623, Public fighting is still considered to be a 'public nuisance' offense, which is reasonable given the nature of fighting. Fighting itself is not illegal.
+).
+att(7623, root).
+
+arg(7949).
+text(7949, however if both agree that the particular argument can be settled in a fistfight. Why not do it?).
+att(7949, root).
+
+arg(7952).
+text(7952, If you're just saying that 2 people should be able to fight over who get's the last chicken wing (or other such random thing) and not in a legal or factual matter, I'm pretty sure you can do that in private, there's plenty of amateur wrestling/boxing clubs, and some of them won't care why you fight.).
+att(7952, root).
+
+arg(7954).
+text(7954, See my other however I posted.  AFAIK 2 people can just go to a amateur boxing/wrestling event and beat each other up for whatever reason they like.  As long as a release is signed, they can do whatever they want in a private space short of killing one-another.).
+support(7954, 7949).
+
+arg(7955).
+text(7955, That depends on the laws of the country one lives in.).
+att(7955, root).
+
+arg(7957).
+text(7957, That's why contracts exist.).
+att(7957, root).
+
+arg(7620).
+text(7620, It would have to be 100% mutually agreed and there is no way to prove mutual agreement (one side might be pressured in one way or another).).
+att(7620, root).
+
+arg(7625).
+text(7625, You could fight in a private space instead of a public one to avoid this.).
+att(7625, 7623).
+
+arg(7635).
+text(7635, Even on private property, it would be possible for the winner to be accused of assualt).
+att(7635, 7625).
+
+arg(7492).
+text(7492, It's not illegal.).
+att(7492, root).
+
+arg(7896).
+text(7896, Are we damn cave dwellers?).
+att(7896, root).
+
+arg(8033).
+text(8033, if there is no physical form of the consent to fight on both parties sides then the loser could just lie and charge for assault ).
+att(8033, root).
+
+arg(7911).
+text(7911, This would only happen if the loser lies and denies any consent).
+att(7911, 7635).
+
+arg(7913).
+text(7913, This would be perjury, which is against the law.).
+support(7913, 7911).
+
+arg(7935).
+text(7935, Winning a fight does not change the facts surrounding an argument.  Hulk Hogan could beat up as many scientists as he likes, but that won't change the gravitational constant of the universe, even if he disagrees with the scientist's conclusion. Capacity to win a fight ≠ your side is right.).
+att(7935, root).
+

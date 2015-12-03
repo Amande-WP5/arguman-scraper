@@ -1,0 +1,35 @@
+arg(root).
+text(root, Democracy would be improved if fewer people voted).
+
+arg(14604).
+text(14604, we should first describe, how democratics should be, and how politicians should be. It`s not very nice to give poor people the debt of the wrong selection. We can`t demand that the people are on a high intellectual level. ).
+att(14604, root).
+
+arg(9752).
+text(9752, If voters are self-selecting, the Dunning-Kruger effect indicates that those with the least knowledge will consistently overestimate themselves and vote, while those with the most knowledge consistently underestimate themselves and might abstain.).
+att(9752, root).
+
+arg(8168).
+text(8168, The populations who will not vote will eventually be discriminated against and weakened.).
+att(8168, root).
+
+arg(8136).
+text(8136, If more people admitted that they do not posses the understanding of relevant issues required to make an informed choice in an election (what-ever that may be), and thus abstained from voting, governments would be less corrupt, more representative and effective. Voting for the sake of it is not good).
+support(8136, root).
+
+arg(8747).
+text(8747, Restricting voting would risk oligarchic elections, alienating those who have a vested interest in a relevant matter.).
+att(8747, 8136).
+
+arg(14675).
+text(14675, that wouldn't be democracy.).
+att(14675, root).
+
+arg(14711).
+text(14711, Democracy would be more improved if all people were better informed and also possessed the self-awareness to recognize their own biases.).
+att(14711, root).
+
+arg(14717).
+text(14717, It depends upon what basis the individuals that do vote are chosen. In order for such a selection to be valid, individuals must be chosen upon the basis of understanding the issue and having an insight. All attempts to properly filter would result in a biased selection by the selector.).
+att(14717, root).
+

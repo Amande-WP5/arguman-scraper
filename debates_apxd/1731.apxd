@@ -1,0 +1,137 @@
+arg(root).
+text(root, A hotdog is a sandwich).
+
+arg(10088).
+text(10088, A sandwich is a food item consisting of one or more types of food, such as vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein two or more pieces of bread serve as a container or wrapper for some other food.).
+support(10088, root).
+
+arg(10104).
+text(10104, The premise against which you are arguing does not claim that a hotdog has three sides. It says that three sides of the hotdog are covered. This could be seen as an abstraction of the shape of a hotdog into six sides: top, bottom, left, right, front, and back; three of which are covered by the bun.).
+att(10104, root).
+
+arg(10277).
+text(10277, Corndogs evade categorization. ).
+att(10277, root).
+
+arg(10278).
+text(10278, Subway don't divide the bread into 2 slices and they make sandwiches ).
+att(10278, root).
+
+arg(10073).
+text(10073, A hot dog is not triangular, so it does not have 3 sides. A hot dog is a tube, and the bun is... well... bun shaped.).
+att(10073, root).
+
+arg(10077).
+text(10077, I can see how it would appear as if I'm using Buress' as an authority, when in fact my intention was to explore his pronouncement that a hot dog is a sandwich. ).
+att(10077, root).
+
+arg(10013).
+text(10013, It also depends on your definition of a hot dog.).
+att(10013, root).
+
+arg(9984).
+text(9984, Depends on your definition of a sandwich.).
+att(9984, root).
+
+arg(11824).
+text(11824, I am the author of that premise. They are stating my intent correctly. Sorry if I caused confusion.).
+att(11824, root).
+
+arg(11718).
+text(11718, "A hotdog has three" means nothing without context. Three what? To answer that question, we look at the previous sentence, which states: "a traditional sandwich has two sides covered." Thus, the full quote would be, "a hotdog has three [sides covered].").
+att(11718, root).
+
+arg(10246).
+text(10246, It states, and I quote, "A hot dog has three.").
+att(10246, 10104).
+
+arg(10097).
+text(10097, Look at a hot dog. Only the top is exposed.).
+att(10097, 10073).
+
+arg(10098).
+text(10098, I... had no idea that was a thing. Would this make a bagel with spread, or toast with butter, a sandwich?).
+att(10098, root).
+
+arg(10248).
+text(10248, The essential determinant is the roll.).
+att(10248, 10013).
+
+arg(10250).
+text(10250, A new england style hot dog roll is not easily bisected, whereas the midwestern hot dog "bun" is readily split in two and therefore meets the sandwich requirement of two pieces of bread.).
+support(10250, 10248).
+
+arg(10251).
+text(10251, Club sandwiches have three slices of bread, and are still sandwiches. Addendum: This should be called the Fallacy of the Bread.).
+att(10251, root).
+
+arg(10254).
+text(10254, Not all hotdogs.).
+att(10254, 10097).
+
+arg(10256).
+text(10256, A hot dog has only one piece of bread. 
+
+Full Definition of HOT DOG
+
+1:  frankfurter; especially :  a frankfurter heated and served in a long split roll).
+att(10256, 10088).
+
+arg(10257).
+text(10257, That is assuming a sandwich must have two slices of bread!).
+att(10257, 10250).
+
+arg(10258).
+text(10258, According to most definitions, a sandwich must have 2 or more slices of bread (or some form of starchy handles). Therefore, a hotdog is not a sandwich, unless you break the bun, whereupon it is transmuted into a true sandwich.).
+att(10258, root).
+
+arg(10259).
+text(10259, A sandwich must have multiple slices of bread. Therefore, a hotdog with an unbroken bun does not qualify. ).
+att(10259, root).
+
+arg(10260).
+text(10260, 71.9% of people in the US do not believe that a hot dog fits the definition of a sandwich.).
+support(10260, 9984).
+
+arg(10076).
+text(10076, I think what Mr. Buress is asking is in what ways is a sandwich distinct from a hotdog? The hot dog holds all the qualities of a sandwich and therefore meets the definition of a sandwich.
+
+(i don't think this is an appeal to authority)).
+support(10076, root).
+
+arg(10010).
+text(10010, "A hot dog has all the qualities of a sandwich." -H. Buress).
+support(10010, root).
+
+arg(10012).
+text(10012, This only makes sense if burritos and gyros are also sandwiches. A traditional sandwich has two sides covered. A hot dog has three.).
+att(10012, root).
+
+arg(10263).
+text(10263, Does this mean that if I break the bun, the hotdog is now a sandwich?).
+att(10263, 10259).
+
+arg(10264).
+text(10264, Does this mean that if I break the bun, the hotdog is now a sandwich?).
+att(10264, 10259).
+
+arg(10053).
+text(10053, Open-faced sandwiches only have one side covered. ).
+att(10053, 10012).
+
+arg(10113).
+text(10113, I'm not sure. I'm beginning to question everything I've ever known about sandwiches).
+att(10113, 10098).
+
+arg(10183).
+text(10183, What about 3 pieces of bread? That is clearly not a sandwich!).
+att(10183, 10088).
+
+arg(10270).
+text(10270, There are plenty of sandwiches that come in a roll that are not fully sliced in two. For example, at Togo's (a west coast sandwich eatery)... they don't separate the entire roll with their cut.).
+att(10270, 10259).
+
+arg(12760).
+text(12760, Americans make up only about 4,3% of the worlds population, these statistics are therefore irrelevent.).
+att(12760, 10260).
+

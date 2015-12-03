@@ -1,0 +1,7 @@
+arg(root).
+text(root, There should be a common sense license.).
+
+arg(6156).
+text(6156, Many people do not display common sense, and yet are allowed to participate in professions or activities in which require common sense heavily.).
+support(6156, root).
+

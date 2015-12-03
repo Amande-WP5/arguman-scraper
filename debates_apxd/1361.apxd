@@ -1,0 +1,65 @@
+arg(root).
+text(root, Salary amount should be according to performance).
+
+arg(6066).
+text(6066, it is easier to measure team performance).
+att(6066, 6054).
+
+arg(6760).
+text(6760, Competition is not valuable in all workplaces. Companies that depend heavily on teamwork will not thrive when employees are seeking a zero-sum gain.).
+att(6760, root).
+
+arg(6652).
+text(6652, It's often possible to sacrifice long-term performance for short-term performance.
+
+It's easier to observe short-term performance, so performance-based compensation will unduly reward it.).
+att(6652, root).
+
+arg(6639).
+text(6639, You should be rewarded for working harder than your associates. Inspiring competition in the workplace made lead to less complacency and more productivity.).
+support(6639, root).
+
+arg(6656).
+text(6656, Often these intermediate definitions end up encouraging the wrong behaviours overall.).
+att(6656, root).
+
+arg(6665).
+text(6665, When working a grunt-level job, it is not necessarily your job to look at the bigger picture, but the job of a manager or director.).
+att(6665, 6652).
+
+arg(6785).
+text(6785, Short-term performance could be rewarded with bonuses (one-off payments). Long-term performance could be rewarded with salary raises (permanent increase)).
+att(6785, 6652).
+
+arg(6670).
+text(6670, Most of the team could be slacking, forcing one or a few individuals to work extra hard just to make what they would have normally made.).
+att(6670, root).
+
+arg(6046).
+text(6046, This may cause infinite competition between colleagues which may lead to nonproportional work time.).
+att(6046, root).
+
+arg(6050).
+text(6050, May increase the performance and usefulness).
+support(6050, root).
+
+arg(6054).
+text(6054, Good performance is subjective, so impossible to objectively measure.).
+att(6054, root).
+
+arg(7028).
+text(7028, In some career fields, it is hard to measure. In others, such as sales or manufacturing it is easier to have an objective measure of performance. So in these cases, performance should be the main determinant of how much one is paid. This does not account for favoritism in terms of networking.).
+att(7028, 6054).
+
+arg(6609).
+text(6609, your boss may have a personal bias against you (even if subconscious), especially when taking into account racism or sexism, etc. So your salary being dependent on this person's appraisal of you could have nothing to do with your performance after all. ).
+att(6609, root).
+
+arg(6631).
+text(6631, There are enough regulation and pressure on the salaries. The standard of living of decreasing everyday. What should be dealt with is companies that are not paying their taxes (Facebook paid £4,327 corporation tax in 2014 in the UK even though total profits for the year were $2.9bn).).
+att(6631, root).
+
+arg(6638).
+text(6638, 'Performance' can have multiple meanings; in this context it could - for instance - be defined as how many hours one works, removing subjectivity.).
+att(6638, 6609).
+

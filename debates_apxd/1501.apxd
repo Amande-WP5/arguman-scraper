@@ -1,0 +1,85 @@
+arg(root).
+text(root, Property is theft.).
+
+arg(8101).
+text(8101, It should have been made clear by the OP that the argument that Property is Theft typically excludes the products of labour, and mainly refers to land ownership. Here, in very many of cases, it holds that if you go back far enough in history, most inhabited land was stolen from someone.).
+att(8101, root).
+
+arg(8154).
+text(8154, Society publishes visual information primarily for those who can see. This biological inequity permeates into social inequality.
+
+However, the state of affairs are repairable, which brings us back to the initial argument, property is not theft as long as the possibility of another owning it exists).
+att(8154, root).
+
+arg(8044).
+text(8044, But theft of what?  If I grow corn in a pot, it is my property, it has used sunlight, rain and CO2, I suppose you could say that the CO2, rain, and sunlight are property of humanity, and by converting them into my corn I stole the rain, CO2 and sunlight from everyone, but who was going to use it?).
+att(8044, root).
+
+arg(8047).
+text(8047, I own the labor of my hands, why can I not use that labor to produce something which I would then own?).
+att(8047, root).
+
+arg(7548).
+text(7548, The creation and subsequent ownership of Intellectual Property is not theft.).
+att(7548, root).
+
+arg(8073).
+text(8073, Property is the origin of all social unequalities.).
+support(8073, root).
+
+arg(8082).
+text(8082, The CO2, Water, and Soil have gotten a greater value now that you can eat it. The addition of value to the constituent materials is the by-product of man's labour. That labour is brought into being by the man's will and thus he will decide whether he wishes to eat it or trade it with you for wheat.).
+support(8082, 8044).
+
+arg(8088).
+text(8088, What of the inherent social inequalities of a blind person? Or someone born with a disease?).
+att(8088, 8073).
+
+arg(8158).
+text(8158, No one is required to construct a philosophy of property that retro-actively justifies itself centuries past. If the theft occurred outside of living memory, then it is not useful to call it theft at all, as no justice can occur.).
+att(8158, 8101).
+
+arg(8160).
+text(8160, At some point, most of the world was unoccupied by people.  Staking claim to vacant land isn't theft.).
+att(8160, 8101).
+
+arg(8263).
+text(8263, This assumes that property can not be transferred. You assume that only wealth is inherited while ignoring that traits & skills are inherited. There is no reason property should disappear after death. All forms of charity would also be unjustifiable, since the beneficiary didn't work for it.).
+att(8263, root).
+
+arg(7614).
+text(7614, Property can be transferred - You could buy something at a store and that item's ownership has been legally transferred to you. Ergo, it isn't theft.).
+att(7614, root).
+
+arg(8167).
+text(8167, Intellectual property is significantly different from the ownership of tangibles, and needs to be addressed separately to avoid absurd conclusions. Merely labeling something "property" shouldn't permit someone to shoehorn it into this debate.).
+att(8167, 7548).
+
+arg(8176).
+text(8176, Justice can indeed still occur against those who, in the current time, benefit from the original crime by possession of stolen goods. This is why the descendants of those who looted property from countries during the World Wars can, and have, continually had their assets seized (often gold, art).).
+att(8176, 8158).
+
+arg(8184).
+text(8184, No, it isn't. However, staking claim to someone else's land and then killing them to take it is indeed theft, and that is the entire story of human history. The land you live on was likely stolen from someone who rightfully initially peacefully settled upon it, and you have no claim to its ownership).
+att(8184, 8160).
+
+arg(8094).
+text(8094, These are not social unequalities, rather, biological unequalities.).
+att(8094, 8088).
+
+arg(7533).
+text(7533, Tracing the right of property back to its source, one infallibly arrives at usurpation. However, theft is only punished because it violates the right of property; but this right is itself nothing in origin but theft.).
+support(7533, root).
+
+arg(8236).
+text(8236, "Theft" presumes that property was wrongfully acquired in the first place, hence nothing can ever be stolen if all ownership is wrongful to begin with. This would mean nature is always immoral.).
+att(8236, root).
+
+arg(8043).
+text(8043, Property is only theft, because you may inherit it to your children. If your property ceased to exist the moment you die it would be ok. Right now you may own something you never worked for. Poverty/wealth are determined mainly by birth. Its like the divine right of kings. Not justifiable.).
+att(8043, root).
+
+arg(8342).
+text(8342, "'theft' as a forcible violation of property presupposes the existence of property.").
+att(8342, root).
+

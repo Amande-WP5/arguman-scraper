@@ -1,0 +1,7 @@
+arg(root).
+text(root, Real art is for society, not for profit).
+
+arg(8746).
+text(8746, An objection against the contention.).
+support(8746, root).
+

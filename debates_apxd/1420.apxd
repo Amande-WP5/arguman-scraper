@@ -1,0 +1,43 @@
+arg(root).
+text(root, Euthenasia and physician-assisted suicide should be legal.).
+
+arg(6937).
+text(6937, It is their life to end.).
+support(6937, root).
+
+arg(6773).
+text(6773, It can prevent suffering to those that use it.).
+support(6773, root).
+
+arg(6778).
+text(6778, Many people can concur that physician-assisted suicide for diagnoses such as depression is wrong, and the line for what is considered acceptable is vague and ill-defined.).
+att(6778, root).
+
+arg(7259).
+text(7259, In the case of terminally ill people, they're going to die no matter what. But by taking away the option of physician-assisted suicide you've robbed them of any choice in the matter and instead condemn them to a slow, painful death from their illness.).
+att(7259, root).
+
+arg(6710).
+text(6710, Euthanasia is essentially murder. The person is alive, and killing them would be immoral.).
+att(6710, root).
+
+arg(7271).
+text(7271, Everyone is going to die anyway.).
+att(7271, 7259).
+
+arg(7274).
+text(7274, Nihilism is in no way conducive to constructing the laws by which our society should abide.).
+att(7274, 7271).
+
+arg(7277).
+text(7277, Many people can also concur that physician assisted suicide for having an itchy back is right; this however does not make it so.).
+att(7277, 6778).
+
+arg(6733).
+text(6733, It would be immoral to keep someone alive through physical and/or mental torment if they desire not to suffer through that. ).
+att(6733, 6710).
+
+arg(7296).
+text(7296, Even if everyone is going to die, no one should have to suffer more than they need to.).
+att(7296, 7271).
+

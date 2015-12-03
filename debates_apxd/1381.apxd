@@ -1,0 +1,31 @@
+arg(root).
+text(root, The 'slippery slope' fallacy is not a fallacy.).
+
+arg(6312).
+text(6312, It could be considered a fallacy due to  arguments saying that "this will lead to this which will lead to..." and so on. While some of these options are statistically possible, that does not always justify assumptions on a large scale. e.g. saying that wearing black will lead to the decline of human).
+att(6312, root).
+
+arg(6293).
+text(6293, Society progresses with velocity. If a drug is decriminalised, there is a greater chance it will be legalised. If society becomes more tolerant of an abundant sexuality, it will more likely tolerate less common sexualities.).
+support(6293, root).
+
+arg(14718).
+text(14718, It is a fallacy when it is used fallaciously. While a strongly supported causal link would still define it as a slippery slope argument, it would not make the argument fallacious. Any form of causal linking, however, that lacks incredibly strong support to back it up, is fallacy. ).
+att(14718, root).
+
+arg(14731).
+text(14731, If you give a reason to why "A" will follow to "B", it is not a slippery slope fallacy.).
+att(14731, 6293).
+
+arg(14732).
+text(14732, Is it the decriminalization of drug  that increase the chance it will be legalized, or is the decriminalization of drug, a clue of a greater tolerance to the consumption of drug, a tolerance which increase the chance that it will be legalized. (but without being influenced by the decriminalization)).
+att(14732, 6293).
+
+arg(14823).
+text(14823, "If society becomes more tolerant of an abundant sexuality, it will more likely tolerate less common sexualities." This, however, is a SS fallacy because there is a wealth of evidence to the contrary—that societies that are more sexually permissive tend to have fewer dangerous sexual proclivities.).
+att(14823, 6293).
+
+arg(14824).
+text(14824, Because true deviancy is usually a result of sexual repression. It's not healthy to attempt to restrain one's biological drives.).
+support(14824, 14823).
+

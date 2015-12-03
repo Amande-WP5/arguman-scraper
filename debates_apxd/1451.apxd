@@ -1,0 +1,31 @@
+arg(root).
+text(root, We should create an alternate sports league where all athletes who join are bound by contract to take league mandated steroids.).
+
+arg(7020).
+text(7020, This would put those people injected with the steroids in danger as steroids have many negative benefits.).
+att(7020, root).
+
+arg(7031).
+text(7031, Many major sports leagues are influenced by the illegal use of steroids. Creating a separate arena would reduce pressure to pursue alternate illegal advantages.).
+support(7031, root).
+
+arg(7038).
+text(7038, Steroid distribution would be controlled by the league to reduce negative health effects, which are aforementioned in the contract.).
+att(7038, 7020).
+
+arg(10148).
+text(10148, Sports in general can have negative health effects, such as accidental injury. ).
+att(10148, 7020).
+
+arg(10152).
+text(10152, There would be no need to mandate steroids.  In order for athletes to stay competitive the vast majority of athletes would opt into steroid use in an unregulated environment.).
+att(10152, root).
+
+arg(10174).
+text(10174, What if an athlete takes more steroids than they are supposed to take -- or different, more powerful steroids that the league didn't mandate? Should we then create another league for those who take more steroids than those in the steroid league?).
+att(10174, root).
+
+arg(12195).
+text(12195, Special Pleading. You accept that players will exceed regulations to gain an edge in sports where steroids are banned. Yet you don't think players would exceed regulations when the policy is to allow a small dose of steroids.).
+att(12195, 7038).
+

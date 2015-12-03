@@ -1,0 +1,8 @@
+arg(root).
+text(root, The existence of Justin Bieber has meant more good than harm in the world).
+
+arg(9140).
+text(9140, Cut for Bieber and bald for Bieber
+).
+att(9140, root).
+
