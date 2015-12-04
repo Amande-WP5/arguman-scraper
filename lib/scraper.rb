@@ -1,3 +1,3 @@
-autoload :Debate, "scraper/debate"
-autoload :User, "scraper/user"
-autoload :Argument, "scraper/argument"
+require_relative "scraper/debate"
+require_relative "scraper/user"
+require_relative "scraper/argument"

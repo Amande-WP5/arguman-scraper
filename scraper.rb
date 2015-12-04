@@ -91,10 +91,27 @@ class Scraper < Optitron::CLI
     nb_deb = Debate.dataset.count
     pastel = Pastel.new
     bar = TTY::ProgressBar.new("Creating files [:bar] :current/:total", :total=>nb_deb, :complete=>pastel.on_green("-"), :incomplete=>pastel.on_red("-"))
-    Debate.dataset.all.each do |d|
+    Debate.dataset.each do |d|
       build_apxd_file(d)
       bar.advance(1)
     end
+  end
+
+  desc "Returns some stats"
+  def stats
+    num = Array.new(50) {0}
+    max = 0
+    Debate.dataset.each do |d|
+      size = d.arguments.size
+      max = size if size > max
+      num[size/10] += 1
+    end
+    val = [["Max #args", max]]
+    num.each_with_index do |v,it|
+      val << ["#{it*10}-#{(it+1)*10}", v] if v > 0
+    end
+    table = TTY::Table.new :rows=>val
+    puts table.render :ascii, :alignment=>[:left, :right]
   end
 end
 
