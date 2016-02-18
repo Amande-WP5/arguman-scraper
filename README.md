@@ -11,7 +11,7 @@ Scraps [arguman.org](http://arguman.org) for debates.
 3. Install the required gems: ```bundle install```
 4. Change the connection URL to the database in [this file](lib/arguman-scraper.rb)
 5. Execute the migrations to build the tables: ```sequel -m ./migrations postgres://host/database```
-6. Check the man: ```ruby bin/scraper help```
+6. Check the man: ```bin/scraper help```
 
 ##Available commands
 ###debates
