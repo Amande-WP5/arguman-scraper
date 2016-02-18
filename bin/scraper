@@ -1,0 +1,64 @@
+#! env ruby
+
+require "tty"
+require "pastel"
+require "commander"
+
+require_relative "../lib/arguman-scraper"
+
+REMOVED = [2621,2607,2563,2550,2529,2516,2515,2503,2462,2461,2441,2424,2388,2376,2353,2336,2251,2186,2059,1978,1924,1794,978,963,962,960,954,902,880,828,797,776,722,844,662,650,641,607,606,582,548,538,537,529,528,508,501,481,450,448,422,403,386,380,358,356,346,345,322,321,308,283,276,269,264,253,207,177,161,130,102,88,61,47,21,20,12]
+
+Commander.configure do
+  program :name, "Arguman Scraper"
+  program :version, "1.0.0"
+  program :description, "Scraps and manages debates from arguman.org"
+
+  command :debates do |c|
+    c.syntax = "scraper debates [options]"
+    c.description = "Scraps the debate roots up to PAGES (default 20)"
+    c.option "--upto INTEGER", Integer, "Max page number to consider"
+    c.option "--verbose", TrueClass, "Prints the titles (default true)"
+    c.action do |_, options|
+      options.default upto: 20, verbose: true
+
+      Scraper::Scraper.get_debates(options.upto, REMOVED, options.verbose)
+    end
+  end
+
+  command :arguments do |c|
+    c.syntax = "scraper arguments"
+    c.description = "Scraps the arguments of all previously scraped debates"
+    c.option "--verbose", TrueClass, "Prints the arguments (default true)"
+    c.action do |_, options|
+      options.default verbose: true
+
+      Scraper::Scraper.get_arguments(options.verbose)
+    end
+  end
+
+  command :apxd do |c|
+    c.syntax = "scraper apxd [options]"
+    c.description = "Builds APXD files for given debates (default all)"
+    c.option "--ids IDS", Array, "Debates to write to APXD files (default all)"
+    c.option "--outputdir DIR", String, "Output directory"
+    c.action do |_, options|
+      options.default ids: [], outputdir: "debates_apxd"
+
+      total = (options.ids.empty? ? Scraper::Scraper.num_debates : options.ids.size)
+      pastel = Pastel.new
+      bar = TTY::ProgressBar.new("Creating [:bar] :current/:total", :total=>total, :complete=>pastel.green("-"), :incomplete=>pastel.red("-"))
+      Scraper::Scraper.build_apxd(options.outputdir, options.ids.map(&:to_i)) do
+        bar.advance(1)
+      end
+    end
+  end
+
+  command :stats do |c|
+    c.syntax = "scraper stats"
+    c.description = "Prints statistics on the debates"
+    c.action do |_,_|
+      table = TTY::Table.new :rows=>Scraper::Scraper.stats
+      puts table.render :ascii, :alignment=>[:left, :right]
+    end
+  end
+end
