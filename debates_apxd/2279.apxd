@@ -1,163 +1,236 @@
 arg(root).
 text(root, React is killing Angular).
 
-arg(16290).
-text(16290, ).
-att(16290, root).
+arg(18296).
+text(18296, Elm is killing both React and Angular :)).
+att(18296, root).
 
-arg(16281).
-text(16281, it brings event sourcing to the client).
-support(16281, root).
+arg(17831).
+text(17831, React supports Isomorphic application).
+support(17831, root).
 
-arg(16285).
-text(16285, it helps doing immutability and functional programming).
-support(16285, root).
+arg(15832).
+text(15832, React provides fewer and more powerful primitives that can be easily described and consumed.).
+support(15832, 15246).
 
-arg(15979).
-text(15979, React encourage to developers write more loosely coupled code thanks to component based structure.  ).
-support(15979, root).
+arg(18298).
+text(18298, React isn't backward compatible with anything, and we also don't know when possibly-backward-incompatible React 2 comes out.).
+att(18298, 15319).
 
-arg(16007).
-text(16007, From JSX official page: "JSX is a XML-like syntax extension to ECMAScript without any defined semantics.".
+arg(18297).
+text(18297, The same is true of the templates used in Angular.).
+att(18297, 18295).
 
-It is an extension of a language, and you need to learn it. There is a learning curve compared to standard JavaScript/Html.).
-att(16007, root).
+arg(18295).
+text(18295, Th learning curve of JSX is almost nil. In  99% it resembles (intentionally) HTML. It's very simple to grasp.).
+att(18295, 16007).
 
-arg(16279).
-text(16279, Watch your back.  Your React licence will be instantly revoked if you, your company, or the client you build the product for even accuse Facebook of a patent infrigement.  This sh*t happens people.  Read it yourself with on the React github page (PATENTS file)).
-att(16279, root).
+arg(18294).
+text(18294, React does not need to use JSX. It's optional.).
+att(18294, 15827).
 
-arg(15974).
-text(15974, Separation of concerns is important, and collaboration is easier if HTML and JS are not too coupled.).
-att(15974, root).
+arg(18883).
+text(18883, 1) The learning curve for Angular templates is steeper than JSX
 
-arg(15999).
-text(15999, JSX is not a language, it is merely a data structure literal, and a very simple one at that.).
-att(15999, root).
+2) And yet JSX is far more expressive
 
-arg(15982).
-text(15982, JSX is a new language too and although it's not mendatory, as it's widespreaded you have to learn it too.).
-att(15982, root).
+3) JSX compilation: compile time in the server.
+    Angular templates compilation: runtime in the browser).
+att(18883, 18297).
 
 arg(15976).
 text(15976, Separating HTML and JS is not separating concerns, it is separating technologies.
 Separating concerns is thinking in components.).
 att(15976, 15974).
 
-arg(15973).
-text(15973, They don't use React, they use a website.).
-att(15973, root).
+arg(16835).
+text(16835, Learning Angular to build a quick SPA is much easier than learning all the technologies to build a toolchain thorough enough to do the same with just React. Much more effective to do so in Angular.).
+att(16835, 15246).
 
-arg(15249).
-text(15249, ).
-att(15249, root).
+arg(16941).
+text(16941, That implies that functional programming is to, somehow, replace imperative programming, and Angular not supporting it as well as React, would get killed.).
+att(16941, 16285).
 
-arg(15887).
-text(15887, A website may have a billion users but it is still just one website. Far more significant is the number of programmers who program in a particular framework I'd suggest.).
-att(15887, root).
+arg(16285).
+text(16285, it helps doing immutability and functional programming).
+support(16285, root).
 
-arg(15851).
-text(15851, That's not even a fraction of the userbase compared to the billions of users on Facebook, Instragram, Netflix or Yahoo that use React in one way or another.).
-att(15851, root).
+arg(16528).
+text(16528, You can implement MVC quite easily with React, if you don't like small composable & cohesive (where view depends on controller & vice versa) components.).
+att(16528, 15247).
 
-arg(15850).
-text(15850, Isn't Google using Angular for their Doubleclick dashboard?).
-att(15850, root).
+arg(15979).
+text(15979, React encourage to developers write more loosely coupled code thanks to component based structure.  ).
+support(15979, root).
+
+arg(16279).
+text(16279, Watch your back.  Your React licence will be instantly revoked if you, your company, or the client you build the product for even accuse Facebook of a patent infrigement.  This sh*t happens people.  Read it yourself with on the React github page (PATENTS file)).
+att(16279, root).
 
 arg(15849).
 text(15849, The Wordpress admin is being rewritten in React, which means, next to Facebook and Instragram, another couple of million users will be using it daily.).
 support(15849, root).
 
-arg(15835).
-text(15835, React allows us to "flow" HTML as part of the (JavaScript) language. Angular forces HTML programability by adding a new language to HTML.).
-support(15835, root).
-
-arg(15832).
-text(15832, React provides fewer and more powerful primitives that can be easily described and consumed.).
-support(15832, root).
-
-arg(15829).
-text(15829, React uses unidirectional flow which is much simpler than two-way binding.).
-support(15829, root).
-
 arg(15828).
 text(15828, Beauty and essence of React has nothing to do with browsers or the DOM.).
 support(15828, root).
 
-arg(15827).
-text(15827, It doesn't need templates with additional  (strange and limited) language to learn. React uses JavaScript. It's simpler and more powerful.).
-support(15827, root).
+arg(16007).
+text(16007, From JSX official page: "JSX is a XML-like syntax extension to ECMAScript without any defined semantics.".
 
-arg(15650).
-text(15650, Both are used to accomplish the same goal when developers build a SPA.  React's components are on NPM, Angular's are built into the core.).
-att(15650, root).
+It is an extension of a language, and you need to learn it. There is a learning curve compared to standard JavaScript/Html.).
+att(16007, 15999).
 
 arg(15649).
 text(15649, It took Google buying Firebase to finally get Angular's documentation into a usable format almost four years after it was created.).
 support(15649, root).
 
-arg(15648).
-text(15648, Data cascades down components as one would assume it should.).
-support(15648, root).
+arg(15974).
+text(15974, Separation of concerns is important, and collaboration is easier if HTML and JS are not too coupled.).
+att(15974, 15835).
 
-arg(15561).
-text(15561, You don't have to take "React" in the narrow sense of the React lib alone. People use React  as shorthand for "React + Flux architecture + helper libs" -- that amount to a whole framework.  So you end up with a framework but with flexible parts you chose yourself.).
-att(15561, root).
+arg(15999).
+text(15999, JSX is not a language, it is merely a data structure literal, and a very simple one at that.).
+att(15999, 15982).
 
-arg(15332).
-text(15332, Also provides React-Native for building IOS-Android apps within same learning curve).
-att(15332, root).
+arg(15982).
+text(15982, JSX is a new language too and although it's not mendatory, as it's widespreaded you have to learn it too.).
+att(15982, 15835).
 
-arg(15320).
-text(15320, You don’t understand what WASM is.).
-att(15320, root).
+arg(15973).
+text(15973, They don't use React, they use a website.).
+att(15973, 15851).
 
-arg(15322).
-text(15322, Acknowledging a fact does not indicate guilt. A death can be acknowledged without being the one that caused it. ).
-att(15322, root).
+arg(15249).
+text(15249, ).
+att(15249, 15248).
 
-arg(15319).
-text(15319, We dont know when backward incompatible Angular3 will come out).
-support(15319, root).
+arg(15887).
+text(15887, A website may have a billion users but it is still just one website. Far more significant is the number of programmers who program in a particular framework I'd suggest.).
+att(15887, 15849).
 
-arg(15302).
-text(15302, The lifecycle of Angular is complex, and to master it, you really need to read the code. Compile and link are not intuitive, and specific cases can be confusing (recursion in compile, collisions between directives).).
-support(15302, root).
+arg(15851).
+text(15851, That's not even a fraction of the userbase compared to the billions of users on Facebook, Instragram, Netflix or Yahoo that use React in one way or another.).
+att(15851, 15850).
+
+arg(15850).
+text(15850, Isn't Google using Angular for their Doubleclick dashboard?).
+att(15850, 15849).
 
 arg(15307).
 text(15307, will die from WebAssembly before it can get the xp points for the kill).
 att(15307, root).
 
+arg(15835).
+text(15835, React allows us to "flow" HTML as part of the (JavaScript) language. Angular forces HTML programability by adding a new language to HTML.).
+support(15835, 15827).
+
+arg(15829).
+text(15829, React uses unidirectional flow which is much simpler than two-way binding.).
+support(15829, 15246).
+
 arg(15318).
 text(15318, Angular2 is not backward compatible).
 support(15318, root).
 
-arg(15303).
-text(15303, React makes it simple to control the performance. If you implement shouldComponentUpdate, you can choose which comparison you prefer - model or presentation.).
-support(15303, root).
+arg(15827).
+text(15827, It doesn't need templates with additional  (strange and limited) language to learn. React uses JavaScript. It's simpler and more powerful.).
+support(15827, 15246).
+
+arg(15650).
+text(15650, Both are used to accomplish the same goal when developers build a SPA.  React's components are on NPM, Angular's are built into the core.).
+att(15650, 15248).
+
+arg(15247).
+text(15247, AngularJS provides MVC, but ReactJS provides components(View)).
+att(15247, root).
+
+arg(15648).
+text(15648, Data cascades down components as one would assume it should.).
+support(15648, 15246).
+
+arg(15561).
+text(15561, You don't have to take "React" in the narrow sense of the React lib alone. People use React  as shorthand for "React + Flux architecture + helper libs" -- that amount to a whole framework.  So you end up with a framework but with flexible parts you chose yourself.).
+att(15561, 15248).
+
+arg(15332).
+text(15332, Also provides React-Native for building IOS-Android apps within same learning curve).
+att(15332, 15246).
+
+arg(15320).
+text(15320, You don’t understand what WASM is.).
+att(15320, 15307).
+
+arg(15322).
+text(15322, Acknowledging a fact does not indicate guilt. A death can be acknowledged without being the one that caused it. ).
+att(15322, 15255).
+
+arg(15319).
+text(15319, We dont know when backward incompatible Angular3 will come out).
+support(15319, 15318).
+
+arg(15245).
+text(15245, One way binding is more efficient than two way binding).
+support(15245, root).
+
+arg(16526).
+text(16526, React doesn't force you to use flux instead of standard MVC. If you really want to separate view from logic (which in case of small cohesive and composable components is not a great idea) you can move render method in a class with doesn't have logic.).
+att(16526, root).
 
 arg(15248).
 text(15248, It's an apple vs. orange type of comparison. Angular, being a framework, covers a lot more ground than React, a library. ).
-support(15248, root).
+support(15248, 15247).
 
 arg(15255).
 text(15255, Ember recently announced they are hosting the funeral for Angular, it will be on June 12th and will be streamed live at Emberjs.com).
-att(15255, root).
+att(15255, 15254).
+
+arg(16281).
+text(16281, it brings event sourcing to the client).
+support(16281, root).
+
+arg(15246).
+text(15246, Learning ReactJS is much easier).
+support(15246, root).
+
+arg(16790).
+text(16790, angular is a framework while react is a library...).
+att(16790, root).
+
+arg(19492).
+text(19492, Angular 2 has moved to one-way binding by default).
+att(19492, 15245).
+
+arg(19400).
+text(19400, Angular 2 works with native Javascript (if you dont want to use Typescript)).
+att(19400, 15827).
+
+arg(19399).
+text(19399, Google does not use thir own framework for their pages and stuff).
+att(19399, 16279).
+
+arg(19398).
+text(19398, Google does not use thir own framework for their stuff).
+att(19398, 15850).
+
+arg(19397).
+text(19397, Angular 2 is developing (still in beta) isomorphic support).
+att(19397, 17831).
+
+arg(19396).
+text(19396, Angular 2 has now Components).
+att(19396, 15247).
+
+arg(19493).
+text(19493, Google uses Angular for many of its products and pages, including DoubleClick, Careers, Fiber, Trends, Insights, and Analytics).
+att(19493, 19399).
 
 arg(15254).
 text(15254, React did not kill Angular.
 Angular committed suicide.).
 att(15254, root).
 
-arg(15247).
-text(15247, AngularJS provides MVC, but ReactJS provides components(View)).
-att(15247, root).
-
-arg(15246).
-text(15246, Learning ReactJS is much easier).
-support(15246, root).
-
-arg(15245).
-text(15245, One way binding is more efficient than two way binding).
-support(15245, root).
+arg(15303).
+text(15303, React makes it simple to control the performance. If you implement shouldComponentUpdate, you can choose which comparison you prefer - model or presentation.).
+support(15303, root).
 

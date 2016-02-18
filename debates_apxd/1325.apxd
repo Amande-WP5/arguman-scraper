@@ -1,60 +1,14 @@
 arg(root).
 text(root, Twin towers actually attacked by the US.).
 
-arg(5648).
-text(5648, " "The planes were just a distraction," says Professor James Fetzer, 65, a recently retired philosopher of science at the University of Minnesota. "The evidence is so overwhelming, but most Americans don't have time to take a look at this."
-
-Source:
-
-The Guardian).
-att(5648, root).
-
-arg(6933).
-text(6933, The Pentagon's damage was consistent with an aircraft. The argument that these (WTC and Pentagon attacks) were mutually exclusive events in terms of planning and funding is the next likely step based on the previous reasoning. The likelihood of this even resembling to truth would be a stretch.).
-att(6933, root).
-
-arg(7076).
-text(7076, The relation the people in power had to each major key element and to each other is a fact. If there was a breach in one thing they were involved in, then it would be coincidence. But we're discussing 4 coincidences at the least. 
-
-And I want to add a thank you for responding.).
-att(7076, root).
-
 arg(5649).
 text(5649, JET FUEL CAN'T MELT STEEL BEAMS.
 ).
 support(5649, root).
 
-arg(5694).
-text(5694, 36% said it was "very likely" or "somewhat likely" that federal officials either participated in the attacks on the World Trade Centre and the Pentagon, or took no action to stop them, "because they wanted the United States to go to war in the Middle East".).
-att(5694, root).
-
-arg(5769).
-text(5769, I just copied and pasted it. It's not my production. ).
-att(5769, root).
-
-arg(5695).
-text(5695, The main argument is that the cause was either the Taliban or the US. Osama Bin Laden says he is not responsible, "We have been blamed in the past, but we were not involved,". If this truely was a Taliban attack why would they not claim ownership? Doing so would surely do more damage to the US.).
-support(5695, root).
-
-arg(5652).
-text(5652, You are the person with the burden of proof in this argument you are presenting. You have to prove your point, instead of asking for us to disprove it.).
-att(5652, root).
-
-arg(7399).
-text(7399, Although this may not be the single motivation for the attack. It stands to be one of the most significant and easily identifiable ones. Too many people profited from this attack in too many ways. What did the government get out of it, their monetary system didn't collapse. deal with it.).
-support(7399, root).
-
-arg(5775).
-text(5775, Your source is not reliable because you are waving it around while not citing it and showing us the data, not because I am not familiar with it.).
-att(5775, root).
-
-arg(5701).
-text(5701, In this very article you cite, three out of four answers clearly say that the US are NOT to blame for this.).
-att(5701, root).
-
-arg(5859).
-text(5859, You can't provide a source, so effectively following your own logic (although a bit extreme,) you could say NASA released a confidential document internally saying that they found a asteroid made of jam and speaks French. In other words your argument holds no water whatsoever.).
-att(5859, root).
+arg(5664).
+text(5664, It allowed the US forces to advance their troops onto Afghanistan and united the whole of America behind the cause. This benefitted the US both financially and politically. ).
+support(5664, root).
 
 arg(5702).
 text(5702, 36 percent of who exactly? You have not cited your source and I'm sure it's not a very reliable source at that.).
@@ -72,14 +26,6 @@ arg(5663).
 text(5663, The force of a huge plane slamming into a building can destroy/weaken said steel beams.).
 att(5663, 5649).
 
-arg(5664).
-text(5664, It allowed the US forces to advance their troops onto Afghanistan and united the whole of America behind the cause. This benefitted the US both financially and politically. ).
-support(5664, root).
-
-arg(6949).
-text(6949, molten steel was found in ground zero.).
-att(6949, root).
-
 arg(5787).
 text(5787, That does not make it a very reliable source if you improperly cite it or don't know where exactly it came from.).
 att(5787, 5769).
@@ -91,10 +37,6 @@ att(5715, 5649).
 arg(5672).
 text(5672, Your source is not properly cited, also I don't think a retired philosopher of science is exactly omniscient. If the evidence is so overwhelming please present it to us.).
 att(5672, 5648).
-
-arg(5718).
-text(5718, The knowledge of this tension also creates the perfect scenario to carry out an operation of this size and get away with it. We also know that at the time the government wanted to escalate this tension via troops and by increasing investment into the conflict. ).
-att(5718, root).
 
 arg(5677).
 text(5677, Even if the US benefitted from the attacks  it does not mean that they were the perpetrators of them.).
@@ -110,23 +52,77 @@ text(5724, BBC says;
 At least 7 of the 19 listed hijackers are still alive (BBC). No video footage of 19 hijackers or passengers boarding the 4 planes. Pilots of the 4 planes never squawked the hijacking code. ‘Alive hijackers’, ‘ACARS’, ‘Pilots for 9/11 Truth’.).
 att(5724, 5701).
 
+arg(5674).
+text(5674, Supporting this argument is the fact that "A number of business leaders who would normally have been in the World Trade Center, were instead at a meeting hosted by Warren Buffett on September 11th at Offutt Air Force Base in Omaha, Nebraska.").
+support(5674, 5664).
+
+arg(5648).
+text(5648, " "The planes were just a distraction," says Professor James Fetzer, 65, a recently retired philosopher of science at the University of Minnesota. "The evidence is so overwhelming, but most Americans don't have time to take a look at this."
+
+Source:
+
+The Guardian).
+att(5648, 5641).
+
+arg(7076).
+text(7076, The relation the people in power had to each major key element and to each other is a fact. If there was a breach in one thing they were involved in, then it would be coincidence. But we're discussing 4 coincidences at the least. 
+
+And I want to add a thank you for responding.).
+att(7076, 6903).
+
+arg(5694).
+text(5694, 36% said it was "very likely" or "somewhat likely" that federal officials either participated in the attacks on the World Trade Centre and the Pentagon, or took no action to stop them, "because they wanted the United States to go to war in the Middle East".).
+att(5694, 5672).
+
+arg(5769).
+text(5769, I just copied and pasted it. It's not my production. ).
+att(5769, 5737).
+
+arg(5695).
+text(5695, The main argument is that the cause was either the Taliban or the US. Osama Bin Laden says he is not responsible, "We have been blamed in the past, but we were not involved,". If this truely was a Taliban attack why would they not claim ownership? Doing so would surely do more damage to the US.).
+support(5695, 5677).
+
+arg(5652).
+text(5652, You are the person with the burden of proof in this argument you are presenting. You have to prove your point, instead of asking for us to disprove it.).
+att(5652, 5636).
+
+arg(7399).
+text(7399, Although this may not be the single motivation for the attack. It stands to be one of the most significant and easily identifiable ones. Too many people profited from this attack in too many ways. What did the government get out of it, their monetary system didn't collapse. deal with it.).
+support(7399, 6049).
+
+arg(5775).
+text(5775, Your source is not reliable because you are waving it around while not citing it and showing us the data, not because I am not familiar with it.).
+att(5775, 5730).
+
+arg(5701).
+text(5701, In this very article you cite, three out of four answers clearly say that the US are NOT to blame for this.).
+att(5701, 5684).
+
+arg(5859).
+text(5859, You can't provide a source, so effectively following your own logic (although a bit extreme,) you could say NASA released a confidential document internally saying that they found a asteroid made of jam and speaks French. In other words your argument holds no water whatsoever.).
+att(5859, 5764).
+
+arg(6949).
+text(6949, molten steel was found in ground zero.).
+att(6949, 5715).
+
+arg(5718).
+text(5718, The knowledge of this tension also creates the perfect scenario to carry out an operation of this size and get away with it. We also know that at the time the government wanted to escalate this tension via troops and by increasing investment into the conflict. ).
+att(5718, 5682).
+
 arg(5725).
 text(5725, Saying the US government and the Taliban are only possible parties responsible for the event  is a false dichotomy. As the agents who enacted the event could have been a splinter group or independent of other organizations.).
 att(5725, 5695).
 
 arg(5682).
 text(5682, Because the US knew there was a high risk of a terrorist attack tacking places does not imply in any way that they caused it.).
-att(5682, root).
+att(5682, 5674).
 
 arg(5684).
 text(5684, This is an another Wikipedia answer. Please, open your mind. You just need to open your eyes. 
 
 https://www.quora.com/Did-USA-really-launch-an-attack-on-the-twin-tower-on-9-11).
 att(5684, 5652).
-
-arg(5804).
-text(5804, Just because you claim that some government conspiracy is the reason that you cannot share your source with us does not mean that could be making it all up or cannot find it because it does not exist.).
-att(5804, root).
 
 arg(7428).
 text(7428, alone, it does not imply the U.S. was involved, but, with a preponderance of events all deliberately confusing our defense systems and early warning procedures. That coupled with our own military conducting drills for this exact event the day of adding to the confusion. Many other events as well.).
@@ -151,18 +147,6 @@ arg(5737).
 text(5737, It's true that modern planes would be able to squawk the hijacking code as the hijackers would not be able to get inside. but before 9/11 the secure locking system for the pilot's cabin was not a standard. Also, please cite a BBC article instead of just "BBC").
 att(5737, 5724).
 
-arg(5618).
-text(5618, If a country knows the number of flies on the other side of the world, how they cant detect unknown planes inside the air spaces. Funny.).
-support(5618, root).
-
-arg(6721).
-text(6721, The security of WTC and an airport involved were enforced by the same family that funded the terrorists. Additional suspicion also arises when Bertha Champagne dies in the Bush's driveway, crushed by her own car, which then drove past the checkpoint and into the woods.).
-support(6721, root).
-
-arg(5742).
-text(5742, How do you explain the pentagon barely getting touched and jewish workers taking a day free? FBI knew it was coming months before, regardless if they helped the terrorists or not.).
-att(5742, root).
-
 arg(5743).
 text(5743, It's not for you to say if your own source is reliable or not. Also, Bush is a notoriously bad public speaker and has a known reputation for saying things that he didn't mean to say.).
 att(5743, 5730).
@@ -170,10 +154,6 @@ att(5743, 5730).
 arg(5750).
 text(5750, Once again, such a poll holds near to no value in an argument. If you really want to use it, then provide a clear link to the precise source and use precise figures. Anything else is handwaving.).
 att(5750, 5735).
-
-arg(6049).
-text(6049, Iran was planning to trade their oil in currency other than USD. Esssentially lowering the value of the Dollar.Iraq had already begun trading in currency other than USD. The Attacks of 9/11 put the U.S. in the two main positions to make a "show of force" to Iran as well as seize Iraq oil.).
-support(6049, root).
 
 arg(5636).
 text(5636, Instead of clicking only the " irrelevant " button,  read http://www.theguardian.com/education/2006/sep/05/internationaleducationnews.highereducation.
@@ -223,13 +203,33 @@ arg(8451).
 text(8451, He used all caps! How could he do that without being right?).
 support(8451, 5649).
 
-arg(5674).
-text(5674, Supporting this argument is the fact that "A number of business leaders who would normally have been in the World Trade Center, were instead at a meeting hosted by Warren Buffett on September 11th at Offutt Air Force Base in Omaha, Nebraska.").
-support(5674, 5664).
-
 arg(5716).
 text(5716, The official explanation is that the steel in the floor trusses expanded and twisted, overstressing the connections between the joists and the columns
 
 Steel loses about 50 percent of its strength at 1100).
 att(5716, 5649).
+
+arg(6933).
+text(6933, The Pentagon's damage was consistent with an aircraft. The argument that these (WTC and Pentagon attacks) were mutually exclusive events in terms of planning and funding is the next likely step based on the previous reasoning. The likelihood of this even resembling to truth would be a stretch.).
+att(6933, 5649).
+
+arg(5804).
+text(5804, Just because you claim that some government conspiracy is the reason that you cannot share your source with us does not mean that could be making it all up or cannot find it because it does not exist.).
+att(5804, 5764).
+
+arg(5742).
+text(5742, How do you explain the pentagon barely getting touched and jewish workers taking a day free? FBI knew it was coming months before, regardless if they helped the terrorists or not.).
+att(5742, 5641).
+
+arg(5618).
+text(5618, If a country knows the number of flies on the other side of the world, how they cant detect unknown planes inside the air spaces. Funny.).
+support(5618, root).
+
+arg(6721).
+text(6721, The security of WTC and an airport involved were enforced by the same family that funded the terrorists. Additional suspicion also arises when Bertha Champagne dies in the Bush's driveway, crushed by her own car, which then drove past the checkpoint and into the woods.).
+support(6721, root).
+
+arg(6049).
+text(6049, Iran was planning to trade their oil in currency other than USD. Esssentially lowering the value of the Dollar.Iraq had already begun trading in currency other than USD. The Attacks of 9/11 put the U.S. in the two main positions to make a "show of force" to Iran as well as seize Iraq oil.).
+support(6049, root).
 

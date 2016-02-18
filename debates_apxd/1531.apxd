@@ -1,29 +1,19 @@
 arg(root).
 text(root, Nothing that all participants freely consented to is immoral.).
 
-arg(15449).
-text(15449, Personal preference is irrelevant as consent doesn't imply personal preference. An act can be without consent and prefered (an unexpected kiss) or consented to and unprefered (an unpleasant conversation)).
-att(15449, root).
+arg(18914).
+text(18914, Consent is one of the primary markers of justice in human encounters. ).
+support(18914, root).
 
-arg(15448).
-text(15448, Boiling morality down to harm is presuming a lot.).
-att(15448, root).
+arg(18804).
+text(18804, Unless it's a group of people agreeing to do something that will have a negative affect on others).
+att(18804, root).
 
-arg(8114).
-text(8114, How else can we define 'harm'?).
-att(8114, root).
+arg(18810).
+text(18810, I agree that sometime, doing some harm is morally ok or even good.(most of the time because it avoid worst harm)
 
-arg(7985).
-text(7985, This statement assumes that objection to personal preference is the sole proprietor of what constitutes morality ).
-att(7985, root).
-
-arg(14721).
-text(14721, Only if the invested parties are both standing on equal footing in terms of power with regard to the agreement/action.).
-att(14721, root).
-
-arg(14727).
-text(14727, What "freely consented" mean ?).
-att(14727, root).
+Do you disagree that we can define harm like i did ?).
+att(18810, 18808).
 
 arg(14728).
 text(14728, * pain/suffering
@@ -33,4 +23,64 @@ text(14728, * pain/suffering
 * loss of pleasure.
 ).
 att(14728, 8114).
+
+arg(18921).
+text(18921, Similar power is necessary for consent to be truly free.).
+support(18921, 14721).
+
+arg(7985).
+text(7985, This statement assumes that objection to personal preference is the sole proprietor of what constitutes morality ).
+att(7985, root).
+
+arg(18840).
+text(18840, Children would be a good thing to add to that list).
+att(18840, 18827).
+
+arg(18827).
+text(18827, I agree with you. However I guess it depends on how we define "participants"  in the original argument. if it is causing harm to an animal or some other being that can not provide consent it might still be considered immoral ).
+att(18827, 18826).
+
+arg(18826).
+text(18826, The premise was that all participants had to agree. Anyone who's having an action done to them therefor must consent.).
+att(18826, 18804).
+
+arg(18816).
+text(18816, That would be a libertarian stance, not an "ultra-liberal" stance since an ultra liberal likes a big gov and libertarians are the exact opposite of this.).
+att(18816, 16414).
+
+arg(18808).
+text(18808, But we not all harm like that is morally reprehensible.  For example, medical treatments can cause pain or loss of pleasure, even if only temporarily.  Situations of self defense also might cause harm to another person, in order to prevent harm to yourself.).
+att(18808, 14728).
+
+arg(18807).
+text(18807, Yeah, it would make sense to include those affected in the definition of participants.).
+support(18807, 18804).
+
+arg(14721).
+text(14721, Only if the invested parties are both standing on equal footing in terms of power with regard to the agreement/action.).
+att(14721, root).
+
+arg(18715).
+text(18715, Isn't that typically a libertarian stance (especially going by your "anti-statist" comment)?).
+att(18715, 16414).
+
+arg(16414).
+text(16414, Ultra-liberals (European liberalism with "anti-statism") usually argue that a person is freely choosing to sell their labour, even if the other option is dying of hunger or stealing food to survive...).
+support(16414, 14727).
+
+arg(15449).
+text(15449, Personal preference is irrelevant as consent doesn't imply personal preference. An act can be without consent and prefered (an unexpected kiss) or consented to and unprefered (an unpleasant conversation)).
+att(15449, 7985).
+
+arg(15448).
+text(15448, Boiling morality down to harm is presuming a lot.).
+att(15448, 8114).
+
+arg(8114).
+text(8114, How else can we define 'harm'?).
+att(8114, 7985).
+
+arg(14727).
+text(14727, What "freely consented" mean ?).
+att(14727, root).
 

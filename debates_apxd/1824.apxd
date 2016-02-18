@@ -1,14 +1,6 @@
 arg(root).
 text(root, Pornography was the largest influence in the expansion of the Internet).
 
-arg(11475).
-text(11475, The majority of the internet is the deep web, which is not wholly made up of porn. ).
-att(11475, root).
-
-arg(11203).
-text(11203, I’m fairly sure if they took porn off the internet, there’d only be one website left, and it’d be called "Bring back the porn!").
-support(11203, root).
-
 arg(11803).
 text(11803, The Deep web consists mostly of private networks for companies to share data within itself, and is in no way representative of the Internet as a whole).
 att(11803, 11475).
@@ -24,4 +16,20 @@ support(12219, 11803).
 arg(12241).
 text(12241, The Deep Web is actually incredibly large.  There are many more personal private networks around than public networks.  ).
 att(12241, 12219).
+
+arg(11475).
+text(11475, The majority of the internet is the deep web, which is not wholly made up of porn. ).
+att(11475, root).
+
+arg(11203).
+text(11203, I’m fairly sure if they took porn off the internet, there’d only be one website left, and it’d be called "Bring back the porn!").
+support(11203, root).
+
+arg(19055).
+text(19055, I don't think this argument is about quantity of the internet that is porn. 
+
+But based on the fact that porn pioneered a lot of the technologies built for the World Wide Web, just like War helped the advancement of modern medicine.
+
+e.g. e-commerce and secure online payments).
+att(19055, 11475).
 

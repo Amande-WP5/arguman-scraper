@@ -1,15 +1,27 @@
 arg(root).
 text(root, The top 1% should pay more in social security taxes in order to strengthen it and ensure its viability for decades to come.  ).
 
-arg(16000).
-text(16000, This already happens in most countries).
-att(16000, root).
+arg(17117).
+text(17117, If you took all of the 1% money you still couldn't keep social security funded. The US currently holds about 130 trillion in unfunded liabilities. We are robbing Peter to pay Pauline and sooner or later that will catch up with us.).
+att(17117, root).
+
+arg(16819).
+text(16819, The 1% should be expropriated, their richness comes from exploitation of the 99%'s work.).
+support(16819, root).
 
 arg(6957).
 text(6957, This likely wont happen within our lifetimes.).
 att(6957, root).
 
+arg(18878).
+text(18878, Currently they don't even pay an equal share, as all income after a threshold is not counted towards social security tax).
+att(18878, 17117).
+
 arg(6568).
 text(6568, Many people depend on social security for retirement income, albeit how insufficient in many cases. We should work to strengthen social security rather than privatize it to ensure people get the benefits they need to survive. ).
 support(6568, root).
+
+arg(16000).
+text(16000, This already happens in most countries).
+att(16000, root).
 

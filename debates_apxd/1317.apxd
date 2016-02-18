@@ -1,14 +1,6 @@
 arg(root).
 text(root, The world is slowly turning into a dystopia).
 
-arg(5693).
-text(5693, We don't have the manpower or technology to watch millions (edit: billions) of people at once, and even if at some point in the future we do they won't be watching every citizen all the time.).
-att(5693, root).
-
-arg(5696).
-text(5696, This is an illusion. We live in better times than ever. Individuals are freer than ever. Live longer than ever. Nsa and such are the last struggle of the old world trying to maintain status quo.).
-att(5696, root).
-
 arg(5708).
 text(5708, Data mining industries look for metadata not individual conversations.
 
@@ -19,17 +11,9 @@ arg(5710).
 text(5710, Just because most things are better than 'before' does not mean all things are better than 'before'. Also, define freedom.).
 att(5710, 5696).
 
-arg(5712).
-text(5712, The needs of the people are not being satisfied. Instead, business owners are using money for their own personal gains and give little of their own to the general populace.).
-support(5712, root).
-
 arg(5729).
 text(5729, The data of crowd, lead all the people to same popular stuff and people become monotype).
 att(5729, 5708).
-
-arg(5687).
-text(5687, dystopia is fairly indivual).
-att(5687, root).
 
 arg(5734).
 text(5734, Even if our current society favors a few rich over the masses, as long as every individual gains something in comparison to the life in the last century, for example - even if it is less than the gain of other individuals - it can still be considered fair and just.).
@@ -43,11 +27,27 @@ arg(5760).
 text(5760, 7+ billion people live on Earth, it's very logical to assume that a good deal of them are the same - have the same tastes in things and would produce the same (or extremely similar) data, clumping together and only leaving the extreme outliers, which are the ones that should be watched.).
 support(5760, 5729).
 
+arg(6601).
+text(6601, This may be so, but only to a point. Although things are better we should not let the label of "gilded age" let us become complacent in thinking that everything is as good as it's going to get - things can get better and demonstrably are getting better every day. We must keep working at it.).
+att(6601, 5741).
+
+arg(5693).
+text(5693, We don't have the manpower or technology to watch millions (edit: billions) of people at once, and even if at some point in the future we do they won't be watching every citizen all the time.).
+att(5693, 5557).
+
+arg(5687).
+text(5687, dystopia is fairly indivual).
+att(5687, root).
+
 arg(5557).
 text(5557, with development of technology, big brother is watching us more easily).
 support(5557, root).
 
-arg(6601).
-text(6601, This may be so, but only to a point. Although things are better we should not let the label of "gilded age" let us become complacent in thinking that everything is as good as it's going to get - things can get better and demonstrably are getting better every day. We must keep working at it.).
-att(6601, 5741).
+arg(5696).
+text(5696, This is an illusion. We live in better times than ever. Individuals are freer than ever. Live longer than ever. Nsa and such are the last struggle of the old world trying to maintain status quo.).
+att(5696, root).
+
+arg(5712).
+text(5712, The needs of the people are not being satisfied. Instead, business owners are using money for their own personal gains and give little of their own to the general populace.).
+support(5712, root).
 

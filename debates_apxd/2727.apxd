@@ -1,0 +1,12 @@
+arg(root).
+text(root, Loosing one human right makes it harder to maintain others).
+
+arg(19288).
+text(19288, You can edit your argument.).
+att(19288, 19142).
+
+arg(19142).
+text(19142, Rights equate with legal objects(as citizens) beeing granted legal freedoms hence, reducing rights of legal objects also reduces their freedom to legally influence other rights.
+Edit: "Losing" instead of "Loosing" in the statement).
+support(19142, root).
+

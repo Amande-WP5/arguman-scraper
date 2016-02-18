@@ -13,3 +13,11 @@ arg(15060).
 text(15060, But I intentionally wrote "scientific" explanations. An alternative term is "scientific theory". A scientific theory is by definition testable by experiment and so must refer to physical quantities.).
 att(15060, 14773).
 
+arg(16365).
+text(16365, A theory is an explanation for some observations that's expressed in terms of physical things. Newton's inverse square law of gravity refers to mass for example. Maxwell's theory refers to electric and magnetic fields.).
+att(16365, 16356).
+
+arg(16356).
+text(16356, "can only be expressed in terms of physical quantities" makes no sense. Theory is tested by observation, usually after experiment. There is no "physical quantity" requirement. Poorly defining science does not prove a point.).
+att(16356, 14596).
+

@@ -1,0 +1,105 @@
+arg(root).
+text(root, There is no difference between male and female brains).
+
+arg(18277).
+text(18277, This is obviously false as evolutionary theory has branched us for a reason, for efficient fulfillment of sexually divergent roles & tasks - changing brain structure is such obvious low hanging fruit for role specialization, dimorphic evolution would mandate differing gene expression.).
+att(18277, root).
+
+arg(18266).
+text(18266,  "...there are sex/gender differences in brain and behavior... some more common in females compared with males, some more common in males compared with females"
+
+"Our study demonstrates that... there are sex/gender differences in the brain").
+att(18266, root).
+
+arg(16320).
+text(16320, We are a sexually dimorphic species.).
+att(16320, root).
+
+arg(16319).
+text(16319, "Most brains are comprised of unique mosaics of features, some more common in females compared with males, some more common in males compared with females, and some common in both females and males. Our findings are robust across sample, age, type of MRI, and method of analysis...").
+support(16319, root).
+
+arg(16327).
+text(16327, The fact that they can’t be categorized in two distinct classes is a different thing, it doesn’t imply that there is no difference.).
+att(16327, 16323).
+
+arg(18470).
+text(18470, Ok, interesting, if it is that i was wrong all along.
+
+If being able to distinguish between A and B with 99,9% of certainty doesn’t count as A and B being distinct classes, then it was pretty obvious from the start that man and woman brain would not be distinct classes.).
+support(18470, 18461).
+
+arg(18463).
+text(18463, I do a lot of approximations.
+When i said we can’t distinguish, i mean : in most case it doesn’t give us a lot of information about what we are trying to determine.
+
+If the study only say that we can’t have perfectly distinct classes, i consider it to be a pretty empty and misleading sentence.
+).
+att(18463, 18460).
+
+arg(18461).
+text(18461, I don't disagree with the study, but I think they likely meant that we can't distinguish *with certainty*, rather than *at all*. As for the bear analogy, I realize it's flawed, but it really isn't a separate species, as far as definitions are concerned.).
+att(18461, 18460).
+
+arg(18460).
+text(18460, We can create distinct classes between polar and grizzly bear. (or we would be unable to speak about it as different species).
+
+If the study is correct, we can’t do it with woman and man brains. (we distinguish the things by their origin, but we can’t do it by their intrinsic properties).).
+att(18460, 18438).
+
+arg(18438).
+text(18438, Even if we can't reliably distinguish between the two, they certainly fall along a Gaussian curve in terms of various traits. This is much the same with the polar and grizzly bear. They can mate with each other, and have a Gaussian curve of similar traits, but are still different species.).
+att(18438, 18355).
+
+arg(18356).
+text(18356, If you are able to know, with enough certainty, that a random brain is the brain of a female or of a male, you can easily create two distinct classes of brain.).
+support(18356, 18355).
+
+arg(18355).
+text(18355, I don’t know about what other studies say, but the study i am speaking about say that we can’t create distinct classes, which is synonymous to say that we can’t know if a random brain is a female or a male brain with enough certainty. (even if, on average, there are differences)).
+att(18355, 18272).
+
+arg(18317).
+text(18317, My apologies. I misremembered. Women have higher white matter. The attached studies do however show that women have more densely packed neurons and have a higher portion of white matter).
+att(18317, 18286).
+
+arg(18286).
+text(18286, This is not what the study say.).
+att(18286, 18272).
+
+arg(18278).
+text(18278, In order to defend the OA you would have to invent a way to specialize at fulfilling a new biological role environment without using any of the tools available to evolution and just as well as if you did, ie differing regional brain size and connection densities - among thousands of other variables.).
+support(18278, 18277).
+
+arg(18272).
+text(18272, Most would say that you can by its density (assuming you know age). Female brains tend to have more neurons per volume. They also (iirc) tend to have a higher percentage of white matter.).
+att(18272, 16328).
+
+arg(16323).
+text(16323, "Our results demonstrate that regardless of the cause of observed sex/gender differences in brain and behavior (nature or nurture), human brains cannot be categorized into two distinct classes: male brain/female brain.").
+att(16323, 16322).
+
+arg(16345).
+text(16345, It should not be used to justify social differences.).
+att(16345, 16322).
+
+arg(16329).
+text(16329, In the same way, you can’t create distinct classes between male legs and female legs.
+It doesn’t mean there is no differences between male legs and female legs.).
+att(16329, 16328).
+
+arg(16328).
+text(16328, If you take a random brain, you will not be able to tell if it is a female or a male brain, you can only assign probability to it.
+The same brain could be a female or a male brain, that is what it mean to be unable to create distinct classes.).
+att(16328, 16327).
+
+arg(16322).
+text(16322, "some more common in females compared with males, some more common in males compared with females"
+
+Which constitute differences.
+
+Also your source say : 
+
+"Here we show that, although there are sex/gender differences in brain…").
+att(16322, 16319).
+

@@ -15,10 +15,6 @@ text(6789, Consciousness is a function of the brain. if the brain is destroyed, 
 We do not consider the picture on a TV screen to still be functioning after the TV has been destroyed. ).
 att(6789, 6783).
 
-arg(7123).
-text(7123, After brain death there is no consciousness set in the physical world. It is impossible to say if there is an afterlife because you have to die.).
-att(7123, root).
-
 arg(7022).
 text(7022, Just because metaphysics studies a concept it doesn't make it supernatural. Also, there's no proof that suggests that consciousness can remain after the death of the brain.).
 att(7022, 6783).
@@ -26,4 +22,8 @@ att(7022, 6783).
 arg(7035).
 text(7035, We know that consciousness and the brain are related because people with brain injuries experience a change in their consciousness. To expand what was previously said, if the hardware is destroyed, so is the software.).
 support(7035, 6789).
+
+arg(7123).
+text(7123, After brain death there is no consciousness set in the physical world. It is impossible to say if there is an afterlife because you have to die.).
+att(7123, root).
 

@@ -1,0 +1,7 @@
+arg(root).
+text(root, Drinking coffee just after waking up in the morning is not helpful for concentrating on work/study later.).
+
+arg(16617).
+text(16617, you just wake up and the brain is still not occupied by the other things. It's clear for thinking.).
+support(16617, root).
+

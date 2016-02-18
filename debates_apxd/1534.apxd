@@ -1,61 +1,29 @@
 arg(root).
 text(root, The gaming industry is free to oversexualize a character.).
 
-arg(8148).
-text(8148, Anything can be art, including murder. Who is one person to define what can and cannot be art. As such, the laws of our countries do not determine the definition of art, but only define boundaries, that once crossed, may invoke legal action against the artist. ).
-att(8148, root).
-
-arg(8046).
-text(8046, No one will go to jail for releasing this work in the United States. Don't confuse constitutionally guaranteed Freedom of Speech™ with freedom from audience criticism.).
-att(8046, root).
-
-arg(8141).
-text(8141, This is the exact same logic as "violent video games cause more people to be violent" which was proven false. Some people will be violent no matter what, the same go for people and over sexualization.).
-att(8141, root).
-
-arg(8249).
-text(8249, This presupposes complete free will in behavior, i.e. the ability to identify and ignore role models.).
-att(8249, root).
-
 arg(8252).
 text(8252, That is true.).
 att(8252, 8249).
 
+arg(8046).
+text(8046, No one will go to jail for releasing this work in the United States. Don't confuse constitutionally guaranteed Freedom of Speech™ with freedom from audience criticism.).
+att(8046, 7990).
+
+arg(8141).
+text(8141, This is the exact same logic as "violent video games cause more people to be violent" which was proven false. Some people will be violent no matter what, the same go for people and over sexualization.).
+att(8141, 8034).
+
+arg(8249).
+text(8249, This presupposes complete free will in behavior, i.e. the ability to identify and ignore role models.).
+att(8249, 8015).
+
 arg(8152).
 text(8152, Graffiti is considered art, while also being illegal. However, should a property owner give consent for the artist to paint their property, no legal action can be taken against the artist.).
-support(8152, root).
-
-arg(7978).
-text(7978, Nothing should be considered out of bounds in an artistic work.).
-support(7978, root).
-
-arg(7965).
-text(7965, It is only a virtual representation of a person, in an idealized universe. Therefore, developers have the right to extrapolate reality as much as they want.).
-support(7965, root).
-
-arg(8254).
-text(8254, Whether they should do it is more interesting than whether they should be free to do it.).
-att(8254, root).
-
-arg(8086).
-text(8086, No one is saying that sexuality itself is taboo. The specific issue is with the intentional creation of characters that have been, in some manner, over-sexualized. The topic here is not the entire subject of expression of sexuality itself.).
-att(8086, root).
+support(8152, 8021).
 
 arg(8155).
 text(8155, Banning someone's ability to express sexuality almost de facto makes it taboo. Putting something into a game that no one cares about causes nothing to occur. By making a big deal of it, you're saying there is something wrong with it. ).
 att(8155, 8086).
-
-arg(7984).
-text(7984, Sexuality is an inherently human trait. Treating it as taboo causes social issues and doesn't seem to actually have a benefit on society. ).
-support(7984, root).
-
-arg(8258).
-text(8258, It's trivially true that game developers are free to do whatever they choose in many countries, but whether or not they *can* represent all women as large-breasted bimbos is an entirely separate question from whether or not they *should* do so.).
-att(8258, root).
-
-arg(7990).
-text(7990, This falls under free speech and should be protected by the constitution.).
-support(7990, root).
 
 arg(7997).
 text(7997, Legality and morality are not equivalent.).
@@ -85,22 +53,9 @@ arg(8015).
 text(8015, People are free to follow whichever standards they want. Putting up an impossible representation is not the problem, it's trying to copy it. If people choose to do so, it's their problem, not the developer's.).
 att(8015, 8002).
 
-arg(8293).
-text(8293, what exactly constitutes "over-sexualization" people have different standards and it will vary across all people. Sure you can think critically on the topic but the lack standardization makes it a moot point.).
-att(8293, root).
-
 arg(8021).
 text(8021, Both the artist and the subject(s) should give full consent in order for it to be legal.).
 att(8021, 8008).
-
-arg(8299).
-text(8299, The journalists and critics are also free to criticize this practice, and point out what's wrong with it.).
-att(8299, root).
-
-arg(8358).
-text(8358, There is no limit whatsoever imposed on the descriptor, "artistic work." It's much too vague to have the sort of declarative value the author assumes.
-It invites the discussion of, "what is art," which is a ridiculously complex and nuanced topic, in and of itself. Thus: Red Herring.).
-att(8358, root).
 
 arg(8026).
 text(8026, You'll run into sticky and unnecessary situations with that. I disagree if it is in the public domain. If someone wants to profit from the work then more issues arise but certain privacy is lost when someone partakes as a member of society. ).
@@ -116,10 +71,6 @@ arg(8359).
 text(8359, This presents the chief difficulty in analyzing this prospect. "Over-sexualized" has too many subjective elements, and clarifying this signifier would serve to further the discussion. Without defining this or providing an example, the discussion seems to devolve into absolutes and/or hyperbole.).
 att(8359, 8293).
 
-arg(8366).
-text(8366, My intention was to place emphasis on "depiction," because what is implied is that an "artistic work" is a harmless, self-contained product of expression. When you start to get into the sheer scope of what can be considered "art," you must consider the possibility of other moral dilemmas.).
-att(8366, root).
-
 arg(8220).
 text(8220, 1. The question is over-sexualization, not the banning of all sexual expression. 2. You presuppose that "no one" cares about this when the existence of this discussion inherently proves otherwise. 3. The act of thinking critically about a topic does not inherently condemn the topic as "wrong".).
 att(8220, 8155).
@@ -127,10 +78,6 @@ att(8220, 8155).
 arg(8034).
 text(8034, over 'sexulization' in video games cause the opersite gender to see the other gender as sexual objects, not people).
 att(8034, 7984).
-
-arg(8037).
-text(8037, "Sex sells" and it's a transparent way to draw attention and alienate a portion of would-be audience.).
-att(8037, root).
 
 arg(8230).
 text(8230, While this is not a false analogy, it is an erroneous inference. The parent statement does *not* imply that.).
@@ -143,4 +90,57 @@ att(8238, 8037).
 arg(8246).
 text(8246, It has never been established that making a piece of entertainment to appeal to a specific audience is immoral. ).
 att(8246, 7997).
+
+arg(8148).
+text(8148, Anything can be art, including murder. Who is one person to define what can and cannot be art. As such, the laws of our countries do not determine the definition of art, but only define boundaries, that once crossed, may invoke legal action against the artist. ).
+att(8148, 8001).
+
+arg(7984).
+text(7984, Sexuality is an inherently human trait. Treating it as taboo causes social issues and doesn't seem to actually have a benefit on society. ).
+support(7984, root).
+
+arg(8258).
+text(8258, It's trivially true that game developers are free to do whatever they choose in many countries, but whether or not they *can* represent all women as large-breasted bimbos is an entirely separate question from whether or not they *should* do so.).
+att(8258, root).
+
+arg(8086).
+text(8086, No one is saying that sexuality itself is taboo. The specific issue is with the intentional creation of characters that have been, in some manner, over-sexualized. The topic here is not the entire subject of expression of sexuality itself.).
+att(8086, 7984).
+
+arg(7990).
+text(7990, This falls under free speech and should be protected by the constitution.).
+support(7990, root).
+
+arg(8299).
+text(8299, The journalists and critics are also free to criticize this practice, and point out what's wrong with it.).
+att(8299, root).
+
+arg(8037).
+text(8037, "Sex sells" and it's a transparent way to draw attention and alienate a portion of would-be audience.).
+att(8037, root).
+
+arg(8293).
+text(8293, what exactly constitutes "over-sexualization" people have different standards and it will vary across all people. Sure you can think critically on the topic but the lack standardization makes it a moot point.).
+att(8293, 8220).
+
+arg(8358).
+text(8358, There is no limit whatsoever imposed on the descriptor, "artistic work." It's much too vague to have the sort of declarative value the author assumes.
+It invites the discussion of, "what is art," which is a ridiculously complex and nuanced topic, in and of itself. Thus: Red Herring.).
+att(8358, 8230).
+
+arg(8366).
+text(8366, My intention was to place emphasis on "depiction," because what is implied is that an "artistic work" is a harmless, self-contained product of expression. When you start to get into the sheer scope of what can be considered "art," you must consider the possibility of other moral dilemmas.).
+att(8366, 8230).
+
+arg(7978).
+text(7978, Nothing should be considered out of bounds in an artistic work.).
+support(7978, root).
+
+arg(8254).
+text(8254, Whether they should do it is more interesting than whether they should be free to do it.).
+att(8254, root).
+
+arg(7965).
+text(7965, It is only a virtual representation of a person, in an idealized universe. Therefore, developers have the right to extrapolate reality as much as they want.).
+support(7965, root).
 

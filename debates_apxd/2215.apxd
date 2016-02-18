@@ -1,36 +1,9 @@
 arg(root).
 text(root, Moral differences are not simply cultural differences).
 
-arg(15699).
-text(15699, Let's define culture: Handed down rituals and expressions (like food, clothing, music, religion) that bind a community.
-Morality: Values and choices about right and wrong behavior.
-
-Morality is often taught through culture but can be treated as independent, even spanning cultures.).
-att(15699, root).
-
-arg(15457).
-text(15457, but the difference in concepts, must be explained; so can not culture explain the difference ?).
-att(15457, root).
-
-arg(14967).
-text(14967, It would be very "good" that people try to find their own core ethical principles, and make compromises with the others ethical frameworks.).
-att(14967, root).
-
-arg(15447).
-text(15447, Morality and culture are different concepts so moral differences don't have to be explained by or overlap with cultural differences.).
-support(15447, root).
-
-arg(14760).
-text(14760, i think there is universal morality to some extent. The practice is different but the moral principles in deep are the same. ).
-support(14760, root).
-
 arg(14761).
 text(14761, the custom is different but the belief is somehow the same. ).
 support(14761, 14760).
-
-arg(14758).
-text(14758, it is based on moral relativism that there should be moral differences).
-support(14758, root).
 
 arg(14759).
 text(14759, it is not that extreme ).
@@ -54,6 +27,10 @@ text(14965, There are the consequentialist ethics : preference utilitarianism, h
 And there are also a lot a deontological ethics, by example the kant’s categorical imperative.).
 support(14965, 14963).
 
+arg(14758).
+text(14758, it is based on moral relativism that there should be moral differences).
+support(14758, root).
+
 arg(14966).
 text(14966, I think deontological ethics are untenable, they are just strategies, and aren’t really core ethical principles.).
 att(14966, 14965).
@@ -61,4 +38,27 @@ att(14966, 14965).
 arg(14968).
 text(14968, A lot of what people do is harmful even in their own ethical framework.).
 support(14968, 14967).
+
+arg(15699).
+text(15699, Let's define culture: Handed down rituals and expressions (like food, clothing, music, religion) that bind a community.
+Morality: Values and choices about right and wrong behavior.
+
+Morality is often taught through culture but can be treated as independent, even spanning cultures.).
+att(15699, 15447).
+
+arg(14760).
+text(14760, i think there is universal morality to some extent. The practice is different but the moral principles in deep are the same. ).
+support(14760, 14759).
+
+arg(15447).
+text(15447, Morality and culture are different concepts so moral differences don't have to be explained by or overlap with cultural differences.).
+support(15447, root).
+
+arg(15457).
+text(15457, but the difference in concepts, must be explained; so can not culture explain the difference ?).
+att(15457, 15447).
+
+arg(14967).
+text(14967, It would be very "good" that people try to find their own core ethical principles, and make compromises with the others ethical frameworks.).
+att(14967, 14963).
 

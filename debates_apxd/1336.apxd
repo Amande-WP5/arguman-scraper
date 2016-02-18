@@ -1,84 +1,18 @@
 arg(root).
 text(root, All religion should be abolished).
 
-arg(6457).
-text(6457, Depending on your definition of harmful. I could define it as "whatever is untrue".).
-att(6457, 6444).
-
-arg(6336).
-text(6336, Moral intuitions are a valuable thing; while they should not be followed blindly, they should be paid some attention.).
-att(6336, root).
-
-arg(6331).
-text(6331, This is true if forcefully abolishing it would be successful.
-
-Typically, attempts to abolish religions by force backfire spectacularly.).
-att(6331, 6201).
-
-arg(7832).
-text(7832, Imagine a world where people who used to be happy with their religion are now oppressed. If people choose to not be religious, they're content with their decision.).
-support(7832, root).
-
-arg(6097).
-text(6097, Which is why court cases have juries, to make sure that 'the law' is interpreted by people, instead of being subject to moralistic laws.).
-att(6097, 6085).
-
-arg(7668).
-text(7668, God and Science may not, but religion and science do.).
-att(7668, root).
-
-arg(12467).
-text(12467, That is the point of wars of religion: converting or killing people refusing to convert.).
-att(12467, root).
-
-arg(6759).
-text(6759, If morality cannot be determined by mass agreement among society, so much more so can morality not be determined through the dictates of the governing class.).
-att(6759, root).
+arg(7822).
+text(7822, WTF?).
+att(7822, 5817).
 
 arg(5992).
 text(5992, the 3 main causes of war are religon, wealth and glory
 ).
-att(5992, root).
-
-arg(10023).
-text(10023, However it should be limited to organized religion, not what someone personally believes. ).
-att(10023, root).
-
-arg(7822).
-text(7822, WTF?).
-att(7822, root).
-
-arg(6245).
-text(6245, That has no bearing on whether Religion based moral systems can be functional.  Also, evolutionary biology is the source of such things as "kill someone because they fucked your mate", which is definitely a bad moral.).
-att(6245, root).
-
-arg(6492).
-text(6492, controlling how people think (especially through legislation) IS bad).
-att(6492, root).
-
-arg(6317).
-text(6317, You cannot fight fire with fire; abolishing religion with law or force is just another dogma.).
-att(6317, root).
-
-arg(6444).
-text(6444, Most religions are not harmful.).
-att(6444, root).
-
-arg(5874).
-text(5874, We don't know that for sure).
-att(5874, root).
+att(5992, 5758).
 
 arg(6453).
 text(6453, all dogma does not originate from Religion. Abolishing religion using non-religious dogma is not circular in reasoning. ).
 att(6453, 6317).
-
-arg(6704).
-text(6704, Universities also enforce liberal dogma on students, they should also be abolished, I say. That means abolishing CNN, MSNBC, Twitter, Facebook, Tumblr, &c).
-att(6704, root).
-
-arg(6021).
-text(6021, It should not be allowed to contradict the moral and ethical guidelines set in place by society as a whole.).
-att(6021, root).
 
 arg(6709).
 text(6709, Should we then abolish wealth and glory?).
@@ -96,103 +30,31 @@ arg(6035).
 text(6035, They did have a point in saying that not all war/conflicts come from religion. That refutes the initial statement that "religion is the source of ALL war").
 att(6035, 5874).
 
-arg(7842).
-text(7842, Not really.).
-att(7842, root).
-
-arg(7843).
-text(7843, I interpret the original statement as being opposed to religion in the form of "organized religion".).
-att(7843, root).
-
-arg(5817).
-text(5817, There are ok religions in the east).
-att(5817, root).
-
-arg(9673).
-text(9673, Slaves were sold by their own colored people. Warring tribes sold off their spoils to slave traders. Not always white people. ).
-support(9673, root).
-
-arg(7973).
-text(7973, So do I. And?).
-att(7973, root).
-
-arg(7739).
-text(7739, Other than that final sentence your statement is valid. Please don't make generalizations.).
-att(7739, root).
-
-arg(6201).
-text(6201, Who says it's immoral?  One could argue that, if religion is harmful enough, to NOT forcefully abolish religion is immoral.).
-att(6201, root).
-
 arg(6068).
 text(6068, Nazi Germany had moral and ethical guidelines that probably should have been contradicted. ).
 att(6068, 6021).
 
-arg(7169).
-text(7169, The enforcement of such a ban could become Orwellian in nature and scale if not well-controlled.).
-att(7169, root).
+arg(6097).
+text(6097, Which is why court cases have juries, to make sure that 'the law' is interpreted by people, instead of being subject to moralistic laws.).
+att(6097, 6085).
 
-arg(6085).
-text(6085, Society does just this by enacting criminal laws. Laws are created by people which either create or have access to moral laws.  Those who do not have that access or choose not to act in accord with that access should not be represented when passing morally informed criminal laws.).
-att(6085, root).
+arg(6457).
+text(6457, Depending on your definition of harmful. I could define it as "whatever is untrue".).
+att(6457, 6444).
 
-arg(7176).
-text(7176, Can you positively prove that all religions are untrue?).
-att(7176, root).
+arg(6331).
+text(6331, This is true if forcefully abolishing it would be successful.
 
-arg(7268).
-text(7268, Owning slaves used to be a right of white Americans. And slavery is a large part of US history. The Southern US economy was essentially built by slave labor. Yet slave ownership is not a right anymore. When an institution causes others to suffer, it should not be a right.).
-att(7268, root).
-
-arg(6967).
-text(6967, For those claiming irrelevant conclusion, it's the above claim's proponents' burden to describe HOW it should be done ethically and legally. Now in some countries, if religion were to be abolished (nb: passive) it would illegal, and arguably immoral (nb: prescriptive "should" in the original claim).).
-support(6967, root).
+Typically, attempts to abolish religions by force backfire spectacularly.).
+att(6331, 6201).
 
 arg(7846).
 text(7846, That's besides the point. We still do not know that ants don't have religion.).
 att(7846, 6035).
 
-arg(6989).
-text(6989, Do we throw the word fascist on everything?! The leftists commonly use it to describe anything not-liberal
-
-I hope that you realize that the Soviet Union, aka communism, banned religion. And just because something is "fascist", doesn't mean it's bad. ).
-att(6989, root).
-
-arg(6248).
-text(6248, Just because something SOUNDS bad does not mean it IS bad.).
-att(6248, root).
-
-arg(7257).
-text(7257, No one said religion should be abolished by force. The topic only said all religion should be abolished. If it was implied then I missed it.).
-att(7257, root).
-
-arg(7291).
-text(7291, Not all religions are theistic. Some religions, like LaVeyan Satanism, use a figure as an ideal, but not a god.).
-att(7291, root).
-
-arg(7742).
-text(7742, I actually exist.).
-att(7742, root).
-
-arg(6038).
-text(6038, Evolutionary biology has shown that altruism is a natural selection process, and existed long before religion.).
-att(6038, root).
-
-arg(6061).
-text(6061, Assuming that religion does teach the lazy morality, and that what it teaches is  morally good, this must be shown to somehow outweigh the immense suffering that religion has caused in the form of war, rape, genocide etc. The fact that religion can cause suffering contradicts the assumption.).
-att(6061, root).
-
-arg(7304).
-text(7304, You reject the idea of a God because science couldn't prove it's existence. But science couldn't prove its non-existence neither. Plus, religion in itself isn't the problem, the one that interpret it wrong are.).
-att(7304, root).
-
 arg(6041).
 text(6041, Society can't set moral guidelines, because morals aren't determined by a majority's opinion over others.).
 att(6041, 6021).
-
-arg(7189).
-text(7189, While abolishing religion wouldn't abolish those other things, religion was certainly a driving force for music, arts, etc. in earlier times.).
-att(7189, root).
 
 arg(6268).
 text(6268, Those who are religious, where it conflicts with the state, must decide which to follow.  True believers will follow religious precepts over the social norms in such cases. Therefore, where there is conflict, society and religion are incompatible. ).
@@ -206,11 +68,131 @@ arg(8000).
 text(8000, Can you definitively prove anything? Also we collectively have defined what words mean which is how we communicate. Making up your own definition for the word true goes against that.).
 att(8000, 6457).
 
-arg(8272).
-text(8272, That is ridiculous. Below is a link to a list of the deadliest wars of all time. Napoleonic, the Mongols, WWI, the Civil War...and so on and so on and so on. All saw millions of people killed, none of them had anything to do with religion.
+arg(6492).
+text(6492, controlling how people think (especially through legislation) IS bad).
+att(6492, 6248).
 
-https://en.wikipedia.org/wiki/List_of_wars_by_death_toll).
-att(8272, root).
+arg(6317).
+text(6317, You cannot fight fire with fire; abolishing religion with law or force is just another dogma.).
+att(6317, 6025).
+
+arg(6444).
+text(6444, Most religions are not harmful.).
+att(6444, 6201).
+
+arg(5874).
+text(5874, We don't know that for sure).
+att(5874, 5807).
+
+arg(6704).
+text(6704, Universities also enforce liberal dogma on students, they should also be abolished, I say. That means abolishing CNN, MSNBC, Twitter, Facebook, Tumblr, &c).
+att(6704, 6025).
+
+arg(6021).
+text(6021, It should not be allowed to contradict the moral and ethical guidelines set in place by society as a whole.).
+att(6021, 6013).
+
+arg(7842).
+text(7842, Not really.).
+att(7842, 5817).
+
+arg(7843).
+text(7843, I interpret the original statement as being opposed to religion in the form of "organized religion".).
+att(7843, 7720).
+
+arg(5817).
+text(5817, There are ok religions in the east).
+att(5817, 5782).
+
+arg(9673).
+text(9673, Slaves were sold by their own colored people. Warring tribes sold off their spoils to slave traders. Not always white people. ).
+support(9673, 7268).
+
+arg(7973).
+text(7973, So do I. And?).
+att(7973, 7742).
+
+arg(7739).
+text(7739, Other than that final sentence your statement is valid. Please don't make generalizations.).
+att(7739, 6711).
+
+arg(6201).
+text(6201, Who says it's immoral?  One could argue that, if religion is harmful enough, to NOT forcefully abolish religion is immoral.).
+att(6201, 5976).
+
+arg(7169).
+text(7169, The enforcement of such a ban could become Orwellian in nature and scale if not well-controlled.).
+att(7169, 7166).
+
+arg(7176).
+text(7176, Can you positively prove that all religions are untrue?).
+att(7176, 6457).
+
+arg(7668).
+text(7668, God and Science may not, but religion and science do.).
+att(7668, 7162).
+
+arg(12467).
+text(12467, That is the point of wars of religion: converting or killing people refusing to convert.).
+att(12467, 5973).
+
+arg(7832).
+text(7832, Imagine a world where people who used to be happy with their religion are now oppressed. If people choose to not be religious, they're content with their decision.).
+support(7832, 7206).
+
+arg(6336).
+text(6336, Moral intuitions are a valuable thing; while they should not be followed blindly, they should be paid some attention.).
+att(6336, 6248).
+
+arg(7268).
+text(7268, Owning slaves used to be a right of white Americans. And slavery is a large part of US history. The Southern US economy was essentially built by slave labor. Yet slave ownership is not a right anymore. When an institution causes others to suffer, it should not be a right.).
+att(7268, 6013).
+
+arg(6967).
+text(6967, For those claiming irrelevant conclusion, it's the above claim's proponents' burden to describe HOW it should be done ethically and legally. Now in some countries, if religion were to be abolished (nb: passive) it would illegal, and arguably immoral (nb: prescriptive "should" in the original claim).).
+support(6967, 6303).
+
+arg(6989).
+text(6989, Do we throw the word fascist on everything?! The leftists commonly use it to describe anything not-liberal
+
+I hope that you realize that the Soviet Union, aka communism, banned religion. And just because something is "fascist", doesn't mean it's bad. ).
+att(6989, 5782).
+
+arg(6248).
+text(6248, Just because something SOUNDS bad does not mean it IS bad.).
+att(6248, 5782).
+
+arg(7257).
+text(7257, No one said religion should be abolished by force. The topic only said all religion should be abolished. If it was implied then I missed it.).
+att(7257, 5976).
+
+arg(7291).
+text(7291, Not all religions are theistic. Some religions, like LaVeyan Satanism, use a figure as an ideal, but not a god.).
+att(7291, 7230).
+
+arg(7742).
+text(7742, I actually exist.).
+att(7742, 7230).
+
+arg(6038).
+text(6038, Evolutionary biology has shown that altruism is a natural selection process, and existed long before religion.).
+att(6038, 5983).
+
+arg(6061).
+text(6061, Assuming that religion does teach the lazy morality, and that what it teaches is  morally good, this must be shown to somehow outweigh the immense suffering that religion has caused in the form of war, rape, genocide etc. The fact that religion can cause suffering contradicts the assumption.).
+att(6061, 5983).
+
+arg(7304).
+text(7304, You reject the idea of a God because science couldn't prove it's existence. But science couldn't prove its non-existence neither. Plus, religion in itself isn't the problem, the one that interpret it wrong are.).
+att(7304, 7230).
+
+arg(7189).
+text(7189, While abolishing religion wouldn't abolish those other things, religion was certainly a driving force for music, arts, etc. in earlier times.).
+att(7189, 6914).
+
+arg(6468).
+text(6468, But abolishing religion is equatable to abolishing a certain culture. Statements made about discrimination based on sex, race, social status, etc. also include religion. Therefore abolishing religion would be a form of discrimination. ).
+att(6468, root).
 
 arg(7185).
 text(7185, Indeed, religion offers a powerful counterweight to the state's natural monopoly upon thought and expression.).
@@ -224,63 +206,10 @@ arg(7153).
 text(7153, Juries aren't asked "is what this person did right or wrong?" Juries are asked "do you think this person did this thing? If so, pick guilty." They are simply there to decide whether or not the person committed the act in question.).
 att(7153, 6097).
 
-arg(6256).
-text(6256, Most conflicts have a deeper problem and just use religion as a reason for their actions).
-att(6256, root).
-
-arg(5807).
-text(5807, ants have war.
-ants don't have religion.).
-att(5807, root).
-
-arg(5758).
-text(5758, There are usually more causes like economy).
-att(5758, root).
-
-arg(7966).
-text(7966, Science is demonstrable and provable.  If a person does not believe it, it can be shown to them, or the process can be shown and they will come to the same scientific conclusion on their own.  Science is the same everywhere, regardless of who does it.).
-att(7966, root).
-
-arg(7643).
-text(7643, Religion is destructive in nature, in the sense that it discourages critical thinking and logic. It also interferes with many aspects in science. Things like literature and music advance humanity by progressing societal norms without the negative effects religion has. ).
-att(7643, root).
-
-arg(12432).
-text(12432, No one told anyone that you should be forced to believe in it. It is just demonstrably more reliable than using any other kind of system out there. ).
-support(12432, root).
-
 arg(9729).
 text(9729, Said 12 people from 2000 years ago when everyone believed in witchcraft and monsters, and worshiped stones and thunder. 
 Cause think of it, everything you know about Jesus is from those 12, they're the only people who saw everything.).
 att(9729, 7742).
-
-arg(7205).
-text(7205, Curiosity is human, and belief is derived from curiosity and our misunderstanding. Religion is man made.).
-att(7205, root).
-
-arg(7166).
-text(7166, The abolition of religion would not necessarily remove it from history or public memory. Nor would it necessarily affect language or secular culture.).
-att(7166, root).
-
-arg(9577).
-text(9577, Yes, but none of those other examples are inherently contradicted by causing war.).
-att(9577, root).
-
-arg(7162).
-text(7162, The two aren't mutually exclusive. God and science don't have to contradict each other.).
-att(7162, root).
-
-arg(7171).
-text(7171, Religion should not interfere with science. But it doesn't mean we should abolish it totally. Galileo and Isaac Newton were Christians but that didn't affect there discoveries or views on science. It is possible to be spiritual and scientific at the same time. ).
-att(7171, root).
-
-arg(7661).
-text(7661, Even if science is more reliable source of knowledge, you can't force everyone to think the same way. Beside that, many people can't understand science and this is why religion exists.).
-att(7661, root).
-
-arg(9918).
-text(9918, If faith was reliable, and a good indicator of truth, all people who used faith to reach a conclusion would be reaching the same conclusion. But instead we see each religion claiming to be the truth, by asking it's followers to be gullible - or to pretend to know that faith is a virtue. ).
-support(9918, root).
 
 arg(7219).
 text(7219, if leading to a sustainable future, then yes.).
@@ -298,13 +227,62 @@ arg(7282).
 text(7282, Religion did affect Isaac Newton's ideas on science as he did not pursue a stable solar system after he concluded god was responsible.).
 att(7282, 7171).
 
-arg(5983).
-text(5983, Religion provides morals for people who are too lazy to develop their own.  Thus "turn the other cheek" and "I forgive you" would go on the decline).
-att(5983, root).
+arg(7279).
+text(7279, If we were to follow this argument, we'd have to examine every other reasoning behind wars, including territory expansion, resources, extermination based on ethnic background and many more. These, along with religion itself, were nothing but pretext for two sides to clash with each other.).
+att(7279, 6061).
 
-arg(5782).
-text(5782, Forcibly abolishing religion, even for the greater good, sounds just a tiny bit fascist.  ).
-att(5782, root).
+arg(5973).
+text(5973, Religion has, at several points in history, been used to unite disparate, tribal peoples under a single banner in order to reduce the number of wars. While this did not eliminate war altogether, it did stop those specific people from warring against each other.).
+att(5973, 5753).
+
+arg(6256).
+text(6256, Most conflicts have a deeper problem and just use religion as a reason for their actions).
+att(6256, 5753).
+
+arg(5807).
+text(5807, ants have war.
+ants don't have religion.).
+att(5807, 5753).
+
+arg(5758).
+text(5758, There are usually more causes like economy).
+att(5758, 5753).
+
+arg(7966).
+text(7966, Science is demonstrable and provable.  If a person does not believe it, it can be shown to them, or the process can be shown and they will come to the same scientific conclusion on their own.  Science is the same everywhere, regardless of who does it.).
+att(7966, 7661).
+
+arg(7643).
+text(7643, Religion is destructive in nature, in the sense that it discourages critical thinking and logic. It also interferes with many aspects in science. Things like literature and music advance humanity by progressing societal norms without the negative effects religion has. ).
+att(7643, 6914).
+
+arg(12432).
+text(12432, No one told anyone that you should be forced to believe in it. It is just demonstrably more reliable than using any other kind of system out there. ).
+support(12432, 7661).
+
+arg(7205).
+text(7205, Curiosity is human, and belief is derived from curiosity and our misunderstanding. Religion is man made.).
+att(7205, 6914).
+
+arg(7166).
+text(7166, The abolition of religion would not necessarily remove it from history or public memory. Nor would it necessarily affect language or secular culture.).
+att(7166, 6914).
+
+arg(9577).
+text(9577, Yes, but none of those other examples are inherently contradicted by causing war.).
+att(9577, 7279).
+
+arg(7162).
+text(7162, The two aren't mutually exclusive. God and science don't have to contradict each other.).
+att(7162, 6990).
+
+arg(7661).
+text(7661, Even if science is more reliable source of knowledge, you can't force everyone to think the same way. Beside that, many people can't understand science and this is why religion exists.).
+att(7661, 6990).
+
+arg(9918).
+text(9918, If faith was reliable, and a good indicator of truth, all people who used faith to reach a conclusion would be reaching the same conclusion. But instead we see each religion claiming to be the truth, by asking it's followers to be gullible - or to pretend to know that faith is a virtue. ).
+support(9918, 6990).
 
 arg(6013).
 text(6013, Freedom of religion is a fundamental right of all people. Religion is a personal belief, and people should be allowed to follow what they believe to be true in their own hearts. It is not only an important part of our history as a civilization but a necessity in the pursuit of happiness for many. ).
@@ -342,39 +320,61 @@ arg(7720).
 text(7720, Religion is just a term to group various models of understanding. It is not possible to abolish certain types of cognition; the best we can do toward the premise is better education. Which is why religion in general continues to wane in 'developed' countries.).
 att(7720, root).
 
-arg(7279).
-text(7279, If we were to follow this argument, we'd have to examine every other reasoning behind wars, including territory expansion, resources, extermination based on ethnic background and many more. These, along with religion itself, were nothing but pretext for two sides to clash with each other.).
-att(7279, 6061).
-
 arg(12510).
 text(12510, The scope of such a task should be kept in mind, as abolishing religion would imply removing hundreds and hundreds of religions and variants of religion from billions of people across all of the planet.).
 att(12510, root).
-
-arg(5973).
-text(5973, Religion has, at several points in history, been used to unite disparate, tribal peoples under a single banner in order to reduce the number of wars. While this did not eliminate war altogether, it did stop those specific people from warring against each other.).
-att(5973, 5753).
 
 arg(6914).
 text(6914, Religion is a part of human history and is entirely human. Abolishing religion will also abolish things like literature, language, music, and customs.).
 att(6914, root).
 
-arg(6468).
-text(6468, But abolishing religion is equatable to abolishing a certain culture. Statements made about discrimination based on sex, race, social status, etc. also include religion. Therefore abolishing religion would be a form of discrimination. ).
-att(6468, root).
-
 arg(6303).
 text(6303, There is no governing body with enough authority to coerce its people to stop religious practices. For example, the federal gov. in USA, as of now, legally could not due to the Bill of Rights.).
 att(6303, root).
 
-arg(7201).
-text(7201, Effects are the products of causes. Imagine if workers tore down a factory that treated employees poorly. The factory is an effect of the unwillingness of society to treat their workers fairly. Unless the underlying cause is changed, another factory will be built. Religion is an effect of a case. ).
-att(7201, root).
+arg(5983).
+text(5983, Religion provides morals for people who are too lazy to develop their own.  Thus "turn the other cheek" and "I forgive you" would go on the decline).
+att(5983, root).
+
+arg(5782).
+text(5782, Forcibly abolishing religion, even for the greater good, sounds just a tiny bit fascist.  ).
+att(5782, root).
+
+arg(6759).
+text(6759, If morality cannot be determined by mass agreement among society, so much more so can morality not be determined through the dictates of the governing class.).
+att(6759, 6483).
+
+arg(6245).
+text(6245, That has no bearing on whether Religion based moral systems can be functional.  Also, evolutionary biology is the source of such things as "kill someone because they fucked your mate", which is definitely a bad moral.).
+att(6245, 6038).
+
+arg(6085).
+text(6085, Society does just this by enacting criminal laws. Laws are created by people which either create or have access to moral laws.  Those who do not have that access or choose not to act in accord with that access should not be represented when passing morally informed criminal laws.).
+att(6085, 6041).
+
+arg(8272).
+text(8272, That is ridiculous. Below is a link to a list of the deadliest wars of all time. Napoleonic, the Mongols, WWI, the Civil War...and so on and so on and so on. All saw millions of people killed, none of them had anything to do with religion.
+
+https://en.wikipedia.org/wiki/List_of_wars_by_death_toll).
+att(8272, 5753).
+
+arg(7171).
+text(7171, Religion should not interfere with science. But it doesn't mean we should abolish it totally. Galileo and Isaac Newton were Christians but that didn't affect there discoveries or views on science. It is possible to be spiritual and scientific at the same time. ).
+att(7171, 6990).
+
+arg(6025).
+text(6025, Religion amplifies the tendency of humans to follow dogma. This tendency is frequently hijacked by charlatans).
+support(6025, root).
+
+arg(10023).
+text(10023, However it should be limited to organized religion, not what someone personally believes. ).
+att(10023, root).
 
 arg(6711).
 text(6711, You cannot "abolish" religion. It's not like there's just some "Religion Act" floating around just waiting to be repealed; and then just like clockwork everyone turns into an atheist. It would involve mass persecution, probably genocide, propaganda, manipulation, and oppression. Atheists wont mind.).
 att(6711, root).
 
-arg(6025).
-text(6025, Religion amplifies the tendency of humans to follow dogma. This tendency is frequently hijacked by charlatans).
-support(6025, root).
+arg(7201).
+text(7201, Effects are the products of causes. Imagine if workers tore down a factory that treated employees poorly. The factory is an effect of the unwillingness of society to treat their workers fairly. Unless the underlying cause is changed, another factory will be built. Religion is an effect of a case. ).
+att(7201, root).
 

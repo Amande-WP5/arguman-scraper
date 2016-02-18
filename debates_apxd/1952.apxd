@@ -7,10 +7,6 @@ text(13473, Any object can be divided infinitely and yet the parts of it always 
 ).
 support(13473, root).
 
-arg(13224).
-text(13224, It doesn't matter if it's hypothetical, you cannot reach infinite by adding.).
-att(13224, root).
-
 arg(13040).
 text(13040, Even if this were true, we have no way of directly observing or confirming this as fact.).
 att(13040, root).
@@ -19,13 +15,17 @@ arg(13046).
 text(13046, We can directly observe the mass-energy density of the universe. With general relativity (GR), this can give us a size for the universe. GR and observation suggest an infinite universe. ).
 att(13046, 13040).
 
+arg(13312).
+text(13312, You can't reach infinite by adding, but doing it for infinite times for the infinite amount of time the result will be infinity.).
+att(13312, 13224).
+
 arg(13048).
 text(13048, Nothing is infinite.. it's just a mathematical concept to explain things too large for us to conceive).
 att(13048, root).
 
-arg(13312).
-text(13312, You can't reach infinite by adding, but doing it for infinite times for the infinite amount of time the result will be infinity.).
-att(13312, 13224).
+arg(13224).
+text(13224, It doesn't matter if it's hypothetical, you cannot reach infinite by adding.).
+att(13224, 13185).
 
 arg(13047).
 text(13047, Nothing is infinite.. it's just a mathematical concept to explain things too large for us to conceive
@@ -35,39 +35,15 @@ att(13047, root).
 
 arg(13049).
 text(13049, The universe originated from a concentrated point in "time", and has been expanding ever since. If the universe continues this expanding, it will reach infinitely big, in the infinite future. ).
-att(13049, root).
+att(13049, 12928).
 
 arg(13323).
 text(13323, As time approaches infinity, the size of the universe will approach infinity. If you could reach an "end point" in time, you would be right. Unfortunately, the concept of infinity is an abstraction so you will never reach it, you will only get infinitely closer to an infinitely big universe.).
 att(13323, 13312).
 
-arg(12906).
-text(12906, The surface of the torus is spatially flat, like the piece of paper, but finite. However, with expansion, it is possible that even if the universe just has a very large volume now, it will reach infinite volume in the infinite future.).
-att(12906, root).
-
 arg(13313).
 text(13313, If the universe was, for example, a shape of a circle - going forward would always bring you back to where you were before. Therefore, we could not measure the universe because at some point we will be back at where we started; so the universe will be infinite.).
 att(13313, 13047).
-
-arg(13380).
-text(13380, All whole numbers are infinite. All even numbers are also infinite. There are many levels of infinity. ).
-att(13380, root).
-
-arg(13314).
-text(13314, The author did not call it a fact - it was a statement. Everybody has the right to state whatever they feel to be worth stating.).
-att(13314, root).
-
-arg(13181).
-text(13181, That's changing the subject to the question of whether the universe is discrete or continuous.).
-att(13181, root).
-
-arg(13606).
-text(13606, In a way you could argue that the universe is infinite because its rate of expansion is faster than the rate at which one can travel within it. Thus you can travel infinitely far in any direction without reaching the edge.).
-support(13606, root).
-
-arg(13185).
-text(13185, This is all hypothetical. You're missing the point of what I'm saying.  ).
-att(13185, root).
 
 arg(12928).
 text(12928, "it will reach infinite volume in the infinite future" I'm sorry, but that makes no sense. Infinity can't be reached, so in that sense, the statement that the universe is infinite would be true.).
@@ -87,11 +63,35 @@ arg(13066).
 text(13066, Do you mean countably or uncountably?).
 att(13066, root).
 
+arg(13380).
+text(13380, All whole numbers are infinite. All even numbers are also infinite. There are many levels of infinity. ).
+att(13380, 13316).
+
+arg(13314).
+text(13314, The author did not call it a fact - it was a statement. Everybody has the right to state whatever they feel to be worth stating.).
+att(13314, 13301).
+
+arg(13181).
+text(13181, That's changing the subject to the question of whether the universe is discrete or continuous.).
+att(13181, 13066).
+
 arg(13067).
 text(13067, You have to define what you mean by infinite. Infinite mass? Infinite volume? And also how you would measure these things. Infinite radius, for instance. If we accept relativity, you can never reach the end of the universe, even if the current radius is finite. So, is it meaningfully finite?).
 att(13067, root).
 
+arg(13185).
+text(13185, This is all hypothetical. You're missing the point of what I'm saying.  ).
+att(13185, 13062).
+
 arg(13301).
 text(13301, You can't say something and call it fact without providing strong evidence to bolster that very statement.).
 att(13301, root).
+
+arg(13606).
+text(13606, In a way you could argue that the universe is infinite because its rate of expansion is faster than the rate at which one can travel within it. Thus you can travel infinitely far in any direction without reaching the edge.).
+support(13606, root).
+
+arg(12906).
+text(12906, The surface of the torus is spatially flat, like the piece of paper, but finite. However, with expansion, it is possible that even if the universe just has a very large volume now, it will reach infinite volume in the infinite future.).
+att(12906, root).
 

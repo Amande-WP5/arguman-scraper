@@ -1,0 +1,27 @@
+arg(root).
+text(root, Being born into poverty makes you a second class citizens).
+
+arg(16470).
+text(16470, Poor people often get a worse upbringing because of parents lack of means and education).
+support(16470, root).
+
+arg(16469).
+text(16469, People born into poverty have less opertunities than their wealthy counterparts).
+support(16469, root).
+
+arg(16468).
+text(16468, In some places homelessness is a crime).
+support(16468, root).
+
+arg(16765).
+text(16765, What do you call the bail system then?).
+att(16765, 16474).
+
+arg(16471).
+text(16471, opportunities of poor people vary from country to country).
+att(16471, 16469).
+
+arg(16474).
+text(16474, The state does not actively discriminated against people just because they are poor).
+att(16474, root).
+

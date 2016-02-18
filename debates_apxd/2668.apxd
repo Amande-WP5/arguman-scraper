@@ -1,0 +1,11 @@
+arg(root).
+text(root, You cannot argue against Black-face comedies being prevalent without also arguing against The Big Bang Theory TV series being prevalent too (Which it has been since 2007).).
+
+arg(18276).
+text(18276, Try to imagine creating a TV production that would more denigrate a white male 'nerd'/tech/scientist archetype than TBBT, the most effective I could imagine would be a caricature of quirky white males with a Pavlovian conditioning laugh track activating any time they are communicating who they are.).
+support(18276, root).
+
+arg(18275).
+text(18275, Fundamental to both productions is the license given to mock and denigrate a certain class of people in place of empathy or respect. In both cases it leads to the normalization of denigration of that class outside of the production, where 'otherness' itself becomes a hilarious joke.).
+support(18275, root).
+

@@ -1,19 +1,19 @@
 arg(root).
 text(root, They WERE on a Break).
 
-arg(9871).
-text(9871, If being on a break was equal to being done, then we would not use a separate term for it.).
-support(9871, root).
-
-arg(9873).
-text(9873, Sleeping with somebody else was certain to make Rachel want Ross less, because it tells her he would sleep with 'anyone' and thus makes her feel less appreciated. Therefore it was a bad choice of him regardless.).
-att(9873, root).
-
-arg(9276).
-text(9276, Ross was the one who went out and immediately slept with the copy girl. Taking a break in the relationship does not mean that the relationship is completely over.).
-att(9276, root).
-
 arg(9188).
 text(9188, From Ross' view, Rachel had ended their relationship and she had said nothing to make him think otherwise. After sleeping with that girl, Rachel had branded him a cheater for no good reason other than misplaced anger.).
 support(9188, root).
+
+arg(9871).
+text(9871, If being on a break was equal to being done, then we would not use a separate term for it.).
+support(9871, 9276).
+
+arg(9873).
+text(9873, Sleeping with somebody else was certain to make Rachel want Ross less, because it tells her he would sleep with 'anyone' and thus makes her feel less appreciated. Therefore it was a bad choice of him regardless.).
+att(9873, 9188).
+
+arg(9276).
+text(9276, Ross was the one who went out and immediately slept with the copy girl. Taking a break in the relationship does not mean that the relationship is completely over.).
+att(9276, 9188).
 

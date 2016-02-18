@@ -1,67 +1,67 @@
 arg(root).
 text(root, The universe has no origin. ).
 
-arg(16137).
-text(16137, Thank you).
-support(16137, root).
-
-arg(16084).
-text(16084, You can look at `Related Argument` field in premise creation screen.).
-att(16084, root).
-
-arg(16049).
-text(16049, How did you do that ?
-It seem arguman.org have functionalities i don’t know, is there a user manual somewhere ?).
-att(16049, root).
-
 arg(15981).
 text(15981, ).
 support(15981, root).
-
-arg(15937).
-text(15937, Nothing in the title of the thread restricts the debate to materialism.).
-att(15937, root).
 
 arg(15825).
 text(15825, At the quantum level, time does not necessarily always move in one direction, so it's entirely possible that, from our perspective, creation hasn't even started yet. ).
 support(15825, root).
 
+arg(16355).
+text(16355, The 'Big Bang' is a yet to be proven theory. Also you can not assume that the start of the Big Bang's expansion is the start of the universe as the energy had to have come from somewhere. There are other theories for the expansion of the universe. (Not saying the big bang is wrong.)).
+att(16355, 15819).
+
+arg(16137).
+text(16137, Thank you).
+support(16137, 16084).
+
+arg(16084).
+text(16084, You can look at `Related Argument` field in premise creation screen.).
+att(16084, 16049).
+
+arg(16049).
+text(16049, How did you do that ?
+It seem arguman.org have functionalities i don’t know, is there a user manual somewhere ?).
+att(16049, 15981).
+
 arg(15819).
 text(15819, Observations indicate there was an event in the distant past "the big bang" this is consistent with the universe having an origin. No observations to my knowledge are consistent with it not having an origin.).
 att(15819, root).
 
+arg(15937).
+text(15937, Nothing in the title of the thread restricts the debate to materialism.).
+att(15937, 15818).
+
 arg(15818).
 text(15818, That's only true if we adopt a materialist standpoint.).
-att(15818, root).
-
-arg(11727).
-text(11727, We could say the universe is all that is, has been and will be if you prefer. Then you can understand that "past" is part of the universe, then you can't say that the universe is born from something else than nothingness. Otherwise the question would be : "then from what past is born ?").
-att(11727, root).
-
-arg(11708).
-text(11708, The past no longer exists, and cannot be said to be part of "all that is". Therefore the the present can be said to be born from something else.).
-att(11708, root).
+att(15818, 11740).
 
 arg(11722).
 text(11722, "Past" and "present" are mental phenomenons that do not refer to reality as it is but as we think of it, therefore it is irrelevant to separate "past" from "present" or to exclude "past" from "all that is". ).
 att(11722, 11708).
 
+arg(12061).
+text(12061, Multiverse theory may prove there are other universes that exist, each with their own origins).
+support(12061, 11691).
+
+arg(12335).
+text(12335, We can safely assume that the universe has no *preferred* localized spatial origin. However, the same is not true for time. Therefore, the only nontrivial meaning of "origin" would be that of time. ).
+att(12335, 12307).
+
+arg(11727).
+text(11727, We could say the universe is all that is, has been and will be if you prefer. Then you can understand that "past" is part of the universe, then you can't say that the universe is born from something else than nothingness. Otherwise the question would be : "then from what past is born ?").
+att(11727, 11708).
+
+arg(11708).
+text(11708, The past no longer exists, and cannot be said to be part of "all that is". Therefore the the present can be said to be born from something else.).
+att(11708, 11692).
+
 arg(11731).
 text(11731, There is no moments when the universe go from the "is not" state, to the "is" state, don’t imply that the universe is infinite in time.
 Because "for whatever previous moment the universe exists", don’t imply that there are always a previous moment.).
-att(11731, root).
-
-arg(12307).
-text(12307, Origin as in center of graph or beginning in time?).
-att(12307, root).
-
-arg(11692).
-text(11692, "The universe has an origin" would mean it was born from nothingness, which cannot be for nothingness does not even include conditions for anything's appearing. Notice: saying it could be born from something else is fallacious because by "universe" we mean "all that is". ).
-support(11692, root).
-
-arg(12170).
-text(12170, Then should we replace "the universe" by "all that is" ?).
-att(12170, root).
+att(11731, 11694).
 
 arg(11691).
 text(11691, Definitions suggestions
@@ -74,15 +74,19 @@ arg(11694).
 text(11694, Therefore the universe is infinite in time and space. All ever existed. ).
 support(11694, root).
 
+arg(12170).
+text(12170, Then should we replace "the universe" by "all that is" ?).
+att(12170, 12061).
+
 arg(11740).
 text(11740, A origin implies a past action that originated something. If time didn't exist before the universe , you can't say that something happened before the universe.).
 support(11740, root).
 
-arg(12061).
-text(12061, Multiverse theory may prove there are other universes that exist, each with their own origins).
-support(12061, 11691).
+arg(12307).
+text(12307, Origin as in center of graph or beginning in time?).
+att(12307, root).
 
-arg(12335).
-text(12335, We can safely assume that the universe has no *preferred* localized spatial origin. However, the same is not true for time. Therefore, the only nontrivial meaning of "origin" would be that of time. ).
-att(12335, 12307).
+arg(11692).
+text(11692, "The universe has an origin" would mean it was born from nothingness, which cannot be for nothingness does not even include conditions for anything's appearing. Notice: saying it could be born from something else is fallacious because by "universe" we mean "all that is". ).
+support(11692, root).
 

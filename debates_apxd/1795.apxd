@@ -1,3 +1,15 @@
 arg(root).
 text(root, Male soccer and Female soccer should not be two separate events).
 
+arg(18376).
+text(18376, In theory, it's a fairly arbitrary separation, comparable to the organizers creating separate tournaments for French-speaking, English-speaking, Portuguese-speaking (etc) athletes.).
+support(18376, root).
+
+arg(18377).
+text(18377, Male professional players have longer legs & are better at endurance running than female players. A mixed system would create a male-dominated pro league and a mixed secondary league. This would be no better than the present, and would cast the female players in an unnecessarily bad light.).
+att(18377, root).
+
+arg(18378).
+text(18378, A better option would be to separate players by height class, analogous to weight class in other sports. This would move short male players into the previously-female league & tall female players into the previously-male league. It's more rational and less restrictive than the gendered version.).
+support(18378, root).
+

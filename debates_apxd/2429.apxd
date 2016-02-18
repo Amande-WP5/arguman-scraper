@@ -1,0 +1,7 @@
+arg(root).
+text(root, Most of the questions on this site are so vaguely worded as to be undecidable.).
+
+arg(16357).
+text(16357, ... in large probably due to brevity, but also due to imprecise choice of words and phrasing, or errors such as multiple assertions. ).
+support(16357, root).
+

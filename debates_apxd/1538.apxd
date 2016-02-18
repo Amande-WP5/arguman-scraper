@@ -1,10 +1,6 @@
 arg(root).
 text(root, Masturbation shouldn't be considered a taboo.).
 
-arg(8563).
-text(8563, Sources:).
-support(8563, root).
-
 arg(8256).
 text(8256, People can masturbate to excess, and can cloud their understanding of sex.).
 att(8256, root).
@@ -16,4 +12,8 @@ support(8009, root).
 arg(8420).
 text(8420, there is no known corrilation between knowlage of sex and self-stimulation.).
 att(8420, 8256).
+
+arg(8563).
+text(8563, Sources:).
+support(8563, 8009).
 

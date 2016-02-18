@@ -1,0 +1,7 @@
+arg(root).
+text(root, News Media need tighter laws against distorting or falsifying reports. ).
+
+arg(18720).
+text(18720, interpretation of “editorial judgment” is to potentially throw out any pretense at editorial accuracy if the “accuracy” harms media corporation and its bottom line.).
+support(18720, root).
+

@@ -1,14 +1,6 @@
 arg(root).
 text(root, Facebook is unlikely to be overtaken by another fully featured social media service for the forseeable future.).
 
-arg(7174).
-text(7174, Facebook, while becoming less "cool", is so integrated into many societies that it has become more of a utility, to the point that not having one is on the level of not having a key device, such as a smart phone. In order for it to die out, many of the current users would need to die, or move enmass).
-support(7174, root).
-
-arg(8157).
-text(8157, history has shown (livejournal, friendster, tribe, myspace, facebook) that new trends and distinguishing features can create dominant new players).
-att(8157, root).
-
 arg(8161).
 text(8161, it holds an index of nearly 1/3 of the world's population, it's network will demonstrate staying power.).
 support(8161, root).
@@ -24,4 +16,34 @@ att(8196, root).
 arg(8132).
 text(8132, if something replaced the need for an internet connection to connect people's profiles around the world, well...nevermind Facebook would probably already be on top of that.).
 att(8132, root).
+
+arg(7174).
+text(7174, Facebook, while becoming less "cool", is so integrated into many societies that it has become more of a utility, to the point that not having one is on the level of not having a key device, such as a smart phone. In order for it to die out, many of the current users would need to die, or move enmass).
+support(7174, root).
+
+arg(16705).
+text(16705, That might not kill Facebook.).
+att(16705, 16704).
+
+arg(16704).
+text(16704, There are many initiatives already. Some combination of them will replace the whole internet.).
+support(16704, 8132).
+
+arg(16703).
+text(16703, Facebook users are in Facebook because others are (system lock-in effect).
+
+The replacement should enable easy transition for everyone to switch platforms.).
+att(16703, 8157).
+
+arg(16702).
+text(16702, Facebook owns Instagram.).
+att(16702, 8196).
+
+arg(16925).
+text(16925, The role of facebook will likely never be replaced. However, depending of how facebook changes their businessmodel or their terms of service, some other provider may give us an alternative to facebook).
+att(16925, root).
+
+arg(8157).
+text(8157, history has shown (livejournal, friendster, tribe, myspace, facebook) that new trends and distinguishing features can create dominant new players).
+att(8157, root).
 

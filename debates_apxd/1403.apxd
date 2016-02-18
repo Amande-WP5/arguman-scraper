@@ -1,38 +1,13 @@
 arg(root).
 text(root, Hitler Wasn't THAT Bad.).
 
-arg(14769).
-text(14769, If you would read "Mein Kampf", you would understand that he made up his opinions on his own. Where is the source that his parents taught it to him?).
-att(14769, 6539).
+arg(18174).
+text(18174, Hitler already planned the extermination of the jewish european population in Mein Kampf before being a leader.).
+att(18174, root).
 
-arg(15895).
-text(15895, “History is always written by the winners. When two cultures clash, the loser is obliterated, and the winner writes the history books-books which glorify their own cause and disparage the conquered foe. As Napoleon once said, 'What is history, but a fable agreed upon?”).
-support(15895, root).
-
-arg(16304).
-text(16304, Much of the scientific research involved killing people, who did not consent.).
-att(16304, root).
-
-arg(15900).
-text(15900, While his intentions were, in his own mind, beneficial to the whole of humanity, in reality his methods were beyond unethical. It's more likely that he had some kind of mental issue or a distorted sense of reality than that he was a genuinely awful person.).
-att(15900, root).
-
-arg(6642).
-text(6642, This is irrelevant to the "however" statement, as just because Hitler may have had good intent somehow does not imply that he did not kill lots of people.).
-att(6642, root).
-
-arg(6772).
-text(6772, He positively contributed to society in many ways including cancer research and anti tobacco campaigns. ).
-support(6772, root).
-
-arg(6534).
-text(6534, He was simply doing what he thought was good for his country.
-Like someone going to war for their country, It's killing people but it's for the greater good.).
-support(6534, root).
-
-arg(6536).
-text(6536, He killed like lots of people).
-att(6536, root).
+arg(18173).
+text(18173, Compared to the average citizen, he was extremely evil.).
+att(18173, root).
 
 arg(6537).
 text(6537, That's what he thought was good, and each person's "ethics" and "morals" are their own.).
@@ -42,29 +17,66 @@ arg(6539).
 text(6539, You can't really blame him for the way he was raised by his parents. Something he could not control.).
 support(6539, 6537).
 
+arg(6634).
+text(6634, This is an assumption of intent. We do not know what Hitler's intentions REALLY were when he was killing and slaughtering the Jews.).
+att(6634, 6534).
+
+arg(18171).
+text(18171, In Mein Kampf he already showed to be an individual with incredibly skewed and fucked up ideologies.).
+att(18171, root).
+
+arg(18115).
+text(18115, He wanted to exterminate an entire race of people and religion on the grounds of being different.).
+att(18115, root).
+
+arg(18172).
+text(18172, A joke premise isn't necessary here.).
+att(18172, 14622).
+
+arg(15895).
+text(15895, “History is always written by the winners. When two cultures clash, the loser is obliterated, and the winner writes the history books-books which glorify their own cause and disparage the conquered foe. As Napoleon once said, 'What is history, but a fable agreed upon?”).
+support(15895, root).
+
+arg(15900).
+text(15900, While his intentions were, in his own mind, beneficial to the whole of humanity, in reality his methods were beyond unethical. It's more likely that he had some kind of mental issue or a distorted sense of reality than that he was a genuinely awful person.).
+att(15900, root).
+
+arg(14644).
+text(14644, What Volkisch National Socialism did under Adolf Hitler was nothing short of miraculous - it rescued the German people from the Jaws of oblivion and became an industrial power house with huge prosperity and opportunity -- leaving aside the separate history of the final years of the war.).
+support(14644, 14643).
+
+arg(6772).
+text(6772, He positively contributed to society in many ways including cancer research and anti tobacco campaigns. ).
+support(6772, root).
+
+arg(16304).
+text(16304, Much of the scientific research involved killing people, who did not consent.).
+att(16304, 6772).
+
+arg(6534).
+text(6534, He was simply doing what he thought was good for his country.
+Like someone going to war for their country, It's killing people but it's for the greater good.).
+support(6534, root).
+
+arg(6642).
+text(6642, This is irrelevant to the "however" statement, as just because Hitler may have had good intent somehow does not imply that he did not kill lots of people.).
+att(6642, 6537).
+
+arg(6536).
+text(6536, He killed like lots of people).
+att(6536, root).
+
 arg(14622).
 text(14622, He killed Hitler.).
 support(14622, root).
-
-arg(7526).
-text(7526, He should not be seen by so many people as hated, and him killing people should not override things such as him being an artist.).
-att(7526, root).
 
 arg(7055).
 text(7055, Good and bad are social constructs. We can't objectively define Hitler as bad.).
 att(7055, root).
 
-arg(6634).
-text(6634, This is an assumption of intent. We do not know what Hitler's intentions REALLY were when he was killing and slaughtering the Jews.).
-att(6634, 6534).
-
-arg(14643).
-text(14643, Germany was decimated by The Weimar Republic hyperinflation, cultural degeneracy promoted by outsiders (child prostitution was rampant and open), Germany had legitimate beef with the Jews who betrayed and cost them the war in WWI while benefiting disproportionately from their crushing defeat.).
-support(14643, root).
-
-arg(14644).
-text(14644, What Volkisch National Socialism did under Adolf Hitler was nothing short of miraculous - it rescued the German people from the Jaws of oblivion and became an industrial power house with huge prosperity and opportunity -- leaving aside the separate history of the final years of the war.).
-support(14644, 14643).
+arg(7526).
+text(7526, He should not be seen by so many people as hated, and him killing people should not override things such as him being an artist.).
+att(7526, 7055).
 
 arg(14645).
 text(14645, He killed less Jews than Jews killed Africans in the Transatlantic slave trade - by a factor of over 15 at least. He killed less people than Stalin - who Germany was fighting against but is relieved from the ire of the history books in terms of judgmental attention. Churchill firebombed Dresden.).
@@ -90,6 +102,10 @@ arg(14746).
 text(14746, It is not linked to the premise you are responding to.).
 att(14746, 14645).
 
+arg(14769).
+text(14769, If you would read "Mein Kampf", you would understand that he made up his opinions on his own. Where is the source that his parents taught it to him?).
+att(14769, 6539).
+
 arg(14770).
 text(14770, Germanys economy started thriving again in the same time Hitler came to power, it is not evident that he alone was responsible for what you listed yourself. Where is the proof that he completely owns the advancement of cancer research?).
 att(14770, 6772).
@@ -105,4 +121,12 @@ att(14791, 6534).
 arg(14793).
 text(14793, That's why he wrote that. If good and bad where objective notions and not abstract concepts, then you could just look at Hitler and say weather he as good or bad. There would be no argument.).
 att(14793, 7055).
+
+arg(18203).
+text(18203, Hitler gave  life to a downtrodden  Germany, revitalizing the economy, which was comparable to Zimbabwe. He also ensured that atrocities weren't committed after his Holocaust.  Hitler ensured that the world was united against him,  giving Europe a common enemy.  And above all, he killed Hitler.).
+support(18203, root).
+
+arg(14643).
+text(14643, Germany was decimated by The Weimar Republic hyperinflation, cultural degeneracy promoted by outsiders (child prostitution was rampant and open), Germany had legitimate beef with the Jews who betrayed and cost them the war in WWI while benefiting disproportionately from their crushing defeat.).
+support(14643, root).
 

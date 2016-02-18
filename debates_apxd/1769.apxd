@@ -1,69 +1,21 @@
 arg(root).
 text(root, Not evereyone should have the right to have children).
 
-arg(10422).
-text(10422, This would be a complicated process, but take into consideration the minimum cost of raising a child and any sort of criminal records of the parents. This is to eliminate the extreme outliers conserning both mental health and poverty.).
-att(10422, root).
-
-arg(10376).
-text(10376, We would first have to define disease. Most 'diseases' exist because they gave their hosts an evolutionary advantage rather than disadvantage.
-Some diseases are called diseases because they don't fit well in an urban society, while they may fit well in more primitive societies. I.e ADHD.).
-att(10376, root).
-
 arg(10419).
 text(10419, evolution was always able to take care of it.although there are cases where people should really not have gotten children, I don't think s.o. should have the right to make up the rules who is allowed to have children and who's not. period.).
 att(10419, root).
-
-arg(10593).
-text(10593, IQ was only a suggestion. You provide another example.
-The point would be to limit breeding of individuals that are in some way bad for society, and it will never be easy to define a clear line.).
-att(10593, root).
-
-arg(10412).
-text(10412, Almost every living person has hidden recessive and inheritable diseases.
-E.g. there are people more likely than others to have a child with a certain type of cancer or immune disease. Also, who would set up the rules on which diseases are harsh enough to be ruled out?).
-att(10412, root).
-
-arg(10414).
-text(10414, The child itself could be unhappy in some circumstances, or even abused. For example if it's parents are drug addicts. Children raised in bad environment will affect society with it, providing more unhappiness for all. ).
-att(10414, root).
-
-arg(11395).
-text(11395, It wouldn't be the case if the disease is treatable).
-att(11395, root).
 
 arg(10356).
 text(10356, Mentally ill people are incapable of taking care of children properly, if at all. These people should not be allowed to place extra burden on society, the foster system, and their own children.).
 support(10356, root).
 
-arg(10423).
-text(10423, This would actually require a lot of tax money.).
-att(10423, 10422).
-
-arg(11398).
-text(11398, There are already some rules, used in adoption, those could be adapted to it.).
-att(11398, root).
-
-arg(11399).
-text(11399, "think" is not enough, you have to present a stronger point to validate your opinion).
-att(11399, root).
-
 arg(11400).
 text(11400, picking the right punishment for one who has had a child despite not having the right is the more challenging part).
 att(11400, root).
 
-arg(11401).
-text(11401, this excludes infants, as well as the majority of children, who would be too afraid of the consequences).
-att(11401, root).
-
-arg(10367).
-text(10367, People with a heritable disease shouldn`t be allowed to make a child, if the child would also get this disease.).
-support(10367, root).
-
-arg(10369).
-text(10369, Historically the usage of power over childbirth on citizens has been used negatively more often than not. Forced sterilization of homosexuals, forced abortions etc..
-This is a subject with many pitfalls and needs to handled with the utmost care.).
-att(10369, root).
+arg(10423).
+text(10423, This would actually require a lot of tax money.).
+att(10423, 10422).
 
 arg(10429).
 text(10429, This would indicate that only middle-class or wealthier people would be given this privilege.  The poor and marginalized are statistically more likely to have lower levels of education which often leads to a lower income.  Also, more likely to have had criminal convictions.).
@@ -73,31 +25,62 @@ arg(10434).
 text(10434, However, I do not think that it is the government's place to preemptively prosecute crimes that may happen.).
 att(10434, 10414).
 
-arg(12299).
-text(12299, who or what would form the basis for determining who is able to reproduce. would it be based upon physical or mental superiority, or a combination of both? even then, what would determine the superiority of the aforementioned traits?).
-att(12299, root).
-
 arg(10375).
 text(10375, There will always be difficult to define the difference between light, mental issues and serious, dangerous illness.
 I.e there are many types of scizophrenia.).
 att(10375, 10356).
 
+arg(10376).
+text(10376, We would first have to define disease. Most 'diseases' exist because they gave their hosts an evolutionary advantage rather than disadvantage.
+Some diseases are called diseases because they don't fit well in an urban society, while they may fit well in more primitive societies. I.e ADHD.).
+att(10376, 10367).
+
+arg(10367).
+text(10367, People with a heritable disease shouldn`t be allowed to make a child, if the child would also get this disease.).
+support(10367, root).
+
+arg(10593).
+text(10593, IQ was only a suggestion. You provide another example.
+The point would be to limit breeding of individuals that are in some way bad for society, and it will never be easy to define a clear line.).
+att(10593, 10510).
+
+arg(10412).
+text(10412, Almost every living person has hidden recessive and inheritable diseases.
+E.g. there are people more likely than others to have a child with a certain type of cancer or immune disease. Also, who would set up the rules on which diseases are harsh enough to be ruled out?).
+att(10412, 10367).
+
+arg(10414).
+text(10414, The child itself could be unhappy in some circumstances, or even abused. For example if it's parents are drug addicts. Children raised in bad environment will affect society with it, providing more unhappiness for all. ).
+att(10414, 10380).
+
+arg(11395).
+text(11395, It wouldn't be the case if the disease is treatable).
+att(11395, 10367).
+
+arg(10369).
+text(10369, Historically the usage of power over childbirth on citizens has been used negatively more often than not. Forced sterilization of homosexuals, forced abortions etc..
+This is a subject with many pitfalls and needs to handled with the utmost care.).
+att(10369, root).
+
+arg(11398).
+text(11398, There are already some rules, used in adoption, those could be adapted to it.).
+att(11398, 10407).
+
+arg(11399).
+text(11399, "think" is not enough, you have to present a stronger point to validate your opinion).
+att(11399, 10434).
+
+arg(12299).
+text(12299, who or what would form the basis for determining who is able to reproduce. would it be based upon physical or mental superiority, or a combination of both? even then, what would determine the superiority of the aforementioned traits?).
+att(12299, root).
+
+arg(11401).
+text(11401, this excludes infants, as well as the majority of children, who would be too afraid of the consequences).
+att(11401, 10421).
+
 arg(10439).
 text(10439, Natural selection is not relevant in today's society with our medicines, community values and interventions. Unless you consider our own actions as part of natural selection, in which case we must actively shape it rather than assume that evolution will take care of it. ).
 att(10439, 10419).
-
-arg(10377).
-text(10377, To be able to have children, you should have to prove that you have the physical and mental resources needed to care for the child.).
-support(10377, root).
-
-arg(10378).
-text(10378, Theoretically it could be a good idea for the human race, but in reality it would be very hard to define clearly who should be allowed to breed.
-How low must your IQ be before you are denied?).
-att(10378, root).
-
-arg(10386).
-text(10386, Just as some people are ill-suited as gardeners or engineers, others are particularly ill-suited as parents. Parenting should be a licensed privilege, at least as much as driving a vehicle requires a license. Children have no defense against violent or neglectful or ill-suited parents. ).
-support(10386, root).
 
 arg(11599).
 text(11599, This would knowingly cause harm to another individual.).
@@ -119,10 +102,6 @@ arg(10510).
 text(10510, Who is saying that IQ is the standard? Socially destructive behavior would make a stronger standard. Should a serial child molester be allowed to have children? ).
 att(10510, 10378).
 
-arg(11618).
-text(11618, Doesn't achieve the same goal when they take the child away from the parent if they can't take care of it?).
-att(11618, root).
-
 arg(11621).
 text(11621, Any person that feels something is going wrong in some family can report this to the legal institution (jugendamt) which will then look into the case and if necessary take further action. Infants and shy/anxious/abused children are therefore at least theoretically taken care of).
 att(11621, 11401).
@@ -134,14 +113,6 @@ att(11623, 10386).
 arg(11626).
 text(11626, When someone is born we can remove their ability to have children, and only return it if someone is decided eligible).
 att(11626, 11400).
-
-arg(10478).
-text(10478, Over population may become a large problem for earth's future, to combat this it may be necessary to actively control the population. Much like governments mandating vaccines to provide herd immunity to all the constituents, denying birth may be required to make earth sustainable.).
-support(10478, root).
-
-arg(10380).
-text(10380, It is implied that some form of government would be removing the right to have children. However, it is not the government's right to restrict rights, only guarantee them, among those the right to happiness. Children may make them happy, and so denying them would go against one of their rights.).
-att(10380, root).
 
 arg(14702).
 text(14702, A history of raping children would seem a pretty clear line to draw, if we are being realistic.).
@@ -156,9 +127,38 @@ text(14716, Are there harmless ways to do it ?
 (seem like the best way to do it if there are)).
 att(14716, 11626).
 
+arg(10422).
+text(10422, This would be a complicated process, but take into consideration the minimum cost of raising a child and any sort of criminal records of the parents. This is to eliminate the extreme outliers conserning both mental health and poverty.).
+att(10422, 10407).
+
+arg(10380).
+text(10380, It is implied that some form of government would be removing the right to have children. However, it is not the government's right to restrict rights, only guarantee them, among those the right to happiness. Children may make them happy, and so denying them would go against one of their rights.).
+att(10380, root).
+
 arg(12283).
 text(12283, This would be difficult to regulate or determine. Regardless of who is chosen to be acceptable for having children, there can still always be a danger of birth defects.).
 att(12283, root).
+
+arg(10377).
+text(10377, To be able to have children, you should have to prove that you have the physical and mental resources needed to care for the child.).
+support(10377, root).
+
+arg(10378).
+text(10378, Theoretically it could be a good idea for the human race, but in reality it would be very hard to define clearly who should be allowed to breed.
+How low must your IQ be before you are denied?).
+att(10378, root).
+
+arg(10386).
+text(10386, Just as some people are ill-suited as gardeners or engineers, others are particularly ill-suited as parents. Parenting should be a licensed privilege, at least as much as driving a vehicle requires a license. Children have no defense against violent or neglectful or ill-suited parents. ).
+support(10386, root).
+
+arg(11618).
+text(11618, Doesn't achieve the same goal when they take the child away from the parent if they can't take care of it?).
+att(11618, root).
+
+arg(10478).
+text(10478, Over population may become a large problem for earth's future, to combat this it may be necessary to actively control the population. Much like governments mandating vaccines to provide herd immunity to all the constituents, denying birth may be required to make earth sustainable.).
+support(10478, root).
 
 arg(12287).
 text(12287, People who cannot spell "everyone" should never be able to reproduce).

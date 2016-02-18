@@ -1,26 +1,6 @@
 arg(root).
 text(root, The unemployed should be made to do community work to deserve their social benefits).
 
-arg(16192).
-text(16192, It won't because employing someone who is currently working is much more attractive than someone who has been doing nothing for a long period of time.
-
-Furthermore there are plenty of studies that show that working and having a purpose IMPROVES peoples sense of well-being).
-att(16192, root).
-
-arg(16190).
-text(16190, IF those people could add some value, the job should be tailored to them.
-
-For example a disabled person who plays on a computer all day, might be able to learn to code. Someone who can only work for half an hour a day due to chronic back pain, could be given a job for half an hour a day).
-att(16190, root).
-
-arg(16191).
-text(16191, It's not slave labour as they would be being paid for the work through benefits.).
-att(16191, root).
-
-arg(15404).
-text(15404, This will make social benefits even more expensive for everyone. We would have to hire supervisors, bureaucrats, security and more enforcement, etc. as well as provide supplies and a place to work. This would be an incredibly expensive way of gathering unskilled labor, and is government overreach.).
-att(15404, root).
-
 arg(15144).
 text(15144, Only those who are able bodied should be forced to work under these circumstances. There are people that exist who have medical issues that keep them from being able to work.).
 att(15144, root).
@@ -37,6 +17,10 @@ arg(15305).
 text(15305, If you argue from this context, then somebody can indicate that the social benefits IS what the unemployed gain by doing community work. And they can opt out of doing it, and simply not receive benefits?).
 att(15305, 15164).
 
+arg(16191).
+text(16191, It's not slave labour as they would be being paid for the work through benefits.).
+att(16191, 15164).
+
 arg(15143).
 text(15143, Social benefits should be considered a right rather than something that needs justification of any kind.).
 att(15143, root).
@@ -45,9 +29,25 @@ arg(15146).
 text(15146, There are many people that are not just unemployed but also unable to work. For example disabled people.).
 att(15146, root).
 
+arg(15404).
+text(15404, This will make social benefits even more expensive for everyone. We would have to hire supervisors, bureaucrats, security and more enforcement, etc. as well as provide supplies and a place to work. This would be an incredibly expensive way of gathering unskilled labor, and is government overreach.).
+att(15404, root).
+
 arg(15145).
 text(15145, Making something like welfare a right doesn't really make sense. Welfare is not a right, hence why you have to sign up for it to get it. 
 
 For something like welfare to become a right, a lot of changes need to happen in how our system works, which seems unlikely given the US's circumstances.).
 att(15145, 15143).
+
+arg(16192).
+text(16192, It won't because employing someone who is currently working is much more attractive than someone who has been doing nothing for a long period of time.
+
+Furthermore there are plenty of studies that show that working and having a purpose IMPROVES peoples sense of well-being).
+att(16192, 15403).
+
+arg(16190).
+text(16190, IF those people could add some value, the job should be tailored to them.
+
+For example a disabled person who plays on a computer all day, might be able to learn to code. Someone who can only work for half an hour a day due to chronic back pain, could be given a job for half an hour a day).
+att(16190, 15146).
 

@@ -3,11 +3,11 @@ text(root, Language has normative regularity).
 
 arg(15415).
 text(15415, The regularity is explained by actual cases).
-support(15415, root).
+support(15415, 15414).
 
 arg(15414).
 text(15414, I cannot explain the meaning of "regular" to someone by endless explanations.).
-support(15414, root).
+support(15414, 15413).
 
 arg(15413).
 text(15413, "Rule" and "order" shall not be defined by means of "regularity").

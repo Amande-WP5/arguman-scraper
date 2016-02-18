@@ -1,31 +1,23 @@
 arg(root).
 text(root, Mormonism is Correct).
 
+arg(16637).
+text(16637, "If perfection could have been attained through the Levitical priesthood—and indeed the law given to the people established that priesthood—why was there still need for another priest to come [Christ], one in the order of Melchizedek, not in the order of Aaron?" (Hebr 7:11)).
+att(16637, 16278).
+
+arg(16341).
+text(16341, Alma 34 states that no man can atone for the sins of another, and that only an infinite sacrifice--the Son of God--could suffice.
+
+It wasn't just because Jesus was sinless, it was because he was God.).
+att(16341, 16013).
+
+arg(16338).
+text(16338, Joseph Smith would have been closer to 22 when he got the plates.).
+att(16338, 16169).
+
 arg(16165).
 text(16165, Jeremiah 1:5 says that God knew Jeremiah before He was formed in the womb; John 1 says that Jesus was with God in the beginning and was God and was made flesh. If the spirit comes after the physical then nothing is created as the Word was made flesh and the Word was needed to make all things.).
-att(16165, root).
-
-arg(16278).
-text(16278, Per Exodus 19:6 all Israel were to be priests, until they sinned and the tabernacle was moved from the camp per Ex. 32, 33:7; Heb. 7 also. Melchizedek receives tithes and offers offerings, Gen. 14. Jud. 13:16, 23, angel commands offering. 2 Sam. 24:20–25.).
-att(16278, root).
-
-arg(16170).
-text(16170, Why would continuing revelation be necessary? If the the revealed truth were true to begin with it would be as true in 1800 as it would be today.).
-att(16170, root).
-
-arg(16275).
-text(16275, it includes content that couldn't have been present in text written during the time period and area it claims to be written in e.g. old world animals, chariots, steel, churches.
-
-).
-att(16275, root).
-
-arg(16168).
-text(16168, Wouldn't that mean there is moral relativism?).
-att(16168, root).
-
-arg(16273).
-text(16273, A Mormon just believes. ).
-support(16273, root).
+att(16165, 16019).
 
 arg(16173).
 text(16173, It remains true, but we do not know everything yet, nor are we in the same situations as someone in 1800. ).
@@ -35,69 +27,47 @@ arg(16171).
 text(16171, See Romans 2:12-15 and Deuteronomy 30:11-14; as per Proverbs 29:18 where there is no revelation, people cast off restraint, but the moral law is always before us and written in everyone's heart. ).
 support(16171, 16168).
 
-arg(16174).
-text(16174, That assumes the plates were solid gold both in composition and in in terms of being a solid block of gold; it also ignores what those that held the plates said it weighed, which was between 40 to 60 pounds.).
-att(16174, root).
-
-arg(16203).
-text(16203, If the Book of Mormon was translated perfectly why are there clear differences in the text between editions?).
-att(16203, root).
-
-arg(16169).
-text(16169, The account of Joseph Smith would have made the plates about 200 pounds, impossible for a 14 year old to run with and dodge attackers. ).
-att(16169, root).
-
-arg(16196).
-text(16196, The Jews in the book of mormon, are said to follow the law of Moses, but are building temples outside of Jerusalem, building more than one temple and let non-Levites serve in the Temple. All of which is strictly forbidden according to the law of Moses.  ).
-att(16196, root).
-
-arg(16184).
-text(16184, This is not proven).
-att(16184, root).
-
 arg(16172).
 text(16172, How does one know that anything in the Bible is trustworthy?).
 att(16172, 16171).
-
-arg(16167).
-text(16167, Mormonism explicitly has continuing revelation as per Articles of Faith 9 and changing policies that do not require revelation. ).
-att(16167, root).
-
-arg(16162).
-text(16162, If Mormonism were correct, it would be maintained in it's original form and would not change policy. This is not the case.  It has changed policy with regards to polygamy and children of LGBT couples.  ).
-att(16162, root).
-
-arg(16144).
-text(16144, It's "polygamy".).
-att(16144, root).
-
-arg(16021).
-text(16021, How come his words had to be changed then about things like Polygamy?).
-att(16021, root).
-
-arg(16019).
-text(16019, How could preexistence be true when 1 Corinthians 15:46 says spirit comes after physical?).
-att(16019, root).
-
-arg(16018).
-text(16018, Wouldn't it make it non miraculous.  ).
-att(16018, root).
-
-arg(16016).
-text(16016, How come there are spelling and grammar mistakes in the original? ).
-att(16016, root).
 
 arg(16017).
 text(16017, Joseph smith did not write it down perfect.).
 support(16017, 16016).
 
+arg(16010).
+text(16010, Jesus is just an example of how we should live to be like God).
+support(16010, 16009).
+
+arg(16278).
+text(16278, Per Exodus 19:6 all Israel were to be priests, until they sinned and the tabernacle was moved from the camp per Ex. 32, 33:7; Heb. 7 also. Melchizedek receives tithes and offers offerings, Gen. 14. Jud. 13:16, 23, angel commands offering. 2 Sam. 24:20–25.).
+att(16278, 16196).
+
+arg(16170).
+text(16170, Why would continuing revelation be necessary? If the the revealed truth were true to begin with it would be as true in 1800 as it would be today.).
+att(16170, 16167).
+
+arg(16275).
+text(16275, it includes content that couldn't have been present in text written during the time period and area it claims to be written in e.g. old world animals, chariots, steel, churches.
+
+).
+att(16275, 16015).
+
+arg(16168).
+text(16168, Wouldn't that mean there is moral relativism?).
+att(16168, 16167).
+
 arg(16015).
 text(16015, The book of Mormon was translated perfectly. ).
 support(16015, root).
 
-arg(16013).
-text(16013, It didn't have to be God, just someone to live a perfect life).
-support(16013, root).
+arg(16174).
+text(16174, That assumes the plates were solid gold both in composition and in in terms of being a solid block of gold; it also ignores what those that held the plates said it weighed, which was between 40 to 60 pounds.).
+att(16174, 16169).
+
+arg(16203).
+text(16203, If the Book of Mormon was translated perfectly why are there clear differences in the text between editions?).
+att(16203, 16015).
 
 arg(16009).
 text(16009, If Jesus is not God, how come he is the center of your life?).
@@ -107,11 +77,59 @@ arg(16012).
 text(16012, If Jesus is not God, how come his sacrifice is enough?).
 att(16012, root).
 
+arg(16184).
+text(16184, This is not proven).
+att(16184, 16013).
+
+arg(16167).
+text(16167, Mormonism explicitly has continuing revelation as per Articles of Faith 9 and changing policies that do not require revelation. ).
+att(16167, 16162).
+
+arg(16144).
+text(16144, It's "polygamy".).
+att(16144, 16021).
+
+arg(16021).
+text(16021, How come his words had to be changed then about things like Polygamy?).
+att(16021, 16015).
+
+arg(16018).
+text(16018, Wouldn't it make it non miraculous.  ).
+att(16018, 16017).
+
+arg(16016).
+text(16016, How come there are spelling and grammar mistakes in the original? ).
+att(16016, 16015).
+
+arg(16013).
+text(16013, It didn't have to be God, just someone to live a perfect life).
+support(16013, 16012).
+
 arg(16011).
 text(16011, There are many verses that talk about Jesus being God).
-att(16011, root).
+att(16011, 16010).
 
-arg(16010).
-text(16010, Jesus is just an example of how we should live to be like God).
-support(16010, 16009).
+arg(16162).
+text(16162, If Mormonism were correct, it would be maintained in it's original form and would not change policy. This is not the case.  It has changed policy with regards to polygamy and children of LGBT couples.  ).
+att(16162, root).
+
+arg(16019).
+text(16019, How could preexistence be true when 1 Corinthians 15:46 says spirit comes after physical?).
+att(16019, root).
+
+arg(16169).
+text(16169, The account of Joseph Smith would have made the plates about 200 pounds, impossible for a 14 year old to run with and dodge attackers. ).
+att(16169, root).
+
+arg(19043).
+text(19043, This is not evidence. Opinion does not belong in a proper debate.).
+att(19043, 16273).
+
+arg(16273).
+text(16273, A Mormon just believes. ).
+support(16273, root).
+
+arg(16196).
+text(16196, The Jews in the book of mormon, are said to follow the law of Moses, but are building temples outside of Jerusalem, building more than one temple and let non-Levites serve in the Temple. All of which is strictly forbidden according to the law of Moses.  ).
+att(16196, root).
 

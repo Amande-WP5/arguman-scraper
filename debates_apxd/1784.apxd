@@ -1,10 +1,6 @@
 arg(root).
 text(root, Taking a life in order to save a thousand lives is morally and ethically acceptable).
 
-arg(10725).
-text(10725, deliberately killing an individual for the purpose of saving any number of other people sets a precedent for such behavior.).
-support(10725, root).
-
 arg(10996).
 text(10996, it is not epistemologically possible to know that killing 1 person now will directly save 1000 in the future outside of a contrived hypothetical scenario where we are assumed to have perfect knowledge. If implemented as policy it could promote ignorance of unintended consequences and greater death.).
 att(10996, root).
@@ -17,15 +13,9 @@ arg(10728).
 text(10728, It must be accepted that morality is based solely on the outcome of an action for this conclusion to be valid.).
 att(10728, 10582).
 
-arg(10724).
-text(10724, peoples' happiness and sanity can be affected by the knowledge that an individual was deliberately killed for the purpose of saving others.).
-support(10724, root).
-
-arg(10730).
-text(10730, Argument by Assertion, Circular Reasoning.
-
-"It is better to passively let 1000 die than actively kill 1 person, because it is better to do so").
-att(10730, root).
+arg(10725).
+text(10725, deliberately killing an individual for the purpose of saving any number of other people sets a precedent for such behavior.).
+support(10725, 10723).
 
 arg(11672).
 text(11672, Someone with deontological ethics might not accept that, because the outcome should not govern the decision.).
@@ -35,37 +25,23 @@ arg(11675).
 text(11675, There is no built in value for life, morality is something one comes up to protect oneself. Accordingly to reasons, situation and outcome, killing anyone to either save or not save is completely justifiable.).
 support(11675, root).
 
+arg(10724).
+text(10724, peoples' happiness and sanity can be affected by the knowledge that an individual was deliberately killed for the purpose of saving others.).
+support(10724, 10723).
+
+arg(10730).
+text(10730, Argument by Assertion, Circular Reasoning.
+
+"It is better to passively let 1000 die than actively kill 1 person, because it is better to do so").
+att(10730, 10691).
+
 arg(11005).
 text(11005, For public debate among people of more than one culture, speakers should use general language and a discussion of consequences to make arguments. It is exclusionary and unreasonable to instead demand arguments conform to every possible cultural or religious variation to be considered valid.).
-att(11005, root).
-
-arg(10913).
-text(10913, Moral varies according to the culture and values of a group of people, therefore you can't make any assumption regarding the subject unless you place it in an appropriate context. ).
-att(10913, root).
+att(11005, 10913).
 
 arg(11276).
 text(11276, By this logic, then there is no point in discussing if something is morally acceptable, since you can't separate moral and culture. A discussion of consequences doesn't imply moral acceptance of an action.).
 att(11276, 11005).
-
-arg(10887).
-text(10887, Yes, under the assumption that all lives involved are equal. The decision to not kill the one person is the same decision that leads to the death of a thousand. Doing nothing doesn't relieve you of moral responsibility. It is a decision just like doing something is.).
-support(10887, root).
-
-arg(11321).
-text(11321, You are saving 1,000 lives by taking only one. Even if the lives you are saving are only a 500th as valuable then you still come out ahead.).
-support(11321, root).
-
-arg(10691).
-text(10691, Passively letting 1000 die is better than actively taking 1 life.).
-att(10691, root).
-
-arg(11342).
-text(11342, It is justified murdering 50 people to feed other 100? What is the numerical limit to define them as acceptable or not?).
-att(11342, root).
-
-arg(10562).
-text(10562, By killing that 1 person you drag him into the equation and end his life. If you would just act passively, 1000 would die, and that 1 person would have never had to be killed by yourself.).
-att(10562, root).
 
 arg(10563).
 text(10563, Even to safe 1000 lives, dragging someone into this is morally wrong.).
@@ -79,9 +55,21 @@ arg(10845).
 text(10845, Not if you are the only thing standing between the one or the thousand.).
 att(10845, 10691).
 
+arg(10562).
+text(10562, By killing that 1 person you drag him into the equation and end his life. If you would just act passively, 1000 would die, and that 1 person would have never had to be killed by yourself.).
+att(10562, root).
+
 arg(10951).
 text(10951, What makes their life less valuable than other people's lives? ).
 att(10951, root).
+
+arg(11321).
+text(11321, You are saving 1,000 lives by taking only one. Even if the lives you are saving are only a 500th as valuable then you still come out ahead.).
+support(11321, 10951).
+
+arg(10691).
+text(10691, Passively letting 1000 die is better than actively taking 1 life.).
+att(10691, 10568).
 
 arg(10952).
 text(10952, This depends on the 1 person getting killed and the 1000 people getting killed.
@@ -91,4 +79,16 @@ att(10952, root).
 arg(10723).
 text(10723, body count is not the only factor to consider. There are other consequences.).
 att(10723, root).
+
+arg(11342).
+text(11342, It is justified murdering 50 people to feed other 100? What is the numerical limit to define them as acceptable or not?).
+att(11342, root).
+
+arg(10913).
+text(10913, Moral varies according to the culture and values of a group of people, therefore you can't make any assumption regarding the subject unless you place it in an appropriate context. ).
+att(10913, root).
+
+arg(10887).
+text(10887, Yes, under the assumption that all lives involved are equal. The decision to not kill the one person is the same decision that leads to the death of a thousand. Doing nothing doesn't relieve you of moral responsibility. It is a decision just like doing something is.).
+support(10887, root).
 

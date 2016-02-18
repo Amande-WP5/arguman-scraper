@@ -1,11 +1,11 @@
 arg(root).
 text(root, This website might be better off as its own subreddit on reddit.com.).
 
-arg(8462).
-text(8462, Reddit is slowly getting taken over by radical SJWs, and if one of them gets a mod position, they can make every argument one sided in their favor.).
-att(8462, root).
-
 arg(8784).
 text(8784, That's what I really like about this site. Everything is based on reason and fact, doesn't matter if you like it.).
 support(8784, 8462).
+
+arg(8462).
+text(8462, Reddit is slowly getting taken over by radical SJWs, and if one of them gets a mod position, they can make every argument one sided in their favor.).
+att(8462, root).
 

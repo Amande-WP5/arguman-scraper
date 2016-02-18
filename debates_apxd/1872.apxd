@@ -1,40 +1,40 @@
 arg(root).
 text(root, Children with Fetal Alcohol Syndrome should be able to sue their mothers.).
 
-arg(12557).
-text(12557, The baby don’t choose it, and even if he do, he doesn’t have a way to know the consequences.
-Then he have no responsibility on it.).
-att(12557, root).
-
 arg(12547).
 text(12547, All children should be able to sue both of their parents for pain and suffering for bringing them into this world in the first place. ).
 att(12547, root).
+
+arg(12557).
+text(12557, The baby don’t choose it, and even if he do, he doesn’t have a way to know the consequences.
+Then he have no responsibility on it.).
+att(12557, 12549).
+
+arg(11777).
+text(11777, Do you have a source to prove that Fetal Alcohol Syndrome can be proven with medical testing?).
+att(11777, 11700).
+
+arg(11700).
+text(11700, Fetal alcohol syndrome is easy to prove through medical testing, and a standard punishment through the shape of economical compensation should be implemented. Where this compensation comes from if the parent can not pay for it is a different discussion.).
+att(11700, 11631).
+
+arg(11863).
+text(11863, Fetal alcohol syndrome has very clear symptoms and developmental defects.).
+att(11863, 11631).
+
+arg(11790).
+text(11790, This can be found through simple googling of "FAS diagnosis and testing" and includes the doctor going through a checklist of physical characteristics found in FAS, and only FAS. It is a well established practice, and is used to determine possible future disorders.).
+att(11790, 11777).
 
 arg(12549).
 text(12549, Mothers should be able to sue their children if the child attempts to be delivered feet first. This results in an emergency C-section, which are expensive. Ignorance of the law is no excuse for the child. ).
 att(12549, root).
 
-arg(11700).
-text(11700, Fetal alcohol syndrome is easy to prove through medical testing, and a standard punishment through the shape of economical compensation should be implemented. Where this compensation comes from if the parent can not pay for it is a different discussion.).
-att(11700, root).
-
 arg(11601).
 text(11601, An action caused by the mother, inflicted harm on another individual.).
 support(11601, root).
 
-arg(11863).
-text(11863, Fetal alcohol syndrome has very clear symptoms and developmental defects.).
-att(11863, root).
-
-arg(11790).
-text(11790, This can be found through simple googling of "FAS diagnosis and testing" and includes the doctor going through a checklist of physical characteristics found in FAS, and only FAS. It is a well established practice, and is used to determine possible future disorders.).
-att(11790, root).
-
 arg(11631).
 text(11631, In order for a sue to be successful, you would need to show that the Fetal Alcohol Syndrome is the only thing that could be responsible for the individual's disabilities).
 att(11631, root).
-
-arg(11777).
-text(11777, Do you have a source to prove that Fetal Alcohol Syndrome can be proven with medical testing?).
-att(11777, 11700).
 

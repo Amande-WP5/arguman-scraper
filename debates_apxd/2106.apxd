@@ -1,21 +1,29 @@
 arg(root).
 text(root, Making money is more important than enjoying one's work.).
 
+arg(18268).
+text(18268, only up to a certain level, at which you have all you need to live comfortably. At that point, working for more money becomes a question of personal preferences, wether living to work is more important than working to live.).
+att(18268, root).
+
 arg(14690).
 text(14690, Only if you're not already rich. If you are, you're merely working because you want to and because you enjoy it. ).
 att(14690, root).
-
-arg(14692).
-text(14692, To live, you need food, water, and shelter (depending of where you live), not money. Money is a tool in which to acquire the above resources, but it is not necessary to have money in order to survive.).
-att(14692, root).
 
 arg(14707).
 text(14707, It depends on what you see as your purpose in life. Personally, I'd rather be working a job that I view as meaningful than one that I either enjoyed or received high financial compensation for.).
 att(14707, root).
 
+arg(18234).
+text(18234, Not only for the rich.  There are people who have decided that they do not mind living at subsistence level and still enjoy their work. Small scale farmers often exemplify this. ).
+att(18234, 14690).
+
 arg(14710).
 text(14710, Doing what you enjoy gurantees personal satisfaction but money only possibly allows such satisfaction. ).
 att(14710, root).
+
+arg(14692).
+text(14692, To live, you need food, water, and shelter (depending of where you live), not money. Money is a tool in which to acquire the above resources, but it is not necessary to have money in order to survive.).
+att(14692, 14504).
 
 arg(14504).
 text(14504, You need money to live.).

@@ -1,11 +1,81 @@
 arg(root).
 text(root, A.I shouldn't be enslaved).
 
-arg(12049).
-text(12049, If an artificial intelligence cannot suffer, then it wouldn't affected if it were enslaved.).
-att(12049, root).
+arg(17610).
+text(17610, You could install a pump that regularly delivers cortisol into the body of a young coma patient and observe the negative health effects.  
+
+We believe that stress hormone release is caused by mental states, and activity in the brain but only a useful assumption is made about consciousness.).
+support(17610, 17609).
+
+arg(17608).
+text(17608, At least until the A.I. starts programming itself. 
+
+Artificial General Intelligence is unlikely to be programmed in a traditional sense.  Especially in a system designed around Whole Brain Emulation.  It's possible for the engineers and designers to be ignorant.).
+att(17608, 17423).
+
+arg(17609).
+text(17609, Health is not proof of an emotional experience, or any conscious experience for that matter.  It's only proof of the prolonged physical effect of things like cortisol in the bloodstream.
+
+You can have observable cause and effect of systems interacting.  But that doesn't require emotions.).
+att(17609, 17423).
+
+arg(17423).
+text(17423, With the only difference that we have proof that humans have emotions which can heavily influence their bodily health. Example: Slavery and humiliation of a human can have detrimental results on the brain. The same cannot be said about A.I. since you decide how you program them.).
+att(17423, 17422).
+
+arg(17422).
+text(17422, When it comes to an internal experience, like suffering.  The only possible thing you can do is take their word or infer from body language.  This is not a proof.  An A.I. claiming that it suffers from mistreatment, is just as impossible to verify as a human making the same claim.).
+att(17422, 17329).
 
 arg(11129).
 text(11129, That requires a distinction between artificial actors (like companies, non-intelligent software, nations, etc) and AI.).
 att(11129, root).
+
+arg(17329).
+text(17329, If somebody makes a claim that cannot be proven, then that's his problem and we cannot just take its word. It's up to him to show it. If it's possible or not to prove it doesn't make a difference.).
+att(17329, 17322).
+
+arg(17322).
+text(17322, If an A.I. claims to suffer, there's no test we could perform to verify that it is a true claim (one couldn't even prove or falsify that another human can suffer or isn't themselves some complex automaton), and we should therefor take the A.I. at its word.).
+att(17322, 12049).
+
+arg(17331).
+text(17331, We don't enslave people because it messes with their emotions. Humans strive to be free and enjoy life and not be seen as property. Since A.I. can be programed to lack those factors, there is nothing stopping us from enslaving A.I. technically or morally.).
+att(17331, root).
+
+arg(17178).
+text(17178, ).
+att(17178, root).
+
+arg(12049).
+text(12049, If an artificial intelligence cannot suffer, then it wouldn't affected if it were enslaved.).
+att(12049, root).
+
+arg(19003).
+text(19003, Since we can program an AI to not have the same feelings, An enslaved AI would be completely moral.).
+support(19003, 17331).
+
+arg(18987).
+text(18987, We should not create A.I with the ability to suffer, there is no sufficient reason to think that if the A.I suffer, they will have the ability to tell it to us.
+
+We should be very cautious.).
+att(18987, 17322).
+
+arg(18982).
+text(18982, We don't know if we could program AI to have a lack of emotions. The most likely scenario to generate AI would be either 1) simulate the human brain, then make it larger, or 2) have programs that write other programs, until you have a successively better one. We have little control over either.).
+att(18982, 17331).
+
+arg(19018).
+text(19018, This still assumes we can make a distinction between hard and soft AI, when in all likelihood we would need to take the AI's word for it.).
+att(19018, 18988).
+
+arg(18988).
+text(18988, The real problem is our misunderstanding of what consciousness is, not the complexity or the self-modification of programs.).
+att(18988, 18982).
+
+arg(19443).
+text(19443, That would make no sense since slavery is applied to humans. 
+
+Even if the meaning of slavery would take a leap and consider all scentient beeings, we are at present time more likely to consider an animal as scentient than an A.I.).
+support(19443, root).
 

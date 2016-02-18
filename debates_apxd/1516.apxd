@@ -1,3 +1,7 @@
 arg(root).
 text(root, Virtual currencies (bitcoin, etc.) are the future).
 
+arg(18823).
+text(18823, ).
+support(18823, root).
+

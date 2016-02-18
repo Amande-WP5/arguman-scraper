@@ -5,11 +5,11 @@ arg(5508).
 text(5508, body hair is sexy).
 support(5508, root).
 
-arg(5521).
-text(5521, That is personal preference. Not everyone thinks so.).
-att(5521, 5508).
-
 arg(5522).
 text(5522, Hairy people tend to be older, thus having more experience.).
 support(5522, root).
+
+arg(5521).
+text(5521, That is personal preference. Not everyone thinks so.).
+att(5521, 5508).
 

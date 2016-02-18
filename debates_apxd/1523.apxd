@@ -1,11 +1,11 @@
 arg(root).
 text(root, Responsibility is not a measure of fault, or guilt: it is a measure of one's ability to respond. ).
 
-arg(7819).
-text(7819, I am attempting to get away from the legal interpretation, the moral interpretation. I posit that if you are able to respond, you are literally responsible, not in the past, but in the present. Or, you could say, there is no past in true responsibility, only in the act of finding guilt. ).
-att(7819, root).
-
 arg(7812).
 text(7812, Here we're assuming that "responsibility" indicates "ownership", you do not need to "own" a problem to be the person responsible for causing it.).
 att(7812, root).
+
+arg(7819).
+text(7819, I am attempting to get away from the legal interpretation, the moral interpretation. I posit that if you are able to respond, you are literally responsible, not in the past, but in the present. Or, you could say, there is no past in true responsibility, only in the act of finding guilt. ).
+att(7819, 7812).
 

@@ -1,21 +1,18 @@
 arg(root).
 text(root, Making public colleges free in the USA is beneficial and will promote economic growth.).
 
-arg(8116).
-text(8116, Startups lack the funds to employ legal teams to evade taxation & lobbyist firms to convince the gov't to grant subsidies/exemptions that minimize tax burdens. Small businesses aren't multinational, so exploiting overseas profits & offshore banks is also not possible. ).
-support(8116, 8004).
-
-arg(6922).
-text(6922, Once everyone is a degree holder, no one is.).
-att(6922, root).
-
-arg(8722).
-text(8722, As we grow into an increasingly mechanized and automated society jobs that do not require a college education will shrink dramatically. ).
-support(8722, root).
+arg(6852).
+text(6852, Those who go to college and universities are able to take on jobs with more income. This will overall increase wages and earnings for the common people.
+).
+att(6852, 6844).
 
 arg(6926).
 text(6926, The tax burden falls mostly on corporations and rich people. They do not like taxes and try to leave your country when you raise taxes. This would hurt economic growth.).
 att(6926, root).
+
+arg(6952).
+text(6952, Behaviour tends to align with the source of funding; public funding means the interests of the government may be served over the interests of the students.).
+att(6952, root).
 
 arg(6939).
 text(6939, If everyone has a greater education they won't have relative advantages over each other but they will all be better off than their earlier less-educated selves. The world isn't zero sum!).
@@ -25,54 +22,6 @@ arg(6929).
 text(6929, If the U.S. degree holders were willing to move internationally, they would have substantial advantage).
 att(6929, 6922).
 
-arg(8055).
-text(8055, Money can be taken away from less-productive endeavors and put toward programs with better potential for future growth.).
-att(8055, root).
-
-arg(6952).
-text(6952, Behaviour tends to align with the source of funding; public funding means the interests of the government may be served over the interests of the students.).
-att(6952, root).
-
-arg(7104).
-text(7104, Paying for someone's liberal arts or event planning degree will not help the economy. ).
-att(7104, root).
-
-arg(7951).
-text(7951, The practical logistics associated with moving any medium-to-large corporate entity, including infrastructure, equipment, staff, entirely to a new country are so large, and would produce such a massive disruption to business that the costs would outweigh the tax burden. It is a ridiculous notion.).
-support(7951, root).
-
-arg(7956).
-text(7956, As human knowledge grows, the amount of education and specialisation required in order to be a successful participant in democracy and an economic contributor also rises. A highly educated population is desirable for this reason, and the benefits vastly outweigh the tax burden.).
-support(7956, root).
-
-arg(8069).
-text(8069, Taxes do not have de-facto negative impact on productivity, especially long-term. Also, there are many ways the government can create the funding for this program, more taxes aren't the only method. Reforming the corporate tax code & eliminating off-shore profit loopholes would be enough to fund it.).
-att(8069, root).
-
-arg(7967).
-text(7967, This demand is created artificially through government subsidies, preventing the adjustment of the value of a degree based on market factors.).
-att(7967, root).
-
-arg(8076).
-text(8076, This exists now, but it's secondary to this question. STEM programs & incentives by states/fed already tipped funding & support in favor of the degrees you consider 'better' or more deserving of public funds. This is risky: colleges aren't trade schools and real education can't be done a la carte. ).
-att(8076, root).
-
-arg(7972).
-text(7972, An over-saturation of degree holders in the market as a result of government subsidies would impact those earnings heavily.).
-att(7972, root).
-
-arg(8250).
-text(8250, Those with higher educations are more beneficial to society leading to improvement in other industries. ).
-att(8250, root).
-
-arg(7980).
-text(7980, Because of the way the US tax system works, if they end up being paid very well in those other countries, they still would pay US taxes. This will have some financial benefit to the US assuming the other countries can afford to pay them 100k+).
-att(7980, root).
-
-arg(8087).
-text(8087, It wouldn't directly affect country-of-origin economic growth, but global economics is not a zero-sum game. Developed nations trade with developing ones b/c differences in their markets make opportunities. As a nation's economy grows, trade expands in raw materials & goods. Hence globalization.).
-att(8087, root).
-
 arg(7993).
 text(7993, This does not account for businesses that have to simply shut down due to the increased tax burden ).
 att(7993, 7951).
@@ -81,22 +30,69 @@ arg(7996).
 text(7996, The limitation for getting a degree should be something other than your family's financial status.).
 att(7996, 6922).
 
-arg(7998).
-text(7998, If getting a degree was government sponsored, this wouldn't be an issue.).
-att(7998, root).
+arg(8081).
+text(8081, This is not an argument to pity fallacy, it's a value statement on equality of opportunity. The premise may be disputed by arguing equal opportunity isn't a worthy goal, or can't be attained via gov't fiat. But neither makes the original statement pity-fallacious.).
+support(8081, 7996).
+
+arg(6922).
+text(6922, Once everyone is a degree holder, no one is.).
+att(6922, 6851).
+
+arg(8722).
+text(8722, As we grow into an increasingly mechanized and automated society jobs that do not require a college education will shrink dramatically. ).
+support(8722, 7956).
+
+arg(7956).
+text(7956, As human knowledge grows, the amount of education and specialisation required in order to be a successful participant in democracy and an economic contributor also rises. A highly educated population is desirable for this reason, and the benefits vastly outweigh the tax burden.).
+support(7956, root).
+
+arg(8055).
+text(8055, Money can be taken away from less-productive endeavors and put toward programs with better potential for future growth.).
+att(8055, 6844).
 
 arg(6844).
 text(6844, The funding must come from increased taxation; taxes have a negative effect on economic productivity.).
 att(6844, root).
 
+arg(7104).
+text(7104, Paying for someone's liberal arts or event planning degree will not help the economy. ).
+att(7104, 6852).
+
 arg(6851).
 text(6851, Degree holders earn significantly more over their lifetimes).
 support(6851, root).
 
-arg(6852).
-text(6852, Those who go to college and universities are able to take on jobs with more income. This will overall increase wages and earnings for the common people.
-).
-att(6852, 6844).
+arg(8069).
+text(8069, Taxes do not have de-facto negative impact on productivity, especially long-term. Also, there are many ways the government can create the funding for this program, more taxes aren't the only method. Reforming the corporate tax code & eliminating off-shore profit loopholes would be enough to fund it.).
+att(8069, 6844).
+
+arg(7967).
+text(7967, This demand is created artificially through government subsidies, preventing the adjustment of the value of a degree based on market factors.).
+att(7967, 7908).
+
+arg(8076).
+text(8076, This exists now, but it's secondary to this question. STEM programs & incentives by states/fed already tipped funding & support in favor of the degrees you consider 'better' or more deserving of public funds. This is risky: colleges aren't trade schools and real education can't be done a la carte. ).
+att(8076, 6868).
+
+arg(7972).
+text(7972, An over-saturation of degree holders in the market as a result of government subsidies would impact those earnings heavily.).
+att(7972, 6851).
+
+arg(8250).
+text(8250, Those with higher educations are more beneficial to society leading to improvement in other industries. ).
+att(8250, 8219).
+
+arg(7980).
+text(7980, Because of the way the US tax system works, if they end up being paid very well in those other countries, they still would pay US taxes. This will have some financial benefit to the US assuming the other countries can afford to pay them 100k+).
+att(7980, 7898).
+
+arg(8087).
+text(8087, It wouldn't directly affect country-of-origin economic growth, but global economics is not a zero-sum game. Developed nations trade with developing ones b/c differences in their markets make opportunities. As a nation's economy grows, trade expands in raw materials & goods. Hence globalization.).
+att(8087, 7898).
+
+arg(7998).
+text(7998, If getting a degree was government sponsored, this wouldn't be an issue.).
+att(7998, 7947).
 
 arg(10517).
 text(10517, They actually do not, except for when those taxes go to military spending. Education spending has always proved empirically to have a positive effect on the economy. The growth of human capital is a key component in developing a strong economy.).
@@ -118,10 +114,6 @@ arg(7895).
 text(7895, If everyone is brought higher up, that is good and an advancement. That just means the standard is rising and soon new places will become the above average (8 year college, PhD). This will lead to a more educated society and the standard or living will rise.).
 att(7895, 6922).
 
-arg(6868).
-text(6868, certain degrees need to hold precedence over others when it comes to financial support.  E.g. history degrees tend to be less profitable than Computer Engineering degrees.).
-att(6868, root).
-
 arg(7898).
 text(7898, That would not promote economic growth in their country of origin, only in the country they go to. ).
 att(7898, 6929).
@@ -129,10 +121,6 @@ att(7898, 6929).
 arg(8205).
 text(8205, In a majority of universities now, every single four year major costs the same amount of tuition. ).
 att(8205, 6868).
-
-arg(8029).
-text(8029, Liberal arts programs have many other benefits too. Multicultural exchanges that expose students to alternate viewpoints by improves tolerance & cognitive flexibility, & creativity by demonstrating relativism. Liberal & interdisciplinary thought benefits 'hard sciences' too, not just larger society.).
-att(8029, root).
 
 arg(7906).
 text(7906, Although it will not directly benefit the economy, it will promote cultural growth which leads to things like ticket sales and other forms of monetary growth. It will also make the country a better place to live, leading to happier and productive workers.).
@@ -145,10 +133,6 @@ att(8215, 7967).
 arg(7908).
 text(7908, If there was no demand for those services, they wouldn't exist.).
 att(7908, 7104).
-
-arg(8219).
-text(8219, There is no evidence that this will increase economic growth for any industry sector other than higher education. And that growth will be false.).
-att(8219, root).
 
 arg(8036).
 text(8036, US post-secondary education is more costly and less accessible than other developed nations in the EU & Asia, where 'universal' college education is supported w/ taxpayer money. Post-WWII public funds built the US state university system that remains unmatched worldwide today, though not for long...).
@@ -173,7 +157,7 @@ support(8004, 7993).
 arg(8715).
 text(8715, Start ups with about 2 to 15 people will not be paying as much as large companies in taxes. This will not effect them as much.
 ).
-att(8715, root).
+att(8715, 8116).
 
 arg(7947).
 text(7947, Degrees are costing increasingly more to attain, reducing the overall lifetime earnings by quite a bit.).
@@ -191,7 +175,23 @@ arg(9624).
 text(9624, Even in these cases where companies like Facebook use these loopholes, that doesn't effect the fact that the startups are being charged fairly. This is about weather or not they can handle the taxes they are given, which they can.).
 att(9624, 9309).
 
-arg(8081).
-text(8081, This is not an argument to pity fallacy, it's a value statement on equality of opportunity. The premise may be disputed by arguing equal opportunity isn't a worthy goal, or can't be attained via gov't fiat. But neither makes the original statement pity-fallacious.).
-support(8081, 7996).
+arg(8116).
+text(8116, Startups lack the funds to employ legal teams to evade taxation & lobbyist firms to convince the gov't to grant subsidies/exemptions that minimize tax burdens. Small businesses aren't multinational, so exploiting overseas profits & offshore banks is also not possible. ).
+support(8116, 8004).
+
+arg(7951).
+text(7951, The practical logistics associated with moving any medium-to-large corporate entity, including infrastructure, equipment, staff, entirely to a new country are so large, and would produce such a massive disruption to business that the costs would outweigh the tax burden. It is a ridiculous notion.).
+support(7951, 7326).
+
+arg(8029).
+text(8029, Liberal arts programs have many other benefits too. Multicultural exchanges that expose students to alternate viewpoints by improves tolerance & cognitive flexibility, & creativity by demonstrating relativism. Liberal & interdisciplinary thought benefits 'hard sciences' too, not just larger society.).
+att(8029, 7906).
+
+arg(8219).
+text(8219, There is no evidence that this will increase economic growth for any industry sector other than higher education. And that growth will be false.).
+att(8219, root).
+
+arg(6868).
+text(6868, certain degrees need to hold precedence over others when it comes to financial support.  E.g. history degrees tend to be less profitable than Computer Engineering degrees.).
+att(6868, root).
 

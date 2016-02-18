@@ -1,18 +1,6 @@
 arg(root).
 text(root, There is no such thing as a "good" police officer).
 
-arg(11912).
-text(11912, Morality is subjective, therefore a wrong law in your eyes, is a right law in another persons eyes. ).
-att(11912, root).
-
-arg(12546).
-text(12546, A police officer could theoretically work an entire career without being put in a situation where he or she must do something immoral. Not all police activities are immoral, and many are moral. The act of swearing to uphold laws is not in itself an immoral act. ).
-att(12546, root).
-
-arg(11908).
-text(11908, Not all laws are moral. Police swear to uphold all laws. Therefore, no police officer can be truly be good, because they are swearing to uphold immoral laws.).
-support(11908, root).
-
 arg(11983).
 text(11983, Given that 'police' are an entity's extension of authority, from the view of the entity any action taken in furtherance of the entity's goals is "good", and any action otherwise is "bad".).
 att(11983, 11908).
@@ -29,14 +17,6 @@ arg(11927).
 text(11927, A bad police officer is one who commits and will continue to commit immoral actions. A police officer can only be good if they never act immorally.).
 att(11927, 11923).
 
-arg(12013).
-text(12013, We always have to define "good" and "bad" and therefore this question is not specific enough.).
-att(12013, root).
-
-arg(12088).
-text(12088, Police are under no legal obligation to protect and serve.).
-support(12088, root).
-
 arg(12090).
 text(12090, He defined the enforcement of certain laws as immoral, making them bad. He didn't assert whether certain laws were moral, but it can be inferred that there are parts of law that are amoral and immoral. ).
 att(12090, 11923).
@@ -48,4 +28,76 @@ att(12094, 11983).
 arg(12095).
 text(12095, Assuming certain laws are immoral, a police officer who refused to enforce a law (say, giving tickets, or arresting drug possessors.) would be fired. So insofar that a cop is not yet fired, he is compliant in enforcing the laws thus far.).
 att(12095, 11927).
+
+arg(12546).
+text(12546, A police officer could theoretically work an entire career without being put in a situation where he or she must do something immoral. Not all police activities are immoral, and many are moral. The act of swearing to uphold laws is not in itself an immoral act. ).
+att(12546, root).
+
+arg(16516).
+text(16516, There are cops that try to do what they believe is good, in society that is the best we can hope for. Realistically, no one is truly good if you define good as perfect. There are many cops who do the best they can to help people and would easily be defined as heroes or good people).
+att(16516, 11919).
+
+arg(17597).
+text(17597, The same could be said for someone who makes child porn. And yet we do not say that it's okay for child pornographers to make child porn because it's their job and their life depends on their job.
+
+People CHOOSE their job, the job of a LEO entails doing things that are often considered immoral.).
+att(17597, 16419).
+
+arg(18458).
+text(18458, Wouldn't it be a better argument to say that a cop is amoral, except where he leaves the confines of his duties? It could be said that swearing to uphold these laws abdicates him of responsibility for their consequences, so long as he is not over- or under-zealous, and does not act outside them.).
+att(18458, 11927).
+
+arg(11908).
+text(11908, Not all laws are moral. Police swear to uphold all laws. Therefore, no police officer can be truly be good, because they are swearing to uphold immoral laws.).
+support(11908, root).
+
+arg(17599).
+text(17599, Traffic tickets are extortion because they take money from people, and it is backed up using threat of force. If you do not pay you will eventually be arrested, if you resist they will use force, if you defend yourself they will kill you. This means that tickets are ultimately backed by deadly force).
+support(17599, 17598).
+
+arg(17598).
+text(17598, THe day to day activities of the police are considered by many to be immoral. For instance, traffic tickets could be considered Extortion. (I will argue for that in another post)
+
+Many people believe extortion to be wrong, and cops are often subject to quotas on how many tickets they give.).
+att(17598, 12546).
+
+arg(16966).
+text(16966, We have not defined good in the context of the sentence. A "good" police officer could be one that always does what his job requires him to do, just as a "good" hammer is one that is capable of hammering in a nail, as it is required to do.).
+att(16966, 11908).
+
+arg(16667).
+text(16667, Morality is in itself irrational. We (mostly) ask police officers to enforce the portions of it that have broad consensus, because we recognize that moral interpretations vary from person to person. This is because morality is not absolute.).
+att(16667, 16642).
+
+arg(16642).
+text(16642, How is it a good thing that police can decide in what they personally decide to be good and enforce it? They are neither accountable for their mistakes based on faith, nor immoral laws. How is it rational for police to hold citizens up to a model of perfection, if they are in fact imperfect?  ).
+att(16642, 16515).
+
+arg(16515).
+text(16515, There are cops that try to do what they believe is good, in society that is the best we can hope for. Realistically, no one is truly good if you define good as perfect. There are many cops who do the best they can to help people and would easily be defined as heroes or good people).
+att(16515, 11919).
+
+arg(16419).
+text(16419, Their life depends on their jobs, sometimes they have to choose between doing something immoral and losing their jobs...).
+att(16419, 12094).
+
+arg(12013).
+text(12013, We always have to define "good" and "bad" and therefore this question is not specific enough.).
+att(12013, root).
+
+arg(11912).
+text(11912, Morality is subjective, therefore a wrong law in your eyes, is a right law in another persons eyes. ).
+att(11912, 11908).
+
+arg(12088).
+text(12088, Police are under no legal obligation to protect and serve.).
+support(12088, root).
+
+arg(18459).
+text(18459, Wouldn't it be a better argument to say that a cop is amoral, except where he leaves the confines of his duties? It could be said that swearing to uphold these laws abdicates him of responsibility for their consequences, so long as he is not over- or under-zealous, and does not act outside them.).
+att(18459, root).
+
+arg(17834).
+text(17834, There is no such thing as a "good" person. It is only one's actions that can have either good or bad consequences. ).
+support(17834, root).
 

@@ -1,62 +1,50 @@
 arg(root).
 text(root, The United States' economic system is heading towards collapse.).
 
-arg(14397).
-text(14397, I was stating simple facts, not assumptions.).
-att(14397, root).
-
-arg(13822).
-text(13822, But some debts can never be repaid except by default or replacing with another debt. So insolvency is hidden and total debt gets bigger. Then insolvency is exposed. Then bailouts are required to kick start a new round. Eventually bailouts are no longer tolerated and the system collapses.).
-support(13822, root).
+arg(14426).
+text(14426, Globally if people pay their debts without making new one, there is less money in circulation.).
+att(14426, 14425).
 
 arg(14398).
 text(14398, Absolute quantities are rarely relevant, e.g. a big country can have more debt in absolute than a smaller country, while being less indebted relatively to the size of its economy.).
 support(14398, 14397).
 
-arg(14079).
-text(14079, You've missed the point of my response: debt isn't the only mechanism of monetary creation, though it's the main one.).
-att(14079, root).
-
 arg(13840).
 text(13840, Non sequitur. The fact that people aren't perfect and sometimes get in more debt than they can pay back isn't proof that the system will eventually collapse.).
 att(13840, 13822).
 
+arg(14079).
+text(14079, You've missed the point of my response: debt isn't the only mechanism of monetary creation, though it's the main one.).
+att(14079, 13821).
+
 arg(13938).
 text(13938, The absolute quantity of debt is irrelevant, as is the fact that it grows (that's inflation, perfectly normal).).
-att(13938, root).
+att(13938, 13918).
 
 arg(13940).
 text(13940, Paying back all debts is only mathematically impossible if you try to do it all at once, so if your original premise didn't imply "all at once" then it is false.).
-att(13940, root).
+att(13940, 13917).
 
 arg(14478).
 text(14478, I agree i should be more accurate, but i try to be concise.
 Do you see what i was trying to say in the premise where i try to be clear, or not ?).
-att(14478, root).
+att(14478, 14431).
 
 arg(13821).
 text(13821, The majority is without assets or "junk assets". As you said they "pretend they're normal banks".).
-att(13821, root).
+att(13821, 13803).
 
 arg(13802).
 text(13802, It's irrelevant that debts can't be settled all at once, what matters is that each debt can be paid back in due time.).
-att(13802, root).
+att(13802, 13680).
 
 arg(14424).
 text(14424, Since debt is the main mechanism of monetary creation, paying it all back would result in massive deflation, so it's not practical unless money is created in another way to compensate, or another currency replaces the dying one.).
-att(14424, root).
+att(14424, 14421).
 
 arg(14425).
 text(14425, It's not true that new debt is needed to pay back old ones.).
-att(14425, root).
-
-arg(14426).
-text(14426, Globally if people pay their debts without making new one, there is less money in circulation.).
-att(14426, 14425).
-
-arg(13680).
-text(13680, The monetary system is based upon units of account which are mostly created via debt instruments. So the interest on debt is always greater than the total supply of money units. Therefore, the debt is mathematically impossible to settle.).
-support(13680, root).
+att(14425, 14379).
 
 arg(14081).
 text(14081, It's a fairy tale to assume that the quantity of debt and its continuing growth is "irrelevant" or "perfectly normal" to a healthy financial system. The global financial crises of 2008, Greece 2015 and the history of nations defaulting on debt reveal this truth.).
@@ -81,10 +69,6 @@ text(13917, Strawman: My premises did not say "debts can't be settled all at onc
 My premise said "the [total] debt is mathematically impossible to settle." Nowhere there does it say "all at once" though that is true I agree its not relevant.).
 att(13917, 13802).
 
-arg(14365).
-text(14365, Inflation can refer to a number of different things: prices, debt, monetary mass; and they all depend on each other in complex ways.).
-att(14365, root).
-
 arg(14085).
 text(14085, It has nothing to do with needing to pay debts off "all at once". This is a red herring. My premise did not say it and your premise also agreed with mine that it is irrelevant.).
 att(14085, 13940).
@@ -92,12 +76,6 @@ att(14085, 13940).
 arg(13919).
 text(13919, My premise is not a Non-sequitur because it is relevant to my earlier one which it further detailed. In both I detail why its a problem that the total debt grows and grows.).
 att(13919, 13840).
-
-arg(14379).
-text(14379, It was unclear, sorry.
-In the current system, what permit people to pay their debt, is that new ones are contracted. 
-There are always debts but they switch from hand to hand, and change their due time in the process.).
-support(14379, root).
 
 arg(13918).
 text(13918, "what matters is that each debt can be paid back in due time" is irrelevant because "each" implies non-systemic. And my premise is in the systemic context (i.e. from original argument "economic system is heading towards collapse"). What matters is that total debt of the system grows and grows. ).
@@ -107,10 +85,6 @@ arg(14380).
 text(14380, A bank can also do it directly (like in my example), then everyone could pay its debts by contracting a new one directly.
 But it is absurd, and we can see that what matters is not only that  each debt is paid back in due time.).
 support(14380, 14379).
-
-arg(14367).
-text(14367, I'm not sure what you're trying to say, so I can't really answer.).
-att(14367, root).
 
 arg(14431).
 text(14431, Yes, but less money doesn't mean that there isn't enough left to pay back the remaining debts.).
@@ -131,4 +105,30 @@ att(14355, 13802).
 arg(14402).
 text(14402, It's quite normal for a monetary mass to grow, for money to be created faster than it is destroyed. Currently debt is the main mechanism of monetary creation, so it's normal for debt to be created faster than it is paid back. You should worry when it doesn't, that indicates deflation.).
 support(14402, 14397).
+
+arg(14397).
+text(14397, I was stating simple facts, not assumptions.).
+att(14397, 14081).
+
+arg(13822).
+text(13822, But some debts can never be repaid except by default or replacing with another debt. So insolvency is hidden and total debt gets bigger. Then insolvency is exposed. Then bailouts are required to kick start a new round. Eventually bailouts are no longer tolerated and the system collapses.).
+support(13822, 13802).
+
+arg(14365).
+text(14365, Inflation can refer to a number of different things: prices, debt, monetary mass; and they all depend on each other in complex ways.).
+att(14365, 14354).
+
+arg(14379).
+text(14379, It was unclear, sorry.
+In the current system, what permit people to pay their debt, is that new ones are contracted. 
+There are always debts but they switch from hand to hand, and change their due time in the process.).
+support(14379, 14367).
+
+arg(14367).
+text(14367, I'm not sure what you're trying to say, so I can't really answer.).
+att(14367, 14355).
+
+arg(13680).
+text(13680, The monetary system is based upon units of account which are mostly created via debt instruments. So the interest on debt is always greater than the total supply of money units. Therefore, the debt is mathematically impossible to settle.).
+support(13680, root).
 

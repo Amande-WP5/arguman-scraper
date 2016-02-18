@@ -1,10 +1,6 @@
 arg(root).
 text(root, Infanticide should be as legal (or illegal) as abortion).
 
-arg(6531).
-text(6531, Abortion does not happen "just before birth".).
-att(6531, root).
-
 arg(6214).
 text(6214, The cellular composition of a baby just before birth and just after birth is practically the same.).
 support(6214, root).
@@ -13,4 +9,8 @@ arg(7175).
 text(7175, Law is compiled, considering the social acceptance of an individual's or a group's choice. While every choice has its pros and cons, the law establishes which one outweighs the other.
 Abortion is choice to not birth a child. While infanticide is a choice to kill it after deciding to give birth.).
 att(7175, root).
+
+arg(6531).
+text(6531, Abortion does not happen "just before birth".).
+att(6531, 6214).
 

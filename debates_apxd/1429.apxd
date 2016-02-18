@@ -1,10 +1,6 @@
 arg(root).
 text(root, Gun control will only cause more crime, not prevent it.).
 
-arg(6935).
-text(6935, There is no direct link to increased violence because of gun control, how can an increase in difficulty to acquire a weapon result in an increase in violence since most people that commit gun crimes SHOULD NOT be eligible to buy a gun.).
-att(6935, root).
-
 arg(6938).
 text(6938, Criminals tend to ignore laws (especially gun laws). Guns laws are only obeyed by law abiding citizens, who wouldn't cause problems anyways).
 support(6938, root).
@@ -16,4 +12,8 @@ att(6945, 6938).
 arg(7208).
 text(7208, Gun Control has been exceptionally effective. Australia had 13 mass shootings in the period 18 years prior to their stringent gun control was implemented. They have had none since. Rates of gun-related homicide and other crime has also fallen dramatically 'factors up to fifty and sixty percent.').
 att(7208, root).
+
+arg(6935).
+text(6935, There is no direct link to increased violence because of gun control, how can an increase in difficulty to acquire a weapon result in an increase in violence since most people that commit gun crimes SHOULD NOT be eligible to buy a gun.).
+att(6935, root).
 

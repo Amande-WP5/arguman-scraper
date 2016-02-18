@@ -1,6 +1,18 @@
 arg(root).
 text(root, Astrology is not a science).
 
+arg(17445).
+text(17445, This proposition depends on your viewpoint to what is science therefore it brings us to problem of demarcation. If we look at this problem from Thagards viewpoint we can claim astrology as pseudoscience. ).
+support(17445, root).
+
+arg(16492).
+text(16492, It does not follow the scientific theory nor can it provide any evidence for any of it's concepts).
+support(16492, root).
+
+arg(18442).
+text(18442, That's not what we are discussing, because (if it exists at all) it is far less common than the current practices of astrologists.).
+att(18442, 16428).
+
 arg(15223).
 text(15223, Current natal astrology in newspapers is just a bullshit came out in 1930s).
 support(15223, root).
@@ -8,4 +20,17 @@ support(15223, root).
 arg(15222).
 text(15222, There is no scientific proof about relation between human and stars ).
 support(15222, root).
+
+arg(16428).
+text(16428, We could think of a formal and serious astrological scientific research that  use scientific method to actually attempt to prove if the position of the stars when you were born affects or not on your life.
+Therefore giving birth to scientific knowledge.).
+att(16428, root).
+
+arg(19146).
+text(19146, Rather than study the structure and behavior of the physical universe through observation and experiment as the Sciences do, so far their claims are based off of no evidence.).
+support(19146, root).
+
+arg(19151).
+text(19151, It is NOT a rigorous discipline formed from recording physical experiments and measurements with the intent of disproving a series of reasonable hypotheses.).
+support(19151, root).
 

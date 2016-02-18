@@ -1,0 +1,54 @@
+arg(root).
+text(root, There should be a law that prohibits someone from entering politics if they have not worked a number of years in another job.).
+
+arg(17224).
+text(17224, Experience outside of the political system is likely to add to a better understanding and appreciation of constituents' circumstances and concerns, allowing a politician to better consider and set governmental policies for constituents.).
+support(17224, root).
+
+arg(17159).
+text(17159, Why? 
+
+If someone has devoted their education, social life and work to helping people through politics, why should they need to have worked in an unrelated job?
+).
+att(17159, root).
+
+arg(17172).
+text(17172, Politicians represent people from all types of jobs. They do not have time to become an expert in every job, it makes more sense for them to spend their time listening to the experts from relevant fields. Doing other work would mean less time listening to experts and workers you are representing.).
+att(17172, 17171).
+
+arg(17235).
+text(17235, This would only be relevant for the constituents they have worked with and not the 99% they haven't.
+Workers themselves can pass on knowledge to politicians. They could spend that same time learning from different kinds of workers from different fields, thereby representing a lot more constituents).
+att(17235, 17224).
+
+arg(17171).
+text(17171, Making decisions on behalf of other people is a politicians job. In order to gain enough experience and knowledge in the field in which you are making decisions through personal experience seems like a minimum requirement.).
+att(17171, 17162).
+
+arg(17162).
+text(17162, How would working outside of politics prevent overly idealistic candidates?
+Political work is still work.
+Different types of work face different realities.
+What "realities" should politicians have to have faced exactly?).
+att(17162, 17161).
+
+arg(17161).
+text(17161, The point of this law would be to prevent overly idealistic candidates who are too principally and egoistically driven and fail to see the pragmatic realism that is demanded in politics. This is often the case of the non-experienced politicians that have been "shielded" from the realities of work.).
+att(17161, 17159).
+
+arg(17157).
+text(17157, Just because someone has never worked outside of politics it doesn't mean they are rich. Just because someone is rich it doesn't make them unfit for office.).
+att(17157, 17105).
+
+arg(17115).
+text(17115, We often see persons that have done exactly this. Bernie Sanders is a notably example of a highly popular candidate who has only held elected office jobs.).
+att(17115, 17112).
+
+arg(17112).
+text(17112, For democracies: If such a candidate would really run for an election without any working experience, he would probably fail simply by voting turnouts.).
+att(17112, root).
+
+arg(17105).
+text(17105, If he never worked, he is probably rich. All support for not letting the rich control the nation.).
+support(17105, root).
+

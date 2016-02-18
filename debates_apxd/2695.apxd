@@ -1,0 +1,185 @@
+arg(root).
+text(root, An exact small scale replication of the world trade centre site and planes should be created to test the 9/11 theories.).
+
+arg(18701).
+text(18701, Whatever the outcome, I'd love to see the reactions from "truthers" and official story believers.).
+support(18701, root).
+
+arg(18703).
+text(18703, Science. 
+
+It would answer and create a lot of questions.).
+support(18703, root).
+
+arg(18875).
+text(18875, If the results were the buildings never falling and only falling like the originals if thermite was used, and if then an investigation found key world players involved. How would the events play out and would it lead to negative outcomes or positive outcomes overall.).
+att(18875, root).
+
+arg(18874).
+text(18874, Two replicas could be built. One could be packed with concealed nano-thermite to be detonated at the time the originals collapsed after impact. Then the results could be compared.).
+att(18874, root).
+
+arg(18791).
+text(18791, Why not an exact full-scale replica?).
+att(18791, root).
+
+arg(18704).
+text(18704, To my knowledge gravity can't be scaled. But the outcome would still have its merits.
+).
+att(18704, root).
+
+arg(18877).
+text(18877, This was exactly my original point.).
+att(18877, 18859).
+
+arg(18873).
+text(18873, What if the experiment was carried out 10 times and 1 out of those 10 it collapsed or didn't.).
+att(18873, 18701).
+
+arg(18870).
+text(18870, The'd say something along the lines of: "Only a 1:1 replica would convince me.").
+att(18870, 18701).
+
+arg(18859).
+text(18859, Well make another one that's the same then, but on a smaller scale).
+att(18859, 18825).
+
+arg(18825).
+text(18825, No, it won't. It was made with new construction materials. It's wider. It's taller. It was made with new techniques. It's nowhere near the same.).
+att(18825, 18822).
+
+arg(18822).
+text(18822, Well, if it's still the World Trade Centre, then it will be pretty much the same.).
+att(18822, 18801).
+
+arg(18814).
+text(18814, There isn't direct opposition, there are dumb idiots and dogmatics in both sides.
+
+They will ever remain existing.).
+att(18814, 18737).
+
+arg(18801).
+text(18801, That's not a replica. It's an entirely new design.).
+att(18801, 18797).
+
+arg(18797).
+text(18797, They already built one though, so I don't see why not. Just do a surprise test.).
+att(18797, 18795).
+
+arg(18795).
+text(18795, That would be rather expensive).
+att(18795, 18791).
+
+arg(18794).
+text(18794, Mythbusters had to deal with this at some point or other. There's a formula you can use to scale distances instead of gravity and have the math work.).
+att(18794, 18704).
+
+arg(18737).
+text(18737, I wonder which group is more dogmatic and would reject the results.).
+support(18737, 18701).
+
+arg(18707).
+text(18707, I wonder if it's possible to create artificial gravity in space that can scale gravity and have scaled versions of WTC or other things to test.
+).
+att(18707, 18704).
+
+arg(19226).
+text(19226, I thought details were already small and inconsequential things.).
+att(19226, 19217).
+
+arg(19295).
+text(19295, Only in chaotic systems.
+We can easily see that it is not a chaotic system by changing a little some parameters of the simulation and see the buildings still fall approximately at the same speed and in the same way.).
+att(19295, 19291).
+
+arg(19291).
+text(19291, It can be firmly established that even the most minuscule change of detail can result in an enormously different outcome (via chaos theory) and therefore the argument that small details are irrelevant hold zero weight.).
+att(19291, 19226).
+
+arg(19262).
+text(19262, I understood it, but what my premise was about, and i think the premise of yylmao was about, is that the "exact replication" in your argument is misleading.
+I consider a replication to at least respect the building structure of what is replicated, or at least "a good replication".).
+att(19262, 19213).
+
+arg(19200).
+text(19200, I would like both side to see a experiment that invalidates their theories 99 out of 100 times, and see how both side react.
+How many would concentrate on this 1 time out of 100 that confirms their theories :) ?).
+support(19200, 18873).
+
+arg(19196).
+text(19196, I think the equations which explain how to calculate the falling speed of buildings, from the structure and materials, with explanations of these equations, and experiences that permit to induce them, would be enough.).
+att(19196, 18704).
+
+arg(19227).
+text(19227, If the difficulty is not too high, most people interested can take some time to learn enough to understand them.).
+att(19227, 19214).
+
+arg(19218).
+text(19218, Just to be clear, all 9/11 theories are conspiracy theories and people who entertain them are conspiracy theorists, no matter who you believe did it. No one thinks 9/11 was an accident.
+Science is science, people can believe what they want.).
+att(19218, 19198).
+
+arg(19217).
+text(19217, Details matter, small details don't matter as much.).
+att(19217, 19210).
+
+arg(19216).
+text(19216, Just to be clear, all 9/11 theories are conspiracy theories and people who entertain them are conspiracy theorists, no matter who you believe did it. No one thinks 9/11 was an accident.
+Science is science, people can believe what they want.).
+att(19216, 19188).
+
+arg(19215).
+text(19215, Science is science. It doesn't matter what people believe.).
+att(19215, 19187).
+
+arg(19214).
+text(19214, Most people wouldn't understand the math and equations used.).
+att(19214, 19196).
+
+arg(19213).
+text(19213, I meant the building structures being exact, not insignificant minor details.).
+att(19213, 19197).
+
+arg(19210).
+text(19210, The temperatures that the towers reached and the speed the towers fell at, aren’t affected a lot, by details. This is not a chaotic system.).
+att(19210, 19205).
+
+arg(19205).
+text(19205, The basis of 9/11 conspiracy theories are reliant on the initial conditions of the crash (i.e. temperatures the towers reached, the speed the towers fell at, etc.) and therefore, initial detail is entirely relevant.).
+att(19205, 19189).
+
+arg(19199).
+text(19199, What is needed is something with what the government can’t lie.
+Like science that everyone can check at home.
+(that would also be a good opportunity to teach some science to people)).
+support(19199, 19198).
+
+arg(19197).
+text(19197, Then it would not be a exact replication. (a exact replication isn’t useful)).
+att(19197, 18972).
+
+arg(19189).
+text(19189, Mostly they would not, conspiracy theories about the 9/11/2001 aren’t based on details.).
+att(19189, 19188).
+
+arg(19188).
+text(19188, Conspiracy theorists would claim these nonessential details would be relevant.).
+att(19188, 18972).
+
+arg(18972).
+text(18972, Small non-essential details can be left out.).
+att(18972, 18970).
+
+arg(18970).
+text(18970, With so many small details, it would be impossible to replicate it.).
+att(18970, root).
+
+arg(19198).
+text(19198, It would be useless to convince conspiracy theorists, because one of the bases of the conspiracy, is that the government is messing with the evidence.
+If the government did what conspiracy theorists think they did, they would have no problem to corrupt the experimenters…).
+att(19198, root).
+
+arg(19187).
+text(19187, Regardless of the outcome of this test, there will still be conspiracy theorists that will claim that the test preformed was somehow initially biased. Henceforth, additional testing will be rendered rather ineffective.).
+att(19187, root).
+

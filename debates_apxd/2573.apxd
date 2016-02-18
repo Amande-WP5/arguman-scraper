@@ -1,0 +1,244 @@
+arg(root).
+text(root, Evolution is not observable.).
+
+arg(18423).
+text(18423, "The change is only something you think happens and is, therefore, not observable."
+
+According to this, nothing is observable.).
+att(18423, 18389).
+
+arg(18647).
+text(18647, That's total nonsense.
+
+You take creatures, whose lifespan is very small and you can observe evolution across generations quite well.
+
+The most famous example is possibly fruit flies.).
+att(18647, 17897).
+
+arg(18497).
+text(18497, A scientific theory is a system of LAWS not ideas.).
+att(18497, 18386).
+
+arg(18474).
+text(18474, You can observe the process of evolution in action).
+att(18474, 18386).
+
+arg(18056).
+text(18056, See the orher premises as to why you're wrong.).
+att(18056, 18029).
+
+arg(18429).
+text(18429, The argument is about evolution, not the theory of evolution.
+Evolution is a thing that is explained by the theory of evolution, not the theory itself.).
+att(18429, 18386).
+
+arg(18428).
+text(18428, You can observe brain activity theorizing about evolution.).
+att(18428, 18386).
+
+arg(18426).
+text(18426, The inability to record is not linked to the inability to observe a change.
+You have drifted the argument after defining what evolution is, by finding another reason of why evolution is not observable.
+You should have created another branch.).
+att(18426, 18367).
+
+arg(18321).
+text(18321, Again, the previous premise is about change. It is not about evolution. We have defined evolution as a change and now must discuss what it means to be a change.).
+att(18321, 18314).
+
+arg(18258).
+text(18258, OP seems to have a problem defining what we see as evidence. For him, Evolution occurring right in front of his eyes is not Evolution, but evidence for Evolution. Makes no sense. Similarly, everything in front of him is "only" evidence for it.).
+support(18258, 18242).
+
+arg(18119).
+text(18119, They are evidence for evolution. They are not evolution itself. Macro evolution is also not currently a listed premise.).
+att(18119, 18091).
+
+arg(18066).
+text(18066, The other premises do not provide any evidence to assert that my previous premise is wrong.).
+att(18066, 18056).
+
+arg(18411).
+text(18411, Yes i can’t know, was it the case or not ?).
+att(18411, 18392).
+
+arg(18397).
+text(18397, My apologies. Change is the act or instance of making or becoming different. If I don't give a definition in the future just google it because that's where I get the definitions I use from.).
+att(18397, 18347).
+
+arg(18392).
+text(18392, You do not know my opinion of my original premise. Perhaps my opinion of it was that it has always been wrong, but posting something positive for the conclusion was necessary to catalyze a more effective argument for the conclusion.).
+att(18392, 18387).
+
+arg(18389).
+text(18389, To be in a state, and after to be in another state is not change. It is two phenomenon that you observe and then, by using inductive reasoning, come to the conclusion that a change has occurred. The change is only something you think happens and is, therefore, not observable.).
+att(18389, 18341).
+
+arg(18387).
+text(18387, Yes you are right. (i was speaking about your opinion, not your premise, changing it would effectively be a mess)).
+support(18387, 18380).
+
+arg(18380).
+text(18380, Changing my original premise could force the other premises following from it to need change and that would be a mess. I will instead post another original premise that is more in line with what is being said.).
+att(18380, 18350).
+
+arg(18367).
+text(18367, These premises do have something to do with the original premise.).
+att(18367, 18348).
+
+arg(18350).
+text(18350, You was thinking evolution take too much time when you write the original premise, you didn’t know what micro-evolutions was, or didn’t think about it.
+
+It is completely normal to be wrong, even at basic things (most errors are basic), but don’t fool yourself, and update your original opinion.).
+support(18350, 18345).
+
+arg(18348).
+text(18348, Then make a new premise if it has nothing to do with the original premise.).
+att(18348, 18301).
+
+arg(18347).
+text(18347, OP seems to have a general problem defining "change" and how we as humans can observe change. It has absolutely nothing to do with the original premise anymore and therefore I consider OP's further comments to be irrelevant.).
+support(18347, 18345).
+
+arg(18345).
+text(18345, Look at your original premise, what you was implying is that we can’t observe evolution only because of practical problems, and not that there was fundamental problems. Maybe you are trying too hard to confirm your own argument, because the reason to defend it had seriously drifted.).
+att(18345, 18270).
+
+arg(18342).
+text(18342, I don’t understand why this is a "but" to my premise.).
+att(18342, 18314).
+
+arg(18341).
+text(18341, To be in a state, and after to be in another state, is the change itself.
+
+There is nothing more to look at, i think you are confusing yourself about what a change is : Maybe you are thinking about a continuous change, or you are thinking about the cause of the change, or i don’t know.).
+att(18341, 18322).
+
+arg(18327).
+text(18327, Everything we observe in the universe is like that. We create a theory / formula for it. We don't really know 100% if something is true. We only have probabilities and strong indications. F = G * m1 * m2 / r ^ 2 seems to be a very good representation of grav. force. For macrocosmos that is.).
+att(18327, 18242).
+
+arg(18314).
+text(18314, Then this is something philosophical. ALL we do is observing one state and then another state in the future. You could even say this for movies or youtube videos. It has nothing to do with evolution.).
+att(18314, 18308).
+
+arg(18322).
+text(18322, This is only evidence that a change has occurred. Neither in the before nor after state can you point to something or listen, feel, smell, or taste something that you could identify as a change.).
+att(18322, 18308).
+
+arg(18308).
+text(18308, You observe something in one state, and after you observe it in a different state.).
+att(18308, 18270).
+
+arg(18301).
+text(18301, My previous premise is about change not being observable. Knowledge of evolution is not necessary to make this claim.).
+att(18301, 18300).
+
+arg(18300).
+text(18300, Then you have no idea what Evolution is.).
+att(18300, 18270).
+
+arg(18270).
+text(18270, You cannot observe change.).
+att(18270, 18265).
+
+arg(18242).
+text(18242, Gravitation is not observable in itself.
+We see that chunks of matter come together like if matter atracted matter in the direct reason of mass and the inverse reason of distance.
+But we cannot know whether matter actually attracts matter, or if this has a different cause.).
+att(18242, 18046).
+
+arg(18265).
+text(18265, Then there you have it, we provided examples of exactly this!).
+att(18265, 18259).
+
+arg(18259).
+text(18259, Evolution is change in the heritable traits of biological populations over successive generations.).
+att(18259, 18134).
+
+arg(18261).
+text(18261, My premise is not "but" or "because". I wanted to just link an argument. "However" premises have no effect for objection/support rate. So, the objection rate still 100% on this argument.).
+att(18261, 18257).
+
+arg(18257).
+text(18257, The premise you linked has more than a 90% objection rate. It's not a good idea to link to an almost entirely rejected and falsified premise.).
+att(18257, 17827).
+
+arg(18134).
+text(18134, Evolution occurring in real time will also always be "evidence" for evolution. It might be that we have a misunderstanding. What would "evolution itself" be? Every example you would ever get could be classified as "evidence" so what are you searching for?).
+att(18134, 18119).
+
+arg(18121).
+text(18121, I think it would help if you define what you call "evolution" and "gravitation".).
+att(18121, 18065).
+
+arg(18091).
+text(18091, The other premises are examples of evolution. Speciation, macroevolution and microevolution in action. What else would it be?).
+att(18091, 18079).
+
+arg(18079).
+text(18079, The other premises are evidence for evolution, not examples of it. Being able to observe them does not mean that evolution itself is observable. ).
+att(18079, 18077).
+
+arg(18077).
+text(18077, The other premises are examples of evolution you can observe, therefore your original premise is almost 100% refuted.).
+att(18077, 18066).
+
+arg(18065).
+text(18065, This does seem to be a valid analogy for what I am trying to say.).
+support(18065, 18046).
+
+arg(18029).
+text(18029, Even though the evidence for evolution is observable, evolution itself is not observable.).
+att(18029, 18012).
+
+arg(18386).
+text(18386, The Theory of Evolution is a theory. A theory is a system of ideas. Therefore, the Theory of evolution is a system of ideas. Ideas are not observable. Therefore, the Theory of Evolution is not observable. ).
+support(18386, root).
+
+arg(18046).
+text(18046, It is unclear what is not observable.
+Is this analogy of what you are saying valid : "Even though the evidence for gravitation is observable, gravitation itself is not observable" ?).
+att(18046, 18029).
+
+arg(18416).
+text(18416, Given your definition, a change is the act of becoming different.
+If you are in a state, and then in another state, you are different from before, then it is a change, you don’t need inductive reasoning. The couple of the two situations is a change.).
+att(18416, 18389).
+
+arg(18012).
+text(18012, Microevolution or speciation is directly observable, and the fossil record is also directly observable. The conclusion we can draw out of the fossil record compiled is what ultimately forms the basis for the theory of Evolution.).
+att(18012, 17897).
+
+arg(18011).
+text(18011, The most famous example is the rise of penicillin resistant bacteria.).
+support(18011, 17851).
+
+arg(17826).
+text(17826, The fossil record is observable.).
+att(17826, root).
+
+arg(17827).
+text(17827, ).
+att(17827, root).
+
+arg(18010).
+text(18010, Macroevolution (Speciation) is observable.).
+att(18010, root).
+
+arg(17897).
+text(17897, Evolution takes more time to occur then humans have and human video recording technology has not been around long enough to record it. ).
+support(17897, root).
+
+arg(17851).
+text(17851, Microevolution is observable.).
+att(17851, root).
+
+arg(19478).
+text(19478, And the Theory of Evolution explains the existence of fossils and the way in which they are related to life.).
+support(19478, 17826).
+
+arg(18965).
+text(18965, Then feel free to open up a new argument.).
+att(18965, 18321).
+

@@ -1,0 +1,20 @@
+arg(root).
+text(root, Modern software is too long and complicated).
+
+arg(19505).
+text(19505, some programs are forced to complicated because of external factors, like they have to implement a very large complicated specification such as the web (html/css/js is huge)).
+att(19505, root).
+
+arg(19504).
+text(19504, even a simple linux tool like 'top' is 50 thousand lines of code when it could be a few hundred.).
+support(19504, root).
+
+arg(19545).
+text(19545, "top" is old and is written in C.
+Also there are only about 3400 lines.).
+att(19545, 19504).
+
+arg(19526).
+text(19526, There is strong pressure towards efficiency. Software is complicated because they are striving towards efficiency, not simplicity.).
+att(19526, root).
+

@@ -1,0 +1,381 @@
+arg(root).
+text(root, If bad things happen, god is either not all powerful, doesn't love us, or doesn't exist).
+
+arg(16936).
+text(16936, I will make a analogy of what you are currently doing.
+Someone say "1+1+1=3 because 2+1=3". Which go against your opinion. Then you do strange calculus and you end up doing a error in it, and then you believe you have find the error in the first reasoning.).
+att(16936, 16911).
+
+arg(17757).
+text(17757, Gravity can be detected. God cannot. He is not a property of the universe. All properties of the universe can be physically detected, from solar wind to heat expansion to background radiation to gravity to magnetism to electrical charge to nuclear decay.).
+att(17757, 16908).
+
+arg(16931).
+text(16931, If god exist now, then he is inside of time.
+
+If god is eternal, then time is eternal and the universe is eternal.
+
+It seem to me you are imagining a beginning of time, and a before of the beginning where god would still be. But it is incoherent, if there is a beginning there is no before.).
+att(16931, 16908).
+
+arg(17643).
+text(17643, 1. This branch implies the existence of heaven and afterlife so we stay with this (in this branch).
+2. After punishing a child the child gets a new chance of doing it right person X is dead so he has no new chance to use his lesson in any way.
+God could teach the lesson without punishing him.).
+att(17643, 17628).
+
+arg(16908).
+text(16908, God must be outside of space and time or else he would not be all powerful. He would be constrained by time. 
+
+If being outside of time means something couldn't/didn't exist, then how do you explain the Big Bang Theory? Before the Big Bang, was there time? Did time exist? ).
+att(16908, 16880).
+
+arg(16868).
+text(16868, Having true freedom means being vulnerable to all of those things. If god was out there moving "pieces" around to push you into having a good life, that isn't freedom. That is being a slave to someone else's decisions.
+).
+att(16868, 16653).
+
+arg(16911).
+text(16911, I can see you think I am a theist. I'm not. I did my research and have basically stopped at agnosticism. Anyways, I understand what you are saying, but it's a bit of a strawman argument. That or we are working on different definitions of freedom/free will. For god to commit some divine intervention).
+att(16911, 16873).
+
+arg(18267).
+text(18267, We could also go on to say that the concepts of "worship" and "sacrifice" were created by the religious leaders, not god. Organized religion has been known to be rather controlling of it's members. ).
+support(18267, 18239).
+
+arg(16957).
+text(16957, I think I was going more for your last definition. Yes, gravity is a real thing, so in a sense it does have an "existence". The definition of existence I was attempting to work with though, was, I guess, have a life. Being a live or a tangible thing. Gravity isn't tangible, it's more of a thing that).
+support(16957, 16932).
+
+arg(18239).
+text(18239, It is possible, but if so, then He/She/It is not what we usually call "God".
+
+And probably would not care for being "worshiped" at all.).
+att(18239, 16865).
+
+arg(17793).
+text(17793, Thus, god does not want us to not suffer. Love implies care. Care implies protection or interest. Either god does not want to protect us, or has no interest in our suffering, thus he does not love us.).
+support(17793, 17789).
+
+arg(17792).
+text(17792, Love is a thought. Thus, if god can't think, god can't love. Also, if god is outside time, he also cannot act, as action means change over time. Thus he is **both** unloving and unpowerful in our universe.).
+att(17792, 17788).
+
+arg(17789).
+text(17789, It imply that god can’t change anything, changing something for god imply that he want something that he didn’t wanted before, which imply a change.).
+support(17789, 17758).
+
+arg(17788).
+text(17788, It mean that god can’t think, thinking imply having a series of thought through time.).
+support(17788, 17758).
+
+arg(17784).
+text(17784, Is your point: The all powerful god can't give himself more power?).
+att(17784, 17779).
+
+arg(17779).
+text(17779, The opening argument does say "all powerful." "All powerful" *does* mean "absolutely powerful." ALL and MOST are not the same. ALL is totality; *every* power. MOST is not totality. If God is ONLY *most* powerful, he is not *all* powerful, thus the argument is settled: God is *not* all powerful.).
+att(17779, 17777).
+
+arg(17777).
+text(17777, "most powerful being" does not imply "absolutly powerful".).
+att(17777, 17775).
+
+arg(17775).
+text(17775, Either way, the most powerful being can't become more powerful if they are already the most powerful. The most powerful is the most powerful, their ability to change how powerful they are is irrelevant if they are always the most powerful. ).
+att(17775, 17772).
+
+arg(17772).
+text(17772, no need to =/= able to).
+att(17772, 17763).
+
+arg(17765).
+text(17765, To the false analogy fallacy, the analogy was between god giving us free will and the government giving us the right to free speech. This has nothing to do with god loving us or not, this argument is specifically talking about free will. ).
+att(17765, 16948).
+
+arg(17763).
+text(17763, If god is already all powerful, then there is no need for him to change. ).
+att(17763, 17758).
+
+arg(17762).
+text(17762, creating the univese would already be an act in our spacetime => if god gives us 100%free will he didn't create the univese and does not interact with us at all).
+att(17762, 17759).
+
+arg(17761).
+text(17761, To the red herring fallacy.
+I don’t try to redefine the word to meet a particular conclusion, i would like we define it in the first place to know if we are all speaking about the same thing, and avoid misunderstanding and useless disagreement.
++ with a clear definition, errors are easier to spot.).
+att(17761, 16935).
+
+arg(17759).
+text(17759, Thus we would only have free will up to the extent that God does not act within our spacetime. All the things that are considered acts of God are thus violations of our free will. Either god cares about maintaining our free will, or he acts within our universe. It can't be both.).
+support(17759, 17647).
+
+arg(17758).
+text(17758, if god is in a non-spacetime where nothing can change, that means god cannot change himself. if god cannot change himself, he is not all powerful.).
+att(17758, 17519).
+
+arg(17647).
+text(17647, With every interaction you influence the decisions of people => free will does not exist(?)).
+att(17647, 16867).
+
+arg(17628).
+text(17628, Perhaps person x did not get into heaven because they didn't follow all of god's rules. Similar to how a parent punishes their children if they do something bad. It doesn't mean they don't love them, they are just teaching them a lesson.).
+att(17628, 17530).
+
+arg(17603).
+text(17603, If our understanding of those "plans" is too superficial, it follows that thinking and talking about "his" "plans" and "having" "reasons" are also superficial. Probably god dont have any plan. ).
+att(17603, 16969).
+
+arg(17536).
+text(17536, See source.).
+att(17536, 17521).
+
+arg(17534).
+text(17534, By saying god is "the supreme being", you choose partially what god is.
+The mere fact of giving a meaning to a word imply we can give properties to what this word refers.
+
+ie : if we can’t say anything about god, it mean the word "god", doesn’t mean anything.).
+att(17534, 17522).
+
+arg(17532).
+text(17532, Yes, the mere fact of giving god some properties : "omnipotent", "loving", etc, narrow the potential things he can do.
+Otherwise those properties wouldn’t mean anything.
+It is not because "i say so", "i say so" because it is.).
+att(17532, 17522).
+
+arg(17530).
+text(17530, if he chooses to not allow person x in heaven he doesn't love person x => is not a loving god.
+by a human definition of loving (since we are humans we take the human definition not the divine definition)).
+att(17530, 17521).
+
+arg(17454).
+text(17454, what was there before god? who created god? ).
+att(17454, 16908).
+
+arg(17435).
+text(17435, I and many other people didn't agree that deal).
+att(17435, 16914).
+
+arg(17428).
+text(17428, he doesn't give us the freedom to fly like a bird (like a bird=without technical devices)).
+att(17428, 16868).
+
+arg(16873).
+text(16873, Not at all, you are implying that protecting someone from the harm they want to avoid is to give up freedom, it is quite the opposite.
+If god was protecting me from being a slave, because i want it, he would not diminish my freedom, he would greatly increase it.).
+att(16873, 16868).
+
+arg(16956).
+text(16956, This, too, is where I kinda get stuck and trying to logically think it through. But I think the reason I get stuck is simply because of language restraints. It's not really possible to talk about things in such a way that doesn't involve time. Time is essential to our nature, how we live. To ).
+support(16956, 16931).
+
+arg(16938).
+text(16938, A real loving god would permit them to go to heaven without doing any contract.).
+att(16938, 16914).
+
+arg(16937).
+text(16937, If you not prevent people from restricting the free speech of others, then you aren’t defending free speech, you are basically a dictator doing nothing. And if you don’t do anything in politics, you aren’t a dictator.).
+att(16937, 16911).
+
+arg(16935).
+text(16935, I think it is probable we are working with different definition of freedom. (i don’t even consider free-will because i think it is a ill-defined concept most of the time).
+It seem it will be very hard to agree without clearing this point.).
+att(16935, 16911).
+
+arg(16934).
+text(16934, I was not thinking you was a theist (even if i know it was possible)
+I was thinking you was a agnostic, your opinion is that we can’t know, which mean you will try to find a way to avoid incoherence in most concepts of god (with strange stories).
+This is the opinion you are believing and defending).
+att(16934, 16911).
+
+arg(16933).
+text(16933, I am not specifically speaking about the christian god, only about whatever loving and all powerful god (the starting point of the argument).).
+att(16933, 16914).
+
+arg(16932).
+text(16932, If gravity is, then gravity have existence.
+
+You can imagine gravity to be a ontological fact, and then it is, and have a existence. Or you can imagine gravity to only be a element of our model to explain the world, a way to understand, and then it is not, and have no existence outside of ourself.).
+att(16932, 16908).
+
+arg(16930).
+text(16930, Before the big bang it is possible that time didn’t exist.(but i can’t be sure about it). Which would imply there is no "before" the big bang.
+
+If time existed before the big bang, then the big bang is not the start of our universe, but only of our current observable universe.).
+att(16930, 16908).
+
+arg(17522).
+text(17522, So now you get to choose the definitions by which god has to work by? God is supposed to be "the supreme being". You don't get to choose what god is or isn't, and just because he doesn't do what you think he should do doesn't give you the ability to say he doesn't exist. ).
+att(17522, 16951).
+
+arg(17521).
+text(17521, God is the "supreme being". It doesn't matter what you think god should be like. God is god. If to us, god is evil, then that's just how it is. You don't get to choose what god is or isn't, only god does.).
+att(17521, 17433).
+
+arg(17519).
+text(17519, If our current understanding of what a god would be is correct, then nothing came before god and no one created god. This is because god exists in a place without time, and if you don't have time you can't have change. Without change you can't have a before.).
+att(17519, 17454).
+
+arg(17453).
+text(17453, Does god decide not to do anything because he values our free will? If so, then wouldn't it follow that prayer and worship is pointless? Since god will not be involved because he doesn't want to interfere with our free will. Prayer and worship shouldn't change that.).
+att(17453, 16867).
+
+arg(17452).
+text(17452, So let's say god is all powerful, but amoral, so he doesn't see the things that happen to us as bad or good. Can that amorality be compatible with "love?" Even if god doesn't see them as bad or good, can't he see that WE see them that way, and suffer as a result? Can inaction in that light be love?).
+att(17452, 16865).
+
+arg(17436).
+text(17436, It is a vicious deal.).
+support(17436, 17435).
+
+arg(17433).
+text(17433, as i talk about a loving god it is the kind of "loving" i define not god
+(like i'd say a "boring person" than is this person boring from my perspective)).
+att(17433, 16949).
+
+arg(17431).
+text(17431, but it could be much better without getting boring (e.g. less starving childeren)).
+att(17431, 16970).
+
+arg(17429).
+text(17429, if he truly loved us he would make things that are considered good by us not him).
+att(17429, 16621).
+
+arg(16954).
+text(16954, And this is where things get tricky and there's just too much to talk about. The implications of time existing before the big bang would take some time to think about. Your comment about there being no "before" the big bang, you would be correct, because "before" is a time descriptor word. Since we).
+support(16954, 16930).
+
+arg(16970).
+text(16970, Maybe the life would be too boring if made only with good things).
+support(16970, 16969).
+
+arg(16951).
+text(16951, I can decide what a real loving god is not, and it is not a god that would do that.
+And i am way above a nonexistent god, or a god that would do that.).
+att(16951, 16949).
+
+arg(16949).
+text(16949, What makes you say that? Do you all of a sudden get to decide what a "real loving god" would be like? Do you get to decide what love is to a god? By you saying what love is means you are making definitions that restrict god, thus putting you above god's level. You are not god, god is god.).
+att(16949, 16938).
+
+arg(16948).
+text(16948, The United States does this exact thing, and I surprised you didn't see the connection I was trying to make. The United States defends free speech, it's in the First Amendment. However there are plenty of companies that will fire people or not hire people because of their beliefs or what they say.).
+att(16948, 16937).
+
+arg(16923).
+text(16923, If God is an omnipotent, all-powerful being, why does he have the narcissistic need to be worshipped? If he has created everything, why are humans chosen as the one species that need to subject themselves to him? Aren't all creatures created equal?).
+att(16923, 16628).
+
+arg(16901).
+text(16901, Sorry i was not implying that.
+I wanted to say that if parents were able to educate their children without it, they would avoid it.
+Parents chide their children because they aren’t all powerful omnipotent entities, they have to deal with reality.).
+att(16901, 16896).
+
+arg(16896).
+text(16896, Fully agree on your first point, but it's hard to say that a parent should never chide or speak harshly to a child. ).
+att(16896, 16876).
+
+arg(16880).
+text(16880, If something exists, existed, or will exist, then this thing is inside of time.
+
+Being outside of time mean it have never existed and will never.
+
+People say god is "outside of time" to avoid some problematic questions, and didn’t see it imply god don’t exist.).
+att(16880, 16866).
+
+arg(16969).
+text(16969, Our understanding of the plans of God are too superficial, he may have His reasons why bad things should happen.).
+att(16969, root).
+
+arg(16914).
+text(16914, You have to put this in perspective. (I've been assuming we are talking about the Christian god so I will continue to do so.) To god, disobeying his commands are punishable by death. Or rather, they are only punishable by death. I made the parent-child metaphor for simplicity's sake, but  ).
+att(16914, 16876).
+
+arg(17529).
+text(17529, assuming god is the creator of physical laws
+he could have made the laws in a way we could freely choose how we transport ourself (fly walk teleport) but he made them different => no free choise in the kind of transportation
+(god is preventing our choise to fly by the physical laws)).
+support(17529, 17428).
+
+arg(16876).
+text(16876, First if parents tortures or kill their children, then they don’t love them, it is complete abuse.
+Second if parents sometime need to chide their children, it is because they didn’t find another way to avoid a greater harm.
+I think that god have more capacity than a lost parent.).
+att(16876, 16869).
+
+arg(16870).
+text(16870, Bad things happen to everyone, no matter who you are. Many people say that goodness comes from god, but that really isn't true. God is an amoral being. He is above morals (or at least that's sort of one part of the concept of a god). ).
+att(16870, 16775).
+
+arg(16869).
+text(16869, When a parent puts soap in their child's mouth for saying a bad word, or when parents ground their children because they did something they shouldn't have, is that because the parents hate their kids or is it because they love them? ).
+att(16869, 16832).
+
+arg(16867).
+text(16867, Is it not possible for god to know what will happen, but also for people to have free will? Let's assume that fortune tellers actually have supernatural powers.Through them telling you what will happen, they have influenced your decision and no longer are you working off of your own will. ).
+att(16867, 16634).
+
+arg(16866).
+text(16866, God is not us and we are not god. 
+
+As society changes, so do our morals and ethics. It's quite possible that our morals and ethics have moved on from being like god's "morals" (in the case that he is not amoral). 
+
+Naturally god's "morals" would never change since he would exist outside of time).
+support(16866, 16831).
+
+arg(16865).
+text(16865, It's quite possible god has no views at all on "good" or "bad" as he would be an amoral being. 
+
+Concepts like "good" or "bad" may not apply to a supreme being like a god. Remember, a being like god exists outside of time itself, what can we really know about such a being. ).
+att(16865, 16621).
+
+arg(16832).
+text(16832, Is that love? What is love? Is it to punish with death for disobedience? Again, if we redefine love to have more than one meaning, dependent on who is doing the loving, we are just moving the goalposts. We must agree on a universal definition of "love" to decide whether an act is an act of love.).
+att(16832, 16628).
+
+arg(16831).
+text(16831, We must start by defining what is good and what is bad in a universal way. Either God's definition of "bad" is different than humanity's, or not. But if it is different, why has God not corrected it for us? Perhaps God's morality is not mappable to ours; if so, God can still be "bad" by our terms.).
+att(16831, 16621).
+
+arg(16791).
+text(16791, I would say the kids that die everyday. The women that get raped and trafficked. and the Christians in Syria that are being crucified are examples of bad things).
+att(16791, 16621).
+
+arg(16775).
+text(16775, So if Syrian nun gets repeatedly raped and then executed by ISIS members it's because she chose not to follow god?).
+att(16775, 16628).
+
+arg(16653).
+text(16653, It doesn't give you these important freedoms :
+
+- Being free from being harmed
+- Being free from aging
+- Being free from malaria, cancer, and a lot of other disease
+- Being free from hunger
+- Being free from not being a slave
+- ...
+).
+att(16653, 16628).
+
+arg(16634).
+text(16634, If he creates a world & does it with all the foreknowledge of what will transpire, then we don't have free will. He made us knowing what our choices were going to be. If you extrapolate further, this means god creates some people solely for the purpose of inflicting pain on them in life & in hell.).
+att(16634, 16628).
+
+arg(16621).
+text(16621, Or has a different view of what is 'bad').
+att(16621, root).
+
+arg(16628).
+text(16628, That isn't necessarily true. In the Christian perspective, God is all-powerful but gives us our freedom so we can love Him back, without freedom to choose there is no real love. The bad things in this world happen because we chose not to follow God and they are why God sent His Son to die for us ).
+att(16628, root).
+
+arg(19562).
+text(19562, I am glad god threw in some twist for those nuns that got repeatedly raped and crucified by ISIS memebers in Syria. Her life was so boring ).
+att(19562, 16970).
+
+arg(19563).
+text(19563, This implies suffering and hardship are flawed or without purpose. Perhaps a story of redemption and triumph over evil was preferred, a world where good things like honor, courage, altruism, discipline, and wisdom could exist.).
+att(19563, root).
+

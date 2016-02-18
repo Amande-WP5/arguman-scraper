@@ -1,55 +1,115 @@
 arg(root).
 text(root, Everyone eligible to vote in a government elections should by law have to vote.).
 
-arg(16316).
-text(16316, this doesn't make it flawed unless you believe in a moral absolutism. Democracy   is morally neutral. It's just a system for decision making. In this case, the decision to kill the third person was democratically made by one and two. 
-You *could* argue that those individuals are at fault.).
-att(16316, root).
+arg(17460).
+text(17460, Forcing people to vote doesn't help a democracy. With free will voting we see how misinformed the average voter is, this would make things even worse. ).
+att(17460, root).
 
-arg(16291).
-text(16291, A blank vote doesn’t have a fixed meaning.
-It could mean you disagree, it could mean you agree but aren’t sure what is best, it could mean you don’t care.).
-att(16291, root).
+arg(16926).
+text(16926, what is the purpose of voting? It presumes that all those who vote have enough knowledge about politics to vote for whatever brings the optimal greater good. It seems counterintuitive to force someone with no knowledge or interest in politics to vote.).
+att(16926, root).
 
-arg(16283).
-text(16283, Because the option to cast a blank vote generally exists, it has the benefit of making it clear who disagrees with the options given in the election (the blank votes).).
-att(16283, root).
+arg(17912).
+text(17912, But a vote of 'none,' 'nobody,' or 'no confidence' would better capture that. An abstaining vote is usually reserved for conflicts of interest or when the voter has no consequence in the outcome of the vote, but for some reason is still expected to participate in the vote.).
+att(17912, 17782).
 
-arg(16254).
-text(16254, People tend to not want to do what they are forced to do, then they will have more incentive to vote, but less incentive to really get involved in politic.).
-support(16254, root).
+arg(17616).
+text(17616, Ideally a vote for "no one" could demonstrate a lack of confidence in the candidates to a level that would expedite change.  Also allows for a 'withdrawal of consent', which seems important to have in a system that claims 'consent of the governed.').
+support(17616, 16212).
 
-arg(16252).
-text(16252, People that doesn’t want to participate, will just do the bare minimum to avoid the punishment, and then will not learn anything or think more than 5min about what they are voting for.).
-support(16252, root).
+arg(17782).
+text(17782, But in some cases a citizen would truly prefer neither option).
+att(17782, 17612).
 
-arg(16242).
-text(16242, ).
-att(16242, root).
+arg(17612).
+text(17612, But an 'abstain' option would only concede that the law would be forcing something frivolous.  That the citizen should jump through this hoop, just because.  Or to punish those that appear to not care about politics or politicians.).
+att(17612, 17080).
+
+arg(17611).
+text(17611, However this is only true in elections that actually have a majority, which are few, and generally only in two party contests.
+
+If you have 5 candidates, one could win an election with 21% support and 79% of the population voting for someone else.).
+att(17611, 13695).
+
+arg(17091).
+text(17091, Or have a point system of -3 to 3.).
+att(17091, 17090).
+
+arg(17090).
+text(17090, I think that, ideally, you should have a point system. From 1 to, like, 7. And you shouldn't be forced to use all points. You could just give a 5 and walk away. That would help the people that don't know who they want to see elected, but know who they don't want to see elected... I think...).
+support(17090, 13714).
+
+arg(17083).
+text(17083, Ok, i would not have predicted that, my understanding of how people would react seem to be wrong (not very surprising given on what it was based).).
+support(17083, 16429).
+
+arg(17082).
+text(17082, My point here was that they will not do more, not that they will vote wrongly or add noise.
+The "abstain" option don’t really correct that.).
+att(17082, 17080).
+
+arg(17080).
+text(17080, This could be (at least partially) fixed by adding an "abstain" option).
+att(17080, 16252).
+
+arg(16643).
+text(16643, You can only infer that from the blanks because the people are free to not vote at all. If you force people to vote who don't care then you don't know if blank means "don't care" or "blank".
+The benefit you want to force would disappear if you force it.).
+att(16643, 16283).
+
+arg(16429).
+text(16429, No, I am brazilian and I am seeing it with my own eyes. Some years ago political debates were taboo, today almost everyone is on the dualist wave: Worker's Party (Center-left/center-right) "against" Brazilian Social Democratic Party (center-right/Right wing)
+
+I do hope they soon wake up from it.).
+att(16429, 16420).
+
+arg(16420).
+text(16420, How do they measure the politicization ? Do you have source about that ?).
+att(16420, 16413).
+
+arg(16418).
+text(16418, Yes but i was speaking about more specific meaning.
+We could also say that to abstain to vote, means that you abstain to vote, then it make no difference with a blank vote.).
+att(16418, 16412).
+
+arg(16413).
+text(16413, They might be pushed to actually be involved or they might lose interest, this depends on the particular democratic culture of a nation.).
+att(16413, 16254).
 
 arg(16251).
 text(16251, Forcing people that doesn’t want to vote, to vote, have no benefit.).
 att(16251, root).
 
-arg(16210).
-text(16210, There could be an option to vote for no one or "spoiling the ballot").
-att(16210, root).
+arg(16412).
+text(16412, A blank vote means that you don't want to vote in anyone, simple as that. It means you lawfully abstain your vote from this elections.).
+att(16412, 16291).
 
-arg(16212).
-text(16212, Unless a vote for "no one" was allowed.
+arg(16330).
+text(16330, We choose democratic systems because of moral considerations.
+If democracy doesn’t meet these moral considerations, then it is a mistake.).
+att(16330, 16316).
 
-It also wouldn't make political change more difficult but rather give the winning parties a real mandate).
-att(16212, root).
+arg(16316).
+text(16316, this doesn't make it flawed unless you believe in a moral absolutism. Democracy   is morally neutral. It's just a system for decision making. In this case, the decision to kill the third person was democratically made by one and two. 
+You *could* argue that those individuals are at fault.).
+att(16316, 13742).
 
-arg(16211).
-text(16211, This would happen in any form of government with three people if two of them wanted to rob and kill the other.
+arg(16291).
+text(16291, A blank vote doesn’t have a fixed meaning.
+It could mean you disagree, it could mean you agree but aren’t sure what is best, it could mean you don’t care.).
+att(16291, 16283).
 
-Democracy is not at fault here).
-att(16211, root).
+arg(16283).
+text(16283, Because the option to cast a blank vote generally exists, it has the benefit of making it clear who disagrees with the options given in the election (the blank votes).).
+att(16283, 16251).
 
-arg(14594).
-text(14594, What specific benefit would this produce that isn't produced with the current rules?).
-att(14594, root).
+arg(16254).
+text(16254, People tend to not want to do what they are forced to do, then they will have more incentive to vote, but less incentive to really get involved in politic.).
+support(16254, 16251).
+
+arg(16252).
+text(16252, People that doesn’t want to participate, will just do the bare minimum to avoid the punishment, and then will not learn anything or think more than 5min about what they are voting for.).
+support(16252, 16251).
 
 arg(13723).
 text(13723, People would vote for whoever the media or their friend told them to vote for in order to avoid punishment. It would make political change more difficult.).
@@ -58,6 +118,26 @@ att(13723, root).
 arg(13741).
 text(13741, Democracy is rule by the average and the media. The average person is uninformed about most things, and more concerned with their daily lives, and will vote for whoever gives them the most 'free' stuff or makes them feel good.).
 att(13741, root).
+
+arg(16210).
+text(16210, There could be an option to vote for no one or "spoiling the ballot").
+att(16210, 14588).
+
+arg(16212).
+text(16212, Unless a vote for "no one" was allowed.
+
+It also wouldn't make political change more difficult but rather give the winning parties a real mandate).
+att(16212, 13723).
+
+arg(16211).
+text(16211, This would happen in any form of government with three people if two of them wanted to rob and kill the other.
+
+Democracy is not at fault here).
+att(16211, 13742).
+
+arg(14594).
+text(14594, What specific benefit would this produce that isn't produced with the current rules?).
+att(14594, 13695).
 
 arg(13742).
 text(13742, Democracy is fundamentally flawed. A simple example: Three people form a democracy, the first two vote to rob and kill the third. ).
@@ -75,4 +155,12 @@ support(13695, root).
 arg(14588).
 text(14588, Voting is a protected right. Forcing a person to vote will no longer allow for voting to be a protected right. Making not voting Illegal infringes on citizens liberty. persons should not be required to make a decision if they do not agree with any options.  ).
 att(14588, root).
+
+arg(16346).
+text(16346, without full participation, accuracy of results can be manipulated by various forms of voter disenfranchisement or ballot box stuffing. Requirement implies verification of participation, which should eliminate or reduce those factors.).
+support(16346, root).
+
+arg(16242).
+text(16242, ).
+att(16242, root).
 

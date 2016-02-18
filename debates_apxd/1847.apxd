@@ -1,10 +1,6 @@
 arg(root).
 text(root, Believing we found alien megastructures is just as illogical as believing in God).
 
-arg(11323).
-text(11323, Only the media is claiming this. If you would take the time to read the actual publication by NASA, you would find that they are way more levelheaded about the discovery and not as sensational as the media.).
-att(11323, root).
-
 arg(11477).
 text(11477, The probability of an alien megastructure is far more likely than the existence of a God, ergo, believing in the existence of a alien megastructures is not as illogical as believing in a God. ).
 att(11477, root).
@@ -13,10 +9,9 @@ arg(11280).
 text(11280, Since antiquity natural phenomena have been attributed to magical or divine elements. Now the inability to explain the particular phenomenon leads to scientists claiming that it is an alien megastructure with no evidence other than lack of understanding.).
 support(11280, root).
 
-arg(11313).
-text(11313, The existence of aliens is possible to build structures, because they can be based on similar physical and biological structures that we know.
-In contrast, there is no tangible evidence of the existence of spirits affirm the possibility of a god.).
-att(11313, root).
+arg(11323).
+text(11323, Only the media is claiming this. If you would take the time to read the actual publication by NASA, you would find that they are way more levelheaded about the discovery and not as sensational as the media.).
+att(11323, 11280).
 
 arg(11316).
 text(11316, The existence of aliens is not questioned here but rather the possibility that we found alien megastructures according to the latest news just because scientists do not have an explanation. Alien existence is not at all illogical.).
@@ -25,4 +20,9 @@ att(11316, 11313).
 arg(11617).
 text(11617, Mistake that others made here is that argument is about a specific news piece as reported and not on the probability that aliens exist.).
 att(11617, 11477).
+
+arg(11313).
+text(11313, The existence of aliens is possible to build structures, because they can be based on similar physical and biological structures that we know.
+In contrast, there is no tangible evidence of the existence of spirits affirm the possibility of a god.).
+att(11313, root).
 

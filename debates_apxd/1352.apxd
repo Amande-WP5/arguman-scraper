@@ -1,15 +1,6 @@
 arg(root).
 text(root, Corporate execs should be prosecuted like other criminals if their deliberate decisions result in the harm or death of others).
 
-arg(6768).
-text(6768, This posited statement needs to be fleshed out. Corporate leaders may have well projected information that some giant project or newly marketed item may result in some limited number of deaths. Large construction project, new drug. But the benefit for everyone else makes those losses acceptable.
-).
-att(6768, root).
-
-arg(5938).
-text(5938, This is one of the only ways to make them accountable for their decisions).
-support(5938, root).
-
 arg(5942).
 text(5942, However, It's possible that all of the fault may not lie at the corporate exec's door. Blame (+ punishments) should be evenly distributed according to who contributed to the harm or deaths.).
 att(5942, 5938).
@@ -23,6 +14,14 @@ arg(6197).
 text(6197, Corporations are the product of government favors and legal shielding. Freeing them from government support makes them vulnerable to their actions again.).
 att(6197, 5938).
 
+arg(6078).
+text(6078, you're saying corporate execs are responsible for all of the blame? Correct?).
+support(6078, 6039).
+
+arg(6115).
+text(6115, A corporate exec that is willing to accept massive payment for things that go well, should accept responsibility when they don't.  ).
+support(6115, 6078).
+
 arg(6549).
 text(6549, If we as a society are operating under the theory that the corporate entity is the party at fault rather than a particular person (e.g. Mitt Romney saying "corporations are people my friend" in regards to citizens united) then it's the corporation who should be held responsible, not its execs. ).
 att(6549, root).
@@ -31,11 +30,12 @@ arg(6558).
 text(6558, Criminal behavior is criminal behavior - if other crimes are punished consistently then if we believe that we have an impartial justice system one group of criminals should not get special treatment just because of the variety of crime they choose to perpetrate. All criminal should be punished. ).
 support(6558, root).
 
-arg(6078).
-text(6078, you're saying corporate execs are responsible for all of the blame? Correct?).
-support(6078, 6039).
+arg(6768).
+text(6768, This posited statement needs to be fleshed out. Corporate leaders may have well projected information that some giant project or newly marketed item may result in some limited number of deaths. Large construction project, new drug. But the benefit for everyone else makes those losses acceptable.
+).
+att(6768, root).
 
-arg(6115).
-text(6115, A corporate exec that is willing to accept massive payment for things that go well, should accept responsibility when they don't.  ).
-support(6115, 6078).
+arg(5938).
+text(5938, This is one of the only ways to make them accountable for their decisions).
+support(5938, root).
 

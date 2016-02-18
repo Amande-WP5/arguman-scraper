@@ -1,0 +1,7 @@
+arg(root).
+text(root, Animals should not be kept in zoos or as pets.).
+
+arg(18668).
+text(18668, As pets, they assist people with mental illnesses like depression, lighten our moods, and can be great company.).
+att(18668, root).
+

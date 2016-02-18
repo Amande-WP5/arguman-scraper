@@ -1,0 +1,7 @@
+arg(root).
+text(root, Full time minimum wage should be tied to inflation and be no lower than the poverty line.).
+
+arg(19516).
+text(19516, It would help keep people out of poverty and reduce poverty related costs.).
+support(19516, root).
+

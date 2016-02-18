@@ -1,14 +1,6 @@
 arg(root).
 text(root, National-Socialists did not exterminate six million Jews during the Second World War).
 
-arg(13830).
-text(13830, You mention sources but you did not provide them?).
-att(13830, root).
-
-arg(13820).
-text(13820, Sources before 1939 claimed that about 6 million jews lived in europe while it was reported that in 1945 the jewish population was of 5 million.).
-support(13820, root).
-
 arg(13859).
 text(13859, there is overwhelming proof otherwise.).
 att(13859, root).
@@ -20,4 +12,12 @@ att(14060, 13859).
 arg(14058).
 text(14058, This is a case where huge geo-political actors had a motive to create what would be the biggest con in history - The Allies needed an excuse for destroying Germany. The UK Ministry for War Propaganda, The US Gov, Soviet Gov, Jewish International lobby. All of these were fabricated if they wanted to.).
 att(14058, 13859).
+
+arg(13830).
+text(13830, You mention sources but you did not provide them?).
+att(13830, 13820).
+
+arg(13820).
+text(13820, Sources before 1939 claimed that about 6 million jews lived in europe while it was reported that in 1945 the jewish population was of 5 million.).
+support(13820, root).
 

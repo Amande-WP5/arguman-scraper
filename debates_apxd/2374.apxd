@@ -1,28 +1,74 @@
 arg(root).
 text(root, America's total household net worth (THHNW) is over $85 trillion, & public and private debt is near 18 trillion. By enacting a 6% annual tax on THHNW, we could & should get rid of income tax, balance the budget, &, within 10 years, eliminate all debt.).
 
-arg(16294).
-text(16294, Wouldn't that encourage people to go into debt (or closely approach it) to avoid paying the tax? ).
-att(16294, root).
+arg(16556).
+text(16556, The public debt is in the form of Government bonds which pay less than 6% interest. Taxing ownership of those bonds effectivly lowers thier value and would cause the interest rate and hence total government debt, to increase).
+att(16556, root).
 
-arg(16292).
-text(16292, The tax could be progressive in a way that nobody is forced to sell their house and live in the street because of it.).
-att(16292, root).
+arg(16555).
+text(16555, People would be unable to raise capital to start a private buisness, as owning shares in a business would cost more than the dividend paid).
+att(16555, root).
+
+arg(16554).
+text(16554, All bonds, shares, loans and other forms of investment paying less than 6% would be made worthless overnight. Causing the economy to crash).
+att(16554, root).
+
+arg(16559).
+text(16559, We already have inheritance tax).
+att(16559, 16542).
+
+arg(16558).
+text(16558, The childern of the rich benefit from thier parent's money most while thier parents are still alive. Through private schools, internships and higher education. Not through large inheritances when the parents die.).
+att(16558, 16542).
+
+arg(16557).
+text(16557, It would be relatively simple to borrow money from yourself via a trust fund or limited company and hide that wealth offshore or in one of the inevitable tax exempt investments. Effectively giving you <O net assets for tax purposes).
+support(16557, 16294).
 
 arg(16003).
 text(16003, Old people with no income but high net worth from a life time of hard work, would be forced to sell their houses and live on the street).
 att(16003, root).
 
-arg(15859).
-text(15859, Effectively, i misunderstood.).
-support(15859, root).
-
-arg(15855).
-text(15855, No it wouldn't. The tax wouldn't apply to people who are in debt because THHNW would subtract it as a liability from the person's assets. Only those who were in the positive would have to pay anything.The tax money would then be applied to government debt and the debt that individuals have accrued. ).
-att(15855, root).
-
 arg(15853).
 text(15853, People already have private debts.
 With this tax, you will decrease the public debt, but increase the private debts.).
 att(15853, root).
+
+arg(16553).
+text(16553, Making everyine live off the same state benefit regardless of how hard they work has not prooved to be a good idea historicaly).
+att(16553, 16542).
+
+arg(16552).
+text(16552, crafting a law which distinguishes the 'deserving rich' from the 'undeserving rich' is easier said than done.
+
+In this case the very premise of the law is that it is expensive to own assets. But we know income poor people can easily have a high 'paper' net worth.).
+att(16552, 16292).
+
+arg(16542).
+text(16542, There would still be social security, so the elderly would be doing alright. It would really only have a negative impact on their heirs, which would be good for society, since "being born lucky" has never been a solid justification for wealth and power. After the debt is paid, it would fall to 4%. ).
+att(16542, 16003).
+
+arg(16541).
+text(16541, Taxes are still preferable to poverty. It would discourage saving, and therefore increase both liquid asset investment and consumer purchasing, which are great ways to stimulate an economy. It might even allow us to achieve economic freedom from banking cartels, as people opt to invest over banking.).
+att(16541, 16294).
+
+arg(16294).
+text(16294, Wouldn't that encourage people to go into debt (or closely approach it) to avoid paying the tax? ).
+att(16294, 15855).
+
+arg(16292).
+text(16292, The tax could be progressive in a way that nobody is forced to sell their house and live in the street because of it.).
+att(16292, 16003).
+
+arg(15859).
+text(15859, Effectively, i misunderstood.).
+support(15859, 15855).
+
+arg(15855).
+text(15855, No it wouldn't. The tax wouldn't apply to people who are in debt because THHNW would subtract it as a liability from the person's assets. Only those who were in the positive would have to pay anything.The tax money would then be applied to government debt and the debt that individuals have accrued. ).
+att(15855, 15853).
+
+arg(16560).
+text(16560, Not paying this tax is a great idea. As once you owe more than your gross value it drops to nothing).
+att(16560, root).
 

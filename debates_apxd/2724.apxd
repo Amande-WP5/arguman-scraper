@@ -1,0 +1,71 @@
+arg(root).
+text(root, People should be able to choose what their taxes get spent on.).
+
+arg(19425).
+text(19425, What OP described is actually a free market transaction.  Which does very well at allocating resources and is the closest you'll ever get to "the will of the people" whatever that means.).
+support(19425, root).
+
+arg(19441).
+text(19441, Do someone have suggestions on how an accurate model could be made? (Don't think dimensionless quantities will work here :P)
+Another interesting question: Why would a society structured with a state have politicians vote for such implementation? (Regardless of any results obtained from experiments)).
+att(19441, 19382).
+
+arg(19286).
+text(19286, Knowing where tax should go is complex, there is a risk for tax to be badly allocated.).
+att(19286, root).
+
+arg(19382).
+text(19382, I would nevertheless be more reassured if we try to do it at a small scale to see before if it works well.
+I generally think it is better to experiment in small scale before doing anything at the country scale.).
+att(19382, 19379).
+
+arg(19380).
+text(19380, Presentation of tax money could be made less complex. Just as a poor example, political parties budget promises could be translated into "portfolios". This wont add much freedom to the citizen but at least the knowledge that the vote will be accurate to the promise.).
+att(19380, 19286).
+
+arg(19379).
+text(19379, Not knowing where tax should go could be considered a risk too, less, equal or worse is a subjective matter, as is the question about if the tax gets badly allocated or not.
+).
+att(19379, 19286).
+
+arg(19265).
+text(19265, If It was up to society the allocation would be simply wrong. E.g.: Nobody would pay for politicians who get their salary from taxes; or for military; or probably would overpay shelters. So, lazy people will get lazier and strong would loose motivation. That's socialism, lol).
+att(19265, root).
+
+arg(19232).
+text(19232, Voluntary participation is a good way to source genuine motivation. ).
+support(19232, root).
+
+arg(19266).
+text(19266, I think that is what we already have in the USA ).
+att(19266, 19074).
+
+arg(19101).
+text(19101, The British government does this with small portions of tax income. On certain collection forms you can put essentially "I'd like my five quid to go to ____". This resulted in a net increase in people paying taxes.).
+support(19101, root).
+
+arg(19144).
+text(19144, The original statement does not include the assumption that paying taxes would be voluntary. Which is an property needed to call the action "charity").
+att(19144, 19066).
+
+arg(19066).
+text(19066, Then it would be charity, not taxes.).
+att(19066, root).
+
+arg(19074).
+text(19074, If those who pay the most taxes decide where those taxes go, then it creates a perpetual oligarchy, as they will only agree to put those taxes towards programs that help them secure more power. ).
+att(19074, 19072).
+
+arg(19072).
+text(19072, what is wrong with that?).
+att(19072, 19066).
+
+arg(19049).
+text(19049, Maybe only to certain degrees. Those that pay more taxes may have too much influence. 
+A certain percentage could be allocated with a certain percentage going to critical programs .).
+att(19049, root).
+
+arg(19048).
+text(19048, The public could vote with their taxes what programs get funded.).
+support(19048, root).
+

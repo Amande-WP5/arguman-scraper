@@ -1,33 +1,13 @@
 arg(root).
 text(root, The death penalty is wrong.).
 
-arg(7605).
-text(7605, It's wrong to respond to injustice with injustice. Killing is wrong  (a necessary condition to justify the death penalty), but it is also wrong to kill in response to killing. As a society we should above those who hurt us, rather than lower ourselves to their level of morality.).
-support(7605, root).
-
-arg(7392).
-text(7392, But inmates stay on death-row for many years, plenty of time whether to be found proven guilty or not.).
-att(7392, root).
-
-arg(13401).
-text(13401, The killing of a person is wrong and helps nobody.).
-support(13401, root).
-
-arg(9864).
-text(9864, just because it may be cheaper, does that make it not wrong?).
-att(9864, root).
-
-arg(7408).
-text(7408, Prisoners senteced to longer sentences should not be kept by taxers' money. It's cheaper to sentence them to death.).
-att(7408, root).
+arg(7417).
+text(7417, It is not possible to prove that it is wrong.  Wrongness is subjective.).
+att(7417, root).
 
 arg(7413).
 text(7413, A person should have the right to be found not guilty at any moment. Killing the person will destroy this right.).
 att(7413, 7392).
-
-arg(7417).
-text(7417, It is not possible to prove that it is wrong.  Wrongness is subjective.).
-att(7417, root).
 
 arg(7418).
 text(7418, It's actually not cheaper to sentence somebody to death. ).
@@ -45,13 +25,29 @@ arg(7609).
 text(7609, If that's true, then you can't prove that the person who is sentenced to death did anything wrong either. How do you justify retribution if you don't think anything can be considered right or wrong in a meaningful way?).
 att(7609, 7417).
 
-arg(7458).
-text(7458, It is generally accepted in Western philosophy that the killing of innocent people, or putting them at risk, is inherently wrong. Countries with the death penalty have in the past been demonstrated to have killed innocent people, the probability of this will never be zero, so the penalty is wrong.).
-att(7458, root).
+arg(18922).
+text(18922, If it is immoral for an individual to do something, then it is immoral for a collection of individuals to do the same thing. ).
+support(18922, root).
 
-arg(7610).
-text(7610, There are felons that cannot be rehabilitated (serial killers, people with mental disorders that have committed murder) and the death penalty should be considered for these groups as they suck up resources that would be better allocated elsewhere.).
-att(7610, root).
+arg(7605).
+text(7605, It's wrong to respond to injustice with injustice. Killing is wrong  (a necessary condition to justify the death penalty), but it is also wrong to kill in response to killing. As a society we should above those who hurt us, rather than lower ourselves to their level of morality.).
+support(7605, root).
+
+arg(13401).
+text(13401, The killing of a person is wrong and helps nobody.).
+support(13401, root).
+
+arg(7516).
+text(7516, It's still all up to how the money is spent, the data from the source you have linked, show us how uneffiecent the money is spent during death penalty trials and how it needs a change. Seems like death penalty is more expensive but it could be actually cheaper if done properly.).
+att(7516, 7486).
+
+arg(10064).
+text(10064, But the cost of keeping someone on death row is greater than holding them in standard incarceration.).
+att(10064, 7610).
+
+arg(7392).
+text(7392, But inmates stay on death-row for many years, plenty of time whether to be found proven guilty or not.).
+att(7392, 7294).
 
 arg(7460).
 text(7460, Source? How is keeping a criminal in a prison for many years while feeding then and providing them with a bed cheaper than killing them?).
@@ -65,29 +61,9 @@ arg(7470).
 text(7470, Wrongly imprisoned inmates are often ruled innocent decades after their original guilty sentence).
 att(7470, 7392).
 
-arg(7624).
-text(7624, Jesus christ. Jesus christ! What is wrong with you lol. what is the wro ng with question.).
-att(7624, root).
-
 arg(7473).
 text(7473, It depends on how the prisoner is killed. There are many cheap ways.).
 att(7473, 7418).
-
-arg(7574).
-text(7574, It's ineffective at reducing crime rate. It is the heaviest (scariest) sentence, but the US keeps its crime rate as one of the highest in the developed world.).
-support(7574, root).
-
-arg(8969).
-text(8969, There is no line. I'm saying retribution is categorically wrong. The purpose of jail should not be to punish, but rather to separate dangerous people from the rest of society and reform when possible. There is no reason why they should have to suffer: punishment is petry and unproductive.).
-att(8969, root).
-
-arg(8971).
-text(8971, It gives the government the power to decide who lives and who dies. End of Story.).
-support(8971, root).
-
-arg(7316).
-text(7316, By whose judgement? Certain cultures have the death penalty as a punishment when breaking the law. To them, the death penalty is a right thing to do.).
-att(7316, root).
 
 arg(10606).
 text(10606, Because death penalty is ineffective, doesn't mean it's wrong, unless everything that is ineffective is wrong.).
@@ -116,25 +92,9 @@ arg(7486).
 text(7486, The majority of costs stem from processing the felon - not from the actual execution).
 att(7486, 7473).
 
-arg(7489).
-text(7489, how else would I gain all my power?).
-att(7489, root).
-
-arg(10064).
-text(10064, But the cost of keeping someone on death row is greater than holding them in standard incarceration.).
-att(10064, 7610).
-
 arg(10070).
 text(10070, If the assumption is made that 'wrong' is defined as that which causes a society the most harm, then it isn't subjective.).
 att(10070, 7417).
-
-arg(10075).
-text(10075, There is no mechanism which will allow  a person to be coerced into repaying the damage to society caused by the taking of life. Therefore, more harm to society is created by imprisonment, adding to the total harm. From a societal harm viewpoint, death is the most rational solution.).
-att(10075, root).
-
-arg(7516).
-text(7516, It's still all up to how the money is spent, the data from the source you have linked, show us how uneffiecent the money is spent during death penalty trials and how it needs a change. Seems like death penalty is more expensive but it could be actually cheaper if done properly.).
-att(7516, 7486).
 
 arg(10024).
 text(10024, This is largely to mitigate the killing of someone who is innocent. Because we cannot take back this action, they try to be super careful about it. Even with this, there are still many posthumous pardons.).
@@ -152,7 +112,68 @@ arg(10404).
 text(10404, the money is spent into processing to prevent innocent executions. It is necessary and even with this, there are still cases being unearthed about executions of innocents.).
 att(10404, 7516).
 
+arg(9864).
+text(9864, just because it may be cheaper, does that make it not wrong?).
+att(9864, 7408).
+
+arg(7458).
+text(7458, It is generally accepted in Western philosophy that the killing of innocent people, or putting them at risk, is inherently wrong. Countries with the death penalty have in the past been demonstrated to have killed innocent people, the probability of this will never be zero, so the penalty is wrong.).
+att(7458, 7316).
+
+arg(7574).
+text(7574, It's ineffective at reducing crime rate. It is the heaviest (scariest) sentence, but the US keeps its crime rate as one of the highest in the developed world.).
+support(7574, root).
+
+arg(8971).
+text(8971, It gives the government the power to decide who lives and who dies. End of Story.).
+support(8971, root).
+
+arg(7316).
+text(7316, By whose judgement? Certain cultures have the death penalty as a punishment when breaking the law. To them, the death penalty is a right thing to do.).
+att(7316, root).
+
+arg(8969).
+text(8969, There is no line. I'm saying retribution is categorically wrong. The purpose of jail should not be to punish, but rather to separate dangerous people from the rest of society and reform when possible. There is no reason why they should have to suffer: punishment is petry and unproductive.).
+att(8969, 7766).
+
+arg(7489).
+text(7489, how else would I gain all my power?).
+att(7489, root).
+
 arg(13382).
 text(13382, There is irrefutable evidence of direct deterrence in the fact that dead people cannot kill again. What's to stop a life w/ out parole prisoner from killing someone else without harsher punishment?).
 att(13382, root).
+
+arg(7610).
+text(7610, There are felons that cannot be rehabilitated (serial killers, people with mental disorders that have committed murder) and the death penalty should be considered for these groups as they suck up resources that would be better allocated elsewhere.).
+att(7610, root).
+
+arg(7624).
+text(7624, Jesus christ. Jesus christ! What is wrong with you lol. what is the wro ng with question.).
+att(7624, root).
+
+arg(19517).
+text(19517, Killing to prevent killing is perfectly justifiable. While indirect prevention like fear of the death penalty may not be a factor, there is always direct prevention. A dead murderer cannot murder again.).
+att(19517, 7605).
+
+arg(7408).
+text(7408, Prisoners senteced to longer sentences should not be kept by taxers' money. It's cheaper to sentence them to death.).
+att(7408, root).
+
+arg(19553).
+text(19553, if i don't get punished for driving by train without a ticket i wouldn't buy a ticket...
+and many others would do too).
+att(19553, 10388).
+
+arg(19548).
+text(19548, There is no scientific definition of "wrong"and there is no agreement on the meaning. There is law. Law varies through time. I would prefer a law that did not demand a death penalty but allowed a convicted killer to choose medical death in place of extended prison time. Is my preference wrong).
+att(19548, root).
+
+arg(19524).
+text(19524, It can be less expensive than imprisonment).
+att(19524, root).
+
+arg(10075).
+text(10075, There is no mechanism which will allow  a person to be coerced into repaying the damage to society caused by the taking of life. Therefore, more harm to society is created by imprisonment, adding to the total harm. From a societal harm viewpoint, death is the most rational solution.).
+att(10075, root).
 

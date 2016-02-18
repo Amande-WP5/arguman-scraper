@@ -5,6 +5,12 @@ arg(11444).
 text(11444, More people died as a result of Hitler's decisions (Around 60 million), than they did under Stalin (Around 40 million). ).
 support(11444, root).
 
+arg(16822).
+text(16822, They didn't kill all these people, you have some hiperinflated casualties there.
+
+Hitler caused the "unlawful" (Our of the rules of war) death of ~12 millions during WW2, while Stalin killed a few thousand of political prisioners and caused the death of ~7 million of minorities and criminals.).
+att(16822, root).
+
 arg(11607).
 text(11607, This comparison overlaps. Russia's casualties in WWII are attributed to both, making this a strange comparison. Realistically, only Germany's casualties (and possibly Austria's) should be attributed to Hitler, not that of every nation involved.).
 att(11607, 11444).
@@ -12,4 +18,28 @@ att(11607, 11444).
 arg(12321).
 text(12321, My argument is that by invading Poland, Hitler pushed the world into conflict and as a result, you could attribute the losses of all sides to his action, at least in the European theatre. I can see your point though, and I can see why my point is a bit shaky. ).
 att(12321, 11607).
+
+arg(18127).
+text(18127, The argument is pointless without a useful definition of "better" in this context.).
+att(18127, root).
+
+arg(18142).
+text(18142, Stalin didn't have anything near dictatorial power. That's attributable more to cult of personality than historical fact. Legislative authority rested in the Supreme Soviet, which consisted of approx. 2000 members with an equal vote. Even the Central Committee always had more than 33 people.).
+att(18142, 17615).
+
+arg(18143).
+text(18143, The new definition of better is now "better at dancing". Who was better at dancing?).
+att(18143, 18127).
+
+arg(17615).
+text(17615, One was a communist -a bloody dictator still, and the other was a racist).
+support(17615, root).
+
+arg(16825).
+text(16825, Leaders are not "better" or "worse" accordingly to how many they killed.
+
+Hitler killed jews, homossexuals, communists, social-democrats, POW's of war and caused WW2
+
+Stalin killed criminals, reactionaries, communists, minorities which sided with the nazis and any germans they found.).
+att(16825, root).
 

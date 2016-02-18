@@ -1,0 +1,43 @@
+arg(root).
+text(root, Money (Currency)).
+
+arg(18036).
+text(18036, Eases the sale of illegal drugs and weaponry).
+att(18036, root).
+
+arg(18037).
+text(18037, Creates perverse anti-social incentives).
+att(18037, root).
+
+arg(18034).
+text(18034, Allows accumulation of social power until conditions of severe inequality emerge).
+att(18034, root).
+
+arg(18071).
+text(18071, Yes. As long as the framework for capitalist relations still exist, money (a currency suited to capitalism) allows for the accumulation and *circulation* of capital i.e enables capital to be liquidated into monetary form, enables the sale of commodities, and the purchase of labour-power.).
+att(18071, 18062).
+
+arg(18035).
+text(18035, Distorts the democratic process.).
+att(18035, root).
+
+arg(18062).
+text(18062, It is the aggregation of power at the source of the currency? Would this still be true of a currency that was not issued and/or regulated by a central authority?).
+att(18062, 18034).
+
+arg(18007).
+text(18007, because we need to trade with each other.).
+support(18007, root).
+
+arg(19274).
+text(19274, This is only applicable to population who has no access to banking system.).
+att(19274, 18007).
+
+arg(19273).
+text(19273, We can also trade with cashless transactions: Currency is not needed.).
+att(19273, 18007).
+
+arg(19272).
+text(19272, When currency is moved across national borders, it is difficult to trace.).
+support(19272, 18036).
+

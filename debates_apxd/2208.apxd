@@ -1,15 +1,52 @@
 arg(root).
 text(root, The most pressing and harmful issues facing Western nations now could have been avoided entirely if women were never given the vote. ).
 
+arg(16792).
+text(16792, No. The economic crisis would have happened, women with vote or not. Daesh wasn't voted in by women. Fascism and National Conservatism isn't on the rise because women can vote. The refugees and the reaction to the refugees has nothing to do with women. Idiots like Trump don't get as many votes from ).
+att(16792, root).
+
+arg(16744).
+text(16744, Giving women the right to vote makes a country more democratic ).
+att(16744, root).
+
+arg(16795).
+text(16795, And are both unavoidable with the economic development.).
+support(16795, 16741).
+
+arg(16793).
+text(16793, Democracy isn't equal to avoiding unavoidable systemic crisis and development of new forms of family, all linked inevitably to the development of economy and the rise of neo-liberalism.
+How he linked the problems Europe, USA and neoliberal capitalism created, to women votes, I have no fucking idea.).
+att(16793, 16744).
+
 arg(14667).
 text(14667, Pushing women to enter the workforce was also a mistake that could have avoided a lot of government overreach. Our economy is dependent on HR and other sorts of fields that are dominated by women. Our schools have to act as a daycare for the children without their mom to care for them. ).
 support(14667, root).
 
-arg(14651).
-text(14651, Women voting caused the sizable expansion of the state, it's spending, it's breaking up of the family through welfare creating single mothers - the single biggest predictor of life failure, mental health issues and antisocial repercussions to society).
-support(14651, root).
+arg(16766).
+text(16766, Women working and women voting are not the same thing. Yes, there is a correlation, but the vote came after a good chunk were working, not before.).
+att(16766, 14666).
+
+arg(16743).
+text(16743, Welfare does not create single mothers ).
+att(16743, 14651).
+
+arg(16742).
+text(16742, Not every child and old person has a woman who could take care of them if they weren't working ).
+att(16742, 14666).
+
+arg(16741).
+text(16741, Women voting and women working are different things ).
+att(16741, 14667).
+
+arg(16740).
+text(16740, Women entering the workforce increases productivity of a nation).
+att(16740, 14667).
 
 arg(14666).
 text(14666, Same thing with trying to get women into the workplace. Our economy was strong and we didn't need the government to take care of our kids, sick, or elderly for us.).
 support(14666, 14651).
+
+arg(14651).
+text(14651, Women voting caused the sizable expansion of the state, it's spending, it's breaking up of the family through welfare creating single mothers - the single biggest predictor of life failure, mental health issues and antisocial repercussions to society).
+support(14651, root).
 

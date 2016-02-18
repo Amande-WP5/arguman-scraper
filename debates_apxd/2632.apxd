@@ -1,0 +1,39 @@
+arg(root).
+text(root, The death penalty is acceptable in some cases).
+
+arg(18871).
+text(18871, The death penalty is something that you cannot undo if later proven innocent. Courts are not perfect, so it absolutely WILL happen that innocents are executed. History showed that this is true.).
+att(18871, root).
+
+arg(18269).
+text(18269, Only in the most extreme cases could it be considered. There needs to be absolute irrefutable evidence of guilt and no chance of personal reform of the guilty person. The execution of warcriminals after WW2 is an example of when it can be considered.).
+att(18269, root).
+
+arg(18228).
+text(18228, The only reason I can agree with this is because of the "some cases" part. If one could, for example, guarantee with 100% accuracy that someone murdered their parents in cold blood, this would be a fairly good candidate for the death penalty.).
+support(18228, root).
+
+arg(18198).
+text(18198, The death penalty is a barbaric waste of time and money, and court systems are not perfect.).
+att(18198, root).
+
+arg(18437).
+text(18437, I'm not sure that I agree with your conclusion. The people who did so would be absolved of guilt because they did not make the decision; society at large would have condemned the person to death, not the executioner, who acts amorally, not immorally.).
+att(18437, 18304).
+
+arg(18304).
+text(18304, But even if you think that someone deserves to be killed, if you have people kill them in turn (directly or indirectly), the total number of people who have killed someone goes up. ).
+att(18304, 18228).
+
+arg(18187).
+text(18187, ).
+att(18187, root).
+
+arg(19302).
+text(19302, 
+Bob locks Alice in his basemet for years(100% sure, cold blood).
+Is the penalty to jail Bob acceptable?
+
+"But even if you think that someone deserves to be caged, if you have people cage them in turn (directly or indirectly), the total number of people who have caged someone goes up." (?)).
+att(19302, 18304).
+

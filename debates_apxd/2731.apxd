@@ -1,0 +1,337 @@
+arg(root).
+text(root, Internment education/work camps should be created for unknown/uneducated immigrants, migrants and refugees to effectively assimilate.).
+
+arg(19439).
+text(19439, Assimilate to what? Why would it be valuable to try to "assimilate" people.).
+att(19439, root).
+
+arg(19428).
+text(19428, they'd get no money (?)).
+att(19428, 19384).
+
+arg(19427).
+text(19427, thx :)).
+support(19427, 19383).
+
+arg(19339).
+text(19339, The racism would've existed with or without the camps.).
+att(19339, 19330).
+
+arg(19334).
+text(19334, Historically, isolation causes more, not less tension.).
+att(19334, 19322).
+
+arg(19358).
+text(19358, Citing the contention you put:
+
+
+
+"[...] to effectively assimilate"
+
+
+
+How are you not arguing that segregating people into education camps would help the assimilate?).
+att(19358, 19354).
+
+arg(19359).
+text(19359, Intent doesn't matter if the outcome is the same. In both cases they end up in internment camps separated from the rest of society.).
+att(19359, 19355).
+
+arg(19395).
+text(19395, Gathering all the xenophobes in the same place (even low level xenophobes), seem very dangerous to me.
+There is a great chance they will confirm their bias each others, and become a worse kind of associated xenophobes.).
+att(19395, 19393).
+
+arg(19394).
+text(19394, I think crimes which aren’t enough serious to put someone in prison, should not force people to leave their house to go in a camp, it would surely make those people lose their jobs, create a lot of difficulties if there are children, etc…).
+att(19394, 19391).
+
+arg(19393).
+text(19393, It wouldn't only be for criminals, it would only be mandatory for low level xenophobic criminals.
+).
+att(19393, 19386).
+
+arg(19392).
+text(19392, Ok, sorry i just learned that it was a translation problem, in my language "crime" mean the worst kind of crimes (murders, war crimes, etc…)).
+att(19392, 19391).
+
+arg(19391).
+text(19391, Most crimes don't and shouldn't result in prison time.
+).
+att(19391, 19385).
+
+arg(19390).
+text(19390, There's evidence that low skilled immigrants help the economy, not unskilled.
+).
+att(19390, 19381).
+
+arg(19388).
+text(19388, We have no evidence that the camps would be any different. Especially given the general hostility to immigrants as of late.).
+att(19388, 19387).
+
+arg(19387).
+text(19387, The camps would not be the same at all, then the outcome can be very different.).
+att(19387, 19359).
+
+arg(19386).
+text(19386, If it is only for criminals, the original purpose is lost.).
+att(19386, 19364).
+
+arg(19385).
+text(19385, People that commit crimes should be put in prison.).
+att(19385, 19364).
+
+arg(19384).
+text(19384, What if someone don’t want to work and want to stay in the camp ?).
+att(19384, 19327).
+
+arg(19383).
+text(19383, By adding a line break the display is better:
+(one line break)
+- a
+- b
+
+(two line break)
+
+
+- a
+- b).
+att(19383, 19345).
+
+arg(19381).
+text(19381, And there's also evidence that the immigration of unskilled workers helps the economy, long-term.).
+support(19381, 19374).
+
+arg(19376).
+text(19376, Xenophobia is expressed by all types of people. I'm thinking globally not just U.S. but yes. People that have committed xenophobic crimes to a certain degree could serve time in an assimilation camp.).
+att(19376, 19372).
+
+arg(19375).
+text(19375, Others don’t have to face any standard to be let in.).
+att(19375, 19342).
+
+arg(19374).
+text(19374, I don’t think only allowing permanent residence for educated and skilled people to to be a good thing at all.
+That drains the poor countries from their investment in education, and don’t help the really poor people that need to get some help now.).
+att(19374, 19324).
+
+arg(19354).
+text(19354, I'm not arguing secluding them from society would help them assimilate. I'm arguing educating and training them to become citizens would help them.
+Isolating xenophobes would protect them and the public from hostility and help assimilation.).
+att(19354, 19351).
+
+arg(19355).
+text(19355, Hostile incarceration into internment camps is not the same as helping people assimilate into society through internment camps.).
+att(19355, 19351).
+
+arg(19372).
+text(19372, You realize xenophobia is on the part of the citizens, right? You're suggesting putting US citizens in a reeducation camp.).
+att(19372, 19364).
+
+arg(19364).
+text(19364, Maybe only people that commit crimes related to xenophobia should be made to serve a certain time in an assimilation camp.
+).
+att(19364, 19357).
+
+arg(19362).
+text(19362, A certain percentage may have faced more hostility outside of the camps.).
+att(19362, 19356).
+
+arg(19361).
+text(19361, "Assimilation helps them become a part of culture and society"
+
+So we should allow them into society, and not put them in their own special, segregated area. Even if I thought this was a good idea, I still think it's unconstitutional.).
+att(19361, 19338).
+
+arg(19360).
+text(19360, What evidence do we have that it would have been better with the camps? And even if we had evidence, does that give us the right to intentionally segregate people?).
+att(19360, 19339).
+
+arg(19357).
+text(19357, The 14th amendment defines freedom of travel as the right to move between these united states. Inmates are different because they're in violation of the law, where immigrants are not. The last one is because you dont meet the job requirements (being voted in), not because you're being stopped by gov).
+att(19357, 19353).
+
+arg(19356).
+text(19356, Again, I'm going to cite America's Japanese internment camps, which had the *exact opposite effect* you're describing, in a very similar situation.).
+att(19356, 19340).
+
+arg(19353).
+text(19353, People are still subject to laws. 
+I cannot freely travel to Australia, freely associate with inmates or have the right to work as their prime minister.).
+att(19353, 19352).
+
+arg(19352).
+text(19352, Freedom to travel, freedom of association, rights to work).
+att(19352, 19347).
+
+arg(19351).
+text(19351, There's no evidence that secluding them from society would help them assimilate, and there's historical evidence to the contrary.).
+att(19351, 19344).
+
+arg(19350).
+text(19350, Because they're having restrictions on travel and working rights that others do not have.).
+att(19350, 19343).
+
+arg(19349).
+text(19349, Note that liberty was included among the things that won't be abridged. Limiting travel sounds like a breach of liberty to me.).
+att(19349, 19346).
+
+arg(19348).
+text(19348, Evidence please. And compared to who?).
+att(19348, 19342).
+
+arg(19347).
+text(19347, What rights would be violated?).
+att(19347, 19332).
+
+arg(19346).
+text(19346, They have some basic rights but not civil rights.).
+att(19346, 19331).
+
+arg(19344).
+text(19344, They are mostly fleeing from much greater, real oppression and would be offered a chance to effectively assimilate into free civil society. ).
+att(19344, 19335).
+
+arg(19343).
+text(19343, Why would they not have equal protection under law ?).
+att(19343, 19314).
+
+arg(19342).
+text(19342, The problem is they haven't been "determined they're qualified enough to let in", not to a high enough standard that others have to face.).
+att(19342, 19333).
+
+arg(19340).
+text(19340, It depends on the grounds of the isolation. 
+Isolation from hostility causes less, not more tension.).
+att(19340, 19334).
+
+arg(19338).
+text(19338, People already think that way. They are from another culture and society, they are "the other". Assimilation helps them become a part of culture and society, instead of being viewed as "the other".
+Seeing people before and after assimilation camp completion could reduce that view.).
+att(19338, 19328).
+
+arg(19365).
+text(19365, Only the xenophobic should be interned. Others could have access as an option.).
+att(19365, root).
+
+arg(19327).
+text(19327, Only people that have passed assimilation and citizenship tests should be allowed to leave, unless they choose deportation.).
+att(19327, 19287).
+
+arg(19326).
+text(19326, The camps could be like micro towns (maybe with local currency), where they work to serve each other and maintain the camp. These skills will then transfer over to society.).
+att(19326, 19287).
+
+arg(19323).
+text(19323, Certain rights do and should only apply to citizens. Once they pass a citizenship test they can have full civil rights.).
+att(19323, 19314).
+
+arg(19318).
+text(19318, How?).
+att(19318, 19207).
+
+arg(19317).
+text(19317, How does keeping people in a segregated area help them assimilate?).
+att(19317, 19206).
+
+arg(19401).
+text(19401, Allowing unskilled workers to immigrate reduces the incentive to move jobs offshore. This keeps larger portions of the economy within the nation, and allows for slightly more prosperity.).
+att(19401, 19390).
+
+arg(19389).
+text(19389, What's not good about only letting a certain level of educated/skilled people?
+How does it drain poor countries from their investment in education?
+How does educating and training poor people not help poor people?
+).
+att(19389, 19374).
+
+arg(19345).
+text(19345, they could sort the waste for recycling (not because it is dirty work but because it is easy to learn)
+
+
+- it would give them jobs that would be useful for society
+
+
+- they could switch job if educaded (e.g. cooking for the workers, coordinating the workes, repair stuff)).
+att(19345, 19287).
+
+arg(19335).
+text(19335, On the other hand, it also delays their assimilation into larger society. And if they feel they're being oppressed (which they likely would) this would make them more resentful of the society, and less likely to integrate with it.).
+att(19335, 19320).
+
+arg(19333).
+text(19333, "Many countries only allow permanent residence for educated and skilled people and reject criminals."
+
+But these people have already been let in. If you've determined they're qualified enough to let in, why put them through internment?).
+att(19333, 19324).
+
+arg(19331).
+text(19331, Except that's not quite true. Many rights, such as those defined in the first and fourth amendment, are not specified towards citizens. And this is likely a violation of the Equal Protection clause [1]. Note that it does not say "citizen" in this part of the text, but "any person".).
+att(19331, 19323).
+
+arg(19332).
+text(19332, You can make a similar justification for violating nearly any right. "It wouldn't be permanent" is not a justification for violating people's rights.).
+att(19332, 19324).
+
+arg(19330).
+text(19330, We can see an example of this when Japanese-Americans were put into internment camps. After they were released, there was *horrible* racism towards them for a long while afterwards.).
+support(19330, 19328).
+
+arg(19209).
+text(19209, Xenophobic people should not be allowed to work there.).
+att(19209, root).
+
+arg(19314).
+text(19314, This would not give them several constitutional rights, including the right to travel, and the right to equal protection under the law.).
+att(19314, root).
+
+arg(19208).
+text(19208, They should work to maintain the camps.).
+att(19208, root).
+
+arg(19207).
+text(19207, It would protect them and the country from hostility on both sides.).
+support(19207, root).
+
+arg(19316).
+text(19316, Wouldn't it be hypocritical for a "free society" to force people into labor camps?).
+att(19316, root).
+
+arg(19315).
+text(19315, This would encourage xenophobia.).
+att(19315, root).
+
+arg(19328).
+text(19328, It encourages people to think of them as "the other".).
+att(19328, 19321).
+
+arg(19324).
+text(19324, It wouldn't be permanent internment. Free society is for citizens. Many countries only allow permanent residence for educated and skilled people and reject criminals. Similar standards should be set for those addressed here.).
+att(19324, 19316).
+
+arg(19322).
+text(19322, Both sides won't be in contact with hostile xenophobes on the opposite side.).
+att(19322, 19318).
+
+arg(19321).
+text(19321, How?).
+att(19321, 19315).
+
+arg(19320).
+text(19320, Education and practice. Teaching them how to assimilate before they assimilate will help them assimilate.).
+att(19320, 19317).
+
+arg(19206).
+text(19206, It would help assimilation.).
+support(19206, root).
+
+arg(19287).
+text(19287, Can you tell more about the proposition ?
+
+- What would be the works ?
+
+- Who pays and get pays ?
+
+- Would it be something they can decide to do, or something they should do to stay ?).
+att(19287, root).
+

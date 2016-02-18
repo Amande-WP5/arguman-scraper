@@ -1,0 +1,45 @@
+arg(root).
+text(root, It is better to be happy than to know the truth).
+
+arg(18022).
+text(18022, Having knowledge of the truth enables better decision-making, which will lead to increased future happiness. The two concepts aren't necessarily opposed.).
+att(18022, root).
+
+arg(17937).
+text(17937, Knowing truth is generally necessary to be happy durably.).
+att(17937, root).
+
+arg(17991).
+text(17991, placebo-effect).
+support(17991, root).
+
+arg(17983).
+text(17983, Without approximating which "truth" is considered in premise, it is meaningless.
+
+Otherwise it can be argued that, eg. NOT knowing the truth about whether your bottle of water is not poisoned might make you quite unhappy.).
+att(17983, 17935).
+
+arg(17979).
+text(17979, This would be your personal stance.).
+att(17979, 17935).
+
+arg(18457).
+text(18457, There is no explanation given. Explain.).
+att(18457, 17991).
+
+arg(18043).
+text(18043, We can give some warnings about how usually not knowing the truth leads to unhappiness, but fundamentally the question is about values, which are inherently personal.).
+att(18043, 17979).
+
+arg(17935).
+text(17935, Knowing the truth is not one of my terminal values.).
+support(17935, root).
+
+arg(18042).
+text(18042, I am unsure i correctly understand your premise, but for the second part, it make "knowing the truth" a instrumental value.).
+att(18042, 17983).
+
+arg(17936).
+text(17936, Knowing truth is important to make others more happy, even if you are already happy.).
+att(17936, root).
+

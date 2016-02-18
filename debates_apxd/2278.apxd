@@ -1,11 +1,6 @@
 arg(root).
 text(root, ISIS wants Christians and Muslims to fight a war).
 
-arg(15231).
-text(15231, Nice clickbait title. EDIT: no longer clickbait
-).
-att(15231, root).
-
 arg(15840).
 text(15840, Not until they are done killing the Shi'a.).
 att(15840, root).
@@ -13,6 +8,11 @@ att(15840, root).
 arg(15278).
 text(15278, This is the philosophy section, not religion. GTFO.).
 att(15278, root).
+
+arg(15231).
+text(15231, Nice clickbait title. EDIT: no longer clickbait
+).
+att(15231, root).
 
 arg(15224).
 text(15224, One can almost see the Islamic State’s top ideologues and propagandists celebrating. And why not? Muslims the world over, which Isis views (wrongly) as a sea of potential recruits, could be forgiven for viewing the Republican rhetoric as a declaration of holy war against their co-religionists.).

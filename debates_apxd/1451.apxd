@@ -17,6 +17,10 @@ arg(10148).
 text(10148, Sports in general can have negative health effects, such as accidental injury. ).
 att(10148, 7020).
 
+arg(12195).
+text(12195, Special Pleading. You accept that players will exceed regulations to gain an edge in sports where steroids are banned. Yet you don't think players would exceed regulations when the policy is to allow a small dose of steroids.).
+att(12195, 7038).
+
 arg(10152).
 text(10152, There would be no need to mandate steroids.  In order for athletes to stay competitive the vast majority of athletes would opt into steroid use in an unregulated environment.).
 att(10152, root).
@@ -24,8 +28,4 @@ att(10152, root).
 arg(10174).
 text(10174, What if an athlete takes more steroids than they are supposed to take -- or different, more powerful steroids that the league didn't mandate? Should we then create another league for those who take more steroids than those in the steroid league?).
 att(10174, root).
-
-arg(12195).
-text(12195, Special Pleading. You accept that players will exceed regulations to gain an edge in sports where steroids are banned. Yet you don't think players would exceed regulations when the policy is to allow a small dose of steroids.).
-att(12195, 7038).
 

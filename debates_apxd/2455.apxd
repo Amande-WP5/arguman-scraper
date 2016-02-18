@@ -1,0 +1,15 @@
+arg(root).
+text(root, The copyright length should be reduced from 70 years after the creators death to 20 years after the creation is publicly available).
+
+arg(16748).
+text(16748, It hinders the development of new, interesting cultural expressions).
+support(16748, root).
+
+arg(17783).
+text(17783, This reduces the incentive to create new [thing], as someone else can immediately steal it for their own profit.).
+att(17783, 17776).
+
+arg(17776).
+text(17776, If that's true, which I agree that it is, then copyright should actually be reduced to zero years. ).
+att(17776, 16748).
+

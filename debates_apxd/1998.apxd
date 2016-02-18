@@ -1,13 +1,17 @@
 arg(root).
 text(root, Karma (the idea that an action positive or negative will eventually have a reciprictive effect) exists as the fifth dimension (assuming time as the fourth).).
 
-arg(13354).
-text(13354, The morality of the action may have no significance but instead the action itself. Letting someone merge into your lane in heavy traffic would be positive for the person merging but negative for the person behind you. The universe would pay you in kind for both.).
-att(13354, root).
+arg(18379).
+text(18379, This conflicts with the concept that the substances of the universe are unaware of what humans like and dislike.).
+att(18379, root).
 
 arg(13293).
 text(13293, Who dictates whether an action is bad or good? And to whom is it bad or good for?).
 att(13293, root).
+
+arg(13354).
+text(13354, The morality of the action may have no significance but instead the action itself. Letting someone merge into your lane in heavy traffic would be positive for the person merging but negative for the person behind you. The universe would pay you in kind for both.).
+att(13354, 13293).
 
 arg(13294).
 text(13294, When you have an opinion on whether something is good or bad, and you expect something to happen thereafter - you have succumbed to the confirmation bias.).

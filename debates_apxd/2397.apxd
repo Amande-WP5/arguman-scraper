@@ -5,11 +5,11 @@ arg(16088).
 text(16088, to do what?).
 att(16088, root).
 
-arg(16058).
-text(16058, There are situations when our senses mislead us).
-att(16058, root).
-
 arg(16057).
 text(16057, They allow us to navigate in our environment well).
 support(16057, root).
+
+arg(16058).
+text(16058, There are situations when our senses mislead us).
+att(16058, 16057).
 

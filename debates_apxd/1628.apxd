@@ -1,21 +1,6 @@
 arg(root).
 text(root, everything we do is selfish).
 
-arg(8884).
-text(8884, In a way, (because) basic survival requires one to eventually take a portion of a pool of limited resources (food, housing, money etc.) to use on themselves instead of giving it to another.).
-support(8884, root).
-
-arg(8906).
-text(8906, Even our most charitable actions are a means to certain kind of personal happiness and satisfaction. 
-
-
- ).
-support(8906, root).
-
-arg(9113).
-text(9113, Altruism is the most intelligent form of egoism.).
-support(9113, root).
-
 arg(9593).
 text(9593, Being selfish means caring for only yourself. If when you act it is for the well being of others as well as yourself it is not selfish.).
 att(9593, root).
@@ -32,4 +17,19 @@ att(9598, 8906).
 arg(9599).
 text(9599, If you take for yourself and leave some with others in mind it is not selfish.).
 att(9599, 8884).
+
+arg(8884).
+text(8884, In a way, (because) basic survival requires one to eventually take a portion of a pool of limited resources (food, housing, money etc.) to use on themselves instead of giving it to another.).
+support(8884, root).
+
+arg(8906).
+text(8906, Even our most charitable actions are a means to certain kind of personal happiness and satisfaction. 
+
+
+ ).
+support(8906, root).
+
+arg(9113).
+text(9113, Altruism is the most intelligent form of egoism.).
+support(9113, root).
 

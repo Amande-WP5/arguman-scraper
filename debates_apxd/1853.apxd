@@ -1,22 +1,6 @@
 arg(root).
 text(root, all public restrooms should be unisex restrooms).
 
-arg(11781).
-text(11781, Your altered example is exactly what I meant. Actions that are OK and actions that SHOULD be done are NOT equivalent. There are many things that are OK for you to do, this does not mean you SHOULD do them. This is all irrelevant to my original premise.).
-att(11781, root).
-
-arg(11662).
-text(11662, How many people want it is not relevant.).
-att(11662, root).
-
-arg(11525).
-text(11525, That's a strawman because it doesn't have to happen overnight. It can naturally transition as new bathrooms are built.).
-att(11525, root).
-
-arg(11527).
-text(11527, There's less chance of being inappropriately ogled. The vast majority of one gender is attracted to the other.).
-support(11527, root).
-
 arg(11407).
 text(11407, It can lead to sexual harassment).
 att(11407, root).
@@ -25,38 +9,65 @@ arg(11408).
 text(11408, It can eliminate discrimination on people outside the gender binary. ).
 support(11408, root).
 
-arg(11419).
-text(11419, why?).
-att(11419, root).
-
 arg(11432).
 text(11432, how does being spied by the same gender make it any better?).
-att(11432, root).
-
-arg(11545).
-text(11545, If most people do not want this then they shouldn't.).
-att(11545, root).
+att(11432, 11422).
 
 arg(11546).
 text(11546, Normal restrooms don't? ).
 att(11546, 11407).
 
-arg(11811).
-text(11811, most men don't know how frequently women get hit on by random strangers. Not to mention the risk of rape, this will make things easier and possibly provide temptation to act for people who don't have a lot of self control. 
-Would a woman dare go to a bathroom in a bar, a football game?).
-att(11811, root).
+arg(12236).
+text(12236, There won't be flirting because it would be awkward in a bathroom. And rape won't occur in a public bathroom with many other people in it, it might as well be at a police station if it does. ).
+att(12236, 11811).
 
-arg(11447).
-text(11447, It would reduce the cost and effort to create and maintain bathrooms.).
-support(11447, root).
+arg(11422).
+text(11422, One gender may not want to be spied on by another gender while using the bathroom.).
+support(11422, 11419).
+
+arg(11661).
+text(11661, Just because a transition would mean having to spend money it isn't an argument against it.).
+att(11661, 11453).
+
+arg(12713).
+text(12713, the following makes more sense if you're trying to prove your point: "if X is not OK, then X should not be done, according to the common interpretation of should not be". if we determine it's not okay to have separate bathrooms, then we shouldn't.).
+att(12713, 11741).
+
+arg(12025).
+text(12025, I can also say just because something is X means it should be Y. People outside the gender binary are not discriminated against. If I was born with male reproductive organs, I belong in a male bathroom. Whether or not I think I'm female is irrelevant. ).
+att(12025, 11748).
+
+arg(11548).
+text(11548, Well.. you can argue that the current restroom division has sexual harassment from people of the same sex. But with a unique restoom for both male and female, you would have the harassment that happens today PLUS the harassment involving male and female.).
+att(11548, 11546).
+
+arg(11781).
+text(11781, Your altered example is exactly what I meant. Actions that are OK and actions that SHOULD be done are NOT equivalent. There are many things that are OK for you to do, this does not mean you SHOULD do them. This is all irrelevant to my original premise.).
+att(11781, 11773).
+
+arg(11662).
+text(11662, How many people want it is not relevant.).
+att(11662, 11545).
+
+arg(11525).
+text(11525, That's a strawman because it doesn't have to happen overnight. It can naturally transition as new bathrooms are built.).
+att(11525, 11453).
+
+arg(11527).
+text(11527, There's less chance of being inappropriately ogled. The vast majority of one gender is attracted to the other.).
+support(11527, 11432).
+
+arg(11545).
+text(11545, If most people do not want this then they shouldn't.).
+att(11545, root).
+
+arg(11419).
+text(11419, why?).
+att(11419, 11376).
 
 arg(11815).
 text(11815, "OK" and "Should be done" indeed are  not equivalent in many cases.).
 support(11815, 11781).
-
-arg(11816).
-text(11816, Still, it does have Appeal to Authority. Your correction is irrelevant to the premise that stated your fallacy.).
-att(11816, root).
 
 arg(11453).
 text(11453, It wouldn't because you'd have to convert existing toilets to an accepted standard that implies no gender bias. ).
@@ -64,7 +75,7 @@ att(11453, 11447).
 
 arg(12099).
 text(12099, This is a moot point. Discrimination implies one bathroom is better than another. It doesn't matter what gender you identify as. People with gender identity disorders should not be catered to. They should be medicated).
-att(12099, root).
+att(12099, 12032).
 
 arg(11838).
 text(11838, Every unisex bathroom I've seen has urinals. Perhaps the French are weird in this, but that's all the experience I have with them.).
@@ -117,17 +128,9 @@ arg(12223).
 text(12223, You could, but arguing this, without even mentioning their religion, which is very related with this tradition, wouldn't be an reliable argument.).
 att(12223, 12216).
 
-arg(12705).
-text(12705, Consequences for going into the incorrect bathroom make it riskier. Yes, people could do it, but in my entire life I've never seen any grown person in the incorrect bathroom. It's easy enough to sneak in without being seen but extremely difficult to avoid being caught once you're inside.).
-att(12705, root).
-
 arg(12110).
 text(12110, Then what's stopping some creep from just walking into a women's bathroom and hiding in a stall and peering over the top?  Just putting a sign up isn't going to stop someone who already was going to creep on someone else?).
 att(12110, 11663).
-
-arg(12706).
-text(12706, See my "but" premise beneath hartleyharms' "but" premise, to the right).
-att(12706, root).
 
 arg(11610).
 text(11610, [Citation needed]).
@@ -143,7 +146,7 @@ att(11748, 11580).
 
 arg(12708).
 text(12708, You don't know how you would feel if you identified as a female; if you felt uncomfortable with your penis; if you felt uncomfortable around men using the bathroom. Try to imagine if you had to use the ladies room for your entire life.).
-att(12708, root).
+att(12708, 12025).
 
 arg(12710).
 text(12710, This doesn't mean we have to make all bathrooms unisex. We should allow transexuals to use the bathroom of their true gender (the one they identify as). I can't see how other people outside the binary could be affected by having binary bathrooms.).
@@ -180,14 +183,10 @@ text(12737, What we try to do by arguing on a subject, is to change the opinion 
 It become circular if you begin to insert the opinion of the majority to decide the opinion we should have on the subject.).
 att(12737, 11737).
 
-arg(12231).
-text(12231, good idea).
-support(12231, root).
-
 arg(12741).
 text(12741, "You should only take other people opinions in the last step"
 You should only take other people opinions INTO ACCOUNT in the last step).
-att(12741, root).
+att(12741, 12740).
 
 arg(12743).
 text(12743, It is so risky to rape or sexual harass someone in a public bathroom, that i don’t think the risk to be caught in the wrong bathroom really count.).
@@ -195,19 +194,44 @@ att(12743, 12705).
 
 arg(12371).
 text(12371, Men and women can enter both bathrooms. There is nothing stopping sexual harassment happening now. ).
-att(12371, root).
+att(12371, 11548).
 
 arg(12746).
 text(12746, Consequences for sexual harassment/ rape make it riskier. Yes, people could do it, but in my entire life I've never seen any grown person doing it. It's easy enough to set up a situation to do it without being seen but extremely difficult to avoid being caught once you're "inside".).
 att(12746, 12705).
 
-arg(12236).
-text(12236, There won't be flirting because it would be awkward in a bathroom. And rape won't occur in a public bathroom with many other people in it, it might as well be at a police station if it does. ).
-att(12236, 11811).
+arg(11816).
+text(11816, Still, it does have Appeal to Authority. Your correction is irrelevant to the premise that stated your fallacy.).
+att(11816, 11739).
+
+arg(12705).
+text(12705, Consequences for going into the incorrect bathroom make it riskier. Yes, people could do it, but in my entire life I've never seen any grown person in the incorrect bathroom. It's easy enough to sneak in without being seen but extremely difficult to avoid being caught once you're inside.).
+att(12705, 12110).
+
+arg(12706).
+text(12706, See my "but" premise beneath hartleyharms' "but" premise, to the right).
+att(12706, 12371).
+
+arg(11447).
+text(11447, It would reduce the cost and effort to create and maintain bathrooms.).
+support(11447, root).
+
+arg(12231).
+text(12231, good idea).
+support(12231, root).
 
 arg(11773).
 text(11773, You manipulated the phrase. The correct one should be: If it's ok "for me" to have a dog, I should have a dog. You have to keep both "ok" and "should be" structures the same, it wouldn't make any sense otherwise.).
 att(11773, 11755).
+
+arg(12032).
+text(12032, A quick search and one can find there are discrimation on the topic of people outside the gender binary using restrooms.).
+att(12032, 12025).
+
+arg(12740).
+text(12740, It is not a appeal to authority, in this case, he think it is better to do what people want, because it satisfies more people, not because the majority is right.
+The problem is that if people want what the majority want it become circular. You should only take other people opinions in the last step).
+att(12740, 11738).
 
 arg(11372).
 text(11372, it is a useless differentiation).
@@ -217,32 +241,8 @@ arg(11376).
 text(11376, All unisex bathrooms should only have 1 toilet or urinal.).
 att(11376, root).
 
-arg(11548).
-text(11548, Well.. you can argue that the current restroom division has sexual harassment from people of the same sex. But with a unique restoom for both male and female, you would have the harassment that happens today PLUS the harassment involving male and female.).
-att(11548, 11546).
-
-arg(12025).
-text(12025, I can also say just because something is X means it should be Y. People outside the gender binary are not discriminated against. If I was born with male reproductive organs, I belong in a male bathroom. Whether or not I think I'm female is irrelevant. ).
-att(12025, 11748).
-
-arg(12713).
-text(12713, the following makes more sense if you're trying to prove your point: "if X is not OK, then X should not be done, according to the common interpretation of should not be". if we determine it's not okay to have separate bathrooms, then we shouldn't.).
-att(12713, 11741).
-
-arg(12740).
-text(12740, It is not a appeal to authority, in this case, he think it is better to do what people want, because it satisfies more people, not because the majority is right.
-The problem is that if people want what the majority want it become circular. You should only take other people opinions in the last step).
-att(12740, 11738).
-
-arg(11661).
-text(11661, Just because a transition would mean having to spend money it isn't an argument against it.).
-att(11661, 11453).
-
-arg(11422).
-text(11422, One gender may not want to be spied on by another gender while using the bathroom.).
-support(11422, 11419).
-
-arg(12032).
-text(12032, A quick search and one can find there are discrimation on the topic of people outside the gender binary using restrooms.).
-att(12032, 12025).
+arg(11811).
+text(11811, most men don't know how frequently women get hit on by random strangers. Not to mention the risk of rape, this will make things easier and possibly provide temptation to act for people who don't have a lot of self control. 
+Would a woman dare go to a bathroom in a bar, a football game?).
+att(11811, root).
 

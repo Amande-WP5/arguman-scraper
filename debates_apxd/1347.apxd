@@ -1,85 +1,85 @@
 arg(root).
 text(root, The United States should continue running on capitalism).
 
-arg(6238).
-text(6238, Disbarring free association between those in Government and those who own Capital, and vice-versa, is also inherently anti-democratic.).
-att(6238, root).
-
-arg(6306).
-text(6306, In a Free market allowing an expressway for corporations to make regulation to their benefit effectively kills the free  market.  propping up one current company can kill a company before it is even created).
-att(6306, 6238).
-
 arg(5908).
 text(5908, only with capitalism have we witnessed large growth in personal well being).
 support(5908, root).
-
-arg(6486).
-text(6486, Not everyone have the same opportunity to produce equal work. A child of a poor man has less opportunities to go to a good university which would affect his income in the future.).
-att(6486, root).
-
-arg(7241).
-text(7241, StarTrek already has us covered).
-att(7241, root).
-
-arg(6316).
-text(6316, This definition of socialism is wrong. Socialism is broadly defined as the cooperative ownership of the means of the productions by the workers, as opposed to the ownership of the means of production by "capitalists".).
-att(6316, root).
-
-arg(6496).
-text(6496, Comparing a middle class Capitalist in America to a middle class Socialist in most socialist countries results in the American living better.).
-att(6496, root).
 
 arg(5923).
 text(5923, a focus needs to be made to end corruption, corruption hurts capitalism).
 att(5923, root).
 
-arg(6505).
-text(6505, GDP provides limited insight into the health of a society and economy, other measures should be consulted.).
-att(6505, root).
-
-arg(6164).
-text(6164, Government-Corporate corruption is largely possible because the two freely intermix. Ex-Government officials take up highly salaried positions on corporate boards, using their contacts to influence the laws affecting the company. This is incompatible with Democracy. Reasonably stopping this is hard.).
-att(6164, root).
+arg(6306).
+text(6306, In a Free market allowing an expressway for corporations to make regulation to their benefit effectively kills the free  market.  propping up one current company can kill a company before it is even created).
+att(6306, 6238).
 
 arg(6512).
 text(6512, 40% of Americans identify themselves to be within the lower class, so we cannot simply represent all Americans as the middle class.).
 att(6512, 6496).
 
-arg(6800).
-text(6800, America is not strictly capitalist. Social programs such as Medicaid, Social Security, and Medicare, government-sponsored projects like federal highways and pollution control and food control are in place in America, and those make this country a Democratic Socialist state with a capitalist economy.).
-att(6800, root).
+arg(6180).
+text(6180, This is the point of the original premise.  allow the free market to thrive making laws to keep the government out of business and business out of the government.   ).
+att(6180, 6164).
 
-arg(6028).
-text(6028, regardless of the wealth gap, our median GDP is still world class).
-att(6028, root).
+arg(5969).
+text(5969, There is a large gap between the most advantaged and disadvantaged, although this could still be said of many other societal ideologies.).
+att(5969, 5908).
 
-arg(6524).
-text(6524, There are ways to eliminate or mitigate regulatory capture without eliminating regulation as a concept altogether. There are a variety of examples of regulation that is necessary, and likewise examples of the unnecessary.).
-att(6524, root).
+arg(7217).
+text(7217, Every socialist country had a dramatically lower GDP per capita than the United States at the time of that country's transition to socialism.This renders the current standard of living irrelevant, and only the annual growth in median wealth is worth considering.).
+att(7217, 6496).
+
+arg(6597).
+text(6597, This comparison is hardly indicative of the effectiveness of either economic model as a top capitalistic nation is being compared to a poorly defined 'average' of socialist nations. Additionally the linked indices(frequently used to determine Quality of Life) are dominated by Socialist nations.).
+att(6597, 6496).
+
+arg(6238).
+text(6238, Disbarring free association between those in Government and those who own Capital, and vice-versa, is also inherently anti-democratic.).
+att(6238, 6180).
 
 arg(6279).
 text(6279, Socialism is the idea of equal pay for inequal work. If I were payed as much for sitting on my ass and doing only as much as I needed to keep my job as I were payed for working my ass off, I would do the first.).
 support(6279, root).
 
+arg(6486).
+text(6486, Not everyone have the same opportunity to produce equal work. A child of a poor man has less opportunities to go to a good university which would affect his income in the future.).
+att(6486, 6279).
+
+arg(7241).
+text(7241, StarTrek already has us covered).
+att(7241, 7228).
+
+arg(6316).
+text(6316, This definition of socialism is wrong. Socialism is broadly defined as the cooperative ownership of the means of the productions by the workers, as opposed to the ownership of the means of production by "capitalists".).
+att(6316, 6279).
+
+arg(6496).
+text(6496, Comparing a middle class Capitalist in America to a middle class Socialist in most socialist countries results in the American living better.).
+att(6496, 5969).
+
 arg(6804).
 text(6804, There is no other system that provides as much individual freedom, and most people want individual freedom.).
 support(6804, root).
 
-arg(6180).
-text(6180, This is the point of the original premise.  allow the free market to thrive making laws to keep the government out of business and business out of the government.   ).
-att(6180, 6164).
+arg(6505).
+text(6505, GDP provides limited insight into the health of a society and economy, other measures should be consulted.).
+att(6505, 6028).
 
 arg(6043).
 text(6043, only because of our race to innovate have other countries raced out of poverty once afforded even the smallest amount of freedom.  China would not have exploded out of poverty the way it has if not for the ability to take american mfg jobs).
 support(6043, root).
 
+arg(6028).
+text(6028, regardless of the wealth gap, our median GDP is still world class).
+att(6028, 5969).
+
+arg(6524).
+text(6524, There are ways to eliminate or mitigate regulatory capture without eliminating regulation as a concept altogether. There are a variety of examples of regulation that is necessary, and likewise examples of the unnecessary.).
+att(6524, 6111).
+
 arg(6545).
 text(6545, Capitalism is the product of attempting to satisfy our unlimited wants, and although  this does lead to geowth and prosperity, our resources are limited. Meaning that eventually they will be exhausted, or acquired at the expense of others, making it unsustainable.).
 att(6545, root).
-
-arg(5969).
-text(5969, There is a large gap between the most advantaged and disadvantaged, although this could still be said of many other societal ideologies.).
-att(5969, 5908).
 
 arg(6207).
 text(6207, For the past 45 years the bottom 90%'s wages have only grown 15% while productivity has increased by 74.4%. Contrastingly, the top 1%'s wages have grown 138%. Nearly all of the new income in the USA for the past 45 years because of capitalism has gone to the top 1%).
@@ -89,37 +89,19 @@ arg(7149).
 text(7149, A government (the US or any other) cannot "run" on capitalism as capitalism is a socio-economic system of voluntary exchange with respect for property rights, and government violates property rights, in the form of taxation, in order to exist.).
 att(7149, root).
 
-arg(6756).
-text(6756, The U.S. does not have capitalism, it has corporatism. A purely capitalistic system would not have such a strong merger between government and economy.).
-att(6756, root).
-
 arg(7160).
 text(7160, We could change the original contention and argue from here: 
 
 "The US should restrain itself from further predation on its tax livestock.").
 att(7160, 7149).
 
-arg(6386).
-text(6386, Capitalism comes about as the natural occurrence of people having the freedom to purchase capital in an environment where their investments are protected by law against force and fraud. To eliminate capitalism you would instead need to actively prevent people from having this freedom.).
-support(6386, root).
-
 arg(6224).
 text(6224, America has not been effectively capitalist for hundreds of years. Many "problems with Capitalism" are actually government-caused/created problems, but politicians and government schools will tell you it's the market's fault, so you don't realize that their programs have been so destructive.).
 att(6224, 6207).
 
-arg(7168).
-text(7168, Not all aspects of government should be capitalistic. Our nation's healthcare would benefit from socialism. Insurance & Pharmaceutical companies shouldnt be capitalistic marketplaces but instead be government funded with reduced cost. 
-
-Our prison system is another example of capitalistic abuse.).
-att(7168, root).
-
 arg(7182).
 text(7182, This is true in all known systems. If it's a public school you can get in with just the grades and a loan.  A private school though will require knowing people likely not in a poor persons social circle.).
 att(7182, 6486).
-
-arg(7188).
-text(7188, Robots and machines are replacing people and jobs. Capitalism, by itself, has no way of ensuring the well-being of those who want to work but can't.).
-att(7188, root).
 
 arg(7193).
 text(7193, the amount of involvement the government already plays, has only served to drive costs up and stifle innovation in those sectors.  Freeing those markets could be just as positive as socialism and lead to further innovation. ).
@@ -173,11 +155,29 @@ arg(7228).
 text(7228, We need not shift from capitalism to some other method now. We need only have a plan in place for when it is no longer effective.).
 att(7228, 7225).
 
-arg(6597).
-text(6597, This comparison is hardly indicative of the effectiveness of either economic model as a top capitalistic nation is being compared to a poorly defined 'average' of socialist nations. Additionally the linked indices(frequently used to determine Quality of Life) are dominated by Socialist nations.).
-att(6597, 6496).
+arg(6164).
+text(6164, Government-Corporate corruption is largely possible because the two freely intermix. Ex-Government officials take up highly salaried positions on corporate boards, using their contacts to influence the laws affecting the company. This is incompatible with Democracy. Reasonably stopping this is hard.).
+att(6164, 6111).
 
-arg(7217).
-text(7217, Every socialist country had a dramatically lower GDP per capita than the United States at the time of that country's transition to socialism.This renders the current standard of living irrelevant, and only the annual growth in median wealth is worth considering.).
-att(7217, 6496).
+arg(6756).
+text(6756, The U.S. does not have capitalism, it has corporatism. A purely capitalistic system would not have such a strong merger between government and economy.).
+att(6756, root).
+
+arg(6386).
+text(6386, Capitalism comes about as the natural occurrence of people having the freedom to purchase capital in an environment where their investments are protected by law against force and fraud. To eliminate capitalism you would instead need to actively prevent people from having this freedom.).
+support(6386, root).
+
+arg(7168).
+text(7168, Not all aspects of government should be capitalistic. Our nation's healthcare would benefit from socialism. Insurance & Pharmaceutical companies shouldnt be capitalistic marketplaces but instead be government funded with reduced cost. 
+
+Our prison system is another example of capitalistic abuse.).
+att(7168, root).
+
+arg(7188).
+text(7188, Robots and machines are replacing people and jobs. Capitalism, by itself, has no way of ensuring the well-being of those who want to work but can't.).
+att(7188, root).
+
+arg(6800).
+text(6800, America is not strictly capitalist. Social programs such as Medicaid, Social Security, and Medicare, government-sponsored projects like federal highways and pollution control and food control are in place in America, and those make this country a Democratic Socialist state with a capitalist economy.).
+att(6800, root).
 

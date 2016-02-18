@@ -1,10 +1,6 @@
 arg(root).
 text(root, Surrogate motherhood should be banned).
 
-arg(8647).
-text(8647, Waiting lists for adoption of a healthy child are very long, sometimes cutting adoption out as an option. ).
-att(8647, root).
-
 arg(8574).
 text(8574, Neither Women or Children should be made commodities to be bought or used.).
 support(8574, root).
@@ -12,10 +8,6 @@ support(8574, root).
 arg(8576).
 text(8576, There are already far too many unfortunate children that could highly benefit from being adopted by infertile couples.).
 support(8576, root).
-
-arg(8579).
-text(8579, Surrogate carriers and their children can experience negative psychological affects. Naturally a woman will start to develop an attachment to that child.).
-support(8579, root).
 
 arg(8643).
 text(8643, Women should be able to choose what they do with their bodies, even if it might cause psychological harm.).
@@ -48,6 +40,14 @@ att(8672, 8579).
 arg(8674).
 text(8674, Adoption is not the same as Surrogate. Latter allows to use your own genes. ).
 att(8674, 8576).
+
+arg(8647).
+text(8647, Waiting lists for adoption of a healthy child are very long, sometimes cutting adoption out as an option. ).
+att(8647, 8576).
+
+arg(8579).
+text(8579, Surrogate carriers and their children can experience negative psychological affects. Naturally a woman will start to develop an attachment to that child.).
+support(8579, root).
 
 arg(10137).
 text(10137, For couples that lack the means of having children, it can be a good alternative. ).

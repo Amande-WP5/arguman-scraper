@@ -1,0 +1,82 @@
+arg(root).
+text(root, First ethic rule defined by god.).
+
+arg(19159).
+text(19159, What is the actual contention here? It's ridiculously unclear.).
+att(19159, root).
+
+arg(19158).
+text(19158, ).
+att(19158, root).
+
+arg(19234).
+text(19234, This is circular reasoning. 
+
+I believe in God -> God defines ethics -> Humans can't define ethics -> I believe in God -> etc.).
+att(19234, 19203).
+
+arg(19233).
+text(19233, This assumes that morality is absolute.).
+att(19233, 19203).
+
+arg(19212).
+text(19212, Any human can’t build skyscraper on his own, but we still build skyscraper.).
+att(19212, 19203).
+
+arg(19211).
+text(19211, I can very well define a ethic rule on my own.).
+att(19211, 19203).
+
+arg(19203).
+text(19203, Any human can't define an ethic rule on his own. It is evidence to justify belief in a god.).
+att(19203, 19158).
+
+arg(19289).
+text(19289, Sorry for giving you a hard time then. ).
+att(19289, 19282).
+
+arg(19285).
+text(19285, Do you wanted to say something like "the first ethical rules are defined by god" ?).
+att(19285, 19282).
+
+arg(19284).
+text(19284, You are assuming a particular reason of why he think human can’t define ethical rules.
+If he have a reason independent of god, this is not a circular reasoning.).
+att(19284, 19234).
+
+arg(19283).
+text(19283, You should explain why you think that human can’t define ethical rules without relying on the concept of god.).
+att(19283, 19263).
+
+arg(19282).
+text(19282, no. thanks.).
+support(19282, 19281).
+
+arg(19281).
+text(19281, ...
+
+THE, not AN.
+
+Please don't take offense from this, but is English your first language?).
+att(19281, 19276).
+
+arg(19276).
+text(19276, In logic and philosophy, an argument is a series of statements typically used to persuade someone of something or to present reasons for accepting a conclusion.).
+att(19276, 19191).
+
+arg(19275).
+text(19275, You made a misstep. If you start from the position that god does not exist, you cannot include in your arguments that god must have an action.).
+att(19275, 19263).
+
+arg(19263).
+text(19263, I don't believe in god. -> Human can't define ethic rules. -> Someone should define ethic rules and god must define ethic rules. -> I believe in god.).
+att(19263, 19234).
+
+arg(19191).
+text(19191, What's the argument?).
+att(19191, 19172).
+
+arg(19172).
+text(19172, it is an argument.).
+att(19172, 19159).
+

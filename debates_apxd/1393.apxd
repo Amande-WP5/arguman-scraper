@@ -1,9 +1,13 @@
 arg(root).
 text(root, Islam is inherently a religion that promotes violence, and this world would be better off without it.).
 
+arg(14618).
+text(14618, "Kill the idolaters wherever you find them, and capture them, and blockade them, and watch for them at every lookout"is not a general command to attack all non-Muslims. The "idolaters" were those who had declared war against Muhammad and his community. self defense and mercy are taught otherwise ).
+att(14618, 6474).
+
 arg(15585).
 text(15585, I think it's fair to suggest that all religions are inherently violent because they create an ideological basis for irreconcilable conflict, establish hierarchies that have historically gone to great lengths to grasp ahold of political power, and cement the idea of the "other" in their followers.).
-att(15585, root).
+att(15585, 6456).
 
 arg(15450).
 text(15450, Islam is inherently violent. That means that violence ~exists as an inseparable part~ of Islam. However you characterize a religion, by the text, clergy/rulings, contemporary views of the believers, the premise stands. The notion of jihad and martyrdom and sharia define the religion.).
@@ -16,8 +20,4 @@ att(6456, root).
 arg(6474).
 text(6474, Their holy book *literally demands it*).
 support(6474, root).
-
-arg(14618).
-text(14618, "Kill the idolaters wherever you find them, and capture them, and blockade them, and watch for them at every lookout"is not a general command to attack all non-Muslims. The "idolaters" were those who had declared war against Muhammad and his community. self defense and mercy are taught otherwise ).
-att(14618, 6474).
 

@@ -1,9 +1,17 @@
 arg(root).
 text(root, Arguman is broken right know).
 
-arg(12599).
-text(12599, You now can support your own premise.).
-support(12599, root).
+arg(12611).
+text(12611, I can edit my premises...).
+att(12611, 12600).
+
+arg(12618).
+text(12618, Can you support your own premises?).
+att(12618, 12615).
+
+arg(12616).
+text(12616, Attempt to get this to the top.).
+support(12616, 12613).
 
 arg(12601).
 text(12601, You can't edit your own premises also.).
@@ -11,7 +19,7 @@ att(12601, 12599).
 
 arg(12602).
 text(12602, And you can't take away support from a premise you already gave support.).
-att(12602, root).
+att(12602, 12600).
 
 arg(12603).
 text(12603, Attempt to get this to the top.).
@@ -51,27 +59,23 @@ support(12612, 12610).
 
 arg(12614).
 text(12614, Attempt to get this to the top.).
-support(12614, root).
+support(12614, 12613).
 
 arg(12619).
 text(12619, Attempt to get this to the top.).
-support(12619, root).
+support(12619, 12613).
 
 arg(12620).
 text(12620, Support your own premise and then reload the page, then see if you still can undo it.).
-support(12620, root).
+support(12620, 12615).
 
 arg(12666).
 text(12666, large trees are large?).
-support(12666, root).
+support(12666, 12665).
 
 arg(12667).
 text(12667, okay why not.).
-support(12667, root).
-
-arg(12674).
-text(12674, Keep going, some more attempts and I may be able to find Adele rolling.).
-support(12674, root).
+support(12667, 12613).
 
 arg(12681).
 text(12681, How deep can we go?
@@ -81,11 +85,7 @@ support(12681, 12666).
 
 arg(12617).
 text(12617, Attempt to get this to the top.).
-support(12617, root).
-
-arg(13363).
-text(13363, You cannot login).
-support(13363, root).
+support(12617, 12613).
 
 arg(13364).
 text(13364, It won't allow me too).
@@ -111,10 +111,6 @@ arg(13368).
 text(13368, I cannot log in).
 att(13368, 13367).
 
-arg(12691).
-text(12691, sure why not.).
-att(12691, root).
-
 arg(12692).
 text(12692, muh branch).
 support(12692, 12605).
@@ -139,10 +135,6 @@ arg(12756).
 text(12756, We need to go deeper).
 support(12756, 12690).
 
-arg(13343).
-text(13343, The branch system is very stupid).
-att(13343, root).
-
 arg(12806).
 text(12806, That is what she said).
 support(12806, 12756).
@@ -151,32 +143,40 @@ arg(13440).
 text(13440, I do not like it).
 support(13440, 13343).
 
-arg(12665).
-text(12665, why).
-att(12665, 12614).
-
-arg(12616).
-text(12616, Attempt to get this to the top.).
-support(12616, root).
-
-arg(12613).
-text(12613, Attempt to get this to the top.).
-support(12613, 12612).
-
-arg(12618).
-text(12618, Can you support your own premises?).
-att(12618, root).
+arg(12600).
+text(12600, You can't edit your own premises anymore.).
+att(12600, 12599).
 
 arg(12615).
 text(12615, I can undo support I gave to a premise...
 ).
 att(12615, 12602).
 
-arg(12611).
-text(12611, I can edit my premises...).
-att(12611, root).
+arg(12613).
+text(12613, Attempt to get this to the top.).
+support(12613, 12612).
 
-arg(12600).
-text(12600, You can't edit your own premises anymore.).
-att(12600, 12599).
+arg(12665).
+text(12665, why).
+att(12665, 12614).
+
+arg(12691).
+text(12691, sure why not.).
+att(12691, root).
+
+arg(12674).
+text(12674, Keep going, some more attempts and I may be able to find Adele rolling.).
+support(12674, 12617).
+
+arg(13343).
+text(13343, The branch system is very stupid).
+att(13343, root).
+
+arg(12599).
+text(12599, You now can support your own premise.).
+support(12599, root).
+
+arg(13363).
+text(13363, You cannot login).
+support(13363, root).
 

@@ -5,11 +5,11 @@ arg(15214).
 text(15214, ISIS see they make more impact with those kind of events with less action, rather than fighting in Syria).
 support(15214, root).
 
-arg(15213).
-text(15213, It was more logical what Russians have done for plane crash, they did not publicize the event to prevent more).
-att(15213, root).
-
 arg(15207).
 text(15207, ISIS may increase those kind of attacks to increase the popularity among radical muslims).
 support(15207, root).
+
+arg(15213).
+text(15213, It was more logical what Russians have done for plane crash, they did not publicize the event to prevent more).
+att(15213, 15207).
 

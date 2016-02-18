@@ -1,10 +1,6 @@
 arg(root).
 text(root, We only see, what we know).
 
-arg(12253).
-text(12253, This is not the common interpretation of see. The difference between see and look is that "see" is normally about things we can't avoid, or when there wasn't a previous intention.).
-att(12253, root).
-
 arg(12305).
 text(12305, That comma is incorrect).
 att(12305, root).
@@ -29,4 +25,8 @@ arg(12247).
 text(12247, Because you can look at animal and couldn't see it (it could be hiding), but you cant see something and don't graps it mentally. 
 ).
 support(12247, 12246).
+
+arg(12253).
+text(12253, This is not the common interpretation of see. The difference between see and look is that "see" is normally about things we can't avoid, or when there wasn't a previous intention.).
+att(12253, 12246).
 

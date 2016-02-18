@@ -1,19 +1,55 @@
 arg(root).
 text(root, Altruism is an evolutionary mechanism, and existed long before religion).
 
-arg(6057).
-text(6057, Organisms whose success is a demonstration of their failure to die off prove that altruistic acts among agents with parallel goals more often benefit both, without a Boolean winner and loser.   Among agents with parallel goals a win for both provides more sustainable success than a win for just one.).
-support(6057, root).
+arg(16808).
+text(16808, Altruism benefits all if all practice it, while competition only benefits the ones on top, regardless of who is on top.).
+support(16808, root).
+
+arg(16759).
+text(16759, Among social species, helping one individual can incidentally increase your chances of survival. If this process is repeated enough times, you get a species that is altruistic in nature. You can see this among many social species, especially other primates and dolphins.).
+support(16759, root).
+
+arg(16761).
+text(16761, Because you were arguing the opposite point of the above statement, you are supposed to use "but". Using "because" throws off the statistics reported at the top of the page.).
+att(16761, 14631).
+
+arg(18820).
+text(18820, You clicked on "but" instead of "because" so I'm putting a "but" premise here to counter the statistics shown above.).
+att(18820, 14631).
+
+arg(18819).
+text(18819, You clicked on "but" instead of "because" so I'm putting a "but" premise here to counter the statistics shown above.).
+att(18819, 6022).
+
+arg(18818).
+text(18818, You clicked on "but" instead of "because" so I'm putting a "but" premise here to counter the statistics shown above.).
+att(18818, 6022).
+
+arg(18817).
+text(18817, You clicked on "but" instead of "because" so I'm putting a "but" premise here to counter the statistics shown above.).
+att(18817, 6022).
+
+arg(14631).
+text(14631, Social species maintain altruistic behavior to form groups, and outcast the members which don't return the favor. If an organism isn't social in nature, then it has to have traits that allow it survive which altruistic species don't, but any social species which is social is also altruistic.).
+support(14631, 14623).
 
 arg(6022).
 text(6022, Evolutionary biology has proven that altruism existed long before religion did.).
 att(6022, root).
 
-arg(14631).
-text(14631, Social species maintain altruistic behavior to form groups, and outcast the members which don't return the favor. If an organism isn't social in nature, then it has to have traits that allow it survive which altruistic species don't, but any social species which is social is also altruistic.).
-support(14631, root).
-
 arg(14623).
 text(14623, Why would evolution support altruism? It is all about competing against other life forms).
 att(14623, root).
+
+arg(16776).
+text(16776, Evolution cannot be reduced to that level. If you help me push this big rock off my yard today, I'll do the same thing for you tomorrow. Both increase their survival. Humans have developed many skills to enable groupwork, like a keen ability to detect non-contributing members.).
+att(16776, 14623).
+
+arg(16762).
+text(16762, Because you were arguing on the same side as the point of the above your statement, you are supposed to use "because". Using "but" throws off the statistics reported at the top of the page.).
+att(16762, 6022).
+
+arg(6057).
+text(6057, Organisms whose success is a demonstration of their failure to die off prove that altruistic acts among agents with parallel goals more often benefit both, without a Boolean winner and loser.   Among agents with parallel goals a win for both provides more sustainable success than a win for just one.).
+support(6057, 6022).
 

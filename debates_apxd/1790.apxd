@@ -1,32 +1,15 @@
 arg(root).
 text(root, Will we ran out of new Music?).
 
-arg(13304).
-text(13304, We have a limited range of hearing, and a limited time in which to hear. I can therefore conclude that there will be a limit upon the amount of music one might produce. ).
-att(13304, root).
-
-arg(10782).
-text(10782, This is subjective. Compare classical music to dubstep for instance. Also, we can still create pleasant combinations of notes. I'd recommend that you watch Vsauce's video "Will we ever run out of music?".).
-att(10782, root).
-
 arg(10888).
 text(10888, "Music" as we know it is fairly new historically. It begins less than 700 years ago and has only existed in the ocidental civilization.
 
 It is reasonable to imagine it is a historical phaenomenon which has exhausted itself and is coming to an end.).
 support(10888, root).
 
-arg(11393).
-text(11393, this is not true 
-the human brain is finite and can therefor only imagine a finite amount of combinations).
-att(11393, root).
-
 arg(10924).
 text(10924, Dubstep).
 support(10924, root).
-
-arg(10632).
-text(10632, Yes, because there are a limited amount of notes we are able to distinguish. ).
-support(10632, root).
 
 arg(11402).
 text(11402, there are also a finite number of letters in the alphabet).
@@ -36,17 +19,9 @@ arg(10635).
 text(10635, But there are infinitely many combinations of notes humans can imagine.).
 att(10635, 10632).
 
-arg(11403).
-text(11403, The fact that it is finite is irrelevant given how large that finite value is).
-att(11403, root).
-
 arg(10636).
 text(10636, there are enough possibility to have new musics propably until the end of mankind).
 att(10636, 10632).
-
-arg(13216).
-text(13216, If letter are like notes, then words are more like chords. "Would we run out of poetry" would be the closer question.).
-att(13216, root).
 
 arg(11417).
 text(11417, If we forget about old music, we can recreate it and call it new).
@@ -64,10 +39,6 @@ arg(12378).
 text(12378, Assuming that tones are in the range that our ears can actually hear, there are not an infinite amount of melodies. It is, technically, finite.).
 att(12378, 10635).
 
-arg(10713).
-text(10713, You can just keep adding a note to any existing song and call it a new song. There is no limit to how long a song can be so no we can't. ).
-att(10713, root).
-
 arg(11630).
 text(11630, We will eventually run out of new words, given a reasonable maximum length).
 att(11630, 11402).
@@ -76,11 +47,40 @@ arg(10685).
 text(10685, but what we consider as music,not noise, stays on limited frequency range thus not all frequency combinations felt pleasant. the combination can be calculated by rhythmical possibilities multiply harmonic possibilities.).
 att(10685, 10635).
 
+arg(14489).
+text(14489, Playing the same tone on the violin or on the piano does not sound the same. Thus we should not limit us only to tones (specific pitches) but also consider all possible instruments and their combinations. ).
+att(14489, 12378).
+
+arg(13304).
+text(13304, We have a limited range of hearing, and a limited time in which to hear. I can therefore conclude that there will be a limit upon the amount of music one might produce. ).
+att(13304, 10635).
+
+arg(10782).
+text(10782, This is subjective. Compare classical music to dubstep for instance. Also, we can still create pleasant combinations of notes. I'd recommend that you watch Vsauce's video "Will we ever run out of music?".).
+att(10782, 10685).
+
+arg(10632).
+text(10632, Yes, because there are a limited amount of notes we are able to distinguish. ).
+support(10632, root).
+
+arg(11393).
+text(11393, this is not true 
+the human brain is finite and can therefor only imagine a finite amount of combinations).
+att(11393, 10635).
+
+arg(10713).
+text(10713, You can just keep adding a note to any existing song and call it a new song. There is no limit to how long a song can be so no we can't. ).
+att(10713, root).
+
 arg(14290).
 text(14290, This isnt a premise. This is a question.).
 att(14290, root).
 
-arg(14489).
-text(14489, Playing the same tone on the violin or on the piano does not sound the same. Thus we should not limit us only to tones (specific pitches) but also consider all possible instruments and their combinations. ).
-att(14489, 12378).
+arg(11403).
+text(11403, The fact that it is finite is irrelevant given how large that finite value is).
+att(11403, 10679).
+
+arg(13216).
+text(13216, If letter are like notes, then words are more like chords. "Would we run out of poetry" would be the closer question.).
+att(13216, 11630).
 

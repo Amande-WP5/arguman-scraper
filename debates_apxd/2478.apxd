@@ -1,0 +1,69 @@
+arg(root).
+text(root, There should be a minimum age for joining any organized religion, where children are not allowed. ).
+
+arg(17181).
+text(17181, It should be up to the parents what organizations they sign their kids up to. This is how we get to the best outcomes, by not trying to force a single way to raise children on everybody. But let them teach their children what they value, be it god or scientific, we are in no place to judge.).
+att(17181, root).
+
+arg(16996).
+text(16996, There is a need for a specific reason why children would need to be excluded. For example things like nudity, violence, drugs, swearwords etc. If a religion doesn't have any of that, people could rightfully protest that the ban for children was unjustified. A state need a reasonable justification.).
+att(16996, root).
+
+arg(16945).
+text(16945, ).
+att(16945, root).
+
+arg(17012).
+text(17012, the choice to become religious demands a certain level of introspection and consciousness, something that is hard to demand from a child. The choice to become religious is personal, and not something one is forced into by for example parents.).
+att(17012, 16996).
+
+arg(17191).
+text(17191, This should be a however, as it does not contradict the original premise).
+att(17191, 16996).
+
+arg(17190).
+text(17190, "we're not in a place to judge" is a meaningless cliche, especially since it can be used as a response to almost any statement.).
+att(17190, 17181).
+
+arg(17089).
+text(17089, I was talking about the choosing of which school. Not whether they should go to school or not. That's a given, because they have to learn.).
+support(17089, 17061).
+
+arg(17063).
+text(17063, Then it's a cultural aspect, not a religious one. Religion is a personal choice, not a cultural or societal one.).
+att(17063, 17055).
+
+arg(17061).
+text(17061, School doesn't have a certain demand of consciousness or knowledge since the whole purpose of schools is to give exactly that.).
+att(17061, 17059).
+
+arg(17059).
+text(17059, While I agree, it comes down to the parents. They make every choice for the child. In that same note, I believe one could make the same argument about schools.).
+att(17059, 17012).
+
+arg(17055).
+text(17055, It doesn’t exactly fall under this rule : people can wear "religious clothings" just because they like them, or for cultural reasons, without being religious.).
+att(17055, 16946).
+
+arg(17054).
+text(17054, We could ban children from some of the biggest religions by invoking the violent depictions in it : Christianity, Islam, Judaism
+
+Particularly "hell" : "you will be horribly tortured for eternity if you refuse to believe").
+att(17054, 16996).
+
+arg(17030).
+text(17030, When parents force their children to partake in a religion the government has the chance to take their children away for example child abuse, which is already well established in most democratic countries so there is no argument made here. And if a child chooses to, there is nothing we can do.).
+att(17030, 17012).
+
+arg(16946).
+text(16946, this falls in under the rule of not being allowed to be a part of organized religion. Religious clothing is a part of an individual statement as an adult, and should only be allowed past a certain age.).
+att(16946, 16945).
+
+arg(19230).
+text(19230, You are essentially supporting the indoctrination of children. Although it would be virtually impossible to eliminate the issue entirely, it should at least be promoted to allow children to have original thought.).
+att(19230, 17181).
+
+arg(19068).
+text(19068, The inability of children to distinguish fact from fiction has been strongly correlated to how much religion they were exposed to at an early age. In short, indoctrination likely retards aspects of cognitive development, much like a hammer to the head. It's therefore child abuse.).
+att(19068, 16996).
+

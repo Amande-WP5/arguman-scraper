@@ -1,23 +1,51 @@
 arg(root).
 text(root, If the universe is infinite it has always existed and always will).
 
-arg(16028).
-text(16028, Maybe because you are responding to your own post ;)).
-att(16028, root).
+arg(16674).
+text(16674, The website says this post was made by someone else.).
+att(16674, 16028).
+
+arg(16657).
+text(16657, Simply because there was a Big Bang does not mean that it was not one in a series of many Bangs and Crunches. Several models which accurately describe the universe as we see it predict this. Among them are the Rainbow Gravity theory, which has gravity acting differently on large scales.).
+att(16657, 13300).
+
+arg(16421).
+text(16421, In order to pass from a finite something to infinite something, there must be an instantaneous infinite growth. Which doesn't make sense.).
+support(16421, root).
 
 arg(15964).
 text(15964, Why did make an exact carbon copy of a post I submitted weeks prior?).
 att(15964, root).
 
-arg(13453).
-text(13453, The argument depends on whether you're referring to the universe as infinite in size, time, or both. If the second or third, then the argument must be correct by definition.).
-support(13453, root).
-
 arg(13242).
 text(13242, There are different kinds of infinity. ).
 att(13242, root).
 
+arg(16382).
+text(16382, Probably this is a race condition. I have reported.).
+att(16382, 16374).
+
+arg(16374).
+text(16374, This website double posts when you hit submit. This has happened to me too.).
+att(16374, 16028).
+
+arg(16028).
+text(16028, Maybe because you are responding to your own post ;)).
+att(16028, 15964).
+
 arg(13300).
 text(13300, we have strong evidence to suggest that there was a beginning and there will be an end. ).
 att(13300, root).
+
+arg(13453).
+text(13453, The argument depends on whether you're referring to the universe as infinite in size, time, or both. If the second or third, then the argument must be correct by definition.).
+support(13453, 13242).
+
+arg(16635).
+text(16635, This is the fallacy of infinity.   The very nature of the concept, allows you to infinitely add and multiply it, but never subtract/divide from it. ).
+att(16635, root).
+
+arg(16622).
+text(16622, It could be inifinte in one way but not in another. Ie infinite in size, but finite in time).
+att(16622, root).
 

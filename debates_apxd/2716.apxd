@@ -1,0 +1,338 @@
+arg(root).
+text(root, Conservatives serve the entitled rich, not the public.).
+
+arg(19155).
+text(19155, Because many definitions do. Google: "the action of deliberately arousing public fear or alarm about a particular issue."
+
+Dictionary.com: "[the action of] creat[ing] or spread[ing] alarming news."
+
+Oxford: "The action of deliberately arousing public fear or alarm about a particular issue").
+att(19155, 19149).
+
+arg(19156).
+text(19156, They weren't. They were supposed to be examples of fear-mongering without exaggeration.).
+att(19156, 19150).
+
+arg(19150).
+text(19150, I fail to see how those are examples of exaggeration.).
+att(19150, 19114).
+
+arg(19149).
+text(19149, And why would I have to exclude exaggerating? It is part of the definition.).
+att(19149, 19113).
+
+arg(19132).
+text(19132, Considering he wants to nationalize large parts of the British economy, I'd say he's much farther left.).
+att(19132, 19127).
+
+arg(19131).
+text(19131, Frankly, I don't know. All the programs I listen to don't really cover it at all.).
+att(19131, 19125).
+
+arg(19127).
+text(19127, Do you have any examples? Even though I'm in the U.K. my news feed has contained more Bernie than Jeremy. I haven't noticed any major differences from what I've seen.).
+att(19127, 19045).
+
+arg(19125).
+text(19125, Thanks.
+Are they bias on cannabis research?
+
+I follow every cannabis paper so I like to use it as a litmus test for bias. 
+I notice they covered an old paper refuting negative effects saying it was erred but didn't cover new ones that refuted no negative effects.).
+att(19125, 19119).
+
+arg(19122).
+text(19122, Replace private with corporate. Many parts of that are publicly owned companies (read: on the stock market)).
+att(19122, 19071).
+
+arg(19119).
+text(19119, Planet Money is pretty damn awesome. So is Wait, Wait, Don't Tell Me. Lots of people like This American Life, but it doesn't do much for me. There's also a spinoff company of reporters from there called Gimlet Media, which puts out some interesting content.).
+att(19119, 19117).
+
+arg(19121).
+text(19121, Some believe in economic conservatism where their prime goal is making/saving money for themselves or the state. Some believe in right-wing rhetoric from the media they consume.).
+att(19121, 18991).
+
+arg(19118).
+text(19118, The Obama administration also did this with the ACA. Carter was a major proponent of aeronautics deregulation. Seems like every liberal administration since the 60s was involved in the socialization of risk, with the privatization of gains.).
+att(19118, 19093).
+
+arg(19116).
+text(19116, Perhaps it's not that they're voting against their own interests, but rather, you're misunderstanding what they're interested in. It seems an untenable position to tell somebody else what their interests are.).
+att(19116, 19095).
+
+arg(19117).
+text(19117, I'm pretty ignorant of NPR. Is there any content you'd reccomend?).
+att(19117, 19089).
+
+arg(19115).
+text(19115, I'm not actually sure that this is relevant to the overall argument. I was trying to raise an example of where something well-intentioned still fit the definition of fear-mongering. Substitute that for many other things and it's the same result.).
+att(19115, 19099).
+
+arg(19114).
+text(19114, I would also argue that exaggeration isn't necessary to qualify as fear mongering. Fear of invasion is real, even if it's unlikely. Fear of terrorism is real, even if it's unlikely. Etc.).
+att(19114, 19100).
+
+arg(19113).
+text(19113, If you exclude the word "exaggerating", then almost every liberal candidate fits that bill. Some of them even fit it if you include the word "exaggerating".).
+att(19113, 19100).
+
+arg(19100).
+text(19100, Reasonable fear-mongering is an oxymoron. It's called raising awareness.
+
+Definition:
+
+Fear mongering is the deliberate use of fear based tactics including exaggeration and continual repetition to alter the perception of the public in order to achieve a desired outcome.).
+att(19100, 19021).
+
+arg(19095).
+text(19095, That doesn't mean that they aren't voting against their interest. The agenda of the Conservatives speaks for this.).
+att(19095, 18974).
+
+arg(19093).
+text(19093, That doesn't mean that Democrats generally do this. One administration doesn't change that.).
+att(19093, 19026).
+
+arg(19088).
+text(19088, Public Radio. We have the BBC that's public funded but they're still centre right and don't differ much in news coverage.
+Left wing media is mainly young people online. Right wing media is mainly old people on T.V. and radio.).
+att(19088, 19087).
+
+arg(19087).
+text(19087, NPR spins? If so, it's not by much.
+
+From what I gather, you're from the UK. So, just to be sure, you know what NPR is, right? (Truly trying to not be insulting there)).
+att(19087, 19077).
+
+arg(19077).
+text(19077, Spin is everything. The mainstream news in general is mostly the same coverage backed by the same advertisers.).
+att(19077, 19060).
+
+arg(19063).
+text(19063, The vast majority of politicians cater more towards one group than another. The argument here is on a general trend that conservatives tend to cater to richer groups, even if they say they are not.
+
+Not necessarily agreeing with the premise, just trying to explain it.).
+att(19063, 19052).
+
+arg(19052).
+text(19052, This question polarises the argument... rich or public.  Is there a third to be investigated; serving the country as a whole, and not just groups of people rich vs public.
+
+What about economic growth, defence, foreign holdings for which we all benefit from. ).
+att(19052, root).
+
+arg(19071).
+text(19071, There are three sectors. Public, private and voluntary.).
+att(19071, 19052).
+
+arg(19062).
+text(19062, What beneficial foreign holdings are there?).
+att(19062, 19052).
+
+arg(19061).
+text(19061, It's fallacious to assume that a) everyone working hard prospers and b) every (or even most) conservatives think like above.).
+att(19061, 19053).
+
+arg(19060).
+text(19060, The largest gap was against NPR. If Fox viewers are getting 90% of the information that NPR viewers are, then I'm not sure your point is valid.).
+att(19060, 19040).
+
+arg(19053).
+text(19053, it is misleading to assume they vote through fear or ignorance. Many closet conservatives do believe that if they work hard then they will prosper and aspire to better their family through the generations. But fear being judged by left leaning folk.).
+att(19053, 18991).
+
+arg(19047).
+text(19047, Yes, but I wouldn't universally apply this to liberals, or even just to liberals. It just makes sense from a game theory perspective. If solving a problem gives you less of an advantage, you're less likely to solve the problem.).
+att(19047, 19046).
+
+arg(19046).
+text(19046, Are you saying like 1984s perpetual war being used to keep those in power, in power, liberals will never accept an inflation based minimum wage, just so they can use it as a talking point to keep it's voter power?).
+att(19046, 19039).
+
+arg(19045).
+text(19045, From what I've heard he's a lot farther left than Sanders, but that's probably just because he's European.).
+att(19045, 19044).
+
+arg(19044).
+text(19044, I dislike him also. 
+There is hope, Jeremy Corbyn the new opposition leader was voted in by the public and is like the U.K.'s Bernie Sanders.).
+att(19044, 19041).
+
+arg(19041).
+text(19041, I'm not knowledgeable enough to debate on the UK. All I know is that I dislike their PM.).
+att(19041, 19032).
+
+arg(19040).
+text(19040, T.V. news is right of centre and has very similar coverage. They get paid from similar advertisers to entertain and not go against their interests.).
+att(19040, 19034).
+
+arg(19039).
+text(19039, The minimum wage part is as much a liberal campaign as a conservative one. I would argue that a minimum wage would never be tied to inflation because A) liberals know it looks bad if inflation ever reverses and B) liberals lose a talking point every few elections, resulting in worse campaigns.).
+att(19039, 18958).
+
+arg(19038).
+text(19038, Consider this point conceded.).
+att(19038, 19031).
+
+arg(19037).
+text(19037, Each premise is supposed to be unrelated to the other. If part of your supporting argument is in a different area, they belong together.).
+att(19037, 19030).
+
+arg(19036).
+text(19036, For the record: While I largely agree with you, I'm a firm believer in "extraordinary claims require extraordinary evidence". Please don't think that I'm just trying to make you find sources to prove a point. I'm also genuinely curious for this debate, and enjoy arguing for the other side for once.).
+att(19036, 19029).
+
+arg(19035).
+text(19035, While I can't speak for the UK, Clinton seems a very good counterexample to your claim for the US. [1] Shows that Clinton's outside money and donations are comparable to the top Republican candidates. [2] Shows that Clinton's supporting businesses are in the top 5 of all candidates.).
+att(19035, 19029).
+
+arg(19034).
+text(19034, By my math, Fox viewers are only 4.63% less accurate on news stories than MSNBC viewers (who I'm using as the opposite end of the spectrum). The largest gap is ~10%. Doesn't seem like much of a knowledge gap to me.).
+att(19034, 19028).
+
+arg(19032).
+text(19032, It's happening in the U.K.).
+att(19032, 19017).
+
+arg(19031).
+text(19031, There are many examples of democrats and other parties opposing privatization.
+I've never seen a case of conservatives opposing privatization. They are the ones that propose it.).
+att(19031, 19023).
+
+arg(19030).
+text(19030, I didn't claim it was unique to conservatives. In my other premise I claimed other parties have also been affected.).
+att(19030, 19021).
+
+arg(19029).
+text(19029, "The ruling Conservative Party is...the ‘party of the rich’ as recent data shows nearly half of its donors come from wealthy hedge funds"
+"Just 158 families have provided nearly half of the early money for efforts to capture the White House"
+Mostly Backing Republicans
+Republicans 138 Democrats 20).
+att(19029, 19019).
+
+arg(19028).
+text(19028, "The "journalists" on Fox News twist facts around to misinform their viewers and push them towards the Republican party.").
+att(19028, 19020).
+
+arg(19026).
+text(19026, The Clinton administration did this to some degree in Wall Street).
+att(19026, 18956).
+
+arg(19023).
+text(19023, You're directly contradicting me while providing no evidence or examples. ).
+att(19023, 18995).
+
+arg(19021).
+text(19021, I'm disagreeing that it's unique to conservatives. For example, what is the climate change debate but fear-mongering? Reasonable fear-mongering, but intentionally raising fears nonetheless.).
+att(19021, 18993).
+
+arg(19020).
+text(19020, What makes you think you know their interests better? It seems very condescending to say that somebody doesn't know what they want, while providing zero evidence to support it.).
+att(19020, 18991).
+
+arg(19019).
+text(19019, It's best to provide evidence when making such claims. The fact that I agree with you doesn't matter, because you're still appealing to belief, rather than presenting evidence.).
+att(19019, 18992).
+
+arg(19075).
+text(19075, They don't pay a living wage so they force people onto welfare and then complain about people on welfare, while  also being on corporate welfare (subsidies) and having their workers supported by the government.
+They are hypocritically entitled.).
+support(19075, root).
+
+arg(19099).
+text(19099, The climate change debate is a purely scientifical debate. While the left tends to at least include this into politics, the right denies/ignores/opposes it entirely. Most of the GOP front runners are straight up climate change deniers, not just opposers.).
+att(19099, 19021).
+
+arg(19089).
+text(19089, As someone who listens to a diverse group of media (read: Fox, MSNBC, online sources, NPR, etc), I can tell you that NPR is the most factually accurate service in the states. They tend to be dead center (left/right speaking), with a small libertarian bias (liber-/authori-tarian speaking).).
+att(19089, 19088).
+
+arg(19017).
+text(19017, My point was that it only really happens with cults of personality. There's no evidence to suggest that there's a widespread increase in online funding, even though you can find specific politicians who benefited vastly from it. It certainly doesn't happen on a state or local level.).
+att(19017, 18989).
+
+arg(18996).
+text(18996, "Reflecting liberals’ use of a greater number of media sources, there are more outlets whose readers, watchers and listeners fall to the left of the average web respondent than to the right.").
+support(18996, 18990).
+
+arg(18995).
+text(18995, Privatisation is a staple of conservative parties but not other parties.).
+att(18995, 18975).
+
+arg(18993).
+text(18993, What are you disagreeing with then?).
+att(18993, 18976).
+
+arg(18992).
+text(18992, More so for conservatives. The conservative rich are more entitled than the rich in other parties.).
+att(18992, 18973).
+
+arg(18991).
+text(18991, By voting based on ignorance and fear they vote against their own interests.).
+att(18991, 18974).
+
+arg(18990).
+text(18990, Since broadband politicians have increasingly raised large sums of money online. Crowd funding in general has increased because of the internet.
+Left wing media only really exists online. Those that get their news online typically lean more to the left.).
+att(18990, 18978).
+
+arg(18989).
+text(18989, You just gave evidence against your argument... 
+Ron Paul raised a lot of public money. Jeremy Corbyn in the U.K. has raised a lot of public money.).
+att(18989, 18977).
+
+arg(18978).
+text(18978, There's also little evidence so suggest that candidates are being funded more by the public because of the internet, or that politics is moving left because of the internet. I'm not sure which you meant though.).
+att(18978, 18961).
+
+arg(18977).
+text(18977, There's very little evidence to support that elections are being funded publicly. So far there's only two majorly successful candidates where that's true, Obama and Sanders. And though I'd like him to, I doubt Sanders will win.).
+att(18977, 18961).
+
+arg(18976).
+text(18976, Excepting the religious point, that's also true of many on the left. Though I will agree it is more prominent on the right.).
+att(18976, 18955).
+
+arg(18975).
+text(18975, So do liberals. Otherwise we would not have people draining water from national parks, or people drilling on federal land.).
+att(18975, 18960).
+
+arg(18961).
+text(18961, Politics veered to the right of centre for the past few decades. Opposition parties were also influenced by the entitled rich. Now with the internet, politics is veering to the left and is funded by the public.).
+att(18961, root).
+
+arg(18973).
+text(18973, This is largely true of all politicians.).
+att(18973, 18952).
+
+arg(18960).
+text(18960, They privatise public institutions, property and land.).
+support(18960, root).
+
+arg(18959).
+text(18959, They reap the benefits of corporate welfare but are against public welfare.).
+support(18959, root).
+
+arg(18958).
+text(18958, They give tax breaks to the rich while increasing them for the public. They also refuse a living wage or minimum wage tied to inflation.).
+support(18958, root).
+
+arg(18957).
+text(18957, They favour deregulation to increase profit at the expense of public saftey.).
+support(18957, root).
+
+arg(18956).
+text(18956, They privatise profits and socialise losses.).
+support(18956, root).
+
+arg(18955).
+text(18955, They use religion and fear to get votes instead of policies that represent the public's needs.).
+support(18955, root).
+
+arg(18952).
+text(18952, They consist of and are funded by the entitled rich.).
+support(18952, root).
+
+arg(18974).
+text(18974, Large portions of the public still vote conservative, and are being definitionally served by their choice.).
+att(18974, root).
+

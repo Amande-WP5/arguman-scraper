@@ -1,6 +1,10 @@
 arg(root).
 text(root, If we were to abolish all ethics, humanity will be able to answer many scientific things about the human body (And possibly augment it) that would have taken decades and possibly centuries to answer.).
 
+arg(16535).
+text(16535, If all ethics were forgotten, we would all be dead- we already invented nuclear weapons...).
+att(16535, root).
+
 arg(15070).
 text(15070, If we abandon ethics then what is the motivation for doing medical research?).
 att(15070, root).
@@ -8,4 +12,17 @@ att(15070, root).
 arg(14875).
 text(14875, That's true. But I believe it's better the way it is. Unless people are  willing to volunteer.).
 support(14875, root).
+
+arg(16727).
+text(16727, People can still have selfish, amoral goals that benefit the common good.).
+att(16727, 16683).
+
+arg(16683).
+text(16683, Self improvement for whom? What if my goal is social improvement? Wouldn't that completely undermine it?
+).
+att(16683, 16668).
+
+arg(16668).
+text(16668, Self improvement. Living longer. ).
+att(16668, 15070).
 

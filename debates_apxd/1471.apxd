@@ -1,11 +1,11 @@
 arg(root).
 text(root, Omniscience can't coincide with free will.).
 
-arg(7247).
-text(7247, It could be argued there are different time spans for omniscience. Knowing all things to exist currently, knowing all things that have existed in the past, and knowing all things that will exist in the future are different things. Only one violates freewill.).
-att(7247, root).
-
 arg(7251).
 text(7251, If you know what a man has thought in the past, or currently, there is no way with absolute certainty to know what he will think or do next. However if you know what he will do in the future then he has no capability of choosing differently.).
 support(7251, 7247).
+
+arg(7247).
+text(7247, It could be argued there are different time spans for omniscience. Knowing all things to exist currently, knowing all things that have existed in the past, and knowing all things that will exist in the future are different things. Only one violates freewill.).
+att(7247, root).
 

@@ -1,0 +1,23 @@
+arg(root).
+text(root, Women are second class citizen).
+
+arg(16518).
+text(16518, Arguments cannot be in question form. It would be good of you could update.).
+att(16518, root).
+
+arg(16485).
+text(16485, In a sinking ship, women (and children) would have a priority to places in rescue boat).
+att(16485, root).
+
+arg(16483).
+text(16483, When women got voting rights for the first time, many other classes of men got voting rights for the first time).
+att(16483, root).
+
+arg(16519).
+text(16519, Same as:).
+att(16519, 16518).
+
+arg(16482).
+text(16482, Much fewer women have been heads of state than men).
+support(16482, root).
+

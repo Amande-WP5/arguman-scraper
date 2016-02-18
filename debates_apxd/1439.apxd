@@ -1,23 +1,23 @@
 arg(root).
 text(root, First-past-the-post is an inadequate electoral system for a modern society.).
 
+arg(6884).
+text(6884, The system is simple enough for everyone to understand.).
+att(6884, root).
+
 arg(16024).
 text(16024, Assuming that people will not group together to increase their power is bad. Any system we use must work with or without parties.).
-att(16024, root).
-
-arg(16022).
-text(16022, So is Single Transferable Vote. Multiple winners. Rank candidates, stop when you stop caring. If your first choice doesn't win? Get more than they need? Your votes go down the ranks. That system also is less vulnerable to gerrymandering and gets results much closer to actual votes.).
-att(16022, root).
+att(16024, 16001).
 
 arg(16001).
 text(16001, This is because the electorate have been persuaded to vote for parties rather than candidates).
-att(16001, root).
+att(16001, 6882).
 
 arg(6882).
 text(6882, The results of elections often don't correspond very closely to the wishes of the population).
 support(6882, root).
 
-arg(6884).
-text(6884, The system is simple enough for everyone to understand.).
-att(6884, root).
+arg(16022).
+text(16022, So is Single Transferable Vote. Multiple winners. Rank candidates, stop when you stop caring. If your first choice doesn't win? Get more than they need? Your votes go down the ranks. That system also is less vulnerable to gerrymandering and gets results much closer to actual votes.).
+att(16022, 6884).
 

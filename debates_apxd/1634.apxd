@@ -1,33 +1,17 @@
 arg(root).
 text(root, Dota 2 is a superior eSport to League of Legends).
 
-arg(9530).
-text(9530, I am an important figure in the industry and people widely consider me to have objective opinions).
-att(9530, root).
-
-arg(9534).
-text(9534, u take that back).
-att(9534, root).
-
-arg(12343).
-text(12343, The title of the argument literally says eSport, not game ).
-att(12343, root).
+arg(9447).
+text(9447, League completely lack strategy when compared to dota. So your whole counter argument was not only disproved but you pointed out another reason why dota is better).
+att(9447, 9434).
 
 arg(9545).
 text(9545, Aside of your argument being quite irrevelant, They have much lower player-to-watcher ratio. afaik league has something like 1-6 while dota has around 1-3).
-att(9545, root).
+att(9545, 9446).
 
 arg(9547).
 text(9547, And i am John Cena).
 att(9547, 9530).
-
-arg(9081).
-text(9081, They are both objectively bad games).
-att(9081, root).
-
-arg(9085).
-text(9085, Champions in league of Legends aren't restricted to autohitting for the first 10 minutes of the game. Most of them can spam their skills which is more rewarding for the players.).
-att(9085, root).
 
 arg(9089).
 text(9089, MOBAs are for children and real men are still playing 2009 Game of the Year Uncharted 2: Among Thieves).
@@ -37,21 +21,13 @@ arg(9550).
 text(9550, Oh no i don't).
 att(9550, 9534).
 
-arg(9269).
-text(9269, Dota 2 has larger prize pools, which increases excitement and attracts more talented players and coaches.).
-support(9269, root).
-
 arg(9552).
 text(9552, I think the point was that rules like that even exist, not that riot made them during match).
-att(9552, root).
+att(9552, 8937).
 
 arg(9092).
 text(9092, You make assumptions and the point and conclusion are irrelevant. Also you got dota's genre wrong).
 att(9092, 9089).
-
-arg(9555).
-text(9555, Well, if baseball had more strategy, it would be more interesting to watch.).
-att(9555, root).
 
 arg(9274).
 text(9274, Likes are entirely subjective.).
@@ -59,37 +35,11 @@ att(9274, 9081).
 
 arg(9477).
 text(9477, Does more strategy make an esport or sport better? Consider baseball, which has relatively low strategy to the point where doing something that isn't strategically perfect can be officially considered an "error." ).
-att(9477, root).
+att(9477, 9447).
 
 arg(9097).
 text(9097, You are projecting your own bias into the argument and failing to remain objective).
 att(9097, 9092).
-
-arg(8932).
-text(8932, The original premise still stands, as professional teams have been fined for "building ineffective items" i.e. not following what the champion is supposed to build.).
-att(8932, root).
-
-arg(8907).
-text(8907, The design of the game is to allow for multiple ways to play most heroes, rather than one popularised way to play each one that is not usually deviated from.).
-support(8907, root).
-
-arg(9073).
-text(9073, League of Legends is lacking basic features to enable it as a competitive game even though many of these were promised many years ago, such as:
-
-* Voice chat
-* Sandbox
-* Equal footing between players (depending only on skill)
-* A working client
-* A replay and or rollback system).
-support(9073, root).
-
-arg(9279).
-text(9279, Dota 2 players are able to spectate games on the client itself and are not restricted to a streaming platform like Twitch or YouTube Gaming.).
-support(9279, root).
-
-arg(8909).
-text(8909, The games play out more exciting with more fights and kills happening earlier in the game instead of a long early farming and laning session.).
-support(8909, root).
 
 arg(9568).
 text(9568, Not necessarily, but you were the one claiming that it was saying that league had strategy instead of a faster pace and exiting kills. You lose in both either way).
@@ -123,34 +73,9 @@ arg(9423).
 text(9423, Technically, both could be classified as ASSFAGGOTS).
 att(9423, 9390).
 
-arg(9696).
-text(9696, •	Lord Gaben
-
-•	Source 2 engine
-
-•	All heroes are free, also no runes that affect game play which brings equal footing.
-
-•	Steam > Garena
-
-
-).
-support(9696, root).
-
-arg(12308).
-text(12308, thank mr skeltal).
-att(12308, root).
-
-arg(12309).
-text(12309, Esports are a joke.).
-att(12309, root).
-
 arg(12310).
 text(12310, Just because a game has a larger prize pool and has more talented players/ coaches, doesn't necessarily make it a better game. Yes it does make it more entertaining, however it is about the game not the sport.).
 att(12310, 9269).
-
-arg(12237).
-text(12237, This is subjective. Any one group of players can be worse than another, and it is more a matter of personal taste as to which game is better.).
-att(12237, root).
 
 arg(9078).
 text(9078, The champion pool is extremely limited to only champs who are strong this meta and are regularly forced to follow these roles. This is caused by riots balance around the pay wall and champ rotations).
@@ -172,20 +97,95 @@ text(12288, Is this thread going to be a casual talk forum?
 Doot doot!).
 att(12288, 9550).
 
-arg(9446).
-text(9446, League of Legends have a larger player-base.).
-att(9446, root).
+arg(9434).
+text(9434, More kills and excitement in-game does not necessarily mean that a game is better. For example, one could compare the subtleties of  the LoL laning phase (forcing a flash, zoning, doing small amounts of tower damage) to small strategic advantages one gains when playing a single chess move. ).
+att(9434, 8909).
 
 arg(8937).
 text(8937, Reading the ruling more closely and analysing the game it was clear that the punished team was way ahead - yet decided to play around with there enemies, which is against the rules of the CS and LCS.
 There are several cases of "creative" picks that have (and would) never been punished.).
 att(8937, 8932).
 
-arg(9447).
-text(9447, League completely lack strategy when compared to dota. So your whole counter argument was not only disproved but you pointed out another reason why dota is better).
-att(9447, root).
+arg(9269).
+text(9269, Dota 2 has larger prize pools, which increases excitement and attracts more talented players and coaches.).
+support(9269, root).
 
-arg(9434).
-text(9434, More kills and excitement in-game does not necessarily mean that a game is better. For example, one could compare the subtleties of  the LoL laning phase (forcing a flash, zoning, doing small amounts of tower damage) to small strategic advantages one gains when playing a single chess move. ).
-att(9434, 8909).
+arg(9530).
+text(9530, I am an important figure in the industry and people widely consider me to have objective opinions).
+att(9530, 9386).
+
+arg(9534).
+text(9534, u take that back).
+att(9534, 9389).
+
+arg(12343).
+text(12343, The title of the argument literally says eSport, not game ).
+att(12343, 12310).
+
+arg(9073).
+text(9073, League of Legends is lacking basic features to enable it as a competitive game even though many of these were promised many years ago, such as:
+
+* Voice chat
+* Sandbox
+* Equal footing between players (depending only on skill)
+* A working client
+* A replay and or rollback system).
+support(9073, root).
+
+arg(9085).
+text(9085, Champions in league of Legends aren't restricted to autohitting for the first 10 minutes of the game. Most of them can spam their skills which is more rewarding for the players.).
+att(9085, 8909).
+
+arg(9279).
+text(9279, Dota 2 players are able to spectate games on the client itself and are not restricted to a streaming platform like Twitch or YouTube Gaming.).
+support(9279, root).
+
+arg(9555).
+text(9555, Well, if baseball had more strategy, it would be more interesting to watch.).
+att(9555, 9477).
+
+arg(8932).
+text(8932, The original premise still stands, as professional teams have been fined for "building ineffective items" i.e. not following what the champion is supposed to build.).
+att(8932, 8920).
+
+arg(8909).
+text(8909, The games play out more exciting with more fights and kills happening earlier in the game instead of a long early farming and laning session.).
+support(8909, root).
+
+arg(9696).
+text(9696, •	Lord Gaben
+
+•	Source 2 engine
+
+•	All heroes are free, also no runes that affect game play which brings equal footing.
+
+•	Steam > Garena
+
+
+).
+support(9696, root).
+
+arg(12309).
+text(12309, Esports are a joke.).
+att(12309, root).
+
+arg(12237).
+text(12237, This is subjective. Any one group of players can be worse than another, and it is more a matter of personal taste as to which game is better.).
+att(12237, root).
+
+arg(12308).
+text(12308, thank mr skeltal).
+att(12308, 12288).
+
+arg(9446).
+text(9446, League of Legends have a larger player-base.).
+att(9446, root).
+
+arg(9081).
+text(9081, They are both objectively bad games).
+att(9081, root).
+
+arg(8907).
+text(8907, The design of the game is to allow for multiple ways to play most heroes, rather than one popularised way to play each one that is not usually deviated from.).
+support(8907, root).
 

@@ -1,21 +1,13 @@
 arg(root).
 text(root, Scientology is a bad religion).
 
-arg(13442).
-text(13442, This depends on your definition or "religious." Some people consider belief in *anything* religion, while some only apply it to belief in a god/deity/higher power.).
-att(13442, root).
+arg(13427).
+text(13427, Without more clarity on what "backed up" means, who has ever backed up anything?).
+att(13427, 13243).
 
-arg(13374).
-text(13374, Most religions have had people that have used their name or belief structure for killing (i.e. directly or indirectly through not seeking medical treatment), enslavement, or dehumanizing other religious faiths.).
-att(13374, root).
-
-arg(13278).
-text(13278, If people cannot agree on how to define the word "religion" or "religious," there is no way for us to have any meaningful conversation about what is or isn't religion. Anyone could claim that anything is a religion. The word itself would be functionally useless, as it would have no fixed meaning.).
-att(13278, root).
-
-arg(13375).
-text(13375, Some governments have recognised it as one. ).
-att(13375, root).
+arg(13428).
+text(13428, Which religion didn't directly cause people's death?).
+att(13428, 13295).
 
 arg(13377).
 text(13377, Bad Religion is a kickass Punk band...).
@@ -24,14 +16,6 @@ att(13377, root).
 arg(13229).
 text(13229, It is based on a novel by a famous science fiction writer and has yet to back up any claims with proof of any kind.).
 support(13229, root).
-
-arg(13287).
-text(13287, Scientology isn't a religion.).
-att(13287, root).
-
-arg(13274).
-text(13274, The term "bad" is extremely subjective.  Do you mean bad as in harmful, bad as in untrue, etc?).
-att(13274, root).
 
 arg(13243).
 text(13243, What religion has ever backed up any claims. ).
@@ -45,15 +29,31 @@ arg(13271).
 text(13271, you are also religious in some form just not accepting it).
 att(13271, 13243).
 
+arg(13278).
+text(13278, If people cannot agree on how to define the word "religion" or "religious," there is no way for us to have any meaningful conversation about what is or isn't religion. Anyone could claim that anything is a religion. The word itself would be functionally useless, as it would have no fixed meaning.).
+att(13278, 13270).
+
+arg(13375).
+text(13375, Some governments have recognised it as one. ).
+att(13375, 13287).
+
+arg(13287).
+text(13287, Scientology isn't a religion.).
+att(13287, root).
+
+arg(13274).
+text(13274, The term "bad" is extremely subjective.  Do you mean bad as in harmful, bad as in untrue, etc?).
+att(13274, root).
+
 arg(13295).
 text(13295, People have died who otherwise wouldn't have if they had disobeyed Scientology's rules.The existence of Scientology has directly caused peoples unavoidable deaths.).
 support(13295, root).
 
-arg(13427).
-text(13427, Without more clarity on what "backed up" means, who has ever backed up anything?).
-att(13427, 13243).
+arg(13442).
+text(13442, This depends on your definition or "religious." Some people consider belief in *anything* religion, while some only apply it to belief in a god/deity/higher power.).
+att(13442, 13271).
 
-arg(13428).
-text(13428, Which religion didn't directly cause people's death?).
-att(13428, 13295).
+arg(13374).
+text(13374, Most religions have had people that have used their name or belief structure for killing (i.e. directly or indirectly through not seeking medical treatment), enslavement, or dehumanizing other religious faiths.).
+att(13374, 13295).
 

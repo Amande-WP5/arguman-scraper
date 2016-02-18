@@ -1,10 +1,6 @@
 arg(root).
 text(root, Helicopters are natural).
 
-arg(16077).
-text(16077, Between climate change and overactive logging, helicopter trees will soon be extinct and then we'll have to rely on unnatural, synthetic helicopters.).
-att(16077, root).
-
 arg(6489).
 text(6489, They are just a stepping stone in human evolution. We create helicopters to improve our lives, much like birds create nests and beavers make dams. All of these are natural.).
 support(6489, root).
@@ -16,4 +12,8 @@ support(6449, root).
 arg(7069).
 text(7069, Because if it contradicted any natural law, they wouldn't exist. Also, they're made of materials which come from nature. Plus, they use the laws of physics and the element of air to fly.).
 support(7069, root).
+
+arg(16077).
+text(16077, Between climate change and overactive logging, helicopter trees will soon be extinct and then we'll have to rely on unnatural, synthetic helicopters.).
+att(16077, 6449).
 

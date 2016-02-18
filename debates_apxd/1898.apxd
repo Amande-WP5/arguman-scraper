@@ -1,11 +1,11 @@
 arg(root).
 text(root, Internet is beautiful).
 
-arg(12036).
-text(12036, The internet has many characteristics of something that has beauty.).
-support(12036, root).
-
 arg(12007).
 text(12007, /r/InternetIsBeautiful).
 support(12007, root).
+
+arg(12036).
+text(12036, The internet has many characteristics of something that has beauty.).
+support(12036, root).
 

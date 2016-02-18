@@ -1,21 +1,25 @@
 arg(root).
 text(root, Your sexuality is interchangeable; it is not a solid nor pre-determined state).
 
-arg(16176).
-text(16176, We mustn't assume anything, rather, we should ignore what isn't relevant.  What IS relevant is what a person perceives as attractive in another.  This is not strictly dependent on biological sex or gender identity, nor does it depend on binary genders.  Can a person's taste, then,  change over time?).
-att(16176, root).
-
-arg(16140).
-text(16140, maybe you`re right. But that the thesis that biology determine biological phenomena doesn`t say much. You can switch your sexual desires in one live, and this switch come along with a decision or a discovery about your disires. Of course you could say, that a neuronal pattern has determine this, but).
-att(16140, root).
-
-arg(16139).
-text(16139, this is not a question for a dictionnary. Is a philosophical question with a certain purpose. The purpose is define by the object(s) that are investigated by the philosophical question. It`s now the question which objects are mean. Now you can maybe understand the comment better.).
-att(16139, root).
-
 arg(16105).
 text(16105, Sexuality as in gender (when hovering over the term) is physiological. XX or XY chromosome (excluding any syndroms).).
 att(16105, root).
+
+arg(16079).
+text(16079, sexuality can be defined to include thoughts and actions, which can change in intensity and direction as a person ages, when they learn more about themselves and gain more experience.).
+support(16079, root).
+
+arg(16140).
+text(16140, maybe you`re right. But that the thesis that biology determine biological phenomena doesn`t say much. You can switch your sexual desires in one live, and this switch come along with a decision or a discovery about your disires. Of course you could say, that a neuronal pattern has determine this, but).
+att(16140, 6212).
+
+arg(16176).
+text(16176, We mustn't assume anything, rather, we should ignore what isn't relevant.  What IS relevant is what a person perceives as attractive in another.  This is not strictly dependent on biological sex or gender identity, nor does it depend on binary genders.  Can a person's taste, then,  change over time?).
+att(16176, 14605).
+
+arg(16139).
+text(16139, this is not a question for a dictionnary. Is a philosophical question with a certain purpose. The purpose is define by the object(s) that are investigated by the philosophical question. It`s now the question which objects are mean. Now you can maybe understand the comment better.).
+att(16139, 16104).
 
 arg(16104).
 text(16104, Hovering over sexuality:
@@ -25,19 +29,15 @@ text(16104, Hovering over sexuality:
     is a Grammatical Category
 
 It clearly states "Physiological Property").
-att(16104, root).
-
-arg(16079).
-text(16079, sexuality can be defined to include thoughts and actions, which can change in intensity and direction as a person ages, when they learn more about themselves and gain more experience.).
-support(16079, root).
-
-arg(16076).
-text(16076, Different people have their sex drive changed by external factors at different degrees. One may be more susceptible to said factors more than one more rigid in their erotic plasticity.).
-support(16076, root).
+att(16104, 14605).
 
 arg(6246).
 text(6246, One needs to divide psychology from biology here. Emotions refers to psychology. Thus your premise states that a change in psychology has dictated a change in sexual preference. But to what extent does this oversee our innate biological pre-programmed desires?).
-att(6246, root).
+att(6246, 6235).
+
+arg(6212).
+text(6212, Sexual preference is a pre-determined biological phenomena which dictates our desires).
+att(6212, root).
 
 arg(14605).
 text(14605, we should first ask, what we mean with "sexuality". It`s just gender (penis vs. vagina) or it`s more like a drive, that it`s like appetit (that can have a lot of different objects), or it is something else.).
@@ -49,7 +49,7 @@ text(6235, For most it is, and in our ever growing hugbox society, it is becomin
 A giant appeal to emotion if you will.).
 att(6235, root).
 
-arg(6212).
-text(6212, Sexual preference is a pre-determined biological phenomena which dictates our desires).
-att(6212, root).
+arg(16076).
+text(16076, Different people have their sex drive changed by external factors at different degrees. One may be more susceptible to said factors more than one more rigid in their erotic plasticity.).
+support(16076, root).
 

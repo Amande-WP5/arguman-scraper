@@ -5,52 +5,52 @@ arg(16142).
 text(16142, In Britain Sharia legally operates under the arbitration act 1996, providing each party agrees to the arbitration process. Muslim women are often coerced to agree and British law does not protect them in divorce, custody or inheritance disputes.).
 att(16142, root).
 
-arg(16141).
-text(16141, A government could legalize Sharia law without public consent - unless a referendum were held.).
-att(16141, root).
-
 arg(16006).
 text(16006, Banning religions has historically had a bad press...).
 att(16006, root).
-
-arg(15844).
-text(15844, Slavery IS BEING justified under that rationale. Look at the Yazidi.).
-support(15844, root).
 
 arg(15690).
 text(15690, It should be banned everywhere. It is an outdated, man-made, barbaric ruling system that contradicts with basic human rights. I will never have any connection with any ignorant human being who accepts such laws. It justifies murder if someone converts from Islam along with many other horrible acts. ).
 support(15690, root).
 
+arg(16141).
+text(16141, A government could legalize Sharia law without public consent - unless a referendum were held.).
+att(16141, 15522).
+
+arg(15844).
+text(15844, Slavery IS BEING justified under that rationale. Look at the Yazidi.).
+support(15844, 15689).
+
 arg(15689).
 text(15689, Slavery can be justified under the same rational. The majority shouldn't be allowed to use oppression and violence to impose their views on everyone else. This is extremely ignorant and contradicts with basic human rights.).
-att(15689, root).
+att(15689, 8688).
 
 arg(15611).
 text(15611, Most democratic governments today are not either direct or pure democracies, but democratic republics with a constitution. A constitution, even though amendable, means that certain rights are inalienable. Not being a direct democracy means you don't get to vote on everything, only to elect leaders.).
-att(15611, root).
+att(15611, 15522).
 
-arg(15522).
-text(15522, The point of a democracy is to vote on the subject. A democratic country may vote to enact Sharia law, or not to. It is up to the people. All "moderate" muslim countries with partial/full democracies don't fully enact sharia law and are unlikely to, even with majority muslim rule.).
-att(15522, root).
+arg(15534).
+text(15534, Sharia low should be banned everywhere.).
+support(15534, root).
+
+arg(8688).
+text(8688, A democratic society (especially one with a significant Muslim population) may decide to enact some or all of the ideas in Sharia law by democratic means. As long as the will to enact such a law comes from the people, doing so does not contradict democratic ideals.).
+att(8688, root).
+
+arg(15584).
+text(15584, The concept of democracy is based on the belief that that all people should have an equal voice in their nation. Sharia law favors one group over all the others. Without basic freedoms, protections, and rights for the minority, democracy becomes a farce. ).
+support(15584, 15534).
+
+arg(8782).
+text(8782, Exactly. It doesn't matter how outdated, barbaric, irrational, inhumane it is. As long as it was voted into power, it democratically deserves it.).
+support(8782, 8688).
 
 arg(15610).
 text(15610, I, and many people who want a democracy, actually want a democratic republic with a constitution. This prevents certain rights from voted away.
 (the question is not phrased clearly enough)).
 support(15610, root).
 
-arg(15584).
-text(15584, The concept of democracy is based on the belief that that all people should have an equal voice in their nation. Sharia law favors one group over all the others. Without basic freedoms, protections, and rights for the minority, democracy becomes a farce. ).
-support(15584, root).
-
-arg(15534).
-text(15534, Sharia low should be banned everywhere.).
-support(15534, root).
-
-arg(8782).
-text(8782, Exactly. It doesn't matter how outdated, barbaric, irrational, inhumane it is. As long as it was voted into power, it democratically deserves it.).
-support(8782, root).
-
-arg(8688).
-text(8688, A democratic society (especially one with a significant Muslim population) may decide to enact some or all of the ideas in Sharia law by democratic means. As long as the will to enact such a law comes from the people, doing so does not contradict democratic ideals.).
-att(8688, root).
+arg(15522).
+text(15522, The point of a democracy is to vote on the subject. A democratic country may vote to enact Sharia law, or not to. It is up to the people. All "moderate" muslim countries with partial/full democracies don't fully enact sharia law and are unlikely to, even with majority muslim rule.).
+att(15522, root).
 

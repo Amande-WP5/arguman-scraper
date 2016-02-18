@@ -17,6 +17,10 @@ arg(8470).
 text(8470, A society of predominantly logical people would have a democracy that is representative of the smartest people.).
 att(8470, 8396).
 
+arg(8770).
+text(8770, This is outside the premise of the argument, as the argument states that most people are illogical).
+att(8770, 8470).
+
 arg(7094).
 text(7094, Most people are illogical because they are not trained to be logical. ).
 att(7094, root).
@@ -26,10 +30,6 @@ text(8475, Being logical is not human nature. However, enforcing structure over 
 
 This is one of the human fallacies, often the most direct and obvious solution as preferred by human, is the wrong one. ).
 att(8475, root).
-
-arg(8770).
-text(8770, This is outside the premise of the argument, as the argument states that most people are illogical).
-att(8770, 8470).
 
 arg(8776).
 text(8776, The dumbest people are the easiest to be cajoled into action with slogans, catchy music and/or fear. They are also the most likely to vote on single issue politics motivated in these ways.They are the least likely to do research and approach a situation pragmatically.).

@@ -1,38 +1,6 @@
 arg(root).
 text(root, The world view that makes the fewest assumptions is the most reasonable and believable).
 
-arg(14899).
-text(14899, How do we determine how bad an assumption is without knowing the truth? And if we knew the truth, we wouldn't need the assumption.
-
-While you're point is interesting and true, I don't see how it actually plays out usefully outside of theory.).
-att(14899, root).
-
-arg(14417).
-text(14417, A True Belief, while true, is indistinguishable from a False Belief if it is not justified. Just as many once thought the sun rotated around the earth and believed fire is hot, we can have true and false beliefs. We need justification to separate the wheat from chaff. ).
-support(14417, root).
-
-arg(14942).
-text(14942, I agree we can’t know when we have a true belief, but we still can have it.
-By example if someone believes "A", and another believes "no A", at least one of them has a true belief, even if we can’t know who for sure.).
-att(14942, root).
-
-arg(14941).
-text(14941, This wasn't a objection.
-I was trying to say we could have justified true beliefs, but with a wrong justification.).
-att(14941, root).
-
-arg(14735).
-text(14735, You have least chance to be wrong if you justify a belief using only the assumption that "grass in green", that if you need to use the extra assumptions that "water is blue" and that "tree is brown".).
-att(14735, root).
-
-arg(14952).
-text(14952, is only word-play: when I say, the water is blue, then I make a assumption (Behauptung). So, we make very many of them. And that`s not wrong. I know, because we can justify them. But the richness of assumptions don`t make the world unbelievable (they aren`t metaphysical assumptions).).
-att(14952, root).
-
-arg(14423).
-text(14423, We cannot achieve perfectly Justified True Belief without having perfect knowledge. Therefore every attempt at JTB is just a JB and should be open to revision as we improve our evidence and reasoning.).
-att(14423, root).
-
 arg(14943).
 text(14943, There are many methods to know how bad a assumption is, without knowing the truth. (fortunately, because we can’t know the truth for sure.)).
 att(14943, 14899).
@@ -42,39 +10,13 @@ text(14945, If a assumption "A", implies "B" and "C".
 "B" and "C" are better than "A", because they assume less.).
 support(14945, 14943).
 
-arg(14897).
-text(14897, Not all knowledge directly contributes to empathy, but better understanding the range of human experiences, the power of psychological traps, and how to more effectively help people all does.
-
-Please use charitable interpretations of the argument, else we waste everyones time.).
-att(14897, root).
-
-arg(14988).
-text(14988, that`s right, but there are cases, where it is not always good to empathize, because it could lead to bad decisions. However; if I see you in trivial life as a "zombie" f.e. then I could treat you like a person without worth; because I think you just a physical blob. Or I may doubt your autonomy. ).
-att(14988, root).
-
-arg(14683).
-text(14683, who want not something better ? A good question is this. Why should we investigate further ? Even better: Should we investigate further? Your question suggest positive answers.).
-att(14683, root).
-
 arg(14680).
 text(14680, but I don`t know why assumptions are something bad or contrary to true believe ? When I say the water is blue, the grass is green, the tree is brown etc. and a lot more. Why is it bad ? I think the mistake are metaphysical premises but not assumptions.).
 att(14680, 14417).
 
-arg(14682).
-text(14682, uncertainy can be nice. you know,... the facination of the mystery).
-att(14682, root).
-
-arg(14681).
-text(14681, I don`t know how the knowledge of black holes, lead to more empathy. Nor the knowledge of psychological priciples, or something like that. Empathy is based on sympathy, sympathy is based on subjective evaluation, but not on facts. Even this fact doesn`t lead to more empathy.).
-att(14681, root).
-
 arg(14896).
 text(14896, Mystery is usually nice due to the promise of the thrill of discovery, or do to fear of knowing the truth. The first shows that mystery is just an intermediary step toward understanding, and the second is an unfortunate and probably unhealthy condition.).
 att(14896, 14682).
-
-arg(14419).
-text(14419, A Justified (but not True) Belief can fail to be true for at least 2 reasons: 1) because we lack the evidence or awareness of the evidence to justify the actually true belief, or 2) because we have chosen poor justifications, such as logical fallacies. ).
-support(14419, root).
 
 arg(14898).
 text(14898, I don't understand, can you rephrase please?).
@@ -84,10 +26,6 @@ arg(14900).
 text(14900, Grass is green is a statement justified by experience. It also can be justified by measuring the wavelengths of light it reflects. Those statements are not an example of True Belief lacking justification. You can't actually give me an example, because we can't know its true without justification.).
 att(14900, 14680).
 
-arg(14901).
-text(14901, This concern/objection is addressed by the nearby "however" node, stating: "We cannot achieve perfectly Justified True Belief without having perfect knowledge. Therefore, ever attempt at gaining Justified True Belief is actually just Justified Belief, thus all beliefs should be open to revision.).
-att(14901, root).
-
 arg(14734).
 text(14734, The belief that the sun rotated around the earth is a interesting example.
 It was a "true" "justified" belief :
@@ -95,10 +33,6 @@ It is "true", because movement is relative, we can choose the reference frame we
 It was justified by some old theories (based on observations)
 But the justifications was wrong.).
 att(14734, 14417).
-
-arg(14736).
-text(14736, Some assumption are worst than others, then the number of assumptions isn’t the only thing that matter.).
-att(14736, root).
 
 arg(14944).
 text(14944, By example, if a assumption is falsifiable, it is better than if it isn’t.).
@@ -112,6 +46,66 @@ arg(14954).
 text(14954, ...we shouldn`t want to understand the world better, because is more important that we behave right. That we live a moral live.).
 att(14954, 14953).
 
+arg(14417).
+text(14417, A True Belief, while true, is indistinguishable from a False Belief if it is not justified. Just as many once thought the sun rotated around the earth and believed fire is hot, we can have true and false beliefs. We need justification to separate the wheat from chaff. ).
+support(14417, 14416).
+
+arg(14942).
+text(14942, I agree we can’t know when we have a true belief, but we still can have it.
+By example if someone believes "A", and another believes "no A", at least one of them has a true belief, even if we can’t know who for sure.).
+att(14942, 14901).
+
+arg(14941).
+text(14941, This wasn't a objection.
+I was trying to say we could have justified true beliefs, but with a wrong justification.).
+att(14941, 14901).
+
+arg(14735).
+text(14735, You have least chance to be wrong if you justify a belief using only the assumption that "grass in green", that if you need to use the extra assumptions that "water is blue" and that "tree is brown".).
+att(14735, 14680).
+
+arg(14952).
+text(14952, is only word-play: when I say, the water is blue, then I make a assumption (Behauptung). So, we make very many of them. And that`s not wrong. I know, because we can justify them. But the richness of assumptions don`t make the world unbelievable (they aren`t metaphysical assumptions).).
+att(14952, 14900).
+
+arg(14423).
+text(14423, We cannot achieve perfectly Justified True Belief without having perfect knowledge. Therefore every attempt at JTB is just a JB and should be open to revision as we improve our evidence and reasoning.).
+att(14423, 14416).
+
+arg(14897).
+text(14897, Not all knowledge directly contributes to empathy, but better understanding the range of human experiences, the power of psychological traps, and how to more effectively help people all does.
+
+Please use charitable interpretations of the argument, else we waste everyones time.).
+att(14897, 14681).
+
+arg(14988).
+text(14988, that`s right, but there are cases, where it is not always good to empathize, because it could lead to bad decisions. However; if I see you in trivial life as a "zombie" f.e. then I could treat you like a person without worth; because I think you just a physical blob. Or I may doubt your autonomy. ).
+att(14988, 14969).
+
+arg(14683).
+text(14683, who want not something better ? A good question is this. Why should we investigate further ? Even better: Should we investigate further? Your question suggest positive answers.).
+att(14683, 14407).
+
+arg(14682).
+text(14682, uncertainy can be nice. you know,... the facination of the mystery).
+att(14682, 14411).
+
+arg(14681).
+text(14681, I don`t know how the knowledge of black holes, lead to more empathy. Nor the knowledge of psychological priciples, or something like that. Empathy is based on sympathy, sympathy is based on subjective evaluation, but not on facts. Even this fact doesn`t lead to more empathy.).
+att(14681, 14412).
+
+arg(14419).
+text(14419, A Justified (but not True) Belief can fail to be true for at least 2 reasons: 1) because we lack the evidence or awareness of the evidence to justify the actually true belief, or 2) because we have chosen poor justifications, such as logical fallacies. ).
+support(14419, 14416).
+
+arg(14901).
+text(14901, This concern/objection is addressed by the nearby "however" node, stating: "We cannot achieve perfectly Justified True Belief without having perfect knowledge. Therefore, ever attempt at gaining Justified True Belief is actually just Justified Belief, thus all beliefs should be open to revision.).
+att(14901, 14734).
+
+arg(14736).
+text(14736, Some assumption are worst than others, then the number of assumptions isn’t the only thing that matter.).
+att(14736, 14415).
+
 arg(14955).
 text(14955, but JB could also leads to the other way, to less empathy. (The notion of Determinism, the notion of philosphical zombies, the denial of free will). That doesn`t make your statement untrue. But it is warn sign. We shouldn`t euphemize JB.).
 att(14955, 14897).
@@ -121,14 +115,6 @@ text(14969, The denial of free will make people more empathetic not less.
 Because thinking people are guilty is one of the strongest way to lose empathy.).
 att(14969, 14955).
 
-arg(14407).
-text(14407, Premise Grouping 1: Why should we want to understand the world better? How is it actually more useful?).
-att(14407, root).
-
-arg(14408).
-text(14408, Premise Grouping 2: Why are the fewest assumptions the most reasonable?).
-att(14408, root).
-
 arg(14411).
 text(14411, Aside from being effective, we can simply want to develop a more accurate view of the world for the love of understanding. For the pleasure of curiosity and the love of truth.).
 support(14411, 14407).
@@ -136,10 +122,6 @@ support(14411, 14407).
 arg(14412).
 text(14412, It helps us be more compassionate. Having a better understanding of the world and what people are going through enables us to better empathize.).
 support(14412, 14407).
-
-arg(14416).
-text(14416, Justified True Belief is the goal because it is the most consistent way to build an accurate understanding or model of the world.).
-support(14416, root).
 
 arg(14420).
 text(14420, Logical fallacies are reasoning that have provably failed to determine the truth of a hypothesis or belief, and are therefore not useful for determining the truth. Example: "Well Socrates thought the sun revolved around the earth, and he was a smart guy." Fallacy: appeal to authority.).
@@ -154,4 +136,22 @@ support(14415, 14408).
 arg(14409).
 text(14409, Those who have an accurate understanding of the world are more capable at navigating dangers and effecting change. Meteorologists who don't understand what temperatures cause rain to become snow are going to be less effective at their job than those who do.).
 support(14409, 14407).
+
+arg(14899).
+text(14899, How do we determine how bad an assumption is without knowing the truth? And if we knew the truth, we wouldn't need the assumption.
+
+While you're point is interesting and true, I don't see how it actually plays out usefully outside of theory.).
+att(14899, 14736).
+
+arg(14416).
+text(14416, Justified True Belief is the goal because it is the most consistent way to build an accurate understanding or model of the world.).
+support(14416, 14415).
+
+arg(14407).
+text(14407, Premise Grouping 1: Why should we want to understand the world better? How is it actually more useful?).
+att(14407, root).
+
+arg(14408).
+text(14408, Premise Grouping 2: Why are the fewest assumptions the most reasonable?).
+att(14408, root).
 

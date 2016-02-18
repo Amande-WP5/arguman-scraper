@@ -1,3 +1,11 @@
 arg(root).
 text(root, Saving our nation with two magical words: socialized prostitution. ).
 
+arg(18008).
+text(18008, receiving the service will be mandatory).
+att(18008, root).
+
+arg(16424).
+text(16424, Which nation are we talking about?).
+att(16424, root).
+

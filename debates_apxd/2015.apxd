@@ -1,9 +1,29 @@
 arg(root).
 text(root, Arguman's character limit for a premise is good for discourse).
 
+arg(16417).
+text(16417, When you need to explain a long thing you have to rely to multiple posts, and sometimes such long explanations are needed for the other party understand your view on the matter.).
+att(16417, root).
+
 arg(13379).
 text(13379, unless I'm using the service wrong, it would be nice to have links to learn more about the topic (i.e. sources urls)).
 att(13379, root).
+
+arg(17824).
+text(17824, Sometimes it is necessary to describe certain points of a conversation in greater detail because some points can be easily misinterpreted or misunderstood.).
+att(17824, 13332).
+
+arg(17825).
+text(17825, Some premises, even when explained in succinct term, can exceed the character cap.).
+att(17825, 13333).
+
+arg(17701).
+text(17701, Some time they will make their premise less clear by trying to speak in succinct terms.).
+att(17701, 13333).
+
+arg(17700).
+text(17700, In verbal conversation you can take time to explain a particular point.).
+att(17700, 13332).
 
 arg(13332).
 text(13332, It is similar to how people speak in verbal conversation.).
@@ -12,4 +32,28 @@ support(13332, root).
 arg(13333).
 text(13333, It forces people to speak in succinct terms and makes it harder for people to make superfluous arguments. ).
 support(13333, root).
+
+arg(18926).
+text(18926, It makes it clearer what portion of an argument is being objected to in a 'but' premise.).
+support(18926, root).
+
+arg(18925).
+text(18925, Such a feature exists.).
+att(18925, 13379).
+
+arg(18924).
+text(18924, This is desirable, since it makes the skills learned more transferable.).
+support(18924, 13332).
+
+arg(18600).
+text(18600, Then that person simply lacks the skill to speak in short and clear terms.).
+att(18600, 17701).
+
+arg(19313).
+text(19313, An explanation itself consists of justification for the claim; which means it can be broken up into premises and claim. So, rather than writing an explanation, just add those subnodes.).
+att(19313, 16417).
+
+arg(19312).
+text(19312, But the very point of the argument map is to write short and concise premises. If there are any long explanations, those would be provided in sources such as Wikipedia. Such sources can be linked. So there is no need to include long explanations.).
+att(19312, 16417).
 

@@ -1,0 +1,47 @@
+arg(root).
+text(root, Society is becoming more distributed and decentralized.).
+
+arg(16895).
+text(16895, Counterexample: Large, censorable communications hubs (Facebook, Twitter)).
+att(16895, root).
+
+arg(16894).
+text(16894, Example: Decentralized currency (Bitcoin)).
+support(16894, root).
+
+arg(16893).
+text(16893, Example: Distributed information sharing (bittorrent)).
+support(16893, root).
+
+arg(16685).
+text(16685, We finally have technology to make it happen.
+
+The more people are connected to the internet, the better chances we have to distribute power back to the people.).
+support(16685, root).
+
+arg(16816).
+text(16816, More and more fewer people control the richness and the means of production, and this tends to centralize more until all the richness is in the hands of a handful of persons.).
+att(16816, root).
+
+arg(16684).
+text(16684, Centralization of power has also been strengthening simultaneously, due to Big Business and political elite's efforts to preserve the status quo.
+
+Those who are in power wish to stay in power.).
+att(16684, root).
+
+arg(16686).
+text(16686, People have an intrinsic need to be autonomous AND interdependent.
+
+Applications of decentralization – such as CouchSurfing and Uber – makes people get accustomed to using freedom.).
+support(16686, root).
+
+arg(16688).
+text(16688, "...but nothing is harder to learn how to use than freedom.”
+– Alexis de Tocqueville).
+att(16688, 16687).
+
+arg(16687).
+text(16687, “Nothing is more wonderful than the art of being free..."
+– Alexis de Tocqueville).
+support(16687, 16686).
+

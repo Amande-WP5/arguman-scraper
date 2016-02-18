@@ -3,23 +3,19 @@ text(root, Correct ellipses (U+2026) should be used for GNOME zh_CN L10N).
 
 arg(15172).
 text(15172, The GNOME msgids use the correct ellipses already.).
-support(15172, root).
-
-arg(15176).
-text(15176, The 1.1 guide was outdated -- last updated in August 2009. New and better typefaces like Source Han Sans have come out, and there were exciting new changes in FreeType.).
-att(15176, root).
+support(15172, 15170).
 
 arg(15177).
 text(15177, The 1.1 guide wasn't written by any typography nor Chinese translation/literature professionals. It was written by a group of volunteers consisting mainly of ordinary users and programmers with their feeling on UI language from all the software they use.).
-att(15177, root).
+att(15177, 15170).
 
 arg(15171).
 text(15171, The guide can be changed, and as stated before, it contains too many over-workarounds.).
-att(15171, root).
+att(15171, 15170).
 
 arg(15173).
 text(15173, There are no professionals to tweak rendering on Linux to make them look as good as those on Windows or OS X.).
-att(15173, root).
+att(15173, 15167).
 
 arg(15174).
 text(15174, For MS Windows's TT flavor, FreeType easily reproduces the effects of TT Bytecode hinting. It even automatically reproduces the MSYH 6.20 bug on Windows 10 Technical Preview.).
@@ -29,27 +25,31 @@ arg(15175).
 text(15175, OS X rendering tactics is generally hintnone + antialias, something that's really easy to mimic. On Windows, Mac fans use a software called MacType to replace GDI rendering with FreeType so they could configure it to give Mac-like rendering.).
 support(15175, 15173).
 
-arg(15166).
-text(15166, It follows the GNOME HIG to use correct  punctuations.).
-support(15166, root).
+arg(15169).
+text(15169, Big commercial companies that care about typography like Apple also uses the correct ellipses for both languages.).
+support(15169, 15166).
 
 arg(15170).
 text(15170, The zh_CN L10N guide version <=1.1 doesn't support this usage.).
 att(15170, root).
 
-arg(15169).
-text(15169, Big commercial companies that care about typography like Apple also uses the correct ellipses for both languages.).
-support(15169, 15166).
-
-arg(15168).
-text(15168, Those typefaces are outdated and too far from GNOME's design. People won't be willing to use them in the UI, and they don't.).
-att(15168, root).
-
 arg(15167).
 text(15167, It causes ugly sights with some typefaces.).
 att(15167, 15166).
 
+arg(15166).
+text(15166, It follows the GNOME HIG to use correct  punctuations.).
+support(15166, root).
+
+arg(15176).
+text(15176, The 1.1 guide was outdated -- last updated in August 2009. New and better typefaces like Source Han Sans have come out, and there were exciting new changes in FreeType.).
+att(15176, 15170).
+
 arg(15165).
 text(15165, It's national standard.).
 support(15165, root).
+
+arg(15168).
+text(15168, Those typefaces are outdated and too far from GNOME's design. People won't be willing to use them in the UI, and they don't.).
+att(15168, 15167).
 

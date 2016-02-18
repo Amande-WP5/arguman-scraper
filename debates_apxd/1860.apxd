@@ -1,11 +1,11 @@
 arg(root).
 text(root, Life has no inherent meaning, other than what we make of it. ).
 
-arg(11972).
-text(11972, The Bible shows that our purpose in life is to build a friendship with God and live happily on earth as perfect humans for ever and ever. (Isaiah 45:18 and Ecclesiastes 12:13)).
-att(11972, root).
-
 arg(11984).
 text(11984, That is a mere book containing words that do not hold any real weight. What the bible says is irrelevant. ).
 att(11984, 11972).
+
+arg(11972).
+text(11972, The Bible shows that our purpose in life is to build a friendship with God and live happily on earth as perfect humans for ever and ever. (Isaiah 45:18 and Ecclesiastes 12:13)).
+att(11972, root).
 

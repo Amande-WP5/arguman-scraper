@@ -1,0 +1,35 @@
+arg(root).
+text(root, Teaching evolution in biology classes should be mandatory, with no chance to opt out).
+
+arg(17690).
+text(17690, "note: Biology is not mandatory"
+
+-
+
+That is true to some extent. Depending on which country though, it is mandatory.).
+att(17690, 17630).
+
+arg(17689).
+text(17689, Biology is the study of the past and current lifeforms, thus it is necessary to understand evolution. The notion that biology only cares about current lifeforms is false. The understanding of current lifeforms is just a part of it.).
+att(17689, 17630).
+
+arg(17630).
+text(17630, You have not presented a reason why evolution is essential to biology.  Biology is the study of life and living organisms. While evolution has affected aspects of living organisms compared to past 'versions', it is not essential to understanding the current 'versions'. note: Biology is not mandatory).
+att(17630, 17325).
+
+arg(17327).
+text(17327, If you want to live in a modern society in the developed world, where one assumes knowledge and schools are a thing, evolution should be mandatory. But, in a more general, abstract sense, you're right. ).
+att(17327, 17323).
+
+arg(17326).
+text(17326, In most countries it is mandatory for kids to go to school and most of the subjects are mandatory including biology. Since biology is mandatory, evolution automatically becomes mandatory too since it wouldn't work without it.).
+att(17326, 17323).
+
+arg(17325).
+text(17325, Evolution is essential to biology. Since biology is mandatory, just like any other subject like math, chemistry etc. why should biology be different?).
+support(17325, root).
+
+arg(17323).
+text(17323, People have the right to choose what they desire to learn about. To insist that learning any concept be mandatory, is to insist that you have a higher right to someone else's mind than they themselves do.).
+att(17323, root).
+

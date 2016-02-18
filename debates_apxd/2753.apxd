@@ -1,0 +1,7 @@
+arg(root).
+text(root, Web programming is getting unnecessarily complicated).
+
+arg(19541).
+text(19541, More and more webpages and applications process an ammount of code, including libraries and frameworks that is not necessary for they to properly work. ).
+support(19541, root).
+

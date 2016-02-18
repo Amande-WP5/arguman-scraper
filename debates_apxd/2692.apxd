@@ -1,0 +1,7 @@
+arg(root).
+text(root, Does Hell really exist?).
+
+arg(18666).
+text(18666, How can a God who supposedly loves His children want to make them suffer for another eternity? To me, God put us on earth to learn to live, and figure out our mistakes, not to enter another hell when we die. On some other note, is Hell low-key the leading cause of air pollution and climate change?).
+support(18666, root).
+

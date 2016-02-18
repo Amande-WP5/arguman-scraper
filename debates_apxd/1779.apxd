@@ -1,32 +1,54 @@
 arg(root).
 text(root, If a man gets a woman pregnant under the impression she was on birthcontrol, and she wishes to keep the child but he does not, then he should be able to opt out of any legal responsibilities).
 
-arg(12537).
-text(12537, No contraception is absolutely 100% effective. Both parties must recognize the inherent chance of pregnancy and agree beforehand what will both do, if it happens. If no such agreement exists, man has to accept his share of responsibility.).
-att(12537, root).
+arg(12900).
+text(12900, When it is the case that the woman know, and it is recent, do you agree that in this case, pregnancy aren’t forced on the woman ?).
+att(12900, 12894).
 
-arg(11894).
-text(11894, The scenario itself defeats your point, the fact that this woman said and very well may have applied a contraceptive does not mean that her mind will not change in the future or that you should necessarily rely on the woman to be honest about her fertility. ).
-att(11894, root).
+arg(12930).
+text(12930, Support for (3)
+Having sex with the woman does not indicate that he wishes to forfeit his rights. Because sex is not done in all instances with the goal of pregnancy - as seen in humans and other animals. Impregnation isn't an agreement to have a child so why is it an agreement to pay for support
+).
+support(12930, 12923).
 
-arg(12545).
-text(12545, If he agrees to sex with woman without first agreeing on how to deal with potential pregnancy, he may not post factum decline his share of responsibility.
+arg(12579).
+text(12579, It is an analogy. You are using a crosswalk and a car as an analogy for sex. This could be seen as a false analogy for many reasons, not the least of which being that being hit by a car is not a consensual agreement between parties, nor can the consequences of it be mitigated by cheap technology.).
+att(12579, 12568).
 
-No birth control is 100% effective even if applied in good faith.).
-att(12545, root).
+arg(12590).
+text(12590, What is not what i do
+I don’t compare crossing a road with having sex
+I want to prove "not (whatever x, p(x))"
+Where p(x) is "if you could decrease the chance that x happen, then you are responsible of x"
+Then i give a example, y, where p(y) is false
+i don’t try to prove "whatever x, not p(x))").
+att(12590, 12588).
 
-arg(10733).
-text(10733, Being alive with no welfare is still better than being aborted.).
-att(10733, root).
+arg(12563).
+text(12563, If the women say she is not on birth control, you are not on impression that she is.).
+att(12563, 12114).
 
-arg(12561).
-text(12561, It is not because you have a way to decrease the probability that something happen, that you are responsible of it.
-If you cross a road on a crosswalk, and a car hit you, you are not held responsible, even if by being more careful, or by don’t crossing road, you can avoid it.).
-att(12561, root).
+arg(12548).
+text(12548, True. The woman gets the choice to have or not to have the child, because she alone has the power to produce it.
 
-arg(10556).
-text(10556, The premise remains- if a woman gets pregnant even though all precautions have been made, the end result should be something both parties can concur on. If not, then he should be able to waiver all legal responsibilities.).
-att(10556, root).
+The man had the choice of having or avoiding sex with the woman. If he made a choice of having sex, he ipso facto acknowledges possibility of child and thus his share of childcare.).
+att(12548, 10793).
+
+arg(12051).
+text(12051, While I completely support that the man should be relieved of responsibility if he announces in time he doesn't want the child. Forcing a woman to go through a pregnancy she doesn't want, or forcing her to have an abortion against her will are both very extreme, the woman should get the say here.).
+att(12051, 11877).
+
+arg(11925).
+text(11925, The agreement isn't between the male and the female, a third party is not considered here and that is the welfare of the child. I am fairly certain that in our society, you are ethically and morally responsible for your offspring regardless of how the child was conceived because no one else is.  ).
+att(11925, 11907).
+
+arg(12555).
+text(12555, By having sex with a woman, an adult man is expected by society, according to its laws, to understand that it may result in pregnancy and a progeny.
+
+He has the choice of engaging or not in sex and thus assuming or not the inherent risk of providing child support.
+
+Sex is not human right.).
+att(12555, 12248).
 
 arg(12566).
 text(12566, With the same logic, if a women have sex with a man without first agreeing on how to deal with potential pregnancy, she may not post factum decline his share of responsibility, and choose alone to abort or not.
@@ -37,34 +59,18 @@ arg(12568).
 text(12568, It can’t be a false analogy, because it is not a analogy, it is a example to prove my first point.).
 att(12568, 12561).
 
-arg(10790).
-text(10790, It is extremely easy to prove, the baby doesn't just pop out. The man can say during pregnancy that he didn't want to have a child. ).
-att(10790, root).
-
-arg(12573).
-text(12573, It is a worse punishment than most of the punishment you could get for much more morally screwed things you could do.).
-support(12573, root).
-
-arg(10793).
-text(10793, If a women doesn't want a child, gets an abortion, even if the man thinks she's killing his "living child". If the woman does want to save the clump of cells, she can, and then she can force the man to pay for them).
-support(10793, root).
-
 arg(12572).
 text(12572, I have been informed of current laws is the point of this discourse not to contest them? Pregnancy ≠ child, risk ≠ black box - there is a decision that is made by the woman to have a child after pregnancy. Sex as a human right - does this have any relevance?).
-att(12572, root).
+att(12572, 12555).
 
 arg(12585).
 text(12585, It is not a analogy.
 I am giving a example to prove that "having a way to decrease the chance that something happen" don’t imply "being held responsible of this thing".).
-att(12585, root).
+att(12585, 12579).
 
 arg(12587).
 text(12587, I agree it would be a bad analogy if it was one.).
-att(12587, root).
-
-arg(12425).
-text(12425, There is suffering in the world, a non-being feels no suffering. An instinctual fear of death keeps one from discontinuing their own life, forcing them to continue to live in suffering if their environment or biology causes them to suffer. Suicide occurs when the suffering overcomes the fear.).
-att(12425, root).
+att(12587, 12579).
 
 arg(12588).
 text(12588, Analogy: a comparison between two things, typically on the basis of their structure and for the purpose of explanation or clarification.).
@@ -81,12 +87,6 @@ It is not a analogy with sex because:
 - it is not about sex at all.).
 att(12591, 12589).
 
-arg(13023).
-text(13023, Man must recognize that having sex with woman CAN result in pregnancy and that woman has control over whether to give birth to child.
-
-For man, having sex implies unspoken agreement to support possible resulting child, unless he has explicitly made agreement with woman before sex that he won't.).
-att(13023, root).
-
 arg(13024).
 text(13024, He the woman have control over it, the man should not be held responsible.).
 att(13024, 13023).
@@ -97,39 +97,88 @@ att(13025, 13024).
 
 arg(12596).
 text(12596, I understand your argument; you are comparing two different things to draw a contrast in how we attribute responsibility. But your argument is still, fundamentally, 'Choosing to have sex is like choosing to cross a road.' This is an analogy, and no degree of semantic slog is going to change that.).
-att(12596, root).
+att(12596, 12590).
 
 arg(12626).
 text(12626, The woman may be lying.  A woman may say she is on birth control to trick a man into impregnating her so that she may fuck him over with legal fees later down the line.  It's not a common thing, but damn if you get hit with it, you get hit hard).
-att(12626, root).
+att(12626, 12563).
+
+arg(12936).
+text(12936, Why does it matter what either do before she gets pregnant. She can certainly take no precautions and choose to have a child or not and he can do the same. How do his decisions forfeit his rights? Is a woman forced to have a kid and pay child support if she gets an unwanted pregnancy?).
+att(12936, 12931).
+
+arg(11894).
+text(11894, The scenario itself defeats your point, the fact that this woman said and very well may have applied a contraceptive does not mean that her mind will not change in the future or that you should necessarily rely on the woman to be honest about her fertility. ).
+att(11894, 11874).
+
+arg(12545).
+text(12545, If he agrees to sex with woman without first agreeing on how to deal with potential pregnancy, he may not post factum decline his share of responsibility.
+
+No birth control is 100% effective even if applied in good faith.).
+att(12545, 10788).
+
+arg(10733).
+text(10733, Being alive with no welfare is still better than being aborted.).
+att(10733, 10573).
+
+arg(12561).
+text(12561, It is not because you have a way to decrease the probability that something happen, that you are responsible of it.
+If you cross a road on a crosswalk, and a car hit you, you are not held responsible, even if by being more careful, or by don’t crossing road, you can avoid it.).
+att(12561, 12171).
+
+arg(10556).
+text(10556, The premise remains- if a woman gets pregnant even though all precautions have been made, the end result should be something both parties can concur on. If not, then he should be able to waiver all legal responsibilities.).
+att(10556, 10551).
+
+arg(10790).
+text(10790, It is extremely easy to prove, the baby doesn't just pop out. The man can say during pregnancy that he didn't want to have a child. ).
+att(10790, 10687).
+
+arg(12573).
+text(12573, It is a worse punishment than most of the punishment you could get for much more morally screwed things you could do.).
+support(12573, 12113).
+
+arg(10793).
+text(10793, If a women doesn't want a child, gets an abortion, even if the man thinks she's killing his "living child". If the woman does want to save the clump of cells, she can, and then she can force the man to pay for them).
+support(10793, 10788).
+
+arg(13023).
+text(13023, Man must recognize that having sex with woman CAN result in pregnancy and that woman has control over whether to give birth to child.
+
+For man, having sex implies unspoken agreement to support possible resulting child, unless he has explicitly made agreement with woman before sex that he won't.).
+att(13023, 12903).
 
 arg(12079).
 text(12079, firstly, it's not insane because you say it is, this is the social contract of our society. You must look after your offspring regardless of how it was conceived, the money you give for child support outweighs the right of the child to have a fair go at life. Especially, when he did not wear condom.).
-att(12079, root).
+att(12079, 12026).
 
 arg(12248).
 text(12248, I am attacking her right to do such. To treat her as a black box is to oversimplify. It follows that if she has no such rights he should not not be forced into a contract. The burden should fall on her to find a willing participant or terminate if she cannot sufficiently care for the child alone.).
-att(12248, root).
+att(12248, 12189).
 
 arg(12249).
 text(12249, The man could have made the decision not to have sex with any woman in the first place. ).
-att(12249, root).
+att(12249, 10788).
 
 arg(10689).
 text(10689, If the mother was not the main earner the child is going to be worse off if the man doesn't pay up.).
-att(10689, root).
+att(10689, 10573).
+
+arg(12537).
+text(12537, No contraception is absolutely 100% effective. Both parties must recognize the inherent chance of pregnancy and agree beforehand what will both do, if it happens. If no such agreement exists, man has to accept his share of responsibility.).
+att(12537, root).
+
+arg(12103).
+text(12103, If a man really didn't want to have a child, he would take precautions such as spermicide, condoms, or other birth control methods.  If he did not do any of that, he should be held liable for child support.  If you don't take every precaution that's your fault).
+att(12103, 12048).
+
+arg(12104).
+text(12104, If a man really didn't want to have a child, he would take precautions such as spermicide, condoms, or other birth control methods.  If he did not do any of that, he should be held liable for child support.  If you don't take every precaution that's your fault).
+att(12104, 12048).
 
 arg(12250).
 text(12250, At this point, maybe children should just be considered as the full responsibility of the woman in all cases. It could solve a lot of problems. ).
 att(12250, root).
-
-arg(12103).
-text(12103, If a man really didn't want to have a child, he would take precautions such as spermicide, condoms, or other birth control methods.  If he did not do any of that, he should be held liable for child support.  If you don't take every precaution that's your fault).
-att(12103, root).
-
-arg(12104).
-text(12104, If a man really didn't want to have a child, he would take precautions such as spermicide, condoms, or other birth control methods.  If he did not do any of that, he should be held liable for child support.  If you don't take every precaution that's your fault).
-att(12104, root).
 
 arg(11907).
 text(11907, If the woman changes her mind, then she does so knowing that she violated an agreement. The man has fulfilled his obligation by requesting that birth control be used, he can not ensure they will be effective, and this does not even consider the possibility that he used contraceptive as well.).
@@ -139,18 +188,6 @@ arg(11830).
 text(11830, A woman has no incentive to create a stable upbringing for her child if she can extort others to provide for her poor decisions.).
 att(11830, 10689).
 
-arg(12844).
-text(12844, Contraception fails. Because contraception fails, this is a bad standard. It would mean that many accidental pregnancies would be forced on a mother even with her being on birth control.).
-att(12844, root).
-
-arg(10567).
-text(10567, Even if the wife fucked up and the man is bound to it, the wellbeing of the child is a greater concern than anything else. Especially for the government.).
-support(10567, root).
-
-arg(12114).
-text(12114, Absolutely not, if the woman says that she is not on birth control, and the man chooses not to use any contraception, he should be held fully accountable for that child.    ).
-att(12114, root).
-
 arg(10573).
 text(10573, If the wellbeing of the child is a question of resources, then that responsibility should fall on the mother who in effect has made a decision on the mans behalf without his consent. She has a choice in the matter, she is not forced to follow through with the pregnancy.).
 att(10573, 10567).
@@ -159,37 +196,9 @@ arg(10575).
 text(10575, the premise has changed significantly, the original argument is that the woman is under birth control. She did not want to have a child, but in the end decided to, that's her decision. The male did not but never attempted to prevent this but only retroactively (which is impossible)).
 att(10575, 10556).
 
-arg(10500).
-text(10500, the actions of the man should take this situation into consideration, firstly by assess whether the birth control was applied competently and faithfully and secondly the consequences if they were not. This foresight makes the offspring his responsibility. (Moral/ethical argument vs legal)).
-att(10500, root).
-
-arg(11840).
-text(11840, No, the best interest of the child is that the mother finds a suitable provider before she conceives and ensures the father will stick around. There shouldn't be an incentive to leave a child fatherless, and a man shouldn't be punished for pursuing a career which provides for his family.).
-att(11840, root).
-
-arg(10788).
-text(10788, It makes no sense that the woman gets 100% of a decision that's going to drastically change both her and the man's life.).
-support(10788, root).
-
-arg(10792).
-text(10792, a) there are lots of child support agencies for that purpose. b) imagine a similar situation where both parents don't make enough money, you don't force the grandfather to start paying... Financial needs are not a good reason).
-att(10792, root).
-
 arg(12113).
 text(12113, Don't you think the punishment is a little out of proportion? You're augment boils down to: you got me pregnant by accident, I am gonna drown you in child-support unable to study or better your life.).
 att(12113, 12104).
-
-arg(10687).
-text(10687, "Being under the impression" is very difficult to prove. So, even if this makes sense, it's very hard to apply this practice.).
-att(10687, root).
-
-arg(11826).
-text(11826, It must be provable beyond a reasonable doubt that the woman decieved the man into thinking she was on birth control, then this would be vaild.  Thouhg if it was not brought up, or the woman says she is on birth control, the man should be able to opt out of child support).
-att(11826, root).
-
-arg(10549).
-text(10549, There are no guarantees, one can take all the precautions available, and still a pregnancy can occur. Is the only option left celibacy?).
-att(10549, root).
 
 arg(10514).
 text(10514, To what extent can he make sure the birthcontrol is applied correctly? There are also women who lie about birthcontrol simply to get pregnant, leaving the ignorant man in a legal bind.).
@@ -210,14 +219,6 @@ att(10849, 10733).
 arg(12177).
 text(12177, so you say if two people want to end life of the third because it might get inconvenient they should be allowed?).
 att(12177, 10849).
-
-arg(10566).
-text(10566, For the best interest of the child (to not grow up with a mother who cannot afford it) the government rightfully forces the husband to pay up if he was the main provider in the relationship.).
-att(10566, root).
-
-arg(12171).
-text(12171, Not using a condom inceases the risk of pregnancy. If you don't want a kid you need to take matters in your own hands. ).
-att(12171, root).
 
 arg(12178).
 text(12178, being is objectively better than not being).
@@ -259,9 +260,45 @@ arg(10578).
 text(10578, we are not lawyers and we cannot make conclusions about the law or take the place of judges and justices. The most we can say is what might be ethical. There may be precedence that we are unaware of or edge cases that have defined the way the system is the way it is. ).
 att(10578, 10556).
 
-arg(12900).
-text(12900, When it is the case that the woman know, and it is recent, do you agree that in this case, pregnancy aren’t forced on the woman ?).
-att(12900, 12894).
+arg(10567).
+text(10567, Even if the wife fucked up and the man is bound to it, the wellbeing of the child is a greater concern than anything else. Especially for the government.).
+support(10567, 10566).
+
+arg(12114).
+text(12114, Absolutely not, if the woman says that she is not on birth control, and the man chooses not to use any contraception, he should be held fully accountable for that child.    ).
+att(12114, 12113).
+
+arg(10687).
+text(10687, "Being under the impression" is very difficult to prove. So, even if this makes sense, it's very hard to apply this practice.).
+att(10687, root).
+
+arg(11840).
+text(11840, No, the best interest of the child is that the mother finds a suitable provider before she conceives and ensures the father will stick around. There shouldn't be an incentive to leave a child fatherless, and a man shouldn't be punished for pursuing a career which provides for his family.).
+att(11840, 10566).
+
+arg(11826).
+text(11826, It must be provable beyond a reasonable doubt that the woman decieved the man into thinking she was on birth control, then this would be vaild.  Thouhg if it was not brought up, or the woman says she is on birth control, the man should be able to opt out of child support).
+att(11826, root).
+
+arg(10792).
+text(10792, a) there are lots of child support agencies for that purpose. b) imagine a similar situation where both parents don't make enough money, you don't force the grandfather to start paying... Financial needs are not a good reason).
+att(10792, 10566).
+
+arg(10566).
+text(10566, For the best interest of the child (to not grow up with a mother who cannot afford it) the government rightfully forces the husband to pay up if he was the main provider in the relationship.).
+att(10566, root).
+
+arg(12171).
+text(12171, Not using a condom inceases the risk of pregnancy. If you don't want a kid you need to take matters in your own hands. ).
+att(12171, root).
+
+arg(10549).
+text(10549, There are no guarantees, one can take all the precautions available, and still a pregnancy can occur. Is the only option left celibacy?).
+att(10549, 10548).
+
+arg(10788).
+text(10788, It makes no sense that the woman gets 100% of a decision that's going to drastically change both her and the man's life.).
+support(10788, root).
 
 arg(12901).
 text(12901, But this specific circumstance is irrelevant, because the central premise is a blanket argument.
@@ -274,10 +311,6 @@ text(12903, It doesn’t have to be forced on the man either.
 It is a very bad thing to ask one person to pay for another, when there could be a lot of hate and anger between them. (broken relationship aren’t always ok)
 Society should help the person that take care of the child (father or mother).).
 att(12903, 12844).
-
-arg(13087).
-text(13087, If the man was certain that he did not want children, then he himself should have used contraception or abstained, even with the promise of birth control on the other end.).
-att(13087, root).
 
 arg(12905).
 text(12905, This specific circumstance is relevant, the premise say that the woman want to keep the child, we aren’t in the case where she doesn’t want it, but still have it.).
@@ -314,13 +347,13 @@ att(12189, 12182).
 arg(12924).
 text(12924, Support for (1)
 After impregnation this is the last and only decision rendered on whether or not a child is born. All previous decision have no effect on this. This is pretty clear from the prompt.).
-support(12924, root).
+support(12924, 12923).
 
 arg(12925).
 text(12925, Support for (2)
 The birth is not inevitable because an abortion could be rendered and there would be no child.
 The child is not necessary because the birth of a child is something the woman wants not something she needs. ).
-support(12925, root).
+support(12925, 12923).
 
 arg(12926).
 text(12926, my concern is for the child, his life is should not be a culmination of the bad decision making of his parents. He/she should be given the right of life and equal opportunity. If the end result is that after the woman chooses to give birth, the only people responsible are the mother and father. ).
@@ -333,15 +366,15 @@ att(12931, 12925).
 arg(12932).
 text(12932, Support for (4)
 The result results in a clear infringement of the mans rights because he has no choice in the matter and it causes harm to himself - therefore it shouldn't be allowed.).
-support(12932, root).
+support(12932, 12923).
 
 arg(12933).
 text(12933, By rights do you mean his responsibility as a parent? Of course sex is not done with the goal of pregnancy but as elucidated before it can happen and both participants go into sex knowing the possibility of this.).
-att(12933, root).
+att(12933, 12930).
 
 arg(12934).
 text(12934, The 'agreement', again, isn't between the mother and father. It is with the father, the state and the child. There is no agreement, this is how we define parenthood. This decision goes back to (1) where he went into sex without taking steps to reduce the possibility of impregnation for himself. ).
-att(12934, root).
+att(12934, 12930).
 
 arg(12935).
 text(12935, in my eyes, the choice began with sex itself, the choice began when he decided to implicitly trust in the contraceptive of the woman. If he had put on a condom, still got her pregnant than maybe he should have made better choices about his partner. Are those not choices he had full control over?).
@@ -349,7 +382,7 @@ att(12935, 12932).
 
 arg(12937).
 text(12937, was the man forced to have sex?).
-att(12937, root).
+att(12937, 12936).
 
 arg(12938).
 text(12938, But it didn't, your eyes are not proof, they are not justification. She makes the decision not him, should he get a crystal ball and predict the future as you suggest. He can make every rational decision imaginable having sex and be screwed over.).
@@ -387,7 +420,7 @@ att(12947, 12946).
 arg(12026).
 text(12026, Until the child is born it has no rights or bearing so to allow another to willfully impose such responsibility on another without their consent is insane.
 Should I be allowed to bind you to a contract against your will simply because I want something?).
-att(12026, root).
+att(12026, 11925).
 
 arg(12948).
 text(12948, We know the implications of an existing child and that the mother has control over the child's existence. And that the decision goes against the mans will and causes harm to him. Precautions do not matter as a child is not a direct result of sex, it is pregnancy.).
@@ -399,7 +432,7 @@ att(12992, 12249).
 
 arg(12993).
 text(12993, You're talking like abortion was never an option. If a man doesn't want to raise a child then he shouldn't. If the woman wants to raise it by herself, she can. if she doesn't, she can get an abortion. If she doesn't believe in abortion, her superstitions shouldn't control the man's life.).
-att(12993, root).
+att(12993, 12548).
 
 arg(12951).
 text(12951, It matters immensely in this situation. If you and I are to judge the outcome of this person's fate, don't you think that his irresponsibility in this regard is not considered? His inaction made him responsible for a child, which in (3) we discussed began with his decision to have sex.   ).
@@ -409,10 +442,6 @@ arg(12953).
 text(12953, Ah, so a woman has a right to her own body and thus has the decision, I think that's what you are arguing. But, should it be valid when it impedes the rights of another. I concede, although I find it funny that you argue for right to life in (1). adios).
 att(12953, 12947).
 
-arg(12936).
-text(12936, Why does it matter what either do before she gets pregnant. She can certainly take no precautions and choose to have a child or not and he can do the same. How do his decisions forfeit his rights? Is a woman forced to have a kid and pay child support if she gets an unwanted pregnancy?).
-att(12936, 12931).
-
 arg(12923).
 text(12923, 1.) Woman chooses to have child
 2.) This is a decision that is neither inevitable or necessary
@@ -420,48 +449,19 @@ text(12923, 1.) Woman chooses to have child
 4.) Woman shouldn't be allowed to make this decision because it is infringement on mans freedom).
 support(12923, 12916).
 
-arg(12555).
-text(12555, By having sex with a woman, an adult man is expected by society, according to its laws, to understand that it may result in pregnancy and a progeny.
+arg(12425).
+text(12425, There is suffering in the world, a non-being feels no suffering. An instinctual fear of death keeps one from discontinuing their own life, forcing them to continue to live in suffering if their environment or biology causes them to suffer. Suicide occurs when the suffering overcomes the fear.).
+att(12425, 12178).
 
-He has the choice of engaging or not in sex and thus assuming or not the inherent risk of providing child support.
+arg(12844).
+text(12844, Contraception fails. Because contraception fails, this is a bad standard. It would mean that many accidental pregnancies would be forced on a mother even with her being on birth control.).
+att(12844, root).
 
-Sex is not human right.).
-att(12555, 12248).
+arg(13087).
+text(13087, If the man was certain that he did not want children, then he himself should have used contraception or abstained, even with the promise of birth control on the other end.).
+att(13087, root).
 
-arg(11925).
-text(11925, The agreement isn't between the male and the female, a third party is not considered here and that is the welfare of the child. I am fairly certain that in our society, you are ethically and morally responsible for your offspring regardless of how the child was conceived because no one else is.  ).
-att(11925, 11907).
-
-arg(12051).
-text(12051, While I completely support that the man should be relieved of responsibility if he announces in time he doesn't want the child. Forcing a woman to go through a pregnancy she doesn't want, or forcing her to have an abortion against her will are both very extreme, the woman should get the say here.).
-att(12051, 11877).
-
-arg(12548).
-text(12548, True. The woman gets the choice to have or not to have the child, because she alone has the power to produce it.
-
-The man had the choice of having or avoiding sex with the woman. If he made a choice of having sex, he ipso facto acknowledges possibility of child and thus his share of childcare.).
-att(12548, 10793).
-
-arg(12563).
-text(12563, If the women say she is not on birth control, you are not on impression that she is.).
-att(12563, 12114).
-
-arg(12590).
-text(12590, What is not what i do
-I don’t compare crossing a road with having sex
-I want to prove "not (whatever x, p(x))"
-Where p(x) is "if you could decrease the chance that x happen, then you are responsible of x"
-Then i give a example, y, where p(y) is false
-i don’t try to prove "whatever x, not p(x))").
-att(12590, 12588).
-
-arg(12579).
-text(12579, It is an analogy. You are using a crosswalk and a car as an analogy for sex. This could be seen as a false analogy for many reasons, not the least of which being that being hit by a car is not a consensual agreement between parties, nor can the consequences of it be mitigated by cheap technology.).
-att(12579, 12568).
-
-arg(12930).
-text(12930, Support for (3)
-Having sex with the woman does not indicate that he wishes to forfeit his rights. Because sex is not done in all instances with the goal of pregnancy - as seen in humans and other animals. Impregnation isn't an agreement to have a child so why is it an agreement to pay for support
-).
-support(12930, 12923).
+arg(10500).
+text(10500, the actions of the man should take this situation into consideration, firstly by assess whether the birth control was applied competently and faithfully and secondly the consequences if they were not. This foresight makes the offspring his responsibility. (Moral/ethical argument vs legal)).
+att(10500, root).
 

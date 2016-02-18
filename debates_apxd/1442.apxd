@@ -1,33 +1,17 @@
 arg(root).
 text(root, Euthanasia is an ethical choice.).
 
-arg(8567).
-text(8567, They should be made aware of all options since this is a medical setting.  Here some options which are listed in US laws: "comfort care, hospice care, palliative care, and pain control." None of these laws say that patients should be denied lethal prescriptions because other options exist.).
-att(8567, root).
-
-arg(7078).
-text(7078, If a terminal patient is mentally ill and is in pain, it'd be unethical to deny them a painless death.).
-att(7078, root).
-
 arg(6947).
 text(6947, Euthanasia should only be allowed to those who have no options left, and even then the patient should be psychoanalyzed to make sure they are of stable mental health to determine if they should have the right to take their own life. ).
 att(6947, root).
-
-arg(8572).
-text(8572, Could wanting to end ones life for reasons other than terminal illness etc Be considered rational thought and not a sign of depression or other mental illness?).
-att(8572, root).
-
-arg(8577).
-text(8577, It need not be a rational, value judgement. Reasons for ending one's life may also be emotional in nature. Ultimately the choice should be their own, but differentiating between those who earnestly wish to die and the mentally ill, who should be protected and helped, is incredibly hard.).
-att(8577, 8572).
 
 arg(8581).
 text(8581, Prolonging a life of pain for the sheer sake of existence is tantamount to torture.).
 support(8581, root).
 
-arg(8596).
-text(8596, Asian kids have yellow skin.).
-att(8596, root).
+arg(8577).
+text(8577, It need not be a rational, value judgement. Reasons for ending one's life may also be emotional in nature. Ultimately the choice should be their own, but differentiating between those who earnestly wish to die and the mentally ill, who should be protected and helped, is incredibly hard.).
+att(8577, 8572).
 
 arg(6981).
 text(6981, Nevertheless it would be unethical to deny the chance of peaceful, painless death to a mentally ill person who suffers from a terminal condition.).
@@ -44,6 +28,22 @@ support(8313, 8311).
 arg(7051).
 text(7051, Only if the person has been checked out over years and is determined to be stable, and they do not have a place to function in society. It is more unethical to have blood on someone else's hands for killing a patient who could have had a chance at making any sort of successful recovery.).
 att(7051, 6981).
+
+arg(8567).
+text(8567, They should be made aware of all options since this is a medical setting.  Here some options which are listed in US laws: "comfort care, hospice care, palliative care, and pain control." None of these laws say that patients should be denied lethal prescriptions because other options exist.).
+att(8567, 8313).
+
+arg(7078).
+text(7078, If a terminal patient is mentally ill and is in pain, it'd be unethical to deny them a painless death.).
+att(7078, 7051).
+
+arg(8596).
+text(8596, Asian kids have yellow skin.).
+att(8596, root).
+
+arg(8572).
+text(8572, Could wanting to end ones life for reasons other than terminal illness etc Be considered rational thought and not a sign of depression or other mental illness?).
+att(8572, 6907).
 
 arg(6907).
 text(6907, People have the right to decide over their body and life and thus they should be able to choose when to die provided that they are capable of making a rational and informed decision.).

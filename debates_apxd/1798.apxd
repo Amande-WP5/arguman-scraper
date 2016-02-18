@@ -1,9 +1,9 @@
 arg(root).
 text(root, State-granted marriage between consenting, adult siblings should be legalized).
 
-arg(10735).
-text(10735, Marriage is an institution granted to two adults who consent to being married).
-support(10735, root).
+arg(10747).
+text(10747, Children created from siblings are at higher risk of genetic abnormalities).
+support(10747, 10744).
 
 arg(10736).
 text(10736, Siblings who are of consenting age can consent to marriage).
@@ -21,41 +21,17 @@ arg(10744).
 text(10744, A marriage between siblings does not create a stable environment for children).
 support(10744, 10741).
 
-arg(10738).
-text(10738, I'm not sure how I'm supposed to supply my premises. Ex: "P1: Marriage is granted to consenting adults. P2: Adults who are siblings can consent to marriage. Therefore: Adult siblings should be able to marry." Do I put each premise in a separate "Because" block? Do I put complete argument in 1 block?).
-att(10738, root).
-
 arg(10745).
 text(10745, Married people have children).
 support(10745, 10744).
-
-arg(10747).
-text(10747, Children created from siblings are at higher risk of genetic abnormalities).
-support(10747, 10744).
-
-arg(11817).
-text(11817, If done to enough extent, it could cause a genetic bottleneck, which contradicts our social and genetical imperative. So from a biological perspective it is counter intuitive, but from an ethical or moral stand point, I see no problem with it.).
-att(11817, root).
-
-arg(11709).
-text(11709, It is not about legalization, it is about biological connotations. Sibling Inter-marriage often produces degenerated results.).
-att(11709, root).
 
 arg(11711).
 text(11711, Marriage is a religious act, adopted by social standards.).
 att(11711, 10735).
 
-arg(11821).
-text(11821, They have an increased potential for some health damages. And that is also only true for families with deep roots of incest. Children of siblings can be as normal as any other child. Anyway, even if they have health damages, this does not mean they are "abnormal".).
-att(11821, root).
-
 arg(11712).
 text(11712, Married siblings have abnormal children.).
 att(11712, 10745).
-
-arg(11971).
-text(11971, Edited to "but". In general, genetical bottlenecking refers to when the lack of genetical diversity causes a stop or break in genetical development, causing extra exposure to certain genetical illnesses, illnesses that mating of different genetical strains help to combat ).
-support(11971, root).
 
 arg(11713).
 text(11713, marriage is a contract made by two consenting adults before institution (church or state) which permits it with its authority. Therefore it is institution before which mentioned adults come which decides if such marriage can occur or not. ).
@@ -65,14 +41,6 @@ arg(11716).
 text(11716, such institutions have tradition of not allowing siblings marriage because it will result in hurting children born out of it.).
 support(11716, 11713).
 
-arg(11914).
-text(11914, Hm. I didn't mean for this to be published yet. I was going to fill out an entire tree with the arguments for and against, and also try and figure out how arguman intends me to create collections of premises. Oh well. Let it ride).
-att(11914, root).
-
-arg(11726).
-text(11726, The premise assumes that marriage should have a legal status. One can argue that marriage, as a pledge, or as a contract between two equal and consenting parties, is outside the realm of what the law is supposed to regulate.).
-att(11726, root).
-
 arg(11916).
 text(11916, Whether or not marriage should exist in a legal framework is a separate argument. This argument is specifically about the marriage status granted by the state which does exist and currently discludes familial marriages.).
 att(11916, 11726).
@@ -80,10 +48,6 @@ att(11916, 11726).
 arg(11732).
 text(11732, Marriage is not exclusively religious and had its roots way back before religion adopted it.).
 att(11732, 11711).
-
-arg(11985).
-text(11985, You are assuming the State should be involved in marriage at all. A better solution would the that two (or more) consenting adults can form a contractual household with a single 'taxing' identifier. The "marriage" aspect should remain a non-civil (personal or religious) matter entirely.).
-att(11985, root).
 
 arg(11931).
 text(11931, This only would suggest that it should be illegal for siblings to have children. Since marriage does not require having children, then the health risks to children are irrelevant to the issue of whether they can marry.).
@@ -100,10 +64,6 @@ att(11941, 11817).
 arg(11943).
 text(11943, A specific argument was proposed. Stating that "that is not the most important argument" is a Red Herring. Also, the genetic risk counter-argument is being dealt with more completely elsewhere in this argument tree. Consider removing?).
 att(11943, 11709).
-
-arg(11948).
-text(11948, Genetic Fallacy. The original purpose of marriage is not relevant to the parent premise. Modern state-granted licenses in the US do not currently exist to restrict interracial marriage. But they do exist, in part, to encourage a certain social ideal. That is what's assumed in the counter-argument).
-att(11948, root).
 
 arg(11954).
 text(11954, I see argumentation concerning genetics have been mentioned, but not bottlenecking specifically.).
@@ -124,4 +84,44 @@ att(11962, 11954).
 arg(11966).
 text(11966, The parent premise is claiming that marriage is not solely defined by consent between adults because marriage is granted by religious institutions with their own private rules. Giving an example of one of those rules isn't relevant to that counter-argument.).
 att(11966, 11716).
+
+arg(11914).
+text(11914, Hm. I didn't mean for this to be published yet. I was going to fill out an entire tree with the arguments for and against, and also try and figure out how arguman intends me to create collections of premises. Oh well. Let it ride).
+att(11914, root).
+
+arg(11726).
+text(11726, The premise assumes that marriage should have a legal status. One can argue that marriage, as a pledge, or as a contract between two equal and consenting parties, is outside the realm of what the law is supposed to regulate.).
+att(11726, root).
+
+arg(11821).
+text(11821, They have an increased potential for some health damages. And that is also only true for families with deep roots of incest. Children of siblings can be as normal as any other child. Anyway, even if they have health damages, this does not mean they are "abnormal".).
+att(11821, 11712).
+
+arg(11971).
+text(11971, Edited to "but". In general, genetical bottlenecking refers to when the lack of genetical diversity causes a stop or break in genetical development, causing extra exposure to certain genetical illnesses, illnesses that mating of different genetical strains help to combat ).
+support(11971, 11962).
+
+arg(11985).
+text(11985, You are assuming the State should be involved in marriage at all. A better solution would the that two (or more) consenting adults can form a contractual household with a single 'taxing' identifier. The "marriage" aspect should remain a non-civil (personal or religious) matter entirely.).
+att(11985, root).
+
+arg(11948).
+text(11948, Genetic Fallacy. The original purpose of marriage is not relevant to the parent premise. Modern state-granted licenses in the US do not currently exist to restrict interracial marriage. But they do exist, in part, to encourage a certain social ideal. That is what's assumed in the counter-argument).
+att(11948, root).
+
+arg(10735).
+text(10735, Marriage is an institution granted to two adults who consent to being married).
+support(10735, root).
+
+arg(11817).
+text(11817, If done to enough extent, it could cause a genetic bottleneck, which contradicts our social and genetical imperative. So from a biological perspective it is counter intuitive, but from an ethical or moral stand point, I see no problem with it.).
+att(11817, root).
+
+arg(11709).
+text(11709, It is not about legalization, it is about biological connotations. Sibling Inter-marriage often produces degenerated results.).
+att(11709, root).
+
+arg(10738).
+text(10738, I'm not sure how I'm supposed to supply my premises. Ex: "P1: Marriage is granted to consenting adults. P2: Adults who are siblings can consent to marriage. Therefore: Adult siblings should be able to marry." Do I put each premise in a separate "Because" block? Do I put complete argument in 1 block?).
+att(10738, root).
 

@@ -1,131 +1,111 @@
 arg(root).
 text(root, Only actions that have a victim should be considered crime.).
 
-arg(13012).
-text(13012, Suicide is not illegal in the United States.).
-att(13012, root).
-
-arg(12553).
-text(12553, Suicide is also illegal. The person committing the crime is also the victim in both of these instances. The family/friends of the victim also suffer. ).
-att(12553, root).
-
-arg(10117).
-text(10117, Would, then, the consume of illegal drugs not be a crime?).
-att(10117, root).
-
-arg(13013).
-text(13013, Food intake is not regulated; the FDA merely provides recommendations. If people are allowed to indulge in excesses in one regard (food), why should another not be allowed?).
-att(13013, root).
-
-arg(11004).
-text(11004, The prostitutes would be the victims.).
-att(11004, root).
+arg(14146).
+text(14146, How do we reliably determine if there is or is not a victim and how do we determine that the individual performing the action is never a victim?).
+att(14146, root).
 
 arg(13206).
 text(13206, Actions devoid of victims can still bear a negative significance. Allowing for them to happen is denying our validation of moral standards.).
 att(13206, root).
 
-arg(13207).
-text(13207, Actions devoid of victims can still bear a negative significance. Allowing for them to happen is denying our validation of moral standards.).
-att(13207, root).
-
-arg(10649).
-text(10649, Consensual sex in exchange for money has no victims.).
-att(10649, root).
-
-arg(12349).
-text(12349, Last June, a young girl was abducted and forced into prostitution. Prostitution gave the abductor an incentive to kidnap her.).
-support(12349, root).
-
-arg(10016).
-text(10016, Putting other's in danger *is* a form of victimization, even if there is no true foul. ).
-att(10016, root).
-
-arg(13709).
-text(13709, Since "the punishment must fit the crime" therefore if there is no victim there can be no crime.).
-support(13709, root).
-
-arg(11325).
-text(11325, There is therefore a victim in either case. The rule in the original argument is therefore shown to be useless.).
-att(11325, root).
-
-arg(12154).
-text(12154, Prostitution is an abstract idea. It is word that describes the exchange of money for sex acts. Your premise conflates an idea with separate actions done by real people.
-
-The premise is as absurd as claiming that if marriage creates just one domestic abuse victim, all marriage is not victimless.).
-att(12154, root).
-
-arg(11899).
-text(11899, In that case, the economic system victimizes them, not themselves.).
-att(11899, root).
-
-arg(11900).
-text(11900, This still results in a victim. Therefore, prostitution is not a victimless crime.).
-att(11900, root).
-
-arg(12157).
-text(12157, The "act of prostitution" was not referenced. Rather, you treated "prostitution" as a thing which acts. Prostitution is an abstract thing and cannot act. PEOPLE can engage in prostitution. But, once again, it does not follow that the act of prostitution creates a victim.).
-att(12157, root).
-
 arg(11902).
 text(11902, Only individuals can victimize. If I get kidnapped and thrown off the top of a building, am I victimized by the Earth's gravitational system?).
 att(11902, 11899).
-
-arg(11974).
-text(11974, I never stated prostitutes only "feel" victimized. They are objectively victimized as well by pimps/drugs/human trafficking/abuse/what have you.).
-att(11974, root).
-
-arg(12158).
-text(12158, Disabling the employee's account in the company's direct deposit system could be the "use of force" in this case.).
-support(12158, root).
-
-arg(12159).
-text(12159, An employment contract would be the agreement in that case.).
-att(12159, root).
-
-arg(11976).
-text(11976, What if after legalization most prostitutes are still victimized at the same rate as with criminalization?).
-att(11976, root).
 
 arg(12161).
 text(12161, Whether there was an agreement was irrelevant to your premise.).
 att(12161, 12159).
 
-arg(11831).
-text(11831, I would suggest that you look at some studies on this. Often when people are pulled over it is *for* reckless driving, but when they are breathalyzed, it is replaced with drunk driving.
-
-In 2013, alcohol-impaired driving crashes, accounting for (31%) of all traffic-related deaths in the US).
-att(11831, root).
-
 arg(11009).
 text(11009, Criminalizing prostitution also victimizes prostitutes by unfairly prohibiting law enforcement officers from extending equal protection to a certain group of individuals based on their perceived social class.).
 att(11009, 11004).
 
-arg(12162).
-text(12162, The word "prostitution" can refer to the prostitution industry, the idea of prostitution, a specific instance of prostitution, or all of the above.).
-att(12162, root).
+arg(13013).
+text(13013, Food intake is not regulated; the FDA merely provides recommendations. If people are allowed to indulge in excesses in one regard (food), why should another not be allowed?).
+att(13013, 12038).
 
-arg(11910).
-text(11910, Everyone feels victimized to an extent. A prostitute is not the same as a sex slave, they chose prostitution because it was more lucrative than the alternatives.).
-att(11910, root).
+arg(13207).
+text(13207, Actions devoid of victims can still bear a negative significance. Allowing for them to happen is denying our validation of moral standards.).
+att(13207, root).
 
-arg(11833).
-text(11833, If the problem is that it's uncontrolled, then regulate it like most jobs. It's uncontrolled because it's illegal, not the reverse.).
-att(11833, root).
+arg(12212).
+text(12212, There is a big difference between those choosing to sell sex as a personal choice and those who sell it as victims of human trafficking. I think the latter feel as victims ).
+att(12212, 11004).
+
+arg(11004).
+text(11004, The prostitutes would be the victims.).
+att(11004, 10649).
+
+arg(13709).
+text(13709, Since "the punishment must fit the crime" therefore if there is no victim there can be no crime.).
+support(13709, root).
+
+arg(11899).
+text(11899, In that case, the economic system victimizes them, not themselves.).
+att(11899, root).
+
+arg(11915).
+text(11915, You're assuming that prostitutes are all victims, and that becoming a prostitute makes oneself a victim, and that victims of sexual crime can not be differentiated from prostitution. ).
+att(11915, 11869).
+
+arg(10649).
+text(10649, Consensual sex in exchange for money has no victims.).
+att(10649, 10068).
+
+arg(12349).
+text(12349, Last June, a young girl was abducted and forced into prostitution. Prostitution gave the abductor an incentive to kidnap her.).
+support(12349, 12339).
+
+arg(10016).
+text(10016, Putting other's in danger *is* a form of victimization, even if there is no true foul. ).
+att(10016, 9962).
+
+arg(11900).
+text(11900, This still results in a victim. Therefore, prostitution is not a victimless crime.).
+att(11900, root).
+
+arg(11325).
+text(11325, There is therefore a victim in either case. The rule in the original argument is therefore shown to be useless.).
+att(11325, 11009).
+
+arg(12154).
+text(12154, Prostitution is an abstract idea. It is word that describes the exchange of money for sex acts. Your premise conflates an idea with separate actions done by real people.
+
+The premise is as absurd as claiming that if marriage creates just one domestic abuse victim, all marriage is not victimless.).
+att(12154, 12151).
+
+arg(12157).
+text(12157, The "act of prostitution" was not referenced. Rather, you treated "prostitution" as a thing which acts. Prostitution is an abstract thing and cannot act. PEOPLE can engage in prostitution. But, once again, it does not follow that the act of prostitution creates a victim.).
+att(12157, 12153).
+
+arg(11974).
+text(11974, I never stated prostitutes only "feel" victimized. They are objectively victimized as well by pimps/drugs/human trafficking/abuse/what have you.).
+att(11974, 11967).
+
+arg(12158).
+text(12158, Disabling the employee's account in the company's direct deposit system could be the "use of force" in this case.).
+support(12158, 12152).
+
+arg(12159).
+text(12159, An employment contract would be the agreement in that case.).
+att(12159, 12152).
+
+arg(11976).
+text(11976, What if after legalization most prostitutes are still victimized at the same rate as with criminalization?).
+att(11976, 11967).
+
+arg(11831).
+text(11831, I would suggest that you look at some studies on this. Often when people are pulled over it is *for* reckless driving, but when they are breathalyzed, it is replaced with drunk driving.
+
+In 2013, alcohol-impaired driving crashes, accounting for (31%) of all traffic-related deaths in the US).
+att(11831, 11594).
 
 arg(12163).
 text(12163, I said nothing of any "direct deposit system" nor the disabling of any account.
 
 I've described non-action, rather than action.).
 att(12163, 12158).
-
-arg(11906).
-text(11906, Not all prostitutes feel victimized and traumatized.).
-att(11906, root).
-
-arg(9878).
-text(9878, The punishment brought on to criminals for their actions are for either their correction or containment so as not to be disruptive or detrimental to the rest of society.).
-support(9878, root).
 
 arg(12164).
 text(12164, "Not paying an employee" could include disabling a direct deposit.).
@@ -134,10 +114,6 @@ att(12164, 12163).
 arg(12165).
 text(12165, That does not include, that extends.).
 att(12165, 12164).
-
-arg(11915).
-text(11915, You're assuming that prostitutes are all victims, and that becoming a prostitute makes oneself a victim, and that victims of sexual crime can not be differentiated from prostitution. ).
-att(11915, root).
 
 arg(12166).
 text(12166, Agreed, marriage too may not be victimless.).
@@ -150,36 +126,6 @@ att(12167, 12165).
 arg(12168).
 text(12168, Each of the above proposed definitions are abstracts, divorced from an actor.).
 att(12168, 12162).
-
-arg(12211).
-text(12211, how can you be victim of your own voluntary action. This would imply you are not acting of your free will.).
-att(12211, root).
-
-arg(12212).
-text(12212, There is a big difference between those choosing to sell sex as a personal choice and those who sell it as victims of human trafficking. I think the latter feel as victims ).
-att(12212, 11004).
-
-arg(10661).
-text(10661, The term "victim" is vague, but central to the claim. What defines a victim in this scenario? Without a clear definition of what is victimization and where culpability ends, we can't come to a conclusion. ).
-att(10661, root).
-
-arg(12965).
-text(12965, But what defines "actively affect others"? Some drugs kill people, such as cocaine. Shouldn't we stop people from hurting themselves?).
-att(12965, root).
-
-arg(14146).
-text(14146, How do we reliably determine if there is or is not a victim and how do we determine that the individual performing the action is never a victim?).
-att(14146, root).
-
-arg(10116).
-text(10116, As long as we have state sponsored support for non-producing individuals, there are no victimless crimes.
-
-e.g. personal drug use, while seeming 'victimless', may result in reduced productivity, total welfare dependence, treatment, or death at worst. This causes harm to society.).
-att(10116, root).
-
-arg(12116).
-text(12116, The niche cases were to illustrate that what you said is true is not. The rationale for why it is illegal still does not depend on a person's feelings. In any case, the taking of property from a person without the person's consent creates a victim. Theft is a poor analogy to the original premise.).
-att(12116, root).
 
 arg(11926).
 text(11926, The proposed "victimless crime" rule would apply to all prostitutes, not just the ones who did not feel victimized.).
@@ -195,21 +141,9 @@ arg(12120).
 text(12120, It may not be true in every possible case, but it is true in many cases, thus proving the point.).
 att(12120, 12116).
 
-arg(12033).
-text(12033, It doesn't have to be "necessarily" true. Plenty of thefts fall outside those niche cases and provide the rationale for it being illegal.).
-att(12033, root).
-
 arg(12027).
 text(12027, this conflates objective victimization with subjective victimization. "Objective victimization" is the actual major premise being considered. You have not shown that all prostitution results in objective victimization.).
 att(12027, 11974).
-
-arg(11991).
-text(11991, Money is an inanimate object; not force.).
-att(11991, root).
-
-arg(12259).
-text(12259, Withholding of an action can be considered a "use of force" in certain circumstances.).
-att(12259, root).
 
 arg(11992).
 text(11992, Crimes are not defined by whether a person feels personally victimized.).
@@ -219,39 +153,15 @@ arg(12035).
 text(12035, Showing that "all" prostitutes are victimized is not required.).
 att(12035, 12027).
 
-arg(11463).
-text(11463, People can choose to drive or not to drive based on how much they are effected. ).
-att(11463, root).
-
 arg(12124).
 text(12124, "The rationale for why it is illegal still does not depend on a person's feelings."
 
 Source please?).
 att(12124, 12116).
 
-arg(12038).
-text(12038, People's food intake is regulated for health reasons (FDA, marijuana). Drivers are highly regulated due to risks (speed limits, BAC, eye exams, license required, etc).).
-att(12038, root).
-
-arg(11850).
-text(11850, Money can sometimes be the difference between life and death, it can certainly be a form of force.).
-att(11850, root).
-
-arg(12039).
-text(12039, Proof by Assertion. It is not self-evident that quality of life would be reduced by these regulations. Sources or logical support would be necessary to make that claim.).
-att(12039, root).
-
 arg(11995).
 text(11995, So is a gun.).
 att(11995, 11991).
-
-arg(11996).
-text(11996, I'm not saying or implying that, I'm merely pointing out that this is another reason that the term 'victimless crime' is truely accurate. However, taking to a logical extreme, yes. And in fact on some levels, this is being attempted. Examine increasing gov't involvement in dietary and eating habits.).
-att(11996, root).
-
-arg(12040).
-text(12040, Appeal to Consequences. Whether or not a line of reasoning would result in a lower quality of life is irrelevant to proving or disproving whether or not a person can victimize themselves.).
-att(12040, root).
 
 arg(12128).
 text(12128, It would be difficult to prove victim's feelings weren't taken into account when originally drafting theft laws.).
@@ -265,10 +175,6 @@ arg(11998).
 text(11998, For example, theft is a crime and produces people who feel personally victimized. That's part of the reason it's defined as a crime.).
 att(11998, 11992).
 
-arg(11999).
-text(11999, A society is comprised of discrete individuals who have some portion of their welfare (physical, emotional, mental, psychological) directly or indirectly vested in the society. Therefore harm to the society constitutes harm in some degree to the individuals belonging to that society.).
-att(11999, root).
-
 arg(12130).
 text(12130, Declaring a bare assertion that prostitutes, without limitation, are "objectively victimized" does not make it true.).
 att(12130, 12035).
@@ -276,18 +182,6 @@ att(12130, 12035).
 arg(12000).
 text(12000, Not all prostitutes are victimized by pimps/drugs/etc, and in the absence of criminalization these problems would not occur because there would be legal recourse for such abuse.).
 att(12000, 11974).
-
-arg(12001).
-text(12001, You are correct. I refined my premise.).
-att(12001, root).
-
-arg(10068).
-text(10068, It's not clear right away wether or not an action has a victim. ).
-att(10068, root).
-
-arg(9962).
-text(9962, Some actions do not have a specific victim, but endanger others nonetheless. Drunk driving is a good example.).
-att(9962, root).
 
 arg(12132).
 text(12132, Depriving someone of the mechanism required to afford the necessities needed to live unless they complete some action is a use of force.).
@@ -301,9 +195,95 @@ arg(12003).
 text(12003, A gun is also an inanimate object.).
 att(12003, 11995).
 
+arg(10116).
+text(10116, As long as we have state sponsored support for non-producing individuals, there are no victimless crimes.
+
+e.g. personal drug use, while seeming 'victimless', may result in reduced productivity, total welfare dependence, treatment, or death at worst. This causes harm to society.).
+att(10116, root).
+
+arg(11906).
+text(11906, Not all prostitutes feel victimized and traumatized.).
+att(11906, 11375).
+
+arg(10117).
+text(10117, Would, then, the consume of illegal drugs not be a crime?).
+att(10117, root).
+
+arg(12211).
+text(12211, how can you be victim of your own voluntary action. This would imply you are not acting of your free will.).
+att(12211, 11149).
+
+arg(12965).
+text(12965, But what defines "actively affect others"? Some drugs kill people, such as cocaine. Shouldn't we stop people from hurting themselves?).
+att(12965, 11379).
+
+arg(10068).
+text(10068, It's not clear right away wether or not an action has a victim. ).
+att(10068, root).
+
+arg(12116).
+text(12116, The niche cases were to illustrate that what you said is true is not. The rationale for why it is illegal still does not depend on a person's feelings. In any case, the taking of property from a person without the person's consent creates a victim. Theft is a poor analogy to the original premise.).
+att(12116, 12033).
+
+arg(9962).
+text(9962, Some actions do not have a specific victim, but endanger others nonetheless. Drunk driving is a good example.).
+att(9962, root).
+
+arg(12033).
+text(12033, It doesn't have to be "necessarily" true. Plenty of thefts fall outside those niche cases and provide the rationale for it being illegal.).
+att(12033, 12017).
+
+arg(11991).
+text(11991, Money is an inanimate object; not force.).
+att(11991, 11850).
+
+arg(12259).
+text(12259, Withholding of an action can be considered a "use of force" in certain circumstances.).
+att(12259, 12152).
+
+arg(11463).
+text(11463, People can choose to drive or not to drive based on how much they are effected. ).
+att(11463, 11374).
+
+arg(12038).
+text(12038, People's food intake is regulated for health reasons (FDA, marijuana). Drivers are highly regulated due to risks (speed limits, BAC, eye exams, license required, etc).).
+att(12038, 11842).
+
+arg(11850).
+text(11850, Money can sometimes be the difference between life and death, it can certainly be a form of force.).
+att(11850, 11381).
+
+arg(12039).
+text(12039, Proof by Assertion. It is not self-evident that quality of life would be reduced by these regulations. Sources or logical support would be necessary to make that claim.).
+att(12039, 11842).
+
+arg(11996).
+text(11996, I'm not saying or implying that, I'm merely pointing out that this is another reason that the term 'victimless crime' is truely accurate. However, taking to a logical extreme, yes. And in fact on some levels, this is being attempted. Examine increasing gov't involvement in dietary and eating habits.).
+att(11996, 11137).
+
+arg(12040).
+text(12040, Appeal to Consequences. Whether or not a line of reasoning would result in a lower quality of life is irrelevant to proving or disproving whether or not a person can victimize themselves.).
+att(12040, 11842).
+
+arg(11999).
+text(11999, A society is comprised of discrete individuals who have some portion of their welfare (physical, emotional, mental, psychological) directly or indirectly vested in the society. Therefore harm to the society constitutes harm in some degree to the individuals belonging to that society.).
+att(11999, 11130).
+
+arg(12001).
+text(12001, You are correct. I refined my premise.).
+att(12001, 11135).
+
+arg(11833).
+text(11833, If the problem is that it's uncontrolled, then regulate it like most jobs. It's uncontrolled because it's illegal, not the reverse.).
+att(11833, root).
+
 arg(12133).
 text(12133, Semantics. I added a rephrased however above.).
-att(12133, root).
+att(12133, 12020).
+
+arg(9878).
+text(9878, The punishment brought on to criminals for their actions are for either their correction or containment so as not to be disruptive or detrimental to the rest of society.).
+support(9878, root).
 
 arg(11944).
 text(11944, By your logic, criminalizing prostitution would then victimize prostitutes twice. First the prostitute victimizes herself, then she becomes victimized by the state when she gets sent through the criminal justice system.).
@@ -316,14 +296,6 @@ att(12005, 12003).
 arg(11946).
 text(11946, Few things are more morally deplorable in our society than being a prostitute. Choice between a bad choice and the other necessarily worse choices is not really a choice at all.).
 att(11946, 11910).
-
-arg(12134).
-text(12134, Disagree that the customer is just as much a victim, but that would only result in more victims, not less.).
-att(12134, root).
-
-arg(11869).
-text(11869, By that logic, no victim can be forced into anything, since they must have made choices along the way.).
-att(11869, root).
 
 arg(12015).
 text(12015, if society is comprised of discrete individuals, is the abstract society harmed when none of its discrete individuals are harmed? That is (very near) the original premise.).
@@ -345,14 +317,6 @@ arg(12726).
 text(12726, did Greeks say how to differentiate between such situations? cause if not then you propose violating rights of one individual to protect(?) other. Also you suggest violating everybody's right to make their own choices, mistakes, and learning from them.).
 att(12726, 12515).
 
-arg(12622).
-text(12622, Unfortunately it's not feasible to analyze and determine criminal behavior on an individual basis or in a case-specific fashion. There's no reason why we should allow actions that are so inherently dangerous when we aren't negatively affecting anybody's life by outlawing them. ).
-att(12622, root).
-
-arg(12160).
-text(12160, Again, the premise is a bare assertion. The premise fails to understand the difference between real and abstract things. Prostitution is an abstract characterization and harm is not a defining characteristic.).
-att(12160, root).
-
 arg(12017).
 text(12017, That is not necessarily true, even for theft. A victim of a theft may not even be aware a theft is occurred. Or, the "victim" may not care. The crime of theft is not defined externally from the victim's feelings.).
 att(12017, 11998).
@@ -360,10 +324,6 @@ att(12017, 11998).
 arg(11961).
 text(11961, This does not change that prostitution produced victims first. The proposed "victimless crime" rule is shown to be useless in this case.).
 att(11961, 11944).
-
-arg(13315).
-text(13315, First, I agree. Risk is real. It is pervasive. Thousands of people die every year in non-judgement impaired automobile accidents every year. I said this was an irrelevant conclusion because there is no proof that insurance rates would go up, and even if they did, that doesn't apply to this argument.).
-att(13315, root).
 
 arg(12409).
 text(12409, It wasn't prostitution that victimized her, but rather sexual slavery, rape, and kidnapping.
@@ -378,14 +338,6 @@ att(12500, 12409).
 arg(12501).
 text(12501, Would she cease to be a victimized if she received a portion of the money?).
 att(12501, 12409).
-
-arg(13093).
-text(13093, Risk is very real and has tangible repercussions.  If drinking and driving were legal, all of our insurance premiums would go through the roof because of the added risk.  Society would be forced to foot the bills in many ways.).
-att(13093, root).
-
-arg(11594).
-text(11594, Just because one person is a reckless drunk driver, should not make it illegal for a safe drunk driver to get behind the wheel. ).
-att(11594, root).
 
 arg(12142).
 text(12142, Prostitution is an abstract idea and cannot victimize anyone.).
@@ -415,10 +367,6 @@ arg(11137).
 text(11137, This would imply that we should restrict any activity that might impair productivity or otherwise leach off the state. Staying up late, not eating healthy, not taking enough caffeine, etc. ought to be criminalized because they 'victimize' society by reduced productivity.).
 att(11137, 10116).
 
-arg(11374).
-text(11374, The very fact one is drinking and driving endangers others. People can't choose if they are affected by the alcohol effects when driving. ).
-att(11374, root).
-
 arg(11375).
 text(11375, A prostitute may be poor and need the money from the transaction but still feel victimized and traumatized by the practice. Consensual is relative.).
 att(11375, 11362).
@@ -427,23 +375,11 @@ arg(12149).
 text(12149, You are making a bare assertion that an abstract idea has produced victims. This is unsupported.).
 att(12149, 11961).
 
-arg(11141).
-text(11141, A big man who had a beer might drive more carefully than a stressed-out mother with two kids to take care of rushing somewhere. Or some old people drive though they should not.  Where do you draw the line? Premise: We can't enforce responsible behavior by law as it is very subjective.).
-att(11141, 9962).
-
 arg(11142).
 text(11142, It's not drunk driving but reckless driving that is the actual 'crime'. 
 
 Somebody who is buzzed who is driving just fine should not be considered victimizing others. However someone who is sober but is swerving in and out of lanes and rapidly changing speeds might be considered to be endangering.).
 att(11142, 9962).
-
-arg(12151).
-text(12151, If prostitution creates just one victim, it is by definition not a victimless crime.).
-att(12151, root).
-
-arg(11379).
-text(11379, This shouldn't be a crime, if people have free will they can choose what to do with their lives as long as it doesn't actively affect others. ).
-att(11379, root).
 
 arg(12152).
 text(12152, By this generous rationale, not paying an employee who refuses to do his agreed-upon job is a "use of force".
@@ -455,10 +391,6 @@ arg(11967).
 text(11967, If prostitution is illegal, then all prostitutes (even ones *not* victimized) become victimized by the state. If prostitution is legal, the only victims are the ones that "feel" victimized (by your definition). Criminalization creates more victims.).
 att(11967, 11961).
 
-arg(12339).
-text(12339, Then you must show that a "specific instance of prostitution" creates a victim.).
-att(12339, root).
-
 arg(12262).
 text(12262, A specific instance of prostitution is not divorced from an actor.).
 att(12262, 12168).
@@ -466,6 +398,42 @@ att(12262, 12168).
 arg(12153).
 text(12153, The act of prostitution is far from being purely an abstract idea.).
 att(12153, 12149).
+
+arg(11869).
+text(11869, By that logic, no victim can be forced into anything, since they must have made choices along the way.).
+att(11869, 11381).
+
+arg(12160).
+text(12160, Again, the premise is a bare assertion. The premise fails to understand the difference between real and abstract things. Prostitution is an abstract characterization and harm is not a defining characteristic.).
+att(12160, 12148).
+
+arg(13315).
+text(13315, First, I agree. Risk is real. It is pervasive. Thousands of people die every year in non-judgement impaired automobile accidents every year. I said this was an irrelevant conclusion because there is no proof that insurance rates would go up, and even if they did, that doesn't apply to this argument.).
+att(13315, 13093).
+
+arg(13093).
+text(13093, Risk is very real and has tangible repercussions.  If drinking and driving were legal, all of our insurance premiums would go through the roof because of the added risk.  Society would be forced to foot the bills in many ways.).
+att(13093, 11987).
+
+arg(11594).
+text(11594, Just because one person is a reckless drunk driver, should not make it illegal for a safe drunk driver to get behind the wheel. ).
+att(11594, 11148).
+
+arg(11374).
+text(11374, The very fact one is drinking and driving endangers others. People can't choose if they are affected by the alcohol effects when driving. ).
+att(11374, 11142).
+
+arg(12151).
+text(12151, If prostitution creates just one victim, it is by definition not a victimless crime.).
+att(12151, 12145).
+
+arg(11379).
+text(11379, This shouldn't be a crime, if people have free will they can choose what to do with their lives as long as it doesn't actively affect others. ).
+att(11379, 11149).
+
+arg(12339).
+text(12339, Then you must show that a "specific instance of prostitution" creates a victim.).
+att(12339, 12262).
 
 arg(11381).
 text(11381, Still, they are free to choose. Being poor and need money is not a reason to FORCE someone to prostitution. Since they made a choice, they are not victims. Those people chose to believe prostitution was the only path, it can't be proven it is true.).
@@ -489,10 +457,6 @@ text(12513, It seems to imply that only crimes against people would be considere
 
 Because crimes against property could be made to "penalize" people, who would not be able in any way to retaliate as it would be crime if personally or nothing.).
 support(12513, 10661).
-
-arg(13715).
-text(13715, Both 'victim' and 'crime' are twin concepts. Like if you say 'top' you then imply there is a 'bottom'. If at least one specific person is not entered into a court record as a victim then proving a crime should not be possible since the word cannot make sense in the context. ).
-support(13715, root).
 
 arg(13700).
 text(13700, Since (1) being a victim includes exposure to significant risk of harm and (2)
@@ -519,17 +483,53 @@ arg(11842).
 text(11842, Under that logic, you could equally make the argument that people who eat unhealthy are victimizing themselves and need to be regulated, or people who drive are putting themselves at risk of being killed in an accident and need to be regulated. That logic would lead to a lower quality of life.).
 att(11842, 11149).
 
-arg(13752).
-text(13752, Actions can have negative but not immediately obvious consequences for society as a whole. Gradual social change can have disastrous affects for those a few generations on, sometimes sudden, with the original criminals no longer around to be held accountable. Many laws are a result of age old wisdom).
-att(13752, root).
-
-arg(13753).
-text(13753, People have a duty to society. Suicide has no immediate victims other than the person who willingly committed it, but even ignoring the emotional impact on people around them, they might have children or family who depend on them, and it erodes the stability of a society. ).
-att(13753, root).
-
 arg(13717).
 text(13717, However, when the State prosecutes "victimless crimes" they are actually implying that "everyone" is the victim even though they get nobody's signature to confirm it. 
 
 In these cases the State("everyone") is the principal of the prosecution, the victim, the judge and the venue administrators. ).
 att(13717, 13715).
+
+arg(13012).
+text(13012, Suicide is not illegal in the United States.).
+att(13012, 12553).
+
+arg(12553).
+text(12553, Suicide is also illegal. The person committing the crime is also the victim in both of these instances. The family/friends of the victim also suffer. ).
+att(12553, 10117).
+
+arg(11141).
+text(11141, A big man who had a beer might drive more carefully than a stressed-out mother with two kids to take care of rushing somewhere. Or some old people drive though they should not.  Where do you draw the line? Premise: We can't enforce responsible behavior by law as it is very subjective.).
+att(11141, 9962).
+
+arg(12162).
+text(12162, The word "prostitution" can refer to the prostitution industry, the idea of prostitution, a specific instance of prostitution, or all of the above.).
+att(12162, 12160).
+
+arg(11910).
+text(11910, Everyone feels victimized to an extent. A prostitute is not the same as a sex slave, they chose prostitution because it was more lucrative than the alternatives.).
+att(11910, 11375).
+
+arg(12134).
+text(12134, Disagree that the customer is just as much a victim, but that would only result in more victims, not less.).
+att(12134, 12016).
+
+arg(12622).
+text(12622, Unfortunately it's not feasible to analyze and determine criminal behavior on an individual basis or in a case-specific fashion. There's no reason why we should allow actions that are so inherently dangerous when we aren't negatively affecting anybody's life by outlawing them. ).
+att(12622, 11594).
+
+arg(13753).
+text(13753, People have a duty to society. Suicide has no immediate victims other than the person who willingly committed it, but even ignoring the emotional impact on people around them, they might have children or family who depend on them, and it erodes the stability of a society. ).
+att(13753, root).
+
+arg(13715).
+text(13715, Both 'victim' and 'crime' are twin concepts. Like if you say 'top' you then imply there is a 'bottom'. If at least one specific person is not entered into a court record as a victim then proving a crime should not be possible since the word cannot make sense in the context. ).
+support(13715, root).
+
+arg(13752).
+text(13752, Actions can have negative but not immediately obvious consequences for society as a whole. Gradual social change can have disastrous affects for those a few generations on, sometimes sudden, with the original criminals no longer around to be held accountable. Many laws are a result of age old wisdom).
+att(13752, root).
+
+arg(10661).
+text(10661, The term "victim" is vague, but central to the claim. What defines a victim in this scenario? Without a clear definition of what is victimization and where culpability ends, we can't come to a conclusion. ).
+att(10661, root).
 

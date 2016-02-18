@@ -1,11 +1,11 @@
 arg(root).
 text(root, McDonald's is good for you.).
 
-arg(5819).
-text(5819, Taste does not mean healthiness, you could mix a poison with food that some would find 'tasty' - Following this path of logic, eating this poisoned 'tasty' food will have no adverse effects.).
-att(5819, root).
-
 arg(5550).
 text(5550, It's tasty.).
 support(5550, root).
+
+arg(5819).
+text(5819, Taste does not mean healthiness, you could mix a poison with food that some would find 'tasty' - Following this path of logic, eating this poisoned 'tasty' food will have no adverse effects.).
+att(5819, 5550).
 

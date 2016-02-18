@@ -1,11 +1,35 @@
 arg(root).
 text(root, Ethnic diversity reduces social solidarity and diminishes social capital).
 
-arg(15306).
-text(15306, Original prem. concerns _ethnic_ diversity; nothing prevents ethnically diverse people from sharing a broad _cultural_ background. One's culture needn't be defined by one's ethnicity.
+arg(17007).
+text(17007, There is no direct link between that and ethnic diversity. Maybe correlating evidence, but no directly demonstrated evidence.).
+att(17007, root).
 
-Eg: Mauritius.  Tensions linked to _social_ issues in otherwise VERY multi-ethnic and peaceful society.).
-att(15306, root).
+arg(16987).
+text(16987, Ethnic diversity reduces social trust).
+support(16987, root).
+
+arg(16812).
+text(16812, In America, more diverse cities have more segregation).
+support(16812, root).
+
+arg(17003).
+text(17003, "This does not mean that one necessarily causes the other; the correlation might be caused by some other factor or factors."
+
+Your own source literally says it's only a suggestion and there is no direct proof for it. Classic case of lazy "correlation implies causation" argument.).
+att(17003, 15151).
+
+arg(17006).
+text(17006, "Has often been linked". Again the same, correlation implies causation to you because of ethnic homogeneity showed something positive, so the opposite is proven to be detrimental. This is okay to say but then it is called an opinion and not a fact.).
+att(17006, 13743).
+
+arg(17005).
+text(17005, Again a typical "correlation doesn't imply causation" since there is no direct proof that ethnic diversity is responsible without looking at other factors.).
+att(17005, 16987).
+
+arg(17004).
+text(17004, Your own linked source says that this is an observed short-term phenomenon that goes away in the long term. And again it is not handled as a fact but rather an observation. You dishonestly quote this source and you don't specify short-term or long-term influences.).
+att(17004, 13750).
 
 arg(15151).
 text(15151, Ethnic homogeneity correlates with strong democracy.).
@@ -15,9 +39,27 @@ arg(13750).
 text(13750, Diversity reduces charity and volunteering. ).
 support(13750, root).
 
+arg(17001).
+text(17001, That is an irrelevant conclusion. Obviously the more ethnically uniform a population is the less segregation there is, that's basic logic because there are less people from one ethnic group to even form a community.).
+att(17001, 16812).
+
+arg(17000).
+text(17000, Like gnudiff said, ethnic diversity is not the same as cultural diversity.).
+att(17000, 13749).
+
+arg(16999).
+text(16999, This is about social fragmentation (A population that came to a point where different groups completely disagree with each other politically and socially) and not ethnic diversity. Did you even read your own source you posted?).
+att(16999, 13748).
+
 arg(13748).
 text(13748, Ethnic diversity reduces concern for the environment.).
 support(13748, root).
+
+arg(15306).
+text(15306, Original prem. concerns _ethnic_ diversity; nothing prevents ethnically diverse people from sharing a broad _cultural_ background. One's culture needn't be defined by one's ethnicity.
+
+Eg: Mauritius.  Tensions linked to _social_ issues in otherwise VERY multi-ethnic and peaceful society.).
+att(15306, 13749).
 
 arg(13743).
 text(13743, demographic homogeneity has often been linked with higher levels of trust, social cohesion, and belongingness typically thought to compose sense of community).
@@ -34,4 +76,8 @@ support(13749, root).
 arg(13831).
 text(13831, In nature, diversity is a sign of health and strength. We strive to keep biological habitats diverse for this reason. When diversity is lacking the ecosystem suffers as disease causes more damage. Since humans are part of the natural world, diversity is also health and strength for communities.).
 att(13831, root).
+
+arg(17002).
+text(17002, Many of your linked "papers" are a common mistake called causation doesn't imply causation. You specifically linked to studies researching countries where ethnic diversity correlated to negative factors without leaving a reason why ethnic diversity might be the direct cause. You didn't deliver.).
+att(17002, root).
 

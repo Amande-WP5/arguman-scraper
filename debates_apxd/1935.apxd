@@ -1,18 +1,6 @@
 arg(root).
 text(root, Politically correct speech is a tool of false controversy causing inverse bigotry and insular banding of bigots).
 
-arg(12834).
-text(12834, what do you mean by " is wrong about being pc" ?).
-att(12834, root).
-
-arg(12594).
-text(12594, We DO have to measure intent. You can't just act as if every person would talk the same way. There are many public figures today whose only drawback when talking is being offensive to others. A good example is Trump calling an opponent a pig in a debate. Why defend him when he gets criticized?).
-att(12594, root).
-
-arg(12595).
-text(12595, Today most people against PC seem to be individuals who are pissed that we can't be publicly sexist and racist anymore without being criticized. PC is not a "tool" and is not enforced, it's simply the resonance of what society thinks today. People are still free to say whatever they want.).
-att(12595, root).
-
 arg(12845).
 text(12845, That is quite the generalization, maybe there are other reasons?
 
@@ -21,18 +9,6 @@ Have you ever heard of people losing their jobs for saying something that was ta
 
 free speech is an illusion).
 att(12845, 12595).
-
-arg(12592).
-text(12592, Without any control, public figures would be able to say whatever they want. Be racist, make jokes about the holocaust, condone beating of women and insult opponents. It's still free speech but society should be free to criticize what other people say.).
-att(12592, root).
-
-arg(12593).
-text(12593, If a single person (or a minority of the population) is wrong about being PC, it is not at all a huge problem. It's not affecting society and free speech at all.).
-att(12593, root).
-
-arg(13617).
-text(13617, People are free to say whatever they want. People are not free from the consequences of what they say. ).
-att(13617, root).
 
 arg(12836).
 text(12836, I mean that if some people take PC too far, it' still doesn't make it totally unnecessary.).
@@ -82,6 +58,18 @@ arg(12877).
 text(12877, If someone takes PC to the level of physically harming someone, he is a criminal. Criminals don't follow laws and they should have nothing to do with it. Violent people are not supported by PC people as far as I see it.).
 att(12877, 12855).
 
+arg(13095).
+text(13095, How does that apply to ruining someone's career?).
+att(13095, 12877).
+
+arg(12834).
+text(12834, what do you mean by " is wrong about being pc" ?).
+att(12834, 12593).
+
+arg(12594).
+text(12594, We DO have to measure intent. You can't just act as if every person would talk the same way. There are many public figures today whose only drawback when talking is being offensive to others. A good example is Trump calling an opponent a pig in a debate. Why defend him when he gets criticized?).
+att(12594, 12486).
+
 arg(12486).
 text(12486, Publicly shaming other's words regardless of intent can foster illogical persecuted affirmations against their attackers. ).
 support(12486, root).
@@ -90,7 +78,19 @@ arg(12484).
 text(12484, Any word can be made politically incorrect with the right tone from the wrong person).
 support(12484, root).
 
-arg(13095).
-text(13095, How does that apply to ruining someone's career?).
-att(13095, 12877).
+arg(12593).
+text(12593, If a single person (or a minority of the population) is wrong about being PC, it is not at all a huge problem. It's not affecting society and free speech at all.).
+att(12593, 12484).
+
+arg(13617).
+text(13617, People are free to say whatever they want. People are not free from the consequences of what they say. ).
+att(13617, 12857).
+
+arg(12592).
+text(12592, Without any control, public figures would be able to say whatever they want. Be racist, make jokes about the holocaust, condone beating of women and insult opponents. It's still free speech but society should be free to criticize what other people say.).
+att(12592, root).
+
+arg(12595).
+text(12595, Today most people against PC seem to be individuals who are pissed that we can't be publicly sexist and racist anymore without being criticized. PC is not a "tool" and is not enforced, it's simply the resonance of what society thinks today. People are still free to say whatever they want.).
+att(12595, root).
 

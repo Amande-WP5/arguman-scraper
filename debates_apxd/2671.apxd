@@ -1,0 +1,328 @@
+arg(root).
+text(root, Fascist thought should be banned, and prominent proponents of fascism imprisoned as a deterrent).
+
+arg(18583).
+text(18583, I never said nationalist. I said national. As in "across a nation". Sorry if that was worded poorly, I was running up against the character limit.).
+att(18583, 18546).
+
+arg(18620).
+text(18620, Communism has directly lead to more innocent deaths than Fascism. Therefore we should embrace Fascism whenever it will save us from Communism. Banning Fascism might cause far greater harm.).
+att(18620, root).
+
+arg(18564).
+text(18564, The goal ultimately is to make fascism socially unacceptable (without the need to legislate). But in the efforts to attain the goal, law has a role to play. The point is not to "punish ideas" as many seem to interpret. When some action is publicly suggested by a politic/religioz leader, not an idea).
+support(18564, root).
+
+arg(18642).
+text(18642, The necessary conditions for fascism to occur also are the necessary conditions for democracy to occur. From this we can conclude that neither is inevitable.).
+support(18642, 18612).
+
+arg(18593).
+text(18593, This is merely a semantics issue. If there were a separate word for "the idea of rape", like there is for "the idea of fascist ideology", this would disappear. Certainly you would agree that rape fantasies (ew) should not be punishable by law. Otherwise half the internet would be arrested.).
+att(18593, 18563).
+
+arg(18594).
+text(18594, Hydra springs to mind here. "Cut off one head and another replaces it". Probably doesn't work forever, but Al Quieda seems to have taken it to heart, so you never know.).
+att(18594, 18520).
+
+arg(18589).
+text(18589, If the goal is to not need to legislate, how do you expect the law to have a role to play?).
+att(18589, 18564).
+
+arg(18587).
+text(18587, The contention is to imprison people for supporting fascism. How is this not punishing people for their ideas?).
+att(18587, 18564).
+
+arg(18563).
+text(18563, Fascism is not "just an idea". Lets use a metaphor: Rape is just an idea?! We should stop rapists (I think we agree here). I say we should stop also those who say "it is ok/acceptable to rape mini-skirt wearing women" (I think we disagree here), and due to a misunderstanding of freedom of expression).
+att(18563, 18524).
+
+arg(18657).
+text(18657, This premise is crowded as it is. You are continuing to spam it with useless, empty remarks to inflate statistics to reflect your own fascist-sympathetic viewpoint. Don't do it again.).
+att(18657, root).
+
+arg(18933).
+text(18933, You are confusing fascism with racism and nationalism. Any of them can exist without the other. This discussion is about fascism only.).
+att(18933, 18542).
+
+arg(18670).
+text(18670, "Fascism saved Germany from Communism."
+-
+[Citation needed]
+Also, what does "saved" mean? Socially, politically, culturally, or militarily?).
+att(18670, 18644).
+
+arg(18658).
+text(18658, I'm referring to the definition of fascism you (or someone else?) posted a while back, which outlines fascism very specifically.).
+att(18658, 18583).
+
+arg(18644).
+text(18644, Fascism saved Germany from Communism. Communism is relevant because the premise above brought in the idea of committing an evil (jailing fascists) to prevent a greater one (fascism). Communism has directly lead to more deaths so a case stands that Fascism can be permitted to prevent greater evil.).
+support(18644, 18622).
+
+arg(18612).
+text(18612, Al Qaeda and other similar organisations stem from and are based upon very powerful material conditions, and are the direct and unavoidable results of imperialism. The material conditions for fascism, on the other hand, do not inevitably lead to fascism.).
+att(18612, 18594).
+
+arg(18643).
+text(18643, That's not the case in common usage or in tactical terms. I would bet that the difference here is that you're thinking in terms of intent, whereas I would say that all that really matters is the outcome. Intent is irrelevant to most situations.).
+att(18643, 18611).
+
+arg(18623).
+text(18623, Fascism can be a purely reactionary movement, moved by legitimate ethical hate. It is ethical to hate murderers, if murderers institute communism on a nation and starve people it is ethical to hate them and embrace fascism and resistance to defeat them. Violence is not bad if it is self defense.).
+att(18623, 18521).
+
+arg(18622).
+text(18622, Communism has directly lead to more innocent deaths than Fascism. Therefore we should embrace Fascism whenever it will save us from Communism. Banning Fascism might cause far greater harm. By your own logic we should embrace Fascism.).
+att(18622, 18449).
+
+arg(18621).
+text(18621, Communism has directly lead to more innocent deaths than Fascism. Therefore we should embrace Fascism whenever it will save us from Communism. Banning Fascism might cause far greater harm.).
+att(18621, 18522).
+
+arg(18619).
+text(18619, Communism has directly lead to more innocent deaths than Fascism. Therefore we should embrace Fascism whenever it will save us from Communism. Banning Fascism might cause far greater harm.).
+att(18619, 18544).
+
+arg(18520).
+text(18520, Besides, we need only remove the leaders of fascist movements, who are widely known and established, for fascism to dissipate and disappear as a political movement. A large-scale wave of arrests would be counter-productive.).
+support(18520, 18519).
+
+arg(18611).
+text(18611, Fair enough. The point I'm trying to make is that fascism is distinct and qualitatively different from the practices of fascist regimes. ).
+att(18611, 18582).
+
+arg(18591).
+text(18591, I actually disagree with you on this one. People rarely learn all that well from history. One could make the argument that Trump's success in the US is an example of a fascist candidate. Many UKIP policies seem fascist on their face. Golden Dawn is fascist. There's more examples if you look.).
+att(18591, 18525).
+
+arg(18592).
+text(18592, Actions are punishable, not speech (unless that speech *directly* incites criminal actions, ie bribery, conspiracy to murder, etc.).).
+support(18592, 18575).
+
+arg(18590).
+text(18590, But how is this any different from the contention, which proposes that we crush all deviance on this issue and imprison anyone who disagrees with its mandates?).
+att(18590, 18503).
+
+arg(18588).
+text(18588, This is essentially a repeat of [1]).
+att(18588, 18522).
+
+arg(18586).
+text(18586, I never tried to say communism is hate speech. Plainly it's not. It's just another example of an idea that is not allowed to be expressed in many places.).
+att(18586, 18544).
+
+arg(18585).
+text(18585, If racism and communism are not banned, how have we been imprisoning people for being communists and racists?).
+att(18585, 18544).
+
+arg(18584).
+text(18584, Communism is banned in many countries. Here's 102 political parties that are banned for being communist: [1]. Racial hate speech is banned in many countries. Canada strikes as a good example, yet most Canadians think racism is still quite strong.).
+att(18584, 18544).
+
+arg(18575).
+text(18575, Yep. If someone says rape is acceptable, he shouldn't be arrested by the gov just for this. That's called freedom of speech.).
+att(18575, 18563).
+
+arg(18536).
+text(18536, Stop appending random "Because" clauses that are just extensions of your previous argument. If you aren't making a new point, don't make a new post. Extend into the sources if needed.).
+att(18536, 18520).
+
+arg(18581).
+text(18581, No, but that just makes me think you should remove the fallacy report, rather than the rebuttal.).
+att(18581, 18545).
+
+arg(18547).
+text(18547, If we attempt to maintain the unity of thought that "the Holocaust was bad" or "sandals are better than shoes" or "the Moon reflects light from the sun" is that a form of fascism? Unity of thought is not fascism in any respect.).
+att(18547, 18511).
+
+arg(18546).
+text(18546, Whoa whoa, hold on a minute - who said anything about restricting fascists in the aim of enforcing a national or racial mentality? That's the most blatant misrepresentation of the argument I've encountered so far. The aim is to prevent the re-emergence of fascism. Is that a hypernationalist aim?).
+att(18546, 18535).
+
+arg(18545).
+text(18545, Can you directly respond to a fallacy report?).
+att(18545, 18532).
+
+arg(18544).
+text(18544, Neither communism nor racism are banned. On the other hand, through imprisonment and other more subtle coercive means, we have significantly reduced the number of communists and white supremacists.).
+att(18544, 18533).
+
+arg(18542).
+text(18542, The recent wave of attacks against migrants has shown a base of potential public rallying force for neo-fascist leaders and/or their movements. It will be some time before we see how their respective governments respond. Until then, this is merely an assertion.).
+att(18542, 18525).
+
+arg(18537).
+text(18537, Not particularly. Such evidence would usually be he-said-she-said, and easily falsifiable. Even if you could provide a reasonable assurance against false positives, there's still the matter of it being unconstitutional in most western nations.).
+att(18537, 18519).
+
+arg(18535).
+text(18535, How is there *not* overlap? Please, explain how using authoritarian means to enforce a national mentality is not fascist. I've asked several times, and you've yet to provide even an attempt at an answer.).
+att(18535, 18517).
+
+arg(18534).
+text(18534, Can you provide any evidence that fascism will not arise of its own accord?).
+att(18534, 18518).
+
+arg(18533).
+text(18533, You could make the same argument for communism. Or racism. There are many places where hate speech is banned. It doesn't seem to work well for them.).
+att(18533, 18518).
+
+arg(18532).
+text(18532, First, I find it distasteful that you made the same point in both a premise and a fallacy report. All this does is inflame the statistics for your side of the argument, and it's entirely unproductive.).
+att(18532, 18518).
+
+arg(18525).
+text(18525, There is no way a fascist political figure could attain any power for example in germany; Every speech this political figure would attend would be boycotted and he would possibly even be legally detained for hate speech or instigation of violence. We don't even need to "ban fascism" in general.).
+support(18525, 18524).
+
+arg(18524).
+text(18524, The definition of fascism isn't even important. Fascism, as bad as it is, is just an idea. Every person can have that thought in his mind. Whether a country bans things like fascist political parties (they do in gr) or fascist propaganda (they do in gr) is a completely different issue.).
+att(18524, 18509).
+
+arg(18518).
+text(18518, Fascism is not an ideology people develop independently. Fascism is both an ideology and a complex socioeconomic formation, and insofar as the transmission of fascist thought is banned, fascism will not under any circumstance develop independently due to any inherent requirement of being.).
+att(18518, 18467).
+
+arg(18521).
+text(18521, Fascism is an inherently hateful ideology and derives its legitimacy from violence. ).
+support(18521, root).
+
+arg(18519).
+text(18519, It is not necessarily a requirement. It is indeed impossible to ascertain whether someone is "truly" a fascist, but as to whether they propagate fascist thought publicly - that is quite definitely easy to ascertain.).
+att(18519, 18466).
+
+arg(18515).
+text(18515, Attached is a definition. Also, I'd like to point out that it's very rare where the solution to a problem (read: fascism) is to introduce more of the problem.).
+att(18515, 18509).
+
+arg(18517).
+text(18517, Why is this a "but"? This is reading into a dictionary and drawing superficial parallels. What you should be asking yourself is this: is banning fascism and imprisoning fascists "a form of radical authoritarian nationalism" etc.? There is nothing substantially overlapping.).
+att(18517, 18464).
+
+arg(18513).
+text(18513, You seem to assume that fascism is a binary choice. Why not appropriate the libertarian spectrum for this purpose, since fascists have almost entirely authoritarian views?).
+att(18513, 18506).
+
+arg(18512).
+text(18512, The fascist technique is locking someone up for speaking their mind, and the banning of an ideology. There's a reason freedom of speech is valued. You can't have an honest, free society without it.).
+att(18512, 18505).
+
+arg(18511).
+text(18511, The goal here is to maintain a unity of thought, the thought being "fascism is bad". The methods used are hallmarks of fascist regimes. I fail to see the distinction you're making.).
+att(18511, 18504).
+
+arg(18510).
+text(18510, Shouldn't this be a "because" or "however"? You don't seem to be disagreeing with me.).
+att(18510, 18507).
+
+arg(18508).
+text(18508, This is a good question. Depending on which country, calling for the elimination of other people is illegal for "inciting violence" a.k.a. hate speech. This is already a prosecuted form of speech. But you simply can't be arrested just by calling yourself a nazi on fb and sitting at home chilling.).
+att(18508, 18507).
+
+arg(18506).
+text(18506, Finally, fascists do not just "desire" and what you call "social unity". Yours is such a positive view of fascism! Societal purity, not wanting nor allowing any form of difference, and using all forms of brute force for that... the primary (if not only) context that necessitates brute force is this).
+att(18506, 18465).
+
+arg(18507).
+text(18507, When does it achieve the level of acting on an ideology? When someone says publicly that XYZ people should be eliminated, exiled, etc. is this not an act? If the same one says I dont like XYZ people, ok, let's call it private belief in public sphere. But when it's a political proposal, eh, belief?).
+att(18507, 18462).
+
+arg(18505).
+text(18505, Second, what are fascist techniques? Law? Prison? If your criticism is a broad one, leading to an utopian vision, I could agree. But we live with people who burn the houses of others, murder, torture, etc.  for their "beliefs", and they are perhaps the ones we should keep under check primarily.).
+att(18505, 18465).
+
+arg(18514).
+text(18514, I don't see how I have a positive view of fascism, when I'm fighting against its application. I'll put the definition I'm using in the source box.).
+att(18514, 18506).
+
+arg(18543).
+text(18543, No. The preconditions for the successful reemergence of fascism are here already. Formulating the abstract nationalistic desires of thousands of people into a specific, concrete, characteristically fascist plan, requires both intellectual input and a knowable historical legacy.).
+att(18543, 18534).
+
+arg(18582).
+text(18582, Really? If I understand you correctly, you're saying that in a world where [attempt at unity] + [punishable by law] = fascism, the [punishable by law] part is negligible? Because unlike the contention, none of your examples are punishable by law.).
+att(18582, 18547).
+
+arg(18509).
+text(18509, Please clarify our minds, give an end to our confusion! Tell us all the nice features of fascism. Until they attain complete power fascists are ok, only when they become nazis its a problem, is this it? And our democracy is strong enough to... eh, when it is not strong enough, e.g. outside the West?).
+att(18509, 18495).
+
+arg(18504).
+text(18504, First, the goal is not a fascist one. We should not confound the goals of those who try to achieve purity (of blood, nation, etc.) with the goals of those who try to maintain diversity.).
+att(18504, 18465).
+
+arg(18425).
+text(18425, Doing it look a lot like fascism to me.).
+att(18425, root).
+
+arg(18496).
+text(18496, Locking people up for an ideology is not exactly anti-fascism. It is a form of fascism itself.).
+att(18496, 18452).
+
+arg(18495).
+text(18495, You are confusing the ideology of fascism with the fascist regime.
+
+Fascism itself has not been directly responsible for the execution of tens of millions of people.).
+att(18495, 18449).
+
+arg(18473).
+text(18473, Or because you completely misunderstand the opinion of the person, or because you believe too strongly in your capacity to induce thing. ("his friends are fascists, he is surely fascist")).
+support(18473, 18466).
+
+arg(18467).
+text(18467, Banning things doesn't tend to decrease its presence by all that much. Take Iran for example. Alcohol is banned there, yet 60,000,000 liters of it is still consumed there each year.).
+att(18467, 18454).
+
+arg(18349).
+text(18349, An ideology can't be the reason to incarcerate someone.).
+att(18349, root).
+
+arg(18465).
+text(18465, How is using fascist techniques to achieve a fascist goal not fascist? The fascists desired societal unity, which you are achieving by locking people up for their differing beliefs (a fascist technique of choice).).
+att(18465, 18452).
+
+arg(18464).
+text(18464, Sounds like fascism—"a form of radical authoritarian nationalism ... to forge national unity and maintain a stable and orderly society. [It] rejects assertions of violence automatically being negative in nature and views political violence, war, and imperialism as means that can [achieve an end].").
+att(18464, 18453).
+
+arg(18462).
+text(18462, You're essentially advocating to fight fire with fire. When one is not acting on an ideology, it doesn't matter what one believes. You're asking to put someone in prison for a belief which they have not acted on, and that's exactly what the examples you're using did.).
+att(18462, 18449).
+
+arg(18453).
+text(18453, Fascism is a specific, conservative, anti-democratic, totalitarian ideology which holds the state/race to be the highest form of human expression. Being involved in arresting a fascist doesn't make you a fascist.).
+att(18453, 18444).
+
+arg(18452).
+text(18452, How can anti-fascism be fascism? This isn't "fascism" as "being slightly authoritarian", it's fascism as an actual ideology.).
+att(18452, 18425).
+
+arg(18449).
+text(18449, A totalitarian ideology advocating for racial subjugation that has been responsible for the execution of tens of millions of people. Incarceration on a minor scale of far-right extremists is preferable to the re-emergence of fascism.).
+att(18449, 18349).
+
+arg(18445).
+text(18445, The actions one takes in following an ideology can be.).
+att(18445, 18349).
+
+arg(18454).
+text(18454, It is a step towards preventing the re-emergence of fascism.).
+support(18454, root).
+
+arg(18444).
+text(18444, The people doing this would be fascists. They would thus be performing a banned activity and need to be jailed themselves. The end result is that all people who participate in the system are condemned and arrested.).
+att(18444, root).
+
+arg(18522).
+text(18522, This would prevent the propagation of fascist thought and intimidate the far-right against the application of this thought.).
+support(18522, root).
+
+arg(18503).
+text(18503, Fascism is a political order that crushes all forms of deviance and difference, and imprisons (if not murder) anyone who disagrees with its mandates).
+support(18503, root).
+
+arg(18466).
+text(18466, Even if we were to agree to the premise, how would you prove that one really is a fascist? Seems to me you'd have a 1984-style epidemic of false reports just because you don't like a person.).
+att(18466, root).
+

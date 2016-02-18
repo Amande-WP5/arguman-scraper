@@ -1,27 +1,19 @@
 arg(root).
 text(root, Lying to a child is acceptable).
 
-arg(10515).
-text(10515, What about fiction which seems less harmful such as santa fairy tooth? Don't you think that these "myths" are part of childhood? ).
-att(10515, root).
-
 arg(10197).
 text(10197, They do not understand the compexity of the world so it's easier to lie to them. ).
 support(10197, root).
+
+arg(10229).
+text(10229, If it's a white lie, it may make the child happier.).
+support(10229, root).
 
 arg(10202).
 text(10202, Easy =/= acceptable
 
 Pranking a blind man is easy but not acceptable).
 att(10202, 10197).
-
-arg(10229).
-text(10229, If it's a white lie, it may make the child happier.).
-support(10229, root).
-
-arg(10227).
-text(10227, It depends of this age of the child).
-att(10227, root).
 
 arg(10222).
 text(10222, Giving them a simple explanation for complicated concepts (e.g. death) is far better than outright lying to them.).
@@ -34,14 +26,6 @@ att(10226, 10222).
 arg(10524).
 text(10524, Personally I was embarrassed and angry when I found out the truth. I think kids would value being in on the joke. Tell them the truth and then play along with the traditions anyway. Kids love presents more than anything, so as long as you have them covered there, I don't think they'll feel deprived.).
 att(10524, 10515).
-
-arg(10238).
-text(10238, So the real problem here is to define a lie. Because in a way depending of the analogy we could define it as a lie).
-att(10238, root).
-
-arg(10430).
-text(10430, It depends of the nature of the lie.).
-att(10430, root).
 
 arg(10533).
 text(10533, Santa and the tooth fairy don't later become reasons for infringing upon the rights of others, and are also much more minor things that are easier to dismiss later in life.
@@ -79,9 +63,33 @@ arg(10487).
 text(10487, Yes, its a very cruel thing that a child doesn't need to or know how to deal with in most situations. I would say that its cruel to tell them the truth).
 att(10487, 10240).
 
+arg(10336).
+text(10336, It can be kind of a lie if you choose a wrong analogy).
+att(10336, 10242).
+
+arg(10554).
+text(10554, It is cruel to tell them a complete lie that might infuriate them when they are grown up. E.g. telling them their father went away for a time but he actually died.).
+att(10554, 10487).
+
+arg(10515).
+text(10515, What about fiction which seems less harmful such as santa fairy tooth? Don't you think that these "myths" are part of childhood? ).
+att(10515, 10505).
+
+arg(10227).
+text(10227, It depends of this age of the child).
+att(10227, root).
+
+arg(10430).
+text(10430, It depends of the nature of the lie.).
+att(10430, root).
+
 arg(10455).
 text(10455, This would teach that lying is OK if the truth ever came out. Withholding information would be a better decision.).
 att(10455, root).
+
+arg(10238).
+text(10238, So the real problem here is to define a lie. Because in a way depending of the analogy we could define it as a lie).
+att(10238, 10236).
 
 arg(10176).
 text(10176, The Placebo effect works really good on children).
@@ -96,12 +104,4 @@ support(10181, root).
 arg(10505).
 text(10505, Never. Nor should they be indoctrinated into any religion before the age of 10, as it has been proven that this damages their ability to differentiate reality from fiction, as well as their self-esteem.).
 att(10505, root).
-
-arg(10336).
-text(10336, It can be kind of a lie if you choose a wrong analogy).
-att(10336, 10242).
-
-arg(10554).
-text(10554, It is cruel to tell them a complete lie that might infuriate them when they are grown up. E.g. telling them their father went away for a time but he actually died.).
-att(10554, 10487).
 

@@ -1,13 +1,13 @@
 arg(root).
 text(root, All government documents should be public.).
 
+arg(9037).
+text(9037, It doesn't matter if it takes ages to publicate everything, because even starting to publicate them would be an improvement.).
+att(9037, 8761).
+
 arg(8727).
 text(8727, Because the ordinary citizen needs to know what is in Area 51! You can't hide dem aliens! ).
 support(8727, root).
-
-arg(9661).
-text(9661, I exaggerate for comic effect).
-att(9661, root).
 
 arg(8755).
 text(8755, 1) Some documents could put public safety at risk, therefore would negatively impact people in our nation.).
@@ -17,6 +17,10 @@ arg(8759).
 text(8759, 2) Espionage would become a terrible problem.).
 att(8759, root).
 
+arg(9661).
+text(9661, I exaggerate for comic effect).
+att(9661, 8829).
+
 arg(9200).
 text(9200, That will never happen because it leaves a governing body open to attack by the masses. Even if it was made policy, there would still be off-the-books meetings.).
 att(9200, root).
@@ -24,14 +28,6 @@ att(9200, root).
 arg(8761).
 text(8761, This could take millions of years to achieve given the scope and rate of publication of U.S. government documents).
 att(8761, root).
-
-arg(8773).
-text(8773, Revealing the truth about the reptile people at the top of our governments would cause them to initiate their genocidal plans early).
-att(8773, root).
-
-arg(9037).
-text(9037, It doesn't matter if it takes ages to publicate everything, because even starting to publicate them would be an improvement.).
-att(9037, 8761).
 
 arg(9043).
 text(9043, That is only a problem if the publication is state-limited. The first argument does not explicitly ask for 1 state or nation to publicate all documents.
@@ -46,27 +42,31 @@ arg(9045).
 text(9045, If you can't hide them aliens in the first place, it will not matter of documents are public or not.).
 att(9045, 8727).
 
-arg(9796).
-text(9796, There would need to be protection for the military (ie, location of troops). An amendment to the statement such as "except where it would directly endanger lives" would be useful).
-att(9796, root).
-
 arg(9802).
 text(9802, The government can very easily use this as an excuse to hide almost every document. Example: The NSA spying was protecting the people according to the government and whistleblower Snowden endangered the population by leaking documents.).
 att(9802, 9796).
-
-arg(8828).
-text(8828, It is an important feature of democracy that the government be held accountable for its actions, which would be facilitated by making government documents public.).
-support(8828, root).
 
 arg(8829).
 text(8829, It would probably not take nearly that long.).
 att(8829, 8761).
 
+arg(9164).
+text(9164, The grays want to use humans for their trans dimensional experiments and would resist the reptilian genocidal plans.).
+att(9164, 8773).
+
 arg(8862).
 text(8862, Corruption and bribery might be prevented easily).
 support(8862, root).
 
-arg(9164).
-text(9164, The grays want to use humans for their trans dimensional experiments and would resist the reptilian genocidal plans.).
-att(9164, 8773).
+arg(8773).
+text(8773, Revealing the truth about the reptile people at the top of our governments would cause them to initiate their genocidal plans early).
+att(8773, root).
+
+arg(9796).
+text(9796, There would need to be protection for the military (ie, location of troops). An amendment to the statement such as "except where it would directly endanger lives" would be useful).
+att(9796, root).
+
+arg(8828).
+text(8828, It is an important feature of democracy that the government be held accountable for its actions, which would be facilitated by making government documents public.).
+support(8828, root).
 

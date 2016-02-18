@@ -1,9 +1,50 @@
 arg(root).
 text(root, It is okay to lie to support your argument).
 
+arg(8374).
+text(8374, Only if you consider winning a discussion worth more than being right and or telling the truth.).
+att(8374, root).
+
+arg(7856).
+text(7856, This is the internet.).
+att(7856, 7718).
+
+arg(8262).
+text(8262, If we define "okay" as "permissible" the same applies.  ).
+att(8262, 7737).
+
+arg(8277).
+text(8277, Some people have lied with great charisma and character. Their arguments were not believed any less. ).
+att(8277, 7718).
+
+arg(8360).
+text(8360, Who is to decide the definition of what is permissible?).
+att(8360, 8262).
+
+arg(8365).
+text(8365, This assumes that the truth is less important than what the liar percieves to be moral).
+att(8365, 8271).
+
+arg(7920).
+text(7920, Not regardless of context. 
+I.e it would be very egosentric to lie about having cancer when you dont, only to make people donate lots of money to you.).
+att(7920, 7887).
+
+arg(8414).
+text(8414, Yes it did.    Honest.).
+att(8414, 7942).
+
 arg(7942).
 text(7942, The parent argument never stipulated the environment.).
-att(7942, root).
+att(7942, 7856).
+
+arg(8265).
+text(8265, If one is starving and needs food, but is unable to receive it. Lying to survive is better than starving. ).
+att(8265, 7920).
+
+arg(8425).
+text(8425, We can abstract almost any argument by asking what the real definition of a word is. ).
+att(8425, 8360).
 
 arg(7718).
 text(7718, Once it is discovered that you lied, people will trust you less in future arguments, making it a bad long-term strategy.).
@@ -22,56 +63,15 @@ arg(7737).
 text(7737, The definition of 'Okay' is very subjective and is not specific enough in this statement to be able to give it a definitive answer.).
 att(7737, root).
 
-arg(7856).
-text(7856, This is the internet.).
-att(7856, 7718).
-
-arg(8262).
-text(8262, If we define "okay" as "permissible" the same applies.  ).
-att(8262, 7737).
-
-arg(8265).
-text(8265, If one is starving and needs food, but is unable to receive it. Lying to survive is better than starving. ).
-att(8265, root).
-
 arg(8271).
 text(8271, If an argument will help persuade others to do good deeds, the lie becomes irrelevant. ).
 support(8271, root).
-
-arg(8277).
-text(8277, Some people have lied with great charisma and character. Their arguments were not believed any less. ).
-att(8277, 7718).
 
 arg(7887).
 text(7887, Yes it is.).
 support(7887, root).
 
-arg(8425).
-text(8425, We can abstract almost any argument by asking what the real definition of a word is. ).
-att(8425, root).
-
-arg(8360).
-text(8360, Who is to decide the definition of what is permissible?).
-att(8360, 8262).
-
-arg(8365).
-text(8365, This assumes that the truth is less important than what the liar percieves to be moral).
-att(8365, 8271).
-
 arg(8438).
 text(8438, Not if it is simply to "win" an argument. If a lie is used to support an argument in an effort to protect from harm(physical, psychological, etc.), I can see how it would be beneficial. One should be open to their views/opinions changing in light of new information or misinformation toward "truth").
 support(8438, root).
-
-arg(8374).
-text(8374, Only if you consider winning a discussion worth more than being right and or telling the truth.).
-att(8374, root).
-
-arg(7920).
-text(7920, Not regardless of context. 
-I.e it would be very egosentric to lie about having cancer when you dont, only to make people donate lots of money to you.).
-att(7920, 7887).
-
-arg(8414).
-text(8414, Yes it did.    Honest.).
-att(8414, 7942).
 

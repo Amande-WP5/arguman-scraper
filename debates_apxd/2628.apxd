@@ -1,0 +1,167 @@
+arg(root).
+text(root, Human Beings are not born owing a debt to society.).
+
+arg(18904).
+text(18904, If a person is born into a state he becomes a citizen of that state. With the rights he gets he also gets duties. The right to vote also constitutes the duty to oblige to everything the majority rules. If he doesn't like that, he is free to leave the country.).
+att(18904, root).
+
+arg(18288).
+text(18288, Neither does a child owe a debt to it's parents for giving it the gift of life.).
+att(18288, root).
+
+arg(18285).
+text(18285, Life is a gift, not an obligation.).
+support(18285, root).
+
+arg(19490).
+text(19490, seeing life as an obligation can give rise to various sociopathy.).
+support(19490, 18285).
+
+arg(19204).
+text(19204, Welp, now we are arguing whether or not your mind is rational I guess ).
+att(19204, 19190).
+
+arg(19190).
+text(19190, I don't. You do. You claimed a rational mind would reject original sin, and since this may be analogous to it, we should also reject the contention. I'm disagreeing with what you said.).
+att(19190, 19171).
+
+arg(19171).
+text(19171, "Quite clear"? I am still baffled as to how you kind of believing in original sin has anything to do with the logic of the argument. ).
+att(19171, 19157).
+
+arg(19170).
+text(19170, Driving a car is not a civil right either. lol! do you know the definition of civil rights? ).
+att(19170, 19148).
+
+arg(19157).
+text(19157, If I had meant it that way, your point would be totally valid. It's quite clear that I did not, though. Either way, this chain of thought will lead us nowhere.).
+att(19157, 19138).
+
+arg(19153).
+text(19153, You're still rephrasing the contention as if it's an argument in its favor. The entire debate is about which school of thought is valid. Pointing out that there's two schools of thought is entirely silly.).
+att(19153, 19140).
+
+arg(19109).
+text(19109, Like I said, civil rights are impossible to be granted without a state. For example, the right for a citizen to use the public road would be impossible without states. Because a) a drivers licenses are only given by the state and b) every public road in the whole world has been built by the state.).
+att(19109, 19107).
+
+arg(19103).
+text(19103, I fail to see how my prior premise is wrong with your response. They are still granted by the state and agreed upon by humans.).
+att(19103, 19006).
+
+arg(19096).
+text(19096, Please don't attach mobile links.).
+att(19096, 19006).
+
+arg(19094).
+text(19094, Human rights are formed based on consensus of humans. Governments are (supposed to be) rules based on consensus of humans. From these, it seems illogical to suggest that human rights are anything except an agreed-upon limitation to government.).
+att(19094, 19006).
+
+arg(19091).
+text(19091, This is just a rephrasing of the contention. There's no evidence or reasoning to support either side.).
+att(19091, 18285).
+
+arg(18999).
+text(18999, Rights are not granted by states. States are created by human beings to protect their human rights, among other reasons.).
+att(18999, 18904).
+
+arg(19107).
+text(19107, The point is that rights would still exist even without "states". States may protect rights or they may infringe on rights. They do not grant rights. Human beings have rights due to their human-ness regardless of whether they are born in a state that protects their rights. ).
+att(19107, 19103).
+
+arg(19006).
+text(19006, This is incorrect. Again, rights are either protected by the state of they are not. Human and civil rights exist outside of states. If you are born in a country under an oppressive regime, you still have human rights even if the political forces are infringing on them. ).
+att(19006, 19002).
+
+arg(19148).
+text(19148, You seem to have problems with reading my premises. Civil rights are not human rights. They are separate, and can only be granted by the state. I am not even talking about human rights. Driving a car on a public road is not a human right.).
+att(19148, 19126).
+
+arg(19069).
+text(19069, Babies did not consent to be born.).
+support(19069, root).
+
+arg(19140).
+text(19140, There are two avenues of philosophy one may take when approaching the original argument. One is thinking of life as a gift, as a joyful act. The other is thinking of life as an obligation, as one enslaved. ).
+att(19140, 19134).
+
+arg(19139).
+text(19139, Doctors do not "care for" babies. They are paid to provide medical services to the mother. Likewise, schools, roads, etc are things that are already paid for by the tax money extracted from the parents and their peers. There is no debt accrued here.).
+att(19139, 19042).
+
+arg(19138).
+text(19138, There are scientifically testable ways that children are affected by the behavior of their parents. If your mother was in jail for murder, then she would have been unable to give you the love you needed, and that has a measurable effect. quite different than the biblical concept of original sin. ).
+att(19138, 19135).
+
+arg(19135).
+text(19135, You said something was true. I provided a counterexample. I think that's entirely relevant.).
+att(19135, 19130).
+
+arg(19133).
+text(19133, I seem to have misphrased things then.
+
+Governments are a construct to enforce morals. Whether there is a government or not, people will find a way to enforce these morals. The only difference is in what we call the construct they use. Tradition, religion, customs, government. All really the same.).
+att(19133, 19128).
+
+arg(19134).
+text(19134, Even then it doesn't meet the criteria for a premise, because it's an opinion. And since it's an opinion that's so close to the original contention, it doesn't belong in the same argument.).
+att(19134, 19129).
+
+arg(19130).
+text(19130, Your personal life situation has nothing to do with the logic of this argument. ).
+att(19130, 19120).
+
+arg(19129).
+text(19129, No, it's a way of thinking about the concepts brought forth in the argument. If you think of life as an obligation then it makes more sense to think of people owing a debt to society. If you think of life as a gift, rather than as obligation, it is a shift in perspective. ).
+att(19129, 19091).
+
+arg(19128).
+text(19128, If you can not imagine human beings living without what we currently think of as government, then I guess it would be hard for you to grasp the concept of human rights existing without having a government to enforce them. ).
+att(19128, 19094).
+
+arg(19120).
+text(19120, That's also not true. I consider myself to be fairly rational, yet (using a slightly twisted definition of original sin, especially since I'm an atheist) I often wonder whether my mother being a murder somehow makes me a worse person
+
+I'm fairly sure it doesn't, but it affects a lot of my actions.).
+att(19120, 19112).
+
+arg(19126).
+text(19126, The idea of human rights are not rights that are "granted". They exist and are inherent in your humanness. These rights come from within, and we judge others by their willingness to respect them. ).
+att(19126, 19109).
+
+arg(19112).
+text(19112, The premise was meant to imply that a rational mind would reject the notion of original sin ).
+att(19112, 19090).
+
+arg(19111).
+text(19111, The related argument field does not work for me for some reason ).
+att(19111, 19092).
+
+arg(19092).
+text(19092, There's a related argument field. I suggest you use that instead.).
+att(19092, 19069).
+
+arg(19090).
+text(19090, This is not a relevant conclusion. Merely being the equivalent of something is not evidence for or against the contention.).
+att(19090, 19070).
+
+arg(19064).
+text(19064, Most of the time they are, that they should be or not, is another question.).
+att(19064, root).
+
+arg(19042).
+text(19042, This debt is accrued over time. For instance, at birth they are cared for by doctors shaped by the society, transported home on roads made by the society, educated in schools molded after the society, etc.).
+att(19042, root).
+
+arg(19002).
+text(19002, Civil rights, which make up a great deal of our rights, are granted by the state.).
+att(19002, 18999).
+
+arg(19070).
+text(19070, This may be the secular equivalent of the biblical notion of "original sin".).
+support(19070, root).
+
+arg(19141).
+text(19141, When we think of human beings owing a debt for their life, we are on a slippery slope that may lead to irresponsible and immoral actions such as running a governmental budget deficit that the next generation has to pay for.).
+support(19141, root).
+

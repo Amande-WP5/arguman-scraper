@@ -1,18 +1,6 @@
 arg(root).
 text(root, banning firearms is centralizing gun ownership with the elite ruling class).
 
-arg(8573).
-text(8573, Ther may be corrupted countries where this is the case).
-att(8573, root).
-
-arg(8594).
-text(8594, That is entirely not true. In Europe, the vast majority of gun owners are centralized authority and the ruling class. (i.e. Police, Military, Politicians and their guards).).
-att(8594, root).
-
-arg(8598).
-text(8598, The police and military force, which are part of the government, can not be counted into the ruling class, specially not in democratic countries where every citizen can become a policeman and is in no way dictated by economic or political status.).
-att(8598, 8594).
-
 arg(8540).
 text(8540, because firearms will be needed to disarm its citizens).
 support(8540, root).
@@ -21,7 +9,19 @@ arg(8545).
 text(8545, Countries where guns are almost universally banned do not show this trend at all).
 att(8545, root).
 
+arg(8598).
+text(8598, The police and military force, which are part of the government, can not be counted into the ruling class, specially not in democratic countries where every citizen can become a policeman and is in no way dictated by economic or political status.).
+att(8598, 8594).
+
 arg(8550).
 text(8550, It would be enforced by the police force and therefore the state, which does not bring us to the direct conclusion that the elite class would be favored.).
 att(8550, 8540).
+
+arg(8573).
+text(8573, Ther may be corrupted countries where this is the case).
+att(8573, 8550).
+
+arg(8594).
+text(8594, That is entirely not true. In Europe, the vast majority of gun owners are centralized authority and the ruling class. (i.e. Police, Military, Politicians and their guards).).
+att(8594, 8545).
 

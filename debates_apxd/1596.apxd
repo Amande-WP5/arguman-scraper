@@ -5,15 +5,15 @@ arg(15331).
 text(15331, Everything can be compared).
 support(15331, root).
 
-arg(15325).
-text(15325, this is also a legit comparison: finding out what apples and oranges have in common and what they have not.).
-att(15325, root).
-
-arg(8738).
-text(8738, While they may both be a fruit, round, derive from the same taxonomical group, they are neither of the same color, they have differing levels of nutrients, vitamins and acidity, and come from wildly different parts of the world.).
-att(8738, root).
-
 arg(8616).
 text(8616, They are both fruits).
 support(8616, root).
+
+arg(15325).
+text(15325, this is also a legit comparison: finding out what apples and oranges have in common and what they have not.).
+att(15325, 8738).
+
+arg(8738).
+text(8738, While they may both be a fruit, round, derive from the same taxonomical group, they are neither of the same color, they have differing levels of nutrients, vitamins and acidity, and come from wildly different parts of the world.).
+att(8738, 8616).
 

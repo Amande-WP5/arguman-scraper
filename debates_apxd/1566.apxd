@@ -1,11 +1,15 @@
 arg(root).
 text(root, The Swift programming language will become the standard for iOS application development while Objective-C will become obsolete ).
 
-arg(15993).
-text(15993, Xamarin allows you to write in a proper language like c#).
-att(15993, root).
+arg(16353).
+text(16353, it ain't gonna happen any time soon. There is a tremendous legacy of frameworks and libraries that are difficult or impossible to access without an Objective-C shim. (See the HIDManager for an example)).
+att(16353, root).
 
 arg(8305).
 text(8305, Apple is devoting a tremendous amount of time and energy to the development of Swift and the language has seen an unprecedented adoption rate in the last year.).
 support(8305, root).
+
+arg(15993).
+text(15993, Xamarin allows you to write in a proper language like c#).
+att(15993, 8305).
 

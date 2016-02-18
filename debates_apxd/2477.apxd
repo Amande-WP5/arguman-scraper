@@ -1,0 +1,187 @@
+arg(root).
+text(root, Muslims should not be able to enter the United States).
+
+arg(17455).
+text(17455, Any restriction on immigration or citizenship fails to treat people equally. If a religious restriction can't pass, any correlated legal restriction can achieve the same ends (e.g., nation of origin).  If the debate is a legal one, legal alternatives aren't difficult to find.).
+att(17455, 17432).
+
+arg(17240).
+text(17240, The idea (affecting billions of people on earth) would have an immense negative impact and doesn't outweigh the benefit of reducing the possibility of terrorism by far.
+
+Therefore, we can argue that the very bad relative practicality does in fact make the idea bad enough to not even try it.).
+att(17240, 17222).
+
+arg(17440).
+text(17440, At that time there was no Fourteenth amendment, which it would be struck down by now. The comparison doesn't hold water.).
+att(17440, 17434).
+
+arg(17434).
+text(17434, The Chinese Exclusion Act was repealed by the Magnuson Act.  The constitutionality and/or rights of congress to enact such a law wasn't struck down as unconstitutional by the courts, only repealed by subsequent laws.).
+att(17434, 17430).
+
+arg(17432).
+text(17432, I can't show that we shouldn't, except on moral grounds. I can, however, show that it's unconstitutional. This policy would violate the 1st and 14th amendment of the constitution.
+
+1st because it's restricting the freedom of religion, 14th because it does not treat immigration applicants equally.).
+att(17432, 17343).
+
+arg(17346).
+text(17346, A restriction on immigration would only affect those seeking to enter the US -- probably a few orders of magnitude less than a billion.  The burden of restricted travel to the US might not be very large and may collectively be less valuable than improved perceived safety and security of the US.).
+att(17346, 17240).
+
+arg(17344).
+text(17344, See rebuttals to equivalent versions of this premise.).
+att(17344, 17221).
+
+arg(17222).
+text(17222, Relative practicality doesn't mean an action is wrong.  For example, a large scale war to end the Nazis' expansion and holocaust wasn't practical, but it may have been the right course of action.  Claiming something may be difficult or can't be done perfectly doesn't show that it shouldn't be tried.).
+att(17222, 17219).
+
+arg(17210).
+text(17210, The Declaration of Independence doesn't specify any rights that necessarily imply a right to free and unrestricted ingress for foreign citizens.  "Pursuit of Happiness" could but doesn't necessarily imply such a right. ).
+att(17210, 17208).
+
+arg(17209).
+text(17209, The US Government and society at large are not under any obligation to abide by any particular interpretation of statements made in the declaration of independence.).
+att(17209, 17208).
+
+arg(17203).
+text(17203, The relative accuracy and method for religious identification relate to questions of efficacy and implementation, not whether the policy is right, unless you're presupposing a requirement that only easily enforceable policies/laws should be enacted.).
+att(17203, 17111).
+
+arg(17343).
+text(17343, Those could be argued to be good ideas.  Yes, if we ban Muslim immigration we could apply the same logic to ban other religious groups.  Unless you show that we should not ban others, you haven't shown that we should not ban Muslims.).
+att(17343, 17296).
+
+arg(17341).
+text(17341, Immigration quotas and bans based on race, nationality, and political beliefs have been upheld as constitutional and within the powers of federal government by the courts.).
+att(17341, 17267).
+
+arg(17340).
+text(17340, Immigration falls under administrative law and the plenary power given to congress and the federal government. The 1889 Chinese Exclusion Act was upheld as constitutional.  The Smith Act of 1940 also allows for deportation of any alien affiliated with a subversive group (e.g., militant Islam).).
+att(17340, 17234).
+
+arg(17338).
+text(17338, The bill of rights doesn't apply to foreigners on foreign soil, e.g., those who are not in the US who would like to enter.).
+att(17338, 17234).
+
+arg(17296).
+text(17296, The vast majority of terrorism in America is caused by Christians. By similar logic, we should bar Christians from entering the country. Jews also commit more terrorist acts in America than Muslims, so we should ban them too. ).
+att(17296, 17213).
+
+arg(17295).
+text(17295, I'm not arguing with that, I'm saying that we can't make 100% certainty a requirement.).
+att(17295, 17276).
+
+arg(17276).
+text(17276, While true, talking about this specific subject it would be a very low number.).
+att(17276, 17269).
+
+arg(17269).
+text(17269, No procedure has 100% accuracy.).
+att(17269, 17236).
+
+arg(17213).
+text(17213, Militant members of ISIS are likely to be muslims, and also likely to wish to do harm to US citizens.  Restricting entry of all muslims is then an imperfect step toward reducing the likelihood that ISIS members could enter the US and do harm to its citizens there.).
+support(17213, root).
+
+arg(17268).
+text(17268, The first amendment does not explicitly apply itself to citizens. "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof".
+
+Even so, a better argument can be made under the Fourteenth Amendment. (see sources)).
+att(17268, 17201).
+
+arg(17111).
+text(17111, Banning a religion to enter a country is impossible, since the majority of foreign countries don't document an individuals religious affiliation. This would be comparable to the cold war where people where also falsely accused of being a communist since it wasn't actually written on a document.).
+att(17111, root).
+
+arg(17267).
+text(17267, The First Amendment makes no mention of it only applying to citizens.
+
+"Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof").
+att(17267, 17202).
+
+arg(17219).
+text(17219, Not only is preventing the movement of over a billion people pretty impractical, those billion people belong to a religion. A religion is an idea, a belief; it's not something you can visibly identify in all cases. ).
+att(17219, 17213).
+
+arg(17243).
+text(17243, Your war example is fallacious. To declare war to Germany wasn't deemed impractical, the adjective you were looking for is called "difficult" or "challenging". In that case, whether it was right or not is not relatable.).
+att(17243, 17222).
+
+arg(17236).
+text(17236, Identifying religious affiliation is practically impossible to ever reach perfect accuracy and I am imposing the requirement to have a perfect accuracy in identifying it, otherwise the negative impact of false identification would be unavoidable.).
+att(17236, 17203).
+
+arg(17234).
+text(17234, The Bill Of Rights applies to everyone, including foreigners.).
+att(17234, 17202).
+
+arg(17208).
+text(17208, But the Declaration, which to be fair is not a legal document, was the writing down of the philosophical position of the same people who wrote the Constitution. In that document the claim is made that rights come from the Creator. Therefore these are not American rights, they are human rights.).
+att(17208, 17201).
+
+arg(17220).
+text(17220, Leaving open the possibility that there are other unnamed rights does not logically imply the particular right you've assumed.  E.g., To say "The Earth is among the set of planets with life" doesn't logically imply any other particular planet has life.  It only leaves the possibility.).
+att(17220, 17211).
+
+arg(17215).
+text(17215, Society could agree upon any particular document to define foundations for its political, philosophical, and legal framework. In the case of the US, the Constitution is agree to be that document, not the DoI.  Further, the DoI lacks sufficient detail to serve as such.).
+att(17215, 17212).
+
+arg(17106).
+text(17106, Americans should not be allowed to exit the United States.
+
+This way, US economy crashes and muslim (plus europeans, russians, chinese, latin americans, etc...) people are safe again.).
+att(17106, root).
+
+arg(17212).
+text(17212, However, we can develop from it a philosophical framework that can be applied to our specific political philosophy and implementation.).
+att(17212, 17209).
+
+arg(17211).
+text(17211, Look at the text again: "that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."
+
+"Among these" implies that he didn't enumerate every single right. Compare this to the Tenth Amendment).
+att(17211, 17210).
+
+arg(17110).
+text(17110, If you are talking about muslims in general (not refugees but also tourists, foreigners etc.) than this would be an unconstitutional thing to do for the US in the first place and enforcing this would mean changing major definitions of the state's constitution.).
+att(17110, root).
+
+arg(17202).
+text(17202, The first amendment doesn't protect the rights of foreign citizens, and immigration restrictions based on religious practices of the applicants is not equivalent to adoption of a state religion.).
+att(17202, 17110).
+
+arg(17458).
+text(17458, National origin is perfectly fine, and there are quota systems all the time, but it's not the debate at hand.).
+att(17458, 17455).
+
+arg(17221).
+text(17221, The Bill of Rights applies to everyone. Citizen and non-citizen. This is because the Bill of Rights is meant to protect the rights of the minority from the majority. Not only that, but by restricting the passage of believers of a certain race would mean that the State is inhibiting a religion.).
+att(17221, 17202).
+
+arg(17430).
+text(17430, The ones on race have long been struck down, and there is no constitutional ban on discriminating based on current nationality.
+
+They have never been upheld for political beliefs, or if they have, I have no example of such.).
+att(17430, 17341).
+
+arg(17345).
+text(17345, This objection is one of semantics, and it fails to reject the point made.  Additionally, impractical does not mean impossible, but it usually does imply difficult challenges.  Also, many likely believed any given war to be impractical -- likely why the US entered that war so reluctantly.).
+att(17345, 17243).
+
+arg(17201).
+text(17201, The first amendment restricts the government from adopting a state religion or restricting religious practices among citizens.  It grants little in the way of rights or restrictions on government power for foreign citizens, and restrictions on immigration would not be adoption of a state religion.).
+att(17201, 17116).
+
+arg(17116).
+text(17116, In practical situations this is impossible to implement.
+
+In constitutional terms this is an open and shut violation of that document.
+
+In consequentialist considerations this likely will cause more harm.
+
+On more nebulous grounds this is a departure from the identity of the United States.).
+att(17116, root).
+

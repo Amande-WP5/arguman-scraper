@@ -1,177 +1,13 @@
 arg(root).
 text(root, People should not consume animal products).
 
-arg(11233).
-text(11233, Not eating meat would, especially in some poorer countries, reduce human wellbeing.).
-att(11233, root).
-
-arg(11236).
-text(11236, Consuming too much meat is unhealthy, several studies can show that. However, biologically we are omnivores and therefore a diet involving a minimum amount of meat is necessary.).
-att(11236, root).
-
-arg(11239).
-text(11239, Eating meat is in no way related to greenhouse gas emissions. Most greenhouse gas emissions come from the processing of CO2.).
-att(11239, root).
-
-arg(11167).
-text(11167, Climate change is predicted to cause mass species extinction).
-support(11167, root).
-
-arg(11240).
-text(11240, It comes from the lifestock itself, not the processing. This simply means less animals -> less methane and has nothing to do with the argument of eating meat.).
-att(11240, root).
-
-arg(11247).
-text(11247, Wasteful means nothing without something else for comparison.).
-att(11247, root).
-
-arg(11249).
-text(11249, You probably meant wasteful regarding energy consumption. However, the production of meat is a product which is not wasteful in contrast to producing absolutely nothing.).
-att(11249, root).
-
-arg(11251).
-text(11251, Because meat is delicious.).
-support(11251, root).
-
-arg(11234).
-text(11234, There are enough examples of invasive species or populations that have to be contained in order to balance out the environment they life in. Some of this animals can be eaten after they are killed.).
-att(11234, root).
-
-arg(11161).
-text(11161, Most people enjoy eating meat).
-support(11161, root).
-
-arg(11159).
-text(11159, A vegan diet reduces the pleasure gained from eating).
-att(11159, root).
-
-arg(11181).
-text(11181, A vegan diet reduces the consumption of animal products).
-support(11181, root).
-
-arg(11200).
-text(11200, If something reduces human and animal wellbeing, then we should not do it).
-support(11200, root).
-
-arg(11254).
-text(11254, Eating meat can also lead to the speedy end of the animal's/animal suffering.).
-att(11254, root).
-
-arg(11160).
-text(11160, The pleasure gained from eating promotes wellbeing).
-att(11160, root).
-
-arg(11157).
-text(11157, A vegan diet contains sufficient protein).
-support(11157, root).
-
-arg(11158).
-text(11158, A nutritious diet promotes wellbeing).
-support(11158, root).
-
-arg(11155).
-text(11155, An average vegan diet is higher in micronutrients than an average omnivorous diet).
-support(11155, root).
-
-arg(11184).
-text(11184, A vegan diet increases food security).
-support(11184, root).
-
-arg(11163).
-text(11163, Climate change is predicted to cause great human suffering).
-support(11163, root).
-
-arg(11166).
-text(11166, Climate change is predicted to cause great animal suffering).
-support(11166, root).
-
-arg(11526).
-text(11526, Not compared to the cost of them living a full and healthy life plus the cost of any new offspring they create.).
-att(11526, root).
-
-arg(11165).
-text(11165, A vegan diet helps reduce the impact of climate change).
-support(11165, root).
-
-arg(11185).
-text(11185, Increased food security leads to decreased human suffering).
-support(11185, root).
-
-arg(11206).
-text(11206, Eating meat increases people's wellbeing).
-att(11206, root).
-
-arg(11207).
-text(11207, Materials from animals such as leather and fur improve our wellbeing).
-att(11207, root).
-
-arg(11259).
-text(11259, Heart disease or cancer can lead to a better standard of living for the individual (depending on the country's health-care system).).
-att(11259, root).
-
-arg(11304).
-text(11304, Higher energy usage means more greenhouse gas emissions.).
-support(11304, root).
-
-arg(11205).
-text(11205, Consuming animal products increases climate risks).
-support(11205, root).
-
-arg(11263).
-text(11263, Heart disease and cancer both contribute to shorter lives which increases the wellbeing of the population due to a lower impact from supporting the elderly.).
-att(11263, root).
-
-arg(11177).
-text(11177, Consumption of animal products increases health risks).
-support(11177, root).
-
-arg(11178).
-text(11178, A 20-year study of rural Chinese counties  found associations between chronic illnesses and consumption of animal products.).
-support(11178, 11177).
-
-arg(11182).
-text(11182, Animals that are used to make products suffer).
-support(11182, root).
-
-arg(11531).
-text(11531, Grazing animals could decrease food scarcity by concentrating plant matter without the need for human or machine labor.).
-support(11531, root).
-
-arg(11284).
-text(11284, Feedlot cattle convert 5-7kg of grain into 1kg of beef.).
-support(11284, root).
-
-arg(11286).
-text(11286, Chicken convert 2.5kg of grain into 1kg of meat.).
-support(11286, root).
-
-arg(11288).
-text(11288, Pigs convert 5kg of grain into 1kg meat.).
-support(11288, root).
-
-arg(11290).
-text(11290, Each kg of grain-fed animal meat requires 2.5-10kg of grain, in addition to other energy costs in rearing and slaughtering the animal.).
-support(11290, root).
-
-arg(11292).
-text(11292, Industrial animal farming causes animal suffering.).
-support(11292, root).
-
-arg(11293).
-text(11293, Slaughtering an animal causes it to suffer.).
-support(11293, root).
-
-arg(11197).
-text(11197, Consuming animal products reduces human wellbeing).
-support(11197, root).
-
 arg(11198).
 text(11198, Consuming animal products reduces animal wellbeing).
 support(11198, root).
 
 arg(11306).
 text(11306, Wild animals that are sustainably culled are an important source of food.).
-att(11306, root).
+att(11306, 11202).
 
 arg(11308).
 text(11308, Things that people enjoy improve their wellbeing).
@@ -195,7 +31,7 @@ att(11312, 11198).
 
 arg(11209).
 text(11209, Grazing animals provide an additional source of food for humans).
-att(11209, root).
+att(11209, 11202).
 
 arg(11315).
 text(11315, Particular exceptions are not the rule. With the same argument is ethically valid eat another human if no other food is available. If you have the ability both to eat and not eat meat, the case of the poor without choice it is not applicable.).
@@ -207,7 +43,7 @@ att(11542, 11306).
 
 arg(11210).
 text(11210, A 20-year study of Chinese counties found an association between increased chronic illness and increased consumption of animal products.).
-support(11210, root).
+support(11210, 11201).
 
 arg(11301).
 text(11301, Heart disease and cancer are by definition illnesses which are not in any normal circumstances beneficial to the individual.).
@@ -223,7 +59,7 @@ support(11212, 11205).
 
 arg(11214).
 text(11214, Grain-fed meat is more wasteful than eating the grain directly).
-support(11214, root).
+support(11214, 11202).
 
 arg(11219).
 text(11219, An increase in greenhouse gas emissions increases climate risks.).
@@ -236,10 +72,6 @@ att(11560, 11254).
 arg(11562).
 text(11562, Human pleasure should not be the first priority of the human race.).
 att(11562, 11251).
-
-arg(11563).
-text(11563, Animal meat taste really good.).
-att(11563, root).
 
 arg(11564).
 text(11564, This is not caused by humans).
@@ -261,39 +93,207 @@ arg(12127).
 text(12127, Not consuming animal products and not consuming factory farmed animals are separate issues.).
 att(12127, 11560).
 
-arg(12141).
-text(12141, What will we do with all of the already existent animals in the food industry? Let them all starve to save energy? We can't just abandon something we are already so involved in.).
-att(12141, root).
+arg(11288).
+text(11288, Pigs convert 5kg of grain into 1kg meat.).
+support(11288, 11214).
 
-arg(11302).
-text(11302, "The financial costs of cancer are high for both the person with cancer and for society as a whole.").
-att(11302, 11263).
+arg(11159).
+text(11159, A vegan diet reduces the pleasure gained from eating).
+att(11159, root).
 
-arg(13192).
-text(13192, we are omnivores. we have to eat both vegetable and meat to be healthy   ).
-att(13192, root).
+arg(11181).
+text(11181, A vegan diet reduces the consumption of animal products).
+support(11181, root).
 
-arg(11355).
-text(11355, Falta definir si esa cantidad de granos es equiparable a la cantidad de carne en cuanto a la nutrición humana.).
-att(11355, 11284).
+arg(11236).
+text(11236, Consuming too much meat is unhealthy, several studies can show that. However, biologically we are omnivores and therefore a diet involving a minimum amount of meat is necessary.).
+att(11236, 11201).
 
-arg(11201).
-text(11201, Consuming animal products as food is unhealthy).
-support(11201, 11197).
+arg(11234).
+text(11234, There are enough examples of invasive species or populations that have to be contained in order to balance out the environment they life in. Some of this animals can be eaten after they are killed.).
+att(11234, 11202).
 
-arg(11237).
-text(11237, It has been proven that consumption of meat increases your risk for Heart Disease and cancer.).
-att(11237, 11206).
+arg(11259).
+text(11259, Heart disease or cancer can lead to a better standard of living for the individual (depending on the country's health-care system).).
+att(11259, 11237).
 
-arg(11202).
-text(11202, Consuming animal products increases food scarcity).
-support(11202, 11197).
+arg(11263).
+text(11263, Heart disease and cancer both contribute to shorter lives which increases the wellbeing of the population due to a lower impact from supporting the elderly.).
+att(11263, 11237).
+
+arg(11178).
+text(11178, A 20-year study of rural Chinese counties  found associations between chronic illnesses and consumption of animal products.).
+support(11178, 11177).
 
 arg(11297).
 text(11297, The number and type of animals we raise depends on how much meat we eat.).
 att(11297, 11240).
 
+arg(11202).
+text(11202, Consuming animal products increases food scarcity).
+support(11202, 11197).
+
+arg(11237).
+text(11237, It has been proven that consumption of meat increases your risk for Heart Disease and cancer.).
+att(11237, 11206).
+
+arg(11201).
+text(11201, Consuming animal products as food is unhealthy).
+support(11201, 11197).
+
+arg(11233).
+text(11233, Not eating meat would, especially in some poorer countries, reduce human wellbeing.).
+att(11233, 11200).
+
+arg(11167).
+text(11167, Climate change is predicted to cause mass species extinction).
+support(11167, 11166).
+
+arg(11240).
+text(11240, It comes from the lifestock itself, not the processing. This simply means less animals -> less methane and has nothing to do with the argument of eating meat.).
+att(11240, 11212).
+
+arg(11247).
+text(11247, Wasteful means nothing without something else for comparison.).
+att(11247, 11214).
+
+arg(11249).
+text(11249, You probably meant wasteful regarding energy consumption. However, the production of meat is a product which is not wasteful in contrast to producing absolutely nothing.).
+att(11249, 11214).
+
+arg(11251).
+text(11251, Because meat is delicious.).
+support(11251, 11206).
+
+arg(11161).
+text(11161, Most people enjoy eating meat).
+support(11161, 11159).
+
+arg(11200).
+text(11200, If something reduces human and animal wellbeing, then we should not do it).
+support(11200, root).
+
+arg(11160).
+text(11160, The pleasure gained from eating promotes wellbeing).
+att(11160, root).
+
+arg(11157).
+text(11157, A vegan diet contains sufficient protein).
+support(11157, root).
+
+arg(11254).
+text(11254, Eating meat can also lead to the speedy end of the animal's/animal suffering.).
+att(11254, 11198).
+
+arg(11158).
+text(11158, A nutritious diet promotes wellbeing).
+support(11158, root).
+
+arg(11155).
+text(11155, An average vegan diet is higher in micronutrients than an average omnivorous diet).
+support(11155, root).
+
+arg(11184).
+text(11184, A vegan diet increases food security).
+support(11184, root).
+
+arg(11163).
+text(11163, Climate change is predicted to cause great human suffering).
+support(11163, root).
+
+arg(11166).
+text(11166, Climate change is predicted to cause great animal suffering).
+support(11166, root).
+
+arg(11165).
+text(11165, A vegan diet helps reduce the impact of climate change).
+support(11165, root).
+
+arg(11185).
+text(11185, Increased food security leads to decreased human suffering).
+support(11185, root).
+
+arg(11526).
+text(11526, Not compared to the cost of them living a full and healthy life plus the cost of any new offspring they create.).
+att(11526, 11302).
+
+arg(11177).
+text(11177, Consumption of animal products increases health risks).
+support(11177, root).
+
+arg(11182).
+text(11182, Animals that are used to make products suffer).
+support(11182, root).
+
+arg(11206).
+text(11206, Eating meat increases people's wellbeing).
+att(11206, 11197).
+
+arg(11207).
+text(11207, Materials from animals such as leather and fur improve our wellbeing).
+att(11207, 11197).
+
+arg(11304).
+text(11304, Higher energy usage means more greenhouse gas emissions.).
+support(11304, 11205).
+
+arg(11205).
+text(11205, Consuming animal products increases climate risks).
+support(11205, 11197).
+
+arg(11531).
+text(11531, Grazing animals could decrease food scarcity by concentrating plant matter without the need for human or machine labor.).
+support(11531, 11209).
+
+arg(11284).
+text(11284, Feedlot cattle convert 5-7kg of grain into 1kg of beef.).
+support(11284, 11214).
+
+arg(11302).
+text(11302, "The financial costs of cancer are high for both the person with cancer and for society as a whole.").
+att(11302, 11263).
+
+arg(11355).
+text(11355, Falta definir si esa cantidad de granos es equiparable a la cantidad de carne en cuanto a la nutrición humana.).
+att(11355, 11284).
+
 arg(11538).
 text(11538, If a species of animal is useful to humans it has a MUCH lower chance of extinction than a species that is not useful to humans.).
 att(11538, 11198).
+
+arg(11239).
+text(11239, Eating meat is in no way related to greenhouse gas emissions. Most greenhouse gas emissions come from the processing of CO2.).
+att(11239, 11219).
+
+arg(11286).
+text(11286, Chicken convert 2.5kg of grain into 1kg of meat.).
+support(11286, 11214).
+
+arg(11290).
+text(11290, Each kg of grain-fed animal meat requires 2.5-10kg of grain, in addition to other energy costs in rearing and slaughtering the animal.).
+support(11290, 11211).
+
+arg(11292).
+text(11292, Industrial animal farming causes animal suffering.).
+support(11292, 11198).
+
+arg(11293).
+text(11293, Slaughtering an animal causes it to suffer.).
+support(11293, 11198).
+
+arg(11197).
+text(11197, Consuming animal products reduces human wellbeing).
+support(11197, root).
+
+arg(11563).
+text(11563, Animal meat taste really good.).
+att(11563, root).
+
+arg(12141).
+text(12141, What will we do with all of the already existent animals in the food industry? Let them all starve to save energy? We can't just abandon something we are already so involved in.).
+att(12141, root).
+
+arg(13192).
+text(13192, we are omnivores. we have to eat both vegetable and meat to be healthy   ).
+att(13192, root).
 

@@ -1,14 +1,6 @@
 arg(root).
 text(root, All disagreements come from poorly formed arguments).
 
-arg(11275).
-text(11275, If an argument contains a detailed description of every term, its boundaries and usage within this context then the argument is self-sustained. Disagreement would focus on if the wording is correct and how close it is to the original intention of the author unless it contains a logical fallacy.).
-support(11275, root).
-
-arg(11647).
-text(11647, A lot of disagreements are based on having different preferences, which are usually based on experiences and emotions rather than pure logics.).
-att(11647, root).
-
 arg(11648).
 text(11648, You need to define "poorly formed argument". Do you mean fallacies, or do you mean statements that people simply misunderstand?).
 att(11648, root).
@@ -16,6 +8,10 @@ att(11648, root).
 arg(11689).
 text(11689, an argument like 1+1=2 is correctly formed. An argument like "most of the people like Queen" will not take into account where is the location of the people, all world? Queen's fan club? Who is Queen? The band? If these are factual then there is a correct answer and noone can disagree.).
 support(11689, 11648).
+
+arg(11347).
+text(11347, The arguments may be correct or incorrect. The argument by definition is an argument that seeks to prove. It is wrong not remove its character argument. All arguments are correctable and are possibly wrong, regardless of any disagreements between the parties. ).
+att(11347, 11275).
 
 arg(11448).
 text(11448, Sometimes it's impossible to get through to someone, no matter how well thought out your argument is. This is usually the case with Religious fanatics, who are beyond reason. ).
@@ -29,7 +25,11 @@ arg(11576).
 text(11576, People's pride also leads to disagreements. Many people just can't handle being wrong ,and choose to ignore or not accept any arguments contrary to their beliefs).
 att(11576, root).
 
-arg(11347).
-text(11347, The arguments may be correct or incorrect. The argument by definition is an argument that seeks to prove. It is wrong not remove its character argument. All arguments are correctable and are possibly wrong, regardless of any disagreements between the parties. ).
-att(11347, 11275).
+arg(11647).
+text(11647, A lot of disagreements are based on having different preferences, which are usually based on experiences and emotions rather than pure logics.).
+att(11647, root).
+
+arg(11275).
+text(11275, If an argument contains a detailed description of every term, its boundaries and usage within this context then the argument is self-sustained. Disagreement would focus on if the wording is correct and how close it is to the original intention of the author unless it contains a logical fallacy.).
+support(11275, root).
 

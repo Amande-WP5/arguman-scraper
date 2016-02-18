@@ -17,11 +17,15 @@ arg(14873).
 text(14873, Before someone invented them it was tradition to not tell your kids about them...).
 att(14873, 14826).
 
+arg(14909).
+text(14909, That it is a tradition now does not mean that it should be a tradition. (Fallacy of is to ought?)).
+att(14909, 14826).
+
 arg(14902).
 text(14902, Parents should be able to choose how they raise their own children, excluding anything that could harm the child in some way of course. ).
 att(14902, root).
 
-arg(14909).
-text(14909, That it is a tradition now does not mean that it should be a tradition. (Fallacy of is to ought?)).
-att(14909, 14826).
+arg(19054).
+text(19054, define 'about'.  About the lie or about the existence of?).
+att(19054, root).
 

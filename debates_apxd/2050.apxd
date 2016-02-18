@@ -9,18 +9,9 @@ arg(13692).
 text(13692, Much as a work of art has no inherent meaning until interpreted by a conscious observer, so can life as a concept not be claimed to be inherently meaningful.).
 support(13692, root).
 
-arg(13850).
-text(13850, we have found the meaning of life. The meaning of life is 'to live forever'. If we do not live forever, then everything we do will crumble. If everything we do crumbles, then everything we do will be for nothing. Thus, there will be no point in doing anything.).
-att(13850, root).
-
 arg(15022).
 text(15022, The meaning of life is not to live forever.).
 att(15022, 13850).
-
-arg(15023).
-text(15023, A creator doesn’t give a definite universal meaning either.
-The meaning is still in the creator, not an intrinsic property of the thing itself.).
-att(15023, root).
 
 arg(15024).
 text(15024, You proved it couldn’t be that.).
@@ -30,13 +21,14 @@ arg(13565).
 text(13565, The meaning of life is to create one.).
 att(13565, root).
 
+arg(15023).
+text(15023, A creator doesn’t give a definite universal meaning either.
+The meaning is still in the creator, not an intrinsic property of the thing itself.).
+att(15023, 13707).
+
 arg(13932).
 text(13932, Meaning and definition are the same thing. Just look them up, they will give you the same definition or meaning.).
-att(13932, root).
-
-arg(15049).
-text(15049, Eventually we will be gone, and the universe will continue without us, so there's no possibility there's any meaning whatsoever, except for the individual and subjective meaning we hope to gain through the course of our lives.).
-support(15049, root).
+att(13932, 13699).
 
 arg(15051).
 text(15051, Your criteria for meaning of life is to live forever. We don't live forever, thus there is no meaning.).
@@ -54,29 +46,9 @@ arg(13694).
 text(13694, It depends on the meaning of the word "life". As an abstract concept it is not supposed to be observable in reality and compared with concrete objects like songs or paintings.).
 att(13694, 13692).
 
-arg(13699).
-text(13699, This is a definition of life. The argument is about a meaning, i.e. a sense.).
-att(13699, root).
-
-arg(13705).
-text(13705, No things possess any "meaning" as their property. Meaning exists only within conscious minds (e.g. human). Therefore, as long as there is at least one living human, meaning exists. Thus, there is no need to know whether there is a creator.).
-att(13705, root).
-
-arg(13604).
-text(13604, According to a dictionary, the meaning of life is: The condition that distinguishes animals and plants from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death.).
-att(13604, root).
-
-arg(14989).
-text(14989, if I try to understand the live without meaning, my motivations are gone for everything. I think we could describe (objectivly) the world, as a world with meaning, with a sense to flourish. The living things have a meaning, as surviving.The geology and seas the meaning to give the conditions of life).
-att(14989, root).
-
 arg(13707).
 text(13707, With this definition, anyone could give life any meaning he or she wants to, and it would necessarily be correct. Then the question would be pointless, as it is presumably about a definite, universal meaning.).
 att(13707, 13705).
-
-arg(13702).
-text(13702, We don’t know if there is any meaning. Things that have a meaning are created by someone who created it for a reason. We do not know if there is anyone who created life, thus we cannot know the meaning of life. If there is however a conscious creator of life, he should know for what purpose we exist).
-att(13702, root).
 
 arg(13942).
 text(13942, I did
@@ -84,4 +56,82 @@ text(13942, I did
 2. the special importance or purpose of something
 The first definition may include “definition”, the second definitely not. It is possible, but not sensible that the creator of this discussion meant a definition of life.).
 att(13942, 13932).
+
+arg(13604).
+text(13604, According to a dictionary, the meaning of life is: The condition that distinguishes animals and plants from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death.).
+att(13604, root).
+
+arg(13699).
+text(13699, This is a definition of life. The argument is about a meaning, i.e. a sense.).
+att(13699, 13604).
+
+arg(13705).
+text(13705, No things possess any "meaning" as their property. Meaning exists only within conscious minds (e.g. human). Therefore, as long as there is at least one living human, meaning exists. Thus, there is no need to know whether there is a creator.).
+att(13705, 13702).
+
+arg(15049).
+text(15049, Eventually we will be gone, and the universe will continue without us, so there's no possibility there's any meaning whatsoever, except for the individual and subjective meaning we hope to gain through the course of our lives.).
+support(15049, root).
+
+arg(13850).
+text(13850, we have found the meaning of life. The meaning of life is 'to live forever'. If we do not live forever, then everything we do will crumble. If everything we do crumbles, then everything we do will be for nothing. Thus, there will be no point in doing anything.).
+att(13850, root).
+
+arg(18928).
+text(18928, This might be because the 'Meaning of Life' is subjective/varies depending on the person.).
+att(18928, root).
+
+arg(13702).
+text(13702, We don’t know if there is any meaning. Things that have a meaning are created by someone who created it for a reason. We do not know if there is anyone who created life, thus we cannot know the meaning of life. If there is however a conscious creator of life, he should know for what purpose we exist).
+att(13702, root).
+
+arg(19184).
+text(19184, Not in a subjective way. I think for a few persons the answer for the meaning of life is important. When they could give a answer for themselfes, why is it so pointless ? Why it is pointless to say: You create your own meaning of life ?).
+att(19184, 13707).
+
+arg(19102).
+text(19102, This makes the assumption that the universe cares about life, when we have no evidence it's *capable* of caring.).
+att(19102, 14989).
+
+arg(19185).
+text(19185, Could you explain me, why I make this assumption ? (Because of the word flourish ?)).
+att(19185, 19102).
+
+arg(19183).
+text(19183, I haven`t said that the universe take care of us. I`ve said that we (humans) could describe it, as a world that has a sense of flourishing (without life, no flourishing). Meaning is for a subject, not a object. A object without a subject who reflect it, has no meaning.).
+att(19183, 19102).
+
+arg(14989).
+text(14989, if I try to understand the live without meaning, my motivations are gone for everything. I think we could describe (objectivly) the world, as a world with meaning, with a sense to flourish. The living things have a meaning, as surviving.The geology and seas the meaning to give the conditions of life).
+att(14989, root).
+
+arg(19515).
+text(19515, There may be natural patterns and "meanings" that we do not perceive).
+att(19515, root).
+
+arg(19507).
+text(19507, you can create your own meaning).
+att(19507, root).
+
+arg(19225).
+text(19225, If reality only contained infinite living life forms it would be a boring hell, no different from no life existing. life forms living and dying but evolving gives meaning to an otherwise meaningless reality.).
+support(19225, 19224).
+
+arg(19194).
+text(19194, It didn't seem like you meant that. It seemed as if you meant the meeting had intent, not purpose. English can be difficult that way. Sorry.).
+att(19194, 19183).
+
+arg(19193).
+text(19193, Actually it's the word sense. Without that the universe could be a flower, and definitely wouldn't care.).
+att(19193, 19185).
+
+arg(19186).
+text(19186, The personal meaning of life would not be pointless. But the initial question would be, as it is not about a subjective, but about a universal meaning.).
+att(19186, 19184).
+
+arg(19224).
+text(19224, There is meaning in life and death.
+To live, life finds a means to survive and evolve. Death gives life meaning.
+The meaning of life is to progressively live and die. Death means the progression of other life.).
+att(19224, root).
 

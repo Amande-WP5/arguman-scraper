@@ -5,42 +5,26 @@ arg(15780).
 text(15780, Humanity stand above Fairness. Each one should have the right to live a proper human live, even if this cost more for the strong (proportionally to the weak).).
 att(15780, root).
 
-arg(15779).
-text(15779, No, this is not a syntax error. ).
-att(15779, root).
-
 arg(13687).
 text(13687, In order for things to be equal, the strong and the weak must have the same outcome. In order for things to be fair, the one who is stronger should must have the opportunity to become greater than the weak.).
 support(13687, root).
-
-arg(14327).
-text(14327, The reason it works like this is because those with disabilities have to work harder to get from point A to point B. Thus their are laws in place to keep those with disabilities from being discriminated against through long distances and the like. ).
-att(14327, root).
 
 arg(13657).
 text(13657, Syntax error).
 att(13657, root).
 
-arg(14362).
-text(14362, The winners don't get it all, they get an amount proportionate to their performance. Keep in mind we're talking about a hypothetical perfect situation, not any actual society you might be arguing against.).
-att(14362, root).
+arg(15779).
+text(15779, No, this is not a syntax error. ).
+att(15779, 13657).
 
-arg(14349).
-text(14349, "Chances", like probability is relative to knowledge you have on the phenomenon, it is a extrinsic property.).
-att(14349, root).
-
-arg(14350).
-text(14350, If everyone are forced to play a identical gamble game, and the winners get all, it doesn’t seem fair at all to me, even if they have "equal chances".).
-att(14350, root).
+arg(14327).
+text(14327, The reason it works like this is because those with disabilities have to work harder to get from point A to point B. Thus their are laws in place to keep those with disabilities from being discriminated against through long distances and the like. ).
+att(14327, 14325).
 
 arg(14370).
 text(14370, I don’t speak about the actual system nor a hypothetical perfect system.
 I give a theoretical example where everyone have equal chance, but the system is still unfair.).
 att(14370, 14362).
-
-arg(14075).
-text(14075, Fairness means equal chances from the start, not enforced equality against people performing better than average.).
-support(14075, root).
 
 arg(14325).
 text(14325, fairness don't mean equal chances from beginning, in all cases. For example: It's called fair if disabled persons get prioritized in public places(car parking, restrooms, busses etc.) but this is inequality in between disabled one and not disabled one.).
@@ -49,4 +33,20 @@ att(14325, 14075).
 arg(14361).
 text(14361, These measures are usually additional infrastructure and measures for giving these people as equal chances as possible, they are not intended to prioritize and/or lower ones over others. Currently, complete equality in the medical field can't always be given, some survive 30 ys, others 90 ys.. ).
 att(14361, 14325).
+
+arg(14362).
+text(14362, The winners don't get it all, they get an amount proportionate to their performance. Keep in mind we're talking about a hypothetical perfect situation, not any actual society you might be arguing against.).
+att(14362, 14350).
+
+arg(14349).
+text(14349, "Chances", like probability is relative to knowledge you have on the phenomenon, it is a extrinsic property.).
+att(14349, 14075).
+
+arg(14350).
+text(14350, If everyone are forced to play a identical gamble game, and the winners get all, it doesn’t seem fair at all to me, even if they have "equal chances".).
+att(14350, 14075).
+
+arg(14075).
+text(14075, Fairness means equal chances from the start, not enforced equality against people performing better than average.).
+support(14075, root).
 

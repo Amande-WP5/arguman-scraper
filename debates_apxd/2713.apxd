@@ -1,0 +1,55 @@
+arg(root).
+text(root, A monarchy is the best form of government).
+
+arg(18946).
+text(18946, Especially if the monarch is an awesome magical deity. ).
+support(18946, root).
+
+arg(18951).
+text(18951, Which is never the case.).
+att(18951, 18946).
+
+arg(18896).
+text(18896, Only if you are part of the monarchy.).
+att(18896, root).
+
+arg(18950).
+text(18950, A monarch is highly corruptible.).
+att(18950, root).
+
+arg(18947).
+text(18947, Not if the monarch is an asshole. ).
+att(18947, root).
+
+arg(18948).
+text(18948, A monarch will always be more stupid and less well informed than a sufficiently large and well organized group.).
+att(18948, root).
+
+arg(19292).
+text(19292, An absolute monarchy is the most efficient style of government.).
+support(19292, root).
+
+arg(18953).
+text(18953, A monarch can’t do all the political work required to create a well functioning state.).
+att(18953, root).
+
+arg(19510).
+text(19510, President Obama had an average approval rating of 47% during his two terms in the USA. I can imagine a reasonable monarch could get at least half the people to approve.).
+att(19510, 18953).
+
+arg(19513).
+text(19513, The hypothetical average approval rating of a hypothetical reasonable monarch, is unrelated to the fact a monarch can’t do all the political work required to create a well functioning state.).
+att(19513, 19510).
+
+arg(19512).
+text(19512, Most monarchs weren’t reasonable, and there is no reason that they will be.).
+att(19512, 19510).
+
+arg(19440).
+text(19440, it's easier for one person to make decisions than having a committee of people trying to find consensus).
+support(19440, 19292).
+
+arg(19525).
+text(19525, It is plausible that a "reasonable" and well functioning monarch could exist. ).
+att(19525, 19512).
+

@@ -1,6 +1,30 @@
 arg(root).
 text(root, In modern day United States, political participation amongst citizens doesn't make a difference.).
 
+arg(18455).
+text(18455, The voting system we use is among the worst available, and creates inherent misrepresentation in its results.).
+support(18455, root).
+
+arg(18238).
+text(18238, What is "political participation"? It seems that the contention conflates "political participation" with "voting in general elections". Those things are very different though.).
+att(18238, root).
+
+arg(8282).
+text(8282, Individuals do not feel their efforts are rewarded, because they will not gain from them.).
+att(8282, 8278).
+
+arg(18931).
+text(18931, The majority of the choices will be eliminated before the election by lack of donors).
+att(18931, 8953).
+
+arg(18930).
+text(18930, The current system has no realistic way to improve itself, and most people have not suffered enough to act to change it.).
+att(18930, 18923).
+
+arg(18923).
+text(18923, If the citizens don't act in their own interest to remove this system, who will?).
+att(18923, 18455).
+
 arg(8278).
 text(8278, Political participation en masse, does.).
 att(8278, root).
@@ -9,21 +33,21 @@ arg(8281).
 text(8281, This is hyperbole. Even though the effect of an individual can be ignored, it still exists.).
 att(8281, root).
 
-arg(8282).
-text(8282, Individuals do not feel their efforts are rewarded, because they will not gain from them.).
-att(8282, 8278).
-
 arg(8952).
 text(8952, The parties are constructed around social issues that mean very little to the ruling class; while they both tend to agree on economic policy, if not in words, then by their own voting record and/or through their failure to pursue a course that might jeopardize the interests of the ruling class.).
 support(8952, root).
 
 arg(8953).
 text(8953, The votes still come from the people, so effectively it does make a difference.).
-att(8953, root).
+att(8953, 8452).
 
 arg(8956).
 text(8956, If the choices are only choices on the surface, and the candidates are merely pawns of hidden interests, then you really don't have a voice, because they will listen to their campaign donors over individual voters every time.).
 att(8956, 8953).
+
+arg(18943).
+text(18943, Cannabis legalisation. Even though they're going against politicians, corporations and law enforcement, it is increasingly successful and shows democracy can work.).
+att(18943, root).
 
 arg(8452).
 text(8452, It only takes a few dozen wealthy individuals to basically buy the title as President of the United States and Commander in Chief as a gift for anyone they please.).

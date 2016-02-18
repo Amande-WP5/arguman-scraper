@@ -5,6 +5,34 @@ arg(9763).
 text(9763, Ranked-choice systems do not penalize candidates with similar platforms.).
 support(9763, root).
 
+arg(9773).
+text(9773, How do you come to the conclusion that candidates would be more willing to take more extreme views?).
+att(9773, 9766).
+
+arg(9787).
+text(9787, People would be more willing to also give a vote to minority parties.).
+support(9787, 9781).
+
+arg(9791).
+text(9791, It's actually because of 2 problems: 1) You win by losing the least. 5 candidates = 20% to win. 2) It forces voters to think on how *other* voters will act. They will swing for a more popular candidate if they think their preferred one will lose, so it becomes a race of "who do you hate the least?").
+att(9791, 9787).
+
+arg(9804).
+text(9804, True moderates are rare, according to recent studies. Thus, a valid political strategy could be to simply appeal to one side of the political spectrum to increase turnout rather than finding a middle ground. ).
+support(9804, 9766).
+
+arg(16763).
+text(16763, Only candidates who tend extreme but otherwise would be constrained by party averages would be encouraged to take on extreme views; however, candidates who tend moderate but would otherwise be pulled in partisan directions by party averages would be encouraged to take moderate views.).
+support(16763, 9773).
+
+arg(16760).
+text(16760, Extreme candidates would by definition receive fewer 1st-choice votes than moderate candidates, thus falling off the tally sooner to be replaced with their voters' second choices.).
+att(16760, 9766).
+
+arg(16764).
+text(16764, This presumes that plurality is all that is required for election. This is not universal, if even standard.).
+att(16764, 9791).
+
 arg(9764).
 text(9764, It allows voters to more-fully express their preferences about all candidates. ).
 support(9764, root).
@@ -12,10 +40,6 @@ support(9764, root).
 arg(9766).
 text(9766, This could encourage political gridlock, as candidates would be more willing to take more extreme views.).
 att(9766, root).
-
-arg(9773).
-text(9773, How do you come to the conclusion that candidates would be more willing to take more extreme views?).
-att(9773, 9766).
 
 arg(9778).
 text(9778, First past the post trends toward two parties, potentially reducing overall voter choice.).
@@ -29,19 +53,11 @@ arg(9781).
 text(9781, First past the post increases the likelihood of minority rule).
 support(9781, root).
 
-arg(9787).
-text(9787, People would be more willing to also give a vote to minority parties.).
-support(9787, 9781).
-
-arg(9791).
-text(9791, It's actually because of 2 problems: 1) You win by losing the least. 5 candidates = 20% to win. 2) It forces voters to think on how *other* voters will act. They will swing for a more popular candidate if they think their preferred one will lose, so it becomes a race of "who do you hate the least?").
-att(9791, 9787).
-
 arg(9952).
 text(9952, That would mean these people are already in our political system, and would likely make no change if they merely had a different name).
-att(9952, root).
+att(9952, 9804).
 
-arg(9804).
-text(9804, True moderates are rare, according to recent studies. Thus, a valid political strategy could be to simply appeal to one side of the political spectrum to increase turnout rather than finding a middle ground. ).
-support(9804, 9766).
+arg(16758).
+text(16758, Voters used to FPTP find it confusing, time-consuming, and sometimes even objectionable. It is also more costly to implement and complex to execute.).
+att(16758, root).
 

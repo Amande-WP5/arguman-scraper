@@ -1,6 +1,52 @@
 arg(root).
 text(root, We should stop using internet memes).
 
+arg(7391).
+text(7391, then reddit will cease to exist).
+att(7391, root).
+
+arg(7412).
+text(7412, The internet is the largest social experiment in human history and memes are a quick way of communicating a easily-understandable message which are enjoyed by millions of people.  ).
+att(7412, root).
+
+arg(7592).
+text(7592, Unless everything is original content, everything is, in a sense, meme.).
+att(7592, root).
+
+arg(7793).
+text(7793, we should not only stop internet memes
+
+STOP ALL THE MEMES).
+support(7793, root).
+
+arg(7425).
+text(7425, That's none of my business...).
+att(7425, 7385).
+
+arg(7880).
+text(7880, You mean 'because' rather than 'but,' right?).
+att(7880, 7391).
+
+arg(7372).
+text(7372, They're far too dank).
+support(7372, 7366).
+
+arg(7927).
+text(7927, dank memes are coming...).
+support(7927, 7385).
+
+arg(7366).
+text(7366, One does not simply stop the internet from using memes.).
+att(7366, root).
+
+arg(7385).
+text(7385, Brace yourselves...).
+att(7385, 7372).
+
+arg(7602).
+text(7602, I see what you did there.).
+support(7602, 7366).
+
 arg(7929).
 text(7929, BUT U HAVE BEEN SPOOKED BY THE 
 SPOOKY SKELETON
@@ -17,50 +63,4 @@ SEND THIS TO 4 PPL OR SKELETONS WILL EAT U
 
 ).
 att(7929, root).
-
-arg(7385).
-text(7385, Brace yourselves...).
-att(7385, root).
-
-arg(7391).
-text(7391, then reddit will cease to exist).
-att(7391, root).
-
-arg(7412).
-text(7412, The internet is the largest social experiment in human history and memes are a quick way of communicating a easily-understandable message which are enjoyed by millions of people.  ).
-att(7412, root).
-
-arg(7425).
-text(7425, That's none of my business...).
-att(7425, 7385).
-
-arg(7592).
-text(7592, Unless everything is original content, everything is, in a sense, meme.).
-att(7592, root).
-
-arg(7602).
-text(7602, I see what you did there.).
-support(7602, root).
-
-arg(7880).
-text(7880, You mean 'because' rather than 'but,' right?).
-att(7880, 7391).
-
-arg(7793).
-text(7793, we should not only stop internet memes
-
-STOP ALL THE MEMES).
-support(7793, root).
-
-arg(7366).
-text(7366, One does not simply stop the internet from using memes.).
-att(7366, root).
-
-arg(7372).
-text(7372, They're far too dank).
-support(7372, 7366).
-
-arg(7927).
-text(7927, dank memes are coming...).
-support(7927, 7385).
 

@@ -1,0 +1,19 @@
+arg(root).
+text(root, If I use Typescript in a project with a lot of dependencies.. I have to write type definitions for all of these (if not present on TSD).).
+
+arg(17158).
+text(17158, TypeScript is based on compile time type check, only a small set of features (like custom type guards) relies on runtime check. No runtime overhead involved.).
+att(17158, 17155).
+
+arg(17156).
+text(17156, Because transpiling ES6 with good practices like linting and type checking, helps you finding error without adding too much overhead to production code.).
+support(17156, 17155).
+
+arg(17155).
+text(17155, Not worse, but probably not even better than using a transpiler with a good linter.).
+att(17155, 17152).
+
+arg(17152).
+text(17152, Making a quick "any" type of the module is easy, and is not worse than pure JavaScript.).
+att(17152, root).
+

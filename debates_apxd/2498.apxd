@@ -1,0 +1,16 @@
+arg(root).
+text(root, Star wars is not science-fiction).
+
+arg(17064).
+text(17064, It fits most criteria. It has futuristic technology, it takes place on several worlds, and it's fictional.).
+att(17064, root).
+
+arg(17062).
+text(17062, George Lucas himself said: "Do not call this film 'science fiction,' it's a space fantasy.").
+support(17062, root).
+
+arg(17060).
+text(17060, “Science Fiction is something that could happen – but usually you wouldn’t want it to. Fantasy is something that couldn’t happen, though often you only wish that it could.”
+).
+support(17060, root).
+

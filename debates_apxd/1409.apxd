@@ -1,17 +1,57 @@
 arg(root).
 text(root, Equality is impossible in a capitalistic society.).
 
+arg(7599).
+text(7599, The premise is so open that it is pretty meaningless thing to argue about.).
+att(7599, root).
+
+arg(6757).
+text(6757, "Equality" is impossible in any society, because no one can agree on the definition when there are so many variables at play. It might be something to shoot for, but since some people don't even care about it, the question is moot.).
+support(6757, root).
+
 arg(7140).
 text(7140, Those with more money can afford better lawyers and sometimes even attend nicer prison facilities.).
 att(7140, 6685).
 
-arg(7075).
-text(7075, The article fails to make a distinction between positive outcome and ideal opportunity. It suggests certain outcomes can be eliminated, and that negative outcome is the result of squandered opportunity or oppression. It reverses the premise by saying humanitarianism is superior to egalitarianism. ).
-att(7075, root).
+arg(7453).
+text(7453, There is a relationship between the amount of money spent on legal council and the chances of a positive outcome of a trial. This effectively means that people of different economic classes have vastly different experiences of the legal system, when they should be judged, treated and tried equally.).
+support(7453, 7140).
 
-arg(6767).
-text(6767, All people in a capitalistic economy have the ability to reject exploitation).
-att(6767, root).
+arg(6842).
+text(6842, No, exploitation is always occurring,  subconsciously and consciously, without consent. This is biology 101. Commensalism, mutualism, and parasitism. Everyone you ever knew exploited you, just as you exploited them. Even if no one noticed. ).
+att(6842, 6767).
+
+arg(6581).
+text(6581, Capitalism relies on exploitation of inequality to sustain itself).
+support(6581, root).
+
+arg(6629).
+text(6629, Equality cannot be defined objectively as good.).
+att(6629, 6581).
+
+arg(6808).
+text(6808, Equality of opportunity isn't desirable either; it would mean legislating parenting styles.).
+att(6808, 6790).
+
+arg(7276).
+text(7276, You however implicitly assume that capitalism and democracy are interlinked. Economic liberalism and political freedom need not be correlated.).
+att(7276, 6767).
+
+arg(6812).
+text(6812, Only if you define equality as equal wealth. ).
+att(6812, 6697).
+
+arg(6814).
+text(6814, *All humans will inevitably be born with different traits than others. ).
+support(6814, 6810).
+
+arg(6815).
+text(6815, This can be self governed through societies values in the treatment of children and through underlying existing government legislation such as schooling).
+att(6815, 6808).
+
+arg(7423).
+text(7423, Social equality is impossible in general because of culture, tradition, religion, and any other method of passing of beliefs from one person to another.).
+att(7423, root).
 
 arg(6685).
 text(6685, Equality under the law (i.e. how government treats its citizens) is still possible).
@@ -29,65 +69,25 @@ arg(6790).
 text(6790, Trying to create an equal outcome isn't desirable. It is more important to have a system built upon creating opportunity, and to achieve this individuals must be able to accumulate and invest wealth; otherwise the value of human interaction is set arbitrarily.  ).
 att(6790, root).
 
+arg(7075).
+text(7075, The article fails to make a distinction between positive outcome and ideal opportunity. It suggests certain outcomes can be eliminated, and that negative outcome is the result of squandered opportunity or oppression. It reverses the premise by saying humanitarianism is superior to egalitarianism. ).
+att(7075, 6808).
+
+arg(6767).
+text(6767, All people in a capitalistic economy have the ability to reject exploitation).
+att(6767, 6581).
+
+arg(6803).
+text(6803, While absolute equality is undefinable, relative changes in (in)equality are quite possible.).
+att(6803, 6757).
+
 arg(6792).
 text(6792, Equality of outcomes is antithetical to capitalism, however equality of opportunity is very well aligned with the premises of capitalism insofar as it enables society to make the most efficient use of human capital.).
 att(6792, root).
 
-arg(7423).
-text(7423, Social equality is impossible in general because of culture, tradition, religion, and any other method of passing of beliefs from one person to another.).
-att(7423, root).
-
-arg(6803).
-text(6803, While absolute equality is undefinable, relative changes in (in)equality are quite possible.).
-att(6803, root).
-
-arg(6808).
-text(6808, Equality of opportunity isn't desirable either; it would mean legislating parenting styles.).
-att(6808, 6790).
-
-arg(7276).
-text(7276, You however implicitly assume that capitalism and democracy are interlinked. Economic liberalism and political freedom need not be correlated.).
-att(7276, 6767).
-
 arg(6810).
 text(6810, Inequality is natural for humans and an unavoidable state. Some children will inevitably be born with different traits than others.).
 att(6810, root).
-
-arg(6812).
-text(6812, Only if you define equality as equal wealth. ).
-att(6812, 6697).
-
-arg(6814).
-text(6814, *All humans will inevitably be born with different traits than others. ).
-support(6814, 6810).
-
-arg(6815).
-text(6815, This can be self governed through societies values in the treatment of children and through underlying existing government legislation such as schooling).
-att(6815, 6808).
-
-arg(7599).
-text(7599, The premise is so open that it is pretty meaningless thing to argue about.).
-att(7599, root).
-
-arg(7453).
-text(7453, There is a relationship between the amount of money spent on legal council and the chances of a positive outcome of a trial. This effectively means that people of different economic classes have vastly different experiences of the legal system, when they should be judged, treated and tried equally.).
-support(7453, 7140).
-
-arg(6842).
-text(6842, No, exploitation is always occurring,  subconsciously and consciously, without consent. This is biology 101. Commensalism, mutualism, and parasitism. Everyone you ever knew exploited you, just as you exploited them. Even if no one noticed. ).
-att(6842, 6767).
-
-arg(6757).
-text(6757, "Equality" is impossible in any society, because no one can agree on the definition when there are so many variables at play. It might be something to shoot for, but since some people don't even care about it, the question is moot.).
-support(6757, root).
-
-arg(6581).
-text(6581, Capitalism relies on exploitation of inequality to sustain itself).
-support(6581, root).
-
-arg(6629).
-text(6629, Equality cannot be defined objectively as good.).
-att(6629, 6581).
 
 arg(6630).
 text(6630, we associate capitalism with meritocracy - hierarchy and inequality are symbolic measures of one's merit within the system, therefore, egalitarianism and capitalism are antithetical to each other. ).

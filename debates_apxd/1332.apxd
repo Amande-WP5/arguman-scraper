@@ -1,217 +1,177 @@
 arg(root).
 text(root, Abortion should be illegal.).
 
-arg(8823).
-text(8823, Is the life of a human being not worth that embarassment?).
-att(8823, root).
-
-arg(9366).
-text(9366, Tacos taste good.).
-support(9366, root).
-
-arg(13824).
-text(13824, you cannot argue if an idea is true or false based on pragmatism. ).
-att(13824, 12868).
-
-arg(9336).
-text(9336, The burdens of having a child is not analogous to having someone attempt to harm or kill you.  It is a normal biological process.).
-att(9336, root).
-
 arg(12266).
 text(12266, You are assuming a fetus is not another person.  What definition of a person is this based off of?).
-att(12266, root).
-
-arg(6310).
-text(6310, Disconnecting life support under the circumstance that the supported individual gave some form of consent prior to being incapacitated is not murder.).
-att(6310, root).
-
-arg(11653).
-text(11653, there is something called adoption).
-att(11653, root).
-
-arg(11654).
-text(11654, the only scientifically accurate definition of being human is being alive, being able to grow, and having human DNA).
-att(11654, root).
-
-arg(11655).
-text(11655, legality has nothing to definition of murder. There were countries where murdering a certain king of people was perfectly legal, but it doesn't mean that killing them wasn't a murder.).
-att(11655, root).
-
-arg(11657).
-text(11657, not if act of abortion is taken out of free will and is not dictated by endangering of life or long term health of mother.).
-att(11657, root).
-
-arg(11652).
-text(11652, becoming pregnant is not a random event. It is in most cases result of action of women so she willingly risked it).
-att(11652, root).
+att(12266, 7112).
 
 arg(12541).
 text(12541, What is your definition of a human? You have not addressed the scientific definitions I have outlined in other arguments. The moment a zygote divides, is that 1 human or 2? What is different about those 2 cells, biologically, from the 1 zygote if it is 1 human?).
 att(12541, 12266).
 
-arg(6508).
-text(6508, If consciousness determines a person's right to life, then it would be morally acceptable to kill anyone who is asleep or comatose.).
-att(6508, root).
-
-arg(9983).
-text(9983, The reasons you cite ultimately determine whether the mother wants a baby or not, hence the term "wantedness".).
-att(9983, root).
-
-arg(10807).
-text(10807, "illegal" does not imply all-inclusive. Murder is illegal even in states with death penalty.).
-att(10807, root).
-
 arg(6521).
 text(6521, They were once conscious, and have the possibility of becoming conscious in the future.).
 att(6521, 6508).
-
-arg(6523).
-text(6523, The difference is that the zygote has the potential to develop into an adult human when given time, nutrition, and a proper environment.  This contrast with other human cells or cancerous cells.).
-att(6523, root).
-
-arg(5751).
-text(5751, We can't force anyone to choose what they want by our thoughts).
-att(5751, root).
-
-arg(7143).
-text(7143, OP's mom would have had an abortion if it was easily available when she was pregnant with OP.).
-att(7143, root).
-
-arg(6526).
-text(6526, This presumes that potential people have significant moral weight. ).
-att(6526, root).
-
-arg(6452).
-text(6452, The argument above cites human DNA as part of it's definition. Flies, by nature of having fly DNA, do not have human DNA and therefor do not fit the confines of the argument.).
-att(6452, root).
-
-arg(8600).
-text(8600, the death penalty is still murder in instances of wrongful convictions, examples of which are numerous).
-att(8600, root).
-
-arg(6123).
-text(6123, If abortion is made illegal than some women could resort to unsafe measures to abort that could harm both her and the zygote).
-att(6123, root).
-
-arg(6532).
-text(6532, This presumes that an embryo is a person.).
-att(6532, root).
 
 arg(8606).
 text(8606, An embryo has a butt and can poop).
 support(8606, 6532).
 
-arg(6543).
-text(6543, No, it's like saying a seed is not a tree.).
-att(6543, root).
-
-arg(6541).
-text(6541, Having human DNA cannot be a premise for moral worth, either: this excludes the possibility of nonhumans having moral worth. ).
-att(6541, root).
-
-arg(6366).
-text(6366, With abortion life is taken. Without it there is more time to save mothers life).
-att(6366, root).
-
 arg(6369).
 text(6369, Taking a lfe is murder. Consent is irelevant).
 att(6369, 6310).
-
-arg(6371).
-text(6371, War should be illegal).
-att(6371, root).
-
-arg(6552).
-text(6552, A caterpillar is not a butterfly, despite developing into a butterfly. ).
-att(6552, root).
-
-arg(6798).
-text(6798, Your site for the definition of murder cites no legal excuse as a defining characteristic. However, as abortion is legal, this is a false equivalence. ).
-att(6798, root).
-
-arg(6373).
-text(6373, If you use that as a justification for killing an unborn baby, than it is just as legal to kill a toddler.).
-att(6373, root).
 
 arg(5770).
 text(5770, We don't force them, we create laws to prevent harm to society, such as laws preventing murder, rape, etc. ).
 att(5770, 5751).
 
-arg(6555).
-text(6555, Who has the authority to declare moral principles?).
-att(6555, root).
-
-arg(8624).
-text(8624, Abortion decisions may not be solely based on "wantedness". Many other factors, including health, genetics, environment, economic means, and life situations all play roles in determining if abortion is the right choice. ).
-att(8624, root).
-
-arg(9358).
-text(9358, This definition of human has flaws. If thinking, feeling pain, and memory are the criteria, then comatose patients would not be considered human.  ).
-att(9358, root).
-
-arg(6236).
-text(6236, Forcing a girl or woman to carry a fetus to term, when it causes the death of the mother, is also murder.).
-att(6236, root).
-
-arg(12550).
-text(12550, My definition applies to normal biological processes.  The zygote is ordered towards growing in a womb.  Would implanting any pluripotent cell into a womb be considered cloning? Do you have a scientific study or some source that shows that a cancer cell can be implanted to form a new human?  ).
-att(12550, root).
-
-arg(7621).
-text(7621, Lol, jesus christ! What is wrong with yoou. ;)).
-att(7621, root).
-
-arg(12570).
-text(12570, You have a good point about the "normal biological processes".  I retract that statement.  See my other answer to this premise that addresses your question.).
-support(12570, root).
-
-arg(8610).
-text(8610, the argument is that the mother would be most capable of making that evaluation. ).
-att(8610, root).
-
-arg(6413).
-text(6413, By your definition, a corpse is also a human as it came from human parents and has human DNA. It is not sufficient in this context.).
-att(6413, 5892).
-
 arg(6388).
 text(6388, Not every denied abortion would result in a dead mother. In fact, most (American) laws banning abortion already make exception in cases where the mother's health is at serious risk.).
 att(6388, 6236).
 
-arg(6809).
-text(6809, It is contentious to assert that a fetus is equivalent to a sapling when others might argue that a sapling is more similar to an infant. This is merely the 'when does life begin' debate, but with more colorful metaphors. ).
-att(6809, root).
+arg(11653).
+text(11653, there is something called adoption).
+att(11653, 7615).
+
+arg(11654).
+text(11654, the only scientifically accurate definition of being human is being alive, being able to grow, and having human DNA).
+att(11654, 9313).
+
+arg(11655).
+text(11655, legality has nothing to definition of murder. There were countries where murdering a certain king of people was perfectly legal, but it doesn't mean that killing them wasn't a murder.).
+att(11655, 6798).
+
+arg(11657).
+text(11657, not if act of abortion is taken out of free will and is not dictated by endangering of life or long term health of mother.).
+att(11657, 10868).
+
+arg(11652).
+text(11652, becoming pregnant is not a random event. It is in most cases result of action of women so she willingly risked it).
+att(11652, 7305).
+
+arg(6508).
+text(6508, If consciousness determines a person's right to life, then it would be morally acceptable to kill anyone who is asleep or comatose.).
+att(6508, 6475).
+
+arg(9983).
+text(9983, The reasons you cite ultimately determine whether the mother wants a baby or not, hence the term "wantedness".).
+att(9983, 8624).
+
+arg(10807).
+text(10807, "illegal" does not imply all-inclusive. Murder is illegal even in states with death penalty.).
+att(10807, 7127).
+
+arg(6523).
+text(6523, The difference is that the zygote has the potential to develop into an adult human when given time, nutrition, and a proper environment.  This contrast with other human cells or cancerous cells.).
+att(6523, 6477).
+
+arg(6123).
+text(6123, If abortion is made illegal than some women could resort to unsafe measures to abort that could harm both her and the zygote).
+att(6123, root).
 
 arg(6190).
 text(6190, We should give priority to the well-being of a conscious, sentient person (the woman, the couple) rather than to an unconscious being, who does not feel or know what is happening.).
 att(6190, root).
 
+arg(6526).
+text(6526, This presumes that potential people have significant moral weight. ).
+att(6526, 6399).
+
+arg(6452).
+text(6452, The argument above cites human DNA as part of it's definition. Flies, by nature of having fly DNA, do not have human DNA and therefor do not fit the confines of the argument.).
+att(6452, 6145).
+
+arg(8600).
+text(8600, the death penalty is still murder in instances of wrongful convictions, examples of which are numerous).
+att(8600, 7651).
+
+arg(6532).
+text(6532, This presumes that an embryo is a person.).
+att(6532, 6366).
+
+arg(6543).
+text(6543, No, it's like saying a seed is not a tree.).
+att(6543, 6421).
+
+arg(6541).
+text(6541, Having human DNA cannot be a premise for moral worth, either: this excludes the possibility of nonhumans having moral worth. ).
+att(6541, 6493).
+
+arg(6366).
+text(6366, With abortion life is taken. Without it there is more time to save mothers life).
+att(6366, 6236).
+
+arg(6371).
+text(6371, War should be illegal).
+att(6371, 6261).
+
+arg(6552).
+text(6552, A caterpillar is not a butterfly, despite developing into a butterfly. ).
+att(6552, 6421).
+
+arg(6373).
+text(6373, If you use that as a justification for killing an unborn baby, than it is just as legal to kill a toddler.).
+att(6373, 6261).
+
+arg(6555).
+text(6555, Who has the authority to declare moral principles?).
+att(6555, 6548).
+
+arg(8624).
+text(8624, Abortion decisions may not be solely based on "wantedness". Many other factors, including health, genetics, environment, economic means, and life situations all play roles in determining if abortion is the right choice. ).
+att(8624, 7781).
+
+arg(9358).
+text(9358, This definition of human has flaws. If thinking, feeling pain, and memory are the criteria, then comatose patients would not be considered human.  ).
+att(9358, 9313).
+
+arg(6236).
+text(6236, Forcing a girl or woman to carry a fetus to term, when it causes the death of the mother, is also murder.).
+att(6236, 5714).
+
+arg(12550).
+text(12550, My definition applies to normal biological processes.  The zygote is ordered towards growing in a womb.  Would implanting any pluripotent cell into a womb be considered cloning? Do you have a scientific study or some source that shows that a cancer cell can be implanted to form a new human?  ).
+att(12550, 8335).
+
+arg(7621).
+text(7621, Lol, jesus christ! What is wrong with yoou. ;)).
+att(7621, 5714).
+
+arg(12570).
+text(12570, You have a good point about the "normal biological processes".  I retract that statement.  See my other answer to this premise that addresses your question.).
+support(12570, 12559).
+
+arg(8610).
+text(8610, the argument is that the mother would be most capable of making that evaluation. ).
+att(8610, 7500).
+
+arg(6809).
+text(6809, It is contentious to assert that a fetus is equivalent to a sapling when others might argue that a sapling is more similar to an infant. This is merely the 'when does life begin' debate, but with more colorful metaphors. ).
+att(6809, 6582).
+
+arg(5751).
+text(5751, We can't force anyone to choose what they want by our thoughts).
+att(5751, root).
+
 arg(5765).
 text(5765, A zygote is a human being. It is simply a human at a very early stage of development.  Next comes fetus, then infant, then toddler, and eventually adult.).
-att(5765, root).
+att(5765, 5736).
 
 arg(6434).
 text(6434, Actually sentience is just being able to sense and respond to stimulus. "aware" is only one possible and vague definition.).
-att(6434, root).
-
-arg(8695).
-text(8695, That wasn't the argument. 'Innocence' has no relevance (additionally, who is to say that the mother is not also 'innocent'); rather, we are discussing whether the state ought to violate the bodily integrity of one individual to save the live of another. ).
-att(8695, root).
+att(6434, 6411).
 
 arg(6572).
 text(6572, It doesn't. It argues life and humanity separately. Regardless, let's imagine a headless corpse where a machine is providing simulated brain activity to maintain basic functions and satisfying all parts of the argument. This wouldn't be human life, thus the definition remains insufficient.).
-att(6572, root).
+att(6572, 6442).
 
 arg(7703).
 text(7703, This is false.  Pluripotent cancerous cells or stem cells have the potential to develop into any cell type (muscle, skin, etc.). However, without the introduction of DNA (from mother and father), a zygote can not spontaneously form.).
-att(7703, root).
+att(7703, 6538).
 
-arg(6252).
-text(6252, The definition holds that reproduction is capable of occurring with an error rate below the sustainability threshold. Essentially, as long as enough adult humans are capable, sterile adult humans may still be called living.).
-att(6252, root).
-
-arg(6490).
-text(6490, No because murder is murder no matter the age. Just because that person has taken lives does not make it right to turn around and take his. ).
-support(6490, root).
+arg(7143).
+text(7143, OP's mom would have had an abortion if it was easily available when she was pregnant with OP.).
+att(7143, root).
 
 arg(6529).
 text(6529, While, morally I agree with you, how are our morals any more correct than the morals of those who support capitol punishment? There is no ground to stand on, no proof to be had. I can believe the roll goes new paper on top, you could believe the roll goes new paper on bottom. No right. No wrong.).
@@ -221,126 +181,134 @@ arg(6538).
 text(6538, Pluripotent cancerous cells could also hypothetically develop into a human (by definition, pluripotent cells can differentiate into all three germ cell types) given the right environment - teratomas often form with all three germ layers present. Ability to and are, are two different concepts ).
 att(6538, 6523).
 
+arg(12559).
+text(12559, We have used iPS cells to clone organisms (see below). Your definition of "normal biological process" then invalidates IVF-produced embryos and subsequent people. My issue is your definition of human life is ill-defined, so I will ask again, what are your criteria for a human?).
+att(12559, 12550).
+
+arg(6550).
+text(6550, Grouping this back to the original premise, you say it is not up to us to decide on morality for the world. Some would agree the murderer should die. Some would agree it is the mother's choice to have an abortion. Nobody would agree it is ok for a mother to drown her 3 year? Whatever her reason.).
+att(6550, 6529).
+
+arg(12447).
+text(12447, I never said "legally compelled".  Law can be flawed, which is exactly why I'm arguing against abortion.  However, the "Duty to Rescue" applies.  As of 2009, 10 states had laws requiring people at least notify police of and/or seek aid for strangers. Parents are also required to care for kids.).
+att(12447, 12443).
+
+arg(8549).
+text(8549, I was more referring to the long definition at the bottom, which states, "the killing of a human being by a sane person, with intent, malice aforethought").
+att(8549, 7663).
+
+arg(6490).
+text(6490, No because murder is murder no matter the age. Just because that person has taken lives does not make it right to turn around and take his. ).
+support(6490, 6469).
+
 arg(6403).
 text(6403, But those cells aren't hers, even though they're inside her body. They belong to another human individual.).
-att(6403, root).
-
-arg(9217).
-text(9217, Like it or not, the fetus does not have a right to force someone else to, for lack of a better word, "house" them even if it means it will save their life. A person isn't required to let a stranger stay in their home even if putting them out would lead to their death are they? ).
-att(9217, root).
+att(6403, 5813).
 
 arg(10750).
 text(10750, Saying abortion is a matter of conflict of rights (woman's body x soon-to-be new person's body with 50% of DNA not belonging to the woman) is to conveniently forget that adoption is legal. There is no such thing as a conflict of rights when there is at least one option which avoids it.).
 support(10750, root).
-
-arg(12559).
-text(12559, We have used iPS cells to clone organisms (see below). Your definition of "normal biological process" then invalidates IVF-produced embryos and subsequent people. My issue is your definition of human life is ill-defined, so I will ask again, what are your criteria for a human?).
-att(12559, 12550).
 
 arg(7752).
 text(7752, You keep making the assumption that a born human is exactly the same as an insentient unborn human. This is a logical fallacy. Furthermore your statement of 'killing all the born babies' is just argumentum ad absurdum.
 
 The point is to PREVENT babies from being born into poor living situations.
 ).
-att(7752, root).
+att(7752, 7654).
 
 arg(12578).
 text(12578, Based on that definition, a zygote is not a human either. A zygote cannot implant at the one cell stage, it must divide several times and differentiate into a blastocyst before implantation. Many zygotes do not implant "normally" - are these all humans? What separates a zygote from an iPS cell?).
-att(12578, root).
+att(12578, 12569).
 
 arg(12427).
 text(12427, firstly these are exceptional situations. Secondly when we compare killing a human to making someone inconvenient, the choice is obvious).
-support(12427, root).
+support(12427, 12150).
 
 arg(6372).
 text(6372, Who could possibly determine the quality of life a person would ultimately experience? Especially before the child is born.).
-att(6372, root).
+att(6372, 6170).
 
 arg(6795).
 text(6795, This is only equivalent to the case where the woman was raped. More neutrally, we might ask if it is morally wrong to back out halfway through donating your kidney. Even this is not a particularly accurate analogy: most individuals who might back out of donating kidneys actively intended to.).
-att(6795, root).
+att(6795, 6561).
 
 arg(6356).
 text(6356, This implies that a life that cannot experience anything does not deserve protection, as if sensation and memory were the basis for human rights.).
-att(6356, root).
+att(6356, 6170).
 
 arg(12430).
 text(12430, this is an exceptional situation and can have exceptional ways of dealing with it. Yet this is still inconvenience comparing to killing a human.).
-att(12430, root).
+att(12430, 12352).
 
 arg(12431).
 text(12431, the reasonable thing to do would be: you conceived the child - you pay for it until it's adopted. Isn't that the thing we do when man doesn't want to be a part of a family? Why don't we include women in this logic?).
-support(12431, root).
+support(12431, 12350).
 
 arg(8668).
 text(8668, The worry is when a woman doesn't want to go to term b/c she doesn't want a child.  We normally don't agree with "lifestyle" choices to dictate if someone lives or dies. 
 Edit: I'm just explaining what the point was, this isn't a rebuttal ).
-att(8668, root).
+att(8668, 6774).
 
 arg(10285).
 text(10285, Morality is the question, not the law.).
-att(10285, root).
+att(10285, 9975).
 
 arg(8958).
 text(8958, Using this logic, then the father should also have some rights, since half of the baby's DNA is his.  Under our current law, this of course is only considered when the mother has the baby and wants child support.  When she doesn't want the baby, it is her decision even if he disagrees.  Inconsistent).
-att(8958, root).
+att(8958, 6566).
 
 arg(6421).
 text(6421, This is like saying a sapling is not a tree just because it is not full size and has not reached it's potential yet.).
-att(6421, root).
+att(6421, 5799).
 
 arg(7781).
 text(7781, As this applies to abortions, does a person's "wantedness" determine their value?  No.  We aim to treat everyone with equal value, regardless of age, sex, ability, and level of awareness.).
-att(7781, root).
+att(7781, 6781).
 
 arg(6596).
 text(6596, Indeed, my point exactly. Something so subjective is no basis for an argument.).
-support(6596, root).
+support(6596, 6575).
 
 arg(12436).
 text(12436, Why does being accountable in a census matter? Does this mean people who were born in the middle of nowhere and were never registered with the government are not human and do not have the right to life?).
-att(12436, root).
+att(12436, 12319).
 
 arg(12437).
 text(12437, Yes, this would be difficult. I still don't see how punishing the baby in the situation is a good solution.  Punish the rapist, not the innocent people involved.).
-att(12437, root).
+att(12437, 12352).
 
-arg(6550).
-text(6550, Grouping this back to the original premise, you say it is not up to us to decide on morality for the world. Some would agree the murderer should die. Some would agree it is the mother's choice to have an abortion. Nobody would agree it is ok for a mother to drown her 3 year? Whatever her reason.).
-att(6550, 6529).
+arg(8823).
+text(8823, Is the life of a human being not worth that embarassment?).
+att(8823, 7615).
+
+arg(9366).
+text(9366, Tacos taste good.).
+support(9366, 7847).
 
 arg(12440).
 text(12440, Abortion has an even greater effect on the baby--it never ends well for them.).
-att(12440, root).
+att(12440, 12351).
 
 arg(12441).
 text(12441, But leaving someone to their own bodily devices is not violating their bodily autonomy. Choosing to not physically breath for someone who's body can't breath on their own is not taking away their rights. Their bodies own failings are what's leading to their death. 
 ).
-att(12441, root).
+att(12441, 12434).
 
 arg(9367).
 text(9367, Your mom's got a nice ass.).
-att(9367, root).
+att(9367, 8637).
 
 arg(9551).
 text(9551, Knowing you will go through great suffering in life, it is okay to murder you tonight while asleep. ).
-support(9551, root).
+support(9551, 6519).
 
 arg(12443).
 text(12443, That is simply not true; people are not legally compelled to risk their own health or safety to save other people's lives. ).
-att(12443, root).
-
-arg(12447).
-text(12447, I never said "legally compelled".  Law can be flawed, which is exactly why I'm arguing against abortion.  However, the "Duty to Rescue" applies.  As of 2009, 10 states had laws requiring people at least notify police of and/or seek aid for strangers. Parents are also required to care for kids.).
-att(12447, 12443).
+att(12443, 12435).
 
 arg(6394).
 text(6394, People will also kill whether or not it is legal.).
-att(6394, root).
-
-arg(6575).
-text(6575, Even if 100% of humanity had no recollection of the womb, this would not necessarily lead to the conclusion that we are not sentient while in the womb.  We forget a lot of things that we would still say we were sentient while doing.).
-att(6575, root).
+att(6394, 6289).
 
 arg(12451).
 text(12451, You are not obligated to help someone if you did not put them in that situation where they can't breath. If you did, then you are. Thus, a mother is obligated to help the baby she put there. If no food/formula available, a mother is obligated to give her born baby breast milk rather than let it die.).
@@ -358,30 +326,9 @@ arg(12460).
 text(12460, If they existed today, their actions would be viewed as human rights violations and they would be held accountable.).
 att(12460, 10285).
 
-arg(6400).
-text(6400, The differences in children's rights do not extend to their right to life just as a fetus's right to life should not differ from an adult.).
-att(6400, root).
-
 arg(6401).
 text(6401, Isn't it? There is no meaningful moral difference between a brain-dead coma patient and broken computer; the only actual difference of any import is the former's organic human heartbeat, which by itself should have no moral relevance.).
 att(6401, 6356).
-
-arg(9543).
-text(9543, There are those that only see resemblance in common ancestors such as apes, and in all likelihood, see no resemblance in a fetus. ).
-support(9543, root).
-
-arg(8959).
-text(8959, I understand you disagree, but consider the other point of view: they aren't just cells, they are a baby.  If you can consider that, then you should be able to understand why it is not her decision to kill it, just as it isn't when it is born.  It brings us back to the definition of a person.).
-att(8959, root).
-
-arg(6253).
-text(6253, A newborn or even month-old infant would not be able to survive on its own. Does that make one not a human being?).
-att(6253, root).
-
-arg(7773).
-text(7773, Your source does not state that a functional nervous system is what defines a human. 
-Unlike an embryo, when given time, nutrition, and a proper environment, cheek cells cannot develop into a human organism, so the potential is different.).
-att(7773, root).
 
 arg(6582).
 text(6582, A seed is to an egg as an tree is to a human. Both need to be germinated in order to grow.
@@ -389,76 +336,22 @@ text(6582, A seed is to an egg as an tree is to a human. Both need to be germina
 A sapling is to a fetus as a tree is to a human. Both have already been germinated and are the first stages of the final product.).
 att(6582, 6543).
 
-arg(12463).
-text(12463, The northern Democratic party endorsed it at one point, and prior to that it was widely supported as evidenced by the numerous people that used or were used as slaves.).
-att(12463, root).
-
-arg(6732).
-text(6732, There are more moral ways to control population).
-att(6732, root).
-
-arg(7777).
-text(7777, Keeping abortion legal deprives a baby of it's right to life.  Right to life should outweigh right to bodily autonomy.).
-att(7777, root).
-
-arg(8657).
-text(8657, Wouldn't the state be serving the innocent in the case of protecting the unborn child?).
-att(8657, root).
-
 arg(8335).
 text(8335, It is not false. A pluripotent cell (iPS or cancer) has the DNA of the original individual and does not need new DNA. Your condition that a zygote can develop into a human given the right condition can be applied to any pluripotent cell as a full set of chromosomes are already present.).
 att(8335, 7703).
-
-arg(6411).
-text(6411, Determination of sentience Is by its definition- self awareness- a very subjective and shaky subject. The only way to measure is, to my knowledge, through self reporting. 
-I should like to see your scientific source for this determination. I can't seem to find it. ).
-att(6411, root).
 
 arg(6590).
 text(6590, No morals are universal. For example. In the Christian bible.. ezekial 9:5-7 the people are "justified" in murdering all the women and children because God said to. 
 Certain New Guinea tribes would, on occasion cook and eat a fellow human. It was okay for them. Morals are what we make them.).
 att(6590, 6550).
 
-arg(5892).
-text(5892, Then propose a new definition for what a human being is.   A fetus (and all stages before birth) is alive, because it is receiving nutrients and growing via cellular reproduction.  And a fetus is human because it came from human parents and have human DNA.  ).
-att(5892, root).
-
-arg(9549).
-text(9549, It is immoral to murder a sleeping person, or one that is impaired for an indefinite amount of time. ).
-support(9549, root).
-
-arg(6586).
-text(6586, A fetus's brain is not developed enough to sustain consciousness.).
-att(6586, root).
-
-arg(8696).
-text(8696, Subjectivity or the occurrence of aborting pregnancies in other species or even our own doesn't speak to whether or not it should be legal or illegal.
-).
-att(8696, root).
-
 arg(6393).
 text(6393, Consent cannot be irrelevant in every case; consider when someone of sound mind and body desires to die. ).
 att(6393, 6369).
 
-arg(8603).
-text(8603, Consent shouldn't matter in the case of abortion.  If consent was granted initially, there could be changes which occur within a time frame which can impact sustaining that consent.  Also, consent seems off topic, b/c there is no consent given to the "future" child. It is between the two adults.).
-att(8603, root).
-
-arg(7510).
-text(7510, It can't be said that all pregnancies are forced or unwanted. ).
-att(7510, root).
-
-arg(7663).
-text(7663, The primary definition states "The unlawful killing of another human being without justification or excuse."  Malice is not mentioned in this.  Abortion is currently not considered murder because it it lawful, which is the main premise that I proposed to argue.).
-att(7663, root).
-
 arg(6605).
 text(6605, If potential people did not have significant moral weight, then voluntary human extinction (by refusing to breed) would be perfectly morally acceptable.).
 att(6605, 6526).
-
-arg(5794).
-text(5794, The rights of a mother should not outweigh the rights of the unborn baby in her womb, just as they would not outweigh the rights of a born baby.).
-att(5794, 5720).
 
 arg(7665).
 text(7665, You have a point.  I should have worded it differently.  Saying Abortion is Murder (unlawful killing), when Abortion is currently legal does not makes sense.).
@@ -484,28 +377,85 @@ arg(12636).
 text(12636, Your definition of murder is incorrect. Murder must be legal. ).
 att(12636, 11655).
 
-arg(12438).
-text(12438, Just as it would not be acceptable to kill all of these 100k children, it should not be allowed to kill the unborn children.  Yes, solutions would be needed for adoption, but this does not justify killing. The amount of money that goes into abortion would help if directed to adoption.).
-att(12438, root).
-
 arg(12639).
 text(12639, illegal* 
 
 Also, I cite all modern dictionaries ).
 att(12639, 12636).
 
-arg(10133).
-text(10133, There are a lot of historical situations when that was an acceptable outcome. Consider: you're trapped in a situation--zombie attack--where you can get away but there is a likely chance that you're young child will be violently killed. Would it be wrong to kill them painlessly yourself?).
-att(10133, root).
+arg(6775).
+text(6775, The vast majority of abortion are not embryos but fetuses.).
+att(6775, 6532).
 
-arg(9373).
-text(9373, What is contentious about the following? A person is a living organism (i.e. growing) and it is human because it has human parents and human DNA. And unlike sperm or organs, it is capable of growing into an adult.
-This includes zygotes. No need to bring in awareness,ability,age,nerves,etc.).
-att(9373, root).
+arg(6400).
+text(6400, The differences in children's rights do not extend to their right to life just as a fetus's right to life should not differ from an adult.).
+att(6400, 6174).
 
-arg(11649).
-text(11649, bearing a child and giving it for adoption is less brutal than becoming a murderer).
-att(11649, root).
+arg(9543).
+text(9543, There are those that only see resemblance in common ancestors such as apes, and in all likelihood, see no resemblance in a fetus. ).
+support(9543, 9159).
+
+arg(8959).
+text(8959, I understand you disagree, but consider the other point of view: they aren't just cells, they are a baby.  If you can consider that, then you should be able to understand why it is not her decision to kill it, just as it isn't when it is born.  It brings us back to the definition of a person.).
+att(8959, 5813).
+
+arg(6253).
+text(6253, A newborn or even month-old infant would not be able to survive on its own. Does that make one not a human being?).
+att(6253, 6213).
+
+arg(7773).
+text(7773, Your source does not state that a functional nervous system is what defines a human. 
+Unlike an embryo, when given time, nutrition, and a proper environment, cheek cells cannot develop into a human organism, so the potential is different.).
+att(7773, 7717).
+
+arg(12463).
+text(12463, The northern Democratic party endorsed it at one point, and prior to that it was widely supported as evidenced by the numerous people that used or were used as slaves.).
+att(12463, 11559).
+
+arg(6732).
+text(6732, There are more moral ways to control population).
+att(6732, 6619).
+
+arg(7777).
+text(7777, Keeping abortion legal deprives a baby of it's right to life.  Right to life should outweigh right to bodily autonomy.).
+att(7777, 7305).
+
+arg(8657).
+text(8657, Wouldn't the state be serving the innocent in the case of protecting the unborn child?).
+att(8657, 8566).
+
+arg(5892).
+text(5892, Then propose a new definition for what a human being is.   A fetus (and all stages before birth) is alive, because it is receiving nutrients and growing via cellular reproduction.  And a fetus is human because it came from human parents and have human DNA.  ).
+att(5892, 5799).
+
+arg(9549).
+text(9549, It is immoral to murder a sleeping person, or one that is impaired for an indefinite amount of time. ).
+support(9549, 6414).
+
+arg(6586).
+text(6586, A fetus's brain is not developed enough to sustain consciousness.).
+att(6586, 6414).
+
+arg(8696).
+text(8696, Subjectivity or the occurrence of aborting pregnancies in other species or even our own doesn't speak to whether or not it should be legal or illegal.
+).
+att(8696, 8685).
+
+arg(8603).
+text(8603, Consent shouldn't matter in the case of abortion.  If consent was granted initially, there could be changes which occur within a time frame which can impact sustaining that consent.  Also, consent seems off topic, b/c there is no consent given to the "future" child. It is between the two adults.).
+att(8603, 7120).
+
+arg(7510).
+text(7510, It can't be said that all pregnancies are forced or unwanted. ).
+att(7510, 7120).
+
+arg(7663).
+text(7663, The primary definition states "The unlawful killing of another human being without justification or excuse."  Malice is not mentioned in this.  Abortion is currently not considered murder because it it lawful, which is the main premise that I proposed to argue.).
+att(7663, 6805).
+
+arg(12438).
+text(12438, Just as it would not be acceptable to kill all of these 100k children, it should not be allowed to kill the unborn children.  Yes, solutions would be needed for adoption, but this does not justify killing. The amount of money that goes into abortion would help if directed to adoption.).
+att(12438, 12350).
 
 arg(12641).
 text(12641, I am guessing that this was meant to be a "but"
@@ -513,17 +463,9 @@ text(12641, I am guessing that this was meant to be a "but"
 People have abortions because they cannot afford the child. ).
 att(12641, 12431).
 
-arg(7688).
-text(7688, Would you kill born babies/toddlers in order to control population?  Of course not. Therefore this argument is no reason to keep abortion legal.).
-att(7688, root).
-
 arg(10220).
 text(10220, OP's mom was far too fat to be given an abortion even if she wanted one at the time of OP's birth.).
 att(10220, 7143).
-
-arg(6429).
-text(6429, But if children do not have the ability to reproduce then technically they would not be considered "living" so would be morally acceptable to take their life too?).
-att(6429, root).
 
 arg(12831).
 text(12831, It could be argued that if the pregnancy was unintentional, the mother did not put the fetus in a position of dependancy. It was just bad luck, and therefore the pregnancy could be terminated.).
@@ -545,10 +487,6 @@ arg(12644).
 text(12644, So the mother should hold her rapist's child inside her for 9 months and give birth to the child? ).
 att(12644, 12430).
 
-arg(12645).
-text(12645, It is not (in the U.S., where I live). And that is a good thing.).
-att(12645, root).
-
 arg(6464).
 text(6464, A zygote is not a human being. A zygote is a single cell which is incapable of survival without external support. The definition of human can be contentious, but a zygote does not have a nervous system, cardiovascular system, functioning organs or tissues, or even differentiated cells.).
 att(6464, 5765).
@@ -561,74 +499,21 @@ arg(12646).
 text(12646, Is the fetus more important than the mother?).
 att(12646, 12437).
 
-arg(7863).
-text(7863, When crimes are reported in progress, agents of the state often appear and attempt to prevent the crime from occurring. Sometimes they are successful. Therefore, the law can physically prevent you from committing a crime, by the use of agents working on its behalf.).
-att(7863, root).
-
-arg(12429).
-text(12429, the same can be said about people who killed their children. And harbouring grief is way lower than killing a human).
-att(12429, root).
-
-arg(9976).
-text(9976, This doesn't address the premise.  If a mother has a toddler and does not have a good option to shift him/her to a new environment, would she be justified in killing?  ).
-att(9976, root).
-
 arg(6412).
 text(6412, This does reveal an interesting and somewhat hypocritical quality of modern opinion. In a given situation, we would give a more "advanced" or "developed" human precedence over a lesser being. In our youth we are taught to treat  all people as equals. I'm not taking a stance either way. ).
 att(6412, 6190).
-
-arg(9975).
-text(9975, They were under a different system of law.  If they existed in today's society, they would be held accountable.).
-att(9975, root).
-
-arg(6181).
-text(6181, To be living, one must have life. One of the seven characteristics of life accepted by science is the capability to reproduce either sexually or asexually. Clearly neither an embryo nor a fetus is capable of meeting this criterion, nor for that matter are young children.).
-support(6181, root).
 
 arg(12351).
 text(12351, Secondly, adoption has huge effects on the birthparents. Over 3/4 of survey responders responded that they still harbored grief over their adopted child after 12-20 years.).
 att(12351, 11649).
 
-arg(7096).
-text(7096, The death sentence is a type of murder and should be illegal.
-This statement follows suit with the preceding logic. It should not be matter of legality, the choice should be available and discussed between both parents and the doctor. Knowledgable consent must be given.).
-att(7096, root).
-
-arg(6445).
-text(6445, In fact abortion greatly harms societies. One example would be the plummeting birth rates which have a very large economic impact. ).
-att(6445, root).
-
 arg(7922).
 text(7922, The analogy compares how you treat unborn and born children who are in unfortunate situations.  If equal, your premise has an error. If your "insentient" statement implies that that level of awareness determines one's right to life, then please explain. ).
 att(7922, 7752).
 
-arg(11714).
-text(11714, Reduced crime rates do not justify killing.  Proving that that murdering toddlers who are in poor living situations also reduces the crime rate would not mean we should change the law to allow for them to be killed.).
-att(11714, root).
-
-arg(8954).
-text(8954, He said "Cheek cells are potential humans."  I said unlike embryos, when given time, nutrition, and proper environment, cheek cells lack the potential to develop into a human. He said that is false, and I assume you agree with the assumption that SCNT falls under the "environment" category? ).
-att(8954, root).
-
-arg(10778).
-text(10778, Laws are definitions of rights and duties. They can be both used to force something or to punish the attempt to force that same thing (take slavery in the past and now for instance). And they are not based on what society wants, they are based on what lawmakers want.).
-att(10778, root).
-
-arg(10749).
-text(10749, That goes for anything people want to do and are willing to take the risk, no matter if it is ethically right or wrong or if it is good or bad from an utilitary point of view. Using that logic, what stops bribes from being legal?).
-att(10749, root).
-
 arg(12653).
 text(12653, Abortion is not murder).
 att(12653, 11649).
-
-arg(7483).
-text(7483, Giving someone your kidney could save their life, meaning your kidney effectively turned into a walking, talking and conscious person. A fetus that has not experienced life yet is arguably not equal.).
-support(7483, root).
-
-arg(11559).
-text(11559, The vast majority did not support slavery).
-att(11559, root).
 
 arg(12350).
 text(12350, Adoption systems in many nations cannot currently handle all the children that will be in the system after this. There are currently 100K US children waiting for adoption, and 32% of the children will wait 3 or more years to be adopted. 
@@ -636,29 +521,83 @@ text(12350, Adoption systems in many nations cannot currently handle all the chi
 Contrary to this, there were over 700K abortions in the US).
 att(12350, 11649).
 
-arg(12839).
-text(12839, It shouldn't matter how safe abortion is. Either it's ethically wrong or ethically right. If it's ethically right, then it should be as safe as possible. If it's ethically wrong, then society has no obligation to make it safer, but enforcing laws by making more people who break them die is messed up).
-att(12839, root).
+arg(6548).
+text(6548, There is a difference between majority consensus and truth based on principle.  Take slavery as example, which was accepted by society for ages.  Acceptance does not equate to right and wrong.).
+att(6548, 6131).
+
+arg(9373).
+text(9373, What is contentious about the following? A person is a living organism (i.e. growing) and it is human because it has human parents and human DNA. And unlike sperm or organs, it is capable of growing into an adult.
+This includes zygotes. No need to bring in awareness,ability,age,nerves,etc.).
+att(9373, 6464).
+
+arg(11649).
+text(11649, bearing a child and giving it for adoption is less brutal than becoming a murderer).
+att(11649, 11643).
+
+arg(7688).
+text(7688, Would you kill born babies/toddlers in order to control population?  Of course not. Therefore this argument is no reason to keep abortion legal.).
+att(7688, 6619).
+
+arg(6429).
+text(6429, But if children do not have the ability to reproduce then technically they would not be considered "living" so would be morally acceptable to take their life too?).
+att(6429, 6181).
+
+arg(7863).
+text(7863, When crimes are reported in progress, agents of the state often appear and attempt to prevent the crime from occurring. Sometimes they are successful. Therefore, the law can physically prevent you from committing a crime, by the use of agents working on its behalf.).
+att(7863, 7714).
+
+arg(12429).
+text(12429, the same can be said about people who killed their children. And harbouring grief is way lower than killing a human).
+att(12429, 12351).
+
+arg(9976).
+text(9976, This doesn't address the premise.  If a mother has a toddler and does not have a good option to shift him/her to a new environment, would she be justified in killing?  ).
+att(9976, 8613).
+
+arg(9975).
+text(9975, They were under a different system of law.  If they existed in today's society, they would be held accountable.).
+att(9975, 6784).
+
+arg(7096).
+text(7096, The death sentence is a type of murder and should be illegal.
+This statement follows suit with the preceding logic. It should not be matter of legality, the choice should be available and discussed between both parents and the doctor. Knowledgable consent must be given.).
+att(7096, 5714).
+
+arg(6445).
+text(6445, In fact abortion greatly harms societies. One example would be the plummeting birth rates which have a very large economic impact. ).
+att(6445, 6292).
+
+arg(12645).
+text(12645, It is not (in the U.S., where I live). And that is a good thing.).
+att(12645, root).
+
+arg(8954).
+text(8954, He said "Cheek cells are potential humans."  I said unlike embryos, when given time, nutrition, and proper environment, cheek cells lack the potential to develop into a human. He said that is false, and I assume you agree with the assumption that SCNT falls under the "environment" category? ).
+att(8954, 7917).
+
+arg(10778).
+text(10778, Laws are definitions of rights and duties. They can be both used to force something or to punish the attempt to force that same thing (take slavery in the past and now for instance). And they are not based on what society wants, they are based on what lawmakers want.).
+att(10778, 6198).
+
+arg(10749).
+text(10749, That goes for anything people want to do and are willing to take the risk, no matter if it is ethically right or wrong or if it is good or bad from an utilitary point of view. Using that logic, what stops bribes from being legal?).
+att(10749, 6289).
+
+arg(7483).
+text(7483, Giving someone your kidney could save their life, meaning your kidney effectively turned into a walking, talking and conscious person. A fetus that has not experienced life yet is arguably not equal.).
+support(7483, 7461).
+
+arg(11559).
+text(11559, The vast majority did not support slavery).
+att(11559, 9968).
+
+arg(11714).
+text(11714, Reduced crime rates do not justify killing.  Proving that that murdering toddlers who are in poor living situations also reduces the crime rate would not mean we should change the law to allow for them to be killed.).
+att(11714, root).
 
 arg(12352).
 text(12352, Thirdly, in cases of rape, the mother should not be forced to go through 9 months of bearing the rapist's child.).
 att(12352, 11649).
-
-arg(11719).
-text(11719, Who's safety?  Abortion is never safe for a baby.).
-att(11719, root).
-
-arg(9957).
-text(9957, Deciding when to remove someone from life support doesn't support that person's right to life depends on their level of consciousness.  There is a difference between allowing someone to die and directly killing.).
-att(9957, root).
-
-arg(12661).
-text(12661, Your first point is false, if one can’t remember, it isn’t like it had never happened.).
-att(12661, root).
-
-arg(11569).
-text(11569, The fetus contains different DNA than the woman. It is DNA which is unique to and defines an individual).
-support(11569, root).
 
 arg(6362).
 text(6362, Simply because something might be harmful to a person is not justification for making it legal. It is also ironic you mentioned harm to the zygote as a way to justify abortion.).
@@ -673,65 +612,14 @@ text(12663, The fetus should be a lot less important than the mother for abortio
 If we consider the fetus to be about as important as the mother, we would probably not want abortion to be legal in any case.).
 att(12663, 12646).
 
-arg(12846).
-text(12846, "There is no such thing as an undesired clone".
-
-Yet.).
-att(12846, root).
-
-arg(11571).
-text(11571, A woman should not have control over a separate entity. She should have as much right to end a fetus life as she has to end it's fathers life. Having different DNA than the mother defines the fetus as an individual.).
-att(11571, root).
-
-arg(12847).
-text(12847, Embryos are destroyed in labs all the time. Is that not constant murder? The cut-off point is up to the society and legal system to decide.).
-att(12847, root).
-
-arg(6405).
-text(6405, An elderly person or injured person dependant on machines to stay alive does not lose his or her rights as a human.).
-att(6405, root).
-
-arg(11574).
-text(11574, The abortion procedure, as humans go about it, is not natural. ).
-att(11574, root).
-
-arg(12664).
-text(12664, A fetus is a human being and is entitled to the right to life. The only differences between a fetus and a baby are:
-1. Location
-2. Level of dependence
-3. Age
-
-1. Location does not make one human
-2. A newborn or paralyzed adult is also completely dependent
-3. Older doesn't make you more human).
-support(12664, root).
-
-arg(12668).
-text(12668, More the risk to kill the fetus/baby when he have a functional brain is great, more the risk to actually kill a conscious being is great, and more you should take responsibility for it.
-).
-att(12668, root).
-
-arg(11577).
-text(11577, The definition of natural is - existing in or caused by nature; not made or caused by humankind. Abortion can happen naturally. But the discussion implied unnatural medical abortions, caused only because of man. ).
-att(11577, root).
-
 arg(9321).
 text(9321, You can be physically forced to pregnancy by somebody else(rape), but you can't be physically forced by somebody else to do murder.).
 att(9321, 6394).
-
-arg(12670).
-text(12670, It was relevant, because it answer to the exact question.
-The question could have some implicit meanings, but it is not to others to guess what one was thinking.).
-att(12670, root).
 
 arg(12671).
 text(12671, It is not the only, nor the important differences.
 The important difference is consciousness.).
 att(12671, 12664).
-
-arg(9528).
-text(9528, True, even if the guest is invited in for their blood transfusion, it is the blood's host's right to decline the procedure. Would it be rude to interrupt the procedure or recant at the last second, sure. Morally wrong if it already started, it depends on the circumstances. should it be illegal, no. ).
-support(9528, root).
 
 arg(12673).
 text(12673, Unconsciousness does not justify a death sentence of being ripped to shreds (see "vacuum aspiration", the most common method of abortion). Would you have condoned this death sentence for Jerry Garcia or Stevie Wonder during their temporary unconsciousness?).
@@ -753,21 +641,9 @@ arg(7108).
 text(7108, plummeting birth rates are neither inherently positive or negative. If population is growing faster than economic resources, then plummeting birth rates is a positive thing. ).
 att(7108, 6445).
 
-arg(8698).
-text(8698, You could say that everything in existence is natural, Including Tools/Thoughts/Procedures that us humans created. Humans use it subjectively to prove their points.).
-att(8698, root).
-
-arg(6437).
-text(6437, Monkeys do it. It's called the Bruce effect. Monkeys seem pretty natural to me...).
-att(6437, root).
-
 arg(12868).
 text(12868, Over time, that would cause a major increase in the number of children put up for adoption. There wouldn't be the resources to keep up.).
 att(12868, 11653).
-
-arg(12872).
-text(12872, You could probably extend that even further and say if you're not having children all the time, you're denying viable eggs the chance to live. A bit exaggerated, to be sure, but nonetheless.).
-support(12872, root).
 
 arg(8637).
 text(8637, A Zygote is only a fertilized egg.  If it passes through without adhering to the uterine wall pregnancy will not occur.  Is this to be considered a death?  Choosing the fertilization of the egg as the start of life is both arbitrary and uninformed. ).
@@ -777,19 +653,98 @@ arg(12873).
 text(12873, Considering that no contraception is 100% effective, then this would only apply to a very small subset of abortions due to rape.  This would be a difficult situation, but if viewed as a new person, the baby should not be punished any more than the mother should.).
 att(12873, 12831).
 
-arg(7615).
-text(7615, Image you get pregnant after beeing raped. Everytime you see "your child", it will remember you.).
-support(7615, root).
+arg(11719).
+text(11719, Who's safety?  Abortion is never safe for a baby.).
+att(11719, 10868).
 
-arg(12319).
-text(12319, Murder only makes sense if the victim is established as a human, accountable in a census.  In this case the victim is a parasitic entity which the state cannot recognize as a human, since its existence is contingent on the actions of the mother and her biology:  It is part of the mother's body.).
-att(12319, root).
+arg(9957).
+text(9957, Deciding when to remove someone from life support doesn't support that person's right to life depends on their level of consciousness.  There is a difference between allowing someone to die and directly killing.).
+att(9957, 8669).
+
+arg(12661).
+text(12661, Your first point is false, if one can’t remember, it isn’t like it had never happened.).
+att(12661, 10795).
+
+arg(11569).
+text(11569, The fetus contains different DNA than the woman. It is DNA which is unique to and defines an individual).
+support(11569, 6399).
+
+arg(12846).
+text(12846, "There is no such thing as an undesired clone".
+
+Yet.).
+att(12846, 10802).
+
+arg(11571).
+text(11571, A woman should not have control over a separate entity. She should have as much right to end a fetus life as she has to end it's fathers life. Having different DNA than the mother defines the fetus as an individual.).
+att(11571, 5813).
+
+arg(12847).
+text(12847, Embryos are destroyed in labs all the time. Is that not constant murder? The cut-off point is up to the society and legal system to decide.).
+att(12847, 10785).
+
+arg(6405).
+text(6405, An elderly person or injured person dependant on machines to stay alive does not lose his or her rights as a human.).
+att(6405, 6213).
+
+arg(11574).
+text(11574, The abortion procedure, as humans go about it, is not natural. ).
+att(11574, 6437).
 
 arg(10755).
 text(10755, laws exist to define rights connected to duties, following an isonomy principle. Thus:
 1) once abortion is legal, it can't be legal to force a man to take responsability for his child (isonomy)
 2) what duties correspond to the right of choosing an abortion? Proving the use of contraception?).
 support(10755, root).
+
+arg(12668).
+text(12668, More the risk to kill the fetus/baby when he have a functional brain is great, more the risk to actually kill a conscious being is great, and more you should take responsibility for it.
+).
+att(12668, 10785).
+
+arg(11577).
+text(11577, The definition of natural is - existing in or caused by nature; not made or caused by humankind. Abortion can happen naturally. But the discussion implied unnatural medical abortions, caused only because of man. ).
+att(11577, 8698).
+
+arg(12670).
+text(12670, It was relevant, because it answer to the exact question.
+The question could have some implicit meanings, but it is not to others to guess what one was thinking.).
+att(12670, 5830).
+
+arg(8698).
+text(8698, You could say that everything in existence is natural, Including Tools/Thoughts/Procedures that us humans created. Humans use it subjectively to prove their points.).
+att(8698, 6395).
+
+arg(6437).
+text(6437, Monkeys do it. It's called the Bruce effect. Monkeys seem pretty natural to me...).
+att(6437, 6395).
+
+arg(12872).
+text(12872, You could probably extend that even further and say if you're not having children all the time, you're denying viable eggs the chance to live. A bit exaggerated, to be sure, but nonetheless.).
+support(12872, 10843).
+
+arg(9336).
+text(9336, The burdens of having a child is not analogous to having someone attempt to harm or kill you.  It is a normal biological process.).
+att(9336, 9215).
+
+arg(12319).
+text(12319, Murder only makes sense if the victim is established as a human, accountable in a census.  In this case the victim is a parasitic entity which the state cannot recognize as a human, since its existence is contingent on the actions of the mother and her biology:  It is part of the mother's body.).
+att(12319, 5714).
+
+arg(12664).
+text(12664, A fetus is a human being and is entitled to the right to life. The only differences between a fetus and a baby are:
+1. Location
+2. Level of dependence
+3. Age
+
+1. Location does not make one human
+2. A newborn or paralyzed adult is also completely dependent
+3. Older doesn't make you more human).
+support(12664, root).
+
+arg(7615).
+text(7615, Image you get pregnant after beeing raped. Everytime you see "your child", it will remember you.).
+support(7615, root).
 
 arg(7917).
 text(7917, That is exactly what he was implying.
@@ -799,33 +754,13 @@ Where did he say that implanting the cheek cell directly into the womb would hav
 By referencing cloning technology, it goes without saying that SCNT is needed. ).
 att(7917, 7815).
 
-arg(9968).
-text(9968, You have a point, but law should not be determined simply by majority consensus, as evidenced by slavery laws from years ago.).
-att(9968, root).
-
 arg(6131).
 text(6131, Most laws regarding murder, rape etc. are regarding issues seen as black and white in todays society. The vast, vast majority of people see rape as morally wrong, but the same cannot be said for abortion. ).
 att(6131, 5770).
 
-arg(10855).
-text(10855, Making an act safer serves to encourage the act.).
-support(10855, root).
-
 arg(6561).
 text(6561, Assuming the cells do belong to a being equal in legal status to the woman, it is still the right of the woman to do what she wants with her body.  E.g. someone needs your blood, kidnaps you, hooks you up to them, are you legally obligated to sustain the other person? Are you even morally obligated?).
 att(6561, 6403).
-
-arg(10856).
-text(10856, Abortion is unethical.).
-support(10856, root).
-
-arg(12320).
-text(12320, Murder only makes sense if the victim is established as a human, accountable in a census.  In this case the victim is a parasitic entity which the state cannot recognize as a human, since its existence is contingent on the actions of the mother and her biology:  It is part of the mother's body.).
-att(12320, root).
-
-arg(10860).
-text(10860, Making abortion safer is unethical.).
-att(10860, root).
 
 arg(10861).
 text(10861, Encouraging an unethical act is unethical.).
@@ -854,10 +789,6 @@ att(10870, 10862).
 arg(10871).
 text(10871, Abortion terminates the life of a foetus.).
 support(10871, 10862).
-
-arg(10777).
-text(10777, It is irrelevant because many countries today have fertility rates insufficient to mantain their own deficitary social security systems. The rising cost of retirements takes away much more money than both costs mentioned by you. The public debt per capita is growing even where abortion is illegal.).
-att(10777, root).
 
 arg(9313).
 text(9313, It's not much of a human before after several months. It can't think, feel harm or remember anything untill about 5 months.).
@@ -892,57 +823,19 @@ arg(6493).
 text(6493, There is a difference.  The human is a living human with human DNA.  If mental ability and awareness determine a person's right to life, then we should be able to kill infants, mentally handicapped, alzheimer's patients, etc.  ).
 att(6493, 6401).
 
-arg(9239).
-text(9239, We should have fully socialized abortions. This would be fiscally responsible.).
-att(9239, root).
-
 arg(6292).
 text(6292, Abortion isn't harmful to society - in fact, with the growing rate of resource abuse, and the number of orphans, abortion is (if it is anything) benign to society as a whole.).
 att(6292, 5770).
 
-arg(6442).
-text(6442, The argument cites nutrient absorption and cellular development as prerequisites for the definition; however, a corpse does not display those traits and isn't alive.).
-att(6442, root).
-
 arg(7120).
 text(7120, The beginning stages of donating a kidney imply consent to donate as you have to actively agree to the process. Pregnancy is more similar to being forced to donate a kidney as it is something that can happen regardless of your intent, precautions, or counter measures. ).
 att(7120, 6795).
-
-arg(9232).
-text(9232, Irrelevant? How so? If the money could be better spent on educating other children, and providing them with healthcare, then it's incredibly relevant, not only in terms of economic practicality, but as a moral imperative towards the greater good.).
-support(9232, root).
 
 arg(6786).
 text(6786, You are presuming that voluntary human extinction is a wrong. If euthanasia is not a moral wrong, below what population level does it become morally unacceptable for one of the remaining people on earth to commit suicide?
 
 Furthermore, the existence of VHEMT suggests that others disagree with you.).
 att(6786, 6605).
-
-arg(6497).
-text(6497, However, eating chicken may be a moral subject to some but this argument is about human life not animal life and therefore is irrelevant to this discussion. ).
-att(6497, root).
-
-arg(8613).
-text(8613, a toddler can be shifted to a new environment; a fetus cannot until it becomes a toddler. ).
-att(8613, root).
-
-arg(6525).
-text(6525, There are a vast number of differences between a zygote and toddler. Cell number, cell type (no pluripotent cells exist after the embryonic stage of development), developed and functioning organs and tissues, even epigenetic modifications ).
-att(6525, root).
-
-arg(5813).
-text(5813, So you're saying a woman has no control over the cells that already exist in her body? with or without fertilization).
-att(5813, root).
-
-arg(6475).
-text(6475, There is also the fact that the zygote is not conscious, which does not make it human, and murder only applies to human beings.).
-att(6475, root).
-
-arg(7710).
-text(7710, You're dismissing these obstacles as if they're meaningless. Don't do this. Parenting is hard work and not everybody is fit to be a parent. Some people simply do not want children.
-
-Do you think forcing them to keep it would be a good way of ensuring the child has a loving & caring childhood?).
-att(7710, root).
 
 arg(8620).
 text(8620, there are potentially several valid justifications for going through with an abortion, not least of which would be that having a child could greatly reduce the quality of life of the mother and all the people who depend on her. This is just one of many possible justifications. ).
@@ -954,21 +847,59 @@ And i think it is better to kill "someone" who have never be conscious, that som
 Because i don’t think death is the problem, the problem is the suffering produced by death.).
 att(12727, 12673).
 
-arg(8549).
-text(8549, I was more referring to the long definition at the bottom, which states, "the killing of a human being by a sane person, with intent, malice aforethought").
-att(8549, 7663).
+arg(10855).
+text(10855, Making an act safer serves to encourage the act.).
+support(10855, 10853).
 
-arg(6775).
-text(6775, The vast majority of abortion are not embryos but fetuses.).
-att(6775, 6532).
+arg(10856).
+text(10856, Abortion is unethical.).
+support(10856, 10853).
 
-arg(6548).
-text(6548, There is a difference between majority consensus and truth based on principle.  Take slavery as example, which was accepted by society for ages.  Acceptance does not equate to right and wrong.).
-att(6548, 6131).
+arg(10860).
+text(10860, Making abortion safer is unethical.).
+att(10860, 6289).
 
-arg(10843).
-text(10843, Sperm cells do (sometimes) develop into humans. By your premise, contraception is murder. Contraception is not murder, so pre-human cells must not be murderable.).
-att(10843, root).
+arg(10777).
+text(10777, It is irrelevant because many countries today have fertility rates insufficient to mantain their own deficitary social security systems. The rising cost of retirements takes away much more money than both costs mentioned by you. The public debt per capita is growing even where abortion is illegal.).
+att(10777, 9232).
+
+arg(9239).
+text(9239, We should have fully socialized abortions. This would be fiscally responsible.).
+att(9239, 8967).
+
+arg(6442).
+text(6442, The argument cites nutrient absorption and cellular development as prerequisites for the definition; however, a corpse does not display those traits and isn't alive.).
+att(6442, 6413).
+
+arg(9232).
+text(9232, Irrelevant? How so? If the money could be better spent on educating other children, and providing them with healthcare, then it's incredibly relevant, not only in terms of economic practicality, but as a moral imperative towards the greater good.).
+support(9232, 8967).
+
+arg(6497).
+text(6497, However, eating chicken may be a moral subject to some but this argument is about human life not animal life and therefore is irrelevant to this discussion. ).
+att(6497, 6469).
+
+arg(8613).
+text(8613, a toddler can be shifted to a new environment; a fetus cannot until it becomes a toddler. ).
+att(8613, 6392).
+
+arg(6525).
+text(6525, There are a vast number of differences between a zygote and toddler. Cell number, cell type (no pluripotent cells exist after the embryonic stage of development), developed and functioning organs and tissues, even epigenetic modifications ).
+att(6525, 6359).
+
+arg(5813).
+text(5813, So you're saying a woman has no control over the cells that already exist in her body? with or without fertilization).
+att(5813, 5794).
+
+arg(6475).
+text(6475, There is also the fact that the zygote is not conscious, which does not make it human, and murder only applies to human beings.).
+att(6475, 6359).
+
+arg(7710).
+text(7710, You're dismissing these obstacles as if they're meaningless. Don't do this. Parenting is hard work and not everybody is fit to be a parent. Some people simply do not want children.
+
+Do you think forcing them to keep it would be a good way of ensuring the child has a loving & caring childhood?).
+att(7710, 6479).
 
 arg(12728).
 text(12728, I admit the difference between a human and a fetus is not consciousness.
@@ -978,10 +909,6 @@ support(12728, 12673).
 arg(6359).
 text(6359, The only difference between a Zygote and a toddler is size, level of development, Its physical location, and its degree of dependency on its mother, none of which justify murder. ).
 support(6359, 5765).
-
-arg(10785).
-text(10785, So at 4.99 months it is not murder but at 5 months it is? How can murder be defined by WHEN it happened rather than by the ACT itself? Human life, as any life, is a process and not a state. That process starts in the fecundation and not 5 months after it. Cheek cells do not develop into humans.).
-att(10785, root).
 
 arg(9237).
 text(9237, This is why we should have open borders and a path to citizenship. It would help the economy much more than forcing poor women to take their babies to term.).
@@ -995,22 +922,6 @@ att(10795, 9313).
 arg(10802).
 text(10802, The problem is the human intervention and not the death or life themselves. Spontaneous abortions can't be illegal. Regarding laws, cloning can't be compared to fecundation; there is no such thing as an undesired clone.).
 att(10802, 7784).
-
-arg(9967).
-text(9967, Law should be rooted in truth and justice rather than what society wants.  As Aku pointed out, society is divided on abortions. This does not mean there is no correct moral decision on it.  Look at slavery, which was accepted by society for years, but objectively is morally wrong. ).
-att(9967, root).
-
-arg(6752).
-text(6752, Is preventing consciousness from beginning morally equivalent to ending an already-established consciousness? Is it morally wrong for me to not turn on a non-running AI?).
-att(6752, root).
-
-arg(6395).
-text(6395, abortion isn't natural).
-att(6395, root).
-
-arg(7523).
-text(7523, The morning after pill is a drug that can be taken to effectively kill the very very beginnings of development.).
-att(7523, root).
 
 arg(6499).
 text(6499, It's hardly clear that this is substantially due to abortion.).
@@ -1028,33 +939,9 @@ arg(8566).
 text(8566, That position is only tenable if we first decree that the individual exists to serve society and government, rather than the conventional Western belief that society and government exist to serve and protect the individual.).
 att(8566, 7777).
 
-arg(6479).
-text(6479, Certainly there were obstacles to overcome focused on providing proper care to children, however, difficult obstacles is no reason to take someone's life.).
-att(6479, root).
-
 arg(9219).
 text(9219, when it really gets down to it, they are. Desire and intent have very little effect over whether or not a woman becomes pregnant. How many people try for years to have children to no avail? How many women get pregnant despite taking all reasonable precautions? ).
 support(9219, 7510).
-
-arg(10853).
-text(10853, Making abortion safer is unethical.).
-support(10853, root).
-
-arg(5714).
-text(5714, Abortion is a type of murder, which is illegal.).
-support(5714, root).
-
-arg(6289).
-text(6289, People will have abortions whether or not it is legal. If abortion is legal, people can get them done in a safe manner.).
-att(6289, root).
-
-arg(6619).
-text(6619, We have to control population.).
-att(6619, root).
-
-arg(5720).
-text(5720, Who is to control what a woman can/cannot do with her body?).
-att(5720, root).
 
 arg(6593).
 text(6593, A fetus does have the possibility of becoming conscious in the future (barring most medical issues)).
@@ -1088,10 +975,6 @@ arg(6406).
 text(6406, Maybe it can't be "illegal" in the same sense that murder is, i.e., there isn't a punishment for it. But there can be a "no war" policy. Just ask Switzerland who hasn't been in a war since 1847.).
 att(6406, 6384).
 
-arg(6399).
-text(6399, But it is not the woman's body. It is a completely different individual altogether that is missing out on a chance to live.).
-att(6399, 5720).
-
 arg(9365).
 text(9365, I agree that there are flaws in the death penalty system, but the people that have been wrongly executed were executed in accordance with the law, so at that time it was not murder.  If they are proven innocent after death, no one is charged with murder unless they were aware of their innocence.).
 att(9365, 8600).
@@ -1108,39 +991,65 @@ arg(6420).
 text(6420, I already explained this, the definition provides that as long as enough adult humans are capable of reproducing at a rate to maintain sustainability, human adults are "alive"... To refute your point though, and I hate being "that" guy... Read my reference here...).
 att(6420, 6405).
 
-arg(8967).
-text(8967, The cost to society of an unwanted child is much greater than the cost to society of a single abortion. And the people who oppose abortions are usually against the idea of having to pay for anything in society in the first place.).
-att(8967, root).
-
 arg(6797).
 text(6797, Then it assumes that a fetus is a person.).
 att(6797, 6775).
 
+arg(9967).
+text(9967, Law should be rooted in truth and justice rather than what society wants.  As Aku pointed out, society is divided on abortions. This does not mean there is no correct moral decision on it.  Look at slavery, which was accepted by society for years, but objectively is morally wrong. ).
+att(9967, 6198).
+
+arg(6752).
+text(6752, Is preventing consciousness from beginning morally equivalent to ending an already-established consciousness? Is it morally wrong for me to not turn on a non-running AI?).
+att(6752, 6593).
+
+arg(6395).
+text(6395, abortion isn't natural).
+att(6395, 5830).
+
+arg(7523).
+text(7523, The morning after pill is a drug that can be taken to effectively kill the very very beginnings of development.).
+att(7523, 5830).
+
+arg(6479).
+text(6479, Certainly there were obstacles to overcome focused on providing proper care to children, however, difficult obstacles is no reason to take someone's life.).
+att(6479, 6170).
+
+arg(6289).
+text(6289, People will have abortions whether or not it is legal. If abortion is legal, people can get them done in a safe manner.).
+att(6289, root).
+
+arg(6619).
+text(6619, We have to control population.).
+att(6619, root).
+
+arg(5720).
+text(5720, Who is to control what a woman can/cannot do with her body?).
+att(5720, root).
+
+arg(8967).
+text(8967, The cost to society of an unwanted child is much greater than the cost to society of a single abortion. And the people who oppose abortions are usually against the idea of having to pay for anything in society in the first place.).
+att(8967, root).
+
+arg(10853).
+text(10853, Making abortion safer is unethical.).
+support(10853, root).
+
 arg(6392).
 text(6392, This justifies killing a toddler if it could potentially have a hard life.).
-att(6392, root).
+att(6392, 6170).
 
 arg(8669).
 text(8669, In situations for long term comas, there is, in some countries, the opportunity for the immediate family to decide to take the individual off life support.).
-att(8669, root).
+att(8669, 6414).
 
-arg(7324).
-text(7324, It's not tenable to value all human cellular life equally.  We can't possible follow the chain back and value fetuses, embryos, eggs, sperm, etc. equally to a post-birth human.  There must be a line drawn somewhere, it's merely a case of where to draw it.).
-att(7324, root).
-
-arg(6625).
-text(6625, I would bite the bullet and say yes, they are less important.
-
-Intuition pump: a plane is going to crash and there is one parachute left. Who should take it, the able-bodied or the disabled twin?).
-att(6625, root).
+arg(5714).
+text(5714, Abortion is a type of murder, which is illegal.).
+support(5714, root).
 
 arg(7674).
 text(7674, I didn't propose that human DNA means total moral worth.  I proposed that it means a right to life.  ).
 att(7674, 6541).
-
-arg(9155).
-text(9155, Not donating an organ just fails to save someone who is dying. Abortion involves separating a healthy child from what it requires to live. Abortion is not an act of “failing to save” but is an act of killing that deprives a child of its right to live safely.).
-att(9155, root).
 
 arg(6633).
 text(6633, We would also say a single human cell - or even millions of them - do not have moral worth; otherwise, our prime moral directive might be to stop the shedding of skin cells(!).).
@@ -1166,11 +1075,6 @@ arg(7074).
 text(7074, Having human DNA cannot be a premise for moral worth: this excludes the possibility of nonhumans having moral worth. ).
 att(7074, 5892).
 
-arg(9159).
-text(9159, What is hazy about the following? A fetus is a living human at an early stage of development.  It is alive because it is growing. It is human because it has human parents and human DNA. And unlike sperm or organs, it is capable of growing into an adult.
-No need to bring in awareness,ability,age,etc).
-att(9159, root).
-
 arg(9972).
 text(9972, On the contrary, I acknowledged the obstacles as something to consider.  However you ignored my premise that these obstacles are no reason to kill.  Do you think parents that currently have children should have the right to kill them if they find themselves in a difficult situation?).
 att(9972, 7710).
@@ -1183,14 +1087,6 @@ arg(9512).
 text(9512, We can't identify the location of consciousness at all. ).
 att(9512, 6586).
 
-arg(6174).
-text(6174, Children have different rights under law than adults. Unborn humans should be different as well.  A parent makes decisions for their children, they should therefore also be able to decide to end a pregnancy if they decide being born would be a negative experience for the child for any reason.).
-att(6174, root).
-
-arg(6519).
-text(6519, It all comes to reducing the aggregate suffering. You should give the opportunity to awaken mainly because of the suffering of the relatives and friends who are awake. (Most) coma patients couldn't care less as they are completely blacked out.).
-att(6519, root).
-
 arg(6415).
 text(6415, Placing a hierarchy on which life is more important is a very slippery slope. Perhaps severely disabled people are less important?).
 att(6415, 6190).
@@ -1199,21 +1095,9 @@ arg(7456).
 text(7456, Following this chain of value would mean that intentionally harming a human male in a way that would cause damage to his sperm could be considered murder.).
 support(7456, 7324).
 
-arg(7461).
-text(7461, But does a kidney go on to become a walking, talking, and conscious human being?).
-att(7461, root).
-
 arg(6562).
 text(6562, To be living, one must have life. One of the seven characteristics of life accepted by science is the capability to reproduce either sexually or asexually. Clearly neither an embryo nor a fetus is capable of meeting this criterion, nor for that matter are young children.).
 att(6562, 5892).
-
-arg(6160).
-text(6160, your reference article just rearticulates what a zygote is and when the term embryo is used, it fails to prove what a human being is, which is defined in part as a living person, which, arguably, an embryo or fetus is not.).
-att(6160, root).
-
-arg(6141).
-text(6141, A zygote is not sentient, and therefore not a human being. It has no soul or mind.).
-att(6141, root).
 
 arg(6261).
 text(6261, War is also a type of murder, and it's not illegal.  In fact, we give medals to our soldiers and call them heroes. ).
@@ -1226,6 +1110,18 @@ att(5790, 5720).
 arg(6477).
 text(6477, Nearly all somatic (adult) cells are human beings by that definition. Nearly all cells divide, and all cells must receive nutrients in order to survive, and obviously all cells also carry human DNA. By this definition, your skin cells are just as human as a zygote.).
 att(6477, 5892).
+
+arg(6413).
+text(6413, By your definition, a corpse is also a human as it came from human parents and has human DNA. It is not sufficient in this context.).
+att(6413, 5892).
+
+arg(5794).
+text(5794, The rights of a mother should not outweigh the rights of the unborn baby in her womb, just as they would not outweigh the rights of a born baby.).
+att(5794, 5720).
+
+arg(6399).
+text(6399, But it is not the woman's body. It is a completely different individual altogether that is missing out on a chance to live.).
+att(6399, 5720).
 
 arg(6170).
 text(6170, Allowing children to be born and grow up in an environment that cannot support them is ultimately worse than removing a fetus which is not sentient yet.).
@@ -1252,6 +1148,41 @@ text(6414, Consciousness should not be given moral weight, because that leads to
 Should a coma patient's estate be divided up among their conscious beneficiaries? Or should we permit the unconscious person the opportunity to awaken?).
 att(6414, 6190).
 
+arg(6625).
+text(6625, I would bite the bullet and say yes, they are less important.
+
+Intuition pump: a plane is going to crash and there is one parachute left. Who should take it, the able-bodied or the disabled twin?).
+att(6625, 6415).
+
+arg(9155).
+text(9155, Not donating an organ just fails to save someone who is dying. Abortion involves separating a healthy child from what it requires to live. Abortion is not an act of “failing to save” but is an act of killing that deprives a child of its right to live safely.).
+att(9155, 6897).
+
+arg(9159).
+text(9159, What is hazy about the following? A fetus is a living human at an early stage of development.  It is alive because it is growing. It is human because it has human parents and human DNA. And unlike sperm or organs, it is capable of growing into an adult.
+No need to bring in awareness,ability,age,etc).
+att(9159, 7768).
+
+arg(6174).
+text(6174, Children have different rights under law than adults. Unborn humans should be different as well.  A parent makes decisions for their children, they should therefore also be able to decide to end a pregnancy if they decide being born would be a negative experience for the child for any reason.).
+att(6174, 5747).
+
+arg(6519).
+text(6519, It all comes to reducing the aggregate suffering. You should give the opportunity to awaken mainly because of the suffering of the relatives and friends who are awake. (Most) coma patients couldn't care less as they are completely blacked out.).
+att(6519, 6414).
+
+arg(7461).
+text(7461, But does a kidney go on to become a walking, talking, and conscious human being?).
+att(7461, 6897).
+
+arg(6160).
+text(6160, your reference article just rearticulates what a zygote is and when the term embryo is used, it fails to prove what a human being is, which is defined in part as a living person, which, arguably, an embryo or fetus is not.).
+att(6160, 5747).
+
+arg(6141).
+text(6141, A zygote is not sentient, and therefore not a human being. It has no soul or mind.).
+att(6141, 5747).
+
 arg(6145).
 text(6145, If receiving nutrients and growing via cellular reproduction is all that distinguishes a being that is okay to kill from one that is not, it would be just as immoral to squash a fly as it is to abort a fetus.).
 att(6145, 5892).
@@ -1268,23 +1199,9 @@ arg(12761).
 text(12761, Being a human is a crucial consideration. I agree that it's not the only one, but it should be where we start. *This is a little baby we're talking about.* Only after that is agreed can more difficult considerations be made, like what to do if the *baby* is putting the mother's life at risk.).
 att(12761, 12728).
 
-arg(12766).
-text(12766, I take into account the general suffering, not only the pain of the person.
-If it was legal to kill someone in their sleep, people would be frustrated and in fear to be killed, what would create a lot of suffering.).
-att(12766, root).
-
-arg(12768).
-text(12768, Human life isn’t precious, a lot of people live a nightmare and want to die.
-Suffering is bad, happiness is good, life is just a container, it don’t have value outside of it.).
-att(12768, root).
-
 arg(12788).
 text(12788, If it were a 1 year old baby, would you say that it is more important that the mother?  Discrimination based on age is unjust.  Similarly, an even younger unborn baby should be given the same right to life that we are have.).
 att(12788, 12646).
-
-arg(12790).
-text(12790, The best way to prevent abortion is by providing proper natal care, day care, maternal leave and health care for expectant mothers. Making it so that pregnancy isn't a financial and social death sentence is the best prevention for abortion.).
-att(12790, root).
 
 arg(12150).
 text(12150, What about cases of rape? ).
@@ -1306,10 +1223,6 @@ arg(12793).
 text(12793, Murder is illegal for a reason. Even though people are going to break the law is no reason to make it legal. The same reasoning applies to abortion.
 ).
 att(12793, 12790).
-
-arg(7847).
-text(7847, I'm actually ok with it.).
-att(7847, root).
 
 arg(6339).
 text(6339, Being a human is not contingent on being sentient, and scientists have determined that fetuses are sentient by at least week eight.).
@@ -1360,13 +1273,13 @@ arg(7654).
 text(7654, In reference to your comment about unwanted babies, would you propose killing all of the born babies that are currently in poor living situations?  Of course not, therefore your argument does not stand.  Yes, there needs to be support for the children, but killing them is not the answer.).
 att(7654, 7096).
 
-arg(9215).
-text(9215, You can kill innocent people on your property if you can argue a reasonable belief that they are a threat to your well being, which can be argued in the case of abortion where a child can greatly change life circumstances and lead to a decrease in quality of life amongst many other things. ).
-att(9215, root).
-
 arg(8710).
 text(8710, Then within the United States at least, the majority of abortions should be legal. The majority consistently favors legal abortions during the first trimester in general, as well as in cases of rape, health concerns, and when there is evidence the fetus may be physically or mentally impaired.).
 att(8710, 6198).
+
+arg(13824).
+text(13824, you cannot argue if an idea is true or false based on pragmatism. ).
+att(13824, 12868).
 
 arg(6153).
 text(6153, However, one would have to reconsider the basis of the term murder, or the word human. Based on that logic, so too would disconnecting life support under any circumstances be considered murder.).
@@ -1387,6 +1300,23 @@ text(5736, your definition of murder...
 A) Zygotes are not human beings.
 B) Abortion is in itself the "justification or excuse" for the cause.).
 att(5736, 5714).
+
+arg(12768).
+text(12768, Human life isn’t precious, a lot of people live a nightmare and want to die.
+Suffering is bad, happiness is good, life is just a container, it don’t have value outside of it.).
+att(12768, 12759).
+
+arg(12790).
+text(12790, The best way to prevent abortion is by providing proper natal care, day care, maternal leave and health care for expectant mothers. Making it so that pregnancy isn't a financial and social death sentence is the best prevention for abortion.).
+att(12790, root).
+
+arg(9215).
+text(9215, You can kill innocent people on your property if you can argue a reasonable belief that they are a threat to your well being, which can be argued in the case of abortion where a child can greatly change life circumstances and lead to a decrease in quality of life amongst many other things. ).
+att(9215, 9162).
+
+arg(7847).
+text(7847, I'm actually ok with it.).
+att(7847, root).
 
 arg(13810).
 text(13810, However cracking down on abortions requires a special kind of enforcement. Existing Health, Adoption, Child care, and Police institutions are not mature enough yet to handle such enforcement sensitively. So currently enforcement against abortions would have brutal side effects.  ).
@@ -1468,9 +1398,44 @@ arg(6323).
 text(6323, If you read the above arguments, then that is absolutely what that says. Human beings aren't animal parasites, young children and infants are still parasites, in this case the are obligate animal, parasites, relying on another animal host (adults) for sustenance, and commensalistic travel.).
 support(6323, 6253).
 
-arg(7305).
-text(7305, Making abortion illegal means depriving pregnant women of bodily autonomy. For example, carrying a pregnancy to term is 14 times more likely to end in a woman's death than receiving a legal abortion. Making abortion illegal forces women to assume that risk against their will.).
-att(7305, root).
+arg(7768).
+text(7768, The hypocrisy you're describing doesn't apply here.
+
+The defining line of when a conglomeration of cells becomes a person is hazy. Most abortions happen well before the cells take shape and create a functioning human. The few that happen late-term are because this child has died in the womb.).
+att(7768, 6412).
+
+arg(6469).
+text(6469, morals are subjective and not the point of my argument. however, if we do endulge them, is it morally acceptable to take the life of a murderer? They are some human being's child. What about that chicken at kfc? It is the child of some hen and a rooster. ideals make for proofless arguments.).
+att(6469, 6429).
+
+arg(6310).
+text(6310, Disconnecting life support under the circumstance that the supported individual gave some form of consent prior to being incapacitated is not murder.).
+att(6310, 6153).
+
+arg(6798).
+text(6798, Your site for the definition of murder cites no legal excuse as a defining characteristic. However, as abortion is legal, this is a false equivalence. ).
+att(6798, 5714).
+
+arg(8695).
+text(8695, That wasn't the argument. 'Innocence' has no relevance (additionally, who is to say that the mother is not also 'innocent'); rather, we are discussing whether the state ought to violate the bodily integrity of one individual to save the live of another. ).
+att(8695, 8657).
+
+arg(6252).
+text(6252, The definition holds that reproduction is capable of occurring with an error rate below the sustainability threshold. Essentially, as long as enough adult humans are capable, sterile adult humans may still be called living.).
+att(6252, 6230).
+
+arg(9217).
+text(9217, Like it or not, the fetus does not have a right to force someone else to, for lack of a better word, "house" them even if it means it will save their life. A person isn't required to let a stranger stay in their home even if putting them out would lead to their death are they? ).
+att(9217, 5794).
+
+arg(6575).
+text(6575, Even if 100% of humanity had no recollection of the womb, this would not necessarily lead to the conclusion that we are not sentient while in the womb.  We forget a lot of things that we would still say we were sentient while doing.).
+att(6575, 6503).
+
+arg(6411).
+text(6411, Determination of sentience Is by its definition- self awareness- a very subjective and shaky subject. The only way to measure is, to my knowledge, through self reporting. 
+I should like to see your scientific source for this determination. I can't seem to find it. ).
+att(6411, 6339).
 
 arg(7717).
 text(7717, To qualify as human, requires a functional neural system.  This happens at 5 months.  Before then, the embryo is not an actual human being.
@@ -1482,13 +1447,48 @@ Potential humans are not the same as a actual human being.
 Abortion is not murder before 5 Months and is legal.).
 att(7717, root).
 
-arg(6469).
-text(6469, morals are subjective and not the point of my argument. however, if we do endulge them, is it morally acceptable to take the life of a murderer? They are some human being's child. What about that chicken at kfc? It is the child of some hen and a rooster. ideals make for proofless arguments.).
-att(6469, 6429).
+arg(10133).
+text(10133, There are a lot of historical situations when that was an acceptable outcome. Consider: you're trapped in a situation--zombie attack--where you can get away but there is a likely chance that you're young child will be violently killed. Would it be wrong to kill them painlessly yourself?).
+att(10133, 9976).
 
-arg(7768).
-text(7768, The hypocrisy you're describing doesn't apply here.
+arg(6181).
+text(6181, To be living, one must have life. One of the seven characteristics of life accepted by science is the capability to reproduce either sexually or asexually. Clearly neither an embryo nor a fetus is capable of meeting this criterion, nor for that matter are young children.).
+support(6181, 6160).
 
-The defining line of when a conglomeration of cells becomes a person is hazy. Most abortions happen well before the cells take shape and create a functioning human. The few that happen late-term are because this child has died in the womb.).
-att(7768, 6412).
+arg(12839).
+text(12839, It shouldn't matter how safe abortion is. Either it's ethically wrong or ethically right. If it's ethically right, then it should be as safe as possible. If it's ethically wrong, then society has no obligation to make it safer, but enforcing laws by making more people who break them die is messed up).
+att(12839, 10864).
+
+arg(9528).
+text(9528, True, even if the guest is invited in for their blood transfusion, it is the blood's host's right to decline the procedure. Would it be rude to interrupt the procedure or recant at the last second, sure. Morally wrong if it already started, it depends on the circumstances. should it be illegal, no. ).
+support(9528, 9224).
+
+arg(9968).
+text(9968, You have a point, but law should not be determined simply by majority consensus, as evidenced by slavery laws from years ago.).
+att(9968, 8710).
+
+arg(12320).
+text(12320, Murder only makes sense if the victim is established as a human, accountable in a census.  In this case the victim is a parasitic entity which the state cannot recognize as a human, since its existence is contingent on the actions of the mother and her biology:  It is part of the mother's body.).
+att(12320, 5714).
+
+arg(10843).
+text(10843, Sperm cells do (sometimes) develop into humans. By your premise, contraception is murder. Contraception is not murder, so pre-human cells must not be murderable.).
+att(10843, 10785).
+
+arg(10785).
+text(10785, So at 4.99 months it is not murder but at 5 months it is? How can murder be defined by WHEN it happened rather than by the ACT itself? Human life, as any life, is a process and not a state. That process starts in the fecundation and not 5 months after it. Cheek cells do not develop into humans.).
+att(10785, 7717).
+
+arg(7324).
+text(7324, It's not tenable to value all human cellular life equally.  We can't possible follow the chain back and value fetuses, embryos, eggs, sperm, etc. equally to a post-birth human.  There must be a line drawn somewhere, it's merely a case of where to draw it.).
+att(7324, 6415).
+
+arg(12766).
+text(12766, I take into account the general suffering, not only the pain of the person.
+If it was legal to kill someone in their sleep, people would be frustrated and in fear to be killed, what would create a lot of suffering.).
+att(12766, 12759).
+
+arg(7305).
+text(7305, Making abortion illegal means depriving pregnant women of bodily autonomy. For example, carrying a pregnancy to term is 14 times more likely to end in a woman's death than receiving a legal abortion. Making abortion illegal forces women to assume that risk against their will.).
+att(7305, root).
 

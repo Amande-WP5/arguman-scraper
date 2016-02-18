@@ -1,10 +1,6 @@
 arg(root).
 text(root, All foods besides vitamins and calorie-dense paste should be abolished).
 
-arg(9537).
-text(9537, all of these jobs could easily be repositioned into the vitamin and calorie-dense paste industry).
-att(9537, root).
-
 arg(10069).
 text(10069, Tasty food makes people happy. ).
 att(10069, root).
@@ -13,10 +9,6 @@ arg(9364).
 text(9364, Your poop would smell really bad from all the vitamins.).
 att(9364, root).
 
-arg(9088).
-text(9088, It would solve the obesity crisis and stop a plethora of other health defects).
-support(9088, root).
-
 arg(9368).
 text(9368, it would start a plethora of other health defects.).
 att(9368, 9088).
@@ -24,6 +16,14 @@ att(9368, 9088).
 arg(9100).
 text(9100, It would also cause a huge number of health issues as you wouldn't receive a well balanced diet).
 att(9100, 9088).
+
+arg(9537).
+text(9537, all of these jobs could easily be repositioned into the vitamin and calorie-dense paste industry).
+att(9537, 9179).
+
+arg(9088).
+text(9088, It would solve the obesity crisis and stop a plethora of other health defects).
+support(9088, root).
 
 arg(9101).
 text(9101, You're restricting peoples free will).

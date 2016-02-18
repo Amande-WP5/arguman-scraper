@@ -1,3 +1,9 @@
 arg(root).
 text(root, Film is better than digital).
 
+arg(17914).
+text(17914, Digital video is easier to work with, more flexible, and cheaper to use.
+
+Maybe you should elaborate, better by what standards are we talking about?  ).
+att(17914, root).
+

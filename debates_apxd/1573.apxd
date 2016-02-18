@@ -1,11 +1,11 @@
 arg(root).
 text(root, I should be allowed to D3str0yR ur pu55y evrynite.. m'i'rite).
 
-arg(8340).
-text(8340, The decision for a pussy to be destroyed or not  has to be made by the pussys owner).
-att(8340, root).
-
 arg(8338).
 text(8338, "Destroying" a pussy properly can only happen once).
 att(8338, root).
+
+arg(8340).
+text(8340, The decision for a pussy to be destroyed or not  has to be made by the pussys owner).
+att(8340, root).
 

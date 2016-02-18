@@ -3,23 +3,27 @@ text(root, There is no such thing as an unselfish act).
 
 arg(7962).
 text(7962, The original reason he done that is his will to not see the old man die).
-att(7962, root).
-
-arg(7118).
-text(7118, Everything we do in some way benefits ourselves.  Ex: you give up smoking to make your wife happy which in turn causes you less stress/ makes you feel like you are doing the right thing).
-support(7118, root).
+att(7962, 7499).
 
 arg(8005).
 text(8005, isn't being resolute of arrogance another way of acchieving something selfish? Since arrogance puts the person in an urge, even if it is not to obtain something, in a way, it is to selfishly change from this ''state of arrogance'' that the person will act.).
-att(8005, root).
+att(8005, 7502).
 
 arg(8016).
 text(8016, Considering the statement is talking about an unselfish act, it would have to be completely unselfish for it to contradict this argument. Saving someone is highly rewarding and also lets the person's mind be free of remorse, which definitely makes it benefit the one who does the act.).
-att(8016, root).
+att(8016, 7499).
 
 arg(7499).
 text(7499, An act can have the byproduct of benefiting oneself (I.e. feeling you did the right thing) without that product being the motivating driver. E.g. You help an elderly person up who has fallen while crossing the street because you are worried for their safety. After, you feel good for helping.).
 att(7499, 7118).
+
+arg(8098).
+text(8098, Here's a source! TL;DR Self preservation is the key to survival of the species. The desire to stay alive is a selfish instinct. "Survival of the Fittest").
+support(8098, 8016).
+
+arg(7118).
+text(7118, Everything we do in some way benefits ourselves.  Ex: you give up smoking to make your wife happy which in turn causes you less stress/ makes you feel like you are doing the right thing).
+support(7118, root).
 
 arg(7502).
 text(7502, People can be truly altruist, if they take no pride or property upon their actions. It is possible to be resolute of arrogance while also doing good deeds.).
@@ -28,8 +32,4 @@ att(7502, root).
 arg(7034).
 text(7034, People perform acts of altruism because they allow the person doing the good deeds to feel good about themselves, intrinsically making them selfish.).
 support(7034, root).
-
-arg(8098).
-text(8098, Here's a source! TL;DR Self preservation is the key to survival of the species. The desire to stay alive is a selfish instinct. "Survival of the Fittest").
-support(8098, 8016).
 

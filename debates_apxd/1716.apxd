@@ -1,10 +1,6 @@
 arg(root).
 text(root, Philosophy will only confuse humanity).
 
-arg(10962).
-text(10962, Humans have been confused since the dawn of humans. ).
-att(10962, root).
-
 arg(10650).
 text(10650, Humanity was confused and that's when philosophy appeared. No one has true answers, and that's why it's confusing. If we didn't know any philosophies then we'd still be confused.).
 att(10650, root).
@@ -24,4 +20,8 @@ att(9855, root).
 arg(9839).
 text(9839, Philosophy has helped humanity find answers to some seriously challenging questions. Rational philosophical discussions are crucial for our society.).
 att(9839, root).
+
+arg(10962).
+text(10962, Humans have been confused since the dawn of humans. ).
+att(10962, root).
 

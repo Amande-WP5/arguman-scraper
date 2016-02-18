@@ -1,0 +1,31 @@
+arg(root).
+text(root, Feminism needs to be re-branded.).
+
+arg(18661).
+text(18661, As a movement, feminism has a long history, literature, and support. Rebranding may cause the alienation of those who are already feminists and removes the impetus shared by liberation movements to drive political change through cutting itself out from the past.).
+att(18661, root).
+
+arg(18660).
+text(18660, This will only seed distrust and give ammunition to people who believe in a feminist conspiracy.).
+att(18660, root).
+
+arg(18610).
+text(18610, The current sectors/ sub-sectors of feminism don't necessarily focus on the main purpose of feminism (which is equality of women), but rather, more on politics.).
+support(18610, root).
+
+arg(18698).
+text(18698, I think you would write "which is equality between men and women".).
+att(18698, 18610).
+
+arg(18663).
+text(18663, How? Quite the opposite actually. Also, do you really believe that it would seed more distrust than the current feminism we have?).
+att(18663, 18660).
+
+arg(18662).
+text(18662, Don't you think that feminism needs to be modernized to fit in with today's society, today's issue, and the problems that females need to be addressed today? The current 'feminism' does not stretch thus far, which is the reason why there are HUNDREDS of little groups of feminism created today. ).
+att(18662, 18661).
+
+arg(18635).
+text(18635, Establishing gender equality, essentially, is a political goal. (Not just a social goal.)).
+att(18635, 18610).
+

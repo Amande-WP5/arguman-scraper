@@ -1,45 +1,17 @@
 arg(root).
 text(root, This statement is false. ).
 
-arg(12581).
-text(12581, You can't deduct if it true of false. The premise may be conventionally true or false, so it can be used in other deductions.).
-support(12581, root).
-
 arg(12428).
 text(12428,  for example Tarski explain that liar paradox).
 att(12428, root).
-
-arg(12637).
-text(12637, Some paradoxes can appear to be both true and false. Sometimes you can't prove which one of them they are.).
-att(12637, root).
 
 arg(12415).
 text(12415, It's both false and true.).
 att(12415, root).
 
-arg(12580).
-text(12580, "This sentence is false" can be considered an axiom. ).
-att(12580, root).
-
-arg(12514).
-text(12514, I'm going to go with... True.).
-att(12514, root).
-
-arg(12446).
-text(12446, This statement disproves that.).
-att(12446, root).
-
 arg(12632).
 text(12632, Nothing can be false and true.).
 att(12632, 12415).
-
-arg(12643).
-text(12643, "this" don’t refer to "this statement is false", because "A = not A" is false.
-If you said it explicitly:
-P : "P is false", you get "P : "P is false"" is false.
-
-Then the negation of "this statement", don’t imply the negation of "this statement is false".).
-att(12643, root).
 
 arg(12658).
 text(12658, It can’t, because "this statement" is ambiguous.
@@ -91,13 +63,41 @@ And i can say it is false that you prove i am wrong.
 Do you see the madness it is, if something could be false and true ?).
 att(12784, 12781).
 
-arg(12336).
-text(12336, I refuse to acknowledge this question was asked.).
-att(12336, root).
-
 arg(12337).
 text(12337, By commenting on the post I have acknowledged its existence, leading to a contradiction.  ).
 att(12337, 12336).
+
+arg(12581).
+text(12581, You can't deduct if it true of false. The premise may be conventionally true or false, so it can be used in other deductions.).
+support(12581, 12580).
+
+arg(12580).
+text(12580, "This sentence is false" can be considered an axiom. ).
+att(12580, root).
+
+arg(12637).
+text(12637, Some paradoxes can appear to be both true and false. Sometimes you can't prove which one of them they are.).
+att(12637, 12632).
+
+arg(12514).
+text(12514, I'm going to go with... True.).
+att(12514, root).
+
+arg(12446).
+text(12446, This statement disproves that.).
+att(12446, root).
+
+arg(12643).
+text(12643, "this" don’t refer to "this statement is false", because "A = not A" is false.
+If you said it explicitly:
+P : "P is false", you get "P : "P is false"" is false.
+
+Then the negation of "this statement", don’t imply the negation of "this statement is false".).
+att(12643, root).
+
+arg(12336).
+text(12336, I refuse to acknowledge this question was asked.).
+att(12336, root).
 
 arg(12823).
 text(12823, it is.).

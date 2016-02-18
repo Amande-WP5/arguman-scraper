@@ -1,66 +1,13 @@
 arg(root).
 text(root, Men and Women are fundamentally different. Gender is not just a construct of society).
 
-arg(6090).
-text(6090, this premise has no bearing because you haven't properly outlined the differences between the operation of the male brain and female brain
-).
-att(6090, 5941).
-
-arg(5996).
-text(5996, These cases are disorders and outliers, meaning that when speaking in generalities these should be considered exceptions rather than evidence, in the same way those lacking chromosomes do not dictate themes of human communication.).
-att(5996, root).
-
-arg(9913).
-text(9913, This could be tested by cloning someone with Klinefelter syndrome (XXY) multiple times, and removing an X chromosome in some in the zygotes of the clones, and a Y chromosome in others. Scientific evidence implies that they will be born with different genitalia, i.e., are fundamentally different. ).
-att(9913, root).
-
-arg(6000).
-text(6000, These are generally concerning roles of men and women, which are not the entire idea of gender.  Gender is also pervasive attitudes and general behaviors, not just the jobs or roles one chooses (or is pressured to) take on.  Therefore a cultural 'gender' is an accessory to the biological gender.).
-att(6000, root).
-
-arg(5918).
-text(5918, Here's a source!).
-support(5918, root).
-
-arg(6003).
-text(6003, This could be explained as the reversal of cause and effect.  Instead of "society causes gender", it is also possible that "gender causes society".  Since biology definitively predates civilization and culture, it is reasonable to say that modern gender is a result of biological gender.).
-att(6003, root).
-
-arg(5866).
-text(5866, There are multiple combinations of X and Y chromosomes. However all of them have a binary outcome, male or female.).
-support(5866, root).
-
-arg(5925).
-text(5925, Even so, a less masculine man is still a man by biology and brain wiring, and cannot be referred to as a woman. The same holds true for females. ).
-att(5925, root).
-
-arg(6956).
-text(6956, This theory can only be argued and tested within a society which implicitly believes men and women are fundamentally different. Thus, it's unlikely and difficult to create experiments which could truly test this in an unbiased manner. ).
-att(6956, root).
-
-arg(5927).
-text(5927, The archetypes of male and female persons vary significantly between different cultures, subcultures, heterotopiae and times. This suggests that personality traits and behavioral patterns associated with either sex are subject to the environment a person is socialized in.).
-att(5927, root).
-
-arg(5883).
-text(5883, There's variation at play, so you can definitely see some men who are less masculine than the 'archetypal' man, some women who are less feminine than the average woman, etc. ).
-att(5883, root).
-
 arg(5939).
 text(5939, Your source directly contradicts this premise. Also, genetic sex is not the same thing as gender, rendering this premise irrelevant. ).
 att(5939, 5866).
 
-arg(5941).
-text(5941, These expectations are not based out of thin air. They exist because they follow the normal operation of a male/female brain. ).
-att(5941, root).
-
 arg(5944).
 text(5944, There are rare cases of hermaphrodites with varying degrees of physically recognizable traits of both sexes. The existence of these people falsify a strictly  binary biological classification of sexes.).
 att(5944, 5925).
-
-arg(5811).
-text(5811, Sexual hormones effect how the brain develops depending on sex. ).
-support(5811, root).
 
 arg(6971).
 text(6971, A fetus' sex is not the sole determinant of the proportion of different hormones they are exposed to in the womb. Other environmental factors such as diet and pollution can lead to changes in hormone levels during development. ).
@@ -70,35 +17,69 @@ arg(5949).
 text(5949, Those differences are not the cause of differences in gender. Sex hormones affect brain development the same across cultures with varying ideas of gender.).
 att(5949, 5811).
 
+arg(6165).
+text(6165, The differences lie in hormones, which appear in different proportions in men and women.  Some hormones, such as testosterone and estrogen, effect brain development.  Since these appear in different proportions, the structures of male and female brains are different.).
+att(6165, 6090).
+
+arg(5996).
+text(5996, These cases are disorders and outliers, meaning that when speaking in generalities these should be considered exceptions rather than evidence, in the same way those lacking chromosomes do not dictate themes of human communication.).
+att(5996, 5944).
+
+arg(6956).
+text(6956, This theory can only be argued and tested within a society which implicitly believes men and women are fundamentally different. Thus, it's unlikely and difficult to create experiments which could truly test this in an unbiased manner. ).
+att(6956, root).
+
+arg(6000).
+text(6000, These are generally concerning roles of men and women, which are not the entire idea of gender.  Gender is also pervasive attitudes and general behaviors, not just the jobs or roles one chooses (or is pressured to) take on.  Therefore a cultural 'gender' is an accessory to the biological gender.).
+att(6000, 5927).
+
+arg(5918).
+text(5918, Here's a source!).
+support(5918, 5811).
+
+arg(6003).
+text(6003, This could be explained as the reversal of cause and effect.  Instead of "society causes gender", it is also possible that "gender causes society".  Since biology definitively predates civilization and culture, it is reasonable to say that modern gender is a result of biological gender.).
+att(6003, 5900).
+
+arg(5927).
+text(5927, The archetypes of male and female persons vary significantly between different cultures, subcultures, heterotopiae and times. This suggests that personality traits and behavioral patterns associated with either sex are subject to the environment a person is socialized in.).
+att(5927, root).
+
+arg(5925).
+text(5925, Even so, a less masculine man is still a man by biology and brain wiring, and cannot be referred to as a woman. The same holds true for females. ).
+att(5925, 5883).
+
+arg(5883).
+text(5883, There's variation at play, so you can definitely see some men who are less masculine than the 'archetypal' man, some women who are less feminine than the average woman, etc. ).
+att(5883, root).
+
+arg(5811).
+text(5811, Sexual hormones effect how the brain develops depending on sex. ).
+support(5811, root).
+
+arg(5941).
+text(5941, These expectations are not based out of thin air. They exist because they follow the normal operation of a male/female brain. ).
+att(5941, 5900).
+
+arg(9913).
+text(9913, This could be tested by cloning someone with Klinefelter syndrome (XXY) multiple times, and removing an X chromosome in some in the zygotes of the clones, and a Y chromosome in others. Scientific evidence implies that they will be born with different genitalia, i.e., are fundamentally different. ).
+att(9913, root).
+
+arg(5866).
+text(5866, There are multiple combinations of X and Y chromosomes. However all of them have a binary outcome, male or female.).
+support(5866, root).
+
 arg(5950).
 text(5950, There are common themes across all cultures and times. Such as males being providers and protectors. And these themes are based on biology since males have more physical strength than females. ).
 att(5950, 5927).
-
-arg(5900).
-text(5900, Society expects certain behaviors of each gender, and these expected behaviors are a construct of society.).
-att(5900, root).
-
-arg(5820).
-text(5820, I love vagina).
-att(5820, root).
 
 arg(5958).
 text(5958, That points to evidence of more than two sexes in some cases, but does not contradict the original premise that biologically normal males and females are more than a social construct ).
 att(5958, 5944).
 
-arg(8126).
-text(8126, The first sentence is correct. The second is not.
-
-Pink is not feminine. Blue is not masculine. The moment you are born you are assigned one of these colors based solely on your genitals, which you have no control over. A color will modify your interactions with other humans your entire childhood.).
-att(8126, root).
-
 arg(5974).
 text(5974, If men and women are better suited for different tasks, then it is reasonable to have a higher degree of expectation for each in regard to those tasks, and the behaviors commonly associated with them.).
 att(5974, 5900).
-
-arg(8162).
-text(8162, Our current society has been doing so for at least the past couple of years, blurring the lines between female and male and even adding in new gender identities that are not strictly male or female.).
-att(8162, root).
 
 arg(5977).
 text(5977, there are constant themes for males and females across all cultures and times. Such as males being the protectors in case of emergency. This is due to the biological nature of males being physically stronger than females, and this is not just a social construct).
@@ -106,7 +87,7 @@ att(5977, 5949).
 
 arg(7301).
 text(7301, 'Providing' is not a universal male role across all cultures. In hunter/gatherer and horticultural societies, women are often responsible for providing food by farming/gardening, gathering and even hunting. Not to mention preparing food and crafting necessary items. ).
-att(7301, root).
+att(7301, 6734).
 
 arg(7310).
 text(7310, What you define is biological sex and not gender, making your statement irrelevant.).
@@ -124,13 +105,10 @@ arg(7013).
 text(7013, Even though it is difficult indeed to produce an unbiased experiment to this effect, that does not necessarily invalidate the original claim.).
 att(7013, 6956).
 
-arg(6861).
-text(6861, Mammals and great apes display clear behavioural differences between the sexes. As we are also great-apes it is likely that we share this trait.).
-support(6861, root).
-
-arg(8018).
-text(8018, While that is true for some cultures for children pre-puberty, no culture has blurred distinctions for adult males and females.  ).
-att(8018, root).
+arg(6090).
+text(6090, this premise has no bearing because you haven't properly outlined the differences between the operation of the male brain and female brain
+).
+att(6090, 5941).
 
 arg(5989).
 text(5989, These may just be ideas concerning the roles of men and women.  Gender is more an idea of constant themes of behavior, rather than just the societal roles, although gender certainly does effect those too.).
@@ -140,7 +118,7 @@ arg(7497).
 text(7497, >"Almost all civilisations throughout time and places have exhibited roughly the same gender roles: the man provides for the woman and his family."
 
 Citation needed).
-att(7497, root).
+att(7497, 6734).
 
 arg(6098).
 text(6098, You don't get any).
@@ -152,11 +130,11 @@ att(7025, 5820).
 
 arg(6237).
 text(6237, Male brains utilize more gray matter which are localized areas of the brain which help with focus and attentiveness. Female brains use white matter which is what connects gray matter and better suited for multi-tasking. Also, female brains have a larger hippocampus than males. READ SOURCE!!!).
-support(6237, root).
+support(6237, 6165).
 
 arg(8371).
 text(8371, There are multiple cultures where not just in human society, but also in the animal kingdom where the female species are the main providers. Just because it is what is mostly seen doesn't mean it's the only option or necessarily the "right" option - both can thrive.).
-att(8371, root).
+att(8371, 6734).
 
 arg(10136).
 text(10136, the mother's body greatly contributes to hormonal exposure as well. Studies have shown that with each subsequent boy a woman has, her body produces more and more estrogen, which leads to more feminized boys. ).
@@ -166,10 +144,6 @@ arg(6916).
 text(6916, Even the attributes of "masculine" and "feminine" are imaginary constructs. For example, the concept of "having physical strength" is not inherently masculine - it refers to principles of physical forces, easily exemplified in non-biological, non-gendered objects and machines.).
 support(6916, 5883).
 
-arg(8343).
-text(8343, They are inherently different because of biology and sex, but gender has nothing to do with it. ).
-att(8343, root).
-
 arg(10027).
 text(10027, Testosterone does tend to increase strength, and men have more testosterone than women. This points to a physical difference between the two, though it may vary from individual to individual.).
 att(10027, 6916).
@@ -178,13 +152,39 @@ arg(10021).
 text(10021, More than just great apes display sexually dimorphic features, even if such roles do not map directly to humans. Hyenas and ants, for instance, display clearly gendered roles, but both lack culture. ).
 att(10021, 6861).
 
+arg(8126).
+text(8126, The first sentence is correct. The second is not.
+
+Pink is not feminine. Blue is not masculine. The moment you are born you are assigned one of these colors based solely on your genitals, which you have no control over. A color will modify your interactions with other humans your entire childhood.).
+att(8126, root).
+
+arg(6861).
+text(6861, Mammals and great apes display clear behavioural differences between the sexes. As we are also great-apes it is likely that we share this trait.).
+support(6861, root).
+
+arg(8343).
+text(8343, They are inherently different because of biology and sex, but gender has nothing to do with it. ).
+att(8343, root).
+
+arg(8162).
+text(8162, Our current society has been doing so for at least the past couple of years, blurring the lines between female and male and even adding in new gender identities that are not strictly male or female.).
+att(8162, 8018).
+
 arg(7640).
 text(7640, Many gender differences did not appear until later parts of history, meaning the differences did not always exist and were created by society. Young boys were once allowed and encouraged to wear dresses, it was considered gender neutral and was only  marked feminine due to new views from society.).
 att(7640, root).
 
-arg(6165).
-text(6165, The differences lie in hormones, which appear in different proportions in men and women.  Some hormones, such as testosterone and estrogen, effect brain development.  Since these appear in different proportions, the structures of male and female brains are different.).
-att(6165, 6090).
+arg(8018).
+text(8018, While that is true for some cultures for children pre-puberty, no culture has blurred distinctions for adult males and females.  ).
+att(8018, 7640).
+
+arg(5900).
+text(5900, Society expects certain behaviors of each gender, and these expected behaviors are a construct of society.).
+att(5900, root).
+
+arg(5820).
+text(5820, I love vagina).
+att(5820, root).
 
 arg(6734).
 text(6734, Almost all civilisations throughout time and places have exhibited roughly the same gender roles: the man provides for the woman and his family. Either this is a natural manifestation of inherent biological differences, or there is a vast patriarchal conspiracy set up to maintain male dominance!).

@@ -1,10 +1,6 @@
 arg(root).
 text(root, Scientific hypotheses can not be proven).
 
-arg(13088).
-text(13088, It is impossible to prove a hypothesis correct. It is only possible to prove it is incorrect. A hypothesis gains credibility by giving repeated predictions that are correct within some error range. Every scientific theory we have could still be wrong and replaced by a more accurate theory.).
-att(13088, root).
-
 arg(12533).
 text(12533, Scientific method is a way used to prove scientific hypothesis. You have to disprove it to validate your statement.).
 att(12533, root).
@@ -17,32 +13,10 @@ arg(12702).
 text(12702, The scientific method cannot guarantee it holding true. For example, we believe the physical laws of the universe are constant because the scientific method has proved it so. But that does not mean that they cannot change, however unlikely. What guarantees are made we are not living in the Matrix?).
 att(12702, 12533).
 
-arg(13083).
-text(13083, Induction is invalid. Induction can only be validated by induction. ).
-att(13083, root).
-
-arg(13227).
-text(13227, A hypothesis being "proven true" is not the goal of the scientific method; the scientific method helps us to find out whether or not a hypothesis approximates the truth closely enough for us to make decisions based on it.
-
-To quote George Box: "All models are wrong, but some models are useful.").
-att(13227, root).
-
-arg(13220).
-text(13220, Nothing can be proven we can just have more and more evidence supporting that theory.).
-att(13220, root).
-
-arg(13072).
-text(13072, A theory in scientific context means something else entirely, though it is still bound by inductive logic.).
-att(13072, root).
-
 arg(13051).
 text(13051, Theory: a supposition or a system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained.
 Theory ≠ Fact).
 att(13051, 12598).
-
-arg(13528).
-text(13528, Every scientific hypothesis can be disproved by a single counter example. There are an infinite number of counter examples to test. Since we cannot test an infinite number of examples a scientific hypothesis can never be proved.).
-support(13528, root).
 
 arg(13579).
 text(13579, Having enough evidence for a hypothesis to make it extremely unlikely for it to be false is defined as „being proven“ in science. However, scientific hypotheses cannot be proven in the sense of a mathematical proof.).
@@ -52,14 +26,85 @@ arg(13099).
 text(13099, Just because some law of universe can change doesn't mean at all that scientific hypothesis can't be proven. And until now, there wasn't any change in in those, and there isnt any theory that disprove the scientific method.).
 att(13099, 12702).
 
+arg(13227).
+text(13227, A hypothesis being "proven true" is not the goal of the scientific method; the scientific method helps us to find out whether or not a hypothesis approximates the truth closely enough for us to make decisions based on it.
+
+To quote George Box: "All models are wrong, but some models are useful.").
+att(13227, root).
+
+arg(13528).
+text(13528, Every scientific hypothesis can be disproved by a single counter example. There are an infinite number of counter examples to test. Since we cannot test an infinite number of examples a scientific hypothesis can never be proved.).
+support(13528, root).
+
+arg(13083).
+text(13083, Induction is invalid. Induction can only be validated by induction. ).
+att(13083, 13072).
+
+arg(13220).
+text(13220, Nothing can be proven we can just have more and more evidence supporting that theory.).
+att(13220, 13099).
+
+arg(13072).
+text(13072, A theory in scientific context means something else entirely, though it is still bound by inductive logic.).
+att(13072, 13051).
+
 arg(13100).
 text(13100, What guarantees we have that we are not living in Matrix is an argument is as relevant to disprove scientific method as any can be.).
 att(13100, 12702).
 
+arg(13109).
+text(13109, We only accept things as truth because it becomes useful to do so. We actually have no idea weather the universe behaves in the way we think it does or if it just appears to. ).
+att(13109, 13108).
+
+arg(14152).
+text(14152, Science rests upon inductive reasoning (as opposed to deductive reasoning) but unfortunately the term carries different meanings in science and mathematics. ).
+att(14152, 12779).
+
+arg(13098).
+text(13098, I think you are presenting induction in a very dubious way. One that is a misgiving of what we normally use it for. If we have literally 0 disconfirming cases in all of the observations throughout history, that can be meaningfully reproduced, then we say we have a scientifically relevant hypothesis.).
+att(13098, 13083).
+
+arg(14155).
+text(14155, Could you explain why it is a "but", and what are the different meanings you are speaking about ?).
+att(14155, 14152).
+
+arg(13088).
+text(13088, It is impossible to prove a hypothesis correct. It is only possible to prove it is incorrect. A hypothesis gains credibility by giving repeated predictions that are correct within some error range. Every scientific theory we have could still be wrong and replaced by a more accurate theory.).
+att(13088, 12597).
+
 arg(14234).
 text(14234, I agree, but it is what i was saying in the first argument.
 I think there was a misunderstanding, maybe you misread something. (i will make a small edit to be more clear)).
-att(14234, root).
+att(14234, 14200).
+
+arg(13246).
+text(13246, They are not to be. By nature nothing in science is ever so proven that it cannot be later revised or thrown out entirely. Science is always open to change as we find and discover new information. 
+).
+support(13246, root).
+
+arg(13108).
+text(13108, The point of a scientific hypothesis is not to be proven, but to be disproven. Scientific hypotheses must be falsifiable. It is only when we find that we cannot disprove the hypothesis, despite our best attempts, that we begin to accept it as truth. ).
+att(13108, root).
+
+arg(12597).
+text(12597, A scientific hypothesis is a testable "proposed explanation" for a phenomenon. For it to become a scientific theory, the hypothesis has to be tested and confirmed several times, or even better, cross-linked with other theories to gain consistency. It's a standard procedure and not at all impossible.).
+att(12597, root).
+
+arg(13107).
+text(13107, Scientifically relevant sure, but in the realm of epistemology, which is the foundation on which science is built, induction is invalid. The only way to validate induction is using induction. Saying "well induction has worked in the past, so it'll continue to work in the future" Which is induction.).
+att(13107, 13098).
+
+arg(14547).
+text(14547, The premises of solipsism can never be disproven leaving all science to be based on assumption of the true existence of the physical world.).
+support(14547, root).
+
+arg(13110).
+text(13110, additionally, the entire debate is about IF science can PROVE anything. Saying something is good science says nothing about weather or not good science PROVES something. Induction, cannot make any certain claim about anything because of the problem of induction.).
+att(13110, 13098).
+
+arg(14200).
+text(14200, Because the scientific method doesn't rely wholly on deductive reasoning. For example just because every time I throw a rock it lands, doesn't prove that every time I throw a rock it will land (in fact with sufficient velocity it would never land) this extrapolation is termed induction.).
+support(14200, 14155).
 
 arg(12779).
 text(12779, We need induction and deduction to prove scientific hypotheses.
@@ -70,49 +115,4 @@ support(12779, root).
 arg(12780).
 text(12780, The scientific method is the better way to know what we can’t prove.).
 att(12780, root).
-
-arg(13246).
-text(13246, They are not to be. By nature nothing in science is ever so proven that it cannot be later revised or thrown out entirely. Science is always open to change as we find and discover new information. 
-).
-support(13246, root).
-
-arg(13107).
-text(13107, Scientifically relevant sure, but in the realm of epistemology, which is the foundation on which science is built, induction is invalid. The only way to validate induction is using induction. Saying "well induction has worked in the past, so it'll continue to work in the future" Which is induction.).
-att(13107, root).
-
-arg(13108).
-text(13108, The point of a scientific hypothesis is not to be proven, but to be disproven. Scientific hypotheses must be falsifiable. It is only when we find that we cannot disprove the hypothesis, despite our best attempts, that we begin to accept it as truth. ).
-att(13108, root).
-
-arg(13109).
-text(13109, We only accept things as truth because it becomes useful to do so. We actually have no idea weather the universe behaves in the way we think it does or if it just appears to. ).
-att(13109, 13108).
-
-arg(13110).
-text(13110, additionally, the entire debate is about IF science can PROVE anything. Saying something is good science says nothing about weather or not good science PROVES something. Induction, cannot make any certain claim about anything because of the problem of induction.).
-att(13110, root).
-
-arg(14200).
-text(14200, Because the scientific method doesn't rely wholly on deductive reasoning. For example just because every time I throw a rock it lands, doesn't prove that every time I throw a rock it will land (in fact with sufficient velocity it would never land) this extrapolation is termed induction.).
-support(14200, root).
-
-arg(14152).
-text(14152, Science rests upon inductive reasoning (as opposed to deductive reasoning) but unfortunately the term carries different meanings in science and mathematics. ).
-att(14152, 12779).
-
-arg(13098).
-text(13098, I think you are presenting induction in a very dubious way. One that is a misgiving of what we normally use it for. If we have literally 0 disconfirming cases in all of the observations throughout history, that can be meaningfully reproduced, then we say we have a scientifically relevant hypothesis.).
-att(13098, 13083).
-
-arg(12597).
-text(12597, A scientific hypothesis is a testable "proposed explanation" for a phenomenon. For it to become a scientific theory, the hypothesis has to be tested and confirmed several times, or even better, cross-linked with other theories to gain consistency. It's a standard procedure and not at all impossible.).
-att(12597, root).
-
-arg(14155).
-text(14155, Could you explain why it is a "but", and what are the different meanings you are speaking about ?).
-att(14155, 14152).
-
-arg(14547).
-text(14547, The premises of solipsism can never be disproven leaving all science to be based on assumption of the true existence of the physical world.).
-support(14547, root).
 

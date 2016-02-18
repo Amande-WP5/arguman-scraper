@@ -1,28 +1,28 @@
 arg(root).
 text(root, It's wrong to have negative opinions of someone.).
 
-arg(14534).
-text(14534, Negative thoughts and emotions are a natural part of the brain and help an individual to avoid dangerous and stressful situations. To call a natural feeling, especially when the dislike is just (eg. hating someone who murdered your child) is absolutely absurd. ).
-att(14534, root).
+arg(14553).
+text(14553, There is nothing assaultive about holding an opinion, good or bad. You should experience negative emotions if someone is intentionally deceiving, threatening, or otherwise using language in an immoral way.
+Life doesn't consist of only conversation or argument, so your statement is out of context.).
+att(14553, 14543).
 
 arg(14554).
 text(14554, In the case of survival or development of living creatures, it is beneficial AND necessary. Emotions signal animals to tend for the young and infirm, and avert the death of fellow members. Emotions enable intelligent response in event that information is unavailable.).
-att(14554, root).
+att(14554, 14536).
 
-arg(14544).
-text(14544, A negative opinion can be justified if an individual violates what one defines as moral behavior. In that circumstance the inclination to form an opinion is inevitable and often leads to further development of morality.).
-att(14544, root).
+arg(14536).
+text(14536, Just because a thing is natural does not mean that a thing is necessary or beneficial.).
+att(14536, 14534).
 
 arg(14543).
 text(14543, A negative opinion is a personal attack. Bringing negative emotion into any conversation diminishes the construct of the argument and brings personal opinion into it.).
 support(14543, root).
 
-arg(14536).
-text(14536, Just because a thing is natural does not mean that a thing is necessary or beneficial.).
-att(14536, root).
+arg(14534).
+text(14534, Negative thoughts and emotions are a natural part of the brain and help an individual to avoid dangerous and stressful situations. To call a natural feeling, especially when the dislike is just (eg. hating someone who murdered your child) is absolutely absurd. ).
+att(14534, root).
 
-arg(14553).
-text(14553, There is nothing assaultive about holding an opinion, good or bad. You should experience negative emotions if someone is intentionally deceiving, threatening, or otherwise using language in an immoral way.
-Life doesn't consist of only conversation or argument, so your statement is out of context.).
-att(14553, 14543).
+arg(14544).
+text(14544, A negative opinion can be justified if an individual violates what one defines as moral behavior. In that circumstance the inclination to form an opinion is inevitable and often leads to further development of morality.).
+att(14544, root).
 

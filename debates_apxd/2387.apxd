@@ -1,9 +1,13 @@
 arg(root).
 text(root, China's paediatric market is in trouble).
 
+arg(15965).
+text(15965, Paediatric beds only account for 6.4% of all hospital beds in China).
+support(15965, root).
+
 arg(15972).
 text(15972, China lifted one-child policy ->2 children per couple. Not entirely positive but may be the needed push for China's paediatric market).
-att(15972, root).
+att(15972, 15965).
 
 arg(15971).
 text(15971, Paediatrician shortage
@@ -11,17 +15,13 @@ text(15971, Paediatrician shortage
 	* High job pressure and low salary
 	* Paediatrician gets assaulted when families who thinks their child didn't get good paediatric care
 ).
-support(15971, root).
+support(15971, 15968).
 
 arg(15968).
 text(15968, Patients wait in line for hours to see a paediatrician).
-support(15968, root).
+support(15968, 15967).
 
 arg(15967).
 text(15967, Almost all large paediatric hospitals are in big cities. Rural population have little to no access to direct paediatric care).
-support(15967, root).
-
-arg(15965).
-text(15965, Paediatric beds only account for 6.4% of all hospital beds in China).
-support(15965, root).
+support(15967, 15965).
 

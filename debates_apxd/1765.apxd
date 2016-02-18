@@ -1,49 +1,9 @@
 arg(root).
 text(root, An adult child has a moral responsibility to care for their parents. ).
 
-arg(10595).
-text(10595, For most family relationships, the interactions are positive for both the parent and the child. ).
-att(10595, root).
-
-arg(15782).
-text(15782, I think if you love your adopted familiy, or even if they "only" had tried their best to give your a good life, then I think you should (because you normally want) care about your parents. But it`s not a obligation. But the general obligation you have, is to treat human live as human.).
-att(15782, root).
-
-arg(15783).
-text(15783, Is-ought fallacy: From only the fact, that humans have a natural affection towards their parents (and that is a empircal question, so give me empircal evidence...) doesn`t follow, that you should care about your parents.).
-att(15783, root).
-
-arg(15781).
-text(15781, what`s wrong with behaviour that doesn`t harm someone (like the child who doesn`t care about his parents) ? You can apeal on a person that (s)he should anyway care about persons; but this is not a burden specially for children.).
-att(15781, root).
-
-arg(15578).
-text(15578, Morality is not objective, as such who are you to declare it a moral obligation? It could be argued to be perhaps ethically preferable, but to say I am obliged to treat my parents well is false.What about a child that is, say raped or beaten by his parents? Why should he treat his parents well?).
-att(15578, root).
-
 arg(10302).
 text(10302, We did not choose to be born so why should I care about my parents?).
 att(10302, root).
-
-arg(10319).
-text(10319, "Let us recall that without special relationships it seems highly unlikely that we would be able to commit ourselves to any ethics at all." (260)
-
-We would not see people as human with their own hopes and desires if it were not for our family showing us their hopes and desires.).
-support(10319, root).
-
-arg(10325).
-text(10325, In the case of the child not caring for the parents "In this case the child may not show any special concern for his parent. But then he need not be blamed for failing to do so since, if there is no friendship, nothing is owed by him.").
-support(10325, root).
-
-arg(10316).
-text(10316, "Caring for others must begin in the family or it will not begin at all." (254)
-
-Other institutions can instill motives for respect for others but the familial institution is one of the most effective and prevalent.).
-support(10316, root).
-
-arg(10603).
-text(10603, While you may have not wished for being born (that is, to your knowledge), you most certainly appreciated being raised by someone (your parents?), someone caring for you. ).
-att(10603, 10302).
 
 arg(10628).
 text(10628, Because relationships are often circumstantial, this cannot be an absolute obligation. For instance, if I am adopted, do I owe this to my biological parents?
@@ -51,9 +11,45 @@ text(10628, Because relationships are often circumstantial, this cannot be an ab
 Or if I am abused, do I still owe it to them?).
 att(10628, root).
 
+arg(10603).
+text(10603, While you may have not wished for being born (that is, to your knowledge), you most certainly appreciated being raised by someone (your parents?), someone caring for you. ).
+att(10603, 10302).
+
+arg(10307).
+text(10307, "One's obligations to parents also extend to the way one conducts oneself throughout one's life. " pg 2).
+support(10307, 10306).
+
+arg(15783).
+text(15783, Is-ought fallacy: From only the fact, that humans have a natural affection towards their parents (and that is a empircal question, so give me empircal evidence...) doesn`t follow, that you should care about your parents.).
+att(15783, 10309).
+
+arg(15781).
+text(15781, what`s wrong with behaviour that doesn`t harm someone (like the child who doesn`t care about his parents) ? You can apeal on a person that (s)he should anyway care about persons; but this is not a burden specially for children.).
+att(15781, 10603).
+
 arg(10303).
 text(10303, A child can not escape the child-parent relationship, like a friend can escape his friendship.).
 att(10303, root).
+
+arg(10319).
+text(10319, "Let us recall that without special relationships it seems highly unlikely that we would be able to commit ourselves to any ethics at all." (260)
+
+We would not see people as human with their own hopes and desires if it were not for our family showing us their hopes and desires.).
+support(10319, 10306).
+
+arg(10325).
+text(10325, In the case of the child not caring for the parents "In this case the child may not show any special concern for his parent. But then he need not be blamed for failing to do so since, if there is no friendship, nothing is owed by him.").
+support(10325, 10305).
+
+arg(10316).
+text(10316, "Caring for others must begin in the family or it will not begin at all." (254)
+
+Other institutions can instill motives for respect for others but the familial institution is one of the most effective and prevalent.).
+support(10316, 10306).
+
+arg(10595).
+text(10595, For most family relationships, the interactions are positive for both the parent and the child. ).
+att(10595, 10379).
 
 arg(10304).
 text(10304, We are social creatures and must depend on one another for support. Without the role expectations of the child-parent relationship we are less capable.).
@@ -67,27 +63,11 @@ arg(10306).
 text(10306, The parent-child relationship is the root of self-cultivation and political order. The child learns how to act in society and be respectful to others within the family unit. Filial piety is thus a core moral concept. ).
 support(10306, root).
 
-arg(10307).
-text(10307, "One's obligations to parents also extend to the way one conducts oneself throughout one's life. " pg 2).
-support(10307, 10306).
-
 arg(10308).
 text(10308, "genuine xiao is not a matter of blind obedience, but involves being ready to dissent when obedience involves improper behavior" (3)
 
 You should not act in how your parents want you to act, but was it in accordance with what is proper (defined as the rites in Confucius).).
 support(10308, 10305).
-
-arg(10309).
-text(10309, Humans have a natural affection towards their parents. It would be inhumane to disregards one's parents.).
-support(10309, root).
-
-arg(10311).
-text(10311, Kantianism and Utilitarianism hold no differential pull for those of special relations such as family or friendship.).
-att(10311, root).
-
-arg(10379).
-text(10379, Though evolution pushes us toward kin selection (assuring survival of blood related humans, first), there is no moral requirement to help anyone, including one's parents. It's particularly understandable that one would not help another person who has treated them badly, harmed them, neglected them.).
-att(10379, root).
 
 arg(10312).
 text(10312, We do have significant influence on those who are close to us and have a historical relationship. We are more effective at helping those we know on a deeper level than a complete stranger.).
@@ -98,10 +78,6 @@ text(10313, "Both Aristotle and Aquinas count life itself as the first and most 
 
 A normal human should be grateful for the gift of existence. ).
 att(10313, 10302).
-
-arg(10314).
-text(10314, The role obligations of the parent and the child are implicit. There is no law or dogma to honor one's parents.).
-support(10314, root).
 
 arg(10315).
 text(10315, Each family relationship is unique.).
@@ -115,12 +91,6 @@ arg(10317).
 text(10317, "If a given arrangement is degenerate, then that is in itself a good reason to discount its norms as morally binding." (454)).
 support(10317, 10305).
 
-arg(10318).
-text(10318, "We must receive help from those who know us and our actual and potential faults, as well as our strengths." (256)
-
-We are better at helping others that we know then blindly helping strangers from our perception.).
-support(10318, root).
-
 arg(10387).
 text(10387, In any normal case the child would not  want to escape, s\he would actually be terrified of losing his\her parents.
 A child who is not afraid of losing his\her parents are a serious symptom of parental neglect.
@@ -130,12 +100,6 @@ att(10387, 10303).
 arg(10320).
 text(10320, Humans might be able to empathize even without the familial institution.).
 att(10320, 10319).
-
-arg(10322).
-text(10322, "It is gratitude based on the recognition that we would not be the sort of people we are were it not for that other person and were it not for the fact that we were able to take from them." (259)
-
-We care for our elders because we recognize what they have done for us.).
-support(10322, root).
 
 arg(10324).
 text(10324, "The Confucian tradition sees human nature as intrinsically social with a powerful need for continuing relationships with particular others, these relationships being structured by the rules of propriety (Li)" (262)
@@ -175,7 +139,43 @@ arg(11107).
 text(11107, In utilitarianism, respecting your parents and caring for them would provide more happiness than having a care-taker aid them (at least for most parents).).
 att(11107, 10311).
 
+arg(15782).
+text(15782, I think if you love your adopted familiy, or even if they "only" had tried their best to give your a good life, then I think you should (because you normally want) care about your parents. But it`s not a obligation. But the general obligation you have, is to treat human live as human.).
+att(15782, 10628).
+
+arg(10379).
+text(10379, Though evolution pushes us toward kin selection (assuring survival of blood related humans, first), there is no moral requirement to help anyone, including one's parents. It's particularly understandable that one would not help another person who has treated them badly, harmed them, neglected them.).
+att(10379, root).
+
+arg(10314).
+text(10314, The role obligations of the parent and the child are implicit. There is no law or dogma to honor one's parents.).
+support(10314, root).
+
+arg(10318).
+text(10318, "We must receive help from those who know us and our actual and potential faults, as well as our strengths." (256)
+
+We are better at helping others that we know then blindly helping strangers from our perception.).
+support(10318, root).
+
+arg(10322).
+text(10322, "It is gratitude based on the recognition that we would not be the sort of people we are were it not for that other person and were it not for the fact that we were able to take from them." (259)
+
+We care for our elders because we recognize what they have done for us.).
+support(10322, root).
+
 arg(13195).
 text(13195, it is the other way around. ).
 att(13195, root).
+
+arg(10309).
+text(10309, Humans have a natural affection towards their parents. It would be inhumane to disregards one's parents.).
+support(10309, root).
+
+arg(10311).
+text(10311, Kantianism and Utilitarianism hold no differential pull for those of special relations such as family or friendship.).
+att(10311, root).
+
+arg(15578).
+text(15578, Morality is not objective, as such who are you to declare it a moral obligation? It could be argued to be perhaps ethically preferable, but to say I am obliged to treat my parents well is false.What about a child that is, say raped or beaten by his parents? Why should he treat his parents well?).
+att(15578, root).
 

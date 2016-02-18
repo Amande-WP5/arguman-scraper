@@ -1,77 +1,21 @@
 arg(root).
 text(root, Python is better than Ruby).
 
-arg(11484).
-text(11484, You can not override builtin data structures.).
-att(11484, root).
-
-arg(5489).
-text(5489, You can not override builtin data structures).
-support(5489, root).
-
-arg(6794).
-text(6794, Python happens to be better in every context making it strictly better.).
-att(6794, root).
-
-arg(6010).
-text(6010, Ruby is a type of mineral, which forms over billions of years. Pythons live and die many generations per generation of Ruby.).
-att(6010, root).
-
-arg(15335).
-text(15335, I use python a lot, and I don't use ruby much...).
-support(15335, root).
-
-arg(6119).
-text(6119, Pythons animate objects, while Rubies are inanimate).
-support(6119, root).
-
-arg(11225).
-text(11225, In Ruby, there is a lot of magic going on).
-att(11225, root).
-
-arg(11472).
-text(11472, "easier to read" is subjective to the reader.).
-att(11472, root).
+arg(16734).
+text(16734, Ruby is a caveman language for garbage people).
+support(16734, root).
 
 arg(11782).
 text(11782, Water, trees.. are inanimate objects and have greater impact on the planet than several living beings. Your sentence is not valid in every cases, you'd have to prove why It's valid on this one.).
 att(11782, 6119).
 
-arg(5829).
-text(5829, It's named after a bitchin snake! ).
-support(5829, root).
-
-arg(11391).
-text(11391, Python uses less punctuation and aligns closer to pseudocode than Ruby does, making complex code easier to read.).
-support(11391, root).
-
-arg(5490).
-text(5490, pypi is working better than rubygems).
-support(5490, root).
-
-arg(5651).
-text(5651, syntactical significance on amount and type of whitespace is the definition of insanity.).
-att(5651, root).
-
 arg(6117).
 text(6117, Pythons can effect greater change on the planet then Rubie's can.).
 att(6117, 6010).
 
-arg(6911).
-text(6911, both Python and Ruby are strong and dynamically typed.).
-att(6911, root).
-
 arg(11328).
 text(11328, A modern text editor that auto-indents makes whitespace significance a non-issue.).
 att(11328, 5651).
-
-arg(5934).
-text(5934, it does not make sense to claim one language is better than another without specifying the context.  
-
-In general every language has some area in which it shines, and others are weak.
-
-Is the "best" language the language with the fastest run time performance?  the highest developer productivity?).
-att(5934, root).
 
 arg(11720).
 text(11720, At some point it becomes objective. Perl for example is known for being easier to write than to read.).
@@ -80,14 +24,6 @@ att(11720, 11472).
 arg(5864).
 text(5864, Python is actually named after Monthy Python, a british comedy show.).
 att(5864, 5829).
-
-arg(5494).
-text(5494, Explicit is better than implicit.).
-support(5494, root).
-
-arg(6917).
-text(6917, The ability to have blocks passed into methods allows for DSLs that would otherwise be impossible in Python.).
-att(6917, root).
 
 arg(11776).
 text(11776, Since everything is an object in Ruby, it is possible to override data types and primitives by modifying those classes (ex. Hash, Array, String, Fixnum).).
@@ -100,4 +36,80 @@ att(11778, 11225).
 arg(11388).
 text(11388, You can't prove this. Each different job for a developer is a different context.  ).
 att(11388, 6794).
+
+arg(15335).
+text(15335, I use python a lot, and I don't use ruby much...).
+support(15335, root).
+
+arg(16736).
+text(16736, Did you use 2-space, 4-space, or TAB indents?).
+att(16736, 11328).
+
+arg(6010).
+text(6010, Ruby is a type of mineral, which forms over billions of years. Pythons live and die many generations per generation of Ruby.).
+att(6010, root).
+
+arg(5829).
+text(5829, It's named after a bitchin snake! ).
+support(5829, root).
+
+arg(6119).
+text(6119, Pythons animate objects, while Rubies are inanimate).
+support(6119, 6117).
+
+arg(11225).
+text(11225, In Ruby, there is a lot of magic going on).
+att(11225, 6911).
+
+arg(11472).
+text(11472, "easier to read" is subjective to the reader.).
+att(11472, 11391).
+
+arg(5489).
+text(5489, You can not override builtin data structures).
+support(5489, root).
+
+arg(11391).
+text(11391, Python uses less punctuation and aligns closer to pseudocode than Ruby does, making complex code easier to read.).
+support(11391, root).
+
+arg(11484).
+text(11484, You can not override builtin data structures.).
+att(11484, 5489).
+
+arg(6794).
+text(6794, Python happens to be better in every context making it strictly better.).
+att(6794, 5934).
+
+arg(5490).
+text(5490, pypi is working better than rubygems).
+support(5490, root).
+
+arg(5651).
+text(5651, syntactical significance on amount and type of whitespace is the definition of insanity.).
+att(5651, root).
+
+arg(5934).
+text(5934, it does not make sense to claim one language is better than another without specifying the context.  
+
+In general every language has some area in which it shines, and others are weak.
+
+Is the "best" language the language with the fastest run time performance?  the highest developer productivity?).
+att(5934, root).
+
+arg(5494).
+text(5494, Explicit is better than implicit.).
+support(5494, root).
+
+arg(6911).
+text(6911, both Python and Ruby are strong and dynamically typed.).
+att(6911, 5494).
+
+arg(6917).
+text(6917, The ability to have blocks passed into methods allows for DSLs that would otherwise be impossible in Python.).
+att(6917, root).
+
+arg(17015).
+text(17015, No. There's no question. Ruby sux!! ).
+support(17015, root).
 

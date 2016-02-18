@@ -1,82 +1,108 @@
 arg(root).
 text(root, Life is pointless).
 
-arg(8134).
-text(8134, What if we can prevent heat death? What if the end of the universe is not definite, but rational minds can one day find a way to extend its life indefinitely?).
-att(8134, root).
+arg(16629).
+text(16629, God gave humans the purpose to love God and take care of the Earth. Yet, if you do not believe in God, that does mean life is pointless as there is no other purpose for which you can live that would truly matter if there was no God).
+att(16629, root).
 
-arg(8137).
-text(8137, Desperately attaching meaning to life arbitrarily is hardly finding objective meaning at all.).
-att(8137, root).
+arg(5838).
+text(5838, that is not a bad thing. Just because life is pointless doesn't mean you can't enjoy it.).
+att(5838, root).
 
-arg(5871).
-text(5871, i am not saying that you are saying that.).
-att(5871, root).
+arg(16884).
+text(16884, It would contradict the laws of physics we know.).
+att(16884, 8134).
 
-arg(5800).
-text(5800, Aren't most of the things subjective? ).
-att(5800, root).
+arg(16834).
+text(16834, Reproducing is the goal of Life at an individual level; but what is the goal of reproducing at a global level ?
 
-arg(7265).
-text(7265, beautiful it may be, it remains pointless.).
-att(7265, root).
-
-arg(9007).
-text(9007, Not all parents keep their children, and some give birth for reasons besides creating meaning through a shift of dependence. ).
-att(9007, root).
-
-arg(8128).
-text(8128, You don't know the question.).
-att(8128, root).
-
-arg(8654).
-text(8654, I said "heaven or something". And I shouldn't have to. The original claim is that life is pointless because there is no heaven. To make that claim, you need to be able to prove there isn't one.).
-att(8654, root).
-
-arg(6100).
-text(6100, Who are we to say that happiness isn't the point of life?).
-support(6100, root).
-
-arg(8367).
-text(8367, You also have maggots, gangrene, neuro-degenerative diseases. What's your point? Do you even have one?).
-att(8367, root).
-
-arg(8531).
-text(8531, Prove that there's a heaven.).
-att(8531, root).
-
-arg(6894).
-text(6894, One could argue that you have not truly given meaning to your life, but rather imposed an artificial purpose on it.).
-att(6894, root).
-
-arg(6919).
-text(6919, The question of time becomes important in this argument.  Your actions may have meaning today, even in millions of years.  However, assume you are an observer post heat death.  Any actions prior are irrelevant/immeasurable/impossible to infer and like meaningless as a consequence.).
-att(6919, root).
-
-arg(8713).
-text(8713, I don't agree with having to go to school. I want to study for a job, and get the job. I want to be useful and self-sufficient, but i do not have the age to do so.).
-att(8713, root).
-
-arg(5847).
-text(5847, that's the beauty of it you get to witness all the pointless of life all the random chaos that happened to cause that flower to bloom so beautify or the occurrence of rainbows. ).
-att(5847, root).
-
-arg(8331).
-text(8331, KILL URSELF FGTTTTTTTTTTTTTTTT).
-support(8331, root).
-
-arg(5836).
-text(5836, There's no rule anywhere that says you have to do any of those things to survive or be a member of society. There are millions of people on this planet that derive and create meaning from their lives without the promise of heaven or an afterlife as well.).
-att(5836, root).
+Reproduction may be a part of the answer, but not all of it.).
+att(16834, 6093).
 
 arg(8403).
 text(8403, You are outlining a not shareable experience, since there is also some people who does not do as you say.
 So, this is a baseless generalization.).
-att(8403, root).
+att(8403, 5793).
 
-arg(9290).
-text(9290, You appear to be assuming that adding meaning is a desperate act).
-att(9290, root).
+arg(5836).
+text(5836, There's no rule anywhere that says you have to do any of those things to survive or be a member of society. There are millions of people on this planet that derive and create meaning from their lives without the promise of heaven or an afterlife as well.).
+att(5836, 5793).
+
+arg(6934).
+text(6934, Evolution by its very nature is random. While it may appear as though we are designed to reproduce there is no thought behind it, only natural occurrence. Just because it is what we do doesn't make it our purpose. ).
+att(6934, 6093).
+
+arg(8137).
+text(8137, Desperately attaching meaning to life arbitrarily is hardly finding objective meaning at all.).
+att(8137, 5805).
+
+arg(9007).
+text(9007, Not all parents keep their children, and some give birth for reasons besides creating meaning through a shift of dependence. ).
+att(9007, 7759).
+
+arg(6100).
+text(6100, Who are we to say that happiness isn't the point of life?).
+support(6100, 5826).
+
+arg(6894).
+text(6894, One could argue that you have not truly given meaning to your life, but rather imposed an artificial purpose on it.).
+att(6894, 5997).
+
+arg(5847).
+text(5847, that's the beauty of it you get to witness all the pointless of life all the random chaos that happened to cause that flower to bloom so beautify or the occurrence of rainbows. ).
+att(5847, 5793).
+
+arg(8331).
+text(8331, KILL URSELF FGTTTTTTTTTTTTTTTT).
+support(8331, 5793).
+
+arg(8442).
+text(8442, Without conscious life, the universe has no observation mechanism. Without simple life we could not evolve to conscious life. Collective life exists as a sum of individual parts, so all individual life is meaningful. Life and the Universe are 2 sides to the same coin and grant each other purpose.).
+att(8442, root).
+
+arg(7258).
+text(7258, The point of any self replicating machine is to produce more machines capable of self replicating.).
+att(7258, root).
+
+arg(5826).
+text(5826, you only have 80 years. Life might be useless, but it doesn't have to be bad. Just be happy!).
+att(5826, root).
+
+arg(8779).
+text(8779, Life is a formless, abstract concept and therefor lacks points, which would require life to have a definite shape).
+support(8779, root).
+
+arg(6346).
+text(6346, Without life, everything is pointless).
+att(6346, root).
+
+arg(5997).
+text(5997, If one creates their own meaning for their life, their life, though not life as a concept, ceases to be meaningless.).
+att(5997, root).
+
+arg(14584).
+text(14584, To know no purpose is to know freedom. The far more depressing possibility would be having a set purpose leading you only to be a cog in a machine rather than a living individual.).
+att(14584, root).
+
+arg(8068).
+text(8068, There's a point in life. It's right above the "i".).
+att(8068, root).
+
+arg(7256).
+text(7256, The destination is always the same.).
+support(7256, root).
+
+arg(7759).
+text(7759, Perspective of scale drives this argument. "Pointless" is defined as "lack of use or purpose"
+
+On a universal scale the argument is true.
+
+On a personal scale, most parents give birth to provide themselves with a purpose. This gives a point to the child's life. The shift of dependence.).
+att(7759, root).
+
+arg(5793).
+text(5793, We study twenty years, then we work for the rest of our lives. What for? Nothing. Well, keeping us alive. But life has no objective like going to the heaven or something.).
+support(5793, root).
 
 arg(5791).
 text(5791, Life being pointless or not is entirely subjective).
@@ -91,80 +117,88 @@ text(8397, to be pointless is strictly subjective.
 ).
 att(8397, root).
 
-arg(6093).
-text(6093, The purpose of life is to reproduce. Those organisms who duplicate themselves exist and those who don't are gone. Ones purpose is to improve their situation such that indirectly or directly they improve the odds of gene propagation. One is merely genetic information fighting for continued existence.).
-att(6093, root).
+arg(6881).
+text(6881, Life's "point," is to sustain/balance itself, similar to inorganic means (entropy). Perhaps consciousness of our lives is pointless, but not life by definition. From conception to destruction, it has a point. Before and beyond that, our inference of its "point" is irrelevant.).
+att(6881, 6104).
 
-arg(5793).
-text(5793, We study twenty years, then we work for the rest of our lives. What for? Nothing. Well, keeping us alive. But life has no objective like going to the heaven or something.).
-support(5793, root).
+arg(8134).
+text(8134, What if we can prevent heat death? What if the end of the universe is not definite, but rational minds can one day find a way to extend its life indefinitely?).
+att(8134, 6919).
 
-arg(7759).
-text(7759, Perspective of scale drives this argument. "Pointless" is defined as "lack of use or purpose"
+arg(5871).
+text(5871, i am not saying that you are saying that.).
+att(5871, 5850).
 
-On a universal scale the argument is true.
+arg(5800).
+text(5800, Aren't most of the things subjective? ).
+att(5800, 5791).
 
-On a personal scale, most parents give birth to provide themselves with a purpose. This gives a point to the child's life. The shift of dependence.).
-att(7759, root).
+arg(7265).
+text(7265, beautiful it may be, it remains pointless.).
+att(7265, 5847).
 
-arg(8068).
-text(8068, There's a point in life. It's right above the "i".).
-att(8068, root).
+arg(8128).
+text(8128, You don't know the question.).
+att(8128, 5843).
 
-arg(14584).
-text(14584, To know no purpose is to know freedom. The far more depressing possibility would be having a set purpose leading you only to be a cog in a machine rather than a living individual.).
-att(14584, root).
+arg(8654).
+text(8654, I said "heaven or something". And I shouldn't have to. The original claim is that life is pointless because there is no heaven. To make that claim, you need to be able to prove there isn't one.).
+att(8654, 8531).
 
-arg(5997).
-text(5997, If one creates their own meaning for their life, their life, though not life as a concept, ceases to be meaningless.).
-att(5997, root).
+arg(8367).
+text(8367, You also have maggots, gangrene, neuro-degenerative diseases. What's your point? Do you even have one?).
+att(8367, 5847).
+
+arg(8531).
+text(8531, Prove that there's a heaven.).
+att(8531, 8127).
+
+arg(6919).
+text(6919, The question of time becomes important in this argument.  Your actions may have meaning today, even in millions of years.  However, assume you are an observer post heat death.  Any actions prior are irrelevant/immeasurable/impossible to infer and like meaningless as a consequence.).
+att(6919, 6910).
+
+arg(8713).
+text(8713, I don't agree with having to go to school. I want to study for a job, and get the job. I want to be useful and self-sufficient, but i do not have the age to do so.).
+att(8713, 7606).
+
+arg(9290).
+text(9290, You appear to be assuming that adding meaning is a desperate act).
+att(9290, 8809).
+
+arg(7711).
+text(7711, when viewed from an internal frame of reference you may set your own agenda, in which case you can define a point for *your* life.).
+att(7711, root).
+
+arg(5805).
+text(5805, That's the coolest thing there could be since you get to forge your own purpose).
+att(5805, root).
 
 arg(8556).
 text(8556, the cake disappears, but the memory of eating it persists in the short term.
 In the longer term, all trace of the cake, and everything else in in existence will vanish into the increasing entropy of the universe. Eventually it will be as if you, me, and the cake never even existed: hence pointless.).
-att(8556, root).
+att(8556, 6970).
 
 arg(8048).
 text(8048, by saying that there is no point since it won't be remembered of in a while, you are saying that having a point implies making something everlasting. That could make someone's ambition sad, but something that only lasts for a while can be another one's life goal. There is no duration setting needed.).
-att(8048, root).
+att(8048, 5917).
 
 arg(5917).
 text(5917, Of course we can seek to find meaning in life, and a pleasant life is better than one filled with suffering. But, it doesn’t change the fact that one day it will be as if neither you, nor anything else, ever existed.
 
 Life, in a very real and fundamentals sense, is pointless.).
-att(5917, root).
+att(5917, 5838).
 
 arg(5850).
 text(5850, I'm not saying i can't enjoy life because it's pointless.).
-att(5850, root).
-
-arg(6052).
-text(6052, It may be possible to travel to other universes, or even create new universes, nobody knows.).
-att(6052, root).
-
-arg(8121).
-text(8121, It may be possible to prevent the end of the universe and live on for eternity. Humanity has a long, long time to figure out a solution to that problem. We won't know for sure that the universe will definitely end until it definitely ends.).
-att(8121, root).
-
-arg(6970).
-text(6970, The idea that an eventual ending to something renders it pointless ignores the importance of outcomes within the life of the thing - this is akin to saying that cake is ultimately pointless because eventually all that is left is a plate, the important aspects of life occur in interim states.).
-att(6970, root).
-
-arg(6546).
-text(6546, that doesn't matter right now because the world is far from ending and just because we are small doesn't particularly mean we are insignificant. Just enjoy what makes you and everyone else happy right now.).
-att(6546, root).
+att(5850, 5838).
 
 arg(7761).
 text(7761, Sometimes you do not have the ability to create your own life's purpose and must submit to the will of others who ultimately shape the purpose of your life.  ).
-att(7761, root).
+att(7761, 5805).
 
 arg(7331).
 text(7331, Life is inherently circular. It only exists for is own perpetuation. If I made a robot to make more robots ad infinitum, then the point of the robot was to perpetuate replication of more robots. Life was designed by natural processes to be this way. Life has a point. It's just not a very grand one.).
-support(7331, root).
-
-arg(8140).
-text(8140, ITS ONLY THAT WAY FOR PEOPLE WITH CHEMICAL IMBALANCES SUCH AS THE PERSON WHO MADE THIS REQUEST. LIFE IS AWESOME FOR PEOPLE LIKE US. SORRY YOU DONT KNOW ABOUT IT. I WANT TO LIVE FOREVER. ).
-support(8140, root).
+support(7331, 7258).
 
 arg(8200).
 text(8200, I don't know about you, but I study to get a job to do hookers and blow).
@@ -180,88 +214,14 @@ arg(8127).
 text(8127, There may be a "heaven or something". You don't just get to say there's nothing for no reason.).
 att(8127, 5793).
 
-arg(5914).
-text(5914, Ultimately, nothing matters.
+arg(16654).
+text(16654, We can know there is no ultimate purpose and goal, we only need to analyze what "purpose" and "goal" really mean.
+Claiming it is ultimately unknowable is untenable.).
+att(16654, 8143).
 
-You could be elected president of a united earth, solve world poverty and hunger, cure all known diseases, and still – at the very end of the universe – nothing will be different.
-
-It will be as if neither you, nor anything else, ever existed.).
-support(5914, root).
-
-arg(8143).
-text(8143, This is an unjustifiable claim, as we cannot make claim whether there is or is not some ultimate purpose or goal. It is fallacious to claim there is no point without also claiming knowledge about things which are ultimately unknowable. This claim is as ignorant as people claiming an afterlife.).
-att(8143, root).
-
-arg(8253).
-text(8253, Pointless mean that YOU don't know why it happens. Its merely a question of how much knowledge about the situation you have. A good analogy is in The Hitchhiker's Guide to the Galaxy where the earth point of existence is to of calculate The Question.).
-att(8253, root).
-
-arg(7256).
-text(7256, The destination is always the same.).
-support(7256, root).
-
-arg(6346).
-text(6346, Without life, everything is pointless).
-att(6346, root).
-
-arg(8779).
-text(8779, Life is a formless, abstract concept and therefor lacks points, which would require life to have a definite shape).
-support(8779, root).
-
-arg(5805).
-text(5805, That's the coolest thing there could be since you get to forge your own purpose).
-att(5805, root).
-
-arg(5826).
-text(5826, you only have 80 years. Life might be useless, but it doesn't have to be bad. Just be happy!).
-att(5826, root).
-
-arg(7258).
-text(7258, The point of any self replicating machine is to produce more machines capable of self replicating.).
-att(7258, root).
-
-arg(8442).
-text(8442, Without conscious life, the universe has no observation mechanism. Without simple life we could not evolve to conscious life. Collective life exists as a sum of individual parts, so all individual life is meaningful. Life and the Universe are 2 sides to the same coin and grant each other purpose.).
-att(8442, root).
-
-arg(5838).
-text(5838, that is not a bad thing. Just because life is pointless doesn't mean you can't enjoy it.).
-att(5838, root).
-
-arg(6910).
-text(6910, Life is pointless in the whole aspect of the Universe. What we humans do today will not matter in a million years (if we can exist for that long). But, what we do on Earth influences us. Life is meaningful from a human point-of-view.).
-att(6910, root).
-
-arg(7711).
-text(7711, when viewed from an internal frame of reference you may set your own agenda, in which case you can define a point for *your* life.).
-att(7711, root).
-
-arg(5894).
-text(5894, It isn't losing that causes suffering. 
-It is the desire to win.).
-att(5894, root).
-
-arg(9018).
-text(9018, The meaning of life is to live one's life meaningfully, which is empowering because it allows you to define your entire being. Nothing is more liberating than answering this one question for yourself. And life's finite nature makes every second that much more embedded with your own purpose.).
-att(9018, root).
-
-arg(8124).
-text(8124, Arguing about it is not.).
-att(8124, root).
-
-arg(5853).
-text(5853, Not only is there no god, but try finding a plumber on a Sunday.).
-support(5853, root).
-
-arg(8243).
-text(8243, Even if we say that there are good things our personal influence to change the world is basically non existent. 
-
-As such we are spectators of problems and dynamics which will determine our life unable to change them in the big scope.).
-support(8243, root).
-
-arg(6327).
-text(6327, Perhaps I could emphasize that the goal is simply to exist as long as is possible to attempt to bypass the imminent heat death of the universe. As an infinitely long existence is not possible - I'm grasping at straws...).
-att(6327, root).
+arg(6546).
+text(6546, that doesn't matter right now because the world is far from ending and just because we are small doesn't particularly mean we are insignificant. Just enjoy what makes you and everyone else happy right now.).
+att(6546, 5914).
 
 arg(7229).
 text(7229, 1. Life has a purpose
@@ -281,11 +241,70 @@ arg(14590).
 text(14590, You are assuming that objectivity is a desired outcome. ).
 att(14590, 8137).
 
-arg(6934).
-text(6934, Evolution by its very nature is random. While it may appear as though we are designed to reproduce there is no thought behind it, only natural occurrence. Just because it is what we do doesn't make it our purpose. ).
-att(6934, 6093).
+arg(6052).
+text(6052, It may be possible to travel to other universes, or even create new universes, nobody knows.).
+att(6052, 5914).
 
-arg(6881).
-text(6881, Life's "point," is to sustain/balance itself, similar to inorganic means (entropy). Perhaps consciousness of our lives is pointless, but not life by definition. From conception to destruction, it has a point. Before and beyond that, our inference of its "point" is irrelevant.).
-att(6881, 6104).
+arg(8121).
+text(8121, It may be possible to prevent the end of the universe and live on for eternity. Humanity has a long, long time to figure out a solution to that problem. We won't know for sure that the universe will definitely end until it definitely ends.).
+att(8121, 5914).
+
+arg(6970).
+text(6970, The idea that an eventual ending to something renders it pointless ignores the importance of outcomes within the life of the thing - this is akin to saying that cake is ultimately pointless because eventually all that is left is a plate, the important aspects of life occur in interim states.).
+att(6970, 5914).
+
+arg(8140).
+text(8140, ITS ONLY THAT WAY FOR PEOPLE WITH CHEMICAL IMBALANCES SUCH AS THE PERSON WHO MADE THIS REQUEST. LIFE IS AWESOME FOR PEOPLE LIKE US. SORRY YOU DONT KNOW ABOUT IT. I WANT TO LIVE FOREVER. ).
+support(8140, 8127).
+
+arg(5894).
+text(5894, It isn't losing that causes suffering. 
+It is the desire to win.).
+att(5894, root).
+
+arg(6910).
+text(6910, Life is pointless in the whole aspect of the Universe. What we humans do today will not matter in a million years (if we can exist for that long). But, what we do on Earth influences us. Life is meaningful from a human point-of-view.).
+att(6910, root).
+
+arg(8243).
+text(8243, Even if we say that there are good things our personal influence to change the world is basically non existent. 
+
+As such we are spectators of problems and dynamics which will determine our life unable to change them in the big scope.).
+support(8243, root).
+
+arg(5853).
+text(5853, Not only is there no god, but try finding a plumber on a Sunday.).
+support(5853, root).
+
+arg(8124).
+text(8124, Arguing about it is not.).
+att(8124, root).
+
+arg(9018).
+text(9018, The meaning of life is to live one's life meaningfully, which is empowering because it allows you to define your entire being. Nothing is more liberating than answering this one question for yourself. And life's finite nature makes every second that much more embedded with your own purpose.).
+att(9018, root).
+
+arg(6327).
+text(6327, Perhaps I could emphasize that the goal is simply to exist as long as is possible to attempt to bypass the imminent heat death of the universe. As an infinitely long existence is not possible - I'm grasping at straws...).
+att(6327, 6104).
+
+arg(5914).
+text(5914, Ultimately, nothing matters.
+
+You could be elected president of a united earth, solve world poverty and hunger, cure all known diseases, and still – at the very end of the universe – nothing will be different.
+
+It will be as if neither you, nor anything else, ever existed.).
+support(5914, root).
+
+arg(8253).
+text(8253, Pointless mean that YOU don't know why it happens. Its merely a question of how much knowledge about the situation you have. A good analogy is in The Hitchhiker's Guide to the Galaxy where the earth point of existence is to of calculate The Question.).
+att(8253, root).
+
+arg(6093).
+text(6093, The purpose of life is to reproduce. Those organisms who duplicate themselves exist and those who don't are gone. Ones purpose is to improve their situation such that indirectly or directly they improve the odds of gene propagation. One is merely genetic information fighting for continued existence.).
+att(6093, root).
+
+arg(8143).
+text(8143, This is an unjustifiable claim, as we cannot make claim whether there is or is not some ultimate purpose or goal. It is fallacious to claim there is no point without also claiming knowledge about things which are ultimately unknowable. This claim is as ignorant as people claiming an afterlife.).
+att(8143, root).
 

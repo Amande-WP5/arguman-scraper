@@ -1,36 +1,299 @@
 arg(root).
 text(root, Socialized Prostitution would greatly improve many aspects of America.).
 
-arg(15874).
-text(15874, Prostitutes wouldn't be victimized by the gov't for selling what's theirs to sell. In fact, socialization could help to remove the stigmatization that many sex workers suffer as a result of lingering American puritanism, as they'd become government employees w/ benefits (no pun intended). ).
-support(15874, root).
-
-arg(15867).
-text(15867, It has been tied to a decrease in sexual violence towards women. ).
-support(15867, root).
-
-arg(15872).
-text(15872, Ok. I edited it for you. Your argument was compelling.).
-support(15872, root).
+arg(15852).
+text(15852, I think it is better to separate the given reasons in "because" premises.).
+att(15852, root).
 
 arg(15871).
 text(15871, Prostitutes serve similar functions as psychologists. They have heard it all, and thus they can be told absolutely anything. Having a member of the opposite sex to thus discuss one's life struggles, as well as providing him or her with a level of sexual validation, can heal a stress-sickened mind.).
 support(15871, root).
 
-arg(15868).
-text(15868, It could potentially lower the amount of gun violence by providing thirsty young men with some much-needed release, and by being socialized, it removes the barrier of "wealth" from preventing any individual from fulfilling a biological imperative. ).
-support(15868, root).
+arg(15874).
+text(15874, Prostitutes wouldn't be victimized by the gov't for selling what's theirs to sell. In fact, socialization could help to remove the stigmatization that many sex workers suffer as a result of lingering American puritanism, as they'd become government employees w/ benefits (no pun intended). ).
+support(15874, root).
+
+arg(17595).
+text(17595, It would allow people that can't typically have sex, to have sex.).
+support(17595, root).
+
+arg(17752).
+text(17752, The goods and services are the same in both transactions. Only the binding of the contract is different. Both contacts should be allowed. Since a binding contract would be subject to regulations it would reduce harm and loss, and therefore should not be prohibited.).
+att(17752, 17751).
+
+arg(17751).
+text(17751, It does not follow, in one case there is a implicit and hidden contract, the state cannot forbid implicit contracts because it would require to know people’s motivations *
+
+In the other case, there is a explicit contract.).
+att(17751, 17750).
+
+arg(17750).
+text(17750, If you can gift money and gift sex in return, you should also be able to trade money for sex.).
+att(17750, 17745).
+
+arg(17747).
+text(17747, The illegal one can be hidden, and the legal one can’t, i think it make a good advantage to the illegal one.).
+att(17747, 16652).
+
+arg(17745).
+text(17745, Ok, but in this sense, the gifts could already be money.).
+att(17745, 17743).
+
+arg(17743).
+text(17743, Most gifts are not used to buy sex outright, they're gifts and the gift in return is often sex, or implied to be.).
+att(17743, 17739).
+
+arg(17740).
+text(17740, You know the price you will pay before starting the courses, and it is the same for everyone.
+Your driving instructor can’t ask you 500€ to complete your driving lessons just because he want it or because he doesn’t like you.).
+att(17740, 17577).
+
+arg(17633).
+text(17633, It is not blaming the victim at all. (i don’t blame the victim in any way)
+It is simply saying that one victim + one criminal in prison, is a lot worse than no victim and no criminal **
+And that the fact criminals should be put in prison, doesn’t change that.).
+att(17633, 17622).
+
+arg(17739).
+text(17739, It is as illegal to buy sex with gifts as to buy it with money.).
+att(17739, 17571).
+
+arg(17738).
+text(17738, I think we agree it is not a general rule, by example i think we agree on : "Some people will do evil unless the state put them in prison, then we should allow the state to put them in prison, it is the lesser evil"
+
+
+You should explain why the rule hold in the specific case you are addressing.).
+att(17738, 17708).
+
+arg(17737).
+text(17737, Psychologists often illegally have sex with their patients. This is something some patients need and some psychologists fulfil. If this was legalized, regulated and paid for it would protect the psychologists and patients.).
+att(17737, 16578).
+
+arg(17736).
+text(17736, My premise was a explanation of why your premise was a non sequitur, it have nothing to do with blaming victims.
+Maybe your analogy of my premise is commonly used to blame victims, but i don’t see how my premise could be understood in this way.).
+att(17736, 17703).
 
 arg(15860).
 text(15860, It keep the discussion well organized : if don’t agree with a "because", but agree with the conclusion, i can add a "but" to the "because". (if the two things are together, it is a lot less clear)
 In fact it is the goal of this site to well organize discussions.).
-support(15860, root).
+support(15860, 15852).
+
+arg(17708).
+text(17708, if people exist who do evil unless x, it doesnt follow that we should allow x. Especialy when discussing whether x is evil or not).
+att(17708, 15868).
+
+arg(16606).
+text(16606, Then the husband would pay his wife and the wife pay her husband.).
+att(16606, 16572).
+
+arg(16603).
+text(16603, It doesn’t skews the "support rate".
+If people disagree with the argument they will put their disagreement on top level, and if they disagree with a particular premise they will put their disagreement on this premise.
+Which is logical and keep the discussion well structured.).
+att(16603, 16571).
+
+arg(16579).
+text(16579, People who kill if they are deprived of sex should probably be put in prison.).
+att(16579, 15868).
+
+arg(16578).
+text(16578, You can already hire psycholgists. Who I assume would argue they were better qualified).
+att(16578, 15871).
+
+arg(17568).
+text(17568, Prostitution is unregulated, unregulated markets increase harm. Legalized and regulated prostitution would reduce harm.).
+support(17568, root).
+
+arg(17733).
+text(17733, To answer to the fallacy: Reduction of reported rape is definitely a sign of overall reduction of rape.).
+support(17733, 15867).
+
+arg(17731).
+text(17731, Psychologists cannot legally provide physical intimacy, the key point.).
+att(17731, 16578).
+
+arg(17695).
+text(17695, This can apply to any transaction.).
+att(17695, 17621).
+
+arg(17567).
+text(17567, Men wouldn't waste women's time with uncommitted relationships as much, since they could just buy sex.
+People in general would waste others and their own time less if they could just buy sex.).
+support(17567, root).
+
+arg(17703).
+text(17703, It is an argument commonly used to blame victims of rape and excuse the perpitrator. If you mean it to be taken some other way you should be more specific).
+att(17703, 17634).
+
+arg(17696).
+text(17696, Others try to use this as an argument for banning it.).
+att(17696, 17588).
+
+arg(17636).
+text(17636, "someone do something that provoked his death"(fact) "then this person is responsible of his own death"(moral consideration).
+
+The moral consideration don’t follow the fact at all.
+).
+support(17636, 17634).
+
+arg(17634).
+text(17634, The good analogy would be "if she had let him rape her he wouldnt have kill her" (Which can be used to blame the victim by implying "then she is responsible of her own death" by people with bad logic or moral).
+But it is a simple fact, that don’t blame the victim in any way. (or condones criminals)).
+att(17634, 17622).
+
+arg(17622).
+text(17622, This is just a form of victim blaming equivilant to "if she had just let him rape her he wouldnt have been forced to kill her").
+att(17622, 16614).
+
+arg(17621).
+text(17621, Except it is enough to invalidate contracts in many contries).
+att(17621, 17579).
+
+arg(17526).
+text(17526, You could be asked to pay with sexual favours.
+
+).
+att(17526, root).
+
+arg(17588).
+text(17588, I was not speaking about banning prostitution.).
+att(17588, 17559).
+
+arg(17579).
+text(17579, This can apply to any transaction so is not a good enough reason.).
+att(17579, 17577).
+
+arg(17577).
+text(17577, Because the cost to you of having sex with your driving instructor is hard to evaluate. People will agree to things which are not really fair deals when under pressure to pay, especialy young people).
+att(17577, 17560).
+
+arg(16609).
+text(16609, Prostitution can have a negative psychological impact on people who prostitute.).
+att(16609, root).
+
+arg(17560).
+text(17560, If there is consent what is the problem?).
+att(17560, 17526).
+
+arg(17559).
+text(17559, You can't ban things based on that reason alone. Many things can have a negative psychological impact. Relationships in general often lead to a negative psychological impact. You can't ban relationships or prostitution on that reasoning alone.).
+att(17559, 16609).
+
+arg(17730).
+text(17730, It would reduce the sex slave and human trafficking market.).
+support(17730, root).
+
+arg(16746).
+text(16746, Banning prostitution is subjecting people's sexual relationship and rights over own body to laws and regulations ).
+att(16746, 16577).
+
+arg(16652).
+text(16652, It's not any harder to do the forcing. Any rule would just be enforced by inspections. The question is about how quickly a failing inspection brothel would be closed down vs an illegal one).
+att(16652, 16648).
+
+arg(16648).
+text(16648, It seem much more difficult to force people to do something in a know place where there are regular inspections, than to do it everywhere else.
+Also we can restrict the authorization to brothels which are run democratically by the prostitutes themselves.).
+att(16648, 16615).
+
+arg(16646).
+text(16646, I edited my premise to make it more clear.).
+att(16646, 16619).
+
+arg(16615).
+text(16615, How would this work in practice? If I run a 'state licenced brothel' but force people to work there, presumably there are various inspections to pass and licences to buy rather than police busts to avoid. Generaly my life is easier).
+att(16615, 16611).
+
+arg(16619).
+text(16619, there are plenty of bad things which would reduce crime. Legalise murder, chop off hands for theft, put cameras in every house etc).
+att(16619, 16614).
+
+arg(16616).
+text(16616, The 'gun crime' because, mentions wealth being a barrier which would be removed.).
+att(16616, 16612).
+
+arg(16614).
+text(16614, People who kill should be put in prison.
+But that doesn't make it less good to reduce the probability that they commit crimes in the first place.
+I see no reason of why your premise is a argument against the premise you are arguing, i think it is a non sequitur.).
+att(16614, 16579).
+
+arg(16612).
+text(16612, The state would employ the prostitutes, but it doesn’t imply it would be free.).
+att(16612, 16608).
+
+arg(16611).
+text(16611, The contracts would be managed by the state, other "contracts" would be null and people enforcing the law would not have to consider it.
+If you are found to do human trafficking (about sex or not), you will be arrested if police find you.).
+att(16611, 16607).
+
+arg(16572).
+text(16572, A husband and wife could both become state prostitutes and be paid for sleeping together).
+att(16572, root).
+
+arg(16608).
+text(16608, My interpretation of "socalised" is that the state employees the prostitutes or subsidises them in some way. As opposed to simply legalising private prostitution).
+att(16608, 16606).
+
+arg(16607).
+text(16607, It would make the law harder to enforce in practice. Trafficed women rely on someone kicking the door in and arresting everyone present. Not long drawn out civil prosecutions about whether they signed a contract or how old someone thought they were).
+att(16607, 16605).
+
+arg(16605).
+text(16605, It would not make such traffic and slavery more legal, then it doesn’t remove the protection of the law.).
+att(16605, 16574).
+
+arg(16577).
+text(16577, Thier sexual relationships and rights over thier own body would be subject to laws and regulations, such as forced sexual health examinations. This conflict with common law is why this practoce has been stopped in the past).
+att(16577, 15874).
 
 arg(15856).
 text(15856, Perhaps, but I don't think it makes much of a difference. It really just gives opponents more room to dispute the claim.).
-att(15856, root).
+att(15856, 15852).
 
-arg(15852).
-text(15852, I think it is better to separate the given reasons in "because" premises.).
-att(15852, root).
+arg(15872).
+text(15872, Ok. I edited it for you. Your argument was compelling.).
+support(15872, 15860).
+
+arg(17734).
+text(17734, Psychologists often illegally have sex with their patients.).
+att(17734, 17731).
+
+arg(16571).
+text(16571, It skews the 'support rate' and could incentivise people to put all thier dissagrements on the top level as well to counter this).
+att(16571, 15852).
+
+arg(15868).
+text(15868, It could potentially lower the amount of gun violence by providing thirsty young men with some much-needed release, and by being socialized, it removes the barrier of "wealth" from preventing any individual from fulfilling a biological imperative. ).
+support(15868, root).
+
+arg(16574).
+text(16574, The vast majority of prostitutes are trafficed women forced into effective slavery of the worst kind. Legalising it because of a liberal middle class fantasy removes the protection of the law from those who most need it).
+att(16574, root).
+
+arg(15867).
+text(15867, It has been tied to a decrease in sexual violence towards women. ).
+support(15867, root).
+
+arg(17571).
+text(17571, People buy sex with gifts. There's no reason not to allow people to exchange money as well.).
+support(17571, root).
+
+arg(17565).
+text(17565, Paying for sex is already legal, you just have to film it.
+There's no good reason it should be illegal without filming it.).
+support(17565, root).
+
+arg(19290).
+text(19290, To expand on what I meant by socialized, I was envisioning a kind of voucher system. Maybe 3-12 vouchers per year. Those would be funded through federal healthcare spending. After someone's vouchers have been spent, they have to pay again.).
+att(19290, 16608).
+
+arg(19086).
+text(19086, Which, unlike prostitution, is actually ethically wrong.).
+att(19086, 17734).
+
+arg(19085).
+text(19085, Of course it does. On a government policy level, that which creates the greatest combined benefit while inflicting the least amount of harm to OTHERS, is not only desirable, but the ENTIRE PURPOSE OF GOVERNMENT. Government doesn't exist to rule on what is good and evil, unless you're in a theocracy.).
+att(19085, 17708).
 

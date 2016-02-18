@@ -1,9 +1,21 @@
 arg(root).
 text(root, Philosophy is Useful).
 
-arg(12496).
-text(12496, Philosophy can't be useful because usefulness affects impartiality. You can't be impartial while trying to be useful.).
-att(12496, root).
+arg(12785).
+text(12785, It is at the root of any other knowledges.).
+support(12785, root).
+
+arg(12542).
+text(12542, There are things which are useful for itself.).
+att(12542, 12540).
+
+arg(12777).
+text(12777, A tool is impartial, but it still can be useful.).
+att(12777, 12496).
+
+arg(12531).
+text(12531, Phylosophy isn't useful for itselt).
+att(12531, root).
 
 arg(12539).
 text(12539, Philosophy, especially ethics, discuss about impartiality. 
@@ -13,14 +25,6 @@ It let us understand more about impartiality. Bringing the world better.
 Philosophy can be useful, and not negatively affecting impartiality.).
 att(12539, 12496).
 
-arg(12531).
-text(12531, Phylosophy isn't useful for itselt).
-att(12531, root).
-
-arg(12543).
-text(12543, Animal cells, for instance, are useful for themselves.).
-support(12543, root).
-
 arg(12532).
 text(12532, It depends on reflection and thoughts a person to be useful or not. Some people may have great insights from phylosophy, others not.).
 support(12532, 12531).
@@ -29,19 +33,56 @@ arg(12540).
 text(12540, Nothing is useful for itself.).
 att(12540, 12531).
 
-arg(12542).
-text(12542, There are things which are useful for itself.).
-att(12542, 12540).
+arg(18839).
+text(18839, Logic is a form and product of philosophy. Developed via philosophical discourse.).
+att(18839, 17079).
+
+arg(17079).
+text(17079, Isn't logic at the root of any other knowledge?).
+att(17079, 12785).
+
+arg(16922).
+text(16922, In order to make a claim such as "pleasure is useful in itself" you must support the claim with evidence.).
+att(16922, 16712).
+
+arg(16712).
+text(16712, Pleasure is useful in itself.).
+support(16712, 12542).
+
+arg(16415).
+text(16415, They are useful only for our continuous survival, because the animal cells alone cannot rationalize (And neither most animals can)).
+att(16415, 12543).
+
+arg(12496).
+text(12496, Philosophy can't be useful because usefulness affects impartiality. You can't be impartial while trying to be useful.).
+att(12496, root).
+
+arg(12543).
+text(12543, Animal cells, for instance, are useful for themselves.).
+support(12543, 12542).
+
+arg(17081).
+text(17081, It is certainly too near of a personal definition, but i consider philosophy to be about creating and defining concepts (like truth, knowledge, reality, validity, logic), and logic to be about correctly manipulating the concepts.
+Then i think both are at the root.).
+att(17081, 17079).
+
+arg(18848).
+text(18848, It encourages one to verify his beliefs and/or actions. Without philosophy, one may do/believe things with no rationale.).
+support(18848, root).
 
 arg(12648).
 text(12648, Philosophical thought has existed since the dawn of mankind. Philosophy as we know it started centuries before the common era and we still wonder what love is.).
 att(12648, root).
 
-arg(12777).
-text(12777, A tool is impartial, but it still can be useful.).
-att(12777, 12496).
+arg(19076).
+text(19076, But philosophy is not necessary to do that. Only the recognition that you are not omniscient and that you are not infallible are required.).
+att(19076, 18848).
 
-arg(12785).
-text(12785, It is at the root of any other knowledges.).
-support(12785, root).
+arg(19084).
+text(19084, Depends on how you define philosophy. I would argue that logic in and of itself is all that is required to come to this conclusion, and the presence of logic doesn't necessarily make a line of reasoning philosophic in nature, as logic is not exclusive to philosophy.).
+att(19084, 19082).
+
+arg(19082).
+text(19082, Recognizing that you are not omniscient and are fallible requires a degree of metaphysical reasoning, and coming to your conclusion is inherently philosophical.).
+att(19082, 19076).
 

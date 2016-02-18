@@ -11,7 +11,7 @@ att(13466, root).
 
 arg(13475).
 text(13475, Accuracy is not the only possible form of real infinity.).
-att(13475, root).
+att(13475, 13329).
 
 arg(13496).
 text(13496, Any object can be divided infinitely and yet the parts of it always exist in one form or another. ).
@@ -39,11 +39,11 @@ text(13500, However since reality is full of conscious beings in the act of obse
 And if there is always at least one conscious being in existence then time is infinite.).
 att(13500, 13351).
 
-arg(13614).
-text(13614, It depends on what you mean by infinity. In mathematics, you can treat infinity like a number so long as it is meaningful to do so. If you mean physical infinities, there are many results in physics that require adding terms that are infinite to get something finite. ).
-att(13614, root).
-
 arg(13612).
 text(13612, The black hole information paradox will have to be resolved before we can know this for certain. ).
 att(13612, 13496).
+
+arg(13614).
+text(13614, It depends on what you mean by infinity. In mathematics, you can treat infinity like a number so long as it is meaningful to do so. If you mean physical infinities, there are many results in physics that require adding terms that are infinite to get something finite. ).
+att(13614, root).
 

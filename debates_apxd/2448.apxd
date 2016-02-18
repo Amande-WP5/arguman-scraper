@@ -1,0 +1,39 @@
+arg(root).
+text(root, One should have to pass a test to be able to vote, eliminating those who have little to no knowledge about politics and the ramifications of political actions.).
+
+arg(17298).
+text(17298, Who decides what the questions are? If it's the elected officials, it's far too likely that they would manipulate the questions in order to secure themselves a seat. You already see similar versions of this with other forms of voter control.).
+att(17298, root).
+
+arg(17226).
+text(17226, The questions used may incidentally enforce other sorts of bias.  Such a system thereby creates an opportunity and risk for politically motivated voter suppression.).
+att(17226, root).
+
+arg(17225).
+text(17225, A democracy of ignorant voters is less likely to make choices or elect candidates that best serve their interests.).
+support(17225, root).
+
+arg(16802).
+text(16802, Then we won't have a democracy, but yes some form of oligarchy where only people with time to study politics (a.k.a. rich people) would have a vote. And the test could be made biased by the governing party to support only their ideology.).
+att(16802, root).
+
+arg(17179).
+text(17179, We need principles to reach pragmatic goals. If we discriminate against a group of your choosing then that group will organize and protest.
+
+You cannot help society after hurting the individual.).
+att(17179, 17146).
+
+arg(17146).
+text(17146, the principle is meant to help society. Society does not necessarily benefit from the greater consensus. Just because everyone has a voice, does not mean every voice is worth listening to. Democracy often fails on this principle. pragmatism must come before principles.).
+att(17146, 17134).
+
+arg(17134).
+text(17134, This defeats the idea of democracy, democracy says every person has a natural right to an equal vote out of principle for being a human being, not for having political knowledge.
+
+It is a matter of principle, not pragmatism.).
+att(17134, 16889).
+
+arg(16889).
+text(16889, It's easy to make a standardised test that reveals basic knowledge of politics without having it lean one way or the other. It should not have to be necessary to study for it, only have a basic understanding of politics, actions and reactions. This is not much to demand from a member of a society.).
+att(16889, 16802).
+

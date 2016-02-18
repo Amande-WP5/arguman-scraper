@@ -1,0 +1,15 @@
+arg(root).
+text(root, Programming language popularity is a major factor in deciding whether or not to use it in a project.).
+
+arg(19059).
+text(19059, Popularity increases the gene pool of possible contributors.).
+support(19059, root).
+
+arg(19176).
+text(19176, A more popular language will have a larger community and more community support, which results in more third party libraries or modules and more programmers to hire.).
+support(19176, root).
+
+arg(19137).
+text(19137, Popularity means it has been proven work.).
+support(19137, root).
+

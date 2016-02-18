@@ -1,0 +1,7 @@
+arg(root).
+text(root, Love is an illusion).
+
+arg(17418).
+text(17418, Sometimes two people create compatible illusions and seem to be in love with each other. ).
+att(17418, root).
+

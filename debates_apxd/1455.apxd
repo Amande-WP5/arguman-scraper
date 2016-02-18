@@ -1,45 +1,19 @@
 arg(root).
 text(root, Suicide is not selfish ).
 
+arg(7892).
+text(7892, Being selfish means to act based on your own preference even when you know it will hurt others. 
+Suicide is based on your own preferences, it does hurt others emotionally, and you know it.
+Suicide might actually make someone else suicide. Is it not selfish to cause so much sorrow to others?).
+att(7892, root).
+
 arg(7936).
 text(7936, You can donate your body).
 support(7936, root).
 
-arg(7233).
-text(7233, But it is selfish for others to demand you continue existence simply for their mental well-being.).
-att(7233, root).
-
-arg(8050).
-text(8050, They will still have an emotional connection to you(holding all else equal). Parenting is a life long endeavor and is a major part of our social structure. ).
-att(8050, root).
-
-arg(7396).
-text(7396, Except your children, if you decide to have them.).
-att(7396, root).
-
-arg(7398).
-text(7398, What is considered ''right'' to one person may differ to another.).
-att(7398, root).
-
-arg(7072).
-text(7072, If you commit suicide you're ignoring the negative effects it will have on the people who care about you.).
-att(7072, root).
-
-arg(7083).
-text(7083, It's not selfish, but it's never the right choice, so it does hurt at the very least one person.).
-att(7083, root).
-
 arg(8053).
 text(8053, Many people who commit suicide do not make arrangements for donation.  Or commit suicide in a way which makes their body useless, or their body is in a state where it cannot be used.).
 att(8053, 7936).
-
-arg(7089).
-text(7089, You don't owe anything to anyone.).
-support(7089, root).
-
-arg(8059).
-text(8059, What if it's in the best interest of another person/ group of people? Would it be selfish to commit suicide when a loved one is starving, to have one less mouth to feed?).
-att(8059, root).
 
 arg(7452).
 text(7452, This argument centres around yourself, which makes it selfish.).
@@ -48,14 +22,6 @@ att(7452, 7089).
 arg(8260).
 text(8260, That's only one reason to commit suicide. You can't find one reason that makes it seem ok and then say that it makes every reason ok.).
 att(8260, 8059).
-
-arg(7868).
-text(7868, everybody has at least one person that cares about them).
-att(7868, root).
-
-arg(8264).
-text(8264, If the only reason you commit suicide is to lessen your own pain, and you don't care about the impact it will have on others, then you're by definition being selfish.).
-att(8264, root).
 
 arg(7464).
 text(7464, Suicidal tendencies are in most cases an indicator of mental health issues and family members attempting to prevent suicide only have their loved one's mental well-being in mind.).
@@ -85,19 +51,9 @@ arg(7883).
 text(7883, What if they are 5 y/o?).
 att(7883, 7465).
 
-arg(7892).
-text(7892, Being selfish means to act based on your own preference even when you know it will hurt others. 
-Suicide is based on your own preferences, it does hurt others emotionally, and you know it.
-Suicide might actually make someone else suicide. Is it not selfish to cause so much sorrow to others?).
-att(7892, root).
-
 arg(7403).
 text(7403, What if you are $1 million dollars in debt from a loan?).
 att(7403, 7089).
-
-arg(10199).
-text(10199, There is nothing wrong with selfishness. ).
-att(10199, root).
 
 arg(7899).
 text(7899, What if you are so depressed you really, truly believe that nobody cares?).
@@ -106,10 +62,6 @@ att(7899, 7868).
 arg(7901).
 text(7901, You  know the impact it will have on others, but what if your own pain is so great you can't keep up?).
 att(7901, 7072).
-
-arg(10213).
-text(10213, When you believe something then it is true to you until proven otherwise.  If you committed suicide whilst of the belief that no one cares about you, then you are not being selfish because it's too late to be proven otherwise.).
-att(10213, root).
 
 arg(8038).
 text(8038, you will not know the impact it will have on others. you will be dead.).
@@ -127,16 +79,6 @@ arg(8045).
 text(8045, You know that it will have an impact on others, you do not know what that is. Additionally, if someone is distressed enough to consider suicide they are clearly not in a right state mind. Exceptions do exist,but when a young person kills themselves for example its often times extremely shortsighted ).
 att(8045, 7901).
 
-arg(10156).
-text(10156, Being selfish means to take only for yourself. If you take with the well being of others in mind you are not being selfish. Therefore, It could be selfish or not based on the situation. 
-
-).
-att(10156, root).
-
-arg(10321).
-text(10321, Whether or not it is selfish depends on intent, which is not defined by the act alone.).
-att(10321, root).
-
 arg(10323).
 text(10323, Selfishness does not lead to a positively productive society.).
 att(10323, 10199).
@@ -153,6 +95,56 @@ arg(10198).
 text(10198, If they killed themselves because they are depressed, but they donate their body, most people would say that that isn't selfish. In this case it does not seem that the motivation of the action (donating their body) is relevant to the question of "is it selfish?").
 att(10198, 8267).
 
+arg(7083).
+text(7083, It's not selfish, but it's never the right choice, so it does hurt at the very least one person.).
+att(7083, root).
+
+arg(8050).
+text(8050, They will still have an emotional connection to you(holding all else equal). Parenting is a life long endeavor and is a major part of our social structure. ).
+att(8050, 7465).
+
+arg(7396).
+text(7396, Except your children, if you decide to have them.).
+att(7396, 7089).
+
+arg(7398).
+text(7398, What is considered ''right'' to one person may differ to another.).
+att(7398, 7083).
+
+arg(7089).
+text(7089, You don't owe anything to anyone.).
+support(7089, root).
+
+arg(10199).
+text(10199, There is nothing wrong with selfishness. ).
+att(10199, root).
+
+arg(10156).
+text(10156, Being selfish means to take only for yourself. If you take with the well being of others in mind you are not being selfish. Therefore, It could be selfish or not based on the situation. 
+
+).
+att(10156, root).
+
+arg(8059).
+text(8059, What if it's in the best interest of another person/ group of people? Would it be selfish to commit suicide when a loved one is starving, to have one less mouth to feed?).
+att(8059, 7892).
+
+arg(7868).
+text(7868, everybody has at least one person that cares about them).
+att(7868, 7466).
+
+arg(7072).
+text(7072, If you commit suicide you're ignoring the negative effects it will have on the people who care about you.).
+att(7072, root).
+
+arg(10321).
+text(10321, Whether or not it is selfish depends on intent, which is not defined by the act alone.).
+att(10321, root).
+
+arg(10213).
+text(10213, When you believe something then it is true to you until proven otherwise.  If you committed suicide whilst of the belief that no one cares about you, then you are not being selfish because it's too late to be proven otherwise.).
+att(10213, 8041).
+
 arg(14686).
 text(14686, Nor think a people who really love you think something like: you don`t have to die, because i want my own utility for your existence. They wish that you`re alive. Maybe they have a bad conscience.).
 att(14686, 14684).
@@ -161,25 +153,13 @@ arg(14687).
 text(14687, it`s really weird to say that. If my friend would suicide, i wouldn`t think, how selfish you are. I would doubt on the world. How is it possible to live in a world where people have the desire to suicide ? To moan about my own pain, is completly wrong in this situation.).
 att(14687, 7072).
 
-arg(14688).
-text(14688, How could this ever be selfish ? Where is the utility for the peron who suicide ? Dead is not a utility, is the worst thing ever. It`s like someone who scratch themselves with knives. Where is the utility ? It`s selfish because you make a ugly look, so that the others can desire you ?).
-support(14688, root).
-
 arg(14733).
 text(14733, Unfortunately death is not the worst thing ever.).
 att(14733, 14688).
 
-arg(7884).
-text(7884, even though suicide is not inherently selfish, because there are cases in which it can be performed with the best interests of others in mind, it seems unreasonable to offer the blanket statement that suicide is not selfish.).
-att(7884, root).
-
 arg(14959).
 text(14959, it`s wrong to give the debt to the dead. He had a problem. And he was with high certainity not only the factor who had produce this mega problem (that let him suicide). We should blame the society, but not the individual human. We blame the symptoms, when we should blame the disease. ).
 att(14959, 7072).
-
-arg(10215).
-text(10215, When you cease to exist, others cease to exist too).
-support(10215, root).
 
 arg(14390).
 text(14390, You can consider the negative effects it will have, but still think it is better to commit suicide.).
@@ -201,4 +181,24 @@ att(14393, 7892).
 arg(14394).
 text(14394, It is taking anyone suffering into accounts, yours and theirs in a equal manner.).
 support(14394, 14393).
+
+arg(7233).
+text(7233, But it is selfish for others to demand you continue existence simply for their mental well-being.).
+att(7233, 7072).
+
+arg(8264).
+text(8264, If the only reason you commit suicide is to lessen your own pain, and you don't care about the impact it will have on others, then you're by definition being selfish.).
+att(8264, 7901).
+
+arg(10215).
+text(10215, When you cease to exist, others cease to exist too).
+support(10215, root).
+
+arg(7884).
+text(7884, even though suicide is not inherently selfish, because there are cases in which it can be performed with the best interests of others in mind, it seems unreasonable to offer the blanket statement that suicide is not selfish.).
+att(7884, root).
+
+arg(14688).
+text(14688, How could this ever be selfish ? Where is the utility for the peron who suicide ? Dead is not a utility, is the worst thing ever. It`s like someone who scratch themselves with knives. Where is the utility ? It`s selfish because you make a ugly look, so that the others can desire you ?).
+support(14688, root).
 

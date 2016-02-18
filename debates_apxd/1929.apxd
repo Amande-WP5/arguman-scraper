@@ -1,9 +1,13 @@
 arg(root).
 text(root, There is existence after death.).
 
-arg(12797).
-text(12797, That being said, this isn't relevant, because what happens to that energy when we die is known. The signals were only able to exist because energy was brought to the brain via oxygen due to blood flow due to the heart pumping. When the heart stops pumping, no more oxygen, no more signals.).
-att(12797, root).
+arg(13001).
+text(13001, "Energy evolves" is a meaningless statement.).
+att(13001, 12627).
+
+arg(13002).
+text(13002, Evolution is a process that affects populations of organisms, not physical quantities.).
+support(13002, 13001).
 
 arg(12442).
 text(12442, The meaning of "existence after death" is uncertain.
@@ -17,10 +21,6 @@ It can mean:
 3. Physical Body (yes, it exist after death) ).
 att(12442, root).
 
-arg(13008).
-text(13008, The concept of existence in general and our universe specifically will not come to an end, but your consciousness will.).
-support(13008, root).
-
 arg(13007).
 text(13007, That existence does not include you.).
 att(13007, root).
@@ -28,24 +28,6 @@ att(13007, root).
 arg(13009).
 text(13009, No consciousness has ever been observed to exist without a biological brain, thus it is safe to conclude that when your brain ceases to function, your consciousness will no longer exist.).
 support(13009, 13008).
-
-arg(13010).
-text(13010, Energy is prone to entropy, not spontaneous growth in complexity.).
-att(13010, root).
-
-arg(12439).
-text(12439, There is no positive proof for it.
-
-(I am not claiming there is not existence, but only doubting the justification for claiming there is such existence.)).
-att(12439, root).
-
-arg(12444).
-text(12444, Energy can be dissipated or transform into another type. It's just as likely that the energy of your conciousness is just dissipated and absorbed by other molecules. ).
-att(12444, root).
-
-arg(12621).
-text(12621, Consciousness is not energy, it is a concept.).
-att(12621, root).
 
 arg(12627).
 text(12627, Everything in the universe is made up of atoms. The chemicals in our brain that create thought are made of atoms and are only different to anything "physical" by the complexity and arrangement of those atoms, Energy evolves, so couldn't that mean our thoughts can evolve beyond our physical senses?).
@@ -58,10 +40,6 @@ support(12629, 12621).
 arg(12701).
 text(12701, It could be considered chemical or electrical energy.).
 att(12701, 12621).
-
-arg(12362).
-text(12362, Energy can not be created or destroyed it's nature is to evolve, our conscientiousness is simply a complex form of energy.).
-support(12362, root).
 
 arg(12720).
 text(12720, You have to prove that. Chemical or electrical energy is detectable and testable.).
@@ -83,11 +61,76 @@ arg(13000).
 text(13000, Consciousness isn't a form of energy, it's a particular arrangement of matter and energy. There is no conservation law for arrangements.).
 att(13000, 12362).
 
-arg(13001).
-text(13001, "Energy evolves" is a meaningless statement.).
-att(13001, 12627).
+arg(12439).
+text(12439, There is no positive proof for it.
 
-arg(13002).
-text(13002, Evolution is a process that affects populations of organisms, not physical quantities.).
-support(13002, 13001).
+(I am not claiming there is not existence, but only doubting the justification for claiming there is such existence.)).
+att(12439, root).
+
+arg(13008).
+text(13008, The concept of existence in general and our universe specifically will not come to an end, but your consciousness will.).
+support(13008, 13007).
+
+arg(12362).
+text(12362, Energy can not be created or destroyed it's nature is to evolve, our conscientiousness is simply a complex form of energy.).
+support(12362, root).
+
+arg(13010).
+text(13010, Energy is prone to entropy, not spontaneous growth in complexity.).
+att(13010, 12627).
+
+arg(12444).
+text(12444, Energy can be dissipated or transform into another type. It's just as likely that the energy of your conciousness is just dissipated and absorbed by other molecules. ).
+att(12444, 12362).
+
+arg(12621).
+text(12621, Consciousness is not energy, it is a concept.).
+att(12621, 12362).
+
+arg(12797).
+text(12797, That being said, this isn't relevant, because what happens to that energy when we die is known. The signals were only able to exist because energy was brought to the brain via oxygen due to blood flow due to the heart pumping. When the heart stops pumping, no more oxygen, no more signals.).
+att(12797, 12794).
+
+arg(19482).
+text(19482, It is worth pointing out that absence of evidence is not the evidence of absence.
+
+Ultimately I still agree, but I feel like we'd be arguing in bad faith if we didn't mention that.).
+att(19482, 13009).
+
+arg(18985).
+text(18985, There is a law of conservation of information, but it's mostly irrelevant here.).
+att(18985, 13000).
+
+arg(18984).
+text(18984, That's just a rehash of the Ontological argument, and it's just as invalid.).
+att(18984, 12629).
+
+arg(19481).
+text(19481, That's why I said it was irrelevant. It's interesting, but ultimately tangential to this debate.).
+att(19481, 19468).
+
+arg(19469).
+text(19469, Every claim of fact needs supporting evidence.This claim has none.).
+att(19469, root).
+
+arg(19182).
+text(19182, There is no viable proof that humans possess a soul. Until more concrete scientific evidence exists, there is little to no reason to believe that human experience will extend beyond death.).
+att(19182, root).
+
+arg(19468).
+text(19468, Conservation of information is used to mean the state of matter and particles.Black Holes have been a challenge to the claim. Hawking has just published a new theory on the topic whereby conservation occurs in "soft" form. ).
+att(19468, 18985).
+
+arg(18986).
+text(18986, There is no self.).
+att(18986, root).
+
+arg(19164).
+text(19164, I assume the argument mean that the consciousness of someone still exists after the destruction of the body.
+If there is no self, there is not a "consciousness of someone".).
+att(19164, 18986).
+
+arg(19470).
+text(19470, A sheep's pelt continues on after the death of the sheep. ).
+support(19470, root).
 

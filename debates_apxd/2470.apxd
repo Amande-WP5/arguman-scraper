@@ -1,0 +1,43 @@
+arg(root).
+text(root, Cats are better than dogs).
+
+arg(17290).
+text(17290, Cats don't actually care about people, all they want is your food. They don't love YOU, they love your FOOD.).
+att(17290, root).
+
+arg(16838).
+text(16838, They have an own, free will.).
+support(16838, root).
+
+arg(16837).
+text(16837, They take care of their own hygiene, and you don't have to wash them. ).
+support(16837, root).
+
+arg(17293).
+text(17293, According to this article by National Geographic, cats tend to treat owners like fellow cats. Cats have been studied giving food, like rats, to other cats. This is not what I'd expect as a tactic to manipulate someone to get food; it seems like an animal that cares.).
+att(17293, 17290).
+
+arg(17292).
+text(17292, You disagreed with your own statement. What?).
+att(17292, 16839).
+
+arg(17291).
+text(17291, In disagreeing with the agreer, you are saying that you disagree with the original statement; You believe dogs are better than cats. For this to be a good enough reason for dogs to be better than cats, no dogs would be stubborn. I believe that cats and dogs can both be stubborn, and nothing changes.).
+att(17291, 16839).
+
+arg(16839).
+text(16839, Sometimes they are stubborn...).
+att(16839, 16838).
+
+arg(18981).
+text(18981, They saw it as a pro and a con).
+support(18981, 17292).
+
+arg(18980).
+text(18980, That's not at all true. To add a "but" you merely need to disagree with the statement directly above. You just showed that with your "but". Each additional premise is supposed to be considered the head of its own argument tree. That's how the algorithm calculates total score.).
+att(18980, 17291).
+
+arg(18971).
+text(18971, If you want a pet that is more loving, go for a dog. If you want a more clean, sophisticated pet, go with cats. People might prefer one trait over another.).
+att(18971, root).
+

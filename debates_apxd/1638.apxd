@@ -9,6 +9,14 @@ arg(9014).
 text(9014, President is a job in which one requires experience to be effective; a week is not long enough to build up that experience.).
 att(9014, root).
 
+arg(9166).
+text(9166, That's the purpose of Congress. Special interests craft legislation to fit their interests. The people we choose to represent us can't read and understand the laws they vote for. You expect the general public to do so?).
+att(9166, 9059).
+
+arg(9069).
+text(9069, This is my one chance to become president).
+support(9069, root).
+
 arg(9040).
 text(9040, A democracy is supposed to fairly represent the will of the people, all current system create stable biases, using lottery you achieve the least biased system for state-ruling).
 att(9040, 9014).
@@ -17,10 +25,6 @@ arg(9059).
 text(9059, How about a direct democracy where the people vote on political issues themselves? Online for example. If some idiot were to win the lottery, he could completely fuck up the US if he wanted to. It's way to risky in my opinion.).
 att(9059, 9040).
 
-arg(9069).
-text(9069, This is my one chance to become president).
-support(9069, root).
-
 arg(9087).
 text(9087, Then there's still someone/some above who decide what issues are important and frames for the people how they should vote creating a strong bias favouring those in power. A random president might have powers swaying him/her but is during their week the absolute authority on what happens).
 att(9087, 9059).
@@ -28,10 +32,6 @@ att(9087, 9059).
 arg(9147).
 text(9147, There is already a large amount of voter apathy over elections set every 6 months regarding issues most voters do not care about. Requiring voting for every issue would exacerbate the problem now we have now with only extremists voting regularly.).
 att(9147, 9059).
-
-arg(9166).
-text(9166, That's the purpose of Congress. Special interests craft legislation to fit their interests. The people we choose to represent us can't read and understand the laws they vote for. You expect the general public to do so?).
-att(9166, 9059).
 
 arg(9167).
 text(9167, I don't want you to be president.).

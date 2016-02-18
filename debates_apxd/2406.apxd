@@ -1,25 +1,57 @@
 arg(root).
 text(root, The UK should join the bombing of Isis/Daesh in Syria).
 
+arg(18068).
+text(18068, they have nothing to gain from it ).
+att(18068, root).
+
+arg(16563).
+text(16563, Historicaly we have a good record for ruling foreign countries).
+support(16563, root).
+
 arg(16180).
 text(16180, Bombing supports Daeshs propaganda that the west are cowards and without an appropriate follow-through/withdrawl plan this idea will flourish and find new support in the middle east.).
 att(16180, root).
+
+arg(16221).
+text(16221, Do we work with our allies to degrade and destroy this threat and do we go after these terrorists in their heartlands from where they are plotting to kill British people, or do we sit back and wait for them to attack us?).
+att(16221, 16215).
+
+arg(16213).
+text(16213, I don't pretend to be in a position to dictate what's an acceptable number. The west's terrorism problem, generally speaking, seems to stem from the belief that they think they are.).
+att(16213, 16200).
+
+arg(16197).
+text(16197, Part of the Daesh gameplan is to encourage dissent between the West and moderate Muslims in all countries in order to radicalise those Muslims. Sending bombs into contested zones helps Daesh achieve those goals.).
+support(16197, 16180).
+
+arg(16182).
+text(16182, Can anyone actually be WORSE than ISIS?).
+att(16182, 16180).
+
+arg(16194).
+text(16194, Daesh are probably the most extreme example of extremism the west has seen, what could be worse? If there are more of them, believing in the same ideas.).
+att(16194, 16182).
+
+arg(16183).
+text(16183, ISIS are already killing innocents. Doing nothing causes that to carry on).
+att(16183, 16179).
+
+arg(16178).
+text(16178, It has been reported that we have sold this "capability" to Saudi Arabia, who are already using it in Syria.).
+att(16178, 16159).
 
 arg(16160).
 text(16160, The UK Foreign Affairs Committee published a report saying there should be no British airstrikes in Syria without a coherent international strategy to both defeat ISIL and end the Syrian civil war.).
 att(16160, root).
 
-arg(16238).
-text(16238, Blocking finances is also a great way forward
-
-We're already doing that by the way, and it hasn't made them poor
-
-Doesn't mean we shouldn't bomb them).
-support(16238, root).
-
 arg(16152).
 text(16152, We should do something to help those who are dying or fleeing ).
 support(16152, root).
+
+arg(16491).
+text(16491, I am Syrian, and I 100% agree with that).
+support(16491, 16155).
 
 arg(16155).
 text(16155, It would be better for the Syrian people if we let Assad lead the fight and offer him lots of support. The Syrian people would prefer Assad restoring order to being bombed.).
@@ -29,41 +61,47 @@ arg(16159).
 text(16159, The UK has a low-collateral-damage capability that other countries participating in the bombing do not have).
 support(16159, root).
 
+arg(16238).
+text(16238, Blocking finances is also a great way forward
+
+We're already doing that by the way, and it hasn't made them poor
+
+Doesn't mean we shouldn't bomb them).
+support(16238, 16235).
+
+arg(16179).
+text(16179, Bombs are indiscriminate, regardless how accurate, bombs will kill innocents as well as the intended.).
+att(16179, root).
+
+arg(16164).
+text(16164, The foreign affairs committee, consisting of elected members of parliament believe that the PM has failed to justify his case for intervention. ).
+att(16164, root).
+
+arg(16153).
+text(16153, Fighting in Iraq and Afghanistan has not stabilised the region or removed the threat of terrorism ).
+att(16153, root).
+
 arg(16237).
 text(16237, We're better at precision bombing. Innocents are better off if they ARE ours rather than someone elses).
-att(16237, root).
+att(16237, 16236).
 
 arg(16236).
 text(16236, They don't have to be British bombs.).
-att(16236, root).
+att(16236, 16223).
 
 arg(16235).
 text(16235, But of course, but dropping bombs isn't the only way to do that.).
-att(16235, root).
+att(16235, 16221).
 
 arg(16224).
 text(16224, But is the number more than 0?
 
 Would you support accidentally killing one innocent to save 1000s of innocents from being killed in a far more brutal way?).
-att(16224, root).
+att(16224, 16213).
 
 arg(16181).
 text(16181, Can the UK afford NOT to? Evil prevails when the good who are able do nothing).
-att(16181, root).
-
-arg(16223).
-text(16223, The Joint Intelligence Committee - the UK's senior intelligence body - says that there are 70k-90k moderate boots on the ground already with whom we could work.
-
-They don't have to be British boots).
-att(16223, root).
-
-arg(16221).
-text(16221, Do we work with our allies to degrade and destroy this threat and do we go after these terrorists in their heartlands from where they are plotting to kill British people, or do we sit back and wait for them to attack us?).
-att(16221, root).
-
-arg(16215).
-text(16215, There are already 10 other counties dropping bombs in Syria supposedly targeting Daesh. Is the UK participation going to lead to a warrantable increase?).
-att(16215, root).
+att(16181, 16154).
 
 arg(16200).
 text(16200, How many innocents would you accept dying to eliminate ISIS?
@@ -76,65 +114,29 @@ text(16200, How many innocents would you accept dying to eliminate ISIS?
 1000,000?
 
 At the moment you're saying 0, which seems crazy).
-att(16200, root).
-
-arg(16213).
-text(16213, I don't pretend to be in a position to dictate what's an acceptable number. The west's terrorism problem, generally speaking, seems to stem from the belief that they think they are.).
-att(16213, 16200).
+att(16200, 16195).
 
 arg(16209).
 text(16209, How has that worked out for us in the past?).
-att(16209, root).
+att(16209, 16199).
 
 arg(16207).
 text(16207, Boots on the ground is not what's on offer. I'll go back to the original point, dropping bombs, if that's all you do, has the best chance of promoting anti-western sentiment.).
-att(16207, root).
+att(16207, 16201).
 
 arg(16201).
 text(16201, The best way to get more of them, is to leave them to take over larger areas of population
 
 Bombing them and boots on the ground isn't the whole solution, but it's better than leaving them to do whatever they want. It sends a message to the world that it's okay).
-att(16201, root).
+att(16201, 16194).
 
 arg(16199).
 text(16199, But if we can save more innocents by acting than by not acting, surely the moral obligation on us to act exists?).
-att(16199, root).
-
-arg(16197).
-text(16197, Part of the Daesh gameplan is to encourage dissent between the West and moderate Muslims in all countries in order to radicalise those Muslims. Sending bombs into contested zones helps Daesh achieve those goals.).
-support(16197, 16180).
-
-arg(16182).
-text(16182, Can anyone actually be WORSE than ISIS?).
-att(16182, 16180).
+att(16199, 16195).
 
 arg(16195).
 text(16195, The difference is, the blood is then on our hands, not Daeshs. Is that a legacy we're comfortable with?).
-att(16195, root).
-
-arg(16179).
-text(16179, Bombs are indiscriminate, regardless how accurate, bombs will kill innocents as well as the intended.).
-att(16179, root).
-
-arg(16194).
-text(16194, Daesh are probably the most extreme example of extremism the west has seen, what could be worse? If there are more of them, believing in the same ideas.).
-att(16194, 16182).
-
-arg(16183).
-text(16183, ISIS are already killing innocents. Doing nothing causes that to carry on).
-att(16183, 16179).
-
-arg(16164).
-text(16164, The foreign affairs committee, consisting of elected members of parliament believe that the PM has failed to justify his case for intervention. ).
-att(16164, root).
-
-arg(16178).
-text(16178, It has been reported that we have sold this "capability" to Saudi Arabia, who are already using it in Syria.).
-att(16178, 16159).
-
-arg(16153).
-text(16153, Fighting in Iraq and Afghanistan has not stabilised the region or removed the threat of terrorism ).
-att(16153, root).
+att(16195, 16183).
 
 arg(16158).
 text(16158, Dropping bombs isn't helpful. It destroys infrastructure, roads, power, rivers etc and make life even harder than it must already be.).
@@ -143,6 +145,16 @@ att(16158, 16152).
 arg(16156).
 text(16156, It was this very interference which enabled a cause like Daesh to emerge.).
 support(16156, 16153).
+
+arg(16215).
+text(16215, There are already 10 other counties dropping bombs in Syria supposedly targeting Daesh. Is the UK participation going to lead to a warrantable increase?).
+att(16215, 16201).
+
+arg(16223).
+text(16223, The Joint Intelligence Committee - the UK's senior intelligence body - says that there are 70k-90k moderate boots on the ground already with whom we could work.
+
+They don't have to be British boots).
+att(16223, 16207).
 
 arg(16154).
 text(16154, The UK can't afford it, due to austerity measures and defence cuts ).

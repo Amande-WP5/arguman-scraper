@@ -1,6 +1,14 @@
 arg(root).
 text(root, The taking of a life is not immoral.).
 
+arg(18446).
+text(18446, A far better argument would be "not inherently immoral". As is, not only is morality entirely subjective, but you can easily point to examples where most would agree the taking of a life was immoral.).
+att(18446, root).
+
+arg(18419).
+text(18419, Your argument is not sane in a general sense. A proper formulation would be it is not NECESSARILY immoral to take a life, which I agree with. You cannot make the general affirmation of your original argument.).
+att(18419, root).
+
 arg(7327).
 text(7327, The correct spelling is '' Immoral'').
 att(7327, root).
@@ -8,4 +16,20 @@ att(7327, root).
 arg(7361).
 text(7361, What is ''immoral'' is subjective to each individual and what belief system they hold.).
 att(7361, root).
+
+arg(18399).
+text(18399, If every human was polled "Is the taking of a life immoral?", almost all of them would say that it is immoral.).
+att(18399, root).
+
+arg(19145).
+text(19145, Adjectives that describe the potential baggage that can come along with actions are typically not synonyms with the action being described.).
+att(19145, 19143).
+
+arg(19073).
+text(19073, To condone the killing of a human being, one would need to operate under the assumption that the person's life is not their own. This assumption is problematic, as it leads towards an endless cycle of killing, as well as slavery and basically every other evil that one person can inflict on another.).
+att(19073, root).
+
+arg(19143).
+text(19143, Because "the taking of a life" is an action and "immoral" is not an action. Hence they are not the same.).
+support(19143, root).
 

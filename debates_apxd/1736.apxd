@@ -17,3 +17,7 @@ arg(11949).
 text(11949, Life (as a natural system) is an example.  ).
 support(11949, 11723).
 
+arg(16655).
+text(16655, All models are isomorphic to a formal computation.).
+att(16655, 10004).
+

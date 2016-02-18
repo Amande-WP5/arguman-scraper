@@ -1,58 +1,17 @@
 arg(root).
 text(root, There is no such thing as global warming. ).
 
-arg(8459).
-text(8459, Economist deals with money, not climate.).
-att(8459, root).
+arg(9969).
+text(9969, No existing climate model is able to predict recent warming without taking rising CO2 levels into account. ).
+att(9969, 9252).
 
-arg(11786).
-text(11786, These discoveries were all unexpected.  To claim that they are being invoked as a diversionary tactic is to ignore the fact that we are always interpreting new observations through the lens of our former worldview.  In this case, our bias is to interpret electrical phenomena as a side-effect.).
-support(11786, root).
+arg(9488).
+text(9488, The real problem with complex scientific controversies is this argument that scientists in one domain need not pay attention to other related scientific domains.  This has been an issue not only in astrophysics, but also the climate sciences.).
+support(9488, 9472).
 
-arg(6019).
-text(6019, Your source is one non-scientist (he's from a conservative think tank) who wrote an article 20 years ago.).
-att(6019, root).
-
-arg(10806).
-text(10806, Accuracy has very little to do with the problem. Today we see giant effects on climate that hasn't been seen in thousands of years. So if you're comfortable with the idea that our planet is not going to be a mess in 100 years but it will be in 200 then idk what to tell you.).
-support(10806, root).
-
-arg(9198).
-text(9198, This is an argument against the premise that global warming is anthropogenic, not that it exists.).
-att(9198, root).
-
-arg(9212).
-text(9212, Source!).
-support(9212, root).
-
-arg(8777).
-text(8777, Composition of atmospheric gasses also play a role for this and other climates).
-att(8777, root).
-
-arg(9222).
-text(9222, So far as I can tell, Jeff is arguing that grad students are being taught to adopt the beliefs and attitudes of their eventual employers, which are not necessarily the beliefs and attitudes of mainstream science.).
-att(9222, root).
-
-arg(9231).
-text(9231, I'd like to see a better source for this than a passing reference to 'indoctrinating students into the dominant paradigm of physics.').
-att(9231, root).
-
-arg(10828).
-text(10828, There are tons of evidence I can't believe you, do you want us to spoon feed you?
-do a simple google search.).
-support(10828, root).
-
-arg(10993).
-text(10993, If your approach is to simply dismiss any enigmatic or unexpected observations you run across, then your conclusions will simply reflect these decisions about your focus.).
-att(10993, root).
-
-arg(9209).
-text(9209, While I would be unsurprised if he came to this conclusion, the linked source does not appear to include it.).
-att(9209, root).
-
-arg(10612).
-text(10612, The lesson which we should take from that crucial piece of history is that we should very carefully dissect our reasons for belief in science.  If we permit ourselves to simply believe something because scientists agree on it, then we ignore the risk of walking into an existential threat.).
-support(10612, root).
+arg(9481).
+text(9481, Alfven was awarded the Nobel for his creation of magnetohydrodynamics (MHD), but through observations of the ionosphere, he came to realize that astrophysicists were incorrectly applying MHD.  He used the occasion of his Nobel acceptance speech in 1970 to warn them.  He was completely ignored.).
+support(9481, 9472).
 
 arg(6059).
 text(6059, The author is an Economist, so take his comments with a grain of salt, as those best situated to talk about Climate Science are those with direct experience in the field. Further, our knowledge increases rapidly, and a 20-year-old article will not reflect our current understanding of the topic.).
@@ -62,72 +21,70 @@ arg(10615).
 text(10615, This is more than just a rhetorical claim.  If it is true that our cosmic plasma models are faulty, in that they can conduct electrical currents, then a direct consequence of that mistake is that transient events in space are far more common than scientists currently assume.  & CO2 is a distraction.).
 support(10615, 10612).
 
+arg(10957).
+text(10957, Your statement here is that there is no such thing as global warming, because climate change is worse. How does this make sense?).
+att(10957, 7190).
+
+arg(8459).
+text(8459, Economist deals with money, not climate.).
+att(8459, 6059).
+
+arg(6019).
+text(6019, Your source is one non-scientist (he's from a conservative think tank) who wrote an article 20 years ago.).
+att(6019, 5971).
+
+arg(10806).
+text(10806, Accuracy has very little to do with the problem. Today we see giant effects on climate that hasn't been seen in thousands of years. So if you're comfortable with the idea that our planet is not going to be a mess in 100 years but it will be in 200 then idk what to tell you.).
+support(10806, 10043).
+
+arg(9198).
+text(9198, This is an argument against the premise that global warming is anthropogenic, not that it exists.).
+att(9198, 8796).
+
+arg(9212).
+text(9212, Source!).
+support(9212, 9194).
+
+arg(8777).
+text(8777, Composition of atmospheric gasses also play a role for this and other climates).
+att(8777, 8720).
+
+arg(9222).
+text(9222, So far as I can tell, Jeff is arguing that grad students are being taught to adopt the beliefs and attitudes of their eventual employers, which are not necessarily the beliefs and attitudes of mainstream science.).
+att(9222, 9192).
+
+arg(9231).
+text(9231, I'd like to see a better source for this than a passing reference to 'indoctrinating students into the dominant paradigm of physics.').
+att(9231, 9220).
+
+arg(10828).
+text(10828, There are tons of evidence I can't believe you, do you want us to spoon feed you?
+do a simple google search.).
+support(10828, 9953).
+
+arg(10993).
+text(10993, If your approach is to simply dismiss any enigmatic or unexpected observations you run across, then your conclusions will simply reflect these decisions about your focus.).
+att(10993, 10839).
+
+arg(9209).
+text(9209, While I would be unsurprised if he came to this conclusion, the linked source does not appear to include it.).
+att(9209, 9193).
+
+arg(10612).
+text(10612, The lesson which we should take from that crucial piece of history is that we should very carefully dissect our reasons for belief in science.  If we permit ourselves to simply believe something because scientists agree on it, then we ignore the risk of walking into an existential threat.).
+support(10612, 10607).
+
 arg(9249).
 text(9249, Jeff's claims have never been adequately responded to, nor have they been investigated.  What the AIP did was seek to settle the case in order to minimize any larger public discussion about it.  The burden is upon the public to learn the claims, & demand investigation of whistleblower claims.).
 att(9249, 9231).
-
-arg(11796).
-text(11796, James Hansen in his book, "Storms of My Grandchildren": “I’ve come to conclude that if we burn all reserves of oil, gas, and coal, there is a substantial chance we will initiate the runaway greenhouse. If we also burn the tar sands and tar shale, I believe Venus syndrome is a dead certainty.”).
-support(11796, root).
-
-arg(7194).
-text(7194, Anaerobic bacteria. We will die suffocated by sulphur before either temperature or food scarcity).
-support(7194, root).
-
-arg(10839).
-text(10839, Irrelevant quote.).
-att(10839, root).
 
 arg(9369).
 text(9369, Jeff's claims have never been responded to because they are objectively meaningless garbage, just like all of your additions to this discussion.).
 att(9369, 9249).
 
-arg(10084).
-text(10084, Wow, this fallacy reporting system is driving me nuts. You guys are all using them wrong. 
-
-Anyhow, I am simply stating the difference between the two terms. There is no denying that global warming is happening, because the average surface temperature has been rising. There is no denying that.
-).
-att(10084, root).
-
-arg(8465).
-text(8465, China is pumping out much more climate-affecting pollution than any other developed nation, so if it's a lie, it's one they're helping make come true.).
-att(8465, root).
-
-arg(11469).
-text(11469, "... The fact that professionals are usually more well-informed than nonprofessionals contributes to the illusion that they are critical thinkers.").
-support(11469, root).
-
-arg(5816).
-text(5816, Please provide sources and elaborate.).
-att(5816, root).
-
-arg(11413).
-text(11413, Please stop spamming. You're not making your own argument here, you're simply copying/pasting what someone else has said. This platform is for thinking critically. Spamming is not thinking critically.).
-support(11413, root).
-
 arg(9220).
 text(9220, Left-middle of the graphic).
 att(9220, 9209).
-
-arg(9412).
-text(9412, The source of the letter is here, btw).
-att(9412, root).
-
-arg(11424).
-text(11424, What the fuck has this to do with global warming?? Electric currents and your shitty plasma have nothing to do with this, literally 99% of your spam quotes are irrelevant quotes.).
-att(11424, root).
-
-arg(11369).
-text(11369, We are told that the heat must have gone into the oceans.  But, ARGO buoys only measure about 30% of the ocean's waters + in parts, to only 1/10th the ocean's depth.  Further, we lack specific explanations for WHY and WHEN the oceans might exchange heat with the atmosphere.).
-support(11369, root).
-
-arg(11020).
-text(11020, Yet, to somebody versed in plasma physics and astrophysics, they understand that those 'open' field lines stretch out into the heliosphere and form the Interplanetary Magnetic Field (IMF).  In other words, this is a magnetic field which connects our Sun to our planets, and in turn, to other stars.).
-support(11020, root).
-
-arg(11468).
-text(11468, Jeff goes on to state, btw: "... Ideologically disciplined thinkers, especially the more gung-ho ones, often give the appearance of being critical thinkers as they go around deftly applying the official ideology and confidently reporting their judgments ...").
-support(11468, root).
 
 arg(9464).
 text(9464, Nothing you have posted has been subject to any form of meaningful peer review, and so should be ignored. You are obviously desperately trying super hard to make a particular case, and it's all very cute, but make it using verified sources and respectable outlets. Otherwise, as I said, fuck off.).
@@ -137,46 +94,6 @@ arg(11427).
 text(11427, In the laboratory, we observe plasmas to naturally conduct electric currents.  The solar wind which the Earth is embedded within is a plasma.  Thus, electric currents can travel into the Earth's climate system over this plasma.  Climate scientists completely ignore these currents.).
 att(11427, 11424).
 
-arg(11373).
-text(11373, The human-corrected land-based thermometers that are used to demonstrate warming exhibit poor coverage of the Earth's land surface.  As an example, there are only 8 stations for ALL OF ANTARCTICA, the 5th largest continent!  There remain huge gaps in coverage in Africa and South America.).
-support(11373, root).
-
-arg(9238).
-text(9238, This is true, but the SSW's appear correlated with both weather and climate phenomena.  So, the distinction between weather and climate is not an argument that we should avoid seeking to investigate a potential solar cause for SSW's which might eventually blur our distinction between the two.).
-att(9238, root).
-
-arg(10711).
-text(10711, The idea that TSI is the sole driver of climate produces some basic expectations for winds for planets very far away from the Sun.  The observation of these ridiculous wind speeds invites us to ask if there is a source of energy other than TSI not only at those outer planets, but also here on Earth.).
-support(10711, root).
-
-arg(10239).
-text(10239, 90% of climate experts agree that it is happening. Also, this user is spamming this thread with literally HUNDREDS of irrelevant quotes to create a clusterfuck for everybody else who is trying to argue normally.).
-support(10239, root).
-
-arg(9924).
-text(9924, It would be a mistake to treat all corporations equally when asking this question because some corporations in particular will benefit more than others from the acceptance of AGW.  That said, there are more interests at play in the graduate programs than just corporations.).
-support(9924, root).
-
-arg(11324).
-text(11324, What is happening in astrophysics today is really quite remarkable: Our textbook models for the universe's dominant state for observable matter -- plasma -- are not actually based upon modern laboratory plasma observations.  Yet, the public does not scrutinize this questionable practice.).
-support(11324, root).
-
-arg(10712).
-text(10712, People construct theories intentionally.  We do not simply discover paradigms.  When we see anomalies, we have to make a choice about what types of questions to ask.  If our decision is to refuse to question the textbook theory, then the results will simply reflect that refusal.).
-support(10712, root).
-
-arg(9234).
-text(9234, That's fine, but realize that this opens the door to missing alternative explanations which can create a more coherent story by explaining these anomalies.  Humans are endowed with an ability to consider more than one explanation for an observation; we'd be wise to use that ability.).
-att(9234, root).
-
-arg(9405).
-text(9405, "... many researchers, having grown dependent on the bandwagon, then need to find ways to keep it alive even when the field begins to stagnate. The results are usually disastrous. Either the researchers begin to think up of creative but completely absurd extensions of their methods ...").
-support(9405, root).
-
-arg(9407).
-text(9407, "... or they attempt to suppress other researchers who propose more original alternatives (usually, they do both). This, in turn, discourages new researchers from pursuing original alternatives and encourages them to join the bandwagon, which, though founded on a good idea, has now stagnated ...").
-support(9407, root).
-
 arg(11423).
 text(11423, The point being made here is that both the public and climate scientists have failed to incorporate the most important discovery of the Space Age (made in 1959) that space is not an empty vacuum, that the dominant state of matter in space is plasma, & that this plasma can conduct electric currents.).
 att(11423, 11413).
@@ -185,65 +102,96 @@ arg(11421).
 text(11421, I am posting quotes which help to make my points.  In this particular instance, the point of these quotes is to show that climate scientists do not take into account that the climate system is completely immersed within a plasma, and this plasma can inject electric charge into the climate system.).
 att(11421, 11413).
 
-arg(9240).
-text(9240, AGW advocates tend to silo their investigation to just climate; yet, many of the most significant modern discoveries of the Space Age have related to electromagnetism and plasmas.  The refusal to consider how these discoveries might impact climate science is anti-science.).
-support(9240, root).
+arg(7194).
+text(7194, Anaerobic bacteria. We will die suffocated by sulphur before either temperature or food scarcity).
+support(7194, 7190).
 
-arg(11802).
-text(11802, And if you go back to the discussions about the original data set which was thrown away, "Taylor himself has no explanation for his result ... planetary scientists are obviously expecting -- and hoping -- that the embarrassing extra heat will disappear on further investigation.").
-support(11802, root).
+arg(10839).
+text(10839, Irrelevant quote.).
+att(10839, 8792).
 
-arg(10518).
-text(10518, I hope this does not sound rude, but there is far more on the line here than somebody getting their feelings hurt about having a bunch of arguments thrown at them.  Please realize that many AGW advocates are advocating for the radical transformation of capitalism, and in some cases, geo-engineering.).
-support(10518, root).
+arg(10084).
+text(10084, Wow, this fallacy reporting system is driving me nuts. You guys are all using them wrong. 
 
-arg(12024).
-text(12024, An example of ignoring solar plasma input: "Correct - I do ignore the Earth's "plasma/magnetic environment" as there is no science that backs up the addition of W/m^2 from it into the the earth's climate system ... You know I worked for the UKMO?").
-att(12024, root).
+Anyhow, I am simply stating the difference between the two terms. There is no denying that global warming is happening, because the average surface temperature has been rising. There is no denying that.
+).
+att(10084, 9572).
 
-arg(8805).
-text(8805, In a recent meeting at the Royal Society, Piers Corbyn was told by climate modelers that they could not get CO2 to cause these wiggles in the jet stream which are known to associate with extreme weather events.).
-support(8805, root).
+arg(8465).
+text(8465, China is pumping out much more climate-affecting pollution than any other developed nation, so if it's a lie, it's one they're helping make come true.).
+att(8465, 6027).
 
-arg(9953).
-text(9953, You are asserting that "Global Warming exists because Global Warming exists." Provide evidence or show why his evidence is irrelevant.).
-att(9953, root).
+arg(11469).
+text(11469, "... The fact that professionals are usually more well-informed than nonprofessionals contributes to the illusion that they are critical thinkers.").
+support(11469, 11468).
 
-arg(12837).
-text(12837, It's not a belief.).
-att(12837, root).
+arg(5816).
+text(5816, Please provide sources and elaborate.).
+att(5816, 5812).
 
-arg(9735).
-text(9735, 9 in 10 scientists think climate change is real. The only reason nothing is being done, is because huge powerful companies are fooling the people with fake arguments, scientist bribes, and media control. Most people aren't critical in evaluating what they hear on TV).
-att(9735, root).
+arg(11413).
+text(11413, Please stop spamming. You're not making your own argument here, you're simply copying/pasting what someone else has said. This platform is for thinking critically. Spamming is not thinking critically.).
+support(11413, 9173).
 
-arg(10673).
-text(10673, In what context are we using mystery? 
+arg(9412).
+text(9412, The source of the letter is here, btw).
+att(9412, 9406).
 
-Do we have all that data and can't find the answer? 
+arg(11424).
+text(11424, What the fuck has this to do with global warming?? Electric currents and your shitty plasma have nothing to do with this, literally 99% of your spam quotes are irrelevant quotes.).
+att(11424, 11423).
 
-Do we have theories but don't have the data? ).
-att(10673, root).
+arg(11020).
+text(11020, Yet, to somebody versed in plasma physics and astrophysics, they understand that those 'open' field lines stretch out into the heliosphere and form the Interplanetary Magnetic Field (IMF).  In other words, this is a magnetic field which connects our Sun to our planets, and in turn, to other stars.).
+support(11020, 11019).
 
-arg(11975).
-text(11975, What this importantly means is that much of the popular science journalism on the subject of space is using the language of gases -- which we commonly observe here on Earth -- to describe what are more likely to be plasmas, which we are less familiar with, yet which appears to dominate space.).
-support(11975, root).
+arg(11468).
+text(11468, Jeff goes on to state, btw: "... Ideologically disciplined thinkers, especially the more gung-ho ones, often give the appearance of being critical thinkers as they go around deftly applying the official ideology and confidently reporting their judgments ...").
+support(11468, 11467).
 
-arg(9202).
-text(9202, We don't need to know why something happens to observe that it does. Apples still fell to the ground before Newton invented gravity.).
-att(9202, root).
+arg(11373).
+text(11373, The human-corrected land-based thermometers that are used to demonstrate warming exhibit poor coverage of the Earth's land surface.  As an example, there are only 8 stations for ALL OF ANTARCTICA, the 5th largest continent!  There remain huge gaps in coverage in Africa and South America.).
+support(11373, 8714).
+
+arg(9238).
+text(9238, This is true, but the SSW's appear correlated with both weather and climate phenomena.  So, the distinction between weather and climate is not an argument that we should avoid seeking to investigate a potential solar cause for SSW's which might eventually blur our distinction between the two.).
+att(9238, 8881).
+
+arg(10711).
+text(10711, The idea that TSI is the sole driver of climate produces some basic expectations for winds for planets very far away from the Sun.  The observation of these ridiculous wind speeds invites us to ask if there is a source of energy other than TSI not only at those outer planets, but also here on Earth.).
+support(10711, 10673).
+
+arg(10239).
+text(10239, 90% of climate experts agree that it is happening. Also, this user is spamming this thread with literally HUNDREDS of irrelevant quotes to create a clusterfuck for everybody else who is trying to argue normally.).
+support(10239, 9953).
+
+arg(9924).
+text(9924, It would be a mistake to treat all corporations equally when asking this question because some corporations in particular will benefit more than others from the acceptance of AGW.  That said, there are more interests at play in the graduate programs than just corporations.).
+support(9924, 9185).
+
+arg(11324).
+text(11324, What is happening in astrophysics today is really quite remarkable: Our textbook models for the universe's dominant state for observable matter -- plasma -- are not actually based upon modern laboratory plasma observations.  Yet, the public does not scrutinize this questionable practice.).
+support(11324, 11073).
+
+arg(10712).
+text(10712, People construct theories intentionally.  We do not simply discover paradigms.  When we see anomalies, we have to make a choice about what types of questions to ask.  If our decision is to refuse to question the textbook theory, then the results will simply reflect that refusal.).
+support(10712, 10673).
+
+arg(9234).
+text(9234, That's fine, but realize that this opens the door to missing alternative explanations which can create a more coherent story by explaining these anomalies.  Humans are endowed with an ability to consider more than one explanation for an observation; we'd be wise to use that ability.).
+att(9234, 9202).
+
+arg(9405).
+text(9405, "... many researchers, having grown dependent on the bandwagon, then need to find ways to keep it alive even when the field begins to stagnate. The results are usually disastrous. Either the researchers begin to think up of creative but completely absurd extensions of their methods ...").
+support(9405, 9402).
+
+arg(12480).
+text(12480, It is exactly at this point where the temperature data set is stitched into the tree ring data set that the curve suddenly inclines -- hence, the analogy to a hockey stick.).
+support(12480, 12479).
 
 arg(10502).
 text(10502, Claims that astrophysicists are improperly modeling the solar wind plasma are perfectly relevant to the subject of AGW because when the cosmic plasma models are corrected to better reflect laboratory plasma observations, it adds an extra energy input from the Sun into the Earth's climate system.).
 att(10502, 10239).
-
-arg(10516).
-text(10516, Your insistence that we only pay attention to the consensus is a request that we not use the tool of science to come to our own conclusion.  You are advocating that we "think what scientists think" instead of actually "thinking like a scientist".  There is a huge philosophical difference here.).
-att(10516, 10239).
-
-arg(10503).
-text(10503, Claims that would seem to undermine the reliability of dendrochronology, radiocarbon dating and ice core-based reconstructions should be understood by all people who consider themselves to be advocates of AGW.).
-att(10503, 10239).
 
 arg(10509).
 text(10509, Nobody should really be surprised by the sheer number of arguments which can be lodged against an effort to make confident projections about the climate 50-100 years into the future.  In light of the extraordinary demands, advocates for AGW should expect to be fluent in ALL of these arguments.).
@@ -253,176 +201,163 @@ arg(10506).
 text(10506, Discussions of the technical details related to the climate models like parameterizations, GCM grid methodologies, smoothing of the data set, temporal and spatial limitations to GCM's, are absolutely crucial to evaluating the IPCC's questionable claim of a 95% confidence in their projections.).
 att(10506, 10239).
 
-arg(12481).
-text(12481, "Within the space of only 12 months, the new theory had become entrenched as a new orthodoxy.  The ultimate consummation of the new theory came with the release of the draft of the Third Assessment Report of the IPCC in 2000.").
-support(12481, root).
+arg(10944).
+text(10944, You're missing the point of having accurate, predictive models.  It's not just a matter of the timing of the projections.  When the models over-estimate the warming, it raises fundamental questions about the underlying physics -- case in point being the water vapor feedback.).
+att(10944, 10806).
+
+arg(11802).
+text(11802, And if you go back to the discussions about the original data set which was thrown away, "Taylor himself has no explanation for his result ... planetary scientists are obviously expecting -- and hoping -- that the embarrassing extra heat will disappear on further investigation.").
+support(11802, 11801).
+
+arg(12024).
+text(12024, An example of ignoring solar plasma input: "Correct - I do ignore the Earth's "plasma/magnetic environment" as there is no science that backs up the addition of W/m^2 from it into the the earth's climate system ... You know I worked for the UKMO?").
+att(12024, 12009).
+
+arg(8805).
+text(8805, In a recent meeting at the Royal Society, Piers Corbyn was told by climate modelers that they could not get CO2 to cause these wiggles in the jet stream which are known to associate with extreme weather events.).
+support(8805, 8804).
+
+arg(9953).
+text(9953, You are asserting that "Global Warming exists because Global Warming exists." Provide evidence or show why his evidence is irrelevant.).
+att(9953, 9737).
+
+arg(12837).
+text(12837, It's not a belief.).
+att(12837, 12829).
+
+arg(9735).
+text(9735, 9 in 10 scientists think climate change is real. The only reason nothing is being done, is because huge powerful companies are fooling the people with fake arguments, scientist bribes, and media control. Most people aren't critical in evaluating what they hear on TV).
+att(9735, 8717).
+
+arg(10673).
+text(10673, In what context are we using mystery? 
+
+Do we have all that data and can't find the answer? 
+
+Do we have theories but don't have the data? ).
+att(10673, 8792).
+
+arg(11975).
+text(11975, What this importantly means is that much of the popular science journalism on the subject of space is using the language of gases -- which we commonly observe here on Earth -- to describe what are more likely to be plasmas, which we are less familiar with, yet which appears to dominate space.).
+support(11975, 11968).
+
+arg(9202).
+text(9202, We don't need to know why something happens to observe that it does. Apples still fell to the ground before Newton invented gravity.).
+att(9202, 8720).
 
 arg(11772).
 text(11772, The filaments, like lightning, branch: "In addition, the material along filaments is not at all static: astronomers have detected what appear to be accretion flows, with the most prominent filaments drawing matter from their surroundings through a network of smaller filaments.").
-support(11772, root).
+support(11772, 11743).
 
 arg(11977).
 text(11977, Recent observations by the Ulysses probe appear to confirm that interstellar dust appears to shift direction in response to changes in the solar magnetic field: "Our simulations suggest that this effect is likely due to the variations of the solar and interplanetary magnetic field").
-support(11977, root).
+support(11977, 11947).
 
 arg(11837).
 text(11837, Most physics textbooks today completely fail to mention that radio waves were a surprise to astronomers of the day.  The only thorough discussion of this subject is available in radio astronomer, Gerrit Verschuur's text titled "The Invisible Universe".).
-support(11837, root).
+support(11837, 11829).
 
 arg(10710).
 text(10710, This assertion will seem very strange to many people -- in large part because the public possesses a variety of simple narratives about how science works, in practice.  We tend to assume that scientists are free to question assumptions, but in practice, this is not how one gets funded.).
-support(10710, root).
+support(10710, 10709).
 
 arg(11736).
 text(11736, It's worth noting that appeals to authority are actually very common amongst adherents to anthropogenic warming.  When people say that 97% of scientists agree with the idea, it is "a form of argument attempting to establish a statistical syllogism."  The person is saying that it is PROBABLY correct.).
-att(11736, root).
+att(11736, 9263).
 
 arg(11766).
 text(11766, The problem for gravitational collapse: "One of the most intriguing questions in astrophysics concerns understanding how this material, which is typically characterised by very low density, can come together, creating denser concentrations that later ... give birth to stars.").
-support(11766, root).
-
-arg(11762).
-text(11762, "From nearby clouds hosting tangles of filaments a few light-years long to gigantic structures stretching hundreds of light-years across the Milky Way's spiral arms, they appear to be truly ubiquitous." In other words, the filaments exhibit a fractal structure (similar to lightning).).
-support(11762, root).
+support(11766, 11743).
 
 arg(9191).
 text(9191, Jeff claimed that the programs do not teach graduate students how to think critically about the materials they are learning, and they do this by dictating that they memorize stacks of problem sets which cannot be solved under the time limit given w/o the use of memorized algebraic tricks.).
-support(9191, root).
+support(9191, 8701).
 
 arg(8711).
 text(8711, "Many atmospheric general circulation models (GCMs) and chemistry-climate models (CCMs) are not able to reproduce the observed polar stratospheric winds in simulations of the late 20th century"
 
 ... which is a huge problem because the changes appear to be largest at the poles.).
-att(8711, root).
+att(8711, 5954).
 
 arg(5971).
 text(5971, Many scientists are beginning to argue that such change would be a benign or good thing.).
-att(5971, root).
+att(5971, 5954).
 
 arg(9572).
 text(9572, Greenhouses operate by interrupting convection and infrared radiative transfer, but there is no mechanism for gases in the open atmosphere to interrupt convection.).
-att(9572, root).
+att(9572, 7269).
 
 arg(8717).
 text(8717, Calling something a joke doesn't promote debate or change in opinion. It would be better to link these scientific findings.).
-att(8717, root).
-
-arg(10944).
-text(10944, You're missing the point of having accurate, predictive models.  It's not just a matter of the timing of the projections.  When the models over-estimate the warming, it raises fundamental questions about the underlying physics -- case in point being the water vapor feedback.).
-att(10944, 10806).
+att(8717, 7252).
 
 arg(10589).
 text(10589, The observation of radio waves coming from space by radio ENGINEERS was initially considered either a hoax or a mistake by the professional astronomers.  The theories of the day simply had no reason for them, and so the experts never even looked.).
-support(10589, root).
+support(10589, 10574).
 
 arg(9272).
 text(9272, GCM's generally work with time steps of around 20 min's.  Once a cell is calculated, that output is used as input for its neighbors.  However, once the globe is traversed, the starting cell oftentimes does not match the ending cell.  So, they repeat the process and smooth the results.).
-support(9272, root).
+support(9272, 9252).
 
 arg(10654).
 text(10654, The onus is on you to prove this.).
-att(10654, root).
-
-arg(9969).
-text(9969, No existing climate model is able to predict recent warming without taking rising CO2 levels into account. ).
-att(9969, root).
-
-arg(9488).
-text(9488, The real problem with complex scientific controversies is this argument that scientists in one domain need not pay attention to other related scientific domains.  This has been an issue not only in astrophysics, but also the climate sciences.).
-support(9488, root).
-
-arg(9481).
-text(9481, Alfven was awarded the Nobel for his creation of magnetohydrodynamics (MHD), but through observations of the ionosphere, he came to realize that astrophysicists were incorrectly applying MHD.  He used the occasion of his Nobel acceptance speech in 1970 to warn them.  He was completely ignored.).
-support(9481, root).
-
-arg(9688).
-text(9688, The inventor of radiocarbon dating, Willard Libby, went to enormous lengths to convince the scientific community that his assumptions were correct.  In the process, his data mysteriously changes in the direction he needs it to, from 1949 to 1951.).
-support(9688, root).
-
-arg(9362).
-text(9362, As of 2004.).
-att(9362, root).
-
-arg(9699).
-text(9699, The most important assumption for all forms of dating is the uniformitarian assumption.  This is the gradualistic concept that the present is key to the past.  Uniformitarianism is not a law of nature; it may be that transient events occur, and if they did, they would cause problems for our dates.).
-support(9699, root).
-
-arg(12271).
-text(12271, Inquiry interviews were limited to the accused, and experts who knew what went on and how it was done -- that is, who understood what the emails were saying -- were not interviewed.).
-support(12271, root).
-
-arg(12472).
-text(12472, It says: "I get the sense that I'm not the only one who would like to deal a mortal blow to the misuse of supposed warm period terms and myths in the literature.  The sceptics and uninformed love to cite these periods as natural analogs for current warming too -- pure rubbish.").
-support(12472, root).
+att(10654, 9722).
 
 arg(12473).
 text(12473, The use of the term "misuse" stands out here as peculiar.  The researcher, Overpeck, appears to believe that people who don't agree with his view should not be able to cite references to the Medieval Warm Period.).
 support(12473, 12472).
 
-arg(11847).
-text(11847, This is a problematic observation for our attempts to demonstrate a timeline chronology, because our system here of measuring time depends upon the assumption that large-scale events have not scrambled these dates.  These plateaus are arguably indicative of large-scale events.).
-support(11847, root).
-
 arg(9246).
 text(9246, Full coverage of the court case is in first link.  Second link is the IEEE ruling.  Be aware that corporations have a standard operating procedure for troublemakers which involves creating a gap of time between their true motivation and the moment they fire the employer.).
 support(9246, 9212).
-
-arg(12476).
-text(12476, Then, by 1992, the IPCC dropped the MWP.  It was claimed that the original sources for the MWP -- the Lamb publications -- lacked any discussion of an explicit calibration against instrumental data.  It was claimed that the Climatic Research Unit in the 80s had access to larger amounts of data.).
-support(12476, root).
-
-arg(12009).
-text(12009, Man, you are really slowly derailing into insanity.).
-att(12009, root).
-
-arg(11349).
-text(11349, You appear to consider the intended use of this site as "spam".  Would you prefer that we have vague, unsourced arguments which are limited in scope to those which are already incessantly repeated in the media?  What is the damage done from the airing out of a novel argument? They all relate to AGW.).
-att(11349, root).
-
-arg(12876).
-text(12876, I study scientific controversies.  My scope extends far beyond the limited claims that are made within climate science.  There are a number of longstanding controversies -- some of them between journals -- which academia is not talking about with popular science journalists.).
-support(12876, root).
-
-arg(11019).
-text(11019, To make the point, consider that the variation in the Sun's magnetic field strength appears to be connected with the amount of magnetic flux flowing away from the polar regions on so-called 'open' field lines.  What would this mean to a climate scientist?  Not a whole lot.).
-support(11019, root).
-
-arg(12879).
-text(12879, The decision by adherents of manmade climate change / global warming to ignore those other controversies is a lazy shortcut that people use to limit the scope of the arguments.  There is nothing at all scientific about treating controversies as though they have been settled.).
-support(12879, root).
-
-arg(11038).
-text(11038, To what extent are climate scientists versed in the modern physics of cosmic rays?  It's an enormously important question, given that cosmic rays can affect both the dates they might use for historical reconstructions as well as the seeding of clouds and ionization of the atmosphere.).
-support(11038, root).
 
 arg(9472).
 text(9472, As for plasmas, this is completely untrue.  There has been a debate for more than half a century now between The Astrophysical Journal and IEEE's Transactions on Plasma Science over how to model cosmic plasmas.  This debate was begun by a Nobel laureate, Hannes Alfven.).
 att(9472, 9464).
 
+arg(9362).
+text(9362, As of 2004.).
+att(9362, 9256).
+
+arg(12271).
+text(12271, Inquiry interviews were limited to the accused, and experts who knew what went on and how it was done -- that is, who understood what the emails were saying -- were not interviewed.).
+support(12271, 12270).
+
+arg(12472).
+text(12472, It says: "I get the sense that I'm not the only one who would like to deal a mortal blow to the misuse of supposed warm period terms and myths in the literature.  The sceptics and uninformed love to cite these periods as natural analogs for current warming too -- pure rubbish.").
+support(12472, 12471).
+
+arg(11847).
+text(11847, This is a problematic observation for our attempts to demonstrate a timeline chronology, because our system here of measuring time depends upon the assumption that large-scale events have not scrambled these dates.  These plateaus are arguably indicative of large-scale events.).
+support(11847, 9693).
+
+arg(11349).
+text(11349, You appear to consider the intended use of this site as "spam".  Would you prefer that we have vague, unsourced arguments which are limited in scope to those which are already incessantly repeated in the media?  What is the damage done from the airing out of a novel argument? They all relate to AGW.).
+att(11349, 11145).
+
+arg(12876).
+text(12876, I study scientific controversies.  My scope extends far beyond the limited claims that are made within climate science.  There are a number of longstanding controversies -- some of them between journals -- which academia is not talking about with popular science journalists.).
+support(12876, 12864).
+
+arg(11019).
+text(11019, To make the point, consider that the variation in the Sun's magnetic field strength appears to be connected with the amount of magnetic flux flowing away from the polar regions on so-called 'open' field lines.  What would this mean to a climate scientist?  Not a whole lot.).
+support(11019, 11010).
+
+arg(12879).
+text(12879, The decision by adherents of manmade climate change / global warming to ignore those other controversies is a lazy shortcut that people use to limit the scope of the arguments.  There is nothing at all scientific about treating controversies as though they have been settled.).
+support(12879, 12864).
+
+arg(11038).
+text(11038, To what extent are climate scientists versed in the modern physics of cosmic rays?  It's an enormously important question, given that cosmic rays can affect both the dates they might use for historical reconstructions as well as the seeding of clouds and ionization of the atmosphere.).
+support(11038, 11010).
+
 arg(11070).
 text(11070, Something you will rarely hear a climate scientist mention is the Global Electric Circuit.  The entire surface of the Earth carries a net negative charge which is opposed by a net positive charge at the ionosphere.  250,000 volts, on average, separate the two, but it can significantly vary.).
-support(11070, root).
-
-arg(5812).
-text(5812, It's actually climate change).
-support(5812, root).
+support(11070, 11010).
 
 arg(10146).
 text(10146, There was a 30-yr period of warming from 1910-1940, then a cooling from 1940 to 1970, just as CO2 emissions began to rise exponentially, and then a 30-yr warming from 1970-2000 that was very similar in duration and temperature rise to the rise from 1910-1940.  This suggests natural cycles.).
 support(10146, root).
-
-arg(6027).
-text(6027, climate change is a lie created by China to keep US citizens under watch).
-support(6027, root).
-
-arg(7252).
-text(7252, I really hope this is a joke. Climate change is not under debate, you can't refute scientific findings with your intuitions.
-).
-att(7252, root).
-
-arg(5780).
-text(5780, There is abundant proof of global warming and the vast majority (more than 90%) of the world's climate scientists agree with this.).
-att(5780, root).
 
 arg(10656).
 text(10656, It is premature to discount the Sun as a cause for climate change / global warming, given that there remain numerous anomalous solar observations.  These anomalies are trying to tell us that our Standard Solar Model is either wrong or incomplete.  AGW advocates should be fluent in these anomalies.).
@@ -432,21 +367,17 @@ arg(9678).
 text(9678, Be it global warming or climate change, the idea that we can be certain about the former world temperature rests upon a number of assumptions and challenging methodologies.  It's important that people understand some of the more significant critiques and issues related to the endeavor of dating.).
 support(9678, root).
 
-arg(9142).
-text(9142, Our technology chronology complicates innovation in the space sciences; & our weather & climate theories can become confused as a result.  Our understanding of space physics has undergone dramatic changes over the past half-century, & these discoveries are just now trickling into the other domains.).
-support(9142, root).
-
 arg(9261).
 text(9261, "The IPCC has never attempted this process, and they do not even discuss ways in which it might be carried out." ... and ... "Without this process it is impossible to find out whether the model is suitable for use or what levels of accuracy can be expected from it.").
-support(9261, root).
+support(9261, 9256).
 
 arg(10609).
 text(10609, The other rocket experts, von Karman's group at Caltech, avoided ridicule by calling their devices "jets."  This subtle switch in terminology was the origin of the JPL Jet Propulsion Laboratory which, of course, has nothing at all to do with jets -- but rather rocket propulsion and weaponry.).
-support(10609, root).
+support(10609, 10586).
 
 arg(8720).
 text(8720, Scientists are unable to explain the stunning wind speeds on either Uranus (560 mph!) or Neptune (1,500 mph!).  These are the farthest planets from the Sun, and yet climate scientists claim that Total Solar Irradiance (light) is the sole cause of climate on Earth.).
-att(8720, root).
+att(8720, 5954).
 
 arg(9233).
 text(9233, We don't need to be able to explain why global warming is occurring in order to observe it.).
@@ -454,81 +385,27 @@ att(9233, 9142).
 
 arg(10538).
 text(10538, The recent discovery of upper-atmosphere lightning which connects thunderclouds to the edge of space raises serious questions about the existence of a larger electrical circuit connecting the solar wind plasma to our own atmosphere.).
-att(10538, root).
+att(10538, 10245).
 
 arg(10544).
 text(10544, "all weather may be caused, or at least influenced, by the electrical interactions between Earth and the surrounding plasma.  Because this larger possibility has never been considered, critical tests have not been devised that would distinguish between the competing explanations.").
-att(10544, root).
-
-arg(10539).
-text(10539, "Lightning in clouds, only a few miles above the ground, clears a safe zone in the radiation belts thousands of miles above the Earth, according to NASA-funded researchers." This raises questions about the origin of lightning in thunderstorms.).
-att(10539, root).
+att(10544, 10245).
 
 arg(12263).
 text(12263, Interestingly, the Director of the CRU, Phil Jones, validated the authenticity of the emails by reporting them to the police as stolen.).
-support(12263, root).
+support(12263, 12058).
 
 arg(12269).
 text(12269, One study reported that public opinion significantly shifted shortly after Climategate: From 2008 to 2010, Americans who believed that global warming is happening dropped from 71 to 57%.  Those who responded "no" rose from 10 to 20%.  Of those who said yes, confidence levels dropped.).
-support(12269, root).
+support(12269, 12058).
 
 arg(12062).
 text(12062, “To me, the real scandal was not so much that two or three climate scientists behaved badly, but that virtually the entire climate science community tried to pretend that nothing was wrong”).
-support(12062, root).
+support(12062, 12058).
 
-arg(10955).
-text(10955, The value of explicitly delineating your argument is that it can act as a test for the strength of your own convictions.  People generally do not reason objectively, from observations and evidence towards conclusions.  They typically seek out justifications for their preferred conclusions.).
-support(10955, root).
-
-arg(12085).
-text(12085, "You're not allowed to do this in science.  This is not up to our standards.  I get infuriated with colleagues of mine who say, 'Well, you know, it's a human field.  We make mistakes.' And then I show them this, 'Um, no, that's not acceptable.'").
-support(12085, root).
-
-arg(12279).
-text(12279, Dr. Rob van Dorland, IPCC lead author: "it is strange that the climate reconstruction of Mann has passed both peer review rounds of the IPCC without anyone ever really having checked it.").
-support(12279, root).
-
-arg(9172).
-text(9172, "While only a few natural plasmas, such as flames or lightning strokes, can be found near the Earth's surface, plasmas are abundant in the universe.").
-support(9172, root).
-
-arg(10473).
-text(10473, "The percentages of gases in the pores at the base of the firn layer, where ice becomes solid, were much higher than those obtained in atmospheric gases.  One of these gases turned out to be oxygen-18.  The oxygen-18 had diffused downward and condensed at the bottom.").
-support(10473, root).
-
-arg(9241).
-text(9241, This might be better served by a top-level 'because' with the premise 'most people's definition of global warming is anthropogenic global warming, but is not man-made.').
-att(9241, root).
-
-arg(12082).
-text(12082, Berkeley Professor & Climatologist, Richard A Muller's reaction: "as a scientist, I now have a list of people whose papers I won't read anymore").
-support(12082, root).
-
-arg(12270).
-text(12270, The inquiries which exonerated Mann were a joke.  The Penn State inquiry explains at length how the use of the word "trick" can mean a "clever device."  The report ignores that it was a trick to hide the decline, and makes no explicit mention of "hide the decline" in the report!).
-support(12270, root).
-
-arg(9153).
-text(9153, In the 40's, when radio engineers first spotted the radio waves which astronomers never thought to look for, the astronomers responded that it had to be a hoax or a mistake. Radio astronomy would not be recognized as an actual discipline until the late 50's.).
-support(9153, 9142).
-
-arg(9151).
-text(9151, "'Space' was invented on earth before we knew what was out there" -- Time Weekly Magazine, May 4, 1959, "Space and the Radiation Belt", an article on physicist James Van Allen
-
-VERY IMPORTANT QUOTE!).
-support(9151, 9142).
-
-arg(11054).
-text(11054, Far UV wavelengths (115-205 nm) & x-rays maintain the ionization of the ionosphere.  And the amount of current flowing in the ionospheric circuits depends partly on the atmospheric conductivity, which follows from this ionization.  This is why UV variations & x-ray outbursts matter so much.).
-support(11054, root).
-
-arg(11887).
-text(11887, Advocates of climate change seem to think they can ignore controversies occurring in other disciplines like astrophysics and solar physics, yet climate science is unlike other disciplines like chemistry and biology in that it builds upon the controversial claims in astrophysics as if they are facts.).
-support(11887, 9142).
-
-arg(9161).
-text(9161, Most of the electromagnetic spectrum was unavailable to us up until the mid-1970's.  The term 'plasma' was coined right around the time that the Big Bang was hypothesized (in the early 30's), thus the Big Bang framework had a huge head start on the Plasma Universe idea (proposed in the 80's).).
-support(9161, 9142).
+arg(5812).
+text(5812, It's actually climate change).
+support(5812, root).
 
 arg(10498).
 text(10498, The site should not be sending users to wikipedia to learn the definitions of these fallacies.  The definitions should be readily available, with screen captures of on-site examples.  This is a site design flaw which I am sure that the programmers are noticing.).
@@ -539,10 +416,6 @@ text(10086, Climate change, is where all the dispute are coming in. Climate chan
 ).
 att(10086, 10084).
 
-arg(11074).
-text(11074, After all, today we also understand that there are also discharges UPWARDS from the tops of thunderclouds, on occasion all the way to the edge of space, known as sprites and jets.  Ring-like discharges known as elves appear to complete the circuit.).
-support(11074, root).
-
 arg(11467).
 text(11467, "Real critical thinking means uncovering & questioning social, political & moral assumptions; applying & refining a personally developed worldview; & calling for action that advances a personally created agenda.  An approach that backs away from any of these 3 components lacks the critical spirit.").
 att(11467, 11413).
@@ -551,13 +424,67 @@ arg(10559).
 text(10559, It is an extraordinary case if literally hundred thousand of scientist who ACTUALLY know what they are talking about agree over a wide spectrum of fields of studies and all over the world, not depending on culture or nationality. Cherry picking some people who disagree will not solve this.).
 att(10559, 10518).
 
-arg(10557).
-text(10557, My friend, there is no need to spam this whole thread just to show your dominance. As you can see, the majority of the arguments here tend to agree against your side, just stop spamming all of this. Noone is supporting you and this is in no way an argument that you can win by spamming.).
-att(10557, 10518).
+arg(7190).
+text(7190, Climate change is ten times worse. It's not only melting the ice and flooding coasts (which doesn't sound as bad until you consider 70% of us live on coasts) or raging forest fires.
+
+It also means change of things like el nino and ocean currents. No ocean currents,no oxygen=animals get replaced by).
+support(7190, 5816).
+
+arg(9251).
+text(9251, But, if it is not man-made, then that calls into question the IPCC's ability to make accurate projections with their models -- which are today being used to convince voters to legislate dramatic changes to our energy supply and economy.).
+att(9251, 9233).
+
+arg(9186).
+text(9186, Jeff wrote the book as a critique of ALL professional training, and he did so as a reaction to observing that the graduate programs tended to favor the gung-ho memorizers over those who stopped to think and question what they were learning.).
+support(9186, 8701).
+
+arg(12085).
+text(12085, "You're not allowed to do this in science.  This is not up to our standards.  I get infuriated with colleagues of mine who say, 'Well, you know, it's a human field.  We make mistakes.' And then I show them this, 'Um, no, that's not acceptable.'").
+support(12085, 12081).
+
+arg(12481).
+text(12481, "Within the space of only 12 months, the new theory had become entrenched as a new orthodoxy.  The ultimate consummation of the new theory came with the release of the draft of the Third Assessment Report of the IPCC in 2000.").
+support(12481, 12478).
+
+arg(12009).
+text(12009, Man, you are really slowly derailing into insanity.).
+att(12009, 11993).
+
+arg(9241).
+text(9241, This might be better served by a top-level 'because' with the premise 'most people's definition of global warming is anthropogenic global warming, but is not man-made.').
+att(9241, 9218).
+
+arg(12082).
+text(12082, Berkeley Professor & Climatologist, Richard A Muller's reaction: "as a scientist, I now have a list of people whose papers I won't read anymore").
+support(12082, 12081).
+
+arg(12270).
+text(12270, The inquiries which exonerated Mann were a joke.  The Penn State inquiry explains at length how the use of the word "trick" can mean a "clever device."  The report ignores that it was a trick to hide the decline, and makes no explicit mention of "hide the decline" in the report!).
+support(12270, 12081).
+
+arg(9153).
+text(9153, In the 40's, when radio engineers first spotted the radio waves which astronomers never thought to look for, the astronomers responded that it had to be a hoax or a mistake. Radio astronomy would not be recognized as an actual discipline until the late 50's.).
+support(9153, 9142).
+
+arg(11054).
+text(11054, Far UV wavelengths (115-205 nm) & x-rays maintain the ionization of the ionosphere.  And the amount of current flowing in the ionospheric circuits depends partly on the atmospheric conductivity, which follows from this ionization.  This is why UV variations & x-ray outbursts matter so much.).
+support(11054, 11017).
+
+arg(11887).
+text(11887, Advocates of climate change seem to think they can ignore controversies occurring in other disciplines like astrophysics and solar physics, yet climate science is unlike other disciplines like chemistry and biology in that it builds upon the controversial claims in astrophysics as if they are facts.).
+support(11887, 9142).
+
+arg(9161).
+text(9161, Most of the electromagnetic spectrum was unavailable to us up until the mid-1970's.  The term 'plasma' was coined right around the time that the Big Bang was hypothesized (in the early 30's), thus the Big Bang framework had a huge head start on the Plasma Universe idea (proposed in the 80's).).
+support(9161, 9142).
+
+arg(11074).
+text(11074, After all, today we also understand that there are also discharges UPWARDS from the tops of thunderclouds, on occasion all the way to the edge of space, known as sprites and jets.  Ring-like discharges known as elves appear to complete the circuit.).
+support(11074, 11072).
 
 arg(12483).
 text(12483, Analysis of Mann's statistics suggested that it did not matter what data was fed into his technique -- a hockey stick would result regardless.  The technique involved the weighting of tree ring data sets which showed an incline over others that did not, in some cases by 390x the weighting.).
-support(12483, root).
+support(12483, 12478).
 
 arg(10617).
 text(10617, The point of argument visualization tools is plainly to help methodically map out debates.  When people use the tool for its intended purpose -- and especially if they are providing sources -- this activity is not "spam."  Please add in your own arguments to the contrary.  Use the site.).
@@ -569,67 +496,23 @@ att(10601, 10557).
 
 arg(11792).
 text(11792, This is absolutely relevant to a debate over climate change, as Venus is held up as an example of what will happen to Earth.  Further, climate activist James Hansen started his climate change advocacy as a Venus researcher.).
-support(11792, root).
-
-arg(7190).
-text(7190, Climate change is ten times worse. It's not only melting the ice and flooding coasts (which doesn't sound as bad until you consider 70% of us live on coasts) or raging forest fires.
-
-It also means change of things like el nino and ocean currents. No ocean currents,no oxygen=animals get replaced by).
-support(7190, 5816).
+support(11792, 8712).
 
 arg(9169).
 text(9169, "It is estimated that as much as 99.9% of the universe is comprised of plasma.").
-support(9169, root).
+support(9169, 9146).
 
 arg(9178).
 text(9178, "Plasmas in nature should not be forgotten.").
-support(9178, root).
-
-arg(9176).
-text(9176, "Plasmas, often called the fourth state of matter, are the most common form of matter in the universe.").
-support(9176, root).
-
-arg(9180).
-text(9180, "Consequently, dynamics in a plasma are more complex than in a neutral gas ... In apparently simple situations, a plasma can behave counter-intuitively ...").
-support(9180, root).
-
-arg(9173).
-text(9173, "... Thus, plasmas play a major role in the universe ...").
-support(9173, root).
-
-arg(9251).
-text(9251, But, if it is not man-made, then that calls into question the IPCC's ability to make accurate projections with their models -- which are today being used to convince voters to legislate dramatic changes to our energy supply and economy.).
-att(9251, 9233).
+support(9178, 9146).
 
 arg(12029).
 text(12029, Thus, measuring the energy imbalance is very hard, let alone simulating it.  Accordingly, parameters in climate models are hand tuned until TOA energy matches known and observed trends.  The net effect of hand-tuning is to ignore all other potential energy transfers.).
-support(12029, root).
+support(12029, 12028).
 
 arg(12981).
 text(12981, Dr. Pollack of the University of WA: "Combatting global warming, if you believe in it -- or, establishing that it's not true, which some colleagues ... I just spoke at NASA ... There's a big group of people who are absolutely certain that there's no warming.  This needs to be straightened out.").
-support(12981, root).
-
-arg(8716).
-text(8716, A direct observation of a solar flare producing a sudden stratospheric warming event and wild weather was recorded in March 2013, during Sunspot No. 1692.  The stratosphere suddenly heated up by 60 degrees C (!), and it correlated with the highest recorded pressure system in Greenland, ever.).
-att(8716, root).
-
-arg(10597).
-text(10597, Today's science textbooks are dishonest insofar as they fail to emphasize such mistakes as lessons to be learned about scientific consensus.  The public falsely interprets this omission as a cue that they can place faith in scientific consensus.  The omission causes us to repeat history.).
-support(10597, root).
-
-arg(9406).
-text(9406, This isn't an argument, or a statement, or anything, it's a peice of random unsourced, meaningless garbage intended to muddy any discussion. But at least this was made up of real English sentences unlike some of your other pointless yet prolific word-salad additions.
-
-Fuck off.).
-att(9406, root).
-
-arg(11345).
-text(11345, "We found evidence that what happens in the stratosphere matters for the ocean circulation and therefore for climate"  This is like the tail wagging the dog, because after all, the oceans' density (vs the atmosphere) mean they should exhibit 5-6 orders of magnitude more thermodynamic significance.).
-support(11345, root).
-
-arg(12488).
-text(12488, In the process of (legitimately) accessing Mann's public college website server, researchers McIntyre and McKitrick found the data which provoked them to look at the bristlecone series in a folder titled "Censored".  Some have argued that this suggests that Mann understood it was a problem.).
-support(12488, root).
+support(12981, 12939).
 
 arg(10660).
 text(10660, One of the Sun's most persistent mysteries is how it is that the solar wind can fail to appreciably decelerate even as it passes the Earth's orbit.  This is an enormous volume of space, and so whatever is accelerating the solar wind involves a very significant and unknown energy input.).
@@ -639,65 +522,13 @@ arg(10507).
 text(10507, Recounting the history of discovery within the astrophysical discipline is absolutely relevant to climate science if it can be demonstrated that the origin of our climate theories based upon assumptions which are no longer valid, in light of modern observations.).
 att(10507, 10239).
 
-arg(11753).
-text(11753, "Observations with ESA's Herschel space observatory have revealed that our Galaxy is threaded with filamentary structures on every length scale.").
-support(11753, root).
-
-arg(11775).
-text(11775, "the new data indicate the importance of interstellar magnetic fields in shaping these structures." What they don't mention is that magnetic fields are generally related to electric currents.  Astrophysicists have a long history of ignoring the underlying electrical cause for the magnetic fields.).
-support(11775, root).
-
-arg(9170).
-text(9170, "If one goes outside the earth, however, the plasma state is the most abundant state of matter.").
-support(9170, root).
-
-arg(12912).
-text(12912, What this means is that THE most significant observation of the Space Age, which we encountered with the very first rockets into space, has yet to fully trickle into all of the scientific domains & public awareness.  The theories which remain popular today base on the conception of space < 1959.).
-support(12912, root).
-
 arg(11829).
 text(11829, The significance of radio waves coming from space will be lost on many people, so it's worth emphasizing here that "The majority of radio sources in the cosmic universe emit by the synchrotron process".  Synchrotron is produced by electrons spiraling in a magnetic field.).
 support(11829, 9153).
 
-arg(11069).
-text(11069, When cosmic ray count drops during a CME-driven Forbush event, the average decrease in cloud liquid water amounted to ~7% of worldwide cloud cover -- around 3 billion tons of liquid water in the air reverted to water vapor as the clouds evaporated, and this allowed more radiation to pass through.).
-support(11069, root).
-
-arg(10460).
-text(10460, "The geographic detail shown in the lower part of the map agrees very remarkably with the results of the Seismic profile made across the top of the ice cap by the Swedish-British-Norwegian Antarctic Exped. of 1949.  This indicates the coastline had been mapped before it was covered by the ice cap.").
-support(10460, root).
-
-arg(9192).
-text(9192, Jeff also claimed that contrary to popular narratives that scientists commonly question the paradigms, scientists are today, by contrast, trained to be effective team members; and to do that, they are cultured into the dominant textbook ideology.).
-support(9192, root).
-
-arg(10465).
-text(10465, "Despite a ringing endorsement from Albert Einstein ... and despite the later admission of John Wright, president of the American Geographical Society, that Hapgood had 'posed hypotheses that cry aloud for further testing', no further scientific research has ever been undertaken ...").
-support(10465, root).
-
-arg(10463).
-text(10463, "We found that some of the positions on the Piri Re'is Map were very accurate, and some were far off.  Gradually we became aware of the reasons for some of the inaccuracies in the map.  We discovered that the map was a composite ... and that errors had been made in combining the original maps.").
-support(10463, root).
-
-arg(10706).
-text(10706, "V838 Mon transformed itself over a period of months from a small under-luminous star a little hotter than the Sun, to a highly-luminous, cool supergiant star undergoing rapid and complex brightness changes.  The transformation defies the conventional understanding of stellar life cycles.").
-support(10706, root).
-
-arg(10704).
-text(10704, FG Sagittae has changed from a blue to a yellow star since 1955.  It has recently taken a deep dive in lumnosity.  After brightening by four magnitudes, it dropped seven magnitudes.).
-support(10704, root).
-
 arg(11039).
 text(11039, When astrophysicists think about cosmic rays, they understand that these incoming rays exhibit tremendous variation over the solar cycle (10-15%!).  Further, changes in the flux correlate with the Medieval Warm Period, the Little Ice Age & the Modern Warm Period of the 20th century!!!).
 support(11039, 11038).
-
-arg(8714).
-text(8714, There is not agreement between the satellite (18-year hiatus) and surface temperature data sets (warming), and the surface temperatures have been the subject of much debate because the coverage is bad, the temps are corrected, and the devices are oftentimes in urban areas.).
-att(8714, root).
-
-arg(9252).
-text(9252, The models used to project that the planet is warming involve a number of questionable assumptions, simplifying mathematical approximations, questionable modeling shortcuts, persistent disagreement over fundamental processes, and base upon insufficient data to make a certain claim).
-att(9252, root).
 
 arg(10701).
 text(10701, Astronomer Fred Hoyle claimed that in light of the Sun's strong gravity and 5,800 deg photospheric temp, a very thin atmospheric skin should be expected on the Sun -- perhaps a few thousand km thick on a sphere 1.4 million km in diameter.  Instead, the atmosphere balloons out to 100,000 km.).
@@ -707,91 +538,91 @@ arg(10702).
 text(10702, There is no coherent explanation for the approximate 11-year sunspot cycle.  This raises very serious questions about why the Maunder Minimum, a period of prolonged sunspot minima, roughly coincided with an anomalous climactic period known as the Little Ice Age.).
 support(10702, 10656).
 
-arg(11350).
-text(11350, Even if science has demonstrated the validity of an effect, crackpots and opponents from industry would always question the effect. Scientists and science supporters must by necessity be defensive.).
-att(11350, root).
-
-arg(10484).
-text(10484, "... when it comes to the growth rate of trees, water is the limiting factor ... water is the one true constituent which limits the growth of cambium and thus the formation of growth rings.  This is what tree rings, when they grow at all, truly indicate ...").
-support(10484, root).
-
 arg(11057).
 text(11057, A key objective of magnetospheric physics today is to identify the "geoefficiency" of the coupling between the solar wind and the Earth's magnetosphere.  In other words, what % of the input energy in the solar wind is then output into the magnetosphere?  It's not known for all conditions.).
 support(11057, 10656).
 
+arg(10597).
+text(10597, Today's science textbooks are dishonest insofar as they fail to emphasize such mistakes as lessons to be learned about scientific consensus.  The public falsely interprets this omission as a cue that they can place faith in scientific consensus.  The omission causes us to repeat history.).
+support(10597, 10574).
+
+arg(9406).
+text(9406, This isn't an argument, or a statement, or anything, it's a peice of random unsourced, meaningless garbage intended to muddy any discussion. But at least this was made up of real English sentences unlike some of your other pointless yet prolific word-salad additions.
+
+Fuck off.).
+att(9406, 9402).
+
+arg(11345).
+text(11345, "We found evidence that what happens in the stratosphere matters for the ocean circulation and therefore for climate"  This is like the tail wagging the dog, because after all, the oceans' density (vs the atmosphere) mean they should exhibit 5-6 orders of magnitude more thermodynamic significance.).
+support(11345, 11095).
+
+arg(12488).
+text(12488, In the process of (legitimately) accessing Mann's public college website server, researchers McIntyre and McKitrick found the data which provoked them to look at the bristlecone series in a folder titled "Censored".  Some have argued that this suggests that Mann understood it was a problem.).
+support(12488, 12487).
+
+arg(11753).
+text(11753, "Observations with ESA's Herschel space observatory have revealed that our Galaxy is threaded with filamentary structures on every length scale.").
+support(11753, 11743).
+
+arg(9170).
+text(9170, "If one goes outside the earth, however, the plasma state is the most abundant state of matter.").
+support(9170, 9146).
+
+arg(12912).
+text(12912, What this means is that THE most significant observation of the Space Age, which we encountered with the very first rockets into space, has yet to fully trickle into all of the scientific domains & public awareness.  The theories which remain popular today base on the conception of space < 1959.).
+support(12912, 12880).
+
+arg(11069).
+text(11069, When cosmic ray count drops during a CME-driven Forbush event, the average decrease in cloud liquid water amounted to ~7% of worldwide cloud cover -- around 3 billion tons of liquid water in the air reverted to water vapor as the clouds evaporated, and this allowed more radiation to pass through.).
+support(11069, 11067).
+
+arg(10460).
+text(10460, "The geographic detail shown in the lower part of the map agrees very remarkably with the results of the Seismic profile made across the top of the ice cap by the Swedish-British-Norwegian Antarctic Exped. of 1949.  This indicates the coastline had been mapped before it was covered by the ice cap.").
+support(10460, 10459).
+
+arg(9192).
+text(9192, Jeff also claimed that contrary to popular narratives that scientists commonly question the paradigms, scientists are today, by contrast, trained to be effective team members; and to do that, they are cultured into the dominant textbook ideology.).
+support(9192, 8701).
+
+arg(10706).
+text(10706, "V838 Mon transformed itself over a period of months from a small under-luminous star a little hotter than the Sun, to a highly-luminous, cool supergiant star undergoing rapid and complex brightness changes.  The transformation defies the conventional understanding of stellar life cycles.").
+support(10706, 10703).
+
+arg(10704).
+text(10704, FG Sagittae has changed from a blue to a yellow star since 1955.  It has recently taken a deep dive in lumnosity.  After brightening by four magnitudes, it dropped seven magnitudes.).
+support(10704, 10703).
+
+arg(8714).
+text(8714, There is not agreement between the satellite (18-year hiatus) and surface temperature data sets (warming), and the surface temperatures have been the subject of much debate because the coverage is bad, the temps are corrected, and the devices are oftentimes in urban areas.).
+att(8714, 8463).
+
+arg(11350).
+text(11350, Even if science has demonstrated the validity of an effect, crackpots and opponents from industry would always question the effect. Scientists and science supporters must by necessity be defensive.).
+att(11350, 9909).
+
+arg(10484).
+text(10484, "... when it comes to the growth rate of trees, water is the limiting factor ... water is the one true constituent which limits the growth of cambium and thus the formation of growth rings.  This is what tree rings, when they grow at all, truly indicate ...").
+support(10484, 9685).
+
 arg(12276).
 text(12276, "It is important to note the isolation of the paleoclimate community; even though they rely heavily on statistical methods they do not seem to be interacting with the statistical community ... We judge that there was too much reliance on peer review, which was not necessarily independent.").
-support(12276, root).
-
-arg(12274).
-text(12274, "Our findings from this analysis suggest that authors in the area of paleoclimate studies are closely connected and thus 'independent studies' may not be as independent as they might appear on the surface.").
-support(12274, root).
+support(12276, 12272).
 
 arg(10653).
 text(10653, Also included in this category: the Michelson-Morley experiment that eventually disproved the theory of the Luminiferous Aether, and the development of plate-tectonics over the reigning theory of land bridges.).
-support(10653, root).
-
-arg(10957).
-text(10957, Your statement here is that there is no such thing as global warming, because climate change is worse. How does this make sense?).
-att(10957, 7190).
-
-arg(12480).
-text(12480, It is exactly at this point where the temperature data set is stitched into the tree ring data set that the curve suddenly inclines -- hence, the analogy to a hockey stick.).
-support(12480, root).
-
-arg(12490).
-text(12490, "The tree rings from certain sites seem to properly reflect temperature variability up until around 1960, and after that, the usability of the signal from that proxy can be reduced.  This pattern has been noticed in a number of different tree ring records ... It is called the 'divergence problem'").
-support(12490, root).
+support(10653, 10574).
 
 arg(9425).
 text(9425, The first step to evaluating Jeff's claims would be to interview graduate students.  Rejecting his critique without investigating it places an act of faith at the heart of scientific consensus that it was not simply manufactured, thus undermining the very meaning and importance of that consensus.).
 att(9425, 9369).
 
-arg(9402).
-text(9402, Letter of resignation by graduate student: "I cannot help but get the impression that the majority of us are avoiding the real issues and pursuing minor, easy problems that we know can be solved and published. The result is a gigantic literature full of marginal/repetitive contributions.").
-att(9402, 9369).
-
-arg(9266).
-text(9266, Freeman Dyson: "They are full of fudge factors that are fitted to the existing climate").
-support(9266, 9252).
-
-arg(9256).
-text(9256, "A model is considered validated if it is developed using one set of data & its output is tested using another set of data.  eg, if a climate model was developed using observations from 1901 to 1950, it could be validated ... against 1951 to 2000. At this time, no climate model has been validated.").
-support(9256, 9252).
-
-arg(9280).
-text(9280, "Parameterization is a fancy word for making up data when it doesn't exist.  Because of the lack of data, this occurs for a majority of the surface grids and virtually all of the layers above the surface."
-
-Parameterization is used for 80% surface and 90% atmosphere.).
-support(9280, 9252).
-
 arg(9218).
 text(9218, Many people, if asked, will refer to "climate change" and "global warming" as a manmade phenomenon.  It's therefore crucial that when we talk about these things that we permit arguments which can counter that belief.).
 att(9218, 9198).
 
-arg(9285).
-text(9285, "The last point on the IPCC's list, large differences in the response of different models to the same forcing, is perhaps the most indicative of the limitations of current climate models ... there is still no agreement among climate scientists about the physics of some key climate processes ...").
-support(9285, 9252).
-
-arg(9277).
-text(9277, GCM's are considered an "intractable problem" because a 2x spatial resolution requires a 10x computational requirement.  Thus, it's questionable if we will ever accurately model the climate with this approach.).
-support(9277, 9252).
-
-arg(8797).
-text(8797, "UCLA atmospheric scientists have discovered a previously unknown basic mode of energy transfer from the solar wind to the Earth's magnetosphere ... The energy of the particles and the fields in the magnetosphere can vary by large amounts ...").
-support(8797, root).
-
-arg(9270).
-text(9270, General Circulation Models (GCM's) divide the atmosphere and oceans into a set of boxes.  Some of the best of these models use a typical cell around 200 miles square.  Conditions within the cell are assumed to be uniform.).
-support(9270, 9252).
-
 arg(11404).
 text(11404, This is not specific to the times nor is it restricted to any one field. The derivation of constants through experiment without answering "why", the willfull ignorance of phenomenon that doesn't fit the current models and the a priori justification for the for the ones that "ought too" show this.).
 support(11404, 11324).
-
-arg(9253).
-text(9253, "Almost nobody wants to discuss the fundamentally intractable problem with GCMs. Climate models unfit for purpose would be very off message for those who believe climate science is settled.").
-support(9253, 9252).
 
 arg(10946).
 text(10946, The climate models contend a sequence of events that they claim will transpire, whereby an increase in CO2 will generate an increase in water vapor, which they claim will then produce additional warming.  This feedback is not yet quantitatively understood.  We've not seen evidence for it yet.).
@@ -800,10 +631,6 @@ support(10946, 10944).
 arg(10954).
 text(10954, I think the answer -- and the point of this site, really -- is yes, please spoon feed us.  This is really far too much technology to simply express support.  We could do that with a simple web form that takes a poll.  Notice that this is an argument visualization site.  It works by adding arguments.).
 att(10954, 10828).
-
-arg(11017).
-text(11017, Further, the UV component of the Sun's radiant output varies significantly.  During solar cycle 22, longer UV wavelengths varied by 15%, mid-length UV between 15 & 70%, and extreme UV by 150-700%!  Although the power radiated in UV is small, the effects of UV are disproportionate to the power level.).
-support(11017, root).
 
 arg(9569).
 text(9569, What's more concerning than any negligible accidental influence humans may have on the climate is the deliberate modification of the climate using phased array systems like HAARP, NEXRAD and others.).
@@ -817,14 +644,6 @@ Climate change: a long-term change in the Earth’s climate, or of a region on E
 ).
 support(7269, 5812).
 
-arg(12929).
-text(12929, That's obvious, I understand that. Still, I would enjoy seeing you debate an actual climate scientist with your "plasma" theory that doesn't even exist.).
-att(12929, root).
-
-arg(10482).
-text(10482, "... Indeed, its activities include subjective interpretations of what does and does not constitute an annual ring, statistical manipulation of data to fulfill subjective expectations, and discarding of perfectly good data sets when they contradict other data sets that have already been accepted.").
-support(10482, root).
-
 arg(8467).
 text(8467, Not being the same doesn't preclude both from existing.).
 att(8467, 5812).
@@ -836,26 +655,6 @@ att(9411, 9406).
 arg(11358).
 text(11358, Something on the order of one-third of all CO2 man has ever put into the atmosphere, 110 billion metric tons, has been pumped into the atmosphere since 1997.  Yet, the UAH and RSS satellites show that temperatures have not risen at all.).
 att(11358, 9969).
-
-arg(9193).
-text(9193, Jeff also revealed that professors view questioning the scientific paradigm as "getting political", and that the student who rails against the paradigm will be viewed as thinking unlike a scientist.  Given the extreme competition in the graduate programs, the weeding out becomes political.).
-support(9193, root).
-
-arg(10059).
-text(10059, Look carefully at your source: Their graphs beneath this claim end at 2000, which is near the point at which the land station and satellite data sets diverge.  The claim is sweeping and dramatic, but the data they appear to point to conveniently ends right as the "warming hiatus" begins.).
-att(10059, 9969).
-
-arg(9197).
-text(9197, The lesson of the story is that we should avoid simply assuming that scientists naturally adopt the consensus because each individual comes to that conclusion on their own.  We must consider as a possibility that the process for granting PhD's can actually produce the consensus.).
-support(9197, root).
-
-arg(9737).
-text(9737, Dude shut the fuck up already, you are spamming this whole discussion with dozens of irrelevant quotes. Global warming is real and that is a fact.).
-att(9737, root).
-
-arg(9186).
-text(9186, Jeff wrote the book as a critique of ALL professional training, and he did so as a reaction to observing that the graduate programs tended to favor the gung-ho memorizers over those who stopped to think and question what they were learning.).
-support(9186, root).
 
 arg(9693).
 text(9693, Radiocarbon researchers have discovered that radiocarbon levels can suddenly change, causing an effect known as the "c14 plateau", or a reversal, meaning that the C dates are in reverse order.  Two such instances have so far been observed.).
@@ -869,53 +668,57 @@ arg(11056).
 text(11056, Think carefully about the complexity of these two phenomena interacting with one another to create an unexpected result.  And contrast that with this simplistic claim that you hear all the time made about the Sun's light variation being too small to cause changes in the climate.).
 support(11056, 11054).
 
+arg(11843).
+text(11843, The point of bringing this up in the context of climate change is that it demonstrates an institutional bias in the astrophysical discipline against electricity as a first-order phenomenon.  Once the radio waves were undeniable, they were positioned as the consequence of other 1st-order phenomenon.).
+support(11843, 11837).
+
+arg(9266).
+text(9266, Freeman Dyson: "They are full of fudge factors that are fitted to the existing climate").
+support(9266, 9252).
+
+arg(8797).
+text(8797, "UCLA atmospheric scientists have discovered a previously unknown basic mode of energy transfer from the solar wind to the Earth's magnetosphere ... The energy of the particles and the fields in the magnetosphere can vary by large amounts ...").
+support(8797, 8704).
+
+arg(9270).
+text(9270, General Circulation Models (GCM's) divide the atmosphere and oceans into a set of boxes.  Some of the best of these models use a typical cell around 200 miles square.  Conditions within the cell are assumed to be uniform.).
+support(9270, 9252).
+
+arg(9253).
+text(9253, "Almost nobody wants to discuss the fundamentally intractable problem with GCMs. Climate models unfit for purpose would be very off message for those who believe climate science is settled.").
+support(9253, 9252).
+
+arg(11017).
+text(11017, Further, the UV component of the Sun's radiant output varies significantly.  During solar cycle 22, longer UV wavelengths varied by 15%, mid-length UV between 15 & 70%, and extreme UV by 150-700%!  Although the power radiated in UV is small, the effects of UV are disproportionate to the power level.).
+support(11017, 10659).
+
+arg(12929).
+text(12929, That's obvious, I understand that. Still, I would enjoy seeing you debate an actual climate scientist with your "plasma" theory that doesn't even exist.).
+att(12929, 12864).
+
+arg(10482).
+text(10482, "... Indeed, its activities include subjective interpretations of what does and does not constitute an annual ring, statistical manipulation of data to fulfill subjective expectations, and discarding of perfectly good data sets when they contradict other data sets that have already been accepted.").
+support(10482, 9685).
+
+arg(9193).
+text(9193, Jeff also revealed that professors view questioning the scientific paradigm as "getting political", and that the student who rails against the paradigm will be viewed as thinking unlike a scientist.  Given the extreme competition in the graduate programs, the weeding out becomes political.).
+support(9193, 8701).
+
+arg(9197).
+text(9197, The lesson of the story is that we should avoid simply assuming that scientists naturally adopt the consensus because each individual comes to that conclusion on their own.  We must consider as a possibility that the process for granting PhD's can actually produce the consensus.).
+support(9197, 8701).
+
 arg(12491).
 text(12491, This "divergence problem" is only a problem if you expect that the temperature should rise.  They state: "These data show an enigmatic decline in their response to warming temperatures after roughly 1960."  They argue that since the planet MUST be warming, the decline MUST be hidden.).
 support(12491, 12490).
 
 arg(12084).
 text(12084, "What they did is they took the data from 1961 onward, and erased it.  What was the justification for erasing it?  The fact that it went down, and we know the temperature's going up.  Therefore, it was unreliable.").
-support(12084, root).
-
-arg(11843).
-text(11843, The point of bringing this up in the context of climate change is that it demonstrates an institutional bias in the astrophysical discipline against electricity as a first-order phenomenon.  Once the radio waves were undeniable, they were positioned as the consequence of other 1st-order phenomenon.).
-support(11843, 11837).
-
-arg(9685).
-text(9685, Despite having incorporated 10 MILLION tree rings into their database, the dendrochronologists are still trying to reconcile enormous gaps in their own chronology.  There interestingly appears to be no observable consistency between any of the tree rings beyond 3,000 BC.).
-support(9685, 9678).
-
-arg(10477).
-text(10477, A common claim is that the various dating methods agree with one another.  But, it should be apparent from the methodology of fitting dates to a timeline chronology (as with radiocarbon dating), that the dates are simply calibrated to agree with one another.  The raw results do not match.).
-support(10477, 9678).
+support(12084, 12081).
 
 arg(12083).
 text(12083, "They weren't 'hacked' like a lot of people say.  Most people who know this business believe they were leaked by one of the team who was really upset with them.").
-support(12083, root).
-
-arg(12324).
-text(12324, The leaked CRU emails also revealed the extent to which Michael Mann and Gavin Schmidt went to block publication of McIntyre and McKitrick's analysis of the hockey stick graph.  Using RealClimate, they launched a PR attack on the peer review process that approved publication of the critique.).
-support(12324, root).
-
-arg(9286).
-text(9286, "Significant errors in the simulations of globally averaged tropospheric temperature structure indicate likely errors in tropospheric water-vapor content and therefore total greenhouse-gas forcing, precipitable water and convectively forced large-scale circulations.").
-support(9286, root).
-
-arg(11743).
-text(11743, It might perhaps help to observe an actual picture of a group of stars forming.  The branching filamentary pattern appears remarkably like a Lichtenberg form (the shape of lightning).  What about this resembles gravity?!).
-support(11743, root).
-
-arg(9156).
-text(9156, We did not definitively understand that filaments are ubiquitous in the universe until the launch of Herschel in 2009. Few people today realize that that was in fact one of Hannes Alfven's predictions for a plasma universe.  These filaments must carry energy because they are observed to form stars!).
-support(9156, 9142).
-
-arg(12478).
-text(12478, Michael Mann of the Dept of Geosciences at the Univ of Mass published a paper in 1998 which turned the MWP and Little Ice Age into non-events.  This paper used tree rings as a temperature "proxy", but the controversial part is that it only used tree rings up to 1961.).
-support(12478, root).
-
-arg(10123).
-text(10123, "Warmists postulate that higher CO2 will result in +++ feedback from water, thus magnifying the effect of CO2 alone by 2-3x. Other scientists believe that water may have a neutral or --- feedback on CO2. The observational evidence from the early years of this century tends to reinforce the latter.").
-support(10123, root).
+support(12083, 12081).
 
 arg(9244).
 text(9244, "My thesis is that the criteria by which individuals are deemed qualified or unqualified to become professionals involve not just technical knowledge as is generally assumed, but also attitude -- in particular, attitude toward working within an assigned political and ideological framework.").
@@ -929,17 +732,9 @@ arg(12942).
 text(12942, We are really at a very primitive state for public engagement with scientific controversies right now.  It currently takes around a decade to fully immerse in a single controversy.  Obviously, very, very few people have the time to do that in light of the demands of modern life.).
 att(12942, 12929).
 
-arg(8792).
-text(8792, Quote from the caltech link: "On Earth sunlight drives our weather, but Neptune is so far away that it receives a thousand times less sunlight than Earth does. How Neptune gets the energy for such intense weather is still a mystery.").
-att(8792, 8777).
-
 arg(11022).
 text(11022, By expanding the scope beyond just the limited confines of our climate to things happening in the larger astrophysical context, it becomes possible to reason that that IMF might perhaps have an underlying electrical cause.  After all, it's recently been admitted that currents flow through galaxies.).
 support(11022, 11020).
-
-arg(11051).
-text(11051, Look carefully at the Earth's pole.  As you can see, electric currents are guided by the Earth's magnetosphere both INTO and OUT OF this region simultaneously.  There's a lot of ELECTRICAL activity surrounding the Earth.  Does it really make sense to completely ignore it when talking about climate?).
-support(11051, root).
 
 arg(11993).
 text(11993, "Climatologists rely on astrophysicists for the basic assumptions they employ in their climate models.  In particular, it is assumed that the Sun is a steady source of radiant energy & that the Earth & its atmosphere have been a closed, undisturbed system for longer than man has walked the Earth.").
@@ -953,22 +748,9 @@ arg(10501).
 text(10501, Claims by graduate program whistleblowers that the programs weed out those who do not conform to the dominant ideology are perfectly relevant to your appeal to authority.).
 att(10501, 10239).
 
-arg(12081).
-text(12081, When the Climategate emails were released, there was a quote within the emails: "Let's use Mike's trick to hide the decline".  Michael Mann tried to claim that this was a harmless reference to a mathematical trick.  But, that response obscured the fact that he had manipulated the graph.).
-support(12081, root).
-
-arg(12471).
-text(12471, The actual quote is in Climategate email number #1462).
-support(12471, root).
-
 arg(10043).
 text(10043, You are treating the models as though they can accurately predict the climate 50 or 100 years into the future. Yet, the predictions which have to date been made have never actually been validated.  And in fact, when we look at the predictions made 25 years ago, we see that they over-estimate temp's.).
 att(10043, 9735).
-
-arg(11099).
-text(11099, Your ad populum arguments lack validity.  
-Also, the recent data wasn't published by the 9 scientists your referring too, it was the UN in their "Climate Change Synthesis Report 2014". Also, the word "synthesis" refers to a new form of synthetic science that they coin in the report. ).
-att(11099, 9735).
 
 arg(12487).
 text(12487, Further analysis revealed that the tree rings emphasized by Mann's technique were never intended for this purpose.  Mann's data mining procedure did not just pull out a random group of proxies.  Rather, it pulled out a single eccentric group of bristlecone pine chronologies from Sheep Mountain.).
@@ -978,14 +760,6 @@ arg(12028).
 text(12028, The greenhouse effect is the trapping of energy by gases in our atmosphere.  Thus, energy in is differenced with energy out at the Top of the Atmosphere (TOA).  This is more commonly referred to as TOA Energy Balance.  This energy imbalance though is very small compared to the overall energy in/out.).
 att(12028, 12009).
 
-arg(9194).
-text(9194, Jeff was fired by the American Institute of Physics shortly after publishing the book even though he had been one of their best editors (19 years).  An IEEE committee ruled that he was fired for the contents of the book.  Jeff sued to get his job back, and won, with a settlement.).
-support(9194, root).
-
-arg(9185).
-text(9185, Why would corporate interests, such as manufacturers, work to produce a scientific consensus that harmed their business through the existence of carbon taxes & regulations?).
-att(9185, root).
-
 arg(10703).
 text(10703, Much is made of the notion that stars age according to a stellar evolution process, but a number of anomalous observations indicate that stars can also suddenly defy these "rules" -- inviting researchers to speculate ad hoc explanations.  They appear averse to considering that the model is wrong.).
 support(10703, 10656).
@@ -994,81 +768,69 @@ arg(10659).
 text(10659, Climate scientists will frequently claim that they know that climate change cannot be caused by the Sun because the Sun's overall brightness varies by less than 0.1% during the 11-year cycle, but what they leave out is that there is no obvious reason for a thermonuclear Sun to cycle at all.).
 support(10659, 10656).
 
-arg(9154).
-text(9154, "The observation of large-scale magnetic fields associated with objects as large as galaxies to this day evokes awkward silence and speculative explanations amongst theorists who were all taught in either high school or college that magnetic fields tend to go hand-in-hand with electric currents.").
-support(9154, 9142).
-
 arg(9689).
 text(9689, Radiocarbon dating's accuracy bases on a centimeter scale model which proposes that every cell in the grid is identical and behaves in the exact same way.  In the real world, there are numerous processes which deposit and release carbon -- thus having an ability to alter the dates.).
 support(9689, 9678).
 
-arg(12261).
-text(12261, The decentralization of science has traditionally played a role in keeping science honest.  By contrast, climate science has behaved as a research monopoly which seeks to protect funding for researchers that support man as the cause, while actively undermining researchers convinced it is the Sun.).
-support(12261, root).
+arg(11743).
+text(11743, It might perhaps help to observe an actual picture of a group of stars forming.  The branching filamentary pattern appears remarkably like a Lichtenberg form (the shape of lightning).  What about this resembles gravity?!).
+support(11743, 9156).
+
+arg(9156).
+text(9156, We did not definitively understand that filaments are ubiquitous in the universe until the launch of Herschel in 2009. Few people today realize that that was in fact one of Hannes Alfven's predictions for a plasma universe.  These filaments must carry energy because they are observed to form stars!).
+support(9156, 9142).
+
+arg(12478).
+text(12478, Michael Mann of the Dept of Geosciences at the Univ of Mass published a paper in 1998 which turned the MWP and Little Ice Age into non-events.  This paper used tree rings as a temperature "proxy", but the controversial part is that it only used tree rings up to 1961.).
+support(12478, 12469).
+
+arg(10123).
+text(10123, "Warmists postulate that higher CO2 will result in +++ feedback from water, thus magnifying the effect of CO2 alone by 2-3x. Other scientists believe that water may have a neutral or --- feedback on CO2. The observational evidence from the early years of this century tends to reinforce the latter.").
+support(10123, 9283).
+
+arg(11051).
+text(11051, Look carefully at the Earth's pole.  As you can see, electric currents are guided by the Earth's magnetosphere both INTO and OUT OF this region simultaneously.  There's a lot of ELECTRICAL activity surrounding the Earth.  Does it really make sense to completely ignore it when talking about climate?).
+support(11051, 11050).
+
+arg(12081).
+text(12081, When the Climategate emails were released, there was a quote within the emails: "Let's use Mike's trick to hide the decline".  Michael Mann tried to claim that this was a harmless reference to a mathematical trick.  But, that response obscured the fact that he had manipulated the graph.).
+support(12081, 12080).
+
+arg(12471).
+text(12471, The actual quote is in Climategate email number #1462).
+support(12471, 12469).
+
+arg(9194).
+text(9194, Jeff was fired by the American Institute of Physics shortly after publishing the book even though he had been one of their best editors (19 years).  An IEEE committee ruled that he was fired for the contents of the book.  Jeff sued to get his job back, and won, with a settlement.).
+support(9194, 8701).
+
+arg(9154).
+text(9154, "The observation of large-scale magnetic fields associated with objects as large as galaxies to this day evokes awkward silence and speculative explanations amongst theorists who were all taught in either high school or college that magnetic fields tend to go hand-in-hand with electric currents.").
+support(9154, 9142).
 
 arg(12468).
 text(12468, The now-famous hockey stick which has appeared in Al Gore's Inconvenient Truth is a recent invention and has a very controversial origin.).
 support(12468, root).
 
-arg(11010).
-text(11010, Climate scientists are not well-versed in plasma or astrophysics, & so just as people reason that this or that person cannot make claims about the climate since they are not a climate scientist, the same problem occurs in reverse: Climate scientists are not trained to understand the solar wind.).
-att(11010, 5780).
+arg(12261).
+text(12261, The decentralization of science has traditionally played a role in keeping science honest.  By contrast, climate science has behaved as a research monopoly which seeks to protect funding for researchers that support man as the cause, while actively undermining researchers convinced it is the Sun.).
+support(12261, root).
 
 arg(11050).
 text(11050, Follow the link in the source below to a modern diagram of Earth's immediate space environment.  Notice the language used to describe these phenomena is almost entirely electric, magnetic and plasma.  Climate scientists are not trained in ANY of it.).
 support(11050, 11010).
 
-arg(9263).
-text(9263, Freeman Dyson: "I have studied their climate models and know what they can do ... They do a very poor job of describing the clouds, the dust, the chemistry and the biology of fields, farms and forests.  They do not begin to describe the real world that we live in.").
-support(9263, 9252).
-
-arg(11027).
-text(11027, The energies associated with solar flares and CME's can be enormous.  The Carrington Event and another flare on June 1, 1991 both had energies of 10^34 erg.  To put that into perspective, the Sun's total radiant output is ~4 x 10^33 ergs per second!).
-support(11027, 11010).
-
-arg(10483).
-text(10483, "... our understanding of how trees make wood remains at quite a rudimentary state (despite several centuries of research) ... It would be a major step forward if dendrochronology could embrace the scientific method.").
-support(10483, 9685).
-
-arg(10128).
-text(10128, IPCC, 2007: “we should recognise that we are dealing with a coupled nonlinear chaotic system, and therefore that the long-term prediction of future climate states is not possible.”).
-att(10128, root).
-
-arg(10590).
-text(10590, The scientific community up to the 1800's regarded meteorites in the same way that modern scientists regard UFO abudctions and psychic phenomena: quaint superstitions only believed by peasant folk.).
-support(10590, root).
-
-arg(9182).
-text(9182, "How was it determined that 99% of the Universe is in a plasma state? Most of the gas in interstellar space is ionized (astronomers can tell by the wavelengths of light the gas absorbs and emits), and all of the gas in stars is ionized, that's where the 99% comes from.").
-support(9182, root).
-
 arg(11801).
 text(11801, When Hansen and other researchers discuss the Venus data, they NEVER mention the fact that this data set was simply corrected to reflect the assumption of a runaway greenhouse effect.).
 support(11801, 11796).
-
-arg(10475).
-text(10475, The key quote on this comes from the expedition organizer, Richard Epps: "Who told you one layer equals one year?  We dug down through fifty years of time and found thousands of layers in 250 feet."  All isotopic and chemical analyses assume that one layer = one year.).
-support(10475, root).
 
 arg(11378).
 text(11378, Land records are adjusted by "simulated" time of day adjustments to reflect different times of measurement.  5 different adjustments are performed on land thermometer readings including homogeneity adjustments that basically move data around because the thermometer seems wrong.).
 support(11378, 11373).
 
-arg(9177).
-text(9177, "Plasma: A state of matter characterized by unbound negative electrons and positive ions that may conduct electrical current.").
-support(9177, root).
-
-arg(9165).
-text(9165, "Today it is recognized that 99.999% of all observable matter in the universe is in the plasma state").
-support(9165, root).
-
 arg(12829).
 text(12829, It seems that most of the adherents to these ideas have not dug into the reasons for their belief beyond just the superficial popular science reporting.  It's not clear that people are actually motivated to seek out accuracy in their convictions.  It is serving some other purpose for them.).
 support(12829, 10957).
-
-arg(11336).
-text(11336, Climate scientists will tend to avoid asking the question.  Why would they ask a question whose answer potentially suggests that they are not the expert of their own scientific domain?).
-support(11336, root).
 
 arg(12469).
 text(12469, On 12/6/2006, a geologist and geophysicist named Dr. David Deming  testified to Congress that he received an email from a major researcher in the area of climate change that "We have to get rid of the Medieval Warm Period").
@@ -1082,10 +844,6 @@ arg(9397).
 text(9397, "I've always said that the cause of the troubles is the American graduate school ... When we had graduated first degree, we were independent.  We could thumb our noses at the professor ... But in the graduate school, you all have to learn what the ... professors are teaching you." -- Fred Hoyle).
 att(9397, 9369).
 
-arg(9163).
-text(9163, Each of these discoveries -- the charged particles, the magnetic fields, the radio waves and more recently, the filaments -- collectively point to this idea that electricity can travel through space and do things of enormous importance.  Climate scientists have yet to engage these discoveries.).
-support(9163, 9142).
-
 arg(10457).
 text(10457, One necessary uniformitarian assumption for claims about climate change is that the ice we see at the poles was put there through a gradual -- rather than sudden, catastrophic -- process.  It's important that people understand that this claim has  not gone uncontested.).
 support(10457, 9678).
@@ -1098,27 +856,13 @@ arg(10170).
 text(10170, This doesn't suggest it at all. Global warming can also be seen as a flat rising of temperatures and the global temperature has risen in the last decades.).
 att(10170, 10146).
 
-arg(9283).
-text(9283, The models propose that greater concentrations of CO2 will lead to greater concentrations of water vapor.  This is called the water vapor feedback.  As it stands, water vapor feedback is not well understood.  It is "understood in qualitative terms.").
-support(9283, 9252).
-
 arg(11078).
 text(11078, Although climate scientists understand that electrical resistance of the atmosphere correlates with barometric pressure, their tendency is to imagine that "pressure alters the resistance" (Chalmers 1950).  But, all we really know for sure is that the two are related.).
 support(11078, 11010).
 
-arg(8796).
-text(8796, "Polar vortex events modulate the NAO polarity, with a strong vortex leading to a positive and a weak vortex to a negative NAO.  NAO variations are in turn linked to circulation variability in the North Atlantic."
-
-This seems to undermine your claim, as NAO is a seasonal phenomenon.).
-att(8796, root).
-
 arg(11384).
 text(11384, Science has observably become more authoritarian since the 90's (See the graph in sources).  Thus, the public's access to data is no longer strictly objective, as the source for the data is now commonly advocating for a reaction to that data which would extend the line of investigation.).
 att(11384, 11350).
-
-arg(12272).
-text(12272, The U.S. Congress appointed Professor Wegman to head an independent investigation of the "hockey stick" dispute.  His report revealed that the social network of authorships in temperature reconstruction was highly centralized around Michael Mann.).
-support(12272, root).
 
 arg(10963).
 text(10963, Daniel Kahneman received the Nobel for compiling the results of many small decision theory experiments into a framework for understanding why people tend to think non-rationally.  What he found is that people tend to be "lazy" rational thinkers in that they seek out shortcuts like stereotyping.).
@@ -1127,6 +871,56 @@ support(10963, 10955).
 arg(10255).
 text(10255, "So far, no one has been able to provide a compelling answer to why climate change seems to be taking a break. We're facing a puzzle." IPCC Lead Author Hans von Storch told der Spiegel in a June 2013 interview).
 att(10255, 10170).
+
+arg(9263).
+text(9263, Freeman Dyson: "I have studied their climate models and know what they can do ... They do a very poor job of describing the clouds, the dust, the chemistry and the biology of fields, farms and forests.  They do not begin to describe the real world that we live in.").
+support(9263, 9252).
+
+arg(10483).
+text(10483, "... our understanding of how trees make wood remains at quite a rudimentary state (despite several centuries of research) ... It would be a major step forward if dendrochronology could embrace the scientific method.").
+support(10483, 9685).
+
+arg(10128).
+text(10128, IPCC, 2007: “we should recognise that we are dealing with a coupled nonlinear chaotic system, and therefore that the long-term prediction of future climate states is not possible.”).
+att(10128, 8463).
+
+arg(10590).
+text(10590, The scientific community up to the 1800's regarded meteorites in the same way that modern scientists regard UFO abudctions and psychic phenomena: quaint superstitions only believed by peasant folk.).
+support(10590, 10574).
+
+arg(9172).
+text(9172, "While only a few natural plasmas, such as flames or lightning strokes, can be found near the Earth's surface, plasmas are abundant in the universe.").
+support(9172, 9146).
+
+arg(10475).
+text(10475, The key quote on this comes from the expedition organizer, Richard Epps: "Who told you one layer equals one year?  We dug down through fifty years of time and found thousands of layers in 250 feet."  All isotopic and chemical analyses assume that one layer = one year.).
+support(10475, 10474).
+
+arg(9177).
+text(9177, "Plasma: A state of matter characterized by unbound negative electrons and positive ions that may conduct electrical current.").
+support(9177, 9146).
+
+arg(9165).
+text(9165, "Today it is recognized that 99.999% of all observable matter in the universe is in the plasma state").
+support(9165, 9146).
+
+arg(11336).
+text(11336, Climate scientists will tend to avoid asking the question.  Why would they ask a question whose answer potentially suggests that they are not the expert of their own scientific domain?).
+support(11336, 11081).
+
+arg(9283).
+text(9283, The models propose that greater concentrations of CO2 will lead to greater concentrations of water vapor.  This is called the water vapor feedback.  As it stands, water vapor feedback is not well understood.  It is "understood in qualitative terms.").
+support(9283, 9252).
+
+arg(8796).
+text(8796, "Polar vortex events modulate the NAO polarity, with a strong vortex leading to a positive and a weak vortex to a negative NAO.  NAO variations are in turn linked to circulation variability in the North Atlantic."
+
+This seems to undermine your claim, as NAO is a seasonal phenomenon.).
+att(8796, 8791).
+
+arg(12272).
+text(12272, The U.S. Congress appointed Professor Wegman to head an independent investigation of the "hockey stick" dispute.  His report revealed that the social network of authorships in temperature reconstruction was highly centralized around Michael Mann.).
+support(12272, 12058).
 
 arg(12864).
 text(12864, People cannot read one anothers' minds.  The only way for one person to understand another's reasons is for them to explicitly state the scientific evidence which supports those reasons.  I've done just that here.  What I am seeing so far is that the reactions are vague and largely unsupported.).
@@ -1139,10 +933,6 @@ support(10474, 10457).
 arg(10471).
 text(10471, Although it is rarely discussed these days, the assumption that gases are trapped over many thousands of years in ice cap bubbles has also been the subject of controversy.).
 support(10471, 10457).
-
-arg(11034).
-text(11034, The atmospheric models used by climate scientists today are based on what are called the Primitive Equations.  It's a set of nonlinear differential equations that are used to approximate global atmospheric flow.  Unfortunately, these equations ignore changes in electric charge phenomena.).
-support(11034, root).
 
 arg(10245).
 text(10245, The composition of atmospheric gases determines the electrical properties of the atmosphere.).
@@ -1160,35 +950,9 @@ arg(9496).
 text(9496, Jeff Schmidt: "The much-touted 'peer review' process does not usurp the power of the program directors to serve agency goals ... Peer review does not reduce the program directors to nonprofessional poll takers ...").
 att(9496, 9464).
 
-arg(9183).
-text(9183, "It would seem that we live in the 1% of the universe in which plasmas do not occur naturally."
-
-(the implication, of course, being that we would seek to explain the observations of plasmas using the behaviors we are more familiar with here on Earth ...)).
-support(9183, root).
-
-arg(9175).
-text(9175, "Plasmas play a fundamental role in nature.").
-support(9175, root).
-
-arg(10607).
-text(10607, "The whole procedure [of shooting rockets into space] ... presents difficulties of so fundamental a nature, that we are forced to dismiss the notion as essentially impracticable, in spite of the author's insistent appeal to put aside prejudice ...").
-support(10607, root).
-
-arg(10608).
-text(10608, "This foolish idea of shooting at the moon is an example of the absurd lengths to which vicious specialisation will carry scientists.").
-support(10608, root).
-
-arg(10470).
-text(10470, There is a map of Greenland discussed in a book "The Rediscovery of Lost America".  The map was published in Europe in 1558, and is referred to as the Zeno map.  This map depicts Greenland as 3 islands.  Curiously, a 1951 French expedition reported the same curious conclusion through seismology.).
-support(10470, root).
-
 arg(10707).
 text(10707, Some of the most vocal advocates for climate projections 50-100 yrs into the future are also the least versed in solar anomalies.  They have not taken the time to listen to the critics of solar models, & they are accordingly left with a false impression that it's all been figured out.).
 support(10707, 10656).
-
-arg(9181).
-text(9181, "On an astronomical scale, plasma is common ... Very little material in space is made of rock like the Earth").
-support(9181, root).
 
 arg(10247).
 text(10247, The climate is electrically driven and governed by electromagnetic forces, not tabletop gas kinetics and numerology.).
@@ -1204,18 +968,6 @@ text(8791, Sudden stratospheric warming affects global weather on a relatively s
 SSW events affect weather, but they are not long enough to affect climate.).
 att(8791, 8716).
 
-arg(8815).
-text(8815, "Satellites have found evidence of magnetic ropes connecting Earth's upper atmosphere directly to the sun ... the rope formed and unraveled in just a few minutes, providing a brief but significant conduit for solar wind energy.").
-support(8815, root).
-
-arg(10546).
-text(10546, This observation, by itself, should be more than sufficient to invite further investigation into the idea of electrical currents into our atmosphere over the solar wind plasma influencing our climate.).
-support(10546, root).
-
-arg(11953).
-text(11953, Plasma's importance in the universe is not simply assumed; it is the dominant state of matter we see w/ telescopes.  But the point is further deduced from the laboratory observation that a gas can behave as a plasma with surprisingly small amounts of ionization (that is, unbound electrons/ions).).
-support(11953, 9173).
-
 arg(8818).
 text(8818, Electric currents and magnetic fields tend to go hand-in-hand, insofar as a linear movement of electrons will by the right-hand rule induce an associated magnetic field.  So, our instruments tend to observe the magnetic fields, but we can typically infer an electric current cause.).
 support(8818, 8815).
@@ -1223,14 +975,6 @@ support(8818, 8815).
 arg(12880).
 text(12880, I've interacted with people online on the cosmic plasma debate for a decade.  I've run the claims by against-the-mainstream plasma theorists by their biggest critics + the public.  There are very plainly observable patterns in the reactions.  People very obviously have no idea what a plasma is.).
 support(12880, 12864).
-
-arg(8767).
-text(8767, Appeal to science is not appeal to popularity nor authority. They differ in that appeal to authority ends at the belief level, while scientists are qualified experts on the subject. Saying appeal to science is appeal to authority is like saying that citing sources are appeals to authorities.).
-support(8767, 5780).
-
-arg(5954).
-text(5954, The broad consensus is arrived at by principled, evidence-based study of the observed phenomena, and represents multiple lines of converging evidence from a wide and varied community of scientists. While consensus lends weight to the conclusions, each piece of work can stand alone and be verified.).
-support(5954, 5780).
 
 arg(12941).
 text(12941, I can tell you right now that such a debate would be enormously confusing, because both sides would be pointing to completely different sets of evidence.  In some cases, they would even have different definitions for the same phenomenon.  This is very typical of scientific controversies.).
@@ -1244,21 +988,55 @@ arg(12475).
 text(12475, Until about the mid-1990's, the Medieval Warm Period was for climate researchers an undisputed fact.  It was accepted w/o question and noted in the first progress report of the IPCC from 1990.).
 support(12475, 12469).
 
-arg(10102).
-text(10102, The IPCC's mandate from the UN is to focus on “a change of climate which is attributed directly or indirectly to human activity that alters the composition of the atmosphere, and which is in addition to natural climate variability.”  -- Greenpeace Founder Patrick Moore).
-support(10102, root).
-
 arg(11860).
 text(11860, An appeal to authority is a "statistical syllogism", meaning that rather than citing an actual reason for belief, the person making the appeal is skipping that crucial step and instead relying upon trust or faith in the authority as the reason for their belief.).
 att(11860, 8767).
 
-arg(9909).
-text(9909, What I notice here and elsewhere is that people do not desire to test their belief in science through exposure to alternative explanations.  They appear to value the tribal benefits of belonging to a scientific theory over the use of modeling as a tool for reasoning.).
-att(9909, 8767).
-
 arg(11959).
 text(11959, "Note that plasma-like behaviour ensues after a remarkably small fraction of the gas has undergone ionization. Thus, fractionally ionized gases exhibit most of the exotic phenomena characteristic of fully ionized gases.").
 support(11959, 11953).
+
+arg(9183).
+text(9183, "It would seem that we live in the 1% of the universe in which plasmas do not occur naturally."
+
+(the implication, of course, being that we would seek to explain the observations of plasmas using the behaviors we are more familiar with here on Earth ...)).
+support(9183, 9146).
+
+arg(9175).
+text(9175, "Plasmas play a fundamental role in nature.").
+support(9175, 9146).
+
+arg(10607).
+text(10607, "The whole procedure [of shooting rockets into space] ... presents difficulties of so fundamental a nature, that we are forced to dismiss the notion as essentially impracticable, in spite of the author's insistent appeal to put aside prejudice ...").
+support(10607, 10586).
+
+arg(10608).
+text(10608, "This foolish idea of shooting at the moon is an example of the absurd lengths to which vicious specialisation will carry scientists.").
+support(10608, 10586).
+
+arg(9181).
+text(9181, "On an astronomical scale, plasma is common ... Very little material in space is made of rock like the Earth").
+support(9181, 9146).
+
+arg(8815).
+text(8815, "Satellites have found evidence of magnetic ropes connecting Earth's upper atmosphere directly to the sun ... the rope formed and unraveled in just a few minutes, providing a brief but significant conduit for solar wind energy.").
+support(8815, 8704).
+
+arg(10546).
+text(10546, This observation, by itself, should be more than sufficient to invite further investigation into the idea of electrical currents into our atmosphere over the solar wind plasma influencing our climate.).
+support(10546, 10543).
+
+arg(11953).
+text(11953, Plasma's importance in the universe is not simply assumed; it is the dominant state of matter we see w/ telescopes.  But the point is further deduced from the laboratory observation that a gas can behave as a plasma with surprisingly small amounts of ionization (that is, unbound electrons/ions).).
+support(11953, 9173).
+
+arg(8767).
+text(8767, Appeal to science is not appeal to popularity nor authority. They differ in that appeal to authority ends at the belief level, while scientists are qualified experts on the subject. Saying appeal to science is appeal to authority is like saying that citing sources are appeals to authorities.).
+support(8767, 5780).
+
+arg(10102).
+text(10102, The IPCC's mandate from the UN is to focus on “a change of climate which is attributed directly or indirectly to human activity that alters the composition of the atmosphere, and which is in addition to natural climate variability.”  -- Greenpeace Founder Patrick Moore).
+support(10102, 9722).
 
 arg(11045).
 text(11045, The Heliospheric Current Sheet is the largest structure in our solar system.  Its spiral structure exhibits a radial component which implies that an electric current continually flows towards the Sun.  The charge accumulating from this process must be removed elsewhere -- namely, at the Sun's poles.).
@@ -1280,14 +1058,6 @@ arg(11780).
 text(11780, The implication for climate change is that if stars are formed by transient electrical bursts, then there can be a whole range of lesser charge transfers through space.  Just as you can cook a hot dog with an electric grill, it should be apparent that electric currents can also heat up planets.).
 support(11780, 11766).
 
-arg(8463).
-text(8463, World temperatures are increasing over time, thus, the world is actually warming, which is scientifically undeniable. If there is any dispute, it is over the cause, not the existence, or even the impact.).
-att(8463, root).
-
-arg(8712).
-text(8712, Venus is not an example of a runaway greenhouse effect.  The Venus Pioneer mission revealed that Venus is not in thermal equilibrium; that it is releasing 15% more heat than it takes in (!); and that this heat is coming from the ground (!).  This data was so inexplicable that it was thrown out.).
-support(8712, root).
-
 arg(11947).
 text(11947, There is a laboratory plasma physics phenomenon known as Marklund convection which can explain accretion flows using fundamental electrodynamics concepts: A conducting wire will tend to induce an electromagnetic force along its length, which in turn drags neutral matter.).
 support(11947, 11772).
@@ -1295,18 +1065,6 @@ support(11947, 11772).
 arg(10959).
 text(10959, Your news media is constantly seeking to offer you information that you already agree with so that you will click the content which contains advertising.  Thus, your access to information on both sides of the climate change debate is undermined by their business model to harvest your clicks.).
 support(10959, 10954).
-
-arg(10961).
-text(10961, The act of mapping out arguments gives us an opportunity to see a more comprehensive accounting of the arguments on both sides than your news media is offering you, but it will only add value if people take the time to participate.  Telling somebody to do a Google search is not really participation.).
-support(10961, 10954).
-
-arg(12322).
-text(12322, Although we cannot actually know the answer, since journal editors are not required to disclose the names of reviewers, the likely answer is that the paleoclimate researchers connected to Michael Mann were all reviewers for one another's works.).
-support(12322, 12279).
-
-arg(9722).
-text(9722, The "broad consensus" is more strongly influenced by bias and error than it it's w influenced by evidence.).
-att(9722, 5954).
 
 arg(8804).
 text(8804, Astrophysicists have known about SSW's since the 60's, and they noticed that the jet stream would start waving more a week or so after.  But, they didn't tell the meteorologists, and they wouldn't have cared anyways.  Piers Corbyn claims to already predict SSW's based upon solar activity.).
@@ -1324,14 +1082,6 @@ arg(8810).
 text(8810, Recent measurements of polar E-fields suggest that current GCM's cannot capture electric joule heating either spatially or temporally.  Further, the common process of smoothing the GCM datasets tends to smear out E-field extremes.).
 att(8810, 8791).
 
-arg(8799).
-text(8799, “Two weeks after major stratospheric warming was detected at the end of 2012, the weather in Europe changed dramatically ... We think this was related to stratospheric warming ... If our research confirms the effects ... weather models could forecast ahead by several weeks or even a season.").
-att(8799, 8791).
-
-arg(8802).
-text(8802, “Right now, estimation of the amount of energy entering the Earth’s thermosphere is not very precise ... We know even less about how that energy is distributed ... This information is critical because if you put the same amount of energy at 400 km the impact can be 100x larger than if ... 100 km.").
-att(8802, 8791).
-
 arg(12485).
 text(12485, That questionable weighting was further validated by a "red noise test".  This test demonstrated that 99% of the time you could process pure random data with Mann's technique, and it would, like a machine, generate a Hockey Stick shape.).
 support(12485, 12483).
@@ -1339,10 +1089,6 @@ support(12485, 12483).
 arg(11425).
 text(11425, You're treating the space within which Earth exists as an empty vacuum, as scientists did before we launched the first rockets into space.  You're refusing to actually read the arguments, and in the process emulating the mistake that climate scientists themselves are making.).
 att(11425, 11424).
-
-arg(10132).
-text(10132, "We have been in a major cooling period since the Eocene ... The Earth was an average 16C warmer then, with most of the increased warmth at the higher latitudes. The entire planet, including the Arctic and Antarctica were ice-free and the land there was covered in forest.").
-support(10132, root).
 
 arg(11071).
 text(11071, This potential difference means that the middle and & lower atmospheres are like the dialectric in a capacitor.  Although air is a good insulator, it's not perfect, and so the capacitor leaks.  In clear skies, there's a fair weather downward current density of ~1-6 pA/m^2.).
@@ -1372,13 +1118,21 @@ arg(11073).
 text(11073, Stating the two go hand in hand is an understatement. Magnetic fields are supposedly 100% dependent on the velocity of an electric charge.).
 att(11073, 9154).
 
-arg(8701).
-text(8701, A whistleblower named Jeff Schmidt revealed in 2000 in a book titled Disciplined Minds that the graduate programs are designed to create ideologically disciplined thinkers.  500 physicists signed a letter in his support + Noam Chomsky, & it was the biggest freedom-of-expression case in N.A. physics.).
-att(8701, 5780).
+arg(12322).
+text(12322, Although we cannot actually know the answer, since journal editors are not required to disclose the names of reviewers, the likely answer is that the paleoclimate researchers connected to Michael Mann were all reviewers for one another's works.).
+support(12322, 12279).
 
-arg(10708).
-text(10708, What Schmidt argues is that graduate students are cultured to have assignable curiosity first through the paradigms of textbook theory.  Thus, it is not that the conclusion of global warming is directly enforced.  The students are simply cultured to have assignable curiosity.).
-support(10708, root).
+arg(9722).
+text(9722, The "broad consensus" is more strongly influenced by bias and error than it it's w influenced by evidence.).
+att(9722, 5954).
+
+arg(10132).
+text(10132, "We have been in a major cooling period since the Eocene ... The Earth was an average 16C warmer then, with most of the increased warmth at the higher latitudes. The entire planet, including the Arctic and Antarctica were ice-free and the land there was covered in forest.").
+support(10132, 9700).
+
+arg(8712).
+text(8712, Venus is not an example of a runaway greenhouse effect.  The Venus Pioneer mission revealed that Venus is not in thermal equilibrium; that it is releasing 15% more heat than it takes in (!); and that this heat is coming from the ground (!).  This data was so inexplicable that it was thrown out.).
+support(8712, root).
 
 arg(10476).
 text(10476, "it is almost certain that variability exists at the subseasonal or storm level, at the annual level, and for various longer periodicities (2-year, sunspot, etc).  We certainly must entertain the possibility of misidentifying the deposit of a large storm or snow dune as an entire year ...").
@@ -1387,10 +1141,6 @@ support(10476, 10475).
 arg(10655).
 text(10655, So he argues that scientists are taught to accept the ideologies of their employers. Why on earth would the vast majority of  employers in the world share the 'climate change is happening' ideology? By what mechanism do they come to this shared conclusion, if not by the existence of actual evidence?).
 att(10655, 9244).
-
-arg(11032).
-text(11032, When these solar eruptions are aimed at Earth, and when the Moon is in just the right place, according to astrophysicist Piers Corbyn, these charged particles can suddenly channel into the Earth's poles.  My point here is: What would a climate scientist make of any of this?).
-support(11032, 11027).
 
 arg(11145).
 text(11145, I'm only saying you are spamming hundreds of irrelevant quotes. I can easily dismiss irrelevant quotes on the basis that they are irrelevant.).
@@ -1407,14 +1157,6 @@ support(11024, 10659).
 arg(11042).
 text(11042, "Why we think the Sun should be perfect, constant and regular when other stars are not is more a question for social than for physical science" -- Solar expert, Jack Eddy (1976)).
 support(11042, 10659).
-
-arg(10481).
-text(10481, "As a tree physiologist who has devoted his career to understanding how trees make wood, I have made sufficient observations on tree rings and cambial growth to know that dendrochronology is not at all an exact science ...").
-support(10481, 9685).
-
-arg(10700).
-text(10700, Much debate has occurred over an apparent correlation between solar neutrino output and the surface sunspot cycle.  This is a big problem for solar models because the model requires that it takes 200,000 years for the energy of internal fusion to affect the surface.).
-support(10700, 10656).
 
 arg(8824).
 text(8824, Plasmas naturally form into filaments which exhibit long-range attraction (from two wires conducting) and short-range repulsion (due to the circular motions of electrons confined by these plasma "wires").  This causes the filaments to twist around one another, generally without combining.).
@@ -1436,17 +1178,9 @@ arg(11081).
 text(11081, Along these same lines, the barometric pressure variations are also known to correlate with the fair weather current density of the atmosphere.  This is known as the Burns Effect.  What if this vertical current density & the ionospheric potential actually drives the barometric pressure changes?).
 support(11081, 11078).
 
-arg(8704).
-text(8704, NASA is currently constructing new general circulation models which take into account electric charge change phenomena.  The researcher's name is Yue Deng and they are at the University of Texas.  This research raises questions about the claim that TSI fully captures the Sun's energy input.).
-att(8704, 5954).
-
 arg(10541).
 text(10541, "Theoretically speaking, ordinary lightning should be at least an order of magnitude too weak to produce a gamma ray burst ... we don't understand it."  One very reasonable line of investigation is that the energies are extreme because the lightning is connected to much larger events in space.).
 att(10541, 10245).
-
-arg(10543).
-text(10543, "Scientists have found that when gusts of high-speed solar particles enter our atmosphere, the # of lightning bolts increases.  The scientists found that when the speed & intensity of the solar winds increased, so too did the rate of lightning strikes ... the turbulent weather lasted for >month ...").
-att(10543, 10245).
 
 arg(8808).
 text(8808, There are several instances in our solar system of planets with hot poles.  This is enormously important because it seems to suggest that charged particles guided by planetary magnetic fields might in instances create heat, similar to what happens when you plug a hot dog into the wall.).
@@ -1456,14 +1190,6 @@ arg(10709).
 text(10709, Given a particular set of assumptions in atmospheric/planetary sciences, certain conclusions will be naturally favored.  A critical perspective would necessarily require the questioning of these assumptions.  What Schmidt argues is that such questions are not considered "thinking like a scientist.").
 support(10709, 10655).
 
-arg(10586).
-text(10586, This public humiliation affected Goddard so deeply that he retreated behind a wall of secrecy and informed few people about the work he was doing.  This facilitated the U.S. falling behind the Nazi's in the invention of rocket-based weaponry, which of course were raining down upon London by 1944.).
-support(10586, root).
-
-arg(10580).
-text(10580, When Goddard first suggested the possibility of space-based rocket propulsion, he was ridiculed in the New York Times (Jan 13, 1920) for failing to know that there was nothing for the rocket to push against in space.  The Times did not publish a correction until a day before the Moon landing.).
-support(10580, 10574).
-
 arg(11058).
 text(11058, 14 different formulae are currently proposed!  Think carefully about that: We know that there can be these massive charge transfers between the Earth and the Sun, but there's still considerable debate over the precise influence of each of the known drivers (solar wind velocity, IMF strength, etc).).
 support(11058, 11057).
@@ -1472,25 +1198,33 @@ arg(10705).
 text(10705, Examination of old images and spectrograms reveal two other examples: V 605 Aquilae and V 4334 Sagittarii.  The latter changed its spectral type and surface composition very rapidly.  Such observations plainly challenge our tendency to view stars as inherently stable over billions of years.).
 support(10705, 10703).
 
-arg(9700).
-text(9700, An important example of a clear violation of uniformity is the observation that the Arctic region was during the Eocene epoch subtropical & populated by crocodiles & 50-meter-high trees.  Plate tectonics cannot explain the anomaly, & such plants & animals should not be able to survive such darkness.).
-support(9700, 9699).
-
 arg(9682).
 text(9682, Estimates range between 30-50% of the dates produced through radiocarbon analysis are thrown away.  For this reason, some have claimed that radiocarbon dating is not employed to test theories, but to support them.  One researcher noted that other dates could be used to construct other chronologies.).
 support(9682, 9678).
 
+arg(11032).
+text(11032, When these solar eruptions are aimed at Earth, and when the Moon is in just the right place, according to astrophysicist Piers Corbyn, these charged particles can suddenly channel into the Earth's poles.  My point here is: What would a climate scientist make of any of this?).
+support(11032, 11027).
+
+arg(10481).
+text(10481, "As a tree physiologist who has devoted his career to understanding how trees make wood, I have made sufficient observations on tree rings and cambial growth to know that dendrochronology is not at all an exact science ...").
+support(10481, 9685).
+
+arg(8704).
+text(8704, NASA is currently constructing new general circulation models which take into account electric charge change phenomena.  The researcher's name is Yue Deng and they are at the University of Texas.  This research raises questions about the claim that TSI fully captures the Sun's energy input.).
+att(8704, 5954).
+
+arg(10586).
+text(10586, This public humiliation affected Goddard so deeply that he retreated behind a wall of secrecy and informed few people about the work he was doing.  This facilitated the U.S. falling behind the Nazi's in the invention of rocket-based weaponry, which of course were raining down upon London by 1944.).
+support(10586, 10580).
+
+arg(9700).
+text(9700, An important example of a clear violation of uniformity is the observation that the Arctic region was during the Eocene epoch subtropical & populated by crocodiles & 50-meter-high trees.  Plate tectonics cannot explain the anomaly, & such plants & animals should not be able to survive such darkness.).
+support(9700, 9699).
+
 arg(10488).
 text(10488, "This statistical assessment is done by computer which assigns high t-values (3 & +) to good wiggle matches & low t-values (< 3) to those with poor correspondence between the ring patterns.  Amazingly, using such t-value analysis, Yamaguchi found 113 different matches having a confidence ... > 99%.").
 support(10488, 9685).
-
-arg(9695).
-text(9695, In order for the radiocarbon technique to be accurate, there needs to be a constant rate of cosmic ray influx.  There's no reason to believe that this is the case.  In fact, scientists still to this day are not completely sure where cosmic rays come from.).
-support(9695, 9678).
-
-arg(11105).
-text(11105, The vacuum energy density crisis as well. Also, theres a difference between empirical proof and "Scientific Fact". Its ironic that the latter, a rational theory from authority, becomes a material reality to a people obsessed with empirical proofs. Or is it more sinister than ironic?? Hmmmm. ).
-support(11105, 9151).
 
 arg(11380).
 text(11380, "In this article, we suggest that information manipulation ... can be a novel & helpful mechanism for resolving the climate problem.  Media bias, or accentuation of the climate damage by pro-environmental org's, has an instrumental value in that it induces more countries to participate in the IEA.").
@@ -1508,13 +1242,303 @@ arg(10472).
 text(10472, The atmospheric gases left in deposited layers of snow do not remain in those layers.  Rather, due to gravity, they are diffused downward, tending to accumulate on top of more dense layers or ice below.).
 support(10472, 10471).
 
+arg(12279).
+text(12279, Dr. Rob van Dorland, IPCC lead author: "it is strange that the climate reconstruction of Mann has passed both peer review rounds of the IPCC without anyone ever really having checked it.").
+support(12279, 12081).
+
+arg(12324).
+text(12324, The leaked CRU emails also revealed the extent to which Michael Mann and Gavin Schmidt went to block publication of McIntyre and McKitrick's analysis of the hockey stick graph.  Using RealClimate, they launched a PR attack on the peer review process that approved publication of the critique.).
+support(12324, 12081).
+
+arg(10465).
+text(10465, "Despite a ringing endorsement from Albert Einstein ... and despite the later admission of John Wright, president of the American Geographical Society, that Hapgood had 'posed hypotheses that cry aloud for further testing', no further scientific research has ever been undertaken ...").
+support(10465, 10459).
+
+arg(9699).
+text(9699, The most important assumption for all forms of dating is the uniformitarian assumption.  This is the gradualistic concept that the present is key to the past.  Uniformitarianism is not a law of nature; it may be that transient events occur, and if they did, they would cause problems for our dates.).
+support(9699, 9678).
+
+arg(10477).
+text(10477, A common claim is that the various dating methods agree with one another.  But, it should be apparent from the methodology of fitting dates to a timeline chronology (as with radiocarbon dating), that the dates are simply calibrated to agree with one another.  The raw results do not match.).
+support(10477, 9678).
+
+arg(11027).
+text(11027, The energies associated with solar flares and CME's can be enormous.  The Carrington Event and another flare on June 1, 1991 both had energies of 10^34 erg.  To put that into perspective, the Sun's total radiant output is ~4 x 10^33 ergs per second!).
+support(11027, 11010).
+
+arg(10539).
+text(10539, "Lightning in clouds, only a few miles above the ground, clears a safe zone in the radiation belts thousands of miles above the Earth, according to NASA-funded researchers." This raises questions about the origin of lightning in thunderstorms.).
+att(10539, 10245).
+
+arg(10543).
+text(10543, "Scientists have found that when gusts of high-speed solar particles enter our atmosphere, the # of lightning bolts increases.  The scientists found that when the speed & intensity of the solar winds increased, so too did the rate of lightning strikes ... the turbulent weather lasted for >month ...").
+att(10543, 10245).
+
+arg(10516).
+text(10516, Your insistence that we only pay attention to the consensus is a request that we not use the tool of science to come to our own conclusion.  You are advocating that we "think what scientists think" instead of actually "thinking like a scientist".  There is a huge philosophical difference here.).
+att(10516, 10239).
+
+arg(10503).
+text(10503, Claims that would seem to undermine the reliability of dendrochronology, radiocarbon dating and ice core-based reconstructions should be understood by all people who consider themselves to be advocates of AGW.).
+att(10503, 10239).
+
+arg(9737).
+text(9737, Dude shut the fuck up already, you are spamming this whole discussion with dozens of irrelevant quotes. Global warming is real and that is a fact.).
+att(9737, 8701).
+
+arg(12080).
+text(12080, The World Meteorological Organization celebrated it's 50th anniversary report with an enormously misleading graph on its cover.  When asked for the raw data, the scientists refused.  When a Freedom of Information Act was filed, the scientists convinced an officer to again refuse to supply the data.).
+support(12080, 12058).
+
+arg(6027).
+text(6027, climate change is a lie created by China to keep US citizens under watch).
+support(6027, root).
+
+arg(9182).
+text(9182, "How was it determined that 99% of the Universe is in a plasma state? Most of the gas in interstellar space is ionized (astronomers can tell by the wavelengths of light the gas absorbs and emits), and all of the gas in stars is ionized, that's where the 99% comes from.").
+support(9182, 9146).
+
+arg(17029).
+text(17029, I'm sorry dongeroo I accidentally responded to you, I wanted to respond to paradigmsareconstructed but since he is spamming hundreds of arguments I accidentally replied to you. so again sorry.).
+support(17029, 17017).
+
+arg(9277).
+text(9277, GCM's are considered an "intractable problem" because a 2x spatial resolution requires a 10x computational requirement.  Thus, it's questionable if we will ever accurately model the climate with this approach.).
+support(9277, 9252).
+
+arg(7252).
+text(7252, I really hope this is a joke. Climate change is not under debate, you can't refute scientific findings with your intuitions.
+).
+att(7252, root).
+
+arg(5780).
+text(5780, There is abundant proof of global warming and the vast majority (more than 90%) of the world's climate scientists agree with this.).
+att(5780, root).
+
+arg(9151).
+text(9151, "'Space' was invented on earth before we knew what was out there" -- Time Weekly Magazine, May 4, 1959, "Space and the Radiation Belt", an article on physicist James Van Allen
+
+VERY IMPORTANT QUOTE!).
+support(9151, 9142).
+
+arg(16756).
+text(16756, This is irrelevant to the question of whether "global warming" is real. The earth is getting warmer. Thus, the globe is warming. Whether it continues to warm may be in question, but that doesn't affect whether or not it is warming; that is, is undergoing an ongoing overall temperature increase.).
+att(16756, 9252).
+
+arg(9407).
+text(9407, "... or they attempt to suppress other researchers who propose more original alternatives (usually, they do both). This, in turn, discourages new researchers from pursuing original alternatives and encourages them to join the bandwagon, which, though founded on a good idea, has now stagnated ...").
+support(9407, 9402).
+
+arg(10557).
+text(10557, My friend, there is no need to spam this whole thread just to show your dominance. As you can see, the majority of the arguments here tend to agree against your side, just stop spamming all of this. Noone is supporting you and this is in no way an argument that you can win by spamming.).
+att(10557, 10518).
+
+arg(10463).
+text(10463, "We found that some of the positions on the Piri Re'is Map were very accurate, and some were far off.  Gradually we became aware of the reasons for some of the inaccuracies in the map.  We discovered that the map was a composite ... and that errors had been made in combining the original maps.").
+support(10463, 10459).
+
+arg(9185).
+text(9185, Why would corporate interests, such as manufacturers, work to produce a scientific consensus that harmed their business through the existence of carbon taxes & regulations?).
+att(9185, 8701).
+
+arg(9252).
+text(9252, The models used to project that the planet is warming involve a number of questionable assumptions, simplifying mathematical approximations, questionable modeling shortcuts, persistent disagreement over fundamental processes, and base upon insufficient data to make a certain claim).
+att(9252, 8463).
+
+arg(12274).
+text(12274, "Our findings from this analysis suggest that authors in the area of paleoclimate studies are closely connected and thus 'independent studies' may not be as independent as they might appear on the surface.").
+support(12274, 12272).
+
+arg(12490).
+text(12490, "The tree rings from certain sites seem to properly reflect temperature variability up until around 1960, and after that, the usability of the signal from that proxy can be reduced.  This pattern has been noticed in a number of different tree ring records ... It is called the 'divergence problem'").
+support(12490, 12479).
+
+arg(9402).
+text(9402, Letter of resignation by graduate student: "I cannot help but get the impression that the majority of us are avoiding the real issues and pursuing minor, easy problems that we know can be solved and published. The result is a gigantic literature full of marginal/repetitive contributions.").
+att(9402, 9369).
+
+arg(8802).
+text(8802, “Right now, estimation of the amount of energy entering the Earth’s thermosphere is not very precise ... We know even less about how that energy is distributed ... This information is critical because if you put the same amount of energy at 400 km the impact can be 100x larger than if ... 100 km.").
+att(8802, 8791).
+
+arg(10059).
+text(10059, Look carefully at your source: Their graphs beneath this claim end at 2000, which is near the point at which the land station and satellite data sets diverge.  The claim is sweeping and dramatic, but the data they appear to point to conveniently ends right as the "warming hiatus" begins.).
+att(10059, 9969).
+
+arg(8792).
+text(8792, Quote from the caltech link: "On Earth sunlight drives our weather, but Neptune is so far away that it receives a thousand times less sunlight than Earth does. How Neptune gets the energy for such intense weather is still a mystery.").
+att(8792, 8777).
+
+arg(5954).
+text(5954, The broad consensus is arrived at by principled, evidence-based study of the observed phenomena, and represents multiple lines of converging evidence from a wide and varied community of scientists. While consensus lends weight to the conclusions, each piece of work can stand alone and be verified.).
+support(5954, 5780).
+
+arg(9909).
+text(9909, What I notice here and elsewhere is that people do not desire to test their belief in science through exposure to alternative explanations.  They appear to value the tribal benefits of belonging to a scientific theory over the use of modeling as a tool for reasoning.).
+att(9909, 8767).
+
+arg(10961).
+text(10961, The act of mapping out arguments gives us an opportunity to see a more comprehensive accounting of the arguments on both sides than your news media is offering you, but it will only add value if people take the time to participate.  Telling somebody to do a Google search is not really participation.).
+support(10961, 10954).
+
+arg(11762).
+text(11762, "From nearby clouds hosting tangles of filaments a few light-years long to gigantic structures stretching hundreds of light-years across the Milky Way's spiral arms, they appear to be truly ubiquitous." In other words, the filaments exhibit a fractal structure (similar to lightning).).
+support(11762, 11743).
+
+arg(8799).
+text(8799, “Two weeks after major stratospheric warming was detected at the end of 2012, the weather in Europe changed dramatically ... We think this was related to stratospheric warming ... If our research confirms the effects ... weather models could forecast ahead by several weeks or even a season.").
+att(8799, 8791).
+
+arg(10580).
+text(10580, When Goddard first suggested the possibility of space-based rocket propulsion, he was ridiculed in the New York Times (Jan 13, 1920) for failing to know that there was nothing for the rocket to push against in space.  The Times did not publish a correction until a day before the Moon landing.).
+support(10580, 10574).
+
+arg(9280).
+text(9280, "Parameterization is a fancy word for making up data when it doesn't exist.  Because of the lack of data, this occurs for a majority of the surface grids and virtually all of the layers above the surface."
+
+Parameterization is used for 80% surface and 90% atmosphere.).
+support(9280, 9252).
+
+arg(9285).
+text(9285, "The last point on the IPCC's list, large differences in the response of different models to the same forcing, is perhaps the most indicative of the limitations of current climate models ... there is still no agreement among climate scientists about the physics of some key climate processes ...").
+support(9285, 9252).
+
+arg(16998).
+text(16998, Bro, just give it up, climate chance is real.).
+att(16998, 11404).
+
+arg(17031).
+text(17031, bro just admit it, you're a shill and climate change/global warming is real.).
+att(17031, 11324).
+
+arg(10700).
+text(10700, Much debate has occurred over an apparent correlation between solar neutrino output and the surface sunspot cycle.  This is a big problem for solar models because the model requires that it takes 200,000 years for the energy of internal fusion to affect the surface.).
+support(10700, 10656).
+
+arg(18500).
+text(18500, K.).
+att(18500, 12981).
+
+arg(9695).
+text(9695, In order for the radiocarbon technique to be accurate, there needs to be a constant rate of cosmic ray influx.  There's no reason to believe that this is the case.  In fact, scientists still to this day are not completely sure where cosmic rays come from.).
+support(9695, 9678).
+
+arg(9176).
+text(9176, "Plasmas, often called the fourth state of matter, are the most common form of matter in the universe.").
+support(9176, 9146).
+
+arg(9173).
+text(9173, "... Thus, plasmas play a major role in the universe ...").
+support(9173, 9146).
+
+arg(17017).
+text(17017, Your argument is bulletproof. I'm truly humbled. I was obviously ignorant to the caliber of proffesionalism in this forum and will try and not be so not un-dumb. Great job!!).
+support(17017, 16998).
+
+arg(9180).
+text(9180, "Consequently, dynamics in a plasma are more complex than in a neutral gas ... In apparently simple situations, a plasma can behave counter-intuitively ...").
+support(9180, 9146).
+
+arg(11099).
+text(11099, Your ad populum arguments lack validity.  
+Also, the recent data wasn't published by the 9 scientists your referring too, it was the UN in their "Climate Change Synthesis Report 2014". Also, the word "synthesis" refers to a new form of synthetic science that they coin in the report. ).
+att(11099, 9735).
+
+arg(9685).
+text(9685, Despite having incorporated 10 MILLION tree rings into their database, the dendrochronologists are still trying to reconcile enormous gaps in their own chronology.  There interestingly appears to be no observable consistency between any of the tree rings beyond 3,000 BC.).
+support(9685, 9678).
+
 arg(9146).
 text(9146, Space was initially assumed to be an empty vacuum, and most of our theories today were based upon that premise. By the late 50's, some of the first rockets to actually enter space conclusively demonstrated that space exhibited varying amounts of charged particles.).
 support(9146, 9142).
 
-arg(12080).
-text(12080, The World Meteorological Organization celebrated it's 50th anniversary report with an enormously misleading graph on its cover.  When asked for the raw data, the scientists refused.  When a Freedom of Information Act was filed, the scientists convinced an officer to again refuse to supply the data.).
-support(12080, root).
+arg(11786).
+text(11786, These discoveries were all unexpected.  To claim that they are being invoked as a diversionary tactic is to ignore the fact that we are always interpreting new observations through the lens of our former worldview.  In this case, our bias is to interpret electrical phenomena as a side-effect.).
+support(11786, 9163).
+
+arg(11796).
+text(11796, James Hansen in his book, "Storms of My Grandchildren": “I’ve come to conclude that if we burn all reserves of oil, gas, and coal, there is a substantial chance we will initiate the runaway greenhouse. If we also burn the tar sands and tar shale, I believe Venus syndrome is a dead certainty.”).
+support(11796, 11792).
+
+arg(11369).
+text(11369, We are told that the heat must have gone into the oceans.  But, ARGO buoys only measure about 30% of the ocean's waters + in parts, to only 1/10th the ocean's depth.  Further, we lack specific explanations for WHY and WHEN the oceans might exchange heat with the atmosphere.).
+support(11369, 11358).
+
+arg(9240).
+text(9240, AGW advocates tend to silo their investigation to just climate; yet, many of the most significant modern discoveries of the Space Age have related to electromagnetism and plasmas.  The refusal to consider how these discoveries might impact climate science is anti-science.).
+support(9240, 8799).
+
+arg(10518).
+text(10518, I hope this does not sound rude, but there is far more on the line here than somebody getting their feelings hurt about having a bunch of arguments thrown at them.  Please realize that many AGW advocates are advocating for the radical transformation of capitalism, and in some cases, geo-engineering.).
+support(10518, 10516).
+
+arg(9688).
+text(9688, The inventor of radiocarbon dating, Willard Libby, went to enormous lengths to convince the scientific community that his assumptions were correct.  In the process, his data mysteriously changes in the direction he needs it to, from 1949 to 1951.).
+support(9688, 9678).
+
+arg(12476).
+text(12476, Then, by 1992, the IPCC dropped the MWP.  It was claimed that the original sources for the MWP -- the Lamb publications -- lacked any discussion of an explicit calibration against instrumental data.  It was claimed that the Climatic Research Unit in the 80s had access to larger amounts of data.).
+support(12476, 12475).
+
+arg(10955).
+text(10955, The value of explicitly delineating your argument is that it can act as a test for the strength of your own convictions.  People generally do not reason objectively, from observations and evidence towards conclusions.  They typically seek out justifications for their preferred conclusions.).
+support(10955, 10954).
+
+arg(10473).
+text(10473, "The percentages of gases in the pores at the base of the firn layer, where ice becomes solid, were much higher than those obtained in atmospheric gases.  One of these gases turned out to be oxygen-18.  The oxygen-18 had diffused downward and condensed at the bottom.").
+support(10473, 10472).
+
+arg(8716).
+text(8716, A direct observation of a solar flare producing a sudden stratospheric warming event and wild weather was recorded in March 2013, during Sunspot No. 1692.  The stratosphere suddenly heated up by 60 degrees C (!), and it correlated with the highest recorded pressure system in Greenland, ever.).
+att(8716, 5954).
+
+arg(11775).
+text(11775, "the new data indicate the importance of interstellar magnetic fields in shaping these structures." What they don't mention is that magnetic fields are generally related to electric currents.  Astrophysicists have a long history of ignoring the underlying electrical cause for the magnetic fields.).
+support(11775, 11743).
+
+arg(9256).
+text(9256, "A model is considered validated if it is developed using one set of data & its output is tested using another set of data.  eg, if a climate model was developed using observations from 1901 to 1950, it could be validated ... against 1951 to 2000. At this time, no climate model has been validated.").
+support(9256, 9252).
+
+arg(9286).
+text(9286, "Significant errors in the simulations of globally averaged tropospheric temperature structure indicate likely errors in tropospheric water-vapor content and therefore total greenhouse-gas forcing, precipitable water and convectively forced large-scale circulations.").
+support(9286, 9283).
+
+arg(11010).
+text(11010, Climate scientists are not well-versed in plasma or astrophysics, & so just as people reason that this or that person cannot make claims about the climate since they are not a climate scientist, the same problem occurs in reverse: Climate scientists are not trained to understand the solar wind.).
+att(11010, 5780).
+
+arg(9163).
+text(9163, Each of these discoveries -- the charged particles, the magnetic fields, the radio waves and more recently, the filaments -- collectively point to this idea that electricity can travel through space and do things of enormous importance.  Climate scientists have yet to engage these discoveries.).
+support(9163, 9142).
+
+arg(11034).
+text(11034, The atmospheric models used by climate scientists today are based on what are called the Primitive Equations.  It's a set of nonlinear differential equations that are used to approximate global atmospheric flow.  Unfortunately, these equations ignore changes in electric charge phenomena.).
+support(11034, 11032).
+
+arg(10470).
+text(10470, There is a map of Greenland discussed in a book "The Rediscovery of Lost America".  The map was published in Europe in 1558, and is referred to as the Zeno map.  This map depicts Greenland as 3 islands.  Curiously, a 1951 French expedition reported the same curious conclusion through seismology.).
+support(10470, 10459).
+
+arg(8701).
+text(8701, A whistleblower named Jeff Schmidt revealed in 2000 in a book titled Disciplined Minds that the graduate programs are designed to create ideologically disciplined thinkers.  500 physicists signed a letter in his support + Noam Chomsky, & it was the biggest freedom-of-expression case in N.A. physics.).
+att(8701, 5780).
+
+arg(10708).
+text(10708, What Schmidt argues is that graduate students are cultured to have assignable curiosity first through the paradigms of textbook theory.  Thus, it is not that the conclusion of global warming is directly enforced.  The students are simply cultured to have assignable curiosity.).
+support(10708, 10655).
+
+arg(11105).
+text(11105, The vacuum energy density crisis as well. Also, theres a difference between empirical proof and "Scientific Fact". Its ironic that the latter, a rational theory from authority, becomes a material reality to a people obsessed with empirical proofs. Or is it more sinister than ironic?? Hmmmm. ).
+support(11105, 9151).
+
+arg(9142).
+text(9142, Our technology chronology complicates innovation in the space sciences; & our weather & climate theories can become confused as a result.  Our understanding of space physics has undergone dramatic changes over the past half-century, & these discoveries are just now trickling into the other domains.).
+support(9142, root).
+
+arg(8463).
+text(8463, World temperatures are increasing over time, thus, the world is actually warming, which is scientifically undeniable. If there is any dispute, it is over the cause, not the existence, or even the impact.).
+att(8463, root).
 
 arg(12058).
 text(12058, In Nov of 2009, somebody released 1000 emails obtained from the Climatic Research Unit at the Univ of East Anglia.  The event was named Climategate, and it taught us that some climate scientists are willing to hide and misrepresent the data in order to create a motivating fear in the public.).

@@ -1,10 +1,6 @@
 arg(root).
 text(root, We should teach children how to stand up to and fight bullying instead of turning them into victims.).
 
-arg(10134).
-text(10134, Growing up physically inferior and bullied is often the root of adolescent violence. Teaching someone how to fight for themselves at an early age as well as the consequences of violence is shown to lessen the likelyhood of violence at a later stage.).
-att(10134, root).
-
 arg(10343).
 text(10343, It would be more effective to consider fixing the source of the problem by using viable methods for emotional handling on all students such as cognitive behavioral therapy at an early age. This would work because both bullying and victimization from bullying are emotional responses.).
 att(10343, root).
@@ -13,25 +9,37 @@ arg(10085).
 text(10085, Reducing bullying as a whole is a better tactic to solve this problem in the long run. Better hallway/classroom monitoring could help, or increasing staff/student ratios. ).
 att(10085, root).
 
-arg(10066).
-text(10066, Does violence solve the answer?).
-att(10066, root).
-
 arg(10349).
 text(10349, The cause of bullying is very varied, and finding it and dealing with it is often more difficult than teaching someone how to deal with being bullied.).
 att(10349, 10343).
 
-arg(10350).
-text(10350, Many that are bullied are afraid to tell someone.).
-support(10350, root).
-
-arg(10351).
-text(10351, Confidence is an important factor in hindering bullying.).
-support(10351, root).
-
 arg(10079).
 text(10079, There are cases where violence is the only language that is understood. There are degrees to violence, and bullying someone you know will fight back is less likely to be worth it.).
 att(10079, 10066).
+
+arg(10096).
+text(10096, Increasing monitoring has been seen to increase bullying in areas that are not monitored. Some are more dispositioned to certain behavior, including bullying. Making it less appealing to bully by conditioning children to defend themselves could be a step in the right direction.).
+att(10096, 10085).
+
+arg(10106).
+text(10106, It is theoretically possible to monitor an entire school, and do it well. ).
+att(10106, 10096).
+
+arg(10110).
+text(10110, Not all bullying is visible.).
+att(10110, 10106).
+
+arg(10341).
+text(10341, Teaching ethics and justice early on in their lives in addition to the original argument would likely give kids the minds to use their strengths wisely. We can apply as many necessary measures to ensure we build confidence in the youth while keeping them safe.).
+att(10341, 10087).
+
+arg(10134).
+text(10134, Growing up physically inferior and bullied is often the root of adolescent violence. Teaching someone how to fight for themselves at an early age as well as the consequences of violence is shown to lessen the likelyhood of violence at a later stage.).
+att(10134, 10091).
+
+arg(10066).
+text(10066, Does violence solve the answer?).
+att(10066, root).
 
 arg(10087).
 text(10087, Teaching all kids how to fight could lead to an increase in violent bullying as opposed to verbal bullying. ).
@@ -40,6 +48,14 @@ att(10087, root).
 arg(10089).
 text(10089, Teaching kids good communication skills (such as saying "so what?" to insults, killing bullies with kindness, showing genuine compassion to bullies) can be a more effective way to prevent a child from repetitive bullying. ).
 att(10089, root).
+
+arg(10350).
+text(10350, Many that are bullied are afraid to tell someone.).
+support(10350, 10110).
+
+arg(10351).
+text(10351, Confidence is an important factor in hindering bullying.).
+support(10351, 10341).
 
 arg(10090).
 text(10090, Fighting verbal bullies with violence as an adult is a crime, and we should not be teaching our kids to be criminals. Learning how to deal with the bullies of the world, and cope with hate, is an important part of growing up. ).
@@ -53,10 +69,6 @@ arg(10092).
 text(10092, Making yourself a victim is highly rewarded by society and the children can profit a lot by having the skill to do so.).
 att(10092, root).
 
-arg(10096).
-text(10096, Increasing monitoring has been seen to increase bullying in areas that are not monitored. Some are more dispositioned to certain behavior, including bullying. Making it less appealing to bully by conditioning children to defend themselves could be a step in the right direction.).
-att(10096, 10085).
-
 arg(10099).
 text(10099, Bullies will pick on the kids who don't stand up against them because it's less trouble to do so. Therefore, teaching kids how to stand up for themselves puts them in a better position in the long run, even if they get beaten in a fight they will not be bullied any longer.).
 support(10099, root).
@@ -64,18 +76,6 @@ support(10099, root).
 arg(10101).
 text(10101, Bullies often will only bully if it is entertaining to them. By providing a fight, you increase this incentive.).
 att(10101, root).
-
-arg(10106).
-text(10106, It is theoretically possible to monitor an entire school, and do it well. ).
-att(10106, 10096).
-
-arg(10110).
-text(10110, Not all bullying is visible.).
-att(10110, 10106).
-
-arg(10341).
-text(10341, Teaching ethics and justice early on in their lives in addition to the original argument would likely give kids the minds to use their strengths wisely. We can apply as many necessary measures to ensure we build confidence in the youth while keeping them safe.).
-att(10341, 10087).
 
 arg(10342).
 text(10342, It would be more effective to consider fixing the source of the problem by using viable methods for emotional handling on all students such as cognitive behavioral therapy at an early age. This would work because both bullying and victimization from bullying are emotional responses.).

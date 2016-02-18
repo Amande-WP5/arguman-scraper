@@ -1,0 +1,116 @@
+arg(root).
+text(root, Panentheism is the only logical theology).
+
+arg(16823).
+text(16823, It needs not lead to that, because it can just as easily lead to physicalism and atheism.).
+att(16823, 16768).
+
+arg(16821).
+text(16821, We can only derive philosophy from the natural world. If we don't, everything just devolves into Sophism.).
+att(16821, 16769).
+
+arg(16820).
+text(16820, It's perfectly explainable, you just ignore the answer that's given.
+"Consciousness" can arise from unconscious matter in the same way that life can arise from inanimate matter. We may have never shown abiogenesis, but we certainly know it's made of the same constituent parts.).
+att(16820, 16767).
+
+arg(16768).
+text(16768, It requires emergentism, which must lead either to dualism, panpsychism, idealism, or be logically incoherent in the form of "X is not-X" because consciousness and matter are said to be identical but different.).
+att(16768, 16752).
+
+arg(16899).
+text(16899, From what i understand it is just a philosophical/ontological point of view about the nature of matter.
+It doesn’t imply any kind of finality nor intelligent powerful entity.
+I don’t see any good reason to call it "god" or "theology" apart from fun. Is there any other reason ?).
+att(16899, root).
+
+arg(17077).
+text(17077, It cannot co-exist with a physical view of reality.).
+att(17077, 16709).
+
+arg(16900).
+text(16900, What are the attributes that made you call it "god" ?).
+att(16900, 16770).
+
+arg(16888).
+text(16888, Quantum vacuum is definitely not nothing.
+Nothing come from nothing isn’t a ontological fact, it is a logical one.).
+att(16888, 16753).
+
+arg(16898).
+text(16898, I don’t think (s)he is ignoring anything, there is a real complexity.
+Life and intelligence come from matter, there is no problem with that, they are physical systems with particular properties. "life" and "intelligence" are particular categorizations of physical systems.).
+att(16898, 16820).
+
+arg(16891).
+text(16891, We don’t derive mathematics from the natural world, i don’t think mathematics devolves to sophism.
+You are forgetting that tautology can be very useful.).
+att(16891, 16821).
+
+arg(16890).
+text(16890, It is true only if consciousness and matter are "qualitatively" different.
+
+Sun originate from completely "not sun" matter, and computer originate from completely "not computer" matter.
+But no amount or complex structure of "top and bottom", will create "right" or a "left".).
+att(16890, 16711).
+
+arg(16827).
+text(16827, Thus far your only real arguments were 1) a baseless assertion that consciousness cannot be naturally occurring, 2) an ill-defined assertion as to the nature of a god, and 3) pointing out that it works better than a debunked philosophy, and works with other equally-unprovable philosophies.).
+att(16827, 16771).
+
+arg(16826).
+text(16826, This depends on your definition of greater. 3 > 2, but 2 is not a subset of 3. Likewise, the same is possible of a supreme being, because by many definitions of greatest, it need only be the best of a given set (where that set is everything).).
+att(16826, 16708).
+
+arg(16824).
+text(16824, X is not-X is a mischaracterization. More accurate would be X[y] is not-X, which is perfectly valid.).
+att(16824, 16768).
+
+arg(16711).
+text(16711, It is inconceivable that human consciousness could originate from totally unconscious matter. It is logically equivalent to saying that something came from nothing, or began to exist for no reason.).
+support(16711, 16710).
+
+arg(16771).
+text(16771, Even if there is no empirical evidence that strictly proves or strongly suggests that the universe is divine, there may be good logical arguments for the proposition that it is divine, some of which I have provided.).
+att(16771, 16750).
+
+arg(16770).
+text(16770, This depends on how you define the terms "evidence," "deity," and "supernatural." On panentheism, the Universe, or God, does not have to have all attributes commonly ascribed to deities but only enough to be reasonably regarded as deic in nature. It does not have to be "supernatural," for example.).
+att(16770, 16750).
+
+arg(16769).
+text(16769, We are not certain that anything has ever come from nothing. All we are certain of is that we don't know what kind of thing these "virtual particles" come from. But it is logically necessary that they came from something. You are mistaking an epistemic fact for an ontological one.).
+att(16769, 16753).
+
+arg(16767).
+text(16767, It is inconceivable in that it is impossible to explain how consciousness "emerges" from unconscious matter, because an explanation presupposes consciousness. We can't imagine non-experience.).
+att(16767, 16752).
+
+arg(16752).
+text(16752, It can't be inconceivable if people believe it).
+att(16752, 16711).
+
+arg(16753).
+text(16753, Something comes from nothing quite regularly. See: Quantum Vacuum.).
+att(16753, 16711).
+
+arg(16751).
+text(16751, Then how do you justify computers? We can make inanimate objects perform arbitrary decisions. Why is it any less likely that the brain operates on a similar level, especially given that its signals are mostly given by electricity?).
+att(16751, 16711).
+
+arg(16709).
+text(16709, It can co-exist with a naturalistic, monistic view of nature, and so avoids the problems of dualism.).
+support(16709, root).
+
+arg(16750).
+text(16750, There is no evidence for any sort of deity, and (thus far) there is no reason to believe that any events have a supernatural explanation.).
+att(16750, root).
+
+arg(16710).
+text(16710, It is reasonable to believe that the universe is mental in nature.).
+support(16710, root).
+
+arg(16708).
+text(16708, If a supreme being exists, it must contain everything that exists, or else it is not the greatest being.).
+support(16708, root).
+

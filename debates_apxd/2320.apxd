@@ -1,13 +1,13 @@
 arg(root).
 text(root, Computer Science is not actually a science).
 
+arg(15586).
+text(15586, Computer science... differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.).
+support(15586, root).
+
 arg(16130).
 text(16130, Computer Science is a Formal Science. It studies abstract concepts, logic, algorithms, etc., but with very real applications. Not to be confused with Natural Science which studies laws of Nature. But it is still a Science.).
 att(16130, root).
-
-arg(16108).
-text(16108, At what level is engineering different than science? And, even if they were different, what would make the theory behind it not a science?).
-att(16108, root).
 
 arg(16093).
 text(16093, The scientific method can be applied when testing the practical applications of the theoretical, for example when testing the performance of algorithms.).
@@ -17,60 +17,112 @@ arg(16092).
 text(16092, It is more closely related to mathematics).
 support(16092, root).
 
-arg(16075).
-text(16075, Finding new things to do and finding how to use them are hallmarks of engineering, not science.).
-att(16075, root).
+arg(15978).
+text(15978, There is no need to study "natural objects" (i.e. math).).
+att(15978, 15586).
+
+arg(15608).
+text(15608, getting some ?).
+att(15608, 15586).
 
 arg(15622).
 text(15622, CS is a field that utilizes properties of light (optical drives; fiber), electricity (binary), and electromagnetism (HDD). Programming involves the use of logic the scientific method, arrays, etc. CS is more of an applied science, but it's 1 that's strongly dependent on physical sciences and math.).
 att(15622, root).
 
-arg(16069).
-text(16069, Science, unlike math, is based mainly on empirical evidence.).
-att(16069, root).
+arg(16402).
+text(16402, Mathematics is actually science, because you can apply scientific method to it. The thing is that mathematics, as computer science, is not a natural science.).
+att(16402, 16092).
 
 arg(15621).
 text(15621, Wikipedia—"Computer science is the scientific and practical approach to computation and its applications." You're likely referring to the practical approach. Many, however, take the scientific approach. The 2 are markedly different in that one group finds new things to do & the other how to use them).
 att(15621, root).
 
-arg(15586).
-text(15586, Computer science... differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.).
-support(15586, root).
-
-arg(16067).
-text(16067, Otherwise you could make every theory falsifiable.
-Ex: "god exists and you can’t write a program that say if a another program will halt (for whatever program)"
-It would be meaningless.).
-support(16067, root).
-
-arg(16066).
-text(16066, The theory should be falsifiable by empirical evidences.
-The halting problem is entirely based on pure logic.).
-att(16066, root).
+arg(16108).
+text(16108, At what level is engineering different than science? And, even if they were different, what would make the theory behind it not a science?).
+att(16108, 16075).
 
 arg(15991).
 text(15991, It doesn't matter that most of it is concerned with knowingly or unknowingly utilizing theorems (engineering). There are still models and theorems emerging from it regularly.).
 att(15991, root).
 
-arg(15978).
-text(15978, There is no need to study "natural objects" (i.e. math).).
-att(15978, 15586).
-
-arg(15977).
-text(15977, Halting problem
-
-If you write a program that can check if a program halts and work on every program you falsified it).
-att(15977, root).
-
 arg(15857).
 text(15857, Computer science is not falsifiable.).
 support(15857, root).
+
+arg(16075).
+text(16075, Finding new things to do and finding how to use them are hallmarks of engineering, not science.).
+att(16075, 15621).
 
 arg(15831).
 text(15831, People who say that know nothing about computer science. It's based on logic and rational similar to and even more advanced than math.).
 att(15831, root).
 
-arg(15608).
-text(15608, getting some ?).
-att(15608, 15586).
+arg(16069).
+text(16069, Science, unlike math, is based mainly on empirical evidence.).
+att(16069, 15831).
+
+arg(16067).
+text(16067, Otherwise you could make every theory falsifiable.
+Ex: "god exists and you can’t write a program that say if a another program will halt (for whatever program)"
+It would be meaningless.).
+support(16067, 16066).
+
+arg(16066).
+text(16066, The theory should be falsifiable by empirical evidences.
+The halting problem is entirely based on pure logic.).
+att(16066, 15977).
+
+arg(15977).
+text(15977, Halting problem
+
+If you write a program that can check if a program halts and work on every program you falsified it).
+att(15977, 15857).
+
+arg(19497).
+text(19497, it has a lot more in common with magic).
+support(19497, root).
+
+arg(19410).
+text(19410, Saying computer science is not a science because it is closely linked to mathematics is like saying physics and chemistry are not sciences because they are related to mathematics.).
+att(19410, 16092).
+
+arg(19160).
+text(19160, The machine and the software are actually physical, and that's what the science is working on.).
+att(19160, 15586).
+
+arg(19152).
+text(19152, While mathematical truths are present in computing machines due to the nature of binary logic, ultimately the science itself centers around the physical design and harnessing of these actual machines rather than mathematics.).
+att(19152, 16092).
+
+arg(18983).
+text(18983, What makes you think math is not based on empirical evidence? You can demonstrate any of its concepts in the real world fairly easily.).
+att(18983, 16069).
+
+arg(19033).
+text(19033, Mostly I just mean "what do we call the numbers", and possibly "what does addition do". Knowing those you can demonstrate subtraction with objects. From there you can do multiplication, division. From there exponents, logarithms. I don't know trig as well, but you can do a chunk of that too. ).
+att(19033, 19027).
+
+arg(19027).
+text(19027, I would like a example of what you are speaking about.
+
+If you begin with enough postulates, you can demonstrate the thing without experiences in the physical world. (the experiences will just serve to illustrate).
+
+If you don’t have enough postulates, you will have to use induction in a step.).
+att(19027, 19022).
+
+arg(19022).
+text(19022, Assuming you start with a few postulates, you can demonstrate most mathematical effects in the physical world.).
+att(19022, 18994).
+
+arg(18994).
+text(18994, You can’t demonstrate something with empirical evidences.
+
+Math is based on axiomatic systems.).
+att(18994, 18983).
+
+arg(19442).
+text(19442, 1 Science From Latin scientia, meaning "knowledge"(Online Etymology Dictionary. September 20,2014)
+2 Science is usually regarderd as pattern finding of phenomena in the Universe.
+3. The Universe contains the phenomena of "information" and patterns within that phenomena is studied using machines).
+att(19442, root).
 

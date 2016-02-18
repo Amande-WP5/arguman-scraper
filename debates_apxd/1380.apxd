@@ -1,25 +1,42 @@
 arg(root).
 text(root, Art is for art, not society).
 
+arg(17811).
+text(17811, Art is merely an expression of human consciousness. It can be for anything or nothing. It is what it is.
+).
+att(17811, root).
+
 arg(6275).
 text(6275, Art should be free, but soceity is not free mostly).
 support(6275, root).
-
-arg(6287).
-text(6287, Art is made by the society and directly reflects the society that creates it.).
-att(6287, 6275).
 
 arg(6290).
 text(6290, Without society, there is no Art).
 att(6290, root).
 
+arg(6287).
+text(6287, Art is made by the society and directly reflects the society that creates it.).
+att(6287, 6275).
+
 arg(6294).
 text(6294, Artist may not be part of soceity).
 att(6294, 6287).
+
+arg(17812).
+text(17812, Why should art be free?
+
+Expressing yourself is free. The medium in which you express yourself and the tools and labour are often not free. Therefore art can have a material value as well as aesthetic value.).
+att(17812, 6275).
 
 arg(6298).
 text(6298, it does not matter what it is for, what matters is what it ends up being.
 
 The best of intentions does not convey the best of results.).
 att(6298, root).
+
+arg(17810).
+text(17810, Art is human expression contained within a medium. 
+
+A lone person can create art.).
+att(17810, 6290).
 

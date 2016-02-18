@@ -1,6 +1,16 @@
 arg(root).
 text(root, All good things must come to an end.).
 
+arg(15718).
+text(15718, Inevitably, all things that may be considered "good" will become corrupt and die out.).
+support(15718, root).
+
+arg(16185).
+text(16185, What about things that are incorruptible or won't die out?
+
+For example, I consider heat energy good - as long as it is in the universe somewhere).
+att(16185, 15718).
+
 arg(16187).
 text(16187, Entropy).
 support(16187, root).
@@ -8,14 +18,4 @@ support(16187, root).
 arg(16186).
 text(16186, nothing is eternal).
 support(16186, root).
-
-arg(16185).
-text(16185, What about things that are incorruptible or won't die out?
-
-For example, I consider heat energy good - as long as it is in the universe somewhere).
-att(16185, root).
-
-arg(15718).
-text(15718, Inevitably, all things that may be considered "good" will become corrupt and die out.).
-support(15718, root).
 

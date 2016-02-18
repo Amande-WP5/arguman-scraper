@@ -1,10 +1,6 @@
 arg(root).
 text(root, Genetic engineering of humans should be banned).
 
-arg(8914).
-text(8914, Even if there were regulations, the people with power will manipulate the system to ensure the only ones who get the true benefit are themselves. There would be little stopping different governments from using it to create the perfect soldier. It will only make the rich stronger and the poor weaker.).
-att(8914, root).
-
 arg(8885).
 text(8885, It has too great of a risk of being used for unethical means. ).
 support(8885, root).
@@ -21,17 +17,9 @@ arg(8897).
 text(8897, The beneficial effects could far outweigh the negative ones.).
 att(8897, 8885).
 
-arg(8898).
-text(8898, Rich people could engineer themselves to be healthier than poor people (because poor people would have no money for this)).
-att(8898, root).
-
 arg(8916).
 text(8916, Rich people already have a health advantage as they have better access to decent health care, healthy food and the means to educate them on this subject.  If anything this could be used to help por people if it is being used for the public cause).
 att(8916, 8898).
-
-arg(8518).
-text(8518, We could engineer ourselves with less disease.).
-att(8518, root).
 
 arg(8921).
 text(8921, It's not the fault of new technology if rich people take advantage, but of the system. If any new technology with potential military Applicability should be banned than no technology is left other than sticks and stones. We could ban certain genetic modification with threaties like Geneva convention).
@@ -49,17 +37,9 @@ arg(8931).
 text(8931, Does that mean that just because someone is rich, they deserve to have a disease that could otherwise be prevented? It also seems like something that would fall under health care which is free in several countries. Should they not have access either?).
 att(8931, 8898).
 
-arg(9052).
-text(9052, I can agree so far that GM should be limited to curing diseases or disallowing it for gaining unfair advantage. I think it should be regulated by the UN, or some other international body, and judged on a use-case bases).
-support(9052, root).
-
 arg(8933).
 text(8933, Even though it is not the fault of the technology that it may be misused, we must still consider that as a major factor in the argument.).
 att(8933, 8921).
-
-arg(8978).
-text(8978, You're repeating your argument that GM can be abused by rich people. Which is true. Just like matches can burn houses, should we ban matches as well?: would banning it prevent abuse? Would making it legal(with regulation) guarantee abuse or the downfall of society? (edited fire into matches)).
-att(8978, root).
 
 arg(8983).
 text(8983, Yes, banning genetic engineering if it isn't for curing a disease would be a right decision.
@@ -70,4 +50,24 @@ att(8983, 8978).
 arg(8951).
 text(8951, Rich people could also spend money to engineer themselves to be better, not just cure diseases. That would create a rich and way fitter upper elite class who now rightfully can feel biologically superior.).
 att(8951, 8931).
+
+arg(8914).
+text(8914, Even if there were regulations, the people with power will manipulate the system to ensure the only ones who get the true benefit are themselves. There would be little stopping different governments from using it to create the perfect soldier. It will only make the rich stronger and the poor weaker.).
+att(8914, 8895).
+
+arg(8518).
+text(8518, We could engineer ourselves with less disease.).
+att(8518, root).
+
+arg(8898).
+text(8898, Rich people could engineer themselves to be healthier than poor people (because poor people would have no money for this)).
+att(8898, 8518).
+
+arg(9052).
+text(9052, I can agree so far that GM should be limited to curing diseases or disallowing it for gaining unfair advantage. I think it should be regulated by the UN, or some other international body, and judged on a use-case bases).
+support(9052, 8983).
+
+arg(8978).
+text(8978, You're repeating your argument that GM can be abused by rich people. Which is true. Just like matches can burn houses, should we ban matches as well?: would banning it prevent abuse? Would making it legal(with regulation) guarantee abuse or the downfall of society? (edited fire into matches)).
+att(8978, 8951).
 

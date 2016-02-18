@@ -1,17 +1,21 @@
 arg(root).
 text(root, There are now two kinds of Muslims; those who prefer governance through secular liberal democracy and those who prefer governance through Sharia law.).
 
-arg(14958).
-text(14958, The Muslims who believe in governance through Sharia believe in armed jihad.  Those who believe in governance through secular liberal democracy do not believe in armed jihad.).
-support(14958, root).
+arg(17109).
+text(17109, Saying there are only 2 kinds of political ideologies in the muslim community would be an ignorant simplification.).
+support(17109, 15135).
 
-arg(15135).
-text(15135, Surely there would exist a Muslim somewhere that prefers one of the many other forms of government.).
-att(15135, root).
+arg(17108).
+text(17108, 2.8% of the UK population identify themselves as muslims. To say that Islam has taken over the UK is simply a lie. You additionally try to "prove" it using an irrelevant anecdote about your muslim friend.).
+att(17108, 14976).
 
-arg(14975).
-text(14975, The real enemy of the west is the one within. The left wing guarantees Radical Islam will destroy western nations. Islam has a practiced method of subversion of a strong nation - it has been carried out in Iran and other middle east countries throughout history and the left allowed Europe to be next).
-att(14975, root).
+arg(17107).
+text(17107, Saudi Arabia believes in armed jihad?
+Oman believes in armed jihad?
+Yemen believes in armed jihad?
+
+You have no fucking idea about what you are saying.).
+att(17107, 14958).
 
 arg(14976).
 text(14976, When I grew up, in the UK, I had a close friend of mine from Persia (now Iran) - He always told me over and over that Islam took over his country and they fled - he said he really hopes it doesn't happen to the UK too - I listened but was doubtful such a thing would happen. He was 100% right.).
@@ -21,7 +25,27 @@ arg(14977).
 text(14977, That was only 10 years ago.).
 support(14977, 14976).
 
+arg(16544).
+text(16544, So, there are three types of Muslims at least (B&W fallacy), those who support a religious state publicly and privately, those who support one publicly and oppose the idea privately because they lack the freedom to do so openly, and those who oppose it openly and are thus dead, jailed, or tortured.).
+support(16544, 16543).
+
+arg(14975).
+text(14975, The real enemy of the west is the one within. The left wing guarantees Radical Islam will destroy western nations. Islam has a practiced method of subversion of a strong nation - it has been carried out in Iran and other middle east countries throughout history and the left allowed Europe to be next).
+att(14975, root).
+
 arg(14987).
 text(14987, So Muslims are faced with making a choice between traditional Islam and a Westernized version that rejects armed jihad.).
 att(14987, root).
+
+arg(14958).
+text(14958, The Muslims who believe in governance through Sharia believe in armed jihad.  Those who believe in governance through secular liberal democracy do not believe in armed jihad.).
+support(14958, root).
+
+arg(15135).
+text(15135, Surely there would exist a Muslim somewhere that prefers one of the many other forms of government.).
+att(15135, root).
+
+arg(16543).
+text(16543, But it doesn't really matter if one opposes governance by religion, because in most of the nations where this is a problem, you can be named an apostate by one's community religious leader/imam for openly criticizing the marriage of government and religion, and then lawfully executed as a heretic.).
+att(16543, root).
 

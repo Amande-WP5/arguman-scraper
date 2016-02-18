@@ -1,10 +1,6 @@
 arg(root).
 text(root, Bernie Sanders will win the democratic nomination).
 
-arg(13483).
-text(13483, Only around 20% of youth have participated in past elections. ).
-att(13483, root).
-
 arg(13533).
 text(13533, He appeals to the majority of people in the US, the working class.).
 support(13533, root).
@@ -12,14 +8,6 @@ support(13533, root).
 arg(13613).
 text(13613, While the contention is feasible, it constitutes a prediction. It is not an argument well suited to this format due to the vast number of factors involved.).
 att(13613, root).
-
-arg(13476).
-text(13476, The general opinion of the internet-enthusiast youth is in favour of his presidency.).
-support(13476, root).
-
-arg(13622).
-text(13622, Most minorities are more familiar with Hillary Clinton right now than Sanders. Once he wins a state or two, his profile would rise, and he would do better. He has a very good civil rights record.).
-att(13622, root).
 
 arg(13477).
 text(13477, This makes up only a small portion of America's electorate).
@@ -29,6 +17,18 @@ arg(13484).
 text(13484, Bernie Sanders has pulled enormous crowds filled with young voters, unlike before. At best it is inconclusive if young voters will actually participate.).
 att(13484, 13483).
 
+arg(13594).
+text(13594, Even if a large portion of young voters turned out, it would be difficult to overcome the establishment. Numbers I saw recently were ~40% young participation and ~20% for the rest of the electorate for him to win. While not impossible, these are not likely.).
+att(13594, 13484).
+
+arg(13483).
+text(13483, Only around 20% of youth have participated in past elections. ).
+att(13483, 13476).
+
+arg(13476).
+text(13476, The general opinion of the internet-enthusiast youth is in favour of his presidency.).
+support(13476, root).
+
 arg(13592).
 text(13592, While he does very well with white demographics, he does very poorly with minorities. Unless this changes, he will not win the nomination.).
 att(13592, root).
@@ -37,7 +37,7 @@ arg(13593).
 text(13593, Even if he wins the popular vote, superdelegates could override it).
 att(13593, root).
 
-arg(13594).
-text(13594, Even if a large portion of young voters turned out, it would be difficult to overcome the establishment. Numbers I saw recently were ~40% young participation and ~20% for the rest of the electorate for him to win. While not impossible, these are not likely.).
-att(13594, 13484).
+arg(13622).
+text(13622, Most minorities are more familiar with Hillary Clinton right now than Sanders. Once he wins a state or two, his profile would rise, and he would do better. He has a very good civil rights record.).
+att(13622, 13592).
 

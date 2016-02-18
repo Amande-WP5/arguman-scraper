@@ -1,6 +1,74 @@
 arg(root).
 text(root, There are more than two genders.).
 
+arg(17642).
+text(17642, You are speaking more about sex than about gender.).
+att(17642, 16720).
+
+arg(18194).
+text(18194, Desiring to be and identifying as a diffrent sex does not make that person psychologically a diffrent sex. The same way as desiring to be and identifying as a dolphin does not make that person psychologically a dolphin.).
+att(18194, root).
+
+arg(18132).
+text(18132, A classification of gender is a classification of a generalised societal role. Generalised societal roles derive from the needs of a society. These needs of a society are demanded by a specific biological function. Rejecting a generalised societal role is rejecting social gender classification.).
+support(18132, root).
+
+arg(18436).
+text(18436, Sex is biological, and gender is cultural (given a particular definition of gender, which have many).).
+att(18436, 18432).
+
+arg(18432).
+text(18432, what's the difference? ).
+att(18432, 17642).
+
+arg(18195).
+text(18195, A male that wants to be female, is still psychologically and biologically a male. Just because they at some point don't like to be called their biological gender, it doesn't mean they are a different gender. They are males that want to be females but can never be 100% biologically or psychologically).
+support(18195, 18194).
+
+arg(18192).
+text(18192, Biological gender and generalised societal roles are two different things. Societal roles are psychological, sex/gender is biological. A sex can go against their generalised societal role, psychologically, but it does not make them biologically a different gender. A grown adult cannot change bio gen).
+att(18192, 18132).
+
+arg(17749).
+text(17749, This is one of the reason it is hard to tell anything on this argument without the author explaining what "gender" mean here.).
+att(17749, 17684).
+
+arg(17684).
+text(17684, Biological Gender).
+att(17684, 17642).
+
+arg(17683).
+text(17683, Your're still X or Y dominant.).
+att(17683, 17641).
+
+arg(17632).
+text(17632, Just because sexual and societal roles are shifting and becoming more equal, does not mean that gender has changed.  These two things are not connected.  i.e. If a woman becomes a CEO of a company, it is an example of shifting societal roles, but does not make the woman more like/more of a man.).
+att(17632, 8436).
+
+arg(17641).
+text(17641, If you define gender by the chromosomes (XX or XY), then there are more than two genders. By example you can have XXY or XYY or X?. (? for not clearly X nor Y).).
+att(17641, 16720).
+
+arg(16722).
+text(16722, Just because males can have female qualities and females can have male qualities, it does not mean there are more than two genders.).
+att(16722, root).
+
+arg(16968).
+text(16968, Stating 'gender isn't binary' alone does not help determine whether there are more than two genders.).
+att(16968, 16700).
+
+arg(16720).
+text(16720, You're either XX or XY. Identifying as another sex and changing hormone levels or appearance does not mean you are a different sex.).
+att(16720, root).
+
+arg(16700).
+text(16700, Gender isn't binary.).
+att(16700, root).
+
+arg(16721).
+text(16721, If I think I'm a dolphin it doesn't make me a dolphin. If I change my appearance to look like a dolphin, I'm still not a dolphin. Even if everyone I know agrees I'm a dolphin, I'm still not a dolphin.).
+support(16721, 16720).
+
 arg(7771).
 text(7771, It's dependent on your definition of gender.).
 att(7771, root).
@@ -8,4 +76,12 @@ att(7771, root).
 arg(8436).
 text(8436, Due to an increased awareness of a sexual and societall role spectrum, we can now increasingly identify ourselves with a title that matches our perons).
 support(8436, root).
+
+arg(16980).
+text(16980, he didn’t create this argument.).
+att(16980, root).
+
+arg(16924).
+text(16924, what is your definition of gender? ).
+att(16924, root).
 

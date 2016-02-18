@@ -1,0 +1,51 @@
+arg(root).
+text(root, Super PACS should be made illegal in the United States.).
+
+arg(19453).
+text(19453, I do agree that the rights of citizens outlined by the constitutional amendments are being infringed upon, specifically the fourth amendment.).
+att(19453, 19445).
+
+arg(19452).
+text(19452, If anything, the right that is being eroded is the citizens right to have *equal* say in government. By eliminating super PACS, we effectively give the people more power.).
+att(19452, 19445).
+
+arg(19445).
+text(19445, I would still prefer that it be done in an amendment. The precedent that has been set by the above examples is (in my opinion) a bad one. It allows decisions to erode our rights without our input.).
+att(19445, 19444).
+
+arg(19444).
+text(19444, The First Amendment is regulated all the time (for instance, threats, bribery and profanity in advertising are outlawed). Because the super PAC besmirches the nature of American democracy, they should be regulated.).
+att(19444, 19414).
+
+arg(19414).
+text(19414, Yes. Constitutional rights are there to restrict government action. If we want them to be able to regulate this, it would require a constitutional amendment.
+
+If we let it slide on this, that opens the rights up to further erosion. We already see this with the fourth amendment.).
+att(19414, 19413).
+
+arg(19413).
+text(19413, Should the constitutional rights take precedence over maintaining a pure American democracy?).
+att(19413, 19411).
+
+arg(19412).
+text(19412, I do think that super PACs are bad for the country).
+att(19412, 19408).
+
+arg(19411).
+text(19411, I'm not disagreeing with you on that point. I am disagreeing on the following:
+
+There does not seem to be a way to limit the actions of a *non-coordinating* super PAC without impeding on the first amendment. You're allowed to speak about a politician. You're allowed to buy an ad. Why not both?).
+att(19411, 19408).
+
+arg(19408).
+text(19408, If anything, candidates that are backed by  super PACS become puppets of special interest, and therefore lose freedom of speech. Candidates who do not receive funds through super PACS are not bound to any sort of political agenda.).
+att(19408, 19319).
+
+arg(19319).
+text(19319, You can potentially run into free speech issues with this.).
+att(19319, root).
+
+arg(19293).
+text(19293, They give special interest groups and big banks a larger say in government than citizens, thus creating a false democracy.).
+support(19293, root).
+

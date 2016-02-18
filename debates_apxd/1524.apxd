@@ -1,10 +1,6 @@
 arg(root).
 text(root, Mandatory voting thumbs up).
 
-arg(7823).
-text(7823, this assumes that you do not have a first pass the post voting system. ).
-att(7823, root).
-
 arg(8057).
 text(8057, Forcing anyone to do anything(outside of things needed to sustain life) hardly works without some major drawbacks. Someone who doesn't care about the political system won't care anymore when forced to vote. Also, scheduling such a task is very difficult in the US currently.).
 att(8057, root).
@@ -13,31 +9,35 @@ arg(7840).
 text(7840, It would increase political perception as politics is now applicable to the entire population.).
 support(7840, root).
 
-arg(8125).
-text(8125, This may lead to the view that voting is just another chore to be rushed through and not taken seriously. It may cause people to vote randomly or without due care, which could be catastrophic and ultimately further disengage the population from politics.).
-att(8125, root).
+arg(7823).
+text(7823, this assumes that you do not have a first pass the post voting system. ).
+att(7823, 7805).
 
 arg(8164).
 text(8164, You have countries (like Brazil) that votes are mandatory and the political knowledge of the general population is extremely poor.).
 att(8164, 7840).
 
-arg(8174).
-text(8174, Not voting is voting. Should someone come to the conclusion that the game is not worth playing, there is no reason to inhibit them from declaring this. The voter is expressing that there is no candidate which compels them to vote, a much stronger opinion than voting for the lesser of two evils.).
-att(8174, root).
-
 arg(8199).
 text(8199, Not voting don't change anything, is just a silent opposition. We should have something that let people vote to remove a candidate from the system or to propose new candidates so we don't have to choose between two evils).
 att(8199, 8174).
 
-arg(8206).
-text(8206, The voting system is a system that favors the majority. Maybe is actually better for the minority if the majority don't have to vote, so that a few votes from the more political engaged is more valid.).
-att(8206, root).
-
-arg(8208).
-text(8208, This is valid if you have candidates that support the minority or else the minority is forced to vote in peoples that can be against them.).
-att(8208, root).
-
 arg(7805).
 text(7805, Improves minority representation).
 support(7805, root).
+
+arg(8206).
+text(8206, The voting system is a system that favors the majority. Maybe is actually better for the minority if the majority don't have to vote, so that a few votes from the more political engaged is more valid.).
+att(8206, 7805).
+
+arg(8208).
+text(8208, This is valid if you have candidates that support the minority or else the minority is forced to vote in peoples that can be against them.).
+att(8208, 7805).
+
+arg(8125).
+text(8125, This may lead to the view that voting is just another chore to be rushed through and not taken seriously. It may cause people to vote randomly or without due care, which could be catastrophic and ultimately further disengage the population from politics.).
+att(8125, root).
+
+arg(8174).
+text(8174, Not voting is voting. Should someone come to the conclusion that the game is not worth playing, there is no reason to inhibit them from declaring this. The voter is expressing that there is no candidate which compels them to vote, a much stronger opinion than voting for the lesser of two evils.).
+att(8174, root).
 

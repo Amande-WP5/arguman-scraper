@@ -1,10 +1,6 @@
 arg(root).
 text(root, Videogames are art).
 
-arg(6143).
-text(6143, Using official definitions of 'art', you can discern whether videogames qualify.).
-att(6143, root).
-
 arg(6658).
 text(6658, composers compose scores and soundtracks, designers design landscapes and characters, writers write often complex and elaborate stories, all of these media belong to the general category of art and require both talent and skill to execute effectively. ).
 support(6658, root).
@@ -12,4 +8,8 @@ support(6658, root).
 arg(5796).
 text(5796, Art is subjective, what might be seen as art by one person might not be seen as art by someone else).
 att(5796, root).
+
+arg(6143).
+text(6143, Using official definitions of 'art', you can discern whether videogames qualify.).
+att(6143, 5796).
 

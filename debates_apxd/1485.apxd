@@ -1,14 +1,6 @@
 arg(root).
 text(root, We shouldn't always respect each others beliefs. ).
 
-arg(7545).
-text(7545, Judging somebody else's beliefs is very subjective. Some guidelines need to be implemented.).
-att(7545, root).
-
-arg(7554).
-text(7554, These rules would be just beliefs of a person/group of people. These should be judged themselves, but with no rules, this is problematic. ).
-att(7554, 7545).
-
 arg(7532).
 text(7532, We should respect individuals in general and treat everyone as an equal.).
 att(7532, root).
@@ -21,23 +13,31 @@ arg(14677).
 text(14677, but a believe is only a believe; when I do nothing wrong or unethical, where is the crime, where the harm ?).
 att(14677, root).
 
-arg(14704).
-text(14704, we should respect their right to a belief).
-att(14704, root).
-
-arg(14705).
-text(14705, Freedom of speech is only of value when we are able to criticize, ridicule, analyze, and dissect ideas. Beliefs are nothing more than ideas, so they are deserving of no respect whatsoever prior to examination.).
-support(14705, root).
+arg(7554).
+text(7554, These rules would be just beliefs of a person/group of people. These should be judged themselves, but with no rules, this is problematic. ).
+att(7554, 7545).
 
 arg(14706).
 text(14706, There is no crime. That doesn't mean that those beliefs are worthy of respect, however. And it doesn't mean that those beliefs should be shielded from individual scrutiny. It only means that the government has no right to this on a systemic level.).
 att(14706, 14677).
 
+arg(14792).
+text(14792, Not respecting a person's belief isn't the same as not respecting their right to believe. You have the right to believe slavery should return. But I don't respect your belief.).
+att(14792, 14704).
+
+arg(7545).
+text(7545, Judging somebody else's beliefs is very subjective. Some guidelines need to be implemented.).
+att(7545, 7539).
+
+arg(14704).
+text(14704, we should respect their right to a belief).
+att(14704, root).
+
 arg(14777).
 text(14777, If their belief is so weak it cannot stand challenge, than they should not hold it.).
 support(14777, root).
 
-arg(14792).
-text(14792, Not respecting a person's belief isn't the same as not respecting their right to believe. You have the right to believe slavery should return. But I don't respect your belief.).
-att(14792, 14704).
+arg(14705).
+text(14705, Freedom of speech is only of value when we are able to criticize, ridicule, analyze, and dissect ideas. Beliefs are nothing more than ideas, so they are deserving of no respect whatsoever prior to examination.).
+support(14705, root).
 

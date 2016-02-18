@@ -1,0 +1,7 @@
+arg(root).
+text(root, We only want what we can't have).
+
+arg(18669).
+text(18669, Look at Eve (and Adam). Once the rule is up that something is unattainable, that's exactly what we want. Especially with relationships; once a girl (or a guy) is off-limits/ not interested, that's we we want to go after. It's within us.).
+support(18669, root).
+

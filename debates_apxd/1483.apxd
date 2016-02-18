@@ -1,3 +1,236 @@
 arg(root).
 text(root, There is no scientific evidence that GMO foods are harmful to humans.).
 
+arg(18776).
+text(18776, There should only be one premise posted on this argument: a link to a study showing the effects of gmo crops on human health and/or eco system health ).
+att(18776, root).
+
+arg(18757).
+text(18757, Genetic modification can be for better or for worse, sometimes both. 
+
+Thinking GMOs are either only good or only bad is pure ignorance.).
+att(18757, root).
+
+arg(18847).
+text(18847, This paper was retracted as the data were inconclusive, and therefore the conclusions described in the article were unreliable. ).
+att(18847, 16536).
+
+arg(18846).
+text(18846, My original premise is about increased toxins in GMO food compared to non-GM food. I'd say it's relevant. GM plants are specifically engineered to withstand poison, so how can talking about the poison be off topic?).
+att(18846, 18845).
+
+arg(18844).
+text(18844, That I can agree with, there are also examples of non-GMO species introduced into new environments with dramatic impact.
+
+However, most ecosystems are open and there are always changes introduced from "outside", not uncommonly dramatic. Eg. animal change of habitat due to climate change.).
+att(18844, 18793).
+
+arg(18845).
+text(18845, Please note also, that the original argument is about GMO *food*. While the issue you raise *is* connected and worth a discussion, it seems to be a bit off-topic to the original premise, which was a bit more specific.).
+att(18845, 18793).
+
+arg(18559).
+text(18559, If something is genetically engineered to do something it doesn't naturally do, the added value is not natural.
+
+Just because you can genetically engineer a plant to produce its own pesticide/herbicide, it doesn't mean it's safe for humans or the environment.).
+att(18559, 18478).
+
+arg(18793).
+text(18793, By homeostasis I mean ecosystem equilibrium. 
+Introducing genes that have not naturally developed in an evolutionary group may disturb the ecosystem. Similar to how introducing a species into a different environment it didn't evolve in can cause problems for that ecosystem.).
+att(18793, 18792).
+
+arg(18792).
+text(18792, Sorry, I thought you say homeostasis means some sort of self-repairing balance. If not, please explain/link.
+
+Splicing is different way of achieving same result: different genes.
+
+You do not have "mice" genes or "potato" genes. You have genes synthesising particular proteins.).
+att(18792, 18713).
+
+arg(18788).
+text(18788, Thanks!).
+support(18788, 18774).
+
+arg(18761).
+text(18761, Glyphosate the most used pesticide, negatively effects good bacteria.
+We have more bacteria in our bodies than we do human cells.).
+support(18761, 17820).
+
+arg(18774).
+text(18774, Funny. I'm leaving the typo just so your "premise" makes sense.).
+att(18774, 18763).
+
+arg(18769).
+text(18769, This analogy does not work as left or right foot does not have a significant impact one way or the other. The fact is that we have yet to see the unknown impacts of GMO's, good or bad. Saying there is no significance between selective breeding and modifying a genome is ignorant.).
+att(18769, 18605).
+
+arg(18767).
+text(18767, These GMO's do kill pests, but they can also unintentionally kill other creatures that are not harmful, as is the case with the Monarch butterfly.).
+att(18767, 18478).
+
+arg(18763).
+text(18763, I hate it when pesticides lock out the nutrient in my genetically modified pants. How will I ever get the proper nutrients I need if I can't get it from my pants. I think I'll start buying organic pants from now on.).
+att(18763, 18762).
+
+arg(18762).
+text(18762, There is conflicting research that the heavy pesticide use on GMO pants can lock out nutrients and minerals, making the plants and their consumers deficient in those nutrients and minerals.
+Organic permaculture can create higher crop yields with more nutrient density than conventional agriculture.).
+att(18762, 18752).
+
+arg(18759).
+text(18759, "There is no "natural" or "unnatural" when you speak of modifying a plants genes."
+I think you're confusing breeding and splicing. 
+Why only plants? You could apply the same logic to other life forms. 
+If I spliced genes into you to grow a dinosaur penis on your head, would that be natural?).
+att(18759, 18604).
+
+arg(18758).
+text(18758, They have engineered plants to grow plastic. 
+
+I'm not saying this is a bad thing though.).
+att(18758, 18604).
+
+arg(18752).
+text(18752, GMO can introduce benefits like higher crop yields, or specialized nutrient-carrying crops for nutrient-deficit areas.).
+att(18752, 17009).
+
+arg(18713).
+text(18713, Biological kingdoms of evolutionary taxonomy were what I was thinking of, not species, sorry.
+Splicing genes from different evolutionary groups is different from selective breeding. 
+The method is different and the results are different.
+I didn't say anything about Gaia hypothesis.
+).
+att(18713, 18712).
+
+arg(18712).
+text(18712, Not really. (1) You mention breeding within same species, ignoring the fact that people are breeding hybrid species (current *pure* wheat is a hybrid) and that "hybridization is a common occurrence in nature" (see link). (2) Homeostasis as theoretized by Gaia hypothesis is quite debatable in itself.).
+att(18712, 18688).
+
+arg(18711).
+text(18711, I'm talking about how GMOs can increase toxicity in the environment and people.
+
+"however: An additional situation for the premise. ").
+att(18711, 18710).
+
+arg(18710).
+text(18710, Your main point then seems to be irrelevant to the argument in question.
+
+The argument is about GMO. You talk about poisons. This overlaps with GMO, but is not the question in the original argument.).
+att(18710, 18689).
+
+arg(18689).
+text(18689, You keep avoiding my main point. Poison is poison. Using toxic insect/herb/fungicides is not good for people or the environment. Modifying plants so they produce or withstand poison does not take away the poison. The problem is toxins being released, not the disciplines of genetic modification.).
+att(18689, 18646).
+
+arg(18688).
+text(18688, Gene splicing different species and selective breeding within the same species are two completely different things. 
+Species slowly evolve over time and maintain homeostasis with the environment. 
+Gene splicing dramatically changes this and can be very damaging to the environment and homeostasis.).
+att(18688, 18646).
+
+arg(16942).
+text(16942, If you think about this study: http://www.mnn.com/green-tech/research-innovations/stories/did-gmo-corn-give-these-mice-giant-tumors , it has been widely criticized for its lack of rigorousness.).
+att(16942, 16536).
+
+arg(16885).
+text(16885, There is a difference, with GMO you can modify genes in a way that would be highly improbable to be achieved by selective breeding.
+It is less progressive.).
+att(16885, 16589).
+
+arg(17048).
+text(17048, Let's make an analogy. This argument is similar to climate denier arguments: "climate has always changed in history, it was never stable, so there's nothing wrong". As that misses the new "human factor" this argument here misses that difference between selective breeding and laboratory manipulation.).
+att(17048, 16589).
+
+arg(18603).
+text(18603, You can not prove a negative in this sense. You can not prove that any food whatsoever is not harmful, except by subjecting it to food industry standard tests. If GM food is subjected to same tests as other food before introduction to the market, it should be considered safe enough.).
+att(18603, 17049).
+
+arg(18604).
+text(18604, But this is exactly what we have been doing to plants for the past 20'000+ years. There is no "natural" or "unnatural" when you speak of modifying a plants genes. It's not as if you were making cyborg plants with metal or plastic.).
+att(18604, 18559).
+
+arg(18478).
+text(18478, GMO crops can eliminate the need for pesticides/herbicides by being naturally resistant to pests or diseases.).
+att(18478, 17820).
+
+arg(16997).
+text(16997, That doesn't mean they are harmful. The argument above just wanted to point out that many foods have a modified genome (either by selective pressure or by active modification) and never has it been proven to be harmful in either cases.).
+att(16997, 16885).
+
+arg(16725).
+text(16725, There is no source and it doesn't mean anything for GMO food if one type of food is unhealthy. There are tons of different modified foods and one doesn't make all unhealthy.).
+att(16725, 16536).
+
+arg(16682).
+text(16682, Some popular examples: Watermelon, bananas, corn, soy, zucchini, apples and many more have been modified due to agriculture.).
+support(16682, 16589).
+
+arg(18751).
+text(18751, The original claim "so there is no reason to believe that the mere act of modifying a genome should add risk" should be taken to mean that modifying genomes will not always add risk. It depends on the modification.
+
+Just like affecting climate does not always add risk, but the current impact does.).
+att(18751, 17048).
+
+arg(18646).
+text(18646, This is not different.
+
+In breeding you also get sometimes unpredictable results, which you test, and if not succesful, throw away.
+
+Numerous plants have also self-evolved to be poisonous, so it is quite possible to have the unwanted results in either natural selection, breeding or GMO.).
+att(18646, 18606).
+
+arg(18605).
+text(18605, The premise does not explain the difference and does not show that this difference is significant.
+
+I get out from my bed sometimes with left foot first, sometimes with right. There is a difference, but I can't show it having any particular significance.).
+att(18605, 17048).
+
+arg(16589).
+text(16589, All modern farmed foods have been modifed by selective breeding. So there is no reason to believe that the mere act of modifing a genome should add risk).
+support(16589, root).
+
+arg(16536).
+text(16536, There is some, though not to humans, some lab mice feed only GMO food developed increased tumors and all ended up dying way before normal).
+att(16536, root).
+
+arg(16749).
+text(16749, We should actively look for evidence on each newly introduced variety.).
+att(16749, root).
+
+arg(18606).
+text(18606, Genetic engineering is not the same as traditional genetic modification by breeding. Even plants modified this way can create negative outcomes. 
+Creating a plant that is engineered or modified to withstand or create high strength poison, doesn't mean what's consuming the plant can withstand it.
+).
+att(18606, 18604).
+
+arg(17820).
+text(17820, The heavy pesticide/herbicide use on GMO plants is not good for people or the environment.).
+att(17820, root).
+
+arg(17053).
+text(17053, The argument above was saying that selective breeding (SL) is equivalent to GMO, and then there is the same risk with SL and GMO.
+
+My premise is against "SL is equivalent to GMO", not against "GMO is harmless".).
+att(17053, 16997).
+
+arg(17009).
+text(17009, I think it`s not always so easy to find out if GMO food is harmful. F.e: long time effects. Another thing is: maybe GMO food isn`t really harmful, but isn`t healthy either. I don`t why you discuss this topic; if it`s ethical discourse then I would say, that it`s not for sure, to be for GMO  food.).
+att(17009, root).
+
+arg(17049).
+text(17049, The claim "exports" the burden of proof and thus responsibility. If one engages in a risky (potentially harmful in any way) activity - in such delicate areas as food - one holds the responsibility of proving that the activity is not harmful, risks are minimal etc.).
+att(17049, root).
+
+arg(16675).
+text(16675, Humans have naturally created modified organisms for thousands of years and we're healthier than ever.).
+support(16675, root).
+
+arg(19487).
+text(19487, GMO focuses on a very narrow area of change whereas SL involves the entire dna complex. The results of SL often create animals with serious defects along the preferred characteristics . The damaging effect of SL appears prominently in dog breeds. Ditto for plants as in the commercial banana problem.).
+att(19487, 17053).
+
+arg(19011).
+text(19011, Inhibition the growth of gut bacteria by glyphosate only occurs at concentrations that are much higher than would be caused by dietary glyphosate. (The second reference cited by cozm actually illustrates this point).).
+att(19011, 18761).
+

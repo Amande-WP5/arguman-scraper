@@ -5,12 +5,6 @@ arg(14334).
 text(14334, There are certain moral and civic goods that markets do not honor and money cannot buy.).
 support(14334, root).
 
-arg(14338).
-text(14338, There're difference between market economy and market society.
-
-The difference is this: A market economy is a tool, a valuable and effective tool, for organizing productive activity, but a market society is a place where almost everything is up for sale.).
-att(14338, root).
-
 arg(14332).
 text(14332, We don't want a society where
 everything is up for sale.).
@@ -25,14 +19,6 @@ arg(14339).
 text(14339, Market thinking and market values
 begin to dominate every aspect of life: personal relations, family life, health, education,politics, law, civic life.).
 support(14339, 14334).
-
-arg(14340).
-text(14340, Inequality: The more things money can buy, the more affluence, or the lack of it, matters.).
-support(14340, root).
-
-arg(14341).
-text(14341, With some social goods and practices, when market thinking and market values enter, they may change the meaning of those practices and crowd out attitudes and norms worth caring about.).
-support(14341, root).
 
 arg(14342).
 text(14342, If the only thing that money determined was access to yachts or fancy vacations or BMWs, then inequality wouldn't matter very much.).
@@ -57,4 +43,18 @@ E.g.2 Cell upgrade in California's jail
 
 E.g.3 Pay the homeless people to take the place at the head of line of for important Congressional hearings).
 att(14336, 14334).
+
+arg(14340).
+text(14340, Inequality: The more things money can buy, the more affluence, or the lack of it, matters.).
+support(14340, root).
+
+arg(14338).
+text(14338, There're difference between market economy and market society.
+
+The difference is this: A market economy is a tool, a valuable and effective tool, for organizing productive activity, but a market society is a place where almost everything is up for sale.).
+att(14338, 14337).
+
+arg(14341).
+text(14341, With some social goods and practices, when market thinking and market values enter, they may change the meaning of those practices and crowd out attitudes and norms worth caring about.).
+support(14341, root).
 

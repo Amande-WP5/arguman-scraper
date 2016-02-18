@@ -1,0 +1,7 @@
+arg(root).
+text(root, A minimum wage hurts the poor).
+
+arg(17523).
+text(17523, It causes every worker whose labour is worth less than the minimum wage to be banned from the job market.).
+support(17523, root).
+

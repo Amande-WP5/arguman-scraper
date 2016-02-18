@@ -1,41 +1,17 @@
 arg(root).
 text(root, Socialism is more effective at poverty reduction and ensuring the meeting of basic needs than capitalism).
 
-arg(13537).
-text(13537, That's right, but who do the governments of impoverished countries typically stand by: multinational corporations, or small-scale rural farmers? ).
-att(13537, root).
+arg(14001).
+text(14001, Capitalism is necessarily a corrupt system.).
+att(14001, 13797).
 
-arg(13540).
-text(13540, Could you just cut the crap and put it plainly? The first sentence made no sense and the second one was just completely irrelevant. ).
-att(13540, root).
-
-arg(14020).
-text(14020, The state has a fundamentally different character in socialism compared to capitalism.).
-support(14020, root).
-
-arg(13747).
-text(13747, When the workers own the means of production, they can ensure that they are not marginalized and forced into wage slavery.).
-support(13747, root).
-
-arg(13390).
-text(13390, The very nature of land ownership makes the monopolisation of agriculture unavoidable. Extremely large corporations are dispossessing rural producers and selling their produce overseas. You cannot compete with someone who owns all the land.).
-support(13390, root).
-
-arg(13394).
-text(13394, The two-fold nature of the commodity has implications for food, in particular: food is produced primarily for exchange, but consumers are only interested in its use. If food can be exchanged for a higher amount of money elsewhere, it will be. Capitalists don't produce things to be nice.).
-support(13394, root).
+arg(15279).
+text(15279, How do you know?).
+att(15279, 14014).
 
 arg(13525).
 text(13525, Food isn't sold only to consumers for their personal use. Food is also sold for livestock feed, restaurant & food services, and health supplement companies.).
 att(13525, 13394).
-
-arg(14022).
-text(14022, The dictatorship of the proletariat, or the worker state, is formed after the destruction of the bourgeois state. For the seizing of the means of production, the seizing of the state is also necessary.).
-support(14022, root).
-
-arg(13391).
-text(13391, Do you think cheap prices for food or high prices for food will meet human needs more effectively? Do you think exporting food for profit or distributing food for need meets human needs more effectively?).
-att(13391, root).
 
 arg(14021).
 text(14021, The economic and political spheres under socialism are indistinguishable. Workers control both the state apparatus and the means of production. The state administers the means of production.).
@@ -45,47 +21,69 @@ arg(14023).
 text(14023, The bourgeoisie, as a Marxist term, refers to the capitalist class.).
 support(14023, 14022).
 
-arg(14024).
-text(14024, Money can be transfered, and is thus taxable, but labour vouchers cannot be transfered and are not taxable.).
-support(14024, root).
-
-arg(13250).
-text(13250, Profit motive is good for poor people because it encourages producers to grow as efficiently as possible. It is immoral to give things away to poor countries 1. populations bubble and more people suffer from the inevitable bad crop 2. the local farmers suffer because they can't compete).
-att(13250, root).
-
-arg(13252).
-text(13252, The effectiveness of an economic system has little to do with the "intention" of the players involved in it.).
-att(13252, root).
-
-arg(13939).
-text(13939, These questions and issues apply equally to capitalist  democratic governments, so this does not actually address the question of socialism's efficacy in fighting poverty or avoiding wage slavery (vs capitalism).).
-att(13939, root).
-
 arg(13269).
 text(13269, Profit motive does not necessarily result in cheap goods and efficiency. Monopolies might emerge and charge as high a price as they can get away with.).
 att(13269, 13250).
 
+arg(13540).
+text(13540, Could you just cut the crap and put it plainly? The first sentence made no sense and the second one was just completely irrelevant. ).
+att(13540, 13523).
+
+arg(14020).
+text(14020, The state has a fundamentally different character in socialism compared to capitalism.).
+support(14020, 14019).
+
+arg(13747).
+text(13747, When the workers own the means of production, they can ensure that they are not marginalized and forced into wage slavery.).
+support(13747, root).
+
+arg(13390).
+text(13390, The very nature of land ownership makes the monopolisation of agriculture unavoidable. Extremely large corporations are dispossessing rural producers and selling their produce overseas. You cannot compete with someone who owns all the land.).
+support(13390, 13389).
+
+arg(13394).
+text(13394, The two-fold nature of the commodity has implications for food, in particular: food is produced primarily for exchange, but consumers are only interested in its use. If food can be exchanged for a higher amount of money elsewhere, it will be. Capitalists don't produce things to be nice.).
+support(13394, 13393).
+
+arg(14022).
+text(14022, The dictatorship of the proletariat, or the worker state, is formed after the destruction of the bourgeois state. For the seizing of the means of production, the seizing of the state is also necessary.).
+support(14022, 14021).
+
+arg(13391).
+text(13391, Do you think cheap prices for food or high prices for food will meet human needs more effectively? Do you think exporting food for profit or distributing food for need meets human needs more effectively?).
+att(13391, 13307).
+
+arg(14024).
+text(14024, Money can be transfered, and is thus taxable, but labour vouchers cannot be transfered and are not taxable.).
+support(14024, 14015).
+
+arg(13250).
+text(13250, Profit motive is good for poor people because it encourages producers to grow as efficiently as possible. It is immoral to give things away to poor countries 1. populations bubble and more people suffer from the inevitable bad crop 2. the local farmers suffer because they can't compete).
+att(13250, 13020).
+
+arg(13252).
+text(13252, The effectiveness of an economic system has little to do with the "intention" of the players involved in it.).
+att(13252, 13018).
+
+arg(13939).
+text(13939, These questions and issues apply equally to capitalist  democratic governments, so this does not actually address the question of socialism's efficacy in fighting poverty or avoiding wage slavery (vs capitalism).).
+att(13939, 13922).
+
+arg(13539).
+text(13539, No, no - that's not at all what is meant by capital accumulation. See the source included below.).
+att(13539, 13522).
+
 arg(15102).
 text(15102, How about you try and rebut the actual premise? Get your head out of the clouds and into the specifics. This is poverty reduction, not some obscure-terminology competition.).
-att(15102, root).
+att(15102, 14053).
 
 arg(13522).
 text(13522, But workers should be paid and be allowed the choice to spend or keep their savings. So workers if they are not slaves may also  save and accumulate capital of their wages.).
-att(13522, root).
+att(13522, 13392).
 
-arg(15103).
-text(15103, You claim that "one side needs to have more control in the form of ownership for wealth to be meaningful". This is a loaded claim that requires an example or some form of evidence. It is also unclear what you mean by the terms "control in the form of ownership" and "meaningful".).
-att(15103, root).
-
-arg(15105).
-text(15105, The "class struggle" was not regulated prior to the American Civil War. This lack of regulation resulted in slavery being a legal practice in the United States. Without strict oversight, the greed of some individuals has no end, resulting in widespread exploitation and injustice.).
-support(15105, root).
-
-arg(13263).
-text(13263, "Capitalism" is also self-perpetuating. The wealthier person in a negotiation always has an advantage (profit v starvation, price gouging) and when wealth is linked to influence barriers to entry can be erected preventing people from exiting poverty. 
-
-US welfare =/= all welfare).
-att(13263, root).
+arg(18331).
+text(18331, This is roughly translatable to the (false) statement: "The town, eating the seed crop harvested this season, which was set aside for planting anew at maximum efficiency in the new Spring season, will reduce poverty more." Only by a sophist trick of the mind does it APPEAR to reduce poverty more.).
+att(18331, root).
 
 arg(14025).
 text(14025, If the worker state desired to engage in a project, it would not require the money that capitalist states require, but instead, labour. Labour vouchers can simply be printed out, or even better, added to virtual "labour accounts".).
@@ -95,21 +93,9 @@ arg(14026).
 text(14026, The "proletariat" refers to the class which in capitalism obtains its subsistence through labour, and, not owning the means of production which produce this subsistence, is forced to sell this labour to a capitalist.).
 support(14026, 14022).
 
-arg(13398).
-text(13398, Government spending and investment into public services existed before the word "socialism" even existed. A house that you paint yellow over the course of a week does not become a banana.).
-att(13398, root).
-
-arg(13249).
-text(13249, Commodities are always exchanged under any economic system, including socialism. Under capitalism, goods are also produced with the intention of fulfilling a need (called a demand in economics).).
-att(13249, root).
-
-arg(14558).
-text(14558, Congress is the same organization that enacts the programs which my source counters, so you are contributing to my point of view by providing further evidence as to why class struggles should not be regulated.).
-att(14558, root).
-
-arg(13400).
-text(13400, This is absolutely ridiculous, and there are far more direct ways to meet human needs and end poverty.).
-support(13400, root).
+arg(18332).
+text(18332, The citizens WILL suffer less poverty during the winter months, they can sell the seed crop to buy expensive fur coats. However Socialist systems are the same but the time scales vary - the 'seed crop' may be needed 15 years later but if so it is still destructive to have eaten/sold it all earlier.).
+support(18332, 18331).
 
 arg(13389).
 text(13389, The main orientation of socialism is production for the meeting of social need rather than exchange. We are talking about the meeting of basic human needs, and production for profit may incentivise producers, but renders food unaffordable.).
@@ -127,66 +113,83 @@ arg(13307).
 text(13307, I just stated why cheap prices aren't a good thing in poor countries without infrastructure. Prices should be higher to reflect the scarcity and encourage infrastructure to be created.).
 att(13307, 13269).
 
-arg(13397).
-text(13397, Bourgeois control of the state? Private property? Commodity production?  Production for exchange rather than use?
-Wage labour? Class struggle? Appropriation of surplus value? We're not talking about welfare states, we're talking about Marxist socialism, of which you seem to know very little about.).
-att(13397, root).
-
-arg(13392).
-text(13392, The Marxist definition of the commodity, which I operate on (and may be causing some confusion) is "something that is produced for the purpose of exchanging for something else", in this case, money. Socialist economies are not based around capital accumulation and exchange.).
-att(13392, 13249).
-
-arg(13020).
-text(13020, Food is produced in the expectation of a profit, rather than to feed people. This results in the distribution of food being heavily skewed towards countries whose citizens have higher incomes. It is unprofitable to sell food to people with extremely low incomes.).
-support(13020, root).
-
 arg(13393).
 text(13393, The commodity's nature is two-fold: it has a use-value (it fulfills a need), and it has an exchange-value (it has a price, it can be traded against other goods). If it did not fulfill a need, it would not be made, and if it had no price, it would not be made.).
 att(13393, 13249).
-
-arg(13018).
-text(13018, Commodities are produced for exchange, under capitalism - not with the intention of fulfilling a social need.).
-support(13018, root).
 
 arg(13306).
 text(13306, Monopolies are not the product of the free market, rather they are caused by governments raising the barrier of entry for businesses. If the goods can be manufactured at a more reasonable price, then the profit motive creates competitors. More supply drives the prices down.).
 att(13306, 13269).
 
-arg(13265).
-text(13265, It is not sufficient to run an anti-poverty programme in a neoliberal economy to call that "socialism". To determine whether a state is a "socialistic" one we need to examine its structural conditions. US clearly does not fullfill the model of a socialist state. ).
-att(13265, root).
-
-arg(13266).
-text(13266, Economic growth is generally belived to be the best way to eradicate poverty, therefore the debate should focus on which of these two system produces bigger growth. However, it has been noticed that due to inequalities, the share of lowest deciles of society in GDO growth is declining. ).
-att(13266, root).
-
 arg(13305).
 text(13305, 40% of the GDP goes toward government programs, 20% of the workforce employed by government agencies, a national currency, and a federal system of land management, healthcare, welfare, etc. certainly disqualifies the USA from being a capitalist country. USA has become a socialist country over time.).
 att(13305, 13265).
 
-arg(13536).
-text(13536, Many houses in the United States lay vacant, disused, and slowly falling into disrepair. This is because the owners of the houses are not interested in seeing it fulfill its use-value (people living in it), but only in its exchange-value (people giving them money to live in it).).
-support(13536, root).
+arg(13392).
+text(13392, The Marxist definition of the commodity, which I operate on (and may be causing some confusion) is "something that is produced for the purpose of exchanging for something else", in this case, money. Socialist economies are not based around capital accumulation and exchange.).
+att(13392, 13249).
 
 arg(13535).
 text(13535, Yes. Perhaps that was worded poorly. The point is that all commodities have use-values (with the exception of money-commodities), that is, they have a use. An illustration of the contradiction between use-value and exchange-value can be seen in housing, particularly.).
 att(13535, 13525).
 
-arg(13538).
-text(13538, The term "exchange" refers to the Marxist sense of the term. Irrelevant point, anyway. In what way are the needs of society arbitrary? Unless I misunderstand you, every person needs water, food, shelter, and clothing - these are common to all individuals.).
-support(13538, root).
-
 arg(13523).
 text(13523, Socialism was invented as a way of advocating for more concentrated efforts in an existing thread of humanity, and changing public relationships. An economic system is not designed with the intent of changing the way people interacted in the past, but rather how things will continue. ).
 att(13523, 13398).
 
+arg(14007).
+text(14007, The variant of socialism I advocate for, as a Marxist-Leninist, features direct democracy. This is complementary to democratic media ownership, in that it leaves policy-making relatively free from special interests.).
+support(14007, 14006).
+
+arg(13263).
+text(13263, "Capitalism" is also self-perpetuating. The wealthier person in a negotiation always has an advantage (profit v starvation, price gouging) and when wealth is linked to influence barriers to entry can be erected preventing people from exiting poverty. 
+
+US welfare =/= all welfare).
+att(13263, 13248).
+
+arg(18333).
+text(18333, Profit is simply 'maximal surplus'. It is ideological to assume that conducting an action with the most bountiful surplus being achieved is a route towards guaranteeing poverty (the eradication of poverty must be met by surplus).).
+att(18333, 13018).
+
+arg(13398).
+text(13398, Government spending and investment into public services existed before the word "socialism" even existed. A house that you paint yellow over the course of a week does not become a banana.).
+att(13398, 13305).
+
+arg(13249).
+text(13249, Commodities are always exchanged under any economic system, including socialism. Under capitalism, goods are also produced with the intention of fulfilling a need (called a demand in economics).).
+att(13249, 13018).
+
+arg(14558).
+text(14558, Congress is the same organization that enacts the programs which my source counters, so you are contributing to my point of view by providing further evidence as to why class struggles should not be regulated.).
+att(14558, 13773).
+
+arg(13400).
+text(13400, This is absolutely ridiculous, and there are far more direct ways to meet human needs and end poverty.).
+support(13400, 13399).
+
+arg(13020).
+text(13020, Food is produced in the expectation of a profit, rather than to feed people. This results in the distribution of food being heavily skewed towards countries whose citizens have higher incomes. It is unprofitable to sell food to people with extremely low incomes.).
+support(13020, 13018).
+
+arg(13018).
+text(13018, Commodities are produced for exchange, under capitalism, and decisions as to the production and distribution of commodities are made in accordance with maximum profit as opposed to maximum social benefit.).
+support(13018, root).
+
+arg(13265).
+text(13265, It is not sufficient to run an anti-poverty programme in a neoliberal economy to call that "socialism". To determine whether a state is a "socialistic" one we need to examine its structural conditions. US clearly does not fullfill the model of a socialist state. ).
+att(13265, 13248).
+
+arg(13536).
+text(13536, Many houses in the United States lay vacant, disused, and slowly falling into disrepair. This is because the owners of the houses are not interested in seeing it fulfill its use-value (people living in it), but only in its exchange-value (people giving them money to live in it).).
+support(13536, 13535).
+
+arg(13538).
+text(13538, The term "exchange" refers to the Marxist sense of the term. Irrelevant point, anyway. In what way are the needs of society arbitrary? Unless I misunderstand you, every person needs water, food, shelter, and clothing - these are common to all individuals.).
+support(13538, 13519).
+
 arg(13517).
 text(13517, Preventing people from willfully harming the property of others; a high priced item produced at a cheap cost will still encourage more production, just less margin for others. Exporting food is expensive, but important for a balanced diet. Not all climates are suitable for growing, so we compromise.).
 support(13517, 13391).
-
-arg(13541).
-text(13541, Could you explain, in simple, easy to understand terms, how and why cryptocurrency would reduce poverty and meet human needs more effectively than socialism? I won't mind if you write the explanation in multiple parts, the 250-character limit is ridiculous.).
-support(13541, root).
 
 arg(13511).
 text(13511, The reason why land monopolies exist is complex. The legal system allows corporations to operate by different standards i.e. by the law of foreign territory. Government agencies claim ownership of most land and control prices. Corporations can use subsidized land without actually owning it.).
@@ -200,30 +203,9 @@ arg(13597).
 text(13597, Bailouts are impossible with bitcoin since accounts are exclusively controlled by the account owner. Therefore to implement a bailout would require getting individual consent from every single worker/citizen. Its like 'consent of the governed' is actually a real thing rather than being theoretical. ).
 support(13597, 13541).
 
-arg(13575).
-text(13575, Bitcoin will probably be volatile for a few years more but will always end up. It is like trying to move the water from the ocean (the national currency) into a tea cup (the bitcoin currency). 
-).
-att(13575, root).
-
-arg(13746).
-text(13746, Marxism relies on valuing everything by the labour put into it. Capitalism by what people are willing to pay for something. In a socialist society, there is no incentive for efficiency or automation. Those in poverty today are much better off than those in poverty before the flour mill was invented.).
-att(13746, root).
-
-arg(13769).
-text(13769, Welfare does not necessarily undermine productive social norms, nor does welfare necessarily undermine the misallocation of resources (did you mean to say that welfare is a misallocation of resources?). Also, your conclusion that the welfare state is self perpetuating is not supported by evidence.).
-att(13769, root).
-
-arg(13527).
-text(13527, Focus on political theory is a distraction. Corruption and propaganda are too easy in socialism and capitalism. The biggest cause of poverty is by far corruption of the national currency. So the best solution is a system of accurate and honest accounting difficult for anyone to control or corrupt.).
-att(13527, root).
-
 arg(13777).
 text(13777, No, one does not need to have more control in the form of property rights for wealth to be meaningful. People can have an equal amount of wealth and still be able to exchange various forms of property in a productive manner. Capitalism is allowing for wealth to be used as influence (SuperPACs).).
 att(13777, 13309).
-
-arg(13773).
-text(13773, You are forgetting to consider (or rather, your source, The Heritage Foundation) the frequent congressional obstructionism that has served to counter the progress being made towards reducing poverty. Ex. Trickle Down Economics, which is undoubtedly the deliberate exploitation of the working class.).
-att(13773, root).
 
 arg(13778).
 text(13778, The free market allows for monopolies to exist. Once a business becomes established within a market, that business can use the profit that it had accumulated to buy out their competitors. More wealth, more lawyers, more lobbyists, more loopholes, etc. Small businesses have little to no chance.).
@@ -233,33 +215,13 @@ arg(13776).
 text(13776, Under capitalism, goods and services have the potential of being harmful and counterproductive to the public good. Ex. The combustion of oil products provided by the fossil fuel industry is contributing to climate change and ultimately degrading the quality of our planet. Would this be productive?).
 att(13776, 13249).
 
-arg(13771).
-text(13771, Marxism is an analysis and critique of capitalism (and a philosophy), not a socioeconomic system in itself. Sentence one is bollocks, sentence two is bollocks, sentence three isn't a real argument, and sentence four is a complete non sequitur. Below, a video series explaining the law of value.).
-att(13771, 13746).
-
 arg(13780).
 text(13780, The free market is a sort of "free for all" that disproportionately benefits those who already have a great sum of wealth in which to make investments. The free market is a one-legged race where those who are already wealthy and powerful get to use both of their legs.).
 support(13780, 13778).
 
-arg(13797).
-text(13797, Corruption is the core reason poverty exists. Propaganda is media which turns people against themselves. People tolerate the high levels of corruption in our societies partly because propaganda hides the corruption or misdirects the true causes of problems. ).
-support(13797, root).
-
-arg(13793).
-text(13793, Workers can accumulate wages. This is not marked as 'capital accumulation'. However their spending is restricted to commodities for consumption. If they spend on (1) labour (2) commodities for (3) other productive activities, then their wages are re-marked as 'capital accumulation' which is illegal.).
-att(13793, root).
-
-arg(13774).
-text(13774, Incentive is not merely determined by monetary gains. Incentive can also be the satisfaction one may receive through helping others. The incentive for becoming more efficient at something is to create a better quality of life for those around you, which is an honorable public service. Love > Luxury.).
-att(13774, 13746).
-
 arg(13915).
 text(13915, Not necessarily. Eg: there could be regulations imposed by the State on the workers ownership. These could demand the bulk of the profit from the production. Harsh enough and it would be wage slavery. The State may not spend what they took to help the workers. What stops harsh regulations?  ).
 att(13915, 13747).
-
-arg(13921).
-text(13921, I read some good points in there. But you've mixed too many important points into one post. I'm not sure how your (1)(2)&(3) connect.).
-att(13921, root).
 
 arg(13920).
 text(13920, Your rebuttal is correct in that this is a potential state of affairs under a Soviet-style Marxist-Leninist government.
@@ -274,14 +236,6 @@ att(13922, 13920).
 arg(13998).
 text(13998, Okay, I'll spend some time doing that.).
 att(13998, 13921).
-
-arg(14008).
-text(14008, Similarly, the ability to recall delegates from democratic institutions as happens in Cuba, and far less economic barriers to entering the political scene, makes corruption extremely difficult.).
-support(14008, root).
-
-arg(14012).
-text(14012, Ability to accumulate private property and social power (through money) makes capitalism inherently prone to extremes of wealth and poverty.).
-support(14012, root).
 
 arg(14011).
 text(14011, Corruption is not the core reason why poverty exists.).
@@ -303,25 +257,50 @@ arg(14009).
 text(14009, The non-existence of a transferable currency and private property also makes the corruption of elected officials very difficult.).
 support(14009, 14006).
 
-arg(14007).
-text(14007, The variant of socialism I advocate for, as a Marxist-Leninist, features direct democracy. This is complementary to democratic media ownership, in that it leaves policy-making relatively free from special interests.).
-support(14007, 14006).
-
 arg(14014).
 text(14014, The state would not do that.).
 att(14014, 13915).
 
-arg(14001).
-text(14001, Capitalism is necessarily a corrupt system.).
-att(14001, 13797).
+arg(13575).
+text(13575, Bitcoin will probably be volatile for a few years more but will always end up. It is like trying to move the water from the ocean (the national currency) into a tea cup (the bitcoin currency). 
+).
+att(13575, 13574).
+
+arg(13773).
+text(13773, You are forgetting to consider (or rather, your source, The Heritage Foundation) the frequent congressional obstructionism that has served to counter the progress being made towards reducing poverty. Ex. Trickle Down Economics, which is undoubtedly the deliberate exploitation of the working class.).
+att(13773, 13248).
+
+arg(13797).
+text(13797, Corruption is the core reason poverty exists. Propaganda is media which turns people against themselves. People tolerate the high levels of corruption in our societies partly because propaganda hides the corruption or misdirects the true causes of problems. ).
+support(13797, 13772).
+
+arg(13793).
+text(13793, Workers can accumulate wages. This is not marked as 'capital accumulation'. However their spending is restricted to commodities for consumption. If they spend on (1) labour (2) commodities for (3) other productive activities, then their wages are re-marked as 'capital accumulation' which is illegal.).
+att(13793, 13787).
+
+arg(13774).
+text(13774, Incentive is not merely determined by monetary gains. Incentive can also be the satisfaction one may receive through helping others. The incentive for becoming more efficient at something is to create a better quality of life for those around you, which is an honorable public service. Love > Luxury.).
+att(13774, 13746).
+
+arg(13527).
+text(13527, Focus on political theory is a distraction. Corruption and propaganda are too easy in socialism and capitalism. The biggest cause of poverty is by far corruption of the national currency. So the best solution is a system of accurate and honest accounting difficult for anyone to control or corrupt.).
+att(13527, root).
+
+arg(14008).
+text(14008, Similarly, the ability to recall delegates from democratic institutions as happens in Cuba, and far less economic barriers to entering the political scene, makes corruption extremely difficult.).
+support(14008, 14007).
+
+arg(14012).
+text(14012, Ability to accumulate private property and social power (through money) makes capitalism inherently prone to extremes of wealth and poverty.).
+support(14012, 14011).
+
+arg(13921).
+text(13921, I read some good points in there. But you've mixed too many important points into one post. I'm not sure how your (1)(2)&(3) connect.).
+att(13921, root).
 
 arg(14015).
 text(14015, For one thing, the elimination of wage labour presupposes no exploitation, as occurs under capitalism. This would mean no profits, and no tax on production. ).
 support(14015, 14014).
-
-arg(14005).
-text(14005, The media in socialism does not serve the interests of an elite, but instead serves to inform the working class, in its own interest - by virtue of its democratic ownership.).
-support(14005, root).
 
 arg(14017).
 text(14017, Elected individuals managing the state apparatus could not accumulate wealth on an individual level through means of taxation).
@@ -345,10 +324,6 @@ text(14115, Coops are indeed a way for the workers to own the MOP in a local way
 However, the "dearth of these arrangements" being necessarily due to the "non-worker challenges of running a business" is an assertion - there could be other reasons.).
 att(14115, 14054).
 
-arg(14055).
-text(14055, Business owners do not pay the workers - the consumers pay the workers, the business owner is trying to sell the labor of the worker to these consumers - no amount of socialism can make consumers want to buy the labor of the worker who is STILL inefficient or provides no economic value.).
-att(14055, root).
-
 arg(14056).
 text(14056, Socialism is the destruction of price information to OBSCURE the valuelessness of these workers to the consumer - so that they cannot make an informed decision of whether to pay the wage of the worker - it has not solved anything it has just forced the consumer to subsidize the valueless worker.).
 support(14056, 14055).
@@ -369,25 +344,9 @@ arg(13585).
 text(13585, Bitcoin is a public commons accounting software project. It is open source so its instructions are public. It is a distributed network like bittorrent. Therefore no single entity can control the network so there is no easy point of corruption. Being difficult to corrupt is a primary feature.).
 support(13585, 13541).
 
-arg(13934).
-text(13934,  OK so I take it that my rephrasing was accurate. Regulations that  prevent workers spending their savings on other productive activities without consulting the State sounds really unfair to me. It would also stifle a lot of innovation at the cost of enforcing it. So community losing on both ends.).
-att(13934, root).
-
-arg(14535).
-text(14535, Socialism/Marx. derails the conversation downtowards class arrangements. It can't consider the will of the people, rather it desecrates the thought of previous thinkers by insisting labor is superior to productive labor for property. You just stated how money is useful as a mean of exchange.).
-support(14535, root).
-
-arg(13248).
-text(13248, The welfare state is self-perpetuating: By undermining productive social norms and misallocating resources, welfare creates a need for even greater assistance in the future. U.S. taxpayers have spent over $22 trillion on anti-poverty programs, yet progress against poverty has been minimal.).
-att(13248, root).
-
 arg(14004).
 text(14004, Propaganda to bring the public's attention away from troubling issues would not exist in socialism.).
 att(14004, 13797).
-
-arg(14053).
-text(14053, Capitalism is information-exothermic while Socialism is information-endothermic, what I mean by this is that Capitalism unearths the true price information for everyone of each component in the economy - Socialism is the mandated destruction of this information, which leads to inefficiency and loss.).
-att(14053, root).
 
 arg(14557).
 text(14557, My source indicates that what is considered to be impoverished is not held to the same standard as before the government began actively addressing poverty, and despite this poverty rates have remained steady while spending has increased.).
@@ -413,17 +372,9 @@ arg(13775).
 text(13775, Capitalism does not require that a good or service fulfill a reasonable need. Often times, goods that serve little to no reasonable purpose find their way to the market. Such goods and services are an inefficient allocation of resources. Ex. The French Fry Holder (among countless others).).
 att(13775, 13249).
 
-arg(13539).
-text(13539, No, no - that's not at all what is meant by capital accumulation. See the source included below.).
-att(13539, 13522).
-
 arg(13519).
 text(13519, How is distribution separate from exchange, other than perception? The needs of society are arbitrary in comparison to the desire of individuals and their ability to pursue them. ).
 att(13519, 13389).
-
-arg(13399).
-text(13399, Taking $5 a day as a realistic poverty line, bringing the poorest two-thirds of the population to this level using economic growth alone would require the current global GDP to grow 175 times its present size and the average per capita income to be $1.3m.).
-att(13399, 13266).
 
 arg(13574).
 text(13574, The working class are hit the hardest by currency dilution fraud because dilution raises prices of food etc. And working wages always rise slower than the dilution rate. People can protect their  wages by saving bitcoin. Bitcoin uses transparent crypto math to ensure no dilution fraud is possible.).
@@ -437,21 +388,25 @@ arg(15162).
 text(15162, Socialism is not defined as a "welfare state" ).
 att(15162, 13248).
 
+arg(13934).
+text(13934,  OK so I take it that my rephrasing was accurate. Regulations that  prevent workers spending their savings on other productive activities without consulting the State sounds really unfair to me. It would also stifle a lot of innovation at the cost of enforcing it. So community losing on both ends.).
+att(13934, 13864).
+
+arg(14535).
+text(14535, Socialism/Marx. derails the conversation downtowards class arrangements. It can't consider the will of the people, rather it desecrates the thought of previous thinkers by insisting labor is superior to productive labor for property. You just stated how money is useful as a mean of exchange.).
+support(14535, 13784).
+
+arg(13248).
+text(13248, The welfare state is self-perpetuating: By undermining productive social norms and misallocating resources, welfare creates a need for even greater assistance in the future. U.S. taxpayers have spent over $22 trillion on anti-poverty programs, yet progress against poverty has been minimal.).
+att(13248, root).
+
+arg(13399).
+text(13399, Taking $5 a day as a realistic poverty line, bringing the poorest two-thirds of the population to this level using economic growth alone would require the current global GDP to grow 175 times its present size and the average per capita income to be $1.3m.).
+att(13399, 13266).
+
 arg(15163).
 text(15163, That assumes wages go up for all workers rather than just chief executives, which is not necessarily the case.).
 support(15163, 13266).
-
-arg(15279).
-text(15279, How do you know?).
-att(15279, 14014).
-
-arg(15292).
-text(15292, Socialism as practiced in declaratively socialist countries (Warshaw pact countries, the USSR) did meet needs as long as they were bread, water and rudimentary lodgings. 
-
-However, it is contended that the USSR was on verge of hunger/bankrupcy when it collapsed.
-
-Depends level of "basic needs".).
-att(15292, root).
 
 arg(15337).
 text(15337, ...full employment, guaranteed pensions, paid maternity leave, limits on working hours, free healthcare and education (including higher education), subsidized vacations, inexpensive housing, low-cost childcare, subsidized public transportation...).
@@ -493,27 +448,116 @@ arg(15511).
 text(15511, Thanks for the history. You should write a book about your life in the USSR. I'm not sure how much of you is influenced by reading others, but it seems you have a grasp on it and I like the way you give insights. Good English, won't need translation.).
 support(15511, 15508).
 
-arg(15515).
-text(15515, I think the topic of slavery and American colonialism deserves its own premise page, as I don't think it is productive to discuss in context until assumptions about capitalism and the definition of free markets are evaluated. I disagree that greed and injustice have somehow disappeared since then.).
-att(15515, 15105).
-
 arg(15636).
 text(15636, Thank you. I have sometimes thought of that, but have always wondered, if there would be any readers.).
 support(15636, 15511).
 
-arg(13864).
-text(13864, You've got the gist, but there are a few things.).
-att(13864, 13793).
-
-arg(13784).
-text(13784, Propertylessness has never existed in a class society. The two concepts are mutually contradictory. The definition of socialism isn't "where most stuff is public", and the difference between capitalism and socialism runs at a much more fundamental level than binary comparisons.).
-att(13784, 13577).
+arg(15103).
+text(15103, You claim that "one side needs to have more control in the form of ownership for wealth to be meaningful". This is a loaded claim that requires an example or some form of evidence. It is also unclear what you mean by the terms "control in the form of ownership" and "meaningful".).
+att(15103, 14560).
 
 arg(13787).
 text(13787, Full, shortened explanation of what is meant by "capital" in the source. If you have any objection to the original premise, with a more full understanding of the context of the term, I'm interested to hear it.).
 att(13787, 13522).
 
+arg(13784).
+text(13784, Propertylessness has never existed in a class society. The two concepts are mutually contradictory. The definition of socialism isn't "where most stuff is public", and the difference between capitalism and socialism runs at a much more fundamental level than binary comparisons.).
+att(13784, 13577).
+
+arg(17774).
+text(17774, Not sure, which definition of "direct democracy" you use, but I can't see any society in which corruption would be in principle impossible. 
+
+Wherever there are people distributing access to something, and wealth exists in general, there is a risk of corruption.
+
+The only exclusion might be ).
+att(17774, 13772).
+
+arg(18199).
+text(18199, Because of the multiple arguments listed below it.).
+support(18199, 15279).
+
+arg(15515).
+text(15515, I think the topic of slavery and American colonialism deserves its own premise page, as I don't think it is productive to discuss in context until assumptions about capitalism and the definition of free markets are evaluated. I disagree that greed and injustice have somehow disappeared since then.).
+att(15515, 15105).
+
+arg(18200).
+text(18200, This is because private accumulation through profiting off the labour of others is impossible, and because currency is non-transferable.).
+support(18200, 14018).
+
+arg(18201).
+text(18201, What was meant by the above premise was that, to put it simply, a capitalist had the choice of either selling food at a lower price in Country A with most of the population starving, or to Country B where higher profits could be expected, but people had less need of it, they would choose Country B.).
+att(18201, 14057).
+
+arg(13864).
+text(13864, You've got the gist, but there are a few things.).
+att(13864, 13793).
+
 arg(13796).
 text(13796, Corruption is easy in any system as long as there are concentrations of power. To prevent corruption a system must include (1) distribution of power (2) randomness. Any system without these qualities will be easily corruptible. ).
 support(13796, 13772).
+
+arg(13537).
+text(13537, That's right, but who do the governments of impoverished countries typically stand by: multinational corporations, or small-scale rural farmers? ).
+att(13537, 13511).
+
+arg(13771).
+text(13771, Marxism is an analysis and critique of capitalism (and a philosophy), not a socioeconomic system in itself. Sentence one is bollocks, sentence two is bollocks, sentence three isn't a real argument, and sentence four is a complete non sequitur. Below, a video series explaining the law of value.).
+att(13771, 13746).
+
+arg(18237).
+text(18237, "Socialism" could mean any number of very different things, from Roosevelt's New Deal to Stalinism, and from hippy communes to German social democracy.).
+att(18237, root).
+
+arg(17913).
+text(17913, The US poverty rate decline has never been as fast as it was just prior to the beginning of socialist programs and the war on poverty, which promptly resulted in a plateau of the poverty rate.).
+att(17913, root).
+
+arg(13266).
+text(13266, Economic growth is generally belived to be the best way to eradicate poverty, therefore the debate should focus on which of these two system produces bigger growth. However, it has been noticed that due to inequalities, the share of lowest deciles of society in GDO growth is declining. ).
+att(13266, root).
+
+arg(14053).
+text(14053, Capitalism is information-exothermic while Socialism is information-endothermic, what I mean by this is that Capitalism unearths the true price information for everyone of each component in the economy - Socialism is the mandated destruction of this information, which leads to inefficiency and loss.).
+att(14053, root).
+
+arg(18330).
+text(18330, Price information is EXACTLY at the heart of the debate of Capitalism versus Socialism. The computation of price information is the reason Capitalism succeeds and reduces Poverty. Communism/Socialism is a mandated destruction of price information in some local or larger area of the economy.).
+att(18330, 15102).
+
+arg(15105).
+text(15105, The "class struggle" was not regulated prior to the American Civil War. This lack of regulation resulted in slavery being a legal practice in the United States. Without strict oversight, the greed of some individuals has no end, resulting in widespread exploitation and injustice.).
+support(15105, 15104).
+
+arg(13397).
+text(13397, Bourgeois control of the state? Private property? Commodity production?  Production for exchange rather than use?
+Wage labour? Class struggle? Appropriation of surplus value? We're not talking about welfare states, we're talking about Marxist socialism, of which you seem to know very little about.).
+att(13397, 13305).
+
+arg(13541).
+text(13541, Could you explain, in simple, easy to understand terms, how and why cryptocurrency would reduce poverty and meet human needs more effectively than socialism? I won't mind if you write the explanation in multiple parts, the 250-character limit is ridiculous.).
+support(13541, 13527).
+
+arg(13769).
+text(13769, Welfare does not necessarily undermine productive social norms, nor does welfare necessarily undermine the misallocation of resources (did you mean to say that welfare is a misallocation of resources?). Also, your conclusion that the welfare state is self perpetuating is not supported by evidence.).
+att(13769, 13248).
+
+arg(14005).
+text(14005, The media in socialism does not serve the interests of an elite, but instead serves to inform the working class, in its own interest - by virtue of its democratic ownership.).
+support(14005, 14004).
+
+arg(15292).
+text(15292, Socialism as practiced in declaratively socialist countries (Warshaw pact countries, the USSR) did meet needs as long as they were bread, water and rudimentary lodgings. 
+
+However, it is contended that the USSR was on verge of hunger/bankrupcy when it collapsed.
+
+Depends level of "basic needs".).
+att(15292, root).
+
+arg(13746).
+text(13746, Marxism relies on valuing everything by the labour put into it. Capitalism by what people are willing to pay for something. In a socialist society, there is no incentive for efficiency or automation. Those in poverty today are much better off than those in poverty before the flour mill was invented.).
+att(13746, root).
+
+arg(14055).
+text(14055, Business owners do not pay the workers - the consumers pay the workers, the business owner is trying to sell the labor of the worker to these consumers - no amount of socialism can make consumers want to buy the labor of the worker who is STILL inefficient or provides no economic value.).
+att(14055, root).
 

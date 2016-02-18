@@ -1,55 +1,47 @@
 arg(root).
 text(root, Time is not linear.).
 
-arg(15250).
-text(15250, That's irrelevant, because two observers still don't agree on order of events, even if they're separated by only a meter.).
-att(15250, root).
-
-arg(7572).
-text(7572, I decided it when I create the World.).
-support(7572, root).
-
-arg(8752).
-text(8752, It would take more energy than is available in the universe to move backwards by one-trillionth of a second via this entropy displacement method).
-att(8752, root).
-
 arg(7435).
 text(7435, Because of General Relativity.
 
 /thread).
 support(7435, root).
 
-arg(8765).
-text(8765, Time is only a system of measuring and comparing, devised by mankind.    Change occurs and we use time as a means of understanding that change but it is change we are observing.  ).
-att(8765, root).
+arg(16459).
+text(16459, ).
+support(16459, root).
+
+arg(7572).
+text(7572, I decided it when I create the World.).
+support(7572, root).
+
+arg(16636).
+text(16636, I wish... 8 hours til finals.).
+att(16636, 16459).
+
+arg(16430).
+text(16430, Those event happen by the use of energy on the system. In order to raise that energy you must raise the entropy somewhere else and the total balance of entropy would be positive. Therefore, decreasing the entropy of the universe is not possible.).
+att(16430, 8677).
+
+arg(15250).
+text(15250, That's irrelevant, because two observers still don't agree on order of events, even if they're separated by only a meter.).
+att(15250, 9906).
+
+arg(8752).
+text(8752, It would take more energy than is available in the universe to move backwards by one-trillionth of a second via this entropy displacement method).
+att(8752, 8677).
 
 arg(8771).
 text(8771, If there is a causal link between your decision to create the world and the creation of the world, and your decision to create occurred prior to the world's creation, then you have admitted that time is linear.).
 att(8771, 7572).
 
-arg(8664).
-text(8664, It is possible to imagine a few scenarios in which time is non-linear. For example, an object could be removed from the present and reappear in the future, or occupy another universe for a duration while simultaneously leaving and returning to a single moment in this universe.  ).
-support(8664, root).
-
-arg(8673).
-text(8673, Backwards time travel is not possible as you would be creating matter, antimatter, particles, etc. or energy at one point in time while destroying it in the other.).
-att(8673, root).
-
 arg(8675).
 text(8675, This assumes that alternate universes exist which is unprovable and untestable, and time travel creatses energy or matter at one point in time, while destroying it in another.).
 att(8675, 8664).
 
-arg(8677).
-text(8677, Many things do not happen naturally, such as electronics. Humans can decrease entropy such as in centrifuges.).
-att(8677, root).
-
 arg(9958).
 text(9958, Time is not a human conception. Time itself can be altered in certain contexts such as near bodies with great gravitational pull and when approaching the speed of light. This can be objectively measure and it's been proven it's not human perception being fooled. ).
 att(9958, 8765).
-
-arg(6915).
-text(6915, Time is our perception of entropy working in one direction, increasing. Time moving backwards would imply entropy is decreasing, and this does not happen naturally).
-att(6915, root).
 
 arg(9906).
 text(9906, Time remains linear within a given point of reference. ).
@@ -58,4 +50,24 @@ att(9906, 7435).
 arg(10553).
 text(10553, Usually, but as always, size matters.).
 att(10553, 8673).
+
+arg(6915).
+text(6915, Time is our perception of entropy working in one direction, increasing. Time moving backwards would imply entropy is decreasing, and this does not happen naturally).
+att(6915, root).
+
+arg(8677).
+text(8677, Many things do not happen naturally, such as electronics. Humans can decrease entropy such as in centrifuges.).
+att(8677, 6915).
+
+arg(8765).
+text(8765, Time is only a system of measuring and comparing, devised by mankind.    Change occurs and we use time as a means of understanding that change but it is change we are observing.  ).
+att(8765, root).
+
+arg(8664).
+text(8664, It is possible to imagine a few scenarios in which time is non-linear. For example, an object could be removed from the present and reappear in the future, or occupy another universe for a duration while simultaneously leaving and returning to a single moment in this universe.  ).
+support(8664, root).
+
+arg(8673).
+text(8673, Backwards time travel is not possible as you would be creating matter, antimatter, particles, etc. or energy at one point in time while destroying it in the other.).
+att(8673, root).
 

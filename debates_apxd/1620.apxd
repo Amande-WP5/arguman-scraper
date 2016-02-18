@@ -1,21 +1,6 @@
 arg(root).
 text(root, There is nothing wrong with being gay. It is seen all throughout the animal kingdom. Being trans though, that is seen only in humans. Therefore, it is not natural, but self imposed.).
 
-arg(15704).
-text(15704, Being homosexual has nothing to do with what gender you feel you are.
-A trans-woman (post operation) who is sexually attracted to women used to be a heterosexual male and "became" a homosexual female.).
-att(15704, root).
-
-arg(9204).
-text(9204, They do it through natural means).
-att(9204, root).
-
-arg(9031).
-text(9031, Some would say that something natural cannot be wrong, because that means nature itself is wrong.
-However, murder is natural and still considered to be wrong.
-As such, being natural does not equal being morally good.).
-support(9031, root).
-
 arg(14720).
 text(14720, All things that are possible are inherently natural, because they have occurred in the natural world. Whether humans were the first to do so or not is irrelevant. This is an appeal to nature fallacy.).
 att(14720, 9204).
@@ -28,21 +13,19 @@ text(14757, The definition (according to google) of natural is:
 This isn't an appeal to nature fallacy as the term is used in the very question we're discussing. Also in the context stated humans are clearly exempt from nature.).
 att(14757, 14720).
 
+arg(9204).
+text(9204, They do it through natural means).
+att(9204, 8886).
+
+arg(9031).
+text(9031, Some would say that something natural cannot be wrong, because that means nature itself is wrong.
+However, murder is natural and still considered to be wrong.
+As such, being natural does not equal being morally good.).
+support(9031, 8857).
+
 arg(14762).
 text(14762, The argument hinges on the idea that something that is not natural is somehow not as good. An appeal to nature fallacy is "an argument or rhetorical tactic in which it is proposed that "a thing is good because it is 'natural', or bad because it is 'unnatural'."  Which is why this is a fallacy.).
 att(14762, 14757).
-
-arg(8857).
-text(8857, Why does it matter if something is considered natural?).
-att(8857, root).
-
-arg(8886).
-text(8886, Many species of animals have been documented to be able to change sex.).
-att(8886, root).
-
-arg(9298).
-text(9298, Being gay does not cause harm to anyone.).
-support(9298, root).
 
 arg(14763).
 text(14763, You're making an assumption, no one here has said natural is good and unnatural is bad. The question simply states whether being trans is self-imposed or not.
@@ -63,6 +46,27 @@ arg(14766).
 text(14766, You're correct, my mistake. I would argue (same opinion as you I believe) that the  question is incorrect in its assumption that something being natural makes it good or bad).
 support(14766, 14764).
 
+arg(14816).
+text(14816, You're right on that. I removed that fallacy from your statement. It wasn't truly you that proposed it. Cheers.).
+support(14816, 14766).
+
+arg(15704).
+text(15704, Being homosexual has nothing to do with what gender you feel you are.
+A trans-woman (post operation) who is sexually attracted to women used to be a heterosexual male and "became" a homosexual female.).
+att(15704, root).
+
+arg(8857).
+text(8857, Why does it matter if something is considered natural?).
+att(8857, root).
+
+arg(8886).
+text(8886, Many species of animals have been documented to be able to change sex.).
+att(8886, root).
+
+arg(9298).
+text(9298, Being gay does not cause harm to anyone.).
+support(9298, root).
+
 arg(14767).
 text(14767, Gender dysphoria is a very real and diagnosable disorder, therefore it occurs "naturally" and is not socially imposed. It doesn't matter if it only is detected in humans, it doesn't make it wrong. Source below.).
 att(14767, root).
@@ -70,8 +74,4 @@ att(14767, root).
 arg(14776).
 text(14776, Why could animals not feel in similar ways? We cannot ask them how they feel on the matter, so for all we know it's common. The only real difference is that we (and several species of fish) have the ability to act on it.).
 att(14776, root).
-
-arg(14816).
-text(14816, You're right on that. I removed that fallacy from your statement. It wasn't truly you that proposed it. Cheers.).
-support(14816, 14766).
 

@@ -1,7 +1,25 @@
 arg(root).
 text(root, Censorship is immoral).
 
+arg(18927).
+text(18927, People cannot be free to make good choices if they are prevented from knowing all their options. (By the same token, scamming, lying, etc are immoral.)).
+support(18927, root).
+
 arg(12914).
 text(12914, People often equate editorial discretion in private mediums as censorship akin to that found in totalitarian dictatorships. There is a difference.).
 att(12914, root).
+
+arg(19067).
+text(19067, The ACLU defines censorship as : "the suppression of words, images, or ideas that are "offensive," happens whenever some people succeed in imposing their personal political or moral values on others. Censorship can be carried out by the government as well as private pressure groups." ).
+att(19067, 12914).
+
+arg(19508).
+text(19508, it goes against freedom of speech
+
+and it stops people from being able to judge and make their own decisions about things
+
+and it can alienate people by hiding anyone who shares a similar view to them
+
+all these things are abuse of a person, so it is immoral).
+support(19508, root).
 

@@ -9,13 +9,13 @@ arg(8690).
 text(8690, blah blah blah).
 support(8690, root).
 
-arg(8691).
-text(8691, blah blah).
-support(8691, 8690).
-
 arg(8692).
 text(8692, blah blah).
 support(8692, root).
+
+arg(8691).
+text(8691, blah blah).
+support(8691, 8690).
 
 arg(8705).
 text(8705, abul abul).

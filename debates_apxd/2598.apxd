@@ -1,0 +1,74 @@
+arg(root).
+text(root, We should teach rationatily at school).
+
+arg(18057).
+text(18057, We already do. All quantifiable sciences (math, physics, chemistry, biology etc.) teach fundamental logics which need to me rationalized. All the other subjects teach rationality too.).
+att(18057, root).
+
+arg(17933).
+text(17933, It is a very important skill to a good working society.).
+support(17933, root).
+
+arg(17934).
+text(17934, We need it to create a real democracy.).
+support(17934, 17933).
+
+arg(18456).
+text(18456, Boolean logic and logical fallacies would be a good start.).
+support(18456, 18078).
+
+arg(18170).
+text(18170, It is dependent of the cost-benefit analysis.
+Most human have the well-being of others as a terminal value, then the cost-benefit analysis will usually include society as a whole.).
+att(18170, 18144).
+
+arg(17962).
+text(17962, Most people aren’t).
+support(17962, root).
+
+arg(18113).
+text(18113, We can teach second order logic. (i mean not just in scientific studies)).
+support(18113, 18112).
+
+arg(18114).
+text(18114, We can teach the scientific method.).
+support(18114, 18112).
+
+arg(18112).
+text(18112, We can teach the known efficient tools to get and manipulate knowledge.).
+support(18112, 18107).
+
+arg(18109).
+text(18109, We can teach the known cognitive bias, and the known ways to moderate them.).
+support(18109, 18107).
+
+arg(18111).
+text(18111, We can teach the different epistemological philosophies.).
+support(18111, 18107).
+
+arg(18108).
+text(18108, We can teach the known and frequent fallacies, and train children to find them in arguments.).
+support(18108, 18107).
+
+arg(18107).
+text(18107, I will just give some ideas, it would need experimentations, experts in rationality, and educators to build good courses.).
+support(18107, 18078).
+
+arg(18078).
+text(18078, How would a course on rationality look like?).
+att(18078, 18064).
+
+arg(18064).
+text(18064, In the same way all quantifiable sciences will teach you to read and to write, but it is not specifically intended to do that.
+
+If we have courses with the specific goal to teach rationality, we can do much more.).
+att(18064, 18057).
+
+arg(17932).
+text(17932, It is a very important skill to have for the individual.).
+support(17932, root).
+
+arg(18144).
+text(18144, Teaching rationality lessons at school may encourage normative behaviours that are ultimately detrimental to society as a whole - if we get kids to habitually perform cost-benefit analyses etc. then "irrational" but socially-beneficial behaviours will take less precedence.).
+att(18144, root).
+

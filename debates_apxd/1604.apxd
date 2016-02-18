@@ -5,11 +5,11 @@ arg(10044).
 text(10044, There is no evidence of such event.).
 att(10044, root).
 
-arg(9047).
-text(9047, And because mother told be that gum will get stuck in your stomach if you swallow it.).
-support(9047, root).
-
 arg(8659).
 text(8659, History channel told me so.).
 support(8659, root).
+
+arg(9047).
+text(9047, And because mother told be that gum will get stuck in your stomach if you swallow it.).
+support(9047, 8659).
 

@@ -1,6 +1,18 @@
 arg(root).
 text(root, Life has no meaning).
 
+arg(11264).
+text(11264, It seems that, for no apparent reason, it seems worth living.).
+att(11264, root).
+
+arg(11287).
+text(11287, The perceivable quality of something "being alive" is not the subject of particle physics; only particle trajectories are treated. This implies that the meaning of life is not contingent on particle trajectories.).
+att(11287, 11283).
+
+arg(11283).
+text(11283, Life is "just" particle physics.).
+support(11283, root).
+
 arg(10857).
 text(10857, Just because it has no inherent meaning outside of our biological imperative, it can be argued that free will lets us make our own meaning to our own existence.).
 att(10857, root).
@@ -8,16 +20,4 @@ att(10857, root).
 arg(10889).
 text(10889, It might have a meaning we're unaware of yet.).
 att(10889, root).
-
-arg(11264).
-text(11264, It seems that, for no apparent reason, it seems worth living.).
-att(11264, root).
-
-arg(11283).
-text(11283, Life is "just" particle physics.).
-support(11283, root).
-
-arg(11287).
-text(11287, The perceivable quality of something "being alive" is not the subject of particle physics; only particle trajectories are treated. This implies that the meaning of life is not contingent on particle trajectories.).
-att(11287, 11283).
 

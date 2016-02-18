@@ -1,11 +1,11 @@
 arg(root).
 text(root, Psychedelic drugs expand the mind and heighten brain function).
 
-arg(10829).
-text(10829, Psychedelics have been used ritualistically for thousands of years in different cultures and have arguably been a catalyst to the development of human brain function, making us capable of higher level thinking and self awareness).
-support(10829, root).
-
 arg(10859).
 text(10859, Conditioning of the modern brains shuts out many impressions and automates our thinking. Psychedelic drugs can help us access those parts of our consciousness that store "lost" impressions and help us grow new ideas. ).
 support(10859, root).
+
+arg(10829).
+text(10829, Psychedelics have been used ritualistically for thousands of years in different cultures and have arguably been a catalyst to the development of human brain function, making us capable of higher level thinking and self awareness).
+support(10829, root).
 

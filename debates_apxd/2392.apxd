@@ -1,25 +1,25 @@
 arg(root).
 text(root, Unit testing won’t help you write good code.).
 
+arg(15990).
+text(15990, "The only reason to have Unit tests is to make sure that code that already works doesn’t break. Writing tests first, or writing code to the tests is ridiculous. If you write to the tests before the code, you won’t even know what the edge cases are").
+support(15990, root).
+
 arg(16027).
 text(16027, It is true for the edge cases, but it doesn’t have to be all or nothing.
 Writing a "ok" set of tests first, doesn’t forbid you to add some tests when you know better.).
-att(16027, root).
+att(16027, 15990).
 
 arg(16026).
 text(16026, It is more pleasant to write code when the tests are already wrote.).
-att(16026, root).
+att(16026, 15990).
 
 arg(16025).
 text(16025, If you write code first, you will have less incentive to write the tests.).
-att(16025, root).
+att(16025, 15990).
 
 arg(16023).
 text(16023, By writing the tests first, you create the interface and use it before implementing it.
 Which could give you some better grasp to what you want to implement.).
-att(16023, root).
-
-arg(15990).
-text(15990, "The only reason to have Unit tests is to make sure that code that already works doesn’t break. Writing tests first, or writing code to the tests is ridiculous. If you write to the tests before the code, you won’t even know what the edge cases are").
-support(15990, root).
+att(16023, 15990).
 

@@ -1,14 +1,6 @@
 arg(root).
 text(root, The only things you can really know are you exist and that you know that you don't know anything beside this).
 
-arg(12295).
-text(12295, Cogito ergo sum.
-
-If I'm a part of a simulation I exist as part of this simulation.
-Same to the thought and the undiscovered thing.
-).
-support(12295, root).
-
 arg(12294).
 text(12294, How can you know that you exist? That you're not 
 a) a product of someone elses thought? b) a computersimulation in a world totally different than ours?
@@ -23,4 +15,12 @@ Prop 3: I know that I know that I do not know anything other than Proposition 1 
 
 Prop 3 follows from and contradicts Prop 2.  ).
 att(12338, root).
+
+arg(12295).
+text(12295, Cogito ergo sum.
+
+If I'm a part of a simulation I exist as part of this simulation.
+Same to the thought and the undiscovered thing.
+).
+support(12295, 12294).
 

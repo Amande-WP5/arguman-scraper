@@ -1,11 +1,11 @@
 arg(root).
 text(root, By characterizing by action and mannerisms and not the physical composition of each item, are sloths boats?   ).
 
-arg(13251).
-text(13251, Sloths don't propel themselves through water in the same way that boats do).
-att(13251, root).
-
 arg(13184).
 text(13184, Sloths move very slowly on land, and move much quicker in water, therefor they are boats, but boats are not sloths because boats can't climb trees.).
 support(13184, root).
+
+arg(13251).
+text(13251, Sloths don't propel themselves through water in the same way that boats do).
+att(13251, 13184).
 

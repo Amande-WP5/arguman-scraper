@@ -5,26 +5,6 @@ arg(15962).
 text(15962, If Christians can say Yahweh exists, Muslims can say Allah exists, Hindus can say Vishnu exists etc. etc., then people sure as hell claim a Flying Spaghetti Monster exists.).
 support(15962, root).
 
-arg(15842).
-text(15842, That means you have to require factual evidence to deem any "faith" a religion; which basically eliminates all religions from consideration as soon as any one tenet is proven as highly unlikely to be true (which is easy for any religion).).
-att(15842, root).
-
-arg(15311).
-text(15311, That's why it should be considered just like all the other religions out there.).
-att(15311, root).
-
-arg(13621).
-text(13621, You can not deny that something is less real just because you believe it is not. You can however believe in something because you have faith in it. ).
-support(13621, root).
-
-arg(14202).
-text(14202, What constitutes proof? Proof requires an advocate and a skeptic to reach agreement, that is all proof is (in the material sciences). Two parties might never agree not because either is wrong in an absolute sense, but because they do not share initial axioms.).
-att(14202, root).
-
-arg(13984).
-text(13984, It was purposefully created to mock religion.).
-att(13984, root).
-
 arg(14203).
 text(14203, For example one may be a philosophical materialist the other a dualist. Such a two are unlikely to reach agreement on many questions simply because of this difference. Neither materialism or dualism are however deemed true or false by any "proof".).
 support(14203, 14202).
@@ -36,4 +16,55 @@ att(14196, 13984).
 arg(14198).
 text(14198, I'd personally require some rational basis for considering it (a spaghetti base creature that can fly) true and I currently have no such basis.).
 att(14198, 13621).
+
+arg(13621).
+text(13621, You can not deny that something is less real just because you believe it is not. You can however believe in something because you have faith in it. ).
+support(13621, root).
+
+arg(13984).
+text(13984, It was purposefully created to mock religion.).
+att(13984, root).
+
+arg(15842).
+text(15842, That means you have to require factual evidence to deem any "faith" a religion; which basically eliminates all religions from consideration as soon as any one tenet is proven as highly unlikely to be true (which is easy for any religion).).
+att(15842, 14198).
+
+arg(15311).
+text(15311, That's why it should be considered just like all the other religions out there.).
+att(15311, 14198).
+
+arg(14202).
+text(14202, What constitutes proof? Proof requires an advocate and a skeptic to reach agreement, that is all proof is (in the material sciences). Two parties might never agree not because either is wrong in an absolute sense, but because they do not share initial axioms.).
+att(14202, 14196).
+
+arg(18236).
+text(18236, Why would any religion be "respected", though? And what is "respect"? What is "legitimate"? The contention relies on undefined and very vague terms.).
+att(18236, root).
+
+arg(19229).
+text(19229, Adherents of FSM claim that the religion is genuine. In reality, the only entity that portrays FSM as a gaff religion is the media.).
+att(19229, 19221).
+
+arg(19221).
+text(19221, The purpose of the FSM is to show it's stupid to believe in things with no evidence. Believing in a an actual FSM goes against the point of the analogy.
+).
+att(19221, 19220).
+
+arg(19220).
+text(19220, Who is to say that certain followers of FSM do or do not believe in the faith?).
+att(19220, 19219).
+
+arg(19219).
+text(19219, People don't really believe a flying spaghetti monster is real but people do believe their gods are real. They only pretend to believe to show how stupid religion is.
+
+Beliefs shouldn't grant extra rights.).
+att(19219, root).
+
+arg(19178).
+text(19178, Many pious people (i.e. Muslims, Jews, etc.) demand respect and acknowledgement for their religion. It would therefore be extremely hypocritical for those same people to deny respect to any other faith, including Pastafarianism.).
+support(19178, root).
+
+arg(19558).
+text(19558, It doesn't fulfil reasonable definitions of faith (see source for a related examination).).
+support(19558, root).
 

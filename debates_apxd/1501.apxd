@@ -1,31 +1,75 @@
 arg(root).
 text(root, Property is theft.).
 
+arg(8043).
+text(8043, Property is only theft, because you may inherit it to your children. If your property ceased to exist the moment you die it would be ok. Right now you may own something you never worked for. Poverty/wealth are determined mainly by birth. Its like the divine right of kings. Not justifiable.).
+att(8043, root).
+
+arg(18235).
+text(18235, Theft however presuposes property: there can be no theft of something that is not property. Ergo, the contention is self-contradictory.).
+att(18235, root).
+
+arg(18130).
+text(18130, All private property used for personal gain arises from involuntary dispossession, i.e the Enclosure Act and dispossession of Native American land.).
+support(18130, root).
+
+arg(18129).
+text(18129, Property is in essence the violent theft of others of the use of an object.).
+support(18129, root).
+
+arg(18541).
+text(18541, Comparing the ownership of private property to one's autonomy over one's body is extremely disingenuous. An argument made from a false analogy like this is not an argument worth addressing.).
+att(18541, 18325).
+
+arg(18325).
+text(18325, You own yourself. ).
+att(18325, 18323).
+
+arg(18326).
+text(18326, Violence is defined as the use of physical force that is damaging to a person or a thing. ).
+att(18326, 18323).
+
+arg(18323).
+text(18323, What is "legitimate ownership"? What determines if something is legitimate? This is self-referential and meaningless. And why isn't it a violent act?).
+att(18323, 18282).
+
+arg(18282).
+text(18282, Use of property by an individual who legitimately owns it is not a violent act. ).
+att(18282, 18129).
+
+arg(18204).
+text(18204, It is untrue that private property is unnatural. It can easily be observed that groups of animals form groups and familial relationships, which they use to obtain resources. To declare property as theft would require the enforcement of property concepts, which as you have indicated is unnecessary.  ).
+att(18204, 18131).
+
+arg(17939).
+text(17939, Staking claim to someone else's land (and killing them) is generally an action done by collectivized authoritarian force (ie government), not one individual to another. It is possible for peaceful property arrangements to exist.).
+att(17939, 8184).
+
+arg(17940).
+text(17940, Then the argument should be "Tangible property is theft" or "Land Ownership is Theft" (both still absurd arguments)).
+att(17940, 8167).
+
 arg(8101).
 text(8101, It should have been made clear by the OP that the argument that Property is Theft typically excludes the products of labour, and mainly refers to land ownership. Here, in very many of cases, it holds that if you go back far enough in history, most inhabited land was stolen from someone.).
-att(8101, root).
+att(8101, 8082).
 
 arg(8154).
 text(8154, Society publishes visual information primarily for those who can see. This biological inequity permeates into social inequality.
 
 However, the state of affairs are repairable, which brings us back to the initial argument, property is not theft as long as the possibility of another owning it exists).
-att(8154, root).
+att(8154, 8094).
 
-arg(8044).
-text(8044, But theft of what?  If I grow corn in a pot, it is my property, it has used sunlight, rain and CO2, I suppose you could say that the CO2, rain, and sunlight are property of humanity, and by converting them into my corn I stole the rain, CO2 and sunlight from everyone, but who was going to use it?).
-att(8044, root).
+arg(18307).
+text(18307, By that logic I can go to a beaver's dam and systematically take all of his sticks - and it is morally justified? I can take all the sticks a beaver is using for his future or present family and dump them on a rival beavers dam. Under your OA this is the height of morality, impeccable behavior.).
+att(18307, root).
 
-arg(8047).
-text(8047, I own the labor of my hands, why can I not use that labor to produce something which I would then own?).
-att(8047, root).
+arg(18131).
+text(18131, Private property is an aspect of a social formation which is not natural, involving the appropriation of the commons for private use. Humans have lived for hundreds of thousand of years without the enforcement of the modern concept of property.).
+support(18131, root).
 
-arg(7548).
-text(7548, The creation and subsequent ownership of Intellectual Property is not theft.).
-att(7548, root).
-
-arg(8073).
-text(8073, Property is the origin of all social unequalities.).
-support(8073, root).
+arg(8236).
+text(8236, "Theft" presumes that property was wrongfully acquired in the first place, hence nothing can ever be stolen if all ownership is wrongful to begin with. This would mean nature is always immoral.).
+att(8236, root).
 
 arg(8082).
 text(8082, The CO2, Water, and Soil have gotten a greater value now that you can eat it. The addition of value to the constituent materials is the by-product of man's labour. That labour is brought into being by the man's will and thus he will decide whether he wishes to eat it or trade it with you for wheat.).
@@ -45,11 +89,7 @@ att(8160, 8101).
 
 arg(8263).
 text(8263, This assumes that property can not be transferred. You assume that only wealth is inherited while ignoring that traits & skills are inherited. There is no reason property should disappear after death. All forms of charity would also be unjustifiable, since the beneficiary didn't work for it.).
-att(8263, root).
-
-arg(7614).
-text(7614, Property can be transferred - You could buy something at a store and that item's ownership has been legally transferred to you. Ergo, it isn't theft.).
-att(7614, root).
+att(8263, 8043).
 
 arg(8167).
 text(8167, Intellectual property is significantly different from the ownership of tangibles, and needs to be addressed separately to avoid absurd conclusions. Merely labeling something "property" shouldn't permit someone to shoehorn it into this debate.).
@@ -67,17 +107,29 @@ arg(8094).
 text(8094, These are not social unequalities, rather, biological unequalities.).
 att(8094, 8088).
 
+arg(8044).
+text(8044, But theft of what?  If I grow corn in a pot, it is my property, it has used sunlight, rain and CO2, I suppose you could say that the CO2, rain, and sunlight are property of humanity, and by converting them into my corn I stole the rain, CO2 and sunlight from everyone, but who was going to use it?).
+att(8044, 7533).
+
+arg(8047).
+text(8047, I own the labor of my hands, why can I not use that labor to produce something which I would then own?).
+att(8047, 7533).
+
+arg(7548).
+text(7548, The creation and subsequent ownership of Intellectual Property is not theft.).
+att(7548, root).
+
+arg(8073).
+text(8073, Property is the origin of all social unequalities.).
+support(8073, root).
+
+arg(7614).
+text(7614, Property can be transferred - You could buy something at a store and that item's ownership has been legally transferred to you. Ergo, it isn't theft.).
+att(7614, root).
+
 arg(7533).
 text(7533, Tracing the right of property back to its source, one infallibly arrives at usurpation. However, theft is only punished because it violates the right of property; but this right is itself nothing in origin but theft.).
 support(7533, root).
-
-arg(8236).
-text(8236, "Theft" presumes that property was wrongfully acquired in the first place, hence nothing can ever be stolen if all ownership is wrongful to begin with. This would mean nature is always immoral.).
-att(8236, root).
-
-arg(8043).
-text(8043, Property is only theft, because you may inherit it to your children. If your property ceased to exist the moment you die it would be ok. Right now you may own something you never worked for. Poverty/wealth are determined mainly by birth. Its like the divine right of kings. Not justifiable.).
-att(8043, root).
 
 arg(8342).
 text(8342, "'theft' as a forcible violation of property presupposes the existence of property.").

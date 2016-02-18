@@ -1,0 +1,52 @@
+arg(root).
+text(root, Edison is secretly a jerk).
+
+arg(250).
+text(250, If Edison hadn’t deemed one of Tesla’s most crucial radio wave-based innovations to be “impractical” back during World War I– when he first proposed plans for such–countless lives could have been saved for having the advantage of being able to detect enemy submarines. Of course it would be actualized until decades later. But just to think of what damage Edison’s ego-driven meddling has cost time and again is infuriating.).
+support(250, root).
+
+arg(252).
+text(252, He conducted commercial practices  in late 19th century to 20th century. Edison's enduring legacy isn't a specific patent or technology, but his invention factories, which divided the innovation process into small tasks that were carried out by legions of workers. ).
+att(252, root).
+
+arg(268).
+text(268, These commercial practices would force him into making a decision that he wouldn't subsequently have taken if he had been given another choice.).
+att(268, 252).
+
+arg(260).
+text(260, People had already seen some form of electric light before; the last great Paris exposition in 1878. 
+
+).
+support(260, 246).
+
+arg(243).
+text(243, And the most common mistake made by public is the invention of electric wasn't Edison's, he was the one who distribute this technology in mundane life and stabilize the use of electric light 
+by holding 1,093 US patents in his name, as well as many patents in the United Kingdom, France, and Germany.
+).
+att(243, 234).
+
+arg(267).
+text(267, He was really good at marketing. ).
+att(267, 263).
+
+arg(246).
+text(246, before his public demonstration at Menlo park, Europeans did most of the early scientific researches in electrical fields, but he took all the credits ).
+support(246, root).
+
+arg(5461).
+text(5461, Caused animal killings, while trying to prove Tesla's alternative current technology is fatal).
+support(5461, root).
+
+arg(263).
+text(263, 
+Edison was working off another great innovator’s findings, and tinkering until he produced something that could make a buck or two.His best work was other innovators' work).
+support(263, root).
+
+arg(5524).
+text(5524, It is not a secret.).
+att(5524, root).
+
+arg(234).
+text(234, When we think about the invention of electric and its distribution, people think Edison as an independent hero in the invention of the electric light while sidelining other prolific scientists like Nikolai Tesla and Michael Faraday who held major roles in the development and distribution of the new technology).
+support(234, root).
+

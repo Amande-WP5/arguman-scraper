@@ -13,13 +13,17 @@ arg(9917).
 text(9917, Churches in wealthier neighborhoods would most likely forgo the tax-exempt status. They could afford it.).
 att(9917, 9916).
 
-arg(9919).
-text(9919, The tax-exempt decision should be made by a collective voting from the current church-goers at the particular establishment.).
-att(9919, root).
-
 arg(9920).
 text(9920, Government provided amenities could also be provided at lower rates to assist with keeping costs down to tax-exempt churches.).
 att(9920, 9915).
+
+arg(9901).
+text(9901, The act of providing special treatment to religious institutions with tax-exempt status is already a breach of Church/State separation.).
+att(9901, 9899).
+
+arg(9919).
+text(9919, The tax-exempt decision should be made by a collective voting from the current church-goers at the particular establishment.).
+att(9919, root).
 
 arg(9921).
 text(9921, It will be difficult to monitor whether or not a tax-exempt church is actually providing these services.).
@@ -37,10 +41,6 @@ att(10018, root).
 arg(9899).
 text(9899, Separation of Church/State would prohibit such actions.).
 att(9899, root).
-
-arg(9901).
-text(9901, The act of providing special treatment to religious institutions with tax-exempt status is already a breach of Church/State separation.).
-att(9901, 9899).
 
 arg(9937).
 text(9937, A housing of homeless could cause criminal problems on holy ground. (arguments/fighting/stealing)).

@@ -1,37 +1,21 @@
 arg(root).
 text(root, The word of someone can't be considered as a proof.).
 
-arg(10062).
-text(10062, Trusting someone does not necessarily prove anything. Someone that you trust could still lie to you. ).
-att(10062, root).
-
-arg(9980).
-text(9980, This is a perfect example of why it's important to give a person's word credence; to consider a person's word to be worthless is to invite near-total lawlessness in private.).
-att(9980, root).
-
 arg(9943).
 text(9943, It can though be complementary to evidence.).
 att(9943, root).
 
+arg(9980).
+text(9980, This is a perfect example of why it's important to give a person's word credence; to consider a person's word to be worthless is to invite near-total lawlessness in private.).
+att(9980, 9961).
+
 arg(9945).
 text(9945, What if the body language of a person is read and it reveals that the person isn't lying?).
-att(9945, root).
-
-arg(9862).
-text(9862, Human memory is often unreliable and easily persuaded or edited by outside factors that could contradict proof.).
-support(9862, root).
-
-arg(10633).
-text(10633, The real life psychologist Paul Ekman is an expert at this. He may not be foolproof but he can be accurate.).
-att(10633, root).
+att(9945, 9859).
 
 arg(11007).
 text(11007, Body language readers have no reliably accurate tests of a person's true state of mind.).
 att(11007, 9945).
-
-arg(10623).
-text(10623, Lie to Me was a good show, but hardly seems like the basis for a scientific argument.).
-att(10623, root).
 
 arg(9960).
 text(9960, We don't have a foolproof lie detector. The ones most often used are at least as bad as flipping a coin.).
@@ -41,21 +25,9 @@ arg(9961).
 text(9961, If it has no merit on its own, why would it have merit if it supported something?).
 att(9961, 9943).
 
-arg(9971).
-text(9971, You have to give someone's word a certain amount of trust, otherwise the world wouldn't function as it does).
-att(9971, root).
-
-arg(10029).
-text(10029, The validity of someones word is not possible to guarantee, and is one of the fundamental flaws of modern law.).
-support(10029, root).
-
 arg(10428).
 text(10428, The use of a lie detector is different than reading someone's body language or gleaning information from their micro-expressions. Though this is still not fool-proof, it may prove to have a higher accuracy rating.).
 att(10428, 9960).
-
-arg(9973).
-text(9973, This conclusion creates the opportunity for anyone to do anything they want to anyone else without repercussion, as long as the perpetrator is not recorded in the process.).
-att(9973, root).
 
 arg(10036).
 text(10036, Trust is based on previous data on the person it's applied to.
@@ -68,15 +40,43 @@ arg(10037).
 text(10037, This is why we trust people to not do crime, because it is very easy to get away with as long as there is no recorded evidence against you. The opportunity to do crime is always there, we just trust people to not harm eachother.).
 att(10037, 9973).
 
-arg(9859).
-text(9859, Human have the ability to lie and it is impossible to tell if someone is lying or not without other evidences).
-support(9859, root).
-
 arg(10169).
 text(10169, Because when interviewing multiple people, and the stories start to match and not match up, You can get a better idea of what's going on. All data is useful, so it doesn't have a ton of merit, but it has a little bit.).
 support(10169, 9961).
 
+arg(10062).
+text(10062, Trusting someone does not necessarily prove anything. Someone that you trust could still lie to you. ).
+att(10062, 9971).
+
+arg(10633).
+text(10633, The real life psychologist Paul Ekman is an expert at this. He may not be foolproof but he can be accurate.).
+att(10633, 10623).
+
+arg(10623).
+text(10623, Lie to Me was a good show, but hardly seems like the basis for a scientific argument.).
+att(10623, 10428).
+
+arg(9973).
+text(9973, This conclusion creates the opportunity for anyone to do anything they want to anyone else without repercussion, as long as the perpetrator is not recorded in the process.).
+att(9973, root).
+
+arg(9859).
+text(9859, Human have the ability to lie and it is impossible to tell if someone is lying or not without other evidences).
+support(9859, root).
+
 arg(11055).
 text(11055, Nothing can be considered "proof" of anything, just evidence of varying strength.).
 support(11055, root).
+
+arg(9862).
+text(9862, Human memory is often unreliable and easily persuaded or edited by outside factors that could contradict proof.).
+support(9862, root).
+
+arg(9971).
+text(9971, You have to give someone's word a certain amount of trust, otherwise the world wouldn't function as it does).
+att(9971, root).
+
+arg(10029).
+text(10029, The validity of someones word is not possible to guarantee, and is one of the fundamental flaws of modern law.).
+support(10029, root).
 

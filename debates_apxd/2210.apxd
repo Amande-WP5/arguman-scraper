@@ -1,51 +1,248 @@
 arg(root).
 text(root, The Holocaust didn't happen).
 
-arg(14782).
-text(14782, It most definitely did though.).
-att(14782, root).
+arg(15575).
+text(15575, Those are not comparable. The question was the truthfulness of Irving's claims. They were either true or false. Prevailing ideas don't matter in this case. ).
+att(15575, 15564).
+
+arg(15564).
+text(15564, Court rulings don't settle such matters. One could easily plea to avoid a harsh charge even if not guilty. And of course the courts judge by the prevailing ideas of their time (a court would sentence a slave for trying to break free pre-civil war for example).).
+att(15564, 15554).
+
+arg(15563).
+text(15563, Germany wasn't the first or only. Spaniards and anglos killed millions of native americans, USA had millions of blacks as slaves, UK, Belgium France etc. killed million in colonies. Add USSR, China's purges, Japan's China massacres and 250.000 civilians evaporating in Hiroshima/Nagashaki.).
+att(15563, 14744).
+
+arg(15559).
+text(15559, I am much more concerned about how people become emotional about this, and hate each others because they are unable to agree.
+Or how people think it should change important things if it was true or false.
+Because these things are current, not things of the past.).
+support(15559, 15558).
+
+arg(15558).
+text(15558, Yes, but i already take this into account.
+I believe it, in the same way i believe it will rain tomorrow.
+My main point is that it change nothing about how we should act, and then i don’t give too much a fuck about if it is true or false.
+Especially when i have no way to really know.).
+att(15558, 15550).
+
+arg(15555).
+text(15555, A couple of people lying to make money with a fabricated story doesn't seem enough to disprove the vast amount of evidence there is. Just like there have been people laying about having cancer, just to profit from their stories. That doesn't mean cancer doesn't exist.).
+att(15555, 15549).
+
+arg(15557).
+text(15557, I concede that sometime i am not very clear.).
+att(15557, 15545).
+
+arg(15554).
+text(15554, Nope. Ad hominem would be: "He's a racist anti-semite, therefore, his opinion is not valid." But I also said that it was proven in court that he forged and bent the truth about the Holocaust. That's the part that makes me question his credibility. ).
+att(15554, 15551).
+
+arg(15550).
+text(15550, There are huge social repercussions for doing so which distorts the information you receive.).
+att(15550, 14737).
+
+arg(15549).
+text(15549, One of the most prominent first sources on the Holocaust, Herman Rosenblat, has been caught lying and said about his entire story of the Holocaust: I did not lie, it was real in my mind (while admitting that what he said is completely untrue) [1][2]).
+support(15549, 15548).
+
+arg(15548).
+text(15548, Elie Wiesel has been pointed out by a former Camp inmate as not who he claims he was (the inmate's best friend). [1]).
+support(15548, 15547).
+
+arg(15547).
+text(15547, I was interested in psychology and on detecting liars - I then afterwards tangentially heard accounts from Holocaust survivors and detected lying. I read Ellie Wiesel's book, which strained credibility. He claims a dump-truck full of Jewish babies were emptied into a fire. As admitted fiction: [1]. ).
+att(15547, 15540).
+
+arg(15546).
+text(15546, The difference is that viewing a painting - you know that what you're seeing is possibly not accurate - but with a photograph it sways your mind to assume what you are seeing exactly took place. Those photographs need a prominent disclaimer 'We have edited in extra elements to these photos').
+att(15546, 15537).
+
+arg(15545).
+text(15545, You are right, I'm making mistakes arguing my point because I feel quite defensive and 'on the back foot' worried about what the reaction will be a bit, though it seems like I shouldn't be as you're doing the argument justice. I'll try to argue each parent point more specifically.).
+att(15545, 15494).
+
+arg(15541).
+text(15541, Isn't David Irving the known racist anti-semite, associated with radical right wing groups, who's work was proven in court to have been falsified in order to serve his political agenda?).
+att(15541, 15474).
+
+arg(15540).
+text(15540, I'm just really confused at about your thought process... Did you look at a vast number of tales, pictures and accounts claiming the Holocaust happened and went "Wait... This doesn't add up. I don't believe the Holocaust happened!"?).
+att(15540, 15481).
+
+arg(15537).
+text(15537, "There are not doctored images about Napoleon or his battles at Waterloo.". There are paintings. How much more doctored can you get? But I assume you believe that happened?).
+att(15537, 15477).
+
+arg(15494).
+text(15494, I don’t think you are bad, or stupid, or anything, just because you believe what you believe.
+But try to be honest with yourself, you can’t know that the holocaust didn’t happen, you have too few data for it, in the same way i have too few data to be certain of it.
+Look at your own beliefs.).
+att(15494, 15493).
+
+arg(15493).
+text(15493, I am not saying it is good that people blame others because they don’t believe in a particular historical thing, nor that the holocaust happened or not.
+I only think your reasoning is imprecise, which is a actual problem. (unlike the holocaust, which is a thing of the past, true or not.)).
+att(15493, 15475).
+
+arg(15492).
+text(15492, I don’t said, and i don’t think, my examples have the same level of certainty than the holocaust (i evidently took examples with a bigger level of certainty).
+You could find all the differences you want, it doesn’t invalidate my premise, which is only a counter example of the parent premise.).
+att(15492, 15475).
+
+arg(15483).
+text(15483, In this way the sum total appears more impressive than it should be. One first hand account, impossible to verify, spawns many hundreds of Historian's careers and works as though that expands history. If the root of the tree is invalid then the entire tree is, no matter how dense and gigantic it is.).
+support(15483, 15482).
+
+arg(15482).
+text(15482, Only a fair balancing of sources can reach a fair and accurate appraisal of the Holocaust story's historicity - In that video are far more first hand concentration camp witnesses than the entire Holocaust movement have found for the other side. Despite this historians quote each other in circles.).
+att(15482, 15478).
+
+arg(15481).
+text(15481, There is no evidence of 6 million or close to that missing European Jews. It is an antifragile belief system because evidence is not predicted even by proponents to exist - the dead & missing cannot talk. Israel's existence hinges on the belief in the historicity of the Holocaust. Stakes are high.).
+att(15481, 15480).
+
+arg(15480).
+text(15480, Of course everyone knows about the mirror platforms left at Apollo landing sites - anybody can verify using a powerful laser the presence and setup of these devices. Slavery has a verifiable record of displaced people: the presence of black africans in America, their numbers. ).
+support(15480, 15479).
+
+arg(15479).
+text(15479, Evidence has to be verifiable. If the Apollo missions had clear doctored images a la: [1], I would be forced to downgrade my confidence in it's factual historicity. I have a Masters in Physics & Maths - so I understand how the Apollo Project was completed, no. of images is staggering, unlike Holo.).
+att(15479, 15054).
+
+arg(15478).
+text(15478, The vast number of first hand witnesses in the first video is a staggering amount of evidence - people using their real names, all verifiable, who have their lives worsened just by speaking out against the Holocaust narrative. These are first hand accounts. Holocaust history repeats the same sources).
+att(15478, 15053).
+
+arg(15477).
+text(15477, We have a duty to be skeptical especially when doctored images: [1] were used to influence public perception at the time.
+
+Many believe the Holocaust story despite ready proof of doctoring and falsification of history. There are not doctored images about Napoleon or his battles at Waterloo.).
+att(15477, 15112).
+
+arg(15054).
+text(15054, Again, what do you consider evidence?  I'm dying to know your take on the moon landing. And slavery, as well.
+Also (and feel free to not answer this question, if you don't want to), are you a white guy?).
+att(15054, 14981).
+
+arg(14870).
+text(14870, Totally not a logical argument but instead an emotional response. And I agree the hell out of it.).
+att(14870, 14815).
+
+arg(14658).
+text(14658, I tend to trust the historians who have actually studied World War II. They put in the time, and they say it happened, so I accept that it happened. But I can't pretend that I did the work to gain that knowledge myself - other people did that, and my acceptance of it depends on them.).
+att(14658, 14657).
+
+arg(14659).
+text(14659, If you don't trust the establishment, whether that be the government, or historians, or the mainstream media, then it's very easy to doubt the work that they have done, since almost nobody has actually examined the evidence themselves. ).
+att(14659, 14658).
+
+arg(14660).
+text(14660, This holds true for almost all historical events. If I don't trust historians to tell the truth, then why should I believe that the  Holocaust was anything other than a propaganda piece? All the evidence that says it happened is sourced from somebody I don't trust.).
+att(14660, 14659).
+
+arg(14661).
+text(14661, I'm not going to back to WWII in Nazi Germany to check.
+This is why people disbelieve historical events - they don't trust the people who are the sole providers of evidence, and they are not able to put in the years of work to actually accumulate the evidence themselves.).
+att(14661, 14660).
+
+arg(14742).
+text(14742, Occam's razor alone leads us to conclude that the Jews lied about the Holocaust for the immense rewards they extracted subsequently. Otherwise you have to assume the existence of 6 million unevidenced deaths in a systematic fashion. Jewish propaganda versus Germany vilifying itself purposefully?).
+att(14742, 14661).
+
+arg(14739).
+text(14739, There are also a lot of confirmation bias and wishful thinkings.).
+att(14739, 14661).
+
+arg(14671).
+text(14671, Holocaust 'evidence' is littered with recanted stories - people who argued for many many years that they were subjugated in the Holocaust - but then shown to have lied. Of those that remain (Elie Wiesel) - a fellow camp friend of the real Elie Wiesel from Auschwicz says he lies and is not him.).
+support(14671, 14670).
+
+arg(14673).
+text(14673, The Allied war propaganda department was run by Jews - not natives - Winston Churchill was far more at the behest of the Jews Victor Rothschild and Bernard Baruch than the people of his own nation. The Jews got their justification for the theft of Palestine and creation of Israel using this lie.).
+support(14673, 14672).
+
+arg(15474).
+text(15474, How much of the holocaust historian's work is original research? When I looked into it it was apparent history is laundered by filtering very few pieces of evidence through many many willing historians - David Irving is the only notable original researcher. How do you account for these photos?: [1]).
+att(15474, 15235).
+
+arg(15473).
+text(15473, All relevant photos were staged.
+I've known about these shady staged photos for years:
+http://imgur.com/a/9xUdU
+How did these possibly come about if there wasn't an underhanded propaganda campaign designed to warp public perceptions? It's so ripe & easy to get people to believe the Holocaust.).
+att(15473, 15276).
+
+arg(14670).
+text(14670, The Holocaust was not known about nor was there any evidence for it right up until the final weeks of WWII even by supporter's views.
+
+On top of this even they admit knowledge of the Holocaust and filling in of blanks didn't happen until the 70's when the Eichmann trials and media blitz took place).
+support(14670, root).
+
+arg(15235).
+text(15235, Personally, I believe it because my mother is a holocaust historian. She has tens of books on the subject, filled with personal accounts, records, and photos. Furthermore, I've been to sites where it happened. I've been to Auschwitz and Dachau; walked the foundations. I've stood in gas chambers.).
+att(15235, 14656).
+
+arg(14905).
+text(14905, How do you square your hatred of analyzing the Jewish supposed holocaust of 6 million (a figure that was thrown around pre 1900 to represent 'all Jews') - with the far greater genocide of 110 million Africans in the slave trade, when 85%+ of documented slave traders were Jewish? 90% died on ships.).
+att(14905, 14870).
+
+arg(14815).
+text(14815, This is one of the worst things about this board...it's full of utterly shite people, if he even holds these views at all. If he does, I literally wouldn't care if he died. Scum.).
+support(14815, 14782).
 
 arg(14868).
 text(14868, Final Solution to the Jewish Question).
 att(14868, root).
 
-arg(14671).
-text(14671, Holocaust 'evidence' is littered with recanted stories - people who argued for many many years that they were subjugated in the Holocaust - but then shown to have lied. Of those that remain (Elie Wiesel) - a fellow camp friend of the real Elie Wiesel from Auschwicz says he lies and is not him.).
-support(14671, root).
+arg(14738).
+text(14738, The holocaust nor the absence of holocaust can justify any particular policies.
+I already know people could become awful without knowing about the holocaust.
+Then it doesn't matter if i believe it happened and it didn’t, or i believe it didn't happen and it did.).
+att(14738, 14656).
+
+arg(15120).
+text(15120, You are using a very loose definition of what is a religion.
+Having everyone you know tell you that you are wrong, doesn’t mean you have more chance to be right nor that it is a religion thing.
+You could get a similar effect by questioning "1+1=2" or the theory of evolution.).
+att(15120, 14982).
+
+arg(14657).
+text(14657, Have you examined huge numbers of written accounts, and analyzed their accuracy, spent years studying forensics, collecting the evidence you need to make a conclusion.  Gained enough knowledge to critically examine work of people who claim to have done those things?).
+att(14657, 14656).
 
 arg(14672).
 text(14672, Hollywood and organized Jewry sprung into action to fabricate slanderous calumnus claims against the German people in order to poison the well against white pride, convert white people into pliable guilt-servants and cement themselves as people above criticism or the normal rules of life.).
 support(14672, root).
-
-arg(15050).
-text(15050, Well, you made that assumption. The argument was about the Holocaust, And whether it happened or not. I asked you if you thought those events were related and you declined. So they become irrelevant to the discussion.).
-att(15050, root).
 
 arg(14656).
 text(14656, Have you considered why you believe that the Holocaust happened?
 Think about it. You believe that it happened because people you trust told you it did. You believe that there is a huge amount of evidence because those same people that you trust told you that there is.).
 att(14656, root).
 
-arg(14673).
-text(14673, The Allied war propaganda department was run by Jews - not natives - Winston Churchill was far more at the behest of the Jews Victor Rothschild and Bernard Baruch than the people of his own nation. The Jews got their justification for the theft of Palestine and creation of Israel using this lie.).
-support(14673, 14672).
+arg(15050).
+text(15050, Well, you made that assumption. The argument was about the Holocaust, And whether it happened or not. I asked you if you thought those events were related and you declined. So they become irrelevant to the discussion.).
+att(15050, 14978).
+
+arg(15276).
+text(15276, Pics or it didn't happen. There are thousands of photographs. From both "sides". It's foolish to think that many photos were staged. ).
+att(15276, root).
 
 arg(15052).
 text(15052, You seem to be trying to deminish these reactions by comparing them to religion. But anyway... By saying that, is it safe to assume that you personally, only used knowlege you attained by your own discoveries an trials?).
-att(15052, root).
+att(15052, 14980).
 
 arg(15053).
 text(15053, You assume those videos are true, because they say they are. It's like the Christian Middle ages, see?).
-att(15053, root).
+att(15053, 14981).
 
-arg(15054).
-text(15054, Again, what do you consider evidence?  I'm dying to know your take on the moon landing. And slavery, as well.
-Also (and feel free to not answer this question, if you don't want to), are you a white guy?).
-att(15054, root).
+arg(14744).
+text(14744, Do you really believe that Germany would vilify itself amongst the nations for all time by engaging in a planned genocide through an assembly line of death? They would be the pariahs for all history. It is absurd. It reads like bad fiction - because it was, it was written to shock and be calumnious.).
+support(14744, root).
 
 arg(14906).
 text(14906, in horrific sardine-packed conditions. 90% were written off as 'spoilage' accepted to die enroute. Newport, the slave trade hub, was called 'The Jewish Newport slave trade center'. Jews ran the agencies on the ground in Africa which plied tribes with Whiskey and alcohol to sell their children.).
-support(14906, root).
+support(14906, 14905).
 
 arg(14737).
 text(14737, It is also because no or very few people i trust say it didn’t.).
@@ -53,24 +250,11 @@ att(14737, 14656).
 
 arg(14745).
 text(14745, In addition we have no foundational evidence to support such a narrative - the theorized evidence shrinks further with every investigation and uncovering ('it must have taken place at the other camps then') - all we have is an argument from authority from our Jewish masters telling us it is evident.).
-support(14745, root).
+support(14745, 14744).
 
 arg(14947).
 text(14947, That doesn't seem to have anything to do with the original argument. Are you saying that they had that (the Holocaust) coming to them? Or they deserved it?).
 att(14947, 14906).
-
-arg(15112).
-text(15112, Seriously, how many things do we believe to be true without researching it ourselves? WW1, WW2, Cold War, basically anything in history. Stating that many easily believe the holocaust is true doesn't change the fact the the holocaust most definitely happened and 6 million jews died.).
-att(15112, root).
-
-arg(15119).
-text(15119, Please try to follow the reasoning.
-What you said isn’t a counter argument to what i said, i am just stating a personal fact related to the parent premise.).
-att(15119, root).
-
-arg(15127).
-text(15127, ever heard of the phrase "history is written by the victors"? it just to make the enemy seem like the bad guys. if the axis won the war then everyone would think that the allies did some sort of holocaust ).
-support(15127, root).
 
 arg(14978).
 text(14978, No-one deserves genocide. No living Jew deserves scorn for the slave trade. What I am illustrating is that you have a visceral defensive reaction against the Holocaust as though 6 million Jews are more important than 110 million africans, or the 85-100 million non-Jews under Communist genocide.).
@@ -92,109 +276,17 @@ arg(14982).
 text(14982, Holocaust belief is analogous to middle age Christianity. You would be heretical for questioning God's existence back then and you would also have everyone you know tell you that God exists. It is a religion, one that has gone unclassified. It is used to extract tithes (Israel) and reverence. ).
 att(14982, 14737).
 
-arg(14670).
-text(14670, The Holocaust was not known about nor was there any evidence for it right up until the final weeks of WWII even by supporter's views.
+arg(15574).
+text(15574, Your claim that David Irving is the only notable original researcher is unfounded, and your reference (a few doctored photos) is nonsense.  There are museums and books full of photos, firsthand accounts, and survivor testimonies; the writings of one denier are not sufficient evidence of anything.).
+att(15574, 15474).
 
-On top of this even they admit knowledge of the Holocaust and filling in of blanks didn't happen until the 70's when the Eichmann trials and media blitz took place).
-support(14670, root).
+arg(15562).
+text(15562, You don't need to restrict yourself to knowledge by experience/trial to avoid religion. You could also just read accounts of others whose results are based on the scientific method. In fact that's what most scientists do, they don't verify everything and anything they know personally. ).
+att(15562, 15052).
 
-arg(14739).
-text(14739, There are also a lot of confirmation bias and wishful thinkings.).
-att(14739, root).
-
-arg(14742).
-text(14742, Occam's razor alone leads us to conclude that the Jews lied about the Holocaust for the immense rewards they extracted subsequently. Otherwise you have to assume the existence of 6 million unevidenced deaths in a systematic fashion. Jewish propaganda versus Germany vilifying itself purposefully?).
-att(14742, root).
-
-arg(14661).
-text(14661, I'm not going to back to WWII in Nazi Germany to check.
-This is why people disbelieve historical events - they don't trust the people who are the sole providers of evidence, and they are not able to put in the years of work to actually accumulate the evidence themselves.).
-att(14661, root).
-
-arg(14660).
-text(14660, This holds true for almost all historical events. If I don't trust historians to tell the truth, then why should I believe that the  Holocaust was anything other than a propaganda piece? All the evidence that says it happened is sourced from somebody I don't trust.).
-att(14660, root).
-
-arg(14659).
-text(14659, If you don't trust the establishment, whether that be the government, or historians, or the mainstream media, then it's very easy to doubt the work that they have done, since almost nobody has actually examined the evidence themselves. ).
-att(14659, root).
-
-arg(14658).
-text(14658, I tend to trust the historians who have actually studied World War II. They put in the time, and they say it happened, so I accept that it happened. But I can't pretend that I did the work to gain that knowledge myself - other people did that, and my acceptance of it depends on them.).
-att(14658, root).
-
-arg(14657).
-text(14657, Have you examined huge numbers of written accounts, and analyzed their accuracy, spent years studying forensics, collecting the evidence you need to make a conclusion.  Gained enough knowledge to critically examine work of people who claim to have done those things?).
-att(14657, 14656).
-
-arg(15120).
-text(15120, You are using a very loose definition of what is a religion.
-Having everyone you know tell you that you are wrong, doesn’t mean you have more chance to be right nor that it is a religion thing.
-You could get a similar effect by questioning "1+1=2" or the theory of evolution.).
-att(15120, 14982).
-
-arg(14738).
-text(14738, The holocaust nor the absence of holocaust can justify any particular policies.
-I already know people could become awful without knowing about the holocaust.
-Then it doesn't matter if i believe it happened and it didn’t, or i believe it didn't happen and it did.).
-att(14738, 14656).
-
-arg(14744).
-text(14744, Do you really believe that Germany would vilify itself amongst the nations for all time by engaging in a planned genocide through an assembly line of death? They would be the pariahs for all history. It is absurd. It reads like bad fiction - because it was, it was written to shock and be calumnious.).
-support(14744, root).
-
-arg(14870).
-text(14870, Totally not a logical argument but instead an emotional response. And I agree the hell out of it.).
-att(14870, root).
-
-arg(14815).
-text(14815, This is one of the worst things about this board...it's full of utterly shite people, if he even holds these views at all. If he does, I literally wouldn't care if he died. Scum.).
-support(14815, 14782).
-
-arg(14905).
-text(14905, How do you square your hatred of analyzing the Jewish supposed holocaust of 6 million (a figure that was thrown around pre 1900 to represent 'all Jews') - with the far greater genocide of 110 million Africans in the slave trade, when 85%+ of documented slave traders were Jewish? 90% died on ships.).
-att(14905, 14870).
-
-arg(15235).
-text(15235, Personally, I believe it because my mother is a holocaust historian. She has tens of books on the subject, filled with personal accounts, records, and photos. Furthermore, I've been to sites where it happened. I've been to Auschwitz and Dachau; walked the foundations. I've stood in gas chambers.).
-att(15235, 14656).
-
-arg(15276).
-text(15276, Pics or it didn't happen. There are thousands of photographs. From both "sides". It's foolish to think that many photos were staged. ).
-att(15276, root).
-
-arg(15545).
-text(15545, You are right, I'm making mistakes arguing my point because I feel quite defensive and 'on the back foot' worried about what the reaction will be a bit, though it seems like I shouldn't be as you're doing the argument justice. I'll try to argue each parent point more specifically.).
-att(15545, root).
-
-arg(15479).
-text(15479, Evidence has to be verifiable. If the Apollo missions had clear doctored images a la: [1], I would be forced to downgrade my confidence in it's factual historicity. I have a Masters in Physics & Maths - so I understand how the Apollo Project was completed, no. of images is staggering, unlike Holo.).
-att(15479, 15054).
-
-arg(15475).
-text(15475, Both the propositions 1+1=2 and species arise through evolution by natural are independently verifiable by a completely decentralized process - the Holocaust is not independently verifiable and edicts come down in a centralized fashion which you cannot probe, criticize or test. ie doctored images[1]).
-att(15475, 15120).
-
-arg(15482).
-text(15482, Only a fair balancing of sources can reach a fair and accurate appraisal of the Holocaust story's historicity - In that video are far more first hand concentration camp witnesses than the entire Holocaust movement have found for the other side. Despite this historians quote each other in circles.).
-att(15482, root).
-
-arg(15481).
-text(15481, There is no evidence of 6 million or close to that missing European Jews. It is an antifragile belief system because evidence is not predicted even by proponents to exist - the dead & missing cannot talk. Israel's existence hinges on the belief in the historicity of the Holocaust. Stakes are high.).
-att(15481, root).
-
-arg(15473).
-text(15473, All relevant photos were staged.
-I've known about these shady staged photos for years:
-http://imgur.com/a/9xUdU
-How did these possibly come about if there wasn't an underhanded propaganda campaign designed to warp public perceptions? It's so ripe & easy to get people to believe the Holocaust.).
-att(15473, 15276).
-
-arg(15477).
-text(15477, We have a duty to be skeptical especially when doctored images: [1] were used to influence public perception at the time.
-
-Many believe the Holocaust story despite ready proof of doctoring and falsification of history. There are not doctored images about Napoleon or his battles at Waterloo.).
-att(15477, 15112).
+arg(15551).
+text(15551, That is tautological, because to question the Holocaust narrative you are automatically a known racist anti-semite. I think it should be possible to question it without being racist. Your point is an Ad hominem more than anything. Importantly he found far more original sources than other historians.).
+att(15551, 15541).
 
 arg(15476).
 text(15476, Those who we are referring to engaged in doctored images: [1]
@@ -202,116 +294,24 @@ text(15476, Those who we are referring to engaged in doctored images: [1]
 They have earned our distrust and our disrespect. How on earth did these images get used if there wasn't a large propaganda effort at the time to dictate public perceptions spuriously?).
 att(15476, 14661).
 
-arg(15474).
-text(15474, How much of the holocaust historian's work is original research? When I looked into it it was apparent history is laundered by filtering very few pieces of evidence through many many willing historians - David Irving is the only notable original researcher. How do you account for these photos?: [1]).
-att(15474, 15235).
+arg(15475).
+text(15475, Both the propositions 1+1=2 and species arise through evolution by natural are independently verifiable by a completely decentralized process - the Holocaust is not independently verifiable and edicts come down in a centralized fashion which you cannot probe, criticize or test. ie doctored images[1]).
+att(15475, 15120).
 
-arg(15478).
-text(15478, The vast number of first hand witnesses in the first video is a staggering amount of evidence - people using their real names, all verifiable, who have their lives worsened just by speaking out against the Holocaust narrative. These are first hand accounts. Holocaust history repeats the same sources).
-att(15478, 15053).
+arg(15112).
+text(15112, Seriously, how many things do we believe to be true without researching it ourselves? WW1, WW2, Cold War, basically anything in history. Stating that many easily believe the holocaust is true doesn't change the fact the the holocaust most definitely happened and 6 million jews died.).
+att(15112, 14981).
 
-arg(15480).
-text(15480, Of course everyone knows about the mirror platforms left at Apollo landing sites - anybody can verify using a powerful laser the presence and setup of these devices. Slavery has a verifiable record of displaced people: the presence of black africans in America, their numbers. ).
-support(15480, 15479).
+arg(15119).
+text(15119, Please try to follow the reasoning.
+What you said isn’t a counter argument to what i said, i am just stating a personal fact related to the parent premise.).
+att(15119, 14982).
 
-arg(15483).
-text(15483, In this way the sum total appears more impressive than it should be. One first hand account, impossible to verify, spawns many hundreds of Historian's careers and works as though that expands history. If the root of the tree is invalid then the entire tree is, no matter how dense and gigantic it is.).
-support(15483, 15482).
+arg(15127).
+text(15127, ever heard of the phrase "history is written by the victors"? it just to make the enemy seem like the bad guys. if the axis won the war then everyone would think that the allies did some sort of holocaust ).
+support(15127, root).
 
-arg(15494).
-text(15494, I don’t think you are bad, or stupid, or anything, just because you believe what you believe.
-But try to be honest with yourself, you can’t know that the holocaust didn’t happen, you have too few data for it, in the same way i have too few data to be certain of it.
-Look at your own beliefs.).
-att(15494, root).
-
-arg(15492).
-text(15492, I don’t said, and i don’t think, my examples have the same level of certainty than the holocaust (i evidently took examples with a bigger level of certainty).
-You could find all the differences you want, it doesn’t invalidate my premise, which is only a counter example of the parent premise.).
-att(15492, 15475).
-
-arg(15546).
-text(15546, The difference is that viewing a painting - you know that what you're seeing is possibly not accurate - but with a photograph it sways your mind to assume what you are seeing exactly took place. Those photographs need a prominent disclaimer 'We have edited in extra elements to these photos').
-att(15546, root).
-
-arg(15493).
-text(15493, I am not saying it is good that people blame others because they don’t believe in a particular historical thing, nor that the holocaust happened or not.
-I only think your reasoning is imprecise, which is a actual problem. (unlike the holocaust, which is a thing of the past, true or not.)).
-att(15493, 15475).
-
-arg(15554).
-text(15554, Nope. Ad hominem would be: "He's a racist anti-semite, therefore, his opinion is not valid." But I also said that it was proven in court that he forged and bent the truth about the Holocaust. That's the part that makes me question his credibility. ).
-att(15554, root).
-
-arg(15537).
-text(15537, "There are not doctored images about Napoleon or his battles at Waterloo.". There are paintings. How much more doctored can you get? But I assume you believe that happened?).
-att(15537, 15477).
-
-arg(15547).
-text(15547, I was interested in psychology and on detecting liars - I then afterwards tangentially heard accounts from Holocaust survivors and detected lying. I read Ellie Wiesel's book, which strained credibility. He claims a dump-truck full of Jewish babies were emptied into a fire. As admitted fiction: [1]. ).
-att(15547, root).
-
-arg(15562).
-text(15562, You don't need to restrict yourself to knowledge by experience/trial to avoid religion. You could also just read accounts of others whose results are based on the scientific method. In fact that's what most scientists do, they don't verify everything and anything they know personally. ).
-att(15562, 15052).
-
-arg(15563).
-text(15563, Germany wasn't the first or only. Spaniards and anglos killed millions of native americans, USA had millions of blacks as slaves, UK, Belgium France etc. killed million in colonies. Add USSR, China's purges, Japan's China massacres and 250.000 civilians evaporating in Hiroshima/Nagashaki.).
-att(15563, 14744).
-
-arg(15548).
-text(15548, Elie Wiesel has been pointed out by a former Camp inmate as not who he claims he was (the inmate's best friend). [1]).
-support(15548, 15547).
-
-arg(15549).
-text(15549, One of the most prominent first sources on the Holocaust, Herman Rosenblat, has been caught lying and said about his entire story of the Holocaust: I did not lie, it was real in my mind (while admitting that what he said is completely untrue) [1][2]).
-support(15549, 15548).
-
-arg(15540).
-text(15540, I'm just really confused at about your thought process... Did you look at a vast number of tales, pictures and accounts claiming the Holocaust happened and went "Wait... This doesn't add up. I don't believe the Holocaust happened!"?).
-att(15540, 15481).
-
-arg(15564).
-text(15564, Court rulings don't settle such matters. One could easily plea to avoid a harsh charge even if not guilty. And of course the courts judge by the prevailing ideas of their time (a court would sentence a slave for trying to break free pre-civil war for example).).
-att(15564, 15554).
-
-arg(15555).
-text(15555, A couple of people lying to make money with a fabricated story doesn't seem enough to disprove the vast amount of evidence there is. Just like there have been people laying about having cancer, just to profit from their stories. That doesn't mean cancer doesn't exist.).
-att(15555, 15549).
-
-arg(15550).
-text(15550, There are huge social repercussions for doing so which distorts the information you receive.).
-att(15550, 14737).
-
-arg(15541).
-text(15541, Isn't David Irving the known racist anti-semite, associated with radical right wing groups, who's work was proven in court to have been falsified in order to serve his political agenda?).
-att(15541, 15474).
-
-arg(15558).
-text(15558, Yes, but i already take this into account.
-I believe it, in the same way i believe it will rain tomorrow.
-My main point is that it change nothing about how we should act, and then i don’t give too much a fuck about if it is true or false.
-Especially when i have no way to really know.).
-att(15558, 15550).
-
-arg(15551).
-text(15551, That is tautological, because to question the Holocaust narrative you are automatically a known racist anti-semite. I think it should be possible to question it without being racist. Your point is an Ad hominem more than anything. Importantly he found far more original sources than other historians.).
-att(15551, 15541).
-
-arg(15559).
-text(15559, I am much more concerned about how people become emotional about this, and hate each others because they are unable to agree.
-Or how people think it should change important things if it was true or false.
-Because these things are current, not things of the past.).
-support(15559, 15558).
-
-arg(15557).
-text(15557, I concede that sometime i am not very clear.).
-att(15557, 15545).
-
-arg(15574).
-text(15574, Your claim that David Irving is the only notable original researcher is unfounded, and your reference (a few doctored photos) is nonsense.  There are museums and books full of photos, firsthand accounts, and survivor testimonies; the writings of one denier are not sufficient evidence of anything.).
-att(15574, 15474).
-
-arg(15575).
-text(15575, Those are not comparable. The question was the truthfulness of Irving's claims. They were either true or false. Prevailing ideas don't matter in this case. ).
-att(15575, 15564).
+arg(14782).
+text(14782, It most definitely did though.).
+att(14782, root).
 

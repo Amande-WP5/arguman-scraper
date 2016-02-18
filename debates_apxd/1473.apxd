@@ -1,13 +1,13 @@
 arg(root).
 text(root, Preventative health care is cheaper than reactive health care).
 
-arg(7774).
-text(7774, In a real distributed healthcare system all costs are continuous. Total costs would be higher initially, but reactive costs would begin to decrease immediately and continue to a point where the combined expenditure is lower than before adopting preventative health care policies.).
-att(7774, root).
-
 arg(7237).
 text(7237, Up-front costs are higher when employing a strategy of preventative care).
 att(7237, root).
+
+arg(7243).
+text(7243, these services can eliminate the need for more expensive interventions down the road).
+support(7243, root).
 
 arg(7238).
 text(7238, Up front costs are zero in reactive care. Reactive care costs nothing until you actually need it, so as long as preventative care costs anything, it is more expensive "up front").
@@ -17,47 +17,47 @@ arg(7242).
 text(7242, up front costs are eventually supplanted by more expensive services).
 att(7242, 7237).
 
-arg(7243).
-text(7243, these services can eliminate the need for more expensive interventions down the road).
-support(7243, root).
-
-arg(7244).
-text(7244, By definition, preventative health care is employed when the financial and morbidity load can be reduced in comparison to active healthcare. Not every screening methods offer such benefits, and thus are not considered part of preventative healthcare.).
-support(7244, root).
-
 arg(7245).
 text(7245, the "right" amount of reactive services are easier to determine than preventative. You can easily cross the break-even threshold with preventative care and never know it.).
 att(7245, 7243).
-
-arg(7273).
-text(7273, Many injuries and illnesses will have no advanced symptoms. Preventative healthcare cannot predict things like car accidents. Therefore Reactive healthcare infrastructure is needed no matter what. It will be more expensive to build infrastructure for both methods of healthcare.).
-att(7273, root).
 
 arg(7308).
 text(7308, That does not mean there are negligence cases where reactive health care could be avoided. Negligence is human's worst enemy).
 att(7308, 7273).
 
-arg(7760).
-text(7760, Catching cancer in its early form can actually shorten a lengthy treatment).
-att(7760, root).
-
 arg(7330).
 text(7330, Preventative care does not necessarily eliminate responsive care. Catching cancer early merely increases chances of survival for the patient, but doesn't decrease the cost of treatment.).
 att(7330, 7242).
-
-arg(7333).
-text(7333, How does one know what to prevent. It would be exponentially more expensive to prevent all known diseases instead of reacting to a single known disease, and then I could still die in a car accidet tomorrow.).
-att(7333, root).
-
-arg(7495).
-text(7495, Such screenings can be done at birth (even before birth in some cases) and are in most situations very cheap, as a single blood sample can be used to test for a large range of diseases, allergies etc.).
-att(7495, root).
 
 arg(7335).
 text(7335, Tragedy of the commons applies in that it is impossible to accurately quantify a future cost. If a $100 hospital trip prevents a $1000 illness it's efficient; but say you take 11 of those trips - inefficient. The difference lies in patient quality-of-life, not monetary cost.).
 support(7335, 7245).
 
+arg(7774).
+text(7774, In a real distributed healthcare system all costs are continuous. Total costs would be higher initially, but reactive costs would begin to decrease immediately and continue to a point where the combined expenditure is lower than before adopting preventative health care policies.).
+att(7774, 7238).
+
+arg(7333).
+text(7333, How does one know what to prevent. It would be exponentially more expensive to prevent all known diseases instead of reacting to a single known disease, and then I could still die in a car accidet tomorrow.).
+att(7333, root).
+
 arg(7340).
 text(7340, Preventative health care requires screening the entire population for the off chance a few of them require preventative treatment. Reactive care doesn't require resources being spent on the healthy population. Compare spending $10 on 100 people to prevent spending $900 on one.).
 att(7340, root).
+
+arg(7760).
+text(7760, Catching cancer in its early form can actually shorten a lengthy treatment).
+att(7760, 7330).
+
+arg(7495).
+text(7495, Such screenings can be done at birth (even before birth in some cases) and are in most situations very cheap, as a single blood sample can be used to test for a large range of diseases, allergies etc.).
+att(7495, 7340).
+
+arg(7273).
+text(7273, Many injuries and illnesses will have no advanced symptoms. Preventative healthcare cannot predict things like car accidents. Therefore Reactive healthcare infrastructure is needed no matter what. It will be more expensive to build infrastructure for both methods of healthcare.).
+att(7273, root).
+
+arg(7244).
+text(7244, By definition, preventative health care is employed when the financial and morbidity load can be reduced in comparison to active healthcare. Not every screening methods offer such benefits, and thus are not considered part of preventative healthcare.).
+support(7244, root).
 

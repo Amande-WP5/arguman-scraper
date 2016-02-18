@@ -1,17 +1,21 @@
 arg(root).
 text(root, Donald Trump is the president the U.S deserves).
 
-arg(9071).
-text(9071, not the one it needs right now).
-att(9071, root).
-
-arg(16128).
-text(16128, Yes, and many populist leaders at their times reflected to a great extent the identity of a crisis-ridden ppl, it doesn't matter, the important is that this president won't do any good for the US. He will only isolate it from the rest of the world, and a GeoPol aggressive stance will backfire on US.).
-att(16128, root).
+arg(17177).
+text(17177, ).
+support(17177, root).
 
 arg(16157).
 text(16157, He will Make America Great again.).
 support(16157, root).
+
+arg(17819).
+text(17819, the plurality of American voters are under-informed or uninformed).
+att(17819, 15923).
+
+arg(17818).
+text(17818, then one must acknowledge that the US is not a great nation).
+att(17818, 16157).
 
 arg(16054).
 text(16054, if they vote for him then the system of democracy is working. ).
@@ -23,32 +27,7 @@ att(15923, root).
 
 arg(15922).
 text(15922, He did explain why america doesn't deserve Donald in the first statement. You simply can't understand for some reason. No president should be against science, and we simply don't have the space to justify or explain to you such a basic statement. ).
-att(15922, root).
-
-arg(15903).
-text(15903, 1) The U.S. president can be considered the figurehead or "face" of America. Trump is not a suitable person to represent a whole country.
-2) A country should not be run as a business, and it seems this is his intention. 
-3) His ideas for foreign relations would ruin U.S. ties with other countries.).
-att(15903, root).
-
-arg(15904).
-text(15904, This is not true of a lot of Americans, especially those who value foreign ties and progressive/liberal agendas.).
-att(15904, root).
-
-arg(8878).
-text(8878, Trump proves to be a science denier (anti-vax, anti climate change) which is a bad start for a president. Also, a president who thinks that mexican immigrants all want to rape american women is not what america wants.).
-att(8878, root).
-
-arg(8965).
-text(8965, I said that he could be detrimental, which then again is not what america deserves. I never used the word need, therefore making this argument about wordplay.).
-att(8965, root).
-
-arg(8876).
-text(8876, He embodies the spirit of the american people.
-
-
-).
-support(8876, root).
+att(15922, 9086).
 
 arg(8879).
 text(8879, This is not mutually exclusive with the majority of the american peoples 'world view').
@@ -81,4 +60,37 @@ att(8964, 8880).
 arg(14204).
 text(14204, that's not good for America. ).
 att(14204, 8964).
+
+arg(16128).
+text(16128, Yes, and many populist leaders at their times reflected to a great extent the identity of a crisis-ridden ppl, it doesn't matter, the important is that this president won't do any good for the US. He will only isolate it from the rest of the world, and a GeoPol aggressive stance will backfire on US.).
+att(16128, 8964).
+
+arg(8876).
+text(8876, He embodies the spirit of the american people.
+
+
+).
+support(8876, root).
+
+arg(15904).
+text(15904, This is not true of a lot of Americans, especially those who value foreign ties and progressive/liberal agendas.).
+att(15904, 8876).
+
+arg(9071).
+text(9071, not the one it needs right now).
+att(9071, root).
+
+arg(8965).
+text(8965, I said that he could be detrimental, which then again is not what america deserves. I never used the word need, therefore making this argument about wordplay.).
+att(8965, 8963).
+
+arg(15903).
+text(15903, 1) The U.S. president can be considered the figurehead or "face" of America. Trump is not a suitable person to represent a whole country.
+2) A country should not be run as a business, and it seems this is his intention. 
+3) His ideas for foreign relations would ruin U.S. ties with other countries.).
+att(15903, root).
+
+arg(8878).
+text(8878, Trump proves to be a science denier (anti-vax, anti climate change) which is a bad start for a president. Also, a president who thinks that mexican immigrants all want to rape american women is not what america wants.).
+att(8878, root).
 

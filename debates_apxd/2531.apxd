@@ -1,0 +1,122 @@
+arg(root).
+text(root, From an evolutionary standpoint, homosexuality is an unfavorable trait. ).
+
+arg(17974).
+text(17974, Being homosexual doesn't necessarily cause someone to have less kids. We can observe that in our current cultures and in older cultures. The same applies to other animals).
+att(17974, root).
+
+arg(17982).
+text(17982, There are traits, which are unfavorable to the individual in terms of spreading his genes, however, benefitting the population. Homosexuality can only be assumed to be unfavorable in terms of spreading one's own genes and also only if it is exclusive (cf. Ancient Greece).).
+att(17982, root).
+
+arg(18006).
+text(18006, It may be quite favorable if the population is growing too large and homosexual coupling results in fewer offspring ).
+att(18006, root).
+
+arg(18303).
+text(18303, It might be favourable for the group if there are people that don't have kids of their own, but are still able to help with the children of others. ).
+support(18303, 17982).
+
+arg(18302).
+text(18302, It may reduce group tension if less people compete for the same partners, especially when you consider small groups of people. ).
+support(18302, 17982).
+
+arg(18284).
+text(18284, sexuality musn`t understood as "have sexual intercourse with..." but as "preference for a sex". This is my point.).
+att(18284, 18241).
+
+arg(18241).
+text(18241, Only having sex with men makes you heterosexual if you are a woman.).
+att(18241, 18016).
+
+arg(18009).
+text(18009, The rate of homosexuals doesn't really change when the population is growing.).
+att(18009, 18006).
+
+arg(18016).
+text(18016, maybe we should ask how strong we understand homosexuality:
+- only preference for mens (include sex for children with women)
+- only have sex with men (exclude sex for children with woman)
+...however this is only relevant for the non-humans and non-aliens. Today we can adopt easily...).
+att(18016, root).
+
+arg(17973).
+text(17973, Fine with me.).
+support(17973, 17852).
+
+arg(18001).
+text(18001, alright).
+support(18001, 17852).
+
+arg(18441).
+text(18441, There was a study recently which connected a man's likelihood of being gay with his maternal family's fertility rate.).
+att(18441, root).
+
+arg(17975).
+text(17975, Sexuality usually is defined as a spectrum, which makes homosexuality being defined as a trait problematic.).
+att(17975, root).
+
+arg(17852).
+text(17852, If you and skissor agree, i can delete this chain.).
+att(17852, 17823).
+
+arg(17823).
+text(17823, I have changed the wording of the conclusion. So this argument chain needs to be revisited.).
+att(17823, 17770).
+
+arg(17770).
+text(17770, You are right. I misread the premise. Indeed the two words have a different meaning.).
+support(17770, 17756).
+
+arg(17756).
+text(17756, "undesirable" is about what someone desire/want, evolution doesn’t desire/want anything.).
+support(17756, 17755).
+
+arg(17755).
+text(17755, I agree on the first part.
+
+But unfavorable and undesirable isn’t the same thing.
+Something can be unfavorable to the survival or increase of a population, and something can be undesirable to someone.
+It is a abuse of language to say something is undesirable to a evolutionary stand point.).
+att(17755, 17753).
+
+arg(17754).
+text(17754, Since homosexuality is not proven to be solely based on genetics, it is not entirely true to call it a trait. A biological trait is purely genetic and/or epigenetic. Thus the premise is not worded correctly.).
+att(17754, root).
+
+arg(17753).
+text(17753, Biologist here, this is not true. Many traits can have negative or positive influence on the selective pressure of a population. If for whatever example an organism has a trait that lets him have less surviving offsprings, this is by definition an unfavorable trait from an evolutionary standpoint.).
+att(17753, root).
+
+arg(17631).
+text(17631, From a historical societal standpoint, it is also undesirable.  Which begs the question:  From what group standpoint is homosexuality desirable?  I request a group standpoint because from individual standpoints, any number of arguments can be made regarding any topic.).
+att(17631, root).
+
+arg(19483).
+text(19483, Some studies have suggested that the female siblings of gay men are more fertile than comparable women with straight brothers.).
+support(19483, 17982).
+
+arg(18969).
+text(18969, Right. We label gay, straight, bi, trans... when in reality, there are just things that people do, don't do, have done but won't again, haven't tried but will, etc. Just actions, no types.
+
+Enjoy the video ).
+support(18969, 18284).
+
+arg(18968).
+text(18968, Wow, yeah, I should've addressed that. Thanks. Of course back then, having children was either considered a great honor, or just expected to maintain a certain status. Therefore gay people (openly or not) still had children. Plus, adopted kids had lower status. Things are different now.).
+att(18968, 18967).
+
+arg(18966).
+text(18966, That's because for all of history, people who are gay have felt a need to hide it, so they've gotten married and had kids. If that ended, perhaps there would be a much-needed decrease in procreation and increase in adoption. Not that a person who is gay has any responsibility to abide by that.).
+att(18966, 17974).
+
+arg(18967).
+text(18967, It depends. Contrary to popular belief being gay wasn't something you had to hide in every culture. Greeks were openly homosexual and romans also had a very open culture when it came to sex/group sex/orgies. Not to mention that things like consent and minimum age were treated completely different.).
+att(18967, 18966).
+
+arg(19477).
+text(19477, The process of evolution does not require that enjoying sexual pleasure results in offspring. It only requires that individuals must pass on genetic material through sexual acts.
+
+).
+att(19477, root).
+

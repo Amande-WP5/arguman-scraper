@@ -1,33 +1,47 @@
 arg(root).
 text(root, Video games do not cause sexual objectification of women).
 
-arg(10232).
-text(10232, If a designer creates an objectifiable women and then sells the game publicly, it is reasonable to suggest the final game is objectifying women.).
-att(10232, root).
+arg(17644).
+text(17644, What is "sexual objectification" ?).
+att(17644, root).
 
-arg(10050).
-text(10050, All characters (male, female, dragon, whatever) in video games are [literally] objects, not real people. If people understand that they are not real, then they are not being objectified. ).
-att(10050, root).
+arg(16432).
+text(16432, Video games can't cause objectification, it can only reinforce and reproduce a trend already in society. Also, stopping video games from objectifying women will not make objectification itself stop.).
+support(16432, root).
 
 arg(10063).
 text(10063, Humans in video games are created to appear and feel real (they have emotions, desires, wants and fears). If a female's design relies solely on her sexual appeal and doesn't reflect her personality, she is being objectified.).
 att(10063, 10050).
 
+arg(10050).
+text(10050, All characters (male, female, dragon, whatever) in video games are [literally] objects, not real people. If people understand that they are not real, then they are not being objectified. ).
+att(10050, root).
+
+arg(10232).
+text(10232, If a designer creates an objectifiable women and then sells the game publicly, it is reasonable to suggest the final game is objectifying women.).
+att(10232, 10083).
+
 arg(10290).
 text(10290, Many games that objectify women have no basis in our historical reality, and have no legitimate reason for their objectification.).
-att(10290, root).
-
-arg(10083).
-text(10083, It is not the video games themselves that would be objectifying women, but the designers of the female characters in the video games. To an extent, objectification is also done by the consumers that are more likely to purchase games with sexy women in it. ).
-att(10083, root).
+att(10290, 10093).
 
 arg(10224).
 text(10224, "sex sells").
 support(10224, 10083).
+
+arg(10083).
+text(10083, It is not the video games themselves that would be objectifying women, but the designers of the female characters in the video games. To an extent, objectification is also done by the consumers that are more likely to purchase games with sexy women in it. ).
+att(10083, root).
 
 arg(10093).
 text(10093, It is necessary in some games to show women in a lesser place so one can stick to historical accuracy. Just like you would not expect to see a black knight in King Arthur's court.
 
 This of course only applies to a certain genre.).
 att(10093, root).
+
+arg(18283).
+text(18283, 50 Shades of Grey.
+
+Any moral underpinnings of your argument or subsequent calls to action are rendered ridiculous and a transparent neo-puritanical attempt to filibuster the joy out of things a certain class of OTHER people who are not you value and enjoy.).
+att(18283, root).
 

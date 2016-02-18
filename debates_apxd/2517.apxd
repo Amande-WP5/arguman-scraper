@@ -1,0 +1,109 @@
+arg(root).
+text(root, Abortion is murder.).
+
+arg(17173).
+text(17173, Abortion is performed in self defense, as a person has the right to decide who or what can occupy their body. A much more appropriate label than Murder, would be 'Justifiable Homicide').
+att(17173, root).
+
+arg(17252).
+text(17252, Abortion is the termination of a fetus. A fetus is not defined as a person. Murder is defined as the "unlawful killing of a person".
+
+Since abortion is neither the killing of a person nor unlawful, abortion is not murder.).
+att(17252, root).
+
+arg(17206).
+text(17206, Abortion being murder is dependent on the law.
+
+Abortion being morally wrong is dependent on the circumstances. 
+
+Abortion in cases of rape, incest or life threatening conditions to the mother, are less morally wrong. The morality of abortion in general changes dependant on developmental stages.).
+att(17206, root).
+
+arg(17166).
+text(17166, The punishment, in the case of this act, should be limited to a small fine paid to the woman for the miscarriage.).
+att(17166, root).
+
+arg(17313).
+text(17313, No, you say that the mother is responsible and by that, you impose it. The mother has the choice whether it should take the responsibility since it's her own body, like you said sourself.).
+att(17313, 17289).
+
+arg(17302).
+text(17302, Why does an attack need to be voluntary in order to consider it self defense? If someone's life is at risk, that seems like it qualifies as an attack.).
+att(17302, 17183).
+
+arg(17301).
+text(17301, If your uncle has a bad kidney, and you're a match, you aren't morally obligated to give him your kidney. This is because you have the right to control to your body, even if your actions would cause another's death. It's preferable to help the other person, but not if it costs the host's life.).
+att(17301, 17289).
+
+arg(17289).
+text(17289, No, since the mother is responsible for the well-being of her child. This follows naturally from the fact a child cannot survive without its parents help.).
+att(17289, 17253).
+
+arg(17300).
+text(17300, Most definitions of life require that it can function on its own).
+att(17300, 17182).
+
+arg(17254).
+text(17254, It is irrelevant whether it is human life or not.).
+att(17254, 17144).
+
+arg(17253).
+text(17253, By your own logic, a pregnant mother should have the right to decide over her own body. Therefore, she is allowed to terminate the bond between the fetus and her uterus and thus killing the fetus.).
+att(17253, 17186).
+
+arg(17250).
+text(17250, This isn't about morality but about the term "murder" which we have to relate to law. (Since murder simply means unlawful killing of a person)).
+att(17250, 17184).
+
+arg(17198).
+text(17198, Then the argument should be "Abortion is morally wrong".).
+att(17198, 17184).
+
+arg(17192).
+text(17192, To respond to the fallacy report, how can self defense be justifiable if the person you're defending yourself from is not accountable for his situation? That would be like dragging a sleeping man into your home but then kill him because he is an intruder.).
+support(17192, 17183).
+
+arg(17186).
+text(17186, Meaning and value is subjective, so we cannot justify the killings of people simply because the killer thought the victim's life had no meaning or value. 
+
+Life and body must be inherent properties only the owner can make decisions about for society to exist.).
+att(17186, 17174).
+
+arg(17185).
+text(17185, Who is in the position to decide over this value? It is true that the parents are the owners of the child, but the child does possess his life, which only he can decide upon. And since a fetus cannot speak out its wishes yet, no action should be taken regarding damaging the child's life.).
+att(17185, 17175).
+
+arg(17184).
+text(17184, Law doesn't dictate morality, killing jews was legal in Nazi-Germany, that doesn't mean it wasn't wrong.).
+att(17184, 17165).
+
+arg(17175).
+text(17175, A fetus can sometimes have a negative value.).
+support(17175, 17173).
+
+arg(17183).
+text(17183, A voluntary attack has to be necessary for self defense to be a thing, the fetus' life is not its own responsibility so cannot be held accountable for its existence.).
+att(17183, 17173).
+
+arg(17182).
+text(17182, Regardless of religious teachings, how can conception not be the logical point where life starts? The alternatives seem  arbitrary other points later in growth, and it seems wrong to kill based on these.).
+att(17182, 17145).
+
+arg(17145).
+text(17145, Is it a life yet? The idea life starts at conception a mostly christian idea. For instance, Islam supports abortion abortion up to 4 months, and Judaism up to the 40th day. In the Book of Exodus it states that if a man causes a woman to miscarry by accident, the punishment is minuscule.).
+att(17145, 17144).
+
+arg(17144).
+text(17144, It is the killing of a human life without its consent. ).
+support(17144, root).
+
+arg(17165).
+text(17165, Murder is the unlawful killing of a person.
+Abortion is the lawful killing of a potential person. 
+Abortion is only murder if it is unlawful.).
+att(17165, root).
+
+arg(17174).
+text(17174, What makes murder immoral is that it is the ending of a life that has meaning and value. An individual life gains meaning and value as it comes into the world and matures. The value of a "life" is not inherent. ).
+att(17174, root).
+

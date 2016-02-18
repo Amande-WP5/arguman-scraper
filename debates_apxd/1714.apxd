@@ -1,25 +1,9 @@
 arg(root).
 text(root, A minimum universal salary will be necessary in a world with heavy automation).
 
-arg(9869).
-text(9869, The demand for those human-operated jobs would have to keep pace with the population of the workforce, which is already no longer happening.).
-att(9869, root).
-
 arg(9794).
 text(9794, If a significant amount of people are unemployed, the economy will enter a negative feedback loop).
 support(9794, root).
-
-arg(10124).
-text(10124, How would people get these machines in the first place if they did not have the capital to get it?).
-att(10124, root).
-
-arg(10007).
-text(10007, When we run out of "something else" to do, this will certainly create problems. Even if we don't run out, it will certainly create a shock to our system if we suddenly hit 45% unemployment.).
-att(10007, root).
-
-arg(10530).
-text(10530, There must be a transition from the present and the post-scarcity world you describe. This premise is about that transition, in that a minimum salary is a useful transitioning mechanism.).
-att(10530, root).
 
 arg(10432).
 text(10432, This goes back to the earlier statement, of not creating less, but time for something else. No matter how much automation happens, it will only create room for humans to move on to the next thing. Possibly a never ending cycle. ).
@@ -29,13 +13,21 @@ arg(10531).
 text(10531, The problem is *still* not with overproduction. It's about running out of the "next thing". At some point automation could saturate the market to the point where the majority of people are unemployable through no fault of their own. This argument is about that eventuality.).
 att(10531, 10432).
 
-arg(9828).
-text(9828, if there is anything that people prefer to have done by humans >> there will be demand for jobs >> there will be an economy and jobs >> you will be able to purchase things with that money you earned.).
-att(9828, root).
-
 arg(9979).
 text(9979, The use of automation can be viewed as time taken from one task,and put into another task. Automating a task does create less to do, but more time to do something else. ).
 att(9979, 9794).
+
+arg(10124).
+text(10124, How would people get these machines in the first place if they did not have the capital to get it?).
+att(10124, 10118).
+
+arg(10007).
+text(10007, When we run out of "something else" to do, this will certainly create problems. Even if we don't run out, it will certainly create a shock to our system if we suddenly hit 45% unemployment.).
+att(10007, 9979).
+
+arg(10530).
+text(10530, There must be a transition from the present and the post-scarcity world you describe. This premise is about that transition, in that a minimum salary is a useful transitioning mechanism.).
+att(10530, 10494).
 
 arg(10447).
 text(10447, If at any point in time all economic demand is covered with automation plus X% (lets say 50%) of the population, then the other half of humanity is economically superfluous and the market will regulate them (or us) out of the existence. (Or they will regulate the market out of the existence).).
@@ -58,6 +50,14 @@ att(10497, 9828).
 arg(10499).
 text(10499, Innovation will not outpace production, in all likelihood. Automation is more desirable by business entities because it increases profits for an already profitable commodity, while research costs money for the creation of an unknown (in terms of profitability) commodity. ).
 att(10499, 10494).
+
+arg(9869).
+text(9869, The demand for those human-operated jobs would have to keep pace with the population of the workforce, which is already no longer happening.).
+att(9869, 9828).
+
+arg(9828).
+text(9828, if there is anything that people prefer to have done by humans >> there will be demand for jobs >> there will be an economy and jobs >> you will be able to purchase things with that money you earned.).
+att(9828, root).
 
 arg(10118).
 text(10118, In a world with heavy automation, it is possible that we will reach a point where machines will provide all basic food, shelter, and medical needs for all of humanity. This very real possibility would reduce the need of having a minimum wage at all. ).

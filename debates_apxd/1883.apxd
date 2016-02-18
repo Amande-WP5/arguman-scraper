@@ -5,6 +5,10 @@ arg(11828).
 text(11828, Clickbait is used to attract more visitors but it often result on a poor article and subject.).
 support(11828, root).
 
+arg(12243).
+text(12243, It is almost impossible to measure).
+att(12243, root).
+
 arg(12044).
 text(12044, Not necessarily. It is a trick to get someone's attention, yes. But it doesn't necessarily imply that the article has a low quality.).
 att(12044, 11828).
@@ -12,8 +16,4 @@ att(12044, 11828).
 arg(12068).
 text(12068, In fact, click bait is used to lure people attention into article that are basicaly not very interesting by using devious main title. It's often buzz article. Website are remunered by the number of people that view ads. Meaning that you make more money with bait click instead of good article.).
 att(12068, 12044).
-
-arg(12243).
-text(12243, It is almost impossible to measure).
-att(12243, root).
 

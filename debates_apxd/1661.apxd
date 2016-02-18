@@ -5,14 +5,6 @@ arg(9225).
 text(9225, you would save 3 lives and lose 1. It makes sense mathematically.).
 support(9225, root).
 
-arg(9264).
-text(9264, We're not omniscient, we could never be sure of that.).
-support(9264, root).
-
-arg(9467).
-text(9467, This is just an example of the original statement, not an argument for/against it. ).
-att(9467, root).
-
 arg(9475).
 text(9475, You have the duty not to intervene at all if you have the option to. ).
 att(9475, root).
@@ -21,48 +13,17 @@ arg(9570).
 text(9570, Correct, however it in this case it requires a more extreme scenario. I'm simply posing the scenario that we find one example acceptable and another inacceptable depending on the lengths you have to go to to save the three.).
 att(9570, 9467).
 
-arg(9260).
-text(9260, You would have to know for certain that you can prevent three deaths by killing someone else, otherwise you would be gambling with an innocent person's life. You would need to be omniscient to be certain. Taking a leap of faith with innocent people's lives is immoral.).
-att(9260, root).
-
-arg(9431).
-text(9431, Imagine if you were in the waiting room at a hospital waiting for a friend. A doctor comes over, kills you, takes your organs, with those organs he saves three peoples lives.
-
-Its different now, all depending on the fact that it would be someone physically doing something to cause it).
-att(9431, root).
-
-arg(9493).
-text(9493, If you know who/how the persons are it is a different case
-).
-att(9493, root).
-
 arg(9497).
 text(9497, But if you know the odds you could calculate an expected value and act based on that).
 att(9497, 9260).
-
-arg(9504).
-text(9504, A set of two infinite values is actually greater than a set of one infinite value, even though all values are infinite.).
-att(9504, root).
 
 arg(9306).
 text(9306, You would be killing someone who initially wouldn't be involved. Imagine 3 people were on the train tracks, you're by a lever which will change the trains direction so it hits one person who was just crossing. This is hypothetical of course, so we imagine that you're certain the 1 would die).
 att(9306, 9225).
 
-arg(9408).
-text(9408, No single person should.have the right to say who deserves to live and who doesnt).
-att(9408, root).
-
 arg(9307).
 text(9307, This is hypothetical, a question on morality. Point is mute).
 att(9307, 9264).
-
-arg(9514).
-text(9514, A governance policy should appeal to the greater good. Morality is in the numbers, so saving 3 would justify killing one. On a personal level though, the act itself is the problem. I cannot take another human life, regardless of the reward, because it is not mine to take, nor my right to choose. ).
-att(9514, root).
-
-arg(9413).
-text(9413, If everybody has a right to live, a single persons life is infinitely valuable. Thus the single persons life is equally(=infinitely) valuable as the three other persons infinitely valuable lives).
-att(9413, root).
 
 arg(9517).
 text(9517, The hypothetical provides options that are inconsistent with an inherently good supreme being, for He is not the author of sin, and would provide alternatives without sinning. Unless, the decision was not the person's in question, and has already been ordained to pass. We all die, if not eventually.).
@@ -75,4 +36,43 @@ att(9422, 9225).
 arg(9527).
 text(9527, If we were to all die, instead of sacrificing one, then we all die, which we will all die eventually. What good is it if we delay our deaths, and lose our soul in the process? ).
 support(9527, 9517).
+
+arg(9260).
+text(9260, You would have to know for certain that you can prevent three deaths by killing someone else, otherwise you would be gambling with an innocent person's life. You would need to be omniscient to be certain. Taking a leap of faith with innocent people's lives is immoral.).
+att(9260, root).
+
+arg(9264).
+text(9264, We're not omniscient, we could never be sure of that.).
+support(9264, 9260).
+
+arg(9467).
+text(9467, This is just an example of the original statement, not an argument for/against it. ).
+att(9467, 9431).
+
+arg(9431).
+text(9431, Imagine if you were in the waiting room at a hospital waiting for a friend. A doctor comes over, kills you, takes your organs, with those organs he saves three peoples lives.
+
+Its different now, all depending on the fact that it would be someone physically doing something to cause it).
+att(9431, root).
+
+arg(9408).
+text(9408, No single person should.have the right to say who deserves to live and who doesnt).
+att(9408, root).
+
+arg(9514).
+text(9514, A governance policy should appeal to the greater good. Morality is in the numbers, so saving 3 would justify killing one. On a personal level though, the act itself is the problem. I cannot take another human life, regardless of the reward, because it is not mine to take, nor my right to choose. ).
+att(9514, root).
+
+arg(9493).
+text(9493, If you know who/how the persons are it is a different case
+).
+att(9493, 9422).
+
+arg(9504).
+text(9504, A set of two infinite values is actually greater than a set of one infinite value, even though all values are infinite.).
+att(9504, 9413).
+
+arg(9413).
+text(9413, If everybody has a right to live, a single persons life is infinitely valuable. Thus the single persons life is equally(=infinitely) valuable as the three other persons infinitely valuable lives).
+att(9413, root).
 

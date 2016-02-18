@@ -1,25 +1,34 @@
 arg(root).
 text(root, All drugs should be legalized).
 
-arg(9728).
-text(9728, Drugs are much more reinforcing than alcohol, and you start building dependence on them a lot faster, they are simply more addictive. The effects of drug addiction on working society is huge.).
-att(9728, root).
+arg(8022).
+text(8022, addicts still find ways to access drugs and get addicted with our current laws so legal status isn't playing too large a role in deciding whether or not an addict will be able to procure drugs.).
+att(8022, 7248).
 
-arg(7700).
-text(7700, Just because something is illegal doesn't mean people won't try it. ).
-att(7700, root).
+arg(7197).
+text(7197, after legalization, when you buy the drugs at the pharmacies (which would be the only legal salespoint, for quality control and so on), the packages would have warning labels and useage instructions, much like any drug today. ).
+att(7197, 7177).
 
-arg(7248).
-text(7248, Some people are biological predisposed to be addicts. however, if you never try the drug you can't possibly get addicted to it. Having them out in the open will destroy millions of lives. Addiction is a mental disorder not bad morality ).
-att(7248, root).
+arg(7262).
+text(7262, Drug users are going to use drugs whether they're legal or not; legalizing drugs keeps users out of jail (helping to lessen prison overpopulation) and ensures they use as safely as possible (e.g. clean needles, pure/uncut substances, etc).).
+support(7262, root).
 
-arg(7267).
-text(7267, if the punishment for useage was to have your whole family tortured to death and you having to watch, then yourself be grilled. people would not risk using.).
-att(7267, root).
+arg(7715).
+text(7715, While illegal, drug users will hide their abuse and problems at all costs, making it harder for everyone to help them.
+Legalizing it will make it more accepted, making it easier to seek help for those who realize they have a drug problem.).
+support(7715, root).
 
-arg(8067).
-text(8067, See, Portugal 14 years of legalized drugs.  Treat addiction, don't criminalize it.).
-att(8067, root).
+arg(18806).
+text(18806, We already have harmful legal drugs. 
+"Speak to your doctor about X."
+
+Many illegal drugs are less harmful and addictive than current legal ones.
+Cannabis alone could replace many more harmful legal drugs.).
+att(18806, 12686).
+
+arg(18565).
+text(18565, An addiction to drugs isn't inherently different than an addiction to other things, like food, sex, games and even sports. It would be inconsistent to restrict responsibility of addiction to drugs only.).
+att(18565, 7220).
 
 arg(7964).
 text(7964, By legislating against drugs we can make them much more difficult to access, and stigmatize their use.).
@@ -27,33 +36,11 @@ att(7964, 7700).
 
 arg(8504).
 text(8504, People should also be informed about how to use a drug as safely as possible.).
-att(8504, root).
+att(8504, 7220).
 
 arg(7285).
 text(7285, But that's not the punishment, and there will still be people using drugs anyways.).
 att(7285, 7267).
-
-arg(8255).
-text(8255, Not having them easily available makes it harder for them. If they were all legal and available at any random gas station, we would be seeing a lot more addicts.).
-att(8255, root).
-
-arg(7981).
-text(7981, That is irrelevant. 
-
-Just because you legalize something doesn't mean that 'everyone should use it'.).
-att(7981, root).
-
-arg(7262).
-text(7262, Drug users are going to use drugs whether they're legal or not; legalizing drugs keeps users out of jail (helping to lessen prison overpopulation) and ensures they use as safely as possible (e.g. clean needles, pure/uncut substances, etc).).
-support(7262, root).
-
-arg(8259).
-text(8259, Although once you get into the "system" you usually are stuck, making drugs illegal causes a large percent of addicts to never be exposed or test drugs. ).
-att(8259, root).
-
-arg(7146).
-text(7146, it should be every individuals right to put whatever substance they want inside their own body.).
-support(7146, root).
 
 arg(7871).
 text(7871, because drugs are still used, regardless of legality, doesn't mean that they should be used ).
@@ -65,35 +52,118 @@ att(7155, 7146).
 
 arg(7999).
 text(7999, Two times wrong is still not right).
-att(7999, root).
-
-arg(8283).
-text(8283, Drugs have potential to ruin your life. It is not like jumping from balcony which undoubtedly bad for you. Governments should treat citizen like adults who are responsible of what they do.).
-support(8283, root).
+att(7999, 7364).
 
 arg(8285).
 text(8285, As evidenced with alcohol and tobacco, education coupled with help when needed is more effective than prohibition. Legalizing all drugs and having effective campaigns regarding the potential problems along with comprehensive treatment programs will be more effective than them being illegal.).
 att(8285, 8255).
 
-arg(8287).
-text(8287, Proper policies regarding addiction treatment and education need to be put into place in tandem with legalization.).
-att(8287, root).
+arg(7248).
+text(7248, Some people are biological predisposed to be addicts. however, if you never try the drug you can't possibly get addicted to it. Having them out in the open will destroy millions of lives. Addiction is a mental disorder not bad morality ).
+att(7248, root).
 
-arg(7177).
-text(7177, It would desensitize the public to the horrid affects that many drugs have on people.).
-att(7177, root).
+arg(18842).
+text(18842, If it is desirable to see a drop in first time users, why not keep them illegal?).
+att(18842, 7341).
 
-arg(8022).
-text(8022, addicts still find ways to access drugs and get addicted with our current laws so legal status isn't playing too large a role in deciding whether or not an addict will be able to procure drugs.).
-att(8022, 7248).
+arg(18805).
+text(18805, Society is NOT at all accepting of drug addicts, whether or not the addict is looking for help. ).
+att(18805, 9750).
 
-arg(7197).
-text(7197, after legalization, when you buy the drugs at the pharmacies (which would be the only legal salespoint, for quality control and so on), the packages would have warning labels and useage instructions, much like any drug today. ).
-att(7197, 7177).
+arg(18574).
+text(18574, Not all drug use is harmful, in fact 90% of drug users don't have problematic use. There is no reason to believe this people would be "better" for stopping.
 
-arg(7354).
-text(7354, While consumption should be legalized, the production for some drugs should not be legalized, to curb supply. Excessive supply of some drugs will almost ceratinly cause mayhem.).
-att(7354, root).
+Coffee is also a drug, so is having a glass of wine with dinner once a week.).
+att(18574, 9750).
+
+arg(18573).
+text(18573, They may surround themselves with other users because people need connection to others, and ironically, other drug users are the only one they can trust because of the illegality and stigma.).
+att(18573, 9750).
+
+arg(18572).
+text(18572, Punishing everyone to "save" a few from themselves is not fair.).
+att(18572, 7248).
+
+arg(18571).
+text(18571, "Drugs" isn't a homogeneous category. It  contains substances that are wildly different and is often (in the US) used to describe all chemicals that have medicinal properties (therefor drug store).).
+att(18571, 9728).
+
+arg(18570).
+text(18570, This is demonstrably wrong. The rates of addiction for specific drugs is as follows:
+
+Cannabis: 9%
+Stimulants: 10%
+Alcohol: 15%
+Cocaine: 17%
+Heroin: 23%
+Nicotine: 32%).
+att(18570, 9728).
+
+arg(18569).
+text(18569, Many of the "bad outcomes" associated with drug use can be explained as effects of prohibition as well. Everything from economic problems, physical health effects, isolation and mental health effects and even addiction itself can be explained from prohibition.).
+att(18569, 7177).
+
+arg(18568).
+text(18568, Correlation is not causation. It is not proven or even made likely that the reason for the behavior in your example was caused by the drug. Most likely it was mental illness or drug overdose. 
+
+No recreational drug leads to consistent violent or "face-eating" behavior.).
+att(18568, 7357).
+
+arg(18567).
+text(18567, You are assuming legality will lead to a significant rise in use, which is unsupported by data.).
+att(18567, 9748).
+
+arg(18566).
+text(18566, Illegality carries with it stigma, which makes people want to keep their addiction a secret. This is an obvious barrier to seeking help.).
+att(18566, 9748).
+
+arg(7364).
+text(7364, Yes.
+Evidence strongly suggests that children to alcoholic parents might be predisposed to alcoholism.
+Yet we do not make alcohol illegal.).
+att(7364, 7248).
+
+arg(7146).
+text(7146, it should be every individuals right to put whatever substance they want inside their own body.).
+support(7146, root).
+
+arg(9728).
+text(9728, Drugs are much more reinforcing than alcohol, and you start building dependence on them a lot faster, they are simply more addictive. The effects of drug addiction on working society is huge.).
+att(9728, 8285).
+
+arg(7700).
+text(7700, Just because something is illegal doesn't mean people won't try it. ).
+att(7700, 7248).
+
+arg(8283).
+text(8283, Drugs have potential to ruin your life. It is not like jumping from balcony which undoubtedly bad for you. Governments should treat citizen like adults who are responsible of what they do.).
+support(8283, root).
+
+arg(7267).
+text(7267, if the punishment for useage was to have your whole family tortured to death and you having to watch, then yourself be grilled. people would not risk using.).
+att(7267, 7262).
+
+arg(8067).
+text(8067, See, Portugal 14 years of legalized drugs.  Treat addiction, don't criminalize it.).
+att(8067, 7964).
+
+arg(8255).
+text(8255, Not having them easily available makes it harder for them. If they were all legal and available at any random gas station, we would be seeing a lot more addicts.).
+att(8255, 8022).
+
+arg(7981).
+text(7981, That is irrelevant. 
+
+Just because you legalize something doesn't mean that 'everyone should use it'.).
+att(7981, 7871).
+
+arg(7220).
+text(7220, People should be warned of the negative effects of certain drugs. It must be made clear that any addiction arising from drug use is at the fault of the person consuming the drug.).
+att(7220, root).
+
+arg(8259).
+text(8259, Although once you get into the "system" you usually are stuck, making drugs illegal causes a large percent of addicts to never be exposed or test drugs. ).
+att(8259, 8022).
 
 arg(7357).
 text(7357, If the substance causes the person to become a threat to others (ex: Bath Salts ''face-eating'' incident) , it should be illegal. ).
@@ -103,33 +173,13 @@ arg(7790).
 text(7790, The current illegality doesn't help people who become addicted. It puts them in a negative spiral where they hit the bottom of society, which is hard to get out of. Instead, offering these substances in a controlled environment with psychologists available is better. Read my source please.).
 att(7790, 7248).
 
-arg(7364).
-text(7364, Yes.
-Evidence strongly suggests that children to alcoholic parents might be predisposed to alcoholism.
-Yet we do not make alcohol illegal.).
-att(7364, 7248).
-
 arg(7365).
 text(7365, Legalizing a drug pretty much takes it out of the hand of illegal cartels.).
 att(7365, 7155).
 
-arg(7220).
-text(7220, People should be warned of the negative effects of certain drugs. It must be made clear that any addiction arising from drug use is at the fault of the person consuming the drug.).
-att(7220, root).
-
 arg(10368).
 text(10368, Just because someone is under the influnece of a drug does not mean they put others at risk ie. a drunk at home isn't a problem but a drunk behind a wheel is. As long as a person is not putting others at risk then they are no threat and should be left alone. ).
 att(10368, 7357).
-
-arg(7701).
-text(7701, Prohibition of drugs has had just about the same effects are prohibition of alcohol.).
-support(7701, root).
-
-arg(7341).
-text(7341, Because it promotes the use of quality drugs since there is no more reasons to go to shady dealers and using drugs like bath salts.
-
-Plus the 'forbidden fruit' factor is out of the way and this could cause a drop in first time users.).
-support(7341, root).
 
 arg(9748).
 text(9748, There is available help for addicts, what makes you think legalization of all drugs will make more addicts chose to seek help?
@@ -142,29 +192,16 @@ att(9749, 7364).
 
 arg(9750).
 text(9750, Most drug users surround themselves with other drug users for peer approval. The reason addicts don't seek help is not because of fears of social acceptance. In fact, society is very accepting of people trying to better themselves).
-att(9750, root).
+att(9750, 7715).
 
 arg(7370).
 text(7370, The curtailing of drugs has never worked.
 Prices for drugs have been pretty stable OR fallen across the board despite billions of dollars put into the "war on drugs").
 att(7370, 7354).
 
-arg(12678).
-text(12678, Prohibition of a certain product does not eliminate its market, but only creates a black market. These markets can be regulated if we legalize the product and control it ourselves, and this would greatly deter organized crime and drop crime rates in general. ).
-support(12678, root).
-
-arg(7715).
-text(7715, While illegal, drug users will hide their abuse and problems at all costs, making it harder for everyone to help them.
-Legalizing it will make it more accepted, making it easier to seek help for those who realize they have a drug problem.).
-support(7715, root).
-
 arg(12685).
 text(12685, Society may appear accepting, but the individuals in one's life often aren't. And although people may act accepting and helpful (and truthfully want the user to heal) many still privately judge them consciously or subconsciously. This is due to the stigma which is greatly increased by illegality.).
 att(12685, 9750).
-
-arg(12686).
-text(12686, If production is legalized, then someone will begin producing it. Then we'll have businesses producing highly addictive drugs. This is an extremely risky situation for the country and world. The cartels may disappear but they'd be replaced by legal businesses. Less murder but more widespread use.).
-att(12686, root).
 
 arg(12687).
 text(12687, We can put in place tight restrictions on what types of businesses can produce drugs and on how they conduct their business. Say that any producer of drugs must also offer addiction treatment and therapy. Restrict how much they can produce, although it would drive the price up.).
@@ -173,4 +210,39 @@ att(12687, 12686).
 arg(12688).
 text(12688, I agree with treatment as opposed to criminalization. However, legalization is a lot different from decriminalization. Portugal didn't legalize drugs, it decriminalized drug consumption.).
 att(12688, 8067).
+
+arg(18843).
+text(18843, Illegality doesn't reduce the rate of first time users.
+Illegality makes drugs more enticing to the rebellious (most teenagers).).
+att(18843, 18842).
+
+arg(7341).
+text(7341, Because it promotes the use of quality drugs since there is no more reasons to go to shady dealers and using drugs like bath salts.
+
+Plus the 'forbidden fruit' factor is out of the way and this could cause a drop in first time users.).
+support(7341, root).
+
+arg(12678).
+text(12678, Prohibition of a certain product does not eliminate its market, but only creates a black market. These markets can be regulated if we legalize the product and control it ourselves, and this would greatly deter organized crime and drop crime rates in general. ).
+support(12678, root).
+
+arg(12686).
+text(12686, If production is legalized, then someone will begin producing it. Then we'll have businesses producing highly addictive drugs. This is an extremely risky situation for the country and world. The cartels may disappear but they'd be replaced by legal businesses. Less murder but more widespread use.).
+att(12686, root).
+
+arg(8287).
+text(8287, Proper policies regarding addiction treatment and education need to be put into place in tandem with legalization.).
+att(8287, root).
+
+arg(7177).
+text(7177, It would desensitize the public to the horrid affects that many drugs have on people.).
+att(7177, root).
+
+arg(7354).
+text(7354, While consumption should be legalized, the production for some drugs should not be legalized, to curb supply. Excessive supply of some drugs will almost ceratinly cause mayhem.).
+att(7354, root).
+
+arg(7701).
+text(7701, Prohibition of drugs has had just about the same effects are prohibition of alcohol.).
+support(7701, root).
 

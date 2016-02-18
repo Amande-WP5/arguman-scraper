@@ -1,0 +1,7 @@
+arg(root).
+text(root, Socialism lowers economic inequality).
+
+arg(19552).
+text(19552, It taxes the upper class and grants financial benefits to the lower class.).
+support(19552, root).
+

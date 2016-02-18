@@ -1,0 +1,182 @@
+arg(root).
+text(root, Animal factory farms are immoral.).
+
+arg(18803).
+text(18803, A lot of arguments on this site include values considerations, and then we can consider there are a parallel discussion for each ethical framework used, maybe it would be good to have a new functionality to deal with that.).
+att(18803, 18790).
+
+arg(18802).
+text(18802, The postulate is a value statement which is opinion-dependent or ethic-dependent.
+But it is not an appeal to belief, because it is about values, not about truth.).
+att(18802, 18790).
+
+arg(18790).
+text(18790, > You have a particular morality, or you have another, it is a given.
+
+Therefore the initial postulate is simply a value statement -- an appeal to belief, whose truth can not be established in a determined opinion-independent way.).
+att(18790, 18716).
+
+arg(18602).
+text(18602, Immoral in which subset of which particular morality?).
+att(18602, root).
+
+arg(18523).
+text(18523, Bacon.).
+att(18523, root).
+
+arg(18719).
+text(18719, I think most people agree with us, most people care about animal suffering (and a lot that don’t care, don’t care only because they believe animals don’t really suffer).
+
+They eat industrial meat, not because of a fundamental different morality, but because of ...).
+att(18719, 18596).
+
+arg(18718).
+text(18718, If A is false, then A ⇒ B is true.
+My argument is true because we aren’t required to care about anything.
+
+Yes it is misleading, just like the question i was responding about. ("morally required" is meaningless without a particular morality)).
+att(18718, 18596).
+
+arg(18717).
+text(18717, Most ethics are confusions, and they fail to correctly describe the morality of the people advocating for it.).
+att(18717, 18716).
+
+arg(18716).
+text(18716, There is no objective morality, then this question can’t be answered.
+
+We should use a particular theory of ethic to be able to say we should apply a particular theory of ethics, it would be circular.
+
+You have a particular morality, or you have another, it is a given.).
+att(18716, 18706).
+
+arg(18714).
+text(18714, Humans would constantly be exposed to the drug by eating the animals that take the drug, and long term exposure to such a drug is likely to have negative affect on human health.).
+att(18714, 18628).
+
+arg(18706).
+text(18706, Since the obvious answer to the original postulate is that "F.farms are *certainly* immoral according to several theories of ethics", the *real* question is "Why should a particular theory of ethics be applied".).
+att(18706, 18695).
+
+arg(18705).
+text(18705, Which is not saying a lot. In the link there are listed most popular stances on animals and morality, which differ considerably.
+).
+att(18705, 18695).
+
+arg(18697).
+text(18697, It is very hard to develop such a drug.).
+att(18697, 18628).
+
+arg(18696).
+text(18696, If we can develop that, we should give it to anyone, not just factory farmed animal.).
+att(18696, 18628).
+
+arg(18695).
+text(18695, In about every ethics that say suffering is bad by itself.).
+att(18695, 18602).
+
+arg(18693).
+text(18693, You forgot the need of the pig.).
+att(18693, 18627).
+
+arg(18692).
+text(18692, Then you have issues like "Is that really living?").
+att(18692, 18628).
+
+arg(18691).
+text(18691, If they do not need to make the sacrifice in the first place, this raises they same question. ).
+att(18691, 18627).
+
+arg(18640).
+text(18640, Desire does not make something moral. Otherwise theft would be moral.).
+att(18640, 18624).
+
+arg(18638).
+text(18638, Climate scientists are continually demonstrating the connections between raising livestock and global warming. A report published by the World Watch Institute in 2009 revealed that greenhouse gases produced by livestock comprise 51 percent of global greenhouse gas emissions. “Livestock’s Long Shadow).
+att(18638, 18626).
+
+arg(18639).
+text(18639, But it does still produce greenhouse gas. And should we not capture that methane (as I imagine most of these farms are currently set up not to), methane is significantly worse than it's burned components.).
+att(18639, 18609).
+
+arg(18637).
+text(18637, Grass-fed cows produce 40 to 60 percent more methane gas than grain-fed ones and use more water and land. ).
+att(18637, 18608).
+
+arg(18501).
+text(18501, Even aside from the treatment of the animals, these factory farms produce incredible amounts of greenhouse gas, damaging the environment for everybody else.).
+support(18501, root).
+
+arg(18430).
+text(18430, The overwhelming majority of these animals have spent their entire lives confined inside sheds, never going outdoors for a single hour. Their suffering isn’t just for a few hours or days, but for all their lives.).
+support(18430, root).
+
+arg(18627).
+text(18627, Their sacrifice contributes to the greatest amount of tastiness, delivered to the greatest number of people. As Marx once wrote: from each according to his ability, to each according to his need. I need bacon and the tastiness that lies therein).
+att(18627, 18430).
+
+arg(18626).
+text(18626, Global warming alarmism is just a meme.).
+att(18626, 18501).
+
+arg(18625).
+text(18625, I can't afford as much bacon that way. Tastiness is maximized with cheap bacon.).
+att(18625, 18530).
+
+arg(18609).
+text(18609, The primary greenhouse gas produced by animals in factory farms is methane. Efforts have been made to harness the methane produced by factory farms for human use as an energy source. Methane is a natural gas and, when burned, will produce less greenhouse gasses than coal and oil. ).
+att(18609, 18501).
+
+arg(18608).
+text(18608, The animals produce larger amounts of greenhouse gasses than they should because they are fed inappropriate diets. the amount of greenhouse gasses released can be reduced if the animals are given appropriate diets. ).
+att(18608, 18595).
+
+arg(18596).
+text(18596, We aren't morally required to care about anything. Morality is subjective and self enforced (both by the individual and society). Current societal consensus disagrees with us, as evidenced by the continuing existence of factory farms.).
+att(18596, 18550).
+
+arg(18770).
+text(18770, Factory farms breed diseases which are resistant to medicine and can affect humans, posing a substantial health risk. A super virus that originates from the food supply has a large chance of driving human extinction.).
+support(18770, root).
+
+arg(18595).
+text(18595, Can we grow it without all the environmental damage (read: greenhouse gasses)?).
+att(18595, 18530).
+
+arg(18555).
+text(18555, If we are required or not, we can still consider it to be immoral, no?).
+att(18555, 18531).
+
+arg(18550).
+text(18550, If we are morally required to care about anything, yes.).
+att(18550, 18531).
+
+arg(18531).
+text(18531, Are we morally required to care about the conditions nonhuman animals are subjected to?).
+att(18531, 18430).
+
+arg(18530).
+text(18530, Certified humane and organic bacon.).
+att(18530, 18523).
+
+arg(18636).
+text(18636, The fact that humans (in modern societies) can now have a healthy and fulfilling diet without the need to kill animals for their protein, makes it immoral to continue killing sentient beings just for their taste. If we can avoid killing it is our moral duty to do so.).
+support(18636, root).
+
+arg(18628).
+text(18628, A more humane solution would be to develop a drug like morphine that can make the lives of these factory farmed animals the most blissed-out heaven like existence for the entirety of their lives.).
+att(18628, root).
+
+arg(18624).
+text(18624, They are tasty.).
+att(18624, root).
+
+arg(18645).
+text(18645, Depends what you mean by morality. There are lots of moral theories out there and each of them has a different response to this conclusion. Utilitarianism says it is immoral, Kantian Ethics says it probably isn't, Virtue Ethics say it is, Ethical Egotism says it isn't, and Cultural Relativism...).
+att(18645, 18555).
+
+arg(18724).
+text(18724, They are moral in my moral framework, because in it, 'me getting a lot less expensive meat' is a supreme cause to 'animal well being'. I still consider 'animal well being' a good cause, just subordinate.
+
+If both causes can be consolidated, then it is immoral to support clinging to factory farms.).
+att(18724, root).
+

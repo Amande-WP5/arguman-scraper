@@ -1,0 +1,27 @@
+arg(root).
+text(root, Computers are already self-aware).
+
+arg(19559).
+text(19559, It is still a mystery in science how a mind can arise from the chemical and electrical signals in the brain. It's currently impossible to say whether something is self aware or not as this concept remains undefined. The only reason we know mind exists is because we have it.).
+att(19559, root).
+
+arg(19557).
+text(19557, We are able to observe our feelings and exteriors given our biological hardware, the computer observes what it can feel and see given manufactured hardware.
+
+We have a more dynamic system but still limited. It doesn't have to pass the Turing Test to be self-aware, that's a different question.).
+att(19557, 19547).
+
+arg(19547).
+text(19547, Self awareness is the ability to perform self-introspection. The vast majority of computers cannot perform self-introspection. Relatively few can, and usually this is limited to random A|B testing of features.).
+att(19547, root).
+
+arg(19546).
+text(19546, Self aware has a different meaning than you think it has. What you're talking about is usually called proprioception. In us, this is the ability to know where your body parts are when you cant see them or to feel them
+
+But since these components are to some degree independent, it doesnt quite work).
+att(19546, 19542).
+
+arg(19542).
+text(19542, They are able to monitor and report on the hardware that is available to them, how much RAM is used, hard drive space, fan speed, temperature, user input, etc.).
+support(19542, root).
+

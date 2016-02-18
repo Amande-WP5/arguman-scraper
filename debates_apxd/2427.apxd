@@ -1,0 +1,23 @@
+arg(root).
+text(root, Child circumcision should be banned).
+
+arg(16335).
+text(16335, It cause a lot of complications, sometime moderate, and sometime awful.).
+support(16335, root).
+
+arg(16333).
+text(16333, It hurt a lot when it is do without analgesia.).
+support(16333, root).
+
+arg(16331).
+text(16331, It cause 100+ death in the USA each year.).
+support(16331, root).
+
+arg(16332).
+text(16332, It permanently modify the child penis without consent.).
+support(16332, root).
+
+arg(16334).
+text(16334, A lot of people are angry and shocked that we forced that on them when they were just children.).
+support(16334, root).
+

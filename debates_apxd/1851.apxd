@@ -1,10 +1,6 @@
 arg(root).
 text(root, ESports are just as much of a sport as soccer/football or basketball).
 
-arg(12704).
-text(12704, Esport creates a restrictive competitive environment for the purpose of producing an event and performance. ).
-support(12704, root).
-
 arg(11445).
 text(11445, But the definition of "Sport" is "an activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment." - As esport doesn't involve physical exertion, it is not a sport.).
 att(11445, root).
@@ -24,4 +20,8 @@ att(12703, 11445).
 arg(12711).
 text(12711, The effort is comparable to recognized sport performances such as shooting & marksmanship, curling, diving, golf, cricket, yo-yo, etc.    ).
 att(12711, 11445).
+
+arg(12704).
+text(12704, Esport creates a restrictive competitive environment for the purpose of producing an event and performance. ).
+support(12704, root).
 

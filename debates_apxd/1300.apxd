@@ -9,11 +9,11 @@ arg(5479).
 text(5479, However, we may have evolved.).
 att(5479, root).
 
-arg(5480).
-text(5480, the bastards wouldn't sit still for the examination).
-support(5480, root).
-
 arg(5514).
 text(5514, Evolution on that scale takes a very long time and is not noticable in short time.).
 att(5514, 5463).
+
+arg(5480).
+text(5480, the bastards wouldn't sit still for the examination).
+support(5480, root).
 

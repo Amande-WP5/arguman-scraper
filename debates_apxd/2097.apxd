@@ -1,33 +1,21 @@
 arg(root).
 text(root, The UK should bring back the death penalty.).
 
-arg(16318).
-text(16318, polices and armed forces are forced to kill persons under certain circumstances; but like you say, they are "forced"; they are under stress, they have fear etc. but that doesn`t say that they should (in a moral sense and not in a pragmatic sense) kill persons.).
-att(16318, root).
+arg(13925).
+text(13925, People are capable of changing and redeeming themselves and killing them makes it impossible to do so.).
+att(13925, 13924).
 
-arg(16166).
-text(16166, Jurisdictions that apply the death penalty do not have lower rates of affected crimes to jurisdictions without it. Therefore the death penalty is not a deterrent. ).
-att(16166, root).
+arg(14181).
+text(14181, It is much better to die in a hight (with heroine or i don’t know), than to live a life in prison.).
+support(14181, 14176).
 
-arg(16208).
-text(16208, For some extreme criminal acts which have caused a large amount of suffering, executing the criminal is a form of closure for the victims and their families).
-support(16208, root).
+arg(13923).
+text(13923, In America the death penalty costs the state more money than life in prison.).
+att(13923, 13848).
 
-arg(16206).
-text(16206, We allow police and armed forces to kill in certain circumstances - we are not saying that killing is good, but that it is necessary sometimes).
-att(16206, root).
-
-arg(14654).
-text(14654, second, again, a state who would allow killing, would say that killing (in itself) is something right under certain cirsumstances. Harm is always bad. We should protect someone from harm, we should not produce harm in order to protect someone from harm.).
-att(14654, root).
-
-arg(13927).
-text(13927, Many individuals who perpetrate this form of crime are mentally ill or suffer from severe psychological damage and therefore were not entirely in control of their own actions.).
-att(13927, root).
-
-arg(14595).
-text(14595, If we deny free will (as you seem to do) then why punish anyone at all? If our actions are truly not controlled by 'us' why hold 'us' accountable?).
-att(14595, root).
+arg(14178).
+text(14178, Why would we force people to die, when we don’t allow others to suicide ?).
+support(14178, 14176).
 
 arg(14601).
 text(14601, to decrease the resentment and anger of the victims).
@@ -37,14 +25,6 @@ arg(14600).
 text(14600, To dissuade people to do bad things.).
 att(14600, 14595).
 
-arg(13926).
-text(13926, Some people believe that nobody deserves to be killed regardless of their actions).
-att(13926, root).
-
-arg(14607).
-text(14607, second, auto drivers won`t be "making" dead. Auto drivers make mistakes, those could lead to deads. But the intention to kill isn`t there. The death penalty has the intention to kill someone under certain circumstances. This is a important difference.).
-att(14607, root).
-
 arg(14612).
 text(14612, If 2,000 people a year die because of road crashes and 12 people a year die because of death penalty errors, which of these is the more important? Do the numbers matter?).
 att(14612, 14607).
@@ -53,49 +33,13 @@ arg(14653).
 text(14653, First, when I have the intention to kill someone because of a reason, but the somenone don`t fall in the reason, then I  have really done something wrong. (First, the intention is wrong, second the victim is not guilty.) It`s like holocaust (but with only 12 deads).).
 att(14653, 14612).
 
-arg(14610).
-text(14610, if we allow under certain circumstances to kill a person. Doesn`t we say then, that killing is under certain circumstances something good ?).
-att(14610, root).
-
 arg(14602).
 text(14602, to separate dangerous people from the rest of the population and keep an eye on them.).
 att(14602, 14595).
 
-arg(14606).
-text(14606, first, because someone let something bad happen, it doesn`t give someone the ethical permission to let also something bad happen.).
-att(14606, root).
-
-arg(14608).
-text(14608, what is justice ?).
-att(14608, root).
-
-arg(14609).
-text(14609, from a utilitarian standpoint: where is the good ? Where the utility ?).
-att(14609, root).
-
-arg(13928).
-text(13928, With less bureaucracy the costs could be reduced to be lower than that of life in prison.).
-att(13928, root).
-
 arg(13929).
 text(13929, With less bureaucracy there is a greater chance of an individual being falsely accused and executed.).
 att(13929, 13928).
-
-arg(13931).
-text(13931, Individuals who perpetrate these crimes may do similar crimes within prison or, if they are released early or fulfil their life sentence before dying they may do so outside of prison again.).
-support(13931, root).
-
-arg(14162).
-text(14162, Criminals could works, and criminal could already have money to pay their foods and accommodations.).
-att(14162, root).
-
-arg(14164).
-text(14164, and the whole world goes blind.).
-att(14164, root).
-
-arg(13847).
-text(13847, If that were the case, innocent people would be murdered for crimes they didn't commit.).
-att(13847, root).
 
 arg(13848).
 text(13848, is that not better than millions paying for the free food and accommodation of criminals. In this situation - it is the lesser of 2 evils.).
@@ -109,52 +53,128 @@ arg(13946).
 text(13946, The safety measures in prisons should prevent that. Also, there are programmes in prison for social rehabilitation. If these don’t help and there is still a high risk of criminality, one could extend the time in prison).
 att(13946, 13931).
 
-arg(14167).
-text(14167, Free will is a illusion, everyone deserve to be happy.).
-att(14167, root).
-
 arg(14170).
 text(14170, this is a argument for death penalty, but it is not linked with the fact they deserve death or not.
 This argument should be moved.).
 att(14170, 13931).
 
-arg(13979).
-text(13979, Is that not Justice, but Revenge? ).
-att(13979, root).
-
 arg(14172).
 text(14172, Nobody is entirely in control of their own actions, and anyone who do stupid or evil things could be considered to have psychological problems.).
 support(14172, 13927).
-
-arg(13957).
-text(13957, An eye for an eye. ).
-support(13957, root).
 
 arg(14176).
 text(14176, If we allow people to humanly suicide, a lot of criminals would surely do it, diminishing greatly all the cost.).
 att(14176, 13848).
 
-arg(13923).
-text(13923, In America the death penalty costs the state more money than life in prison.).
-att(13923, 13848).
+arg(16208).
+text(16208, For some extreme criminal acts which have caused a large amount of suffering, executing the criminal is a form of closure for the victims and their families).
+support(16208, root).
 
-arg(13924).
-text(13924, If the death penalty is reserved for very severe crimes then the perpetrators could be said to deserve death.).
-support(13924, root).
+arg(16456).
+text(16456, yeah, but the situation of the soldiers differ from the politicians. The soldiers are "forced" in my sense to kill terrorists. But the politicians and high military ranks define what ought be done. They are not forced to kill persons. They don`t feel the stress and fear in real time (like panic). ).
+att(16456, 16324).
 
-arg(14178).
-text(14178, Why would we force people to die, when we don’t allow others to suicide ?).
-support(14178, 14176).
+arg(16324).
+text(16324, Under that same logic, are we not "forced" to act against Daesh for exactly the same reasons?).
+att(16324, 16318).
 
-arg(13925).
-text(13925, People are capable of changing and redeeming themselves and killing them makes it impossible to do so.).
-att(13925, 13924).
+arg(16318).
+text(16318, polices and armed forces are forced to kill persons under certain circumstances; but like you say, they are "forced"; they are under stress, they have fear etc. but that doesn`t say that they should (in a moral sense and not in a pragmatic sense) kill persons.).
+att(16318, 16206).
 
-arg(14181).
-text(14181, It is much better to die in a hight (with heroine or i don’t know), than to live a life in prison.).
-support(14181, 14176).
+arg(14610).
+text(14610, if we allow under certain circumstances to kill a person. Doesn`t we say then, that killing is under certain circumstances something good ?).
+att(14610, root).
+
+arg(14609).
+text(14609, from a utilitarian standpoint: where is the good ? Where the utility ?).
+att(14609, root).
+
+arg(16206).
+text(16206, We allow police and armed forces to kill in certain circumstances - we are not saying that killing is good, but that it is necessary sometimes).
+att(16206, 14610).
+
+arg(14654).
+text(14654, second, again, a state who would allow killing, would say that killing (in itself) is something right under certain cirsumstances. Harm is always bad. We should protect someone from harm, we should not produce harm in order to protect someone from harm.).
+att(14654, 14653).
+
+arg(13927).
+text(13927, Many individuals who perpetrate this form of crime are mentally ill or suffer from severe psychological damage and therefore were not entirely in control of their own actions.).
+att(13927, 13924).
+
+arg(14595).
+text(14595, If we deny free will (as you seem to do) then why punish anyone at all? If our actions are truly not controlled by 'us' why hold 'us' accountable?).
+att(14595, 14172).
+
+arg(13926).
+text(13926, Some people believe that nobody deserves to be killed regardless of their actions).
+att(13926, 13924).
+
+arg(14607).
+text(14607, second, auto drivers won`t be "making" dead. Auto drivers make mistakes, those could lead to deads. But the intention to kill isn`t there. The death penalty has the intention to kill someone under certain circumstances. This is a important difference.).
+att(14607, 14606).
+
+arg(13847).
+text(13847, If that were the case, innocent people would be murdered for crimes they didn't commit.).
+att(13847, root).
+
+arg(14606).
+text(14606, first, because someone let something bad happen, it doesn`t give someone the ethical permission to let also something bad happen.).
+att(14606, 14141).
+
+arg(14608).
+text(14608, what is justice ?).
+att(14608, 13979).
+
+arg(13957).
+text(13957, An eye for an eye. ).
+support(13957, root).
+
+arg(13928).
+text(13928, With less bureaucracy the costs could be reduced to be lower than that of life in prison.).
+att(13928, 13923).
+
+arg(13931).
+text(13931, Individuals who perpetrate these crimes may do similar crimes within prison or, if they are released early or fulfil their life sentence before dying they may do so outside of prison again.).
+support(13931, 13924).
+
+arg(14162).
+text(14162, Criminals could works, and criminal could already have money to pay their foods and accommodations.).
+att(14162, 13848).
+
+arg(14164).
+text(14164, and the whole world goes blind.).
+att(14164, 13957).
+
+arg(14167).
+text(14167, Free will is a illusion, everyone deserve to be happy.).
+att(14167, 13924).
+
+arg(13979).
+text(13979, Is that not Justice, but Revenge? ).
+att(13979, 13957).
+
+arg(16564).
+text(16564, The majority of voters would support it).
+support(16564, root).
+
+arg(16166).
+text(16166, Jurisdictions that apply the death penalty do not have lower rates of affected crimes to jurisdictions without it. Therefore the death penalty is not a deterrent. ).
+att(16166, root).
 
 arg(14141).
 text(14141, UK society already accepts the risk of innocent people dying. For example car ownership leads to innocent people dying probably far more than the death penalty would, why advocate car ownership and not the death penalty?).
 att(14141, 13847).
+
+arg(16591).
+text(16591, We should vote for what ought to be, then it is circular to say what ought to be is what we vote for.).
+att(16591, 16564).
+
+arg(16457).
+text(16457, closure from what ? pain ? revenge feelings ? anger ? ... and are they really closed by the execution. For example: a murder kills someone; the pain of missing for a mother or a father doesn`t disappear if the murder is killed.).
+att(16457, 16208).
+
+arg(13924).
+text(13924, If the death penalty is reserved for very severe crimes then the perpetrators could be said to deserve death.).
+support(13924, root).
 

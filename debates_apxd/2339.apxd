@@ -1,6 +1,11 @@
 arg(root).
 text(root, Bug-free software is possible).
 
+arg(16401).
+text(16401, Being able to recognize if an arbitrary program is bug-free would violate halting problem.
+Therefore the statement can not be proved for arbitrary programs, which I assume, is the interesting case of the premise.).
+att(16401, root).
+
 arg(15916).
 text(15916, A bug free program is possible unless your program has an infinite number of bugs. I don't think even IE6 has an infinite number of bugs.).
 support(15916, root).
@@ -12,20 +17,6 @@ support(15925, root).
 arg(15776).
 text(15776, This assertion requires an unambiguous definition for "bug" only then can we discuss the causes, origins and prevalence of them.).
 att(15776, root).
-
-arg(15755).
-text(15755, You assume bugfree= runs on every (hypothetical) computer
-But you can easily build a computer with the aim to not run the given program
-So I'd say it is a bad assumption).
-att(15755, root).
-
-arg(15657).
-text(15657, Plus, programs can be poorly written (cowboy coding and/or lack of knowledge of relevant maths), making them work in test environments, but fail in high volume transactions. Not always this is classified as bug.).
-support(15657, root).
-
-arg(15752).
-text(15752, are you sure it's not run on a hypothetical 2-bit architecture (overflow happens then)? are you sure the plan was to compute 2+3, not something else (then the whole program is a bug)? are you sure the plan was to print the result to stdout? is it available at all? can't 'print' raise an exception?).
-att(15752, root).
 
 arg(15656).
 text(15656, Why not. 
@@ -39,4 +30,32 @@ arg(15641).
 text(15641, **print(2 + 3)**
 This is a python program that adds 2 and 3  – and it has no any bug.).
 support(15641, root).
+
+arg(15755).
+text(15755, You assume bugfree= runs on every (hypothetical) computer
+But you can easily build a computer with the aim to not run the given program
+So I'd say it is a bad assumption).
+att(15755, 15752).
+
+arg(15657).
+text(15657, Plus, programs can be poorly written (cowboy coding and/or lack of knowledge of relevant maths), making them work in test environments, but fail in high volume transactions. Not always this is classified as bug.).
+support(15657, 15656).
+
+arg(15752).
+text(15752, are you sure it's not run on a hypothetical 2-bit architecture (overflow happens then)? are you sure the plan was to compute 2+3, not something else (then the whole program is a bug)? are you sure the plan was to print the result to stdout? is it available at all? can't 'print' raise an exception?).
+att(15752, 15641).
+
+arg(19464).
+text(19464, The halting problem only concern arbitrary program, it doesn't show anything about the interesting to have program.).
+att(19464, 16401).
+
+arg(19463).
+text(19463, Even the formal verified programs are without bug as long as the specification is complete, and specification is hard if possible to be complete).
+att(19463, 15916).
+
+arg(19498).
+text(19498, It's impossible to protect against every possible situation.
+
+Your code might work in normal circumstances or even be crash resistant but what if the computer explodes.).
+att(19498, root).
 

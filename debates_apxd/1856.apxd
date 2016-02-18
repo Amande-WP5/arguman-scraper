@@ -1,13 +1,13 @@
 arg(root).
 text(root, It is better not to put an overall rating in a video game test.).
 
-arg(11414).
-text(11414, Read a test doesn't take much time and give more informations than an overall rating.).
-att(11414, 11406).
-
 arg(11406).
 text(11406, For people with limited amount of time to play games and a mainstream taste for games, it's actually a good thing to rate them, if those rates come from sources with expertise.).
 att(11406, root).
+
+arg(11414).
+text(11414, Read a test doesn't take much time and give more informations than an overall rating.).
+att(11414, 11406).
 
 arg(11428).
 text(11428, Many people are not interested in the explanation for the result, they only want some authoritative source to tell them what to play. Same thing happens with people that choose films based on IMDB ratings only. ).
@@ -19,10 +19,6 @@ text(11495, So, put an overall rating tend to encourage a bad habit ?
 Welp, I guess it's easier to put a fallacy instead of arguments.).
 att(11495, 11428).
 
-arg(11807).
-text(11807, A debate is more "nourishing" if we have arguments in both side when we can agree together that some points can be more constructive than other in a side and vice versa. If we always take each thing in his absolute form, there's no point in debating.).
-att(11807, root).
-
 arg(11767).
 text(11767, Ofc, because the definition "bad habits" are subjective and depends on a series of different contexts and variables. Feel free to create a new argument defining "bad habits").
 support(11767, 11495).
@@ -30,4 +26,8 @@ support(11767, 11495).
 arg(11768).
 text(11768, Yes, because arguments require typing, while reporting fallacies require only a couple of clicks and less thinking than writing a whole argument.).
 support(11768, 11495).
+
+arg(11807).
+text(11807, A debate is more "nourishing" if we have arguments in both side when we can agree together that some points can be more constructive than other in a side and vice versa. If we always take each thing in his absolute form, there's no point in debating.).
+att(11807, 11767).
 

@@ -1,11 +1,47 @@
 arg(root).
 text(root, We should stop corporations from shifting their profits and jobs overseas to avoid paying U.S. income taxes.).
 
-arg(16051).
-text(16051, people are not willing to pay higher prices for goods and therefore corporations will lose their competitive gain with countries like China and individuals who produce ideas, design and code will lose their jobs. Due to  globalisation the only way to stay competitive is by joining the competition.).
-support(16051, root).
+arg(17218).
+text(17218, The majority of earnings held offshore were earned in foreign countries.  To apply US federal income tax to foreign earnings held abroad on top of income taxes already paid to the countries where those earnings were made amounts to unduly disadvantaging US firms via double taxation.).
+att(17218, root).
+
+arg(17286).
+text(17286, Who is "we"?).
+att(17286, root).
 
 arg(16050).
 text(16050, economics).
 att(16050, root).
+
+arg(17223).
+text(17223, Lower taxation overall may be a good thing.).
+att(17223, 16570).
+
+arg(16570).
+text(16570, Countries competing with each other by lowering taxation to attract investment is just a race to the bottom which benefits no one in the long run).
+support(16570, root).
+
+arg(17188).
+text(17188, We should be focusing on what makes it unappealing for the companies in the first place; taxation. 
+
+Why are we punishing companies for providing us with jobs, economic growth, products, etc.? You can't create value by smashing in your own windows.).
+att(17188, 17187).
+
+arg(17187).
+text(17187, Taxation doesn't create value for anyone, since the value stolen would've been used equally as much, you can't help society after hurting the individual.
+
+Competition is what creates innovation and prosperity, thinking the biggest companies are making decisions to actively ruin themselves is naive).
+att(17187, 16570).
+
+arg(16569).
+text(16569, We do attempt to change the economics of protectionist policies though international laws such as the TTIP. The arguement is sound in that this is something we 'should' work towards).
+att(16569, 16050).
+
+arg(16051).
+text(16051, people are not willing to pay higher prices for goods and therefore corporations will lose their competitive gain with countries like China and individuals who produce ideas, design and code will lose their jobs. Due to  globalisation the only way to stay competitive is by joining the competition.).
+support(16051, 16050).
+
+arg(19078).
+text(19078, Those who do the most for the economy on the most levels should be rewarded for it. If a company leaves the country to lower costs, then they are only making it tougher for nationally-based companies to compete. Less competition leads to monopoly, so by not punishing them, you hurt the economy.).
+support(19078, root).
 

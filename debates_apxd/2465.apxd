@@ -1,0 +1,35 @@
+arg(root).
+text(root, The rise of conservatism and reactionarism is caused by political ignorance.).
+
+arg(17065).
+text(17065, Economic conservatism has merits and supporters among economists. ).
+att(17065, root).
+
+arg(17287).
+text(17287, Conservatives appeal to religion and fears instead of important issues.).
+support(17287, root).
+
+arg(17299).
+text(17299, Let's see...
+
+Ford, Reagan, (skip Nixon), Eisenhower, Hoover, Coolidge, Harding, Taft, and Roosevelt were all Republican presidents in the last century. None were especially characterized as liars (like Bush, Bush Sr., Nixon).).
+att(17299, 17104).
+
+arg(17104).
+text(17104, Well, can you provide ANY example?).
+att(17104, 17066).
+
+arg(17103).
+text(17103, Who gives a shit to today's economists. They know shit about economy. It abhors me to read Piketty's "solutions" to 2008/9 crisis, it is really a hopeless field of study.
+
+It's like 1900 all over again.).
+att(17103, 17065).
+
+arg(17066).
+text(17066, There have been many instances in (even the recent) past where conservatives did *not* lie, yet were prevalent anyhow.).
+att(17066, 16807).
+
+arg(16807).
+text(16807, They ignore the meaning of key concepts, don't know any history and usually participate in populist movements where the leaders barefacedly lie and create their own truths, ignoring completely all documented history and all studies about politics and how politics works.).
+support(16807, root).
+

@@ -1,0 +1,113 @@
+arg(root).
+text(root, The rich will always get richer, and the poor poorer.).
+
+arg(18700).
+text(18700, Poor people also benefit from much of what the rich compose, and thus live more wealthy lives.).
+att(18700, root).
+
+arg(18665).
+text(18665, It is extremely difficult to break off from the cycle that our society created,  and as long as a huge percent of our resources are controlled by the rich, there will be limited opportunities for the less rich to climb up the chain. And so it will continue, with only a handful breaking free.).
+support(18665, root).
+
+arg(18709).
+text(18709, Not always.
+
+Major wars tend to mix things up and act as levelers. WW2, for example, severely rearranged wealth in Europe and for several decades the inequality was much less than before the war.).
+att(18709, 18665).
+
+arg(18708).
+text(18708, There are several examples where this is not the case. For example, the USA during 1970-2007, where "the share of [] income received by the 1% of the population with the highest income more than doubled between 1979 and 2007, whereas the share received by low- and middle-income households declined").
+att(18708, 18700).
+
+arg(18702).
+text(18702, The handful of people that manage to break free mean it is no longer always the case.).
+att(18702, 18665).
+
+arg(18741).
+text(18741, Edit the premise to say "the rich generally become richer and the poor generally become poorer" or if you want to make a specific point, try "our current system concentrates wealth into fewer hands" or something like that.).
+att(18741, root).
+
+arg(18736).
+text(18736, ALWAYS get richer and ALWAYS get poorer? I wonder if a quick google search can find some inconsistencies with that. ).
+att(18736, root).
+
+arg(18735).
+text(18735, This was not the case for the majority of human history).
+att(18735, root).
+
+arg(19179).
+text(19179, This needs some sourcing or argumentation.
+
+Technological changes, wrought, for example, by Microsoft or Apple, happened very much _during_ the growth of the companies.).
+att(19179, 19098).
+
+arg(19177).
+text(19177, Yes the second one should have actually been OP's statement to have a better discussion.).
+att(19177, 19165).
+
+arg(19181).
+text(19181, "The rich" do not "compose" and thus do not enter the equation. The rich simply invest money in companies/structures.
+
+The technological changes can and are made by companies who are often owned by lots of small investors, none of whom are rich.).
+att(19181, 18700).
+
+arg(19192).
+text(19192, Let's compare century by century then. 18th century the modern democracy was born. 19th century a good portion of the population stopped being slaves and indentured servants. 20th century lots of people got plumbing and electricity. That seems like an increase in quality of life over time, by a lot.).
+att(19192, 19180).
+
+arg(19123).
+text(19123, Quality of life /= Differences between wealth in a population. Your first premise is irrelevant for the original argument then.).
+att(19123, 19110).
+
+arg(19105).
+text(19105, Could you elaborate?).
+att(19105, 18735).
+
+arg(19098).
+text(19098, It's important to note that this is *not* the same thing as trickle-down economics. There seems to be little evidence that "rich people get massively richer" leads to "poor people also get richer". Rather, the connection is through technological changes which are usually funded by the rich.).
+att(19098, 18700).
+
+arg(19104).
+text(19104, Yes. OP should have at least said GENERALLY or something like that. Now every single response with an example will prove him wrong.).
+att(19104, 18736).
+
+arg(19097).
+text(19097, There are also many examples where it is true. I think it's safe to say that quality of life *long term* increases for everyone *on average*. The real question is whether a more equitable split could speed up or slow down this process.).
+att(19097, 18708).
+
+arg(19180).
+text(19180, Not sure how you mean "on average", because "on average" is exactly wrong here, as both a society with 100% affluent people, and one with 90% of superpoor and 10% superrich will _on average_ be wealthy.).
+att(19180, 19097).
+
+arg(19165).
+text(19165, Even then it doesn't say relatively.
+
+More accurate phrasing would be "The rich generally get richer faster than the poor" or "Income inequality generally increases over time".).
+att(19165, 19161).
+
+arg(19161).
+text(19161, My opinion is that the original argument should have said: The rich generally get richer and the poor generally get poorer. Meaning that the gap is getting bigger. In this context, your premise would have been irrelevant. Sadly, OP kind of missed that opportunity.).
+att(19161, 19154).
+
+arg(19154).
+text(19154, I'm not saying that it does. I'm saying the debate was not framed as one of inequality. Nowhere in the premise does it say "become less equal" or "become relatively richer". Because it doesn't specify that, it's rational to assume it means in absolute terms.).
+att(19154, 19147).
+
+arg(19147).
+text(19147, Increase in overall life quality does not make wealth differences go away. You might have misunderstood me.).
+att(19147, 19124).
+
+arg(19124).
+text(19124, No, it's not. Increased quality of life is a form of richness. Are you really going to make the argument that a modern poor person is as equally bad off as a poor person from 100 years ago?
+
+The contention never specified it was about inequality. It said "get richer" and "get poorer".).
+att(19124, 19123).
+
+arg(19110).
+text(19110, It's certainly hard to say that *anybody* is as badly off as in the bronze age. Or the iron age. Or even the (beginnings of) the colonial age. Sure, there's setbacks here and there, but on average quality of life has vastly increased for everyone.).
+att(19110, 19105).
+
+arg(19108).
+text(19108, that is simply just how capitalism works ).
+support(19108, root).
+

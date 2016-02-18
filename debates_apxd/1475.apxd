@@ -1,43 +1,178 @@
 arg(root).
 text(root, A universal basic income is the best way to eradicate economic inequality.).
 
-arg(7659).
-text(7659, Can we examine the effects of monetary policy (MP) and productivity gains. Massive productivity gains have been achieved over recent years. Why has this not translated to proportional increases in compensation and reductions in length of work hours? Does MP play a part?).
-att(7659, root).
+arg(18748).
+text(18748, To me it seems deeply entwined into human rationale, to benefit from the fruits of your labor.).
+support(18748, 18747).
+
+arg(10071).
+text(10071, Only if there is a method by which you could positively identify all of the citizens and ensure they only received one allotment.).
+att(10071, 8905).
+
+arg(18749).
+text(18749, Only relying on a long term benefit from ones labor, as it is realized for all of society, may hinder or make impossible deployment of new technology, as it is oftentimes not a safe bet, and often relies on larger funding(limited materal resources) to get Research and Development done, to begin with).
+support(18749, 18747).
+
+arg(18773).
+text(18773, But the bureaucrats who are currently making their living of the complexity of their system will not make that easy or even possible).
+att(18773, 18122).
+
+arg(18766).
+text(18766, I don't think I've grasped the points in this premise. Do you think you could trim it down slightly or rephrase it? I want to make sure I understand your perspective so as to not accidentally misrepresent it.).
+att(18766, 18749).
+
+arg(18765).
+text(18765, Socialism is the eradication of classes. All class societies are characterised by an inequality, whatever form that inequality may take. Feudal societies, slave societies, and capitalist societies. Before the emergence of classes (pre-agriculture), we have no reason to believe there was inequality.).
+att(18765, 18747).
+
+arg(18764).
+text(18764, Capitalism is the system which is based on the appropriation of the fruits of one's labour. A worker is paid a pittance in comparison with the value he creates, and this appropriated value goes directly to the capitalist - a person whose relationship with the worker is mutually antagonistic.).
+att(18764, 18748).
+
+arg(18750).
+text(18750, The original argument did a poor job in presenting basic income and what it does. It can be an asset in reducing economic inequality, as well as reducing the negative impact of economic inequality. It does not try to eradicate economic inequality, however. Sorry if that caused any confusion!).
+att(18750, 18747).
+
+arg(18743).
+text(18743, However, business functions perfectly well with a modest level of private ownership, say of the value you add to something, with an action. I'm also not sure how this relates to the argument, that the ability to accumulate capital helps business. (in the broadest sense of the term business anyhow.)).
+att(18743, 18740).
+
+arg(18745).
+text(18745, You said nothing that would make me think that we're going to have more wealth for everyone, by doing what you propose, compared to (partially) relying on a free market scheme, where everyone has at least a minimum ability to request things from the free market.).
+att(18745, 18739).
+
+arg(18740).
+text(18740, The act of selling presumes private ownership. Business activity also presumes private ownership. The worker-managed state is the owner of all capital [1], and things are produced for human need, rather than capital accumulation. [2]).
+att(18740, 18722).
+
+arg(18739).
+text(18739, The desire to accumulate wealth has a two-fold basis, (at the societal level) as a necessary condition of capitalist production, and (at the individual level) for social status and better living conditions. Capitalist production is abolished, social status does not derive from wealth, cont.).
+support(18739, 18738).
+
+arg(18357).
+text(18357, State protection of the wealthy and their interests is one of the primary causes of this "inequality". This includes but is not limited to slavery, subjugation of minorities, subjugation of women, bail-outs of big business, etc.).
+att(18357, 18328).
+
+arg(18738).
+text(18738, This won't happen.).
+att(18738, 18721).
+
+arg(18722).
+text(18722, Accumulating capital helps people who found success with selling a new thing, to scale up business operations and provide that thing to more people. Having more awesome things means there's more to accumulate, to satisfy greed.).
+att(18722, 18072).
+
+arg(8847).
+text(8847, Money in banks is not "sealed away"; it is used by banks to generate more money for the bank. The bank investors get to consume the money on real goods, or on more financial assets. Money in banks is used to create more money that at the very least buys peace of mind for the bank investors.).
+att(8847, 8562).
+
+arg(7683).
+text(7683, I propose that the inflationary MP of gov'ts have sapped the wealth of the working classes. All the new money is conjured from thin air and funneled to special interests at little to no interest while prices continually rise destroying savings and sucking all gains into pockets of a wealthy minority).
+support(7683, 7659).
+
+arg(18721).
+text(18721, A system in which accumulation of capital is impossible encourages people to find alternatives to accumulate wealth.
+Being conscious about a desire(+limiting its bad effects) can be better than banning it. So some level of accumulation may be desirable. E.g. with a dual currency or demurrage.).
+att(18721, 18072).
+
+arg(10365).
+text(10365, This is not what is usually proposed. What you describe would discourage people from work. ).
+att(10365, 9814).
+
+arg(18328).
+text(18328, If you remove state protection of unoccupied land and resources, the only thing that will happen is that those who are powerful/wealthy already send their people to occupy anything that seems remotely profitable, leaving the rest of us in an even worse position.).
+att(18328, 18087).
+
+arg(18312).
+text(18312, UBI may "improve the odds" of a person developing greater economic potential but that does not mean it is the "best way" to do so or, as the original argument contends that it will "eradicate inequality").
+att(18312, 18305).
+
+arg(18305).
+text(18305, But it would still improve the odds of people to develop their economic potential. For example people can concentrate on school instead of having to work jobs at the same time.).
+att(18305, 18123).
+
+arg(18141).
+text(18141, It's an analogy. i.e inequality means an unequal distribution of resources, which makes some people's lives a lot worse and makes some people's lives a tiny bit better. Look through the link to the thread I've included in the source.).
+support(18141, 18140).
+
+arg(18140).
+text(18140, Why would you do that? Why would you give both umbrellas to one person and where did you get the umbrellas to begin with??).
+att(18140, 18128).
+
+arg(18128).
+text(18128, For cruiser_moves, if you have two umbrellas and two people standing in the rain, if you give one person two umbrellas and leave the other person standing in the rain, one person is going to be wet. Being wet is undesirable. Is that simplified down enough for you?).
+support(18128, 18032).
+
+arg(18063).
+text(18063, perhaps instead of a basic income there should be a basic freedom to access land and other common resources from which "income" or other wealth may be generated).
+att(18063, root).
+
+arg(18124).
+text(18124, People with vastly greater economic opportunity will still have their advantage).
+att(18124, 10912).
+
+arg(18122).
+text(18122, We remove them all, in their place putting this. ).
+att(18122, 10894).
+
+arg(18087).
+text(18087, If instead of providing "income", we instead reduced state protection of unoccupied land and resources, then more people would have access to opportunity for wealth creation and it would not require extensive taxation (theft)).
+support(18087, 18063).
+
+arg(18074).
+text(18074, Even in countries without what we would consider to be the apparatus of a direct democracy, their Gini coefficients are far lower, and the extremes of wealth characterising modern society were non-existent.).
+att(18074, 18045).
+
+arg(18073).
+text(18073, Bullshit. If you have any proof, any citation, any scrap of evidence whatsoever that GDR party members were fabulously wealthy at the expense of ordinary citizens who lived in poverty, then post it now. In the meanwhile, read the article posted in the source.).
+att(18073, 18039).
+
+arg(18032).
+text(18032, Because inequality makes people's lives worse, makes them live in poverty, and forces them to spend their lives in conditions of oppression and hierarchy. This is a stupid question.).
+att(18032, 11138).
+
+arg(18072).
+text(18072, There is no better system to discourage the expression of greed than a system where accumulation of capital and private ownership of the means of production is impossible.).
+att(18072, 18039).
+
+arg(18126).
+text(18126, It would not *eradicate* economic inequality. It would simply set a new lowest standard for living, above which any amount of inequality could still exist.
+
+Additionally, there is a question of whether it would not lead to inflation -- if everybody can pay for X, the makers of X can raise prices.).
+att(18126, root).
+
+arg(18045).
+text(18045, It is true only if a real democracy is implemented, and for particular form of communisms.
+
+Basic income don’t need real democracy and is simpler.).
+att(18045, 18033).
+
+arg(18044).
+text(18044, It is what "universal" is about.).
+support(18044, 10364).
+
+arg(18039).
+text(18039, Human greed inevitably leads to ruling party members enriching themselves while the majority live in primitive conditions. E.g. east vs west Berlin during the cold war.).
+att(18039, 18033).
+
+arg(18123).
+text(18123, Universal basic income will not solve the underlying problem that causes economic inequality: lack of ability to access or take advantage of economic opportunity.).
+att(18123, root).
+
+arg(8852).
+text(8852, Just having money does not mean that food, services etc will just magically 'keep on working'. We need people to work tedious jobs such as garbage collection or cashier otherwise society wouldn't function. Until full automation, Universal Income wouldn't work as a concept because of this.).
+att(8852, 8526).
 
 arg(8910).
 text(8910, It is sealed away in the sense that it does not re-enter the economy. It sits in a bank accruing interest, perhaps for many years or decades. This is in contrast to actual money that is continually spent and re-spent in the economy.).
-att(8910, root).
-
-arg(8900).
-text(8900, Existing welfare systems are far worse for disincentivising work.).
-att(8900, root).
-
-arg(7562).
-text(7562, A basic income system would discourage many people from working).
-att(7562, root).
-
-arg(8999).
-text(8999, Yet people claim they love to do things that they themselves choose. The problem isn't work itself, it's the type of work we are made to do just to survive people don't like.).
-att(8999, root).
-
-arg(9002).
-text(9002, Work is not only paid work, there are lots of things that require work that are not paid for right now. Raising children, cleaning your house, studying, volunteering.
-
-So the loss of paid work will most likely be follow by a raise in unpaid work. People doing what they want to do.).
-att(9002, root).
+att(8910, 8847).
 
 arg(9006).
 text(9006, If a job is so important that society needs it to keep functioning, that job will be done, only at a higher cost. This will lead to wages that better reflect peoples preferences.).
-att(9006, root).
+att(9006, 8852).
 
 arg(8901).
 text(8901, The subsidy is often cut if the recipient finds work.).
 support(8901, 8900).
-
-arg(8903).
-text(8903, It is far more efficient than the convoluted, bureaucratic collection of welfare programmes we currently have in place.).
-support(8903, root).
 
 arg(8904).
 text(8904, It requires very little administration.).
@@ -47,21 +182,9 @@ arg(8905).
 text(8905, It is very difficult to defraud.).
 support(8905, 8903).
 
-arg(7584).
-text(7584, The best way to eradicate economic inequality was to create only one man and one woman in a garden. I didn't succeed, sorry.).
-att(7584, root).
-
-arg(8961).
-text(8961, Indexation of all incomes fixes inflation. If incomes rise with prices, purchasing power does not decrease. Inflation is a red herring.).
-att(8961, root).
-
-arg(8564).
-text(8564, A universal basic income already exists in the USA  in the form of the current myriad of welfare programs today.  Are we arguing scope/amount? Have the existng programs been successful? Aren't they administersed by an elite class of greedy beurocrats? Should we give them more power over our lives?).
-att(8564, root).
-
 arg(8560).
 text(8560, The UBI is partly successful in this case because it removes some of the tax burden on the middle and lower classes, who otherwise bear disproportionately high taxes, especially in countries with a sales tax. Alleviating this pressure results in more economic freedom and promotes growth.).
-support(8560, root).
+support(8560, 8526).
 
 arg(8608).
 text(8608, That mythological event never actually occurred.).
@@ -71,17 +194,13 @@ arg(7611).
 text(7611, People would not feel the need to work if they can make money by sitting on their ass.).
 support(7611, 7562).
 
-arg(7280).
-text(7280, If developing countries got a new global wage that is subsidized by developed countries that would hyper-inflate the local economy. Prices would rise but living conditions would remain the same.).
-att(7280, root).
-
 arg(9784).
 text(9784, There are always three ways: 
 1. Improve job conditions:wage/hours/half-automation(garbage collector earns more money)
 2. Invent a machine that does it (selfdriving garbage truck)
 3. Do it yourself (bring trash to a collection point)
 Which one it'll be is down to the priorities of the community.).
-att(9784, root).
+att(9784, 8852).
 
 arg(7617).
 text(7617, The human race is inherently lazy and aims to do as little work as possible).
@@ -95,14 +214,6 @@ arg(9793).
 text(9793, If the amount you get is not influenced by any buerocrat, because they have to give everyone the same amount, then they have less power than in the current system. ).
 att(9793, 8564).
 
-arg(9795).
-text(9795, Implementing UBI needs at least some economical balance and a basic social security construct, therefore it would never be implemented without control and it would likely fail in some countries.).
-att(9795, root).
-
-arg(8180).
-text(8180, It is unlikely that we have trialled UBI in a place where we felt it was likely to fail.).
-att(8180, root).
-
 arg(10894).
 text(10894, It is politically impossible to remove the "convoluted, bureaucratic collection of welfare programmes we currently have in place", so proposing universal income is just proposing another welfare programme in addition to these others.).
 att(10894, 8903).
@@ -113,7 +224,7 @@ att(8945, 8910).
 
 arg(8947).
 text(8947, Make the jobs attractive enough. I would like to collect garbage in an automated truck. Self-service checkouts exist already. Challenge people to automate their own tedious jobs.).
-att(8947, root).
+att(8947, 8852).
 
 arg(8949).
 text(8949, it does need more administration.).
@@ -121,57 +232,83 @@ att(8949, 8904).
 
 arg(8660).
 text(8660, I don't think an expansive monetary policy is to blame; the Fed accomodates demand for money. The private sector will create money anyway. The Fed should fund a basic income on its balance sheet, at zero cost to taxpayers.).
-att(8660, root).
+att(8660, 7683).
+
+arg(7562).
+text(7562, A basic income system would discourage many people from working).
+att(7562, root).
+
+arg(8526).
+text(8526, Universal income means that everyone (including the already rich) would be "freeloaders". Having one's essential needs taken care of allows the otherwise poor to invest time, effort, and non-basic income into creating value and meaning for themselves and others.).
+att(8526, 8187).
+
+arg(9301).
+text(9301, Most money loaned and invested by a bank is typically invested and re-invested on international finance markets, taking money out of the economy of a country, often permanently. Upper earners actively seal their money away while it accrues interest, and it does not re-enter the local economy.).
+att(9301, 8945).
+
+arg(8903).
+text(8903, It is far more efficient than the convoluted, bureaucratic collection of welfare programmes we currently have in place.).
+support(8903, root).
+
+arg(7584).
+text(7584, The best way to eradicate economic inequality was to create only one man and one woman in a garden. I didn't succeed, sorry.).
+att(7584, root).
+
+arg(8900).
+text(8900, Existing welfare systems are far worse for disincentivising work.).
+att(8900, 7562).
+
+arg(8564).
+text(8564, A universal basic income already exists in the USA  in the form of the current myriad of welfare programs today.  Are we arguing scope/amount? Have the existng programs been successful? Aren't they administersed by an elite class of greedy beurocrats? Should we give them more power over our lives?).
+att(8564, root).
+
+arg(8999).
+text(8999, Yet people claim they love to do things that they themselves choose. The problem isn't work itself, it's the type of work we are made to do just to survive people don't like.).
+att(8999, 7617).
+
+arg(9002).
+text(9002, Work is not only paid work, there are lots of things that require work that are not paid for right now. Raising children, cleaning your house, studying, volunteering.
+
+So the loss of paid work will most likely be follow by a raise in unpaid work. People doing what they want to do.).
+att(9002, 7608).
+
+arg(7280).
+text(7280, If developing countries got a new global wage that is subsidized by developed countries that would hyper-inflate the local economy. Prices would rise but living conditions would remain the same.).
+att(7280, root).
 
 arg(10912).
 text(10912, It unifies communities by providing every individual with the same economic opportunity floor.).
 support(10912, root).
 
-arg(10071).
-text(10071, Only if there is a method by which you could positively identify all of the citizens and ensure they only received one allotment.).
-att(10071, 8905).
+arg(8961).
+text(8961, Indexation of all incomes fixes inflation. If incomes rise with prices, purchasing power does not decrease. Inflation is a red herring.).
+att(8961, 7280).
+
+arg(9795).
+text(9795, Implementing UBI needs at least some economical balance and a basic social security construct, therefore it would never be implemented without control and it would likely fail in some countries.).
+att(9795, 8180).
+
+arg(8180).
+text(8180, It is unlikely that we have trialled UBI in a place where we felt it was likely to fail.).
+att(8180, 7508).
+
+arg(7659).
+text(7659, Can we examine the effects of monetary policy (MP) and productivity gains. Massive productivity gains have been achieved over recent years. Why has this not translated to proportional increases in compensation and reductions in length of work hours? Does MP play a part?).
+att(7659, root).
 
 arg(7508).
 text(7508, Most practical implementations of UBI provide income by using money already in the economy, not by printing new money. This helps prevent hyperinflation. Further, UBI is trialled in many places in the world, and hyperinflation is never a problem. ).
 att(7508, 7280).
 
-arg(10918).
-text(10918, It lubricates the accelerating impact of technology by providing everyone with a growing economic buffer against impending displacement to labor via automation.).
-support(10918, root).
-
-arg(8532).
-text(8532, Of these sources:).
-support(8532, root).
-
-arg(10364).
-text(10364, It depends on the way it is implemented, but most proponents argue for something like: everyone receives their basic income every month, and then independently of that, everyone has to do their taxes on any additional income. So, no means testing. Just normal taxes.).
-att(10364, root).
-
-arg(10365).
-text(10365, This is not what is usually proposed. What you describe would discourage people from work. ).
-att(10365, root).
-
 arg(9808).
 text(9808, The best way is to kill those who don't agree with your opinon, you should try one day. In sovietic union, everybody was happy.).
 att(9808, 7584).
-
-arg(7683).
-text(7683, I propose that the inflationary MP of gov'ts have sapped the wealth of the working classes. All the new money is conjured from thin air and funneled to special interests at little to no interest while prices continually rise destroying savings and sucking all gains into pockets of a wealthy minority).
-support(7683, 7659).
-
-arg(8553).
-text(8553, History has shown that asking the rich to help the poor doesn't work. Andrew Carnegie's essay on the role of wealth in American society outlined how the wealthy should give back to their communities. While Carnegie did fund arts and education, he wouldn't pay his workers livable wages.).
-att(8553, root).
 
 arg(9814).
 text(9814, Would a basic income not work on the basis you are guaranteed "15,000 currency"
 
 If you have a job that pays 8,000 you would need means testing to flag up you required  an additional 7000 from the govt.?).
 att(9814, 9792).
-
-arg(8847).
-text(8847, Money in banks is not "sealed away"; it is used by banks to generate more money for the bank. The bank investors get to consume the money on real goods, or on more financial assets. Money in banks is used to create more money that at the very least buys peace of mind for the bank investors.).
-att(8847, root).
 
 arg(10310).
 text(10310, A pilot project in Namibia, which was financed by donations from developed countries, showed that people started producing things and selling them, and attendance in school rose, so the next generation would have a better starting point than the last. ).
@@ -185,17 +322,9 @@ arg(10366).
 text(10366, If I get "15000 currency" from the government if I don't work, what sense would it make for me to go to work and earn "8000 currency", if that is deducted from my basic income, so I'm left with the same amount of money in the end? Additional income has to go on top, possibly minus income tax.).
 support(10366, 10365).
 
-arg(8988).
-text(8988, The premise that poor people are uneducated and unintelligent is unsubstantiated. Additionally, the assumption that these two things are the cause of poverty is also wrong. Poverty is known to hamper people's intelligence and lead to them also being less educated. ).
-att(8988, root).
-
 arg(13179).
 text(13179, There already is such a system, how else would you hold elections?).
 att(13179, 10071).
-
-arg(11115).
-text(11115, Earth is a common, everyone has the right to receive a share of its riches.).
-att(11115, root).
 
 arg(8562).
 text(8562, The reason for this effect is that middle and low earners spend far more of their income than high earners, who are more likely to invest or seal their money away in banks. They are also more likely to spend money on local products and services, boosting the regional, and thus national, economy.).
@@ -205,9 +334,9 @@ arg(11132).
 text(11132, There is no such thing as "indexation of all incomes" in a free economy.).
 att(11132, 8961).
 
-arg(11138).
-text(11138, Why should we make it our cause to end inequality? Why should it be a desirable end?).
-att(11138, root).
+arg(18329).
+text(18329, It depends on which country you're in. I was subconciously arguing from the perspective of a country that has free education etc, and then I think inequality (as in inequality of opportunity) would be gone, bar parental influence, social hierarchy and discrimination of certain groups. ).
+att(18329, 18312).
 
 arg(11140).
 text(11140, Why ought the government support the economically unproductive by seizing from the productive via taxation?).
@@ -216,10 +345,6 @@ att(11140, 10918).
 arg(11144).
 text(11144, Prices would not rise because the additional income of foreign currency would allow importing more goods and services to satisfy the demand.).
 att(11144, 7280).
-
-arg(8187).
-text(8187, There is no reason to help the poor. Allowing a group of uneducated and unintelligent to freeload only creates a class of freeloaders. Instead, the rich should be encouraged to show empathy by rewarding those who help the poor, and in turn, creating a less cutthroat economy. ).
-att(8187, root).
 
 arg(7608).
 text(7608, As automation becomes increasingly prevalent less work opportunities exist, possibly necessitating basic income. Fewer people working may not necessarily be a bad thing.).
@@ -233,19 +358,63 @@ arg(11147).
 text(11147, Earth is a common, everyone has the right to receive a share of its riches.).
 support(11147, 11140).
 
+arg(18787).
+text(18787, In short, capital is needed to develop something like a network of self driving cars, or a new cpu architecture (Any risky mega project). Though it doesn't have to be the capital in the classic capitalist sense, anyhow.).
+att(18787, 18766).
+
+arg(18747).
+text(18747, Economic inequality existed well before capitalism. Any society has had people who had access to more resources than others, even if only slightly more. Which can help leverage a good idea. With that in mind, trying to eradicate economic inequality entirely does not seem like a good idea.).
+att(18747, 18033).
+
+arg(18746).
+text(18746, Having more wealth than now, doesn't mean that people wouldn't want even more wealth. Even if your proposed system is the best for generating wealth, it does one of the worst jobs at distributing some of it with contribution in mind, compared to any system I could think of.).
+att(18746, 18739).
+
+arg(18744).
+text(18744, Theres things worth doing that the state is not supporting adequately. I'd rather do something that other human appreciate, rather than what the state found useful in an abstract process. People appreciating/enjoying, is a priority of life. States deciding what is useful is in an asymmetry with that).
+att(18744, 18740).
+
+arg(8187).
+text(8187, There is no reason to help the poor. Allowing a group of uneducated and unintelligent to freeload only creates a class of freeloaders. Instead, the rich should be encouraged to show empathy by rewarding those who help the poor, and in turn, creating a less cutthroat economy. ).
+att(8187, root).
+
+arg(8532).
+text(8532, Of these sources:).
+support(8532, 7573).
+
+arg(10364).
+text(10364, It depends on the way it is implemented, but most proponents argue for something like: everyone receives their basic income every month, and then independently of that, everyone has to do their taxes on any additional income. So, no means testing. Just normal taxes.).
+att(10364, 9814).
+
+arg(8553).
+text(8553, History has shown that asking the rich to help the poor doesn't work. Andrew Carnegie's essay on the role of wealth in American society outlined how the wealthy should give back to their communities. While Carnegie did fund arts and education, he wouldn't pay his workers livable wages.).
+att(8553, 8187).
+
+arg(8988).
+text(8988, The premise that poor people are uneducated and unintelligent is unsubstantiated. Additionally, the assumption that these two things are the cause of poverty is also wrong. Poverty is known to hamper people's intelligence and lead to them also being less educated. ).
+att(8988, 8187).
+
+arg(11115).
+text(11115, Earth is a common, everyone has the right to receive a share of its riches.).
+att(11115, 8187).
+
+arg(18033).
+text(18033, Class society is the root of economic inequality, and replacing capitalist productive relations with a socialist socioeconomic formation [1] is the most effective way to eradicate economic inequality.).
+att(18033, root).
+
+arg(10918).
+text(10918, It lubricates the accelerating impact of technology by providing everyone with a growing economic buffer against impending displacement to labor via automation.).
+support(10918, root).
+
+arg(11138).
+text(11138, Why should we make it our cause to end inequality? Why should it be a desirable end?).
+att(11138, root).
+
+arg(18038).
+text(18038, Who would pay for this wage or provide the money?).
+att(18038, root).
+
 arg(7519).
 text(7519, In places where UBI is implemented, it  demonstrably massively increases entrepreneurship, meaning people are able to do jobs and work they enjoy and are interested in. This makes them happier, raises the standard of living, makes them more participatory in democracy, and improves the economy.).
 support(7519, root).
-
-arg(9301).
-text(9301, Most money loaned and invested by a bank is typically invested and re-invested on international finance markets, taking money out of the economy of a country, often permanently. Upper earners actively seal their money away while it accrues interest, and it does not re-enter the local economy.).
-att(9301, 8945).
-
-arg(8852).
-text(8852, Just having money does not mean that food, services etc will just magically 'keep on working'. We need people to work tedious jobs such as garbage collection or cashier otherwise society wouldn't function. Until full automation, Universal Income wouldn't work as a concept because of this.).
-att(8852, root).
-
-arg(8526).
-text(8526, Universal income means that everyone (including the already rich) would be "freeloaders". Having one's essential needs taken care of allows the otherwise poor to invest time, effort, and non-basic income into creating value and meaning for themselves and others.).
-att(8526, 8187).
 

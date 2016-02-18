@@ -1,22 +1,9 @@
 arg(root).
 text(root, Proponents of Socialism or Communism will predominantly argue under bad faith - because there are no compelling arguments but the end goal of access to free money/value subsidizes them in trying to demonize Capitalism relative to Socialism.).
 
-arg(16053).
-text(16053, there are more variables to be considered. 50% of Americans will be in the top 20% some time in their life. Young people are usually in the lowest brackets while older people are in the top. Income inequality is simply political propaganda.).
-att(16053, root).
-
 arg(14113).
 text(14113, I've tried to read it a few times. I think you need to rewrite the original argument text. What your trying to say isn't easily evident. Perhaps you can try rephrasing it. Thanks.).
 att(14113, root).
-
-arg(15942).
-text(15942, You have the majority of your population working insane hours and the other part unemployed. There should be laws to force business to trickle down the profit to the people making it, and to relieve the work strain from existing workers. Work will still get done, but it's split between more people.).
-support(15942, root).
-
-arg(15940).
-text(15940, a) if you compare socialism to communism, you simply have no idea what socialism is and you need to do more research before talking.
-b) the business owner are just sitting in their palaces collecting the majority of what the workers are making.).
-att(15940, root).
 
 arg(14067).
 text(14067, Under Capitalism the poor are given two new routes out of Poverty - to bootstrap their skills so that those with Capital can market those skills to consumers and hire them - or to become a good person, grateful for charity, not feeling entitled, someone for whom there is value in helping.).
@@ -26,68 +13,38 @@ arg(14062).
 text(14062, Business owners do not pay the workers - the consumers pay the workers, the business owner is trying to sell the labor of the worker to these consumers - no amount of socialism can make consumers want to buy the labor of the worker who is STILL inefficient or provides no economic value.).
 support(14062, root).
 
+arg(15942).
+text(15942, You have the majority of your population working insane hours and the other part unemployed. There should be laws to force business to trickle down the profit to the people making it, and to relieve the work strain from existing workers. Work will still get done, but it's split between more people.).
+support(15942, 15940).
+
+arg(18086).
+text(18086, 1% of people command 50% of the world's material wealth, and the trend towards wealth inequality is only increasing.).
+att(18086, 16053).
+
+arg(17232).
+text(17232, "the business owner" is such a generalized term that it really takes the discussion nowhere other than some anti-capitalist circlejerk. I know a few business owners and I can tell you 100% for certain that they are no where near the upper-class. ).
+att(17232, 15940).
+
+arg(17196).
+text(17196, Capitalism is not a means of securing wealth for only those who have it, but for everyone. It does nothing to prevent the securing of wealth by voluntary exchange, and simply organizes a market based on the primacy of individual rather than collective property rights.).
+att(17196, 14703).
+
+arg(16053).
+text(16053, there are more variables to be considered. 50% of Americans will be in the top 20% some time in their life. Young people are usually in the lowest brackets while older people are in the top. Income inequality is simply political propaganda.).
+att(16053, 14696).
+
+arg(15940).
+text(15940, a) if you compare socialism to communism, you simply have no idea what socialism is and you need to do more research before talking.
+b) the business owner are just sitting in their palaces collecting the majority of what the workers are making.).
+att(15940, root).
+
 arg(15848).
 text(15848, A. Most prices in capitalist society's are fixed in relation to cost rather than supply and demand; and B. in monopolistic markets like those in America, efficiency is impossible, as the price charged by the monopoly is greater than the marginal cost of production, and the good is centrally planned ).
-att(15848, root).
-
-arg(14065).
-text(14065, Facilitators of future socialism work to stoke resentment by the poor for the rich so that they won't be grateful for charitable acts enough to break even on their cumulative opinion of that rich individual - thereby killing charity, increasing misery & catalyzing the production of new socialists.).
-support(14065, root).
-
-arg(14984).
-text(14984, Capital costs are a valuable contribution, by owning the equipment and ordering food stocks you expose yourself to risk that the chef does not have to endure. It is an extremely fair system and an engine for great prosperity as anyone can sell their labor to a consumer through a Capitaled business.).
-support(14984, root).
-
-arg(14937).
-text(14937, And even if it was true (it isn’t), it doesn't imply what you said at all.
-Communism is the end of private property, to prevent a few to get ownership of about all the resources (machinery, land, etc).
-Because private property grows exponentially when you are enough rich (and not too stupid).).
-att(14937, root).
-
-arg(14933).
-text(14933, No, he doesn’t receives the same remuneration no matter how good a job he does.
-Communism is the end of private property, it is not a market system where everyone get the same salary.).
-att(14933, root).
-
-arg(14064).
-text(14064, Capitalism's outlet valve for social good is Charity - Socialism destroys charity and it's rise is the reason for charity's reduced role in our lives today. Charity is conditional on being genuinely in need and being grateful for help - Socialism is unconditional so long as you have a vote to sell.).
-support(14064, root).
-
-arg(14725).
-text(14725, This is a straw man about what socialism is.).
-att(14725, root).
-
-arg(14985).
-text(14985, No, efficiency necessarily demands an accurate price discovery mechanism. This is not a trivial problem. Capitalism solves it - Communism pretends it doesn't exist and then finds out the Economy is outputting <10% of what it should be doing because of hidden costs. USSR was a staggering waste).
-att(14985, root).
-
-arg(14747).
-text(14747, The connection is far deeper than you have alluded to - the worker's labor is the commodity directly sold. The practice of marketing/selling/marshaling/packaging that labor is itself the challenge of the Capital/Business side and is not a trivial task. ).
-att(14747, root).
-
-arg(14916).
-text(14916, No, because that fallacy makes you believe the laborer takes credit for the result in it's totality which is not true. The consumer is buying the ingredients AND the worker's labor to make the product from those ingredients. There is a far more direct relationship between consumer and laborer.).
-att(14916, root).
-
-arg(14693).
-text(14693, With capitalism, the potential for working and lower class citizens to be exploited is high. Currently in America, the capital gains of the economy are being hoarded by the top 1% of the population. Ultimately, this translates to the lower and working classes being drastically under-compensated.).
-att(14693, root).
-
-arg(14695).
-text(14695, Under capitalism in America, the current level of income and wealth inequality is similar to the proportion of wealth owned by a slave compared to a slave owner in the times of slavery. The poor get just what they need to survive, while the upper class capitalizes off of the poor man's labor.).
-att(14695, root).
+att(15848, 14985).
 
 arg(14696).
 text(14696, Please watch the video below. These data show the level to which the lower and working classes have been exploited under American capitalism.).
 support(14696, 14693).
-
-arg(14703).
-text(14703, That is not the end goal of socialism. The end goal is egalitarianism. The end goal is equality. Capitalism, in practice at least, has always been the opposite—a means of more easily securing wealth for those who already have it. Thus naturally, capitalism is an inequality expediting system.).
-att(14703, root).
-
-arg(14719).
-text(14719, This is a straw man, the problem that Socialism/Communism try to solve isn’t the existence of price information at all.).
-att(14719, root).
 
 arg(14722).
 text(14722, Generally the consumers pay the business owners, and then the business owners pay the workers.).
@@ -104,14 +61,6 @@ And then the business owner use this money to pay the workers, the ingredients, 
 This is simply how it works, it is not a matter of interpretation.).
 att(14931, 14916).
 
-arg(14932).
-text(14932, There are a lot of ways to do that in a communism society, and also a lot of way to avoid the problem in the first place.).
-att(14932, root).
-
-arg(14934).
-text(14934, Price discovery doesn’t work well under capitalist systems, because it does not take into account external costs and advertisements greatly influence the sell and the price of goods.).
-att(14934, root).
-
 arg(14936).
 text(14936, "No, because that fallacy makes you believe the laborer takes credit for the result in it's totality which is not true. "
 No.).
@@ -121,11 +70,6 @@ arg(14938).
 text(14938, People have to pay the owners only because they own the things which are needed to produce and to live, and with this money the owners can buy again more properties.
 When the rest are forced to use the few they earn to live and to pay their debts.(and it get worse when there isn’t minimum wage)).
 support(14938, 14937).
-
-arg(14940).
-text(14940, "Socialism/Communism is the destruction of price information"
-No, Socialism is a social and economic system characterised by social ownership and democratic control of the means of production, as well as a political theory and movement that aims at the establishment of such a system.).
-att(14940, root).
 
 arg(14748).
 text(14748, The laborer should be grateful not to have to do these tasks themselves - but can instead focus on bringing the best labor to the table. It is not a sustainable business model on the Capital side to not reimburse the laborer in correlation with the value they bring- a competitor will poach and do so).
@@ -155,9 +99,69 @@ arg(14983).
 text(14983, Let me give a clear example: Imagine a Restaurant. The customer purchases from the Chef his skilled labor for a period of time, he also purchases from the Business owner the ingredients and the lease of the equipment (kitchen & cookers) for the duration. This is packaged into a simple product.).
 att(14983, 14931).
 
+arg(14984).
+text(14984, Capital costs are a valuable contribution, by owning the equipment and ordering food stocks you expose yourself to risk that the chef does not have to endure. It is an extremely fair system and an engine for great prosperity as anyone can sell their labor to a consumer through a Capitaled business.).
+support(14984, 14983).
+
+arg(14937).
+text(14937, And even if it was true (it isn’t), it doesn't imply what you said at all.
+Communism is the end of private property, to prevent a few to get ownership of about all the resources (machinery, land, etc).
+Because private property grows exponentially when you are enough rich (and not too stupid).).
+att(14937, 14750).
+
+arg(14933).
+text(14933, No, he doesn’t receives the same remuneration no matter how good a job he does.
+Communism is the end of private property, it is not a market system where everyone get the same salary.).
+att(14933, 14750).
+
+arg(14703).
+text(14703, That is not the end goal of socialism. The end goal is egalitarianism. The end goal is equality. Capitalism, in practice at least, has always been the opposite—a means of more easily securing wealth for those who already have it. Thus naturally, capitalism is an inequality expediting system.).
+att(14703, root).
+
+arg(14725).
+text(14725, This is a straw man about what socialism is.).
+att(14725, 14063).
+
+arg(14985).
+text(14985, No, efficiency necessarily demands an accurate price discovery mechanism. This is not a trivial problem. Capitalism solves it - Communism pretends it doesn't exist and then finds out the Economy is outputting <10% of what it should be doing because of hidden costs. USSR was a staggering waste).
+att(14985, 14932).
+
+arg(14747).
+text(14747, The connection is far deeper than you have alluded to - the worker's labor is the commodity directly sold. The practice of marketing/selling/marshaling/packaging that labor is itself the challenge of the Capital/Business side and is not a trivial task. ).
+att(14747, 14723).
+
+arg(14916).
+text(14916, No, because that fallacy makes you believe the laborer takes credit for the result in it's totality which is not true. The consumer is buying the ingredients AND the worker's labor to make the product from those ingredients. There is a far more direct relationship between consumer and laborer.).
+att(14916, 14752).
+
+arg(14693).
+text(14693, With capitalism, the potential for working and lower class citizens to be exploited is high. Currently in America, the capital gains of the economy are being hoarded by the top 1% of the population. Ultimately, this translates to the lower and working classes being drastically under-compensated.).
+att(14693, root).
+
 arg(14061).
 text(14061, Socialism/Communism is the destruction of price information, usually supported because supporters feel the price information itself is oppressing them. Capitalism is the most precise mechanism for objective price-discovery and so the fight against Capitalism is really a proxy war against reality.).
 support(14061, root).
+
+arg(14719).
+text(14719, This is a straw man, the problem that Socialism/Communism try to solve isn’t the existence of price information at all.).
+att(14719, 14061).
+
+arg(14932).
+text(14932, There are a lot of ways to do that in a communism society, and also a lot of way to avoid the problem in the first place.).
+att(14932, 14751).
+
+arg(14934).
+text(14934, Price discovery doesn’t work well under capitalist systems, because it does not take into account external costs and advertisements greatly influence the sell and the price of goods.).
+att(14934, 14061).
+
+arg(14940).
+text(14940, "Socialism/Communism is the destruction of price information"
+No, Socialism is a social and economic system characterised by social ownership and democratic control of the means of production, as well as a political theory and movement that aims at the establishment of such a system.).
+att(14940, 14061).
+
+arg(14695).
+text(14695, Under capitalism in America, the current level of income and wealth inequality is similar to the proportion of wealth owned by a slave compared to a slave owner in the times of slavery. The poor get just what they need to survive, while the upper class capitalizes off of the poor man's labor.).
+att(14695, root).
 
 arg(14063).
 text(14063, Socialism is the destruction of price information to OBSCURE the valuelessness of these workers to the consumer - so that they cannot make an informed decision of whether to pay the wage of the worker - it has not solved anything it has just forced the consumer to subsidize the valueless worker.).
@@ -170,4 +174,16 @@ att(14069, 14067).
 arg(14068).
 text(14068, The need for this proxy war against reality by the economically valueless has risen because of the terminally declining quality of education, especially State education and College education, prioritizing teacher job security, enrollment, tuition over providing any useful skills to students. ).
 support(14068, 14061).
+
+arg(14065).
+text(14065, Facilitators of future socialism work to stoke resentment by the poor for the rich so that they won't be grateful for charitable acts enough to break even on their cumulative opinion of that rich individual - thereby killing charity, increasing misery & catalyzing the production of new socialists.).
+support(14065, 14064).
+
+arg(14064).
+text(14064, Capitalism's outlet valve for social good is Charity - Socialism destroys charity and it's rise is the reason for charity's reduced role in our lives today. Charity is conditional on being genuinely in need and being grateful for help - Socialism is unconditional so long as you have a vote to sell.).
+support(14064, root).
+
+arg(19561).
+text(19561, you're arguing over word choice. It is clear that what is being targeted are the super wealthy.).
+att(19561, 17232).
 

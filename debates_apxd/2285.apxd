@@ -1,47 +1,9 @@
 arg(root).
 text(root, Batman should kill the joker).
 
-arg(15538).
-text(15538, The deception may be discovered.).
-att(15538, root).
-
-arg(15552).
-text(15552, This could play to Batman's advantage.).
-att(15552, 15536).
-
-arg(15569).
-text(15569, Batman is now a murderous liar who is now willing to justify setting up potential allies if he can rationalize an act that has, up until that point, been contrary to his stated moral code. Batman has gone from dark hero to total douchebag.).
-att(15569, root).
-
-arg(15568).
-text(15568, Not all people would, especially those who've defended Batman on the basis of his moral superiority. That defense would be more complicated, and some might feel they've been made to look foolish or stripped of the moral foundation for their defense. Their objections might gain momentum.).
-att(15568, root).
-
-arg(15565).
-text(15565, Maybe not. If Batman contradicts his own code, some might call into question the difference between Batman and the Joker, both eccentrics who operate outside the law and societal standards. Some might find inspiration in the Joker's story and might then want to follow his example.).
-att(15565, root).
-
-arg(15560).
-text(15560, He doesn’t need it, if he want to protect his reputation, he only have to kill him when it is the only way to save innocents.
-He only have to don’t think too much about how to also save the joker.
-Opportunities doesn’t lack to do it.).
-att(15560, root).
-
-arg(15556).
-text(15556, Batman want fairness and justice, anything that go against that, is at batman’s disadvantage.).
-att(15556, root).
-
-arg(15536).
-text(15536, It could hurt the reputation of the other super hero.).
-att(15536, root).
-
 arg(15484).
 text(15484, He should do it while dressed up as another rival superhero, so his reputation remains intact.).
 att(15484, root).
-
-arg(15446).
-text(15446, People would understand.).
-att(15446, root).
 
 arg(15445).
 text(15445, That would break the no kill policy he has built his reputation on, in addition this might make the general public cease trusting him and perhaps try to detain him which if successful would lead to even more deaths.).
@@ -50,4 +12,42 @@ att(15445, root).
 arg(15317).
 text(15317, Doing so would save numerous innocent lives).
 support(15317, root).
+
+arg(15552).
+text(15552, This could play to Batman's advantage.).
+att(15552, 15536).
+
+arg(15569).
+text(15569, Batman is now a murderous liar who is now willing to justify setting up potential allies if he can rationalize an act that has, up until that point, been contrary to his stated moral code. Batman has gone from dark hero to total douchebag.).
+att(15569, 15552).
+
+arg(15568).
+text(15568, Not all people would, especially those who've defended Batman on the basis of his moral superiority. That defense would be more complicated, and some might feel they've been made to look foolish or stripped of the moral foundation for their defense. Their objections might gain momentum.).
+att(15568, 15446).
+
+arg(15565).
+text(15565, Maybe not. If Batman contradicts his own code, some might call into question the difference between Batman and the Joker, both eccentrics who operate outside the law and societal standards. Some might find inspiration in the Joker's story and might then want to follow his example.).
+att(15565, 15317).
+
+arg(15560).
+text(15560, He doesn’t need it, if he want to protect his reputation, he only have to kill him when it is the only way to save innocents.
+He only have to don’t think too much about how to also save the joker.
+Opportunities doesn’t lack to do it.).
+att(15560, 15484).
+
+arg(15556).
+text(15556, Batman want fairness and justice, anything that go against that, is at batman’s disadvantage.).
+att(15556, 15552).
+
+arg(15536).
+text(15536, It could hurt the reputation of the other super hero.).
+att(15536, 15484).
+
+arg(15538).
+text(15538, The deception may be discovered.).
+att(15538, 15484).
+
+arg(15446).
+text(15446, People would understand.).
+att(15446, 15445).
 

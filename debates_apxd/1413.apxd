@@ -1,21 +1,21 @@
 arg(root).
 text(root, Bernie Sanders can beat Hillary Clinton in the primaries).
 
-arg(6699).
-text(6699, Hillary is currently polling significantly higher than Bernie overall).
-att(6699, root).
+arg(6620).
+text(6620, His base is energized and pretty much self-organizing a grass roots campaign. They will get people to turn out to vote in the primary based on this enthusiasm.).
+support(6620, root).
 
 arg(9271).
 text(9271, Numbers don't lie. He isn't winning in the polls and while he is certainly a worthy candidate, his extreme left views are going to limit those who will vote for him. Plus, Hillary killed it in the debate last night. 
 ).
-att(9271, root).
+att(9271, 6620).
+
+arg(6699).
+text(6699, Hillary is currently polling significantly higher than Bernie overall).
+att(6699, root).
 
 arg(9273).
 text(9273, Hillary Clinton could have sudden health related issue that scares voters away. 
 However, this is very unlikely. ).
 support(9273, root).
-
-arg(6620).
-text(6620, His base is energized and pretty much self-organizing a grass roots campaign. They will get people to turn out to vote in the primary based on this enthusiasm.).
-support(6620, root).
 

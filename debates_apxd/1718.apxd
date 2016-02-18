@@ -1,14 +1,6 @@
 arg(root).
 text(root, No person is better or worse than any other).
 
-arg(9867).
-text(9867, Equality and "relative worth", or whatever you want to call it, aren't the same thing, and since the original premise was that no one is "better or worse" than another, not "different", the point remains that a definition is needed for "better" or "worse".).
-att(9867, root).
-
-arg(9948).
-text(9948, If we go down this path of definitions, we also need to define the term "person". Given the dehumanization that happens during war and terrorism, the person defining better has a major impact on the definition.).
-att(9948, root).
-
 arg(9823).
 text(9823, there are people better at certain activities than others are. We need to define "better").
 att(9823, root).
@@ -22,6 +14,14 @@ text(9825, Of the criteria that are objective, there is difference among individ
 
 For both cases, objective and subjective criteria, not all people are equal.).
 support(9825, 9824).
+
+arg(9867).
+text(9867, Equality and "relative worth", or whatever you want to call it, aren't the same thing, and since the original premise was that no one is "better or worse" than another, not "different", the point remains that a definition is needed for "better" or "worse".).
+att(9867, 9825).
+
+arg(9948).
+text(9948, If we go down this path of definitions, we also need to define the term "person". Given the dehumanization that happens during war and terrorism, the person defining better has a major impact on the definition.).
+att(9948, 9823).
 
 arg(9954).
 text(9954, This does not mean that people are not different. It also does not mean that some do not realize their full potential.).

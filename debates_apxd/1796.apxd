@@ -5,18 +5,6 @@ arg(10729).
 text(10729, It is created, in part, to express ideas, imagination, and feelings.).
 support(10729, root).
 
-arg(11190).
-text(11190, Yes. The term for it is "commercial art.").
-att(11190, root).
-
-arg(10930).
-text(10930, The definiton above is more of a liberal, catch-all definition. By common standards, art refers to things like paintings or sketches.).
-att(10930, root).
-
-arg(11191).
-text(11191, Art is subjective, which is fine.).
-support(11191, root).
-
 arg(11332).
 text(11332, The definition of art is largely subjective, even in the "official" definition of art, it places the greatest value on what elicits emotions in the recipient. Even so, games by default are simply a series of paintings and sketches, qualifying them as art by that definition.).
 att(11332, 10930).
@@ -45,9 +33,17 @@ arg(11088).
 text(11088, Wouldn't this mean that most movies, plays, and screenplays are not art? ).
 att(11088, 10754).
 
-arg(10875).
-text(10875, As long as it is able to enable an emotive response and communicate through it, then it can be considered art, regardless of the motivation for it's creation, be it monetary gain or fame.).
-support(10875, root).
+arg(11190).
+text(11190, Yes. The term for it is "commercial art.").
+att(11190, 10754).
+
+arg(10930).
+text(10930, The definiton above is more of a liberal, catch-all definition. By common standards, art refers to things like paintings or sketches.).
+att(10930, 10875).
+
+arg(11191).
+text(11191, Art is subjective, which is fine.).
+support(11191, 10878).
 
 arg(10877).
 text(10877, this broad definition defines anything as art since someone at any point can derive meaning, feelings or beauty from it. Saying games is art is as meaningful as saying the universe is art, that is to say everything is art. If everything is art there's no need to distinguish it as such. ).
@@ -64,4 +60,8 @@ att(10881, 10729).
 arg(11150).
 text(11150, The consideration of art is independent of the quality of the piece of art, because that is subjective.).
 att(11150, 10754).
+
+arg(10875).
+text(10875, As long as it is able to enable an emotive response and communicate through it, then it can be considered art, regardless of the motivation for it's creation, be it monetary gain or fame.).
+support(10875, root).
 

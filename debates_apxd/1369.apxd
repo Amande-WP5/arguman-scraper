@@ -5,9 +5,9 @@ arg(6135).
 text(6135, It is their life to take.).
 support(6135, root).
 
-arg(6309).
-text(6309, Lack of legality may not always justify our actions. While tragic that there isn't a legal way to humanely end the lives of those suffering, this doesn't mean we should do it anyway.).
-att(6309, root).
+arg(6150).
+text(6150, They may not realise how precious life is).
+att(6150, root).
 
 arg(6146).
 text(6146, They might not be of right mind, which could lead to irrational actions.
@@ -15,14 +15,6 @@ text(6146, They might not be of right mind, which could lead to irrational actio
 
 ).
 att(6146, 6135).
-
-arg(6150).
-text(6150, They may not realise how precious life is).
-att(6150, root).
-
-arg(6320).
-text(6320, Does this depend on the circumstances surrounding their decision? What if they're dying and want to end their life in a painless fashion instead of continuing to suffer?).
-att(6320, root).
 
 arg(6154).
 text(6154, You can decide whether you think that person is informed enough about their misery. ).
@@ -32,17 +24,95 @@ arg(6161).
 text(6161, They might be of the right mind. Both prevention and facilitation are decisions made without 100% certainty.).
 att(6161, 6146).
 
-arg(6332).
-text(6332, Not all suicidal people are in emotional stress. Suicidal tendencies could also be genetic. ).
-att(6332, root).
+arg(6184).
+text(6184, Is it really feasible to argue the value of one's life against the effect it has on others lives? Your life is yours, no one else's. ).
+att(6184, 6171).
+
+arg(6320).
+text(6320, Does this depend on the circumstances surrounding their decision? What if they're dying and want to end their life in a painless fashion instead of continuing to suffer?).
+att(6320, root).
 
 arg(6168).
 text(6168, Suicidal people often just need help to overcome great emotional stress. Preventing a suicide always increases the changes that life might get better. Dead is dead.).
 att(6168, root).
 
-arg(6169).
-text(6169, It is appropriate to ascertain their cognitive status and to try to help them delay the decision if they appear seriously impaired (due to drugs/alcohol, head injury or traumatic emotional upset).).
-att(6169, root).
+arg(6332).
+text(6332, Not all suicidal people are in emotional stress. Suicidal tendencies could also be genetic. ).
+att(6332, 6168).
+
+arg(18069).
+text(18069, it is their own choice ).
+support(18069, root).
+
+arg(16368).
+text(16368, Some person try to suicide when they don’t really want it.).
+att(16368, root).
+
+arg(18093).
+text(18093, It is also your right (free speech) to try and persuade them to stop smoking/not commit suicide.).
+att(18093, 18070).
+
+arg(18092).
+text(18092, You could try and convince them otherwise. If you are not forcing yourself physically unto the individual, this is also your own right.).
+att(18092, 6135).
+
+arg(18070).
+text(18070, if they are a "smoker, unhealthy eater, etc." then that is their own choice).
+att(18070, 6177).
+
+arg(16373).
+text(16373, Drunk people can consent to sex.
+Almost unconscious person can’t, but it is not the same thing.).
+att(16373, 6186).
+
+arg(16372).
+text(16372, If they get the help, and still want to suicide because they suffer for a long time, it is real suffering that could be difficult or impossible to treat.).
+support(16372, 16371).
+
+arg(16370).
+text(16370, They try to call for help).
+support(16370, 16368).
+
+arg(16371).
+text(16371, If the person is in great suffering, it could be better to suicide if it doesn’t get better.
+You should not prevent suicide endlessly.).
+att(16371, 16368).
+
+arg(16369).
+text(16369, They have a moment of madness.).
+support(16369, 16368).
+
+arg(16367).
+text(16367, The other person is not killed, he only doesn’t came into existence.).
+att(16367, 6353).
+
+arg(16344).
+text(16344, Many suicidal people have tried all forms of treatment, but to no avail. We just don't know enough about the brain to cure the countless mental diseases that cause suicide (~90% of suicides are by people with a diagnosable mental illness).).
+att(16344, 6168).
+
+arg(15884).
+text(15884, even if you think that moral questions can`t have definite answers (that`s a metaethical debate), you can give advices, based on good reasons (that "only" the most persons could understand...). And if a advice could help, it could be answer to a moral question...).
+att(15884, 6233).
+
+arg(15883).
+text(15883, empirical data please ... ? (it`s not common sense, I guess ?)).
+att(15883, 6189).
+
+arg(15882).
+text(15882, may...).
+att(15882, 6204).
+
+arg(15881).
+text(15881, and it`s our duty, to care about persons (to a minimum level: to care about his life). You don`t care about persons, if you let the things just happen, that would happen anyway.).
+att(15881, 6135).
+
+arg(6747).
+text(6747, A person that wants to commit suicide may want to commit murder before doing so (Statistically very low, around 3%). This is not taking into account the aforementioned proposal that suicide could be considered a type of murder committed on one's different future self. ).
+support(6747, 6169).
+
+arg(15878).
+text(15878, Patients of chronic illness may wish to end their suffering through suicide, which is not simply emotional stress.).
+att(15878, 6168).
 
 arg(6171).
 text(6171, Suicides can disrupt the lives of others that do not belong to them (think family, those that witness the suicide should it be public, so on).).
@@ -52,12 +122,6 @@ arg(6173).
 text(6173, We have developed this wonderful tool called communication. Should they be unable to use it, it would constitute a form of not being in right mind.).
 att(6173, 6161).
 
-arg(6278).
-text(6278, Your statement an Affirmation of a Disjunct, a fallacy not implemented yet.
-
-It should be noted that many people who wish to commit suicide express their intent being due to medical conditions such as cancer.).
-att(6278, root).
-
 arg(6176).
 text(6176, A suicidal person can be mindful of who they affect. ).
 att(6176, 6171).
@@ -66,31 +130,13 @@ arg(6177).
 text(6177, You are certainly in the right to try and noncoercively convince them to do otherwise, like you could for a smoker, unhealthy eater, etc.).
 att(6177, 6135).
 
-arg(6284).
-text(6284, Unless that person is paranoid or otherwise not mental competent. They may believe those that love them and are taking care of them are actually harming them without justified belief.).
-att(6284, root).
-
 arg(6183).
 text(6183, The most commonly affected relatives are those who facilitated this person's creation. The misery of this person is caused by their creators.).
 att(6183, 6171).
 
-arg(6353).
-text(6353, But people have been shown to consistently underestimate how much they are going to change in the future.
-
-The decision is being made for a person that is technically different from the current one. Deciding to kill someone who is not 100% you is by definition murder, not suicide.).
-att(6353, root).
-
 arg(6185).
 text(6185, It IS their life; they are not required to continue suffering in order to spare others the suffering of dealing with their suicide. There are methods of exiting while also preparing others for your eventual suicide. This is, obviously, more thoughtful. ).
 att(6185, 6171).
-
-arg(6726).
-text(6726, Reducing the entirety of an individual's experiences to the causal pinpoint of conception and birth is a fallacy. ).
-att(6726, root).
-
-arg(6186).
-text(6186, People that are suicidal usually are suffering from something that clouds their judgement. That is why drunk people cannot consent to sex, because the alcohol clouds their judgement.).
-att(6186, root).
 
 arg(6189).
 text(6189, The bettered life of a suicidal person is often unhappy. ).
@@ -106,7 +152,7 @@ att(6737, 6726).
 
 arg(6299).
 text(6299, We often do consider the lives of others in our actions. Sure, sometimes it makes sense to place our lives above others, but there are other times we place others above ours.).
-att(6299, root).
+att(6299, 6184).
 
 arg(6204).
 text(6204, The help one needs may not be available.).
@@ -140,39 +186,57 @@ arg(6229).
 text(6229, Clouded judgment in case of alcohol has increased human population.).
 att(6229, 6186).
 
-arg(6233).
-text(6233, Moral questions can have no definitive answer.).
-att(6233, root).
-
-arg(6184).
-text(6184, Is it really feasible to argue the value of one's life against the effect it has on others lives? Your life is yours, no one else's. ).
-att(6184, 6171).
-
 arg(15880).
 text(15880, a bit optimistic I guess, but anyway: For each problem it exist a solution, and if it exist a solution for a problem, then the problem disappear.).
 att(15880, 6216).
 
-arg(15878).
-text(15878, Patients of chronic illness may wish to end their suffering through suicide, which is not simply emotional stress.).
-att(15878, 6168).
+arg(6309).
+text(6309, Lack of legality may not always justify our actions. While tragic that there isn't a legal way to humanely end the lives of those suffering, this doesn't mean we should do it anyway.).
+att(6309, 6215).
 
-arg(6747).
-text(6747, A person that wants to commit suicide may want to commit murder before doing so (Statistically very low, around 3%). This is not taking into account the aforementioned proposal that suicide could be considered a type of murder committed on one's different future self. ).
-support(6747, 6169).
+arg(6278).
+text(6278, Your statement an Affirmation of a Disjunct, a fallacy not implemented yet.
 
-arg(15882).
-text(15882, may...).
-att(15882, 6204).
+It should be noted that many people who wish to commit suicide express their intent being due to medical conditions such as cancer.).
+att(6278, 6223).
 
-arg(15881).
-text(15881, and it`s our duty, to care about persons (to a minimum level: to care about his life). You don`t care about persons, if you let the things just happen, that would happen anyway.).
-att(15881, 6135).
+arg(6284).
+text(6284, Unless that person is paranoid or otherwise not mental competent. They may believe those that love them and are taking care of them are actually harming them without justified belief.).
+att(6284, 6210).
 
-arg(15883).
-text(15883, empirical data please ... ? (it`s not common sense, I guess ?)).
-att(15883, 6189).
+arg(6726).
+text(6726, Reducing the entirety of an individual's experiences to the causal pinpoint of conception and birth is a fallacy. ).
+att(6726, 6210).
 
-arg(15884).
-text(15884, even if you think that moral questions can`t have definite answers (that`s a metaethical debate), you can give advices, based on good reasons (that "only" the most persons could understand...). And if a advice could help, it could be answer to a moral question...).
-att(15884, 6233).
+arg(6186).
+text(6186, People that are suicidal usually are suffering from something that clouds their judgement. That is why drunk people cannot consent to sex, because the alcohol clouds their judgement.).
+att(6186, root).
+
+arg(6233).
+text(6233, Moral questions can have no definitive answer.).
+att(6233, root).
+
+arg(6169).
+text(6169, It is appropriate to ascertain their cognitive status and to try to help them delay the decision if they appear seriously impaired (due to drugs/alcohol, head injury or traumatic emotional upset).).
+att(6169, root).
+
+arg(19337).
+text(19337, That seems to further argue that you should prevent it. If it's genetic, it's very likely it's from a mental/neurological condition that we ought to treat.).
+att(19337, 6332).
+
+arg(19336).
+text(19336, The advice would then need to be constructed in a generally applicable way, rather than as a universal argument.).
+att(19336, 15884).
+
+arg(6353).
+text(6353, But people have been shown to consistently underestimate how much they are going to change in the future.
+
+The decision is being made for a person that is technically different from the current one. Deciding to kill someone who is not 100% you is by definition murder, not suicide.).
+att(6353, root).
+
+arg(19329).
+text(19329, they have their own rights to life OR die
+
+but excluding the fact they are high drunk or any similar situations(even tho it IS possible one can use that to prevent itself to chicken out when drunk)).
+support(19329, root).
 

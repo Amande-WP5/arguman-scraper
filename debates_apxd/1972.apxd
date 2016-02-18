@@ -1,13 +1,13 @@
 arg(root).
 text(root, Socialism is preferable to social democracy, and more sustainable than it).
 
-arg(13112).
-text(13112, This is irrelevant. The fundamental contradiction is that funding social services for, and redistributing wealth to the working class, is contingent on the continued well-being of the capitalist class. The revenue of a socialist state does not depend on the welfare of the capitalist class.).
-att(13112, root).
+arg(13022).
+text(13022, Social democracies rely on their tax base to provide public facilities and to regulate corporations. Regulations decrease corporate profits, also decreasing the available tax base with which to regulate them.).
+support(13022, root).
 
-arg(13556).
-text(13556, A socialist state could use a different system than that.).
-att(13556, root).
+arg(13114).
+text(13114, The tendency of the rate of profit to fall, makes the collapse of any capitalist economy inevitable. The same is not true in the case of a socialist economy, however.).
+support(13114, root).
 
 arg(13627).
 text(13627, What else would you propose? Money requires the existence of capital and private property, and gift economies are absurdly impractical for national accounting systems. It's what was originally proposed by Marx.).
@@ -17,17 +17,13 @@ arg(13113).
 text(13113, A socialist state does not use money, but instead uses non-transferable labour tokens, which are created upon performing work, and destroyed upon being used to purchase something.).
 support(13113, 13112).
 
-arg(13022).
-text(13022, Social democracies rely on their tax base to provide public facilities and to regulate corporations. Regulations decrease corporate profits, also decreasing the available tax base with which to regulate them.).
-support(13022, root).
-
 arg(13045).
 text(13045, This implicitly assumes that there would  be no need for regulatory organizations within a socialist state. Since most governments have ethics boards, to prevent corruption, this will most likely need to continue. ).
 att(13045, 13022).
 
-arg(13114).
-text(13114, The tendency of the rate of profit to fall, makes the collapse of any capitalist economy inevitable. The same is not true in the case of a socialist economy, however.).
-support(13114, root).
+arg(13556).
+text(13556, A socialist state could use a different system than that.).
+att(13556, 13113).
 
 arg(13311).
 text(13311, This concept doesn't address the mechanism by which GDP is evaluated. It is true that rate of financial capital will outpace the value of the labor process as a return on investment is expected. However, this doesn't expect competing currency, or new markets creating demand for new skilled labor.).
@@ -55,10 +51,6 @@ arg(13654).
 text(13654, I think the best economical system is not yet invented.).
 support(13654, 13627).
 
-arg(13387).
-text(13387, First of all, all economic activity is coordinated through central planning, with "projects" taking the place of individual capitalist enterprises acting independently, and there is no private ownership. We're talking about socialism, not capitalism. Could you clarify on 1?).
-att(13387, root).
-
 arg(13310).
 text(13310, This is a bad idea for a few reasons: 1. Why would I save or invest with something like this? I would spend all my earnings if I couldn't gather capital in order to get more out of my work. 2. How would you determine the value of businesses exchanging with each other if they have to destroy revenue?).
 att(13310, 13113).
@@ -76,4 +68,12 @@ support(13652, 13627).
 arg(13628).
 text(13628, I'm afraid I can't give you a summary in less than 250 characters, but page 114-119 in Chapter 9, "Information: social problems" of Towards A New Socialism, should have what you're looking for. There's a scribd of the book in the source.).
 att(13628, 13490).
+
+arg(13112).
+text(13112, This is irrelevant. The fundamental contradiction is that funding social services for, and redistributing wealth to the working class, is contingent on the continued well-being of the capitalist class. The revenue of a socialist state does not depend on the welfare of the capitalist class.).
+att(13112, 13045).
+
+arg(13387).
+text(13387, First of all, all economic activity is coordinated through central planning, with "projects" taking the place of individual capitalist enterprises acting independently, and there is no private ownership. We're talking about socialism, not capitalism. Could you clarify on 1?).
+att(13387, 13310).
 

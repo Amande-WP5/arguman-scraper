@@ -1,66 +1,21 @@
 arg(root).
 text(root, There is nothing morally/socially wrong with Incest.).
 
-arg(9084).
-text(9084, Social norms develop and change and are simply defined by what we believe to be wrong and right. This is the subject of conversation. You're treating the result of a belief as the cause to believe it. That was also a bandwagon fallacy.
-Child Parent relationships specifically is a different premise).
-att(9084, root).
-
 arg(9709).
 text(9709, I think you should clarify or remove the "socially" part from the premise altogether. Almost every society on the planet considers it a taboo (as the other person said). So it is "socially wrong" in a way (what you postulate is kind of fuzzy), but I have no moral objection to it.).
 att(9709, root).
-
-arg(9710).
-text(9710, Yes, if you have a hand in raising that person/child it is absolutely immoral. This is referring to uncle/aunt --> niece/nephew relationships. Relationships between brother/sister/niece/nephew shouldn't be considered immoral.).
-support(9710, root).
-
-arg(10279).
-text(10279, we generally have access to contraceptives, and abortion as alternatives to pregnancy and child birth. ).
-att(10279, root).
 
 arg(9706).
 text(9706, Any children created via incest are more likely to be born with mental handicaps. Knowing you are more likely to have a child who is mentally retarded if created through incest is just as immoral as smoking or drinking while pregnant.).
 att(9706, root).
 
-arg(8966).
-text(8966, It may not be immoral, but there is value in our society to having social norms for explicitly platonic love. Especially with children and their parents, children will likely not feel as safe and comfortable in their development when there is the possibility of romantic love with a parent. ).
-att(8966, root).
-
-arg(10015).
-text(10015, To engage in an activity that can result in the birth of a mentally handicapped individual, with the foreknowledge of the increased likelihood, is a cruel act. ).
-att(10015, root).
-
-arg(9789).
-text(9789, Because it's biologically bad for the child, it is immoral in the same way that smoking while pregnant is).
-att(9789, root).
-
-arg(9790).
-text(9790, It is morally wrong because the offsprings are more likely to have genetical damage.).
-att(9790, root).
-
 arg(10281).
 text(10281, It might only be wrong for those outside of certain social spheres of any given society. If we look to the history of the royalty of the world, we can see cases of incest with little or no backlash politically. ).
 att(10281, 9709).
 
-arg(10282).
-text(10282, This relationship would change if the child was brought up in foster care. ).
-att(10282, root).
-
-arg(8807).
-text(8807, You might kill your dad and then gouge your eyes out like in Oedipus Rex).
-att(8807, root).
-
-arg(8984).
-text(8984, However, it is morally wrong if it's between a parent and a child because the parent holds power both emotionally and psychologically over the child, making it non-consensual, and therefore rape. ).
-att(8984, root).
-
 arg(8812).
 text(8812, There is no fallacy. I am a renowned historian).
 att(8812, 8807).
-
-arg(8813).
-text(8813, There is still something socially wrong as it's still taboo. But nothing really wrong morally. The dislike of it came from when you'd pop out retarded (aka "demon") kids from it. Biologically it's a no no, but not morally a no no.).
-support(8813, root).
 
 arg(8814).
 text(8814, This was no appeal to authority because I am the authority).
@@ -77,15 +32,6 @@ att(8819, 8816).
 arg(9803).
 text(9803, Incest is the sexual activity between close family members or relatives. That does not necessarily mean that they are going to have children. Plus we have the freedom of choice. And mentally handicapped people are also normal human beings not some monsters that should not exist in this world.).
 att(9803, 9706).
-
-arg(8993).
-text(8993, Every human being has a right to love whoever he or she loves.
-Love is an unstoppable emotion).
-support(8993, root).
-
-arg(9003).
-text(9003, There is a greater risk of abuse in these relationships. Power dynamics are much more complex. Age of consent would be especially important in these sorts of relationships to ensure that both parties have enough life experience to keep the relationship healthy and consensual. ).
-att(9003, root).
 
 arg(8820).
 text(8820, My flaw was Appeal to Authority you bloody dopes ).
@@ -110,4 +56,58 @@ att(9981, 9837).
 arg(10392).
 text(10392, By that logic, anyone with any sort of genetic disease or illness, or any family history of one, should not have sec with anyone ever because it might result in a pregnancy that might result in a child with genetic defects. That would exclude most people from having morally permissible sex).
 att(10392, 9706).
+
+arg(9084).
+text(9084, Social norms develop and change and are simply defined by what we believe to be wrong and right. This is the subject of conversation. You're treating the result of a belief as the cause to believe it. That was also a bandwagon fallacy.
+Child Parent relationships specifically is a different premise).
+att(9084, 8966).
+
+arg(8966).
+text(8966, It may not be immoral, but there is value in our society to having social norms for explicitly platonic love. Especially with children and their parents, children will likely not feel as safe and comfortable in their development when there is the possibility of romantic love with a parent. ).
+att(8966, root).
+
+arg(9710).
+text(9710, Yes, if you have a hand in raising that person/child it is absolutely immoral. This is referring to uncle/aunt --> niece/nephew relationships. Relationships between brother/sister/niece/nephew shouldn't be considered immoral.).
+support(9710, 8984).
+
+arg(10279).
+text(10279, we generally have access to contraceptives, and abortion as alternatives to pregnancy and child birth. ).
+att(10279, 10015).
+
+arg(8807).
+text(8807, You might kill your dad and then gouge your eyes out like in Oedipus Rex).
+att(8807, root).
+
+arg(8984).
+text(8984, However, it is morally wrong if it's between a parent and a child because the parent holds power both emotionally and psychologically over the child, making it non-consensual, and therefore rape. ).
+att(8984, root).
+
+arg(10015).
+text(10015, To engage in an activity that can result in the birth of a mentally handicapped individual, with the foreknowledge of the increased likelihood, is a cruel act. ).
+att(10015, 9803).
+
+arg(9789).
+text(9789, Because it's biologically bad for the child, it is immoral in the same way that smoking while pregnant is).
+att(9789, 8813).
+
+arg(9790).
+text(9790, It is morally wrong because the offsprings are more likely to have genetical damage.).
+att(9790, 8813).
+
+arg(10282).
+text(10282, This relationship would change if the child was brought up in foster care. ).
+att(10282, 8984).
+
+arg(8813).
+text(8813, There is still something socially wrong as it's still taboo. But nothing really wrong morally. The dislike of it came from when you'd pop out retarded (aka "demon") kids from it. Biologically it's a no no, but not morally a no no.).
+support(8813, root).
+
+arg(8993).
+text(8993, Every human being has a right to love whoever he or she loves.
+Love is an unstoppable emotion).
+support(8993, root).
+
+arg(9003).
+text(9003, There is a greater risk of abuse in these relationships. Power dynamics are much more complex. Age of consent would be especially important in these sorts of relationships to ensure that both parties have enough life experience to keep the relationship healthy and consensual. ).
+att(9003, root).
 

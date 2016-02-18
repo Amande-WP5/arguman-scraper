@@ -1,9 +1,61 @@
 arg(root).
 text(root, The mere idea of a caliphate, or religious state, is inherently fascist. Especially, when considering the fact that a majority of Muslims both favor Sharia law and the establishment of a single, vast Islamic state.).
 
+arg(16651).
+text(16651, Clause 2 of the argument states most muslims favour clause 1).
+att(16651, root).
+
+arg(16661).
+text(16661, Oh. My pardon.).
+att(16661, 16651).
+
+arg(16650).
+text(16650, Religion can only be used to legitimize an already existing condition, and in that case, much of the religion is ignored and some aspects are given importance, in order to legitimize the fascist state that Daesh is. So the problem is not ideology or religion but what fueled them, what gave them life).
+att(16650, 16534).
+
+arg(16610).
+text(16610, I may have been flippantly illustrating the fine line between nuanced discussion and the demagogs call to arms).
+att(16610, 16005).
+
+arg(16602).
+text(16602, Attack the premise not the person. I promise to reply thoughtfully and totally cognizant of the fact that I'm only human and therefore capable of bias and error. I enjoy debating because I like to see the other side of things, not out of a desire to marginalize others. ).
+support(16602, 16601).
+
+arg(16601).
+text(16601, Studies show that people feel more positive towards those who look similar to them, which means, on some level, we're all doomed to be racist. So, we overcome this failing through open discourse, learning about one another, & by questioning our own actions & words, not by labeling others. ).
+att(16601, 16588).
+
+arg(16590).
+text(16590, I agree that most isms can sow the seeds of fascism, so singling out Islam w/o balancing the view w/ other examples is unfair considering US actions in the ME region since WWI. I was aiming to illustrate how pursuing theocracy ends w/ oppression, & that the desire for theocracy is the root of issue.).
+att(16590, 16586).
+
+arg(16588).
+text(16588, Regardless of the academic defintion of 'racism' it can be used in common parlance to cover a variety of types of discrimination. A racist wont stop to consider the differnece between arab and muslim).
+att(16588, 16586).
+
+arg(16534).
+text(16534, Agreed. While I personally view religion to be at times destructive on an individual level because it grants privilege to antiquated assumptions over historical and scientific facts, what makes it fascist is the fact that power is owned by 1 ideological group that views itself as superior to others.).
+support(16534, 16403).
+
+arg(16408).
+text(16408, Racism is not about attacking what some people do because they are of a different ethnic group, this is fucking ridiculous.).
+att(16408, 16005).
+
+arg(16403).
+text(16403, I do agree, however, it is not "religiousness" in itself that makes it fascistic, fascism is not simply a reactionary movement, it must be class-collaborationist (Which it is, as they have the full support of the "precariat" and lumpenproletariat,), it must be ideally reactionary and appeal to some).
+support(16403, 15846).
+
+arg(16586).
+text(16586, Equating a religion to a race is an extreme example of special pleading because it implies Muslims are inalienable from their beliefs. It's this very belief that's used to justify the slaughter of "apostates" attempting to leave Islam or question the acts of their religious leaders.  ).
+att(16586, 16562).
+
+arg(16562).
+text(16562, regardless of interlectual wriggling the argument basicaly compares muslims to nazis).
+support(16562, 16005).
+
 arg(16005).
 text(16005, You might just be racist).
-att(16005, root).
+att(16005, 15846).
 
 arg(15846).
 text(15846, It would likely be a state typified by fascist characteristics, such as: nationalism, racism, scapegoating, human rights violations, militarism, sexism, propaganda, religious/political overlap, a ruling elite, anti-democracy, and anti-intellectualism.).

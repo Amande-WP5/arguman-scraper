@@ -5,14 +5,6 @@ arg(9335).
 text(9335, in the indic religions, from which the concept of reincarnation generally comes to us, reincarnation is seen as a problem to be overcome, not a reason for hope.).
 att(9335, root).
 
-arg(9404).
-text(9404, Fooling people to make a better society. It's very weird but, maybe, you're right. It's beyond good and evil.).
-support(9404, root).
-
-arg(9941).
-text(9941, The effects of any theory do not affect its validity.).
-att(9941, root).
-
 arg(9324).
 text(9324, Does it not also incentivize that person to do good in this life, so the next is a better life?).
 att(9324, root).
@@ -23,11 +15,19 @@ text(10262, He is not saying it's right and true because it "helps". Just that i
 Note: I had to put those quotes, since there's no proof of its efficacy.).
 att(10262, 9941).
 
+arg(10267).
+text(10267, Selfish in the matter of: "I shall live forever, because I'm important".).
+support(10267, 10265).
+
 arg(10265).
 text(10265, Why is it selfish?).
 att(10265, root).
 
-arg(10267).
-text(10267, Selfish in the matter of: "I shall live forever, because I'm important".).
-support(10267, 10265).
+arg(9404).
+text(9404, Fooling people to make a better society. It's very weird but, maybe, you're right. It's beyond good and evil.).
+support(9404, 9324).
+
+arg(9941).
+text(9941, The effects of any theory do not affect its validity.).
+att(9941, 9324).
 

@@ -1,6 +1,10 @@
 arg(root).
 text(root, AAK1).
 
+arg(14539).
+text(14539, The wild-type fly with AAK1 KD also shows climbing ability deficit.).
+att(14539, 14538).
+
 arg(14540).
 text(14540, AAK1 contains 4 potential GSK3 primed site.).
 support(14540, root).
@@ -13,10 +17,6 @@ arg(14537).
 text(14537, AAK1 is known as an endocytosis protein, AAK1 phosphorylates the μ subunit of AP2, to initiate cargo binding of endocytosis. 
 ).
 support(14537, root).
-
-arg(14539).
-text(14539, The wild-type fly with AAK1 KD also shows climbing ability deficit.).
-att(14539, 14538).
 
 arg(14541).
 text(14541, this is not an argument. you should edit this with a valid argument format. ).

@@ -1,0 +1,190 @@
+arg(root).
+text(root, Donald Trump is a racist).
+
+arg(17699).
+text(17699, If you read your premise in the purely logical fashion you suggest, DT is clearly not proven to be racist by any of the 'becauses'. He would have to make a unamibiguously racist statement which is very unlikely for a politician even with his 'outspokeness').
+att(17699, 17624).
+
+arg(17637).
+text(17637, So your premise could be rewritten as 'DT is no more racist than the average person' and retain your origional meaning?).
+att(17637, 17624).
+
+arg(17635).
+text(17635, the premise surely implies that DT is especialy racist. You wouldnt say 'DT likes cheese' and then go on to justify it by arguing that he occasionaly eats it. ).
+att(17635, 17623).
+
+arg(17618).
+text(17618, This is irrelevant.).
+att(17618, 17543).
+
+arg(17617).
+text(17617, His support is irrelevant to this. He could be the most hated or the most loved man on earth.).
+att(17617, 17542).
+
+arg(17624).
+text(17624, "to warrent calling him out as a racist of interest"
+
+
+-
+
+I am not calling him out as a racist of interest. If you read the initial premise, it is about him being racist, not that he is especially racist in regards to others. It is irrelevant.).
+att(17624, 17620).
+
+arg(17744).
+text(17744, Ok, but then we aren’t using the same definition.
+For me, "racism" is a particular ideology, and "racists" are people that share this ideology.
+In this sense not everyone is "a little bit racist".).
+att(17744, 17694).
+
+arg(17722).
+text(17722, If the premise is DT drank human breastmilk then it is true. If other drank breast milk too, he still drank it and is irrelevant to DT.You don't seem to understand this.).
+att(17722, 17716).
+
+arg(17718).
+text(17718, Donald Trump is racist -OR- Donald Trump corp. employs statistically less black people than you would expect for the population, but more than similar companies.).
+att(17718, 17715).
+
+arg(17717).
+text(17717, Donald Trump kissed an underage boy !! -OR- (while on campaign tour) DT kissed a baby for the cameras).
+att(17717, 17715).
+
+arg(17716).
+text(17716, Eg : Donald Trump drank human breast milk!! 
+-OR- 
+(when he was a baby) Donald Trump drank human breast milk).
+att(17716, 17715).
+
+arg(17714).
+text(17714, would a not racist person say that?).
+att(17714, 17347).
+
+arg(17713).
+text(17713, if the commonly held interpretation of your statement is incorrect, then your phrasing of it was bad).
+att(17713, 17711).
+
+arg(17712).
+text(17712, Americans are (on average) racist).
+support(17712, 17542).
+
+arg(17711).
+text(17711, Then you assumed incorrectly because "racist" is literally only an adjective to describe different qualities of a person. Thus the only premises that should be debated in here is whether he expresses those qualities, not the political/social/moral/philosophical implications coming out of it.).
+att(17711, 17709).
+
+arg(17710).
+text(17710, FRRRREEEEEEEEDDDOOOOMMMMMMmmmmmmm).
+att(17710, 17706).
+
+arg(17709).
+text(17709, I am not a robot and assume the premise means DT is unusualy racist and or appealing to racist and his policies if enacted would cause racist effects even if the policies and statement arent strictly speaking racist in of themselves if you apply formal logic).
+att(17709, 17707).
+
+arg(17707).
+text(17707, Then you should put the "but" premises to those statements, and not argue that he is not much more racist than the average human, which is irrelevant to the original premise.).
+att(17707, 17699).
+
+arg(17706).
+text(17706, Scotland is not a race.).
+att(17706, 17698).
+
+arg(17623).
+text(17623, Being a racist is not dependent on other people's racism. 200 years ago most people in the USA believed black people were inferior. It doesn't matter how many people were agreeing, it was still incredibly racist.).
+att(17623, 17620).
+
+arg(17705).
+text(17705, Again, it is not making any comparison to anyone else. Whether I would be liable for defamation, while true, is irrelevant.).
+att(17705, 17697).
+
+arg(17704).
+text(17704, Whether it is interesting/usual is irrelevant to the premise.).
+att(17704, 17694).
+
+arg(17698).
+text(17698, It shows he dosnt doscriminate against all races).
+att(17698, 17618).
+
+arg(17697).
+text(17697, We do not live in robot world. If you called someone a racist on TV and then said 'oh but I meant only in the same way all are a little bit racist' I think you would still be liable for defamation).
+att(17697, 17693).
+
+arg(17694).
+text(17694, Logicaly correct, but it makes the statement uninteresting. Ie. 'Sure everyone is a little bit racist sometimes but we all try hard not to be. DT is not unusual in this respect').
+att(17694, 17638).
+
+arg(17693).
+text(17693, No, the premise implies nothing, it is just a statement.).
+att(17693, 17635).
+
+arg(17692).
+text(17692, No, because then it would be another premise. The premise we are discussing is still legit.).
+att(17692, 17637).
+
+arg(17639).
+text(17639, It doesn’t retain the original meaning.
+
+If DT is racist and other people are more racist, the answer would be "yes" to the original question, and "no" to the second.
+
+And if DT is not racist, and other people neither, the answer would be "no" to the first, and "yes" to the second.).
+att(17639, 17637).
+
+arg(17543).
+text(17543, He loves Scotland).
+att(17543, 17233).
+
+arg(17638).
+text(17638, If DT eats cheese, surely he like cheese, independently of others people eating cheese or not.
+
+He could have eat cheese for others reasons than liking it, but overall it is a good clue that he like it.).
+att(17638, 17635).
+
+arg(17620).
+text(17620, This means we are ALL racists and begs the question og whether DT is more racist enough than the average american to warrent calling him out as a racist of interest).
+att(17620, 17617).
+
+arg(17457).
+text(17457, The point above is that we can't assume that his views of mexican immigrants are representative of his views of all racial mexicans.  Yes, his comments on immigrants are bigoted, but we can't assume they're motivated by race or that they reflect his views of all mexicans or only immigrants.).
+att(17457, 17425).
+
+arg(17425).
+text(17425, "He was saying that the people illegally immigrating across the Mexican border were criminals, thieves, and rapists."
+
+And this is not just blatantly false, the majority of people coming over are obviously mexicans so he implied that the mexican illegal immigrants were rapists, exactly like I said).
+att(17425, 17347).
+
+arg(17542).
+text(17542, People like him and his (racist?) views. Hence : you might as well call everyone racist).
+att(17542, root).
+
+arg(17769).
+text(17769, Its true but trival. If you define you premise down to the wire then there is no argument. You premise defines the conclusion).
+att(17769, 17722).
+
+arg(17715).
+text(17715, How can the phrasing of "Person X is Y" be any simpler?
+
+-
+
+The expected answers are "He is Y because a, b, c. He is not Y because d, e, f."
+
+-
+
+Not: "He might be Y but others are Y too."
+
+So giving comparisons are irrelevant, as I already stated way up there in the upper premises.).
+att(17715, 17713).
+
+arg(17347).
+text(17347, That's not an accurate or fair interpretation of his statement.  To be fair, he was saying that the people illegally immigrating across the Mexican border were criminals, thieves, and rapists.  His statements didn't directly imply that all or even most Mexicans are criminals, thieves, and rapists.).
+att(17347, 17233).
+
+arg(17216).
+text(17216, Although he's suggested that the US restrict entry for Muslims and all illegal immigration over its Mexican border, neither suggestion necessarily implies a racial restriction or different treatment based on race.).
+att(17216, 17189).
+
+arg(17233).
+text(17233, He strongly implied that Mexicans are mostly rapists in a speech.).
+support(17233, root).
+
+arg(17189).
+text(17189, he wants to treat people differently based on their racial grouping.).
+support(17189, root).
+

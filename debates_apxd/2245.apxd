@@ -13,13 +13,13 @@ arg(15001).
 text(15001, I think inspite of the fact that the sister struggles to lose weight, I don't think that she could endure the temptation of the cake.).
 support(15001, root).
 
-arg(15016).
-text(15016, Why you think that was because you don't need to do that).
-att(15016, root).
-
 arg(15007).
 text(15007, The sister is losing weight now; probably she has had a crush on a handsome boy so she wanted to lose weight in order to be attractive. So, her desire to lose weight would overwhelm her desire to eat the cake.).
 att(15007, 15001).
+
+arg(15008).
+text(15008, Don't look down a girl's determination haha!).
+att(15008, 15001).
 
 arg(15018).
 text(15018, Losing weight is her dream.Actually,she doesn't lose weight at all.She is the murderer.She destroyed grandpa's strawberry dream.).
@@ -33,7 +33,7 @@ arg(15005).
 text(15005, I think that losing weigh is just her excuse.).
 support(15005, root).
 
-arg(15008).
-text(15008, Don't look down a girl's determination haha!).
-att(15008, 15001).
+arg(15016).
+text(15016, Why you think that was because you don't need to do that).
+att(15016, 15008).
 

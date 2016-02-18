@@ -5,15 +5,15 @@ arg(16205).
 text(16205, By considering it a disease it can have a treatment. For many people that treatment is diet and exercise, for some a gastric band or other.).
 att(16205, root).
 
-arg(14820).
-text(14820, However, it's important to note that many diseases can *cause* obesity. It would be more accurate to call it a symptom than a disease, really.).
-att(14820, root).
+arg(14768).
+text(14768, It isn't. Obesity is a medical condition in which excess body fat has accumulated to the extent that it may have a negative effect on health, leading to reduced life expectancy and increased health problems. So basically, obesity is a leading cause to diseases, not a disease itself.).
+att(14768, root).
 
 arg(15107).
 text(15107, A disease is, as already stated, a condition. A condition can be a symptom, obviously.).
 att(15107, 14820).
 
-arg(14768).
-text(14768, It isn't. Obesity is a medical condition in which excess body fat has accumulated to the extent that it may have a negative effect on health, leading to reduced life expectancy and increased health problems. So basically, obesity is a leading cause to diseases, not a disease itself.).
-att(14768, root).
+arg(14820).
+text(14820, However, it's important to note that many diseases can *cause* obesity. It would be more accurate to call it a symptom than a disease, really.).
+att(14820, 14768).
 

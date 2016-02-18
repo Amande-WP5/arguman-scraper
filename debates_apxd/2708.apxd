@@ -1,0 +1,11 @@
+arg(root).
+text(root, Arguman should have fallacy moderators.).
+
+arg(18786).
+text(18786, To become a fallacy mod you should have to pass a fallacy test.).
+att(18786, root).
+
+arg(18785).
+text(18785, People should be able to report incorrect fallacy reports to have them moderated.).
+support(18785, root).
+

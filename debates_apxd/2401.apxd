@@ -1,6 +1,95 @@
 arg(root).
 text(root, Static typing is better than dynamic typing in programming languages.).
 
+arg(16399).
+text(16399, Developers can focus better in the domain problem using a dynamic typed language because they do not need to worry for pleasing the type-checker).
+att(16399, root).
+
+arg(16090).
+text(16090, Static types help you craft a domain model that is logical and consistent.).
+support(16090, root).
+
+arg(16448).
+text(16448, Types are easy to convert from one to another in dynamic languages.
+Static typing need to cast.).
+att(16448, root).
+
+arg(16440).
+text(16440, Doesn't have to be. Verbosity has nothing to do with static typing or not (See witty one-liners in FP languages). The same bloat also exists in dynamic languages. Eg. Facebook and php. It's an expression of bad design and not of language. Static typing doesn't promote that kind of bad design per se.).
+att(16440, 16426).
+
+arg(16397).
+text(16397, Some consistent and logic domain models can not be crafted in most static typed programming languages.).
+att(16397, 16090).
+
+arg(16396).
+text(16396, The only subset of compile errors that static typed languages detects that the dynamic ones do not are type errors.
+Also, not all the type errors implies a program error, causing that a valid program may be rejected.).
+att(16396, 16072).
+
+arg(16386).
+text(16386, A good programming language does not require to be widely adopted.).
+att(16386, 16073).
+
+arg(17013).
+text(17013, Static typification is very often leading to better maintainable codebases: Before you start coding you need an exessive design phase and architecture blueprinting. It is less done so in dynamic pl. Thats why they are good for quick prototyping. You already have a hardtime renaming a variable though).
+support(17013, 16099).
+
+arg(16426).
+text(16426, Static typing leads to large codebases with more files and classes compared to dynamically typed languages. It also forces the continual creation of logic which has nothing to do with the actual problem being solved. And which have to be maintained too.).
+att(16426, root).
+
+arg(16545).
+text(16545, By taking a type driven approach, developers can focus on crafting a logically consistent domain model before having to worry about the process of implementation. The type checker can be seen as a tool for exploring the problem space.).
+att(16545, 16399).
+
+arg(16525).
+text(16525, The types are not enforced by the compiler, meaning that without discipline, the type signatures can drift away from the implementation, reducing their value.).
+att(16525, 16096).
+
+arg(16524).
+text(16524, Languages with type inference, as far as I know, either recommend annotating types of functions as best practice, or just don't use global type inference.).
+att(16524, 16091).
+
+arg(16523).
+text(16523, Every error can be made a type error in a sufficiently expressive type system, with the extreme case being dependent types, which can encode everything.
+
+In practice, though, I think that type systems that support tagged unions / variant types catch many bugs with little effort.).
+att(16523, 16396).
+
+arg(16449).
+text(16449, There are other things that can be done with the type checking alone. Like SKI calculus in scala.
+Also just in terms of expressibility there's nothing that cannot be done in one language or in the other, if both are Turing Complete. It just has to be done differently.).
+att(16449, 16394).
+
+arg(16400).
+text(16400, Static type-checking prevents silly and easy to fix mistakes early enough that could be troublesome to fix in the future.).
+support(16400, root).
+
+arg(16443).
+text(16443, In many cases the type system is not expressive enough to straightforward type my expression. Therefore I have to express myself in a way that the type-checker can soundly prove my expression, which is annoying.).
+att(16443, 16441).
+
+arg(16444).
+text(16444, Dynamic typed systems need to place guards in hot spot optimizations to ensure that the optimization is running over the correct structure. For example: method foo expects a single argument arg1 which is an Array, but dynamic typed languages can not ensure it will be always like that in the future).
+support(16444, 16097).
+
+arg(16073).
+text(16073, ).
+att(16073, root).
+
+arg(16072).
+text(16072, It is easier to detect and fix compile-time errors than runtime errors.).
+support(16072, root).
+
+arg(16441).
+text(16441, The types need to be correct anyway. So the worry surfaces at runtime or during testing. Debugging because of hidden type errors is mostly more time consuming than correcting compiler errors immediately. Also these exact problems are often only found when the system is already in production.).
+att(16441, 16399).
+
+arg(16431).
+text(16431, I would say it is not the case at all. The logic/yak shaving ratio is much lower for dynamically typed languages. Properly name-spaced and unit-tested, they should be easier or much easier to maintain. Also - refactoring is much simpler in dynamic languages.).
+att(16431, 16102).
+
 arg(16071).
 text(16071, Static typing serves as reliable documentation.).
 support(16071, root).
@@ -9,25 +98,29 @@ arg(16094).
 text(16094, Dynamic typing languages are much easier to use, learn and faster for prototyping.).
 att(16094, root).
 
-arg(16267).
-text(16267, Static type checking provides a very important category of tests (and help prevent logical errors too). These sort of tests don't need to be explicitly written. On the other hand they are more often than not neglected in dynamic languages.).
-att(16267, root).
-
 arg(16198).
 text(16198, Typing is merely one check that can be performed. A comprehensive test suite provides a lot more confidence in the code, and minimises the effectiveness of the type checking.).
 att(16198, root).
 
-arg(16095).
-text(16095, Type systems can sometimes forbid valid programs, especially if a the type system is not very expressive.).
-att(16095, root).
+arg(16442).
+text(16442, Dynamic typing has easier access to meta information. This has advantages and disadvantages, like monkey patching. It's more difficult to realise in static typed languages (for compiler creators), but does exist in form of Reflection.).
+att(16442, root).
 
-arg(16097).
-text(16097, Static typing allows compilers to optimize in a way that is hardly achievable with dynamic typed languages).
-support(16097, root).
+arg(16398).
+text(16398, Good design and documentations is far more important for large team, big codebase development.).
+att(16398, 16099).
 
-arg(16132).
-text(16132, Depends on your application. One is not better then another in each and every case.).
-att(16132, root).
+arg(16394).
+text(16394, There are valid programs that can not be typechecked by most of current static typed programming languages.).
+att(16394, 16100).
+
+arg(16389).
+text(16389, Having a low amount of users and supporters makes it harder to have a good and up to date set of libraries.).
+att(16389, 16386).
+
+arg(16267).
+text(16267, Static type checking provides a very important category of tests (and help prevent logical errors too). These sort of tests don't need to be explicitly written. On the other hand they are more often than not neglected in dynamic languages.).
+att(16267, 16198).
 
 arg(16103).
 text(16103, Once a statically typed language is learnt, it's easier to switch to / learn a dynamic typed one then the other way around.).
@@ -37,25 +130,9 @@ arg(16102).
 text(16102, It's harder to develop in and maintain big codebases or legacy code.).
 att(16102, 16094).
 
-arg(16101).
-text(16101, Type annotations are optional in Python).
-att(16101, root).
-
 arg(16100).
 text(16100, Dynamic typing is theoretically a subset of static typing with just one type.).
 att(16100, 16095).
-
-arg(16099).
-text(16099, It's easier to manage a large team or a big codebase.).
-support(16099, root).
-
-arg(16098).
-text(16098, Programming tools like IDE's can provide a richer set of supporting features or they are more sophisticated. Mainly regarding refactoring, suggestions, debugging, metrics, detection, prove, inspection, documention, generation, build,...).
-support(16098, root).
-
-arg(16090).
-text(16090, Static types help you craft a domain model that is logical and consistent.).
-support(16090, root).
 
 arg(16096).
 text(16096, Python 3.5 serves too, which is a dynamically typed programming language.).
@@ -65,11 +142,39 @@ arg(16091).
 text(16091, Global type inference means that some statically typed programs can be written with very few, or no explicit types).
 att(16091, 16071).
 
-arg(16073).
-text(16073, ).
-att(16073, root).
+arg(16099).
+text(16099, It's easier to manage a large team or a big codebase.).
+support(16099, root).
 
-arg(16072).
-text(16072, It is easier to detect and fix compile-time errors than runtime errors.).
-support(16072, root).
+arg(16101).
+text(16101, Type annotations are optional in Python).
+att(16101, 16096).
+
+arg(16097).
+text(16097, Static typing allows compilers to optimize in a way that is hardly achievable with dynamic typed languages).
+support(16097, root).
+
+arg(16098).
+text(16098, Programming tools like IDE's can provide a richer set of supporting features or they are more sophisticated. Mainly regarding refactoring, suggestions, debugging, metrics, detection, prove, inspection, documention, generation, build,...).
+support(16098, root).
+
+arg(16132).
+text(16132, Depends on your application. One is not better then another in each and every case.).
+att(16132, root).
+
+arg(16095).
+text(16095, Type systems can sometimes forbid valid programs, especially if a the type system is not very expressive.).
+att(16095, root).
+
+arg(19494).
+text(19494, An absence of users often leads to an absence of contributors which leads to language stagnation and 'death').
+att(19494, 16386).
+
+arg(19305).
+text(19305, First of all your argument is subjective (*you* have a problem with typesystems). Second, dynamic languages also have a typesystem that you need to program against. Third, better to have a weak typesystem than none at all.).
+att(19305, 16443).
+
+arg(19499).
+text(19499, well typed programs don't go wrong!).
+support(19499, root).
 

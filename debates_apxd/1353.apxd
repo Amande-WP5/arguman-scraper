@@ -1,49 +1,29 @@
 arg(root).
 text(root, Nuclear power is actually very safe and environmentally friendly. We should use it more and keep improving our reactors.).
 
+arg(8793).
+text(8793, Most electric power grids do not have significant storage capabilities, thus production must be adjusted to meet demand in nearly real time. This is not possible with solar and wind power.).
+support(8793, 8783).
+
+arg(7338).
+text(7338, Different fuel cycles like the thorium breeder could reduce the fraction of long-lived nuclear waste to basically nothing, only needing storage for about 100 years.).
+att(7338, 6002).
+
 arg(7232).
 text(7232, Superpowers could be used for evil).
-att(7232, root).
+att(7232, 7191).
 
 arg(7550).
 text(7550, Would it not be the better course of action to improve the technology first, and then create the waste?).
-att(7550, root).
+att(7550, 7513).
 
 arg(7402).
 text(7402, Human life is not the only factor to consider in choosing a power source. The displacement of hundreds of thousands of people from their homes due to nuclear exclusion zones, as well as the long term effects of radioactive fallout in causing various types of cancer should also be considered.).
-att(7402, root).
-
-arg(6004).
-text(6004, There is no evidince that, nuclear waste wont leak into soil by time.).
-att(6004, root).
-
-arg(7563).
-text(7563, Renewable energy does have it's own disadvantages. They can only be used in certain places (windy, sunny, rivers), and they are impractically expensive and complicated for large scale use. There are also far less efficient than nuclear power.).
-att(7563, root).
-
-arg(7250).
-text(7250, You don't have a viable or reliable source to back up your information.).
-att(7250, root).
-
-arg(6006).
-text(6006, Public opinion, while an issue of implementation, has little effect on the actual safety of a reactor.).
-att(6006, root).
-
-arg(6007).
-text(6007, So does natural Uranium, which is depleted for use as fuel.).
-att(6007, root).
+att(7402, 7367).
 
 arg(6009).
 text(6009, Public opinion is very important when spending government money.).
 att(6009, 6006).
-
-arg(6016).
-text(6016, The fatalities of adding more CO2 and toxins into the air using current power generation method far outweighs the small number of fatalities of nuclear accidents ).
-att(6016, root).
-
-arg(7577).
-text(7577, liquid fluoride thorium reactors operate on a fuel cycle that entails no risk of nuclear meltdown.).
-att(7577, root).
 
 arg(6018).
 text(6018, True. But natural radioactivity occurs everywhere. There is no truly radiation free zone. It follows that we dont have to stop leakage 100% but only 99.9% (or so) so the natural radiation is not increased to harmful levels.).
@@ -57,10 +37,6 @@ arg(6040).
 text(6040, nobody can predict the future, so nobody can guarantee that the waste will stay safe over the thousand years).
 att(6040, 6018).
 
-arg(7594).
-text(7594, All safety precautions were used in Fukushima but the mines were unsafe and wouldn't pass a (western) inspection.).
-att(7594, root).
-
 arg(8557).
 text(8557, There is also the psycological component of living near(-ish) a device that has the capasity, if it fails, to subject you to unreasonable pain and death.).
 support(8557, 7402).
@@ -69,33 +45,9 @@ arg(6045).
 text(6045, Nuclear waste is buried in geological formations that has remain undisturbed for periods longer than the waste will take to decay to a harmless level.).
 att(6045, 6004).
 
-arg(7134).
-text(7134, If the Mesopotamians had nuclear reactors, current technology would be advanced past the stage where nukes are relevant.).
-att(7134, root).
-
-arg(7409).
-text(7409, Yucca Mountain would remove it from communities and store it in a place where it doesn't need to be worried about, so far under ground and in such a dry place that it can be considered extremely safe.).
-att(7409, root).
-
-arg(6023).
-text(6023, Coal is worse than Nuclear, both in total human deaths through environmental pollution as well as in miner deaths, as well as in radiation-related deaths, as well as in CO2 generation, which might kill all humans via climate change.).
-support(6023, root).
-
-arg(6002).
-text(6002, Nuclear waste lasts for million years).
-att(6002, root).
-
 arg(7138).
 text(7138, Technology is consistently getting better, so containment will be increasingly effective.).
 att(7138, 6040).
-
-arg(7351).
-text(7351, While Nuclear is a rather safe source of energy, better methods exist today which we should be focusing on. The time needed improving Nuclear to produce more power more safely can be better spent on further developing technologies such as wind and solar which are already safer and more available.).
-att(7351, root).
-
-arg(5967).
-text(5967, Even though the deaths per megawatt are a lot lower for nuclear reactors, the deaths per reactor failure are quite high and this polarized public opinion against them).
-att(5967, root).
 
 arg(7142).
 text(7142, If we reach a time where we can't safely store nuclear waste, we'll have bigger problems than that.).
@@ -104,24 +56,6 @@ att(7142, 6040).
 arg(6060).
 text(6060, but what about the political hazards ? if the sumerians in mesopotamia  would have had build nuclear waste deposits thousand yeras ago, isis would now control a huge amount of hazardous nuclear waste).
 att(6060, 6045).
-
-arg(8783).
-text(8783, The possibility of nuclear contamination has to be weighed against the certainty of environmental degradation caused by comparable sources of energy such as coal and hydroelectric.).
-att(8783, root).
-
-arg(7421).
-text(7421, More nuclear reactors mean more available nuclear waste.
-
-More available nuclear waste means more opportunities to create a dirty bomb.).
-att(7421, root).
-
-arg(7407).
-text(7407, There is incredible potential for nuclear power to negatively affect the environment in the event of a meltdown. ).
-att(7407, root).
-
-arg(5986).
-text(5986, Accidents with nuclear power have proven to be very fatal, so everything should be done to minimize the risk of an accident).
-att(5986, root).
 
 arg(6065).
 text(6065, Coal exposes more people to radioactive poisoning than nuclear plants.).
@@ -141,19 +75,11 @@ att(7626, 6002).
 
 arg(8795).
 text(8795, Improved electrical energy storage technologies may mitigate this problem in the future.).
-att(8795, root).
+att(8795, 8793).
 
 arg(6086).
 text(6086, The longer it takes for a type of nuclear waste to decay, the less radioactive it is, meaning it is easier to store safely.).
 att(6086, 6002).
-
-arg(7501).
-text(7501, It is fairly safe to assume that if the Sumerians had such high level of technology, the technology in the current day would be extremely advanced. ).
-att(7501, root).
-
-arg(7191).
-text(7191, You might fall into a pit of radio active waste and get super powers).
-support(7191, root).
 
 arg(7344).
 text(7344, It seems to be more that radiation is seen as singularly menacing, due to media reporting and maybe also the invisibility. No one actually died in Fukushima, yet it was reported on much more than any mining accidents in the same period.).
@@ -174,7 +100,7 @@ att(7513, 6040).
 arg(8539).
 text(8539, solar power hasn't done any of that.
 (other than perhaps, falling on someone)).
-att(8539, root).
+att(8539, 7589).
 
 arg(7363).
 text(7363, That's a bold assumtion.).
@@ -184,17 +110,9 @@ arg(8543).
 text(8543, There are very few things it can be recycled into.).
 att(8543, 6073).
 
-arg(7528).
-text(7528, Both will explode.).
-att(7528, root).
-
 arg(7367).
 text(7367, nuclear energy is by far the least deadly per trillion kWh produced, even when you count older disasters such as chernobyl.).
 att(7367, 7351).
-
-arg(7369).
-text(7369, Coal is the rarest thing in the universe!).
-support(7369, root).
 
 arg(7373).
 text(7373, The only thing that can stop a bad guy with a bomb is a good guy with a bomb.).
@@ -204,9 +122,83 @@ arg(8551).
 text(8551, There will be vunrabilities in any given system, so it is no unreasonable, given the consiquenses, to be more than a little hesitant to store it, regardless of future containment methods.).
 att(8551, 7138).
 
+arg(7250).
+text(7250, You don't have a viable or reliable source to back up your information.).
+att(7250, 7227).
+
+arg(6006).
+text(6006, Public opinion, while an issue of implementation, has little effect on the actual safety of a reactor.).
+att(6006, 5967).
+
+arg(6007).
+text(6007, So does natural Uranium, which is depleted for use as fuel.).
+att(6007, 6002).
+
+arg(6016).
+text(6016, The fatalities of adding more CO2 and toxins into the air using current power generation method far outweighs the small number of fatalities of nuclear accidents ).
+att(6016, 5986).
+
+arg(7577).
+text(7577, liquid fluoride thorium reactors operate on a fuel cycle that entails no risk of nuclear meltdown.).
+att(7577, 7407).
+
+arg(7594).
+text(7594, All safety precautions were used in Fukushima but the mines were unsafe and wouldn't pass a (western) inspection.).
+att(7594, 7344).
+
+arg(7134).
+text(7134, If the Mesopotamians had nuclear reactors, current technology would be advanced past the stage where nukes are relevant.).
+att(7134, 6060).
+
+arg(7409).
+text(7409, Yucca Mountain would remove it from communities and store it in a place where it doesn't need to be worried about, so far under ground and in such a dry place that it can be considered extremely safe.).
+att(7409, 6002).
+
+arg(5967).
+text(5967, Even though the deaths per megawatt are a lot lower for nuclear reactors, the deaths per reactor failure are quite high and this polarized public opinion against them).
+att(5967, root).
+
+arg(7421).
+text(7421, More nuclear reactors mean more available nuclear waste.
+
+More available nuclear waste means more opportunities to create a dirty bomb.).
+att(7421, root).
+
+arg(7407).
+text(7407, There is incredible potential for nuclear power to negatively affect the environment in the event of a meltdown. ).
+att(7407, root).
+
+arg(5986).
+text(5986, Accidents with nuclear power have proven to be very fatal, so everything should be done to minimize the risk of an accident).
+att(5986, root).
+
+arg(8783).
+text(8783, The possibility of nuclear contamination has to be weighed against the certainty of environmental degradation caused by comparable sources of energy such as coal and hydroelectric.).
+att(8783, 7407).
+
+arg(7191).
+text(7191, You might fall into a pit of radio active waste and get super powers).
+support(7191, root).
+
+arg(7369).
+text(7369, Coal is the rarest thing in the universe!).
+support(7369, root).
+
+arg(7501).
+text(7501, It is fairly safe to assume that if the Sumerians had such high level of technology, the technology in the current day would be extremely advanced. ).
+att(7501, 7363).
+
+arg(6002).
+text(6002, Nuclear waste lasts for million years).
+att(6002, root).
+
+arg(7528).
+text(7528, Both will explode.).
+att(7528, 7373).
+
 arg(7226).
 text(7226, There have been 3 major nuclear incidents, all reactors designed in the 50's or 60's).
-att(7226, root).
+att(7226, 7068).
 
 arg(7541).
 text(7541, Which again is a fair assumtion, but an assumtion none the less. We can't rely on future technology to fix our issues; in this case: We can't assume to have a solution to radioactive waste by the time it becomes a problem.).
@@ -221,15 +213,23 @@ text(7068, Most reactors and nuclear technology is from the 1980s. Public opinio
 ).
 att(7068, 5986).
 
-arg(7338).
-text(7338, Different fuel cycles like the thorium breeder could reduce the fraction of long-lived nuclear waste to basically nothing, only needing storage for about 100 years.).
-att(7338, 6002).
-
-arg(8793).
-text(8793, Most electric power grids do not have significant storage capabilities, thus production must be adjusted to meet demand in nearly real time. This is not possible with solar and wind power.).
-support(8793, 8783).
-
 arg(7589).
 text(7589, The number of deaths incurred and damage costs due to nuclear power plant accidents/incidents is vastly outnumbered by the number of deaths and cost of damage (environmental, etc) cause on an annual basis by the oil/coal/gas industry.).
 att(7589, 5986).
+
+arg(6004).
+text(6004, There is no evidince that, nuclear waste wont leak into soil by time.).
+att(6004, 6002).
+
+arg(7563).
+text(7563, Renewable energy does have it's own disadvantages. They can only be used in certain places (windy, sunny, rivers), and they are impractically expensive and complicated for large scale use. There are also far less efficient than nuclear power.).
+att(7563, 7349).
+
+arg(6023).
+text(6023, Coal is worse than Nuclear, both in total human deaths through environmental pollution as well as in miner deaths, as well as in radiation-related deaths, as well as in CO2 generation, which might kill all humans via climate change.).
+support(6023, root).
+
+arg(7351).
+text(7351, While Nuclear is a rather safe source of energy, better methods exist today which we should be focusing on. The time needed improving Nuclear to produce more power more safely can be better spent on further developing technologies such as wind and solar which are already safer and more available.).
+att(7351, root).
 

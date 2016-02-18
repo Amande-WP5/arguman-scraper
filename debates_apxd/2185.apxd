@@ -1,11 +1,51 @@
 arg(root).
 text(root, Both socialism and capitalism can function as economic systems when employed under adequate circumstances.).
 
-arg(15847).
-text(15847, America's best years economically were either times when we underpaid labor (slavery; child labor), or times when we'd just implemented socialist policies (post-depression). Freedom is the key to prosperity, and only socialism offers actual freedom. Capitalist freedom is actually quite expensive.).
-att(15847, root).
+arg(16427).
+text(16427, Scandinavia is a welfare capitalist state, it has nothing of socialism in it.).
+att(16427, 14545).
+
+arg(17503).
+text(17503, The argument is meaningless, as it is impossible to prove either way.).
+att(17503, root).
 
 arg(14545).
 text(14545, Nations such as the Scandinavian states have succeeded under largely socialist policies and other western states have prospered under capitalism.).
 support(14545, root).
+
+arg(16439).
+text(16439, It's not one writer, there are whole generations of writers that use socialism exactly for that. The use of the word socialism for all State-enterprises is a modern deturpation of it's true meaning.).
+att(16439, 16438).
+
+arg(17194).
+text(17194, Socialism is coercive, while capitalism is not.).
+att(17194, root).
+
+arg(16425).
+text(16425, The economic system is only a generalization of a form of production relations, which means socialism can only exist in the particular material circumstances that allow socialist production relations.).
+support(16425, root).
+
+arg(17195).
+text(17195, It is deliberately misleading to keep changing the definition of socialism to fit adjusted views. It is a stretch to call some social policies that were already there because of the free market, and simply have this money go through government before it reaches the companies and call it ''socialism').
+att(17195, 16445).
+
+arg(16438).
+text(16438, One writer does not define what socialism is. It is accepted by all economists that the above examples are socialism, and that almost all nations (including the US) are partly socialist.).
+att(16438, 16437).
+
+arg(16445).
+text(16445, Just because the term "socialism" has evolved doesn't make the current definition incorrect. The entire economic community agrees that the above are examples of socialism.).
+att(16445, 16439).
+
+arg(16437).
+text(16437, Socialism is a society where production is social, the state withers away and private property is deemed obsolete, not when the State administer some things that the bourgeoisie agrees or accepts not to make profit on.).
+att(16437, 16436).
+
+arg(15847).
+text(15847, America's best years economically were either times when we underpaid labor (slavery; child labor), or times when we'd just implemented socialist policies (post-depression). Freedom is the key to prosperity, and only socialism offers actual freedom. Capitalist freedom is actually quite expensive.).
+att(15847, 14545).
+
+arg(16436).
+text(16436, Public education, public healthcare, public roads, welfare, etc. are all examples of socialism. They exist in Scandinavia and in the US.).
+att(16436, 16427).
 

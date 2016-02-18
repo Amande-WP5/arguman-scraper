@@ -1,18 +1,6 @@
 arg(root).
 text(root, Women shouldn't be able to drive cars).
 
-arg(8994).
-text(8994, There is no proof to suggest that being a women is directly a part of a problem when driving, not even a small part.).
-att(8994, root).
-
-arg(8990).
-text(8990, Because women talk too much in cars, which shifts focus away from the traffic, and therefore puts others in danger.).
-support(8990, root).
-
-arg(9866).
-text(9866, Nobody should be allowed to drive cars. Humans are horrible at operating motor vehicles and their incompetence leads to hundreds of thousands of deaths per year. Self driving cars should be the only vehicles allowed on roads.).
-support(9866, root).
-
 arg(8996).
 text(8996, Fallacy because there is no proof or linked source that women talk too much during driving.).
 att(8996, 8990).
@@ -20,10 +8,6 @@ att(8996, 8990).
 arg(9001).
 text(9001, I really think you shouldn't be one to talk about lack of proof, since you haven't stated any reliable sources for any of your arguments).
 att(9001, 8996).
-
-arg(9012).
-text(9012, You could also argue to deny men the right do drive, thus this argument is not sustainable.).
-att(9012, root).
 
 arg(9020).
 text(9020, but men aren't as emotional, which makes them more rational when making quick decisions on the road.).
@@ -40,31 +24,15 @@ att(9023, 9020).
 
 arg(8998).
 text(8998, The smaller amount of cars on the road would naturally make less car accidents happen, and I believe removing women would be a reasonable move for greater good.).
-support(8998, root).
-
-arg(9449).
-text(9449, Men shouldn't be allowed to drive cars either. ).
-att(9449, root).
+support(8998, 8991).
 
 arg(9227).
 text(9227, This is not a phenomenon related only to women. Men can talk too much while driving too. Therefore we should ban everyone from driving.).
 att(9227, 8990).
 
-arg(9228).
-text(9228, The original argument was so banal that I didn't feel the need to explain why a women has the right to human rights, obviously. Women not being able to drive while men can drive is a violation of her human rights, which are defined internationally and not by Saudi Arabia.).
-att(9228, root).
-
 arg(9230).
 text(9230, Citation for your statements needed.).
 att(9230, 9020).
-
-arg(8968).
-text(8968, women make rash decisions influenced by emotions).
-support(8968, root).
-
-arg(8972).
-text(8972, Women have a right to own a car and have a driving license. Denying those rights would be a human rights violation e.g. Saudi Arabia.).
-att(8972, root).
 
 arg(8974).
 text(8974, You don't link any reliable sources, and who are you to say Saudi Arabia's ways of dealing with women are wrong).
@@ -83,10 +51,6 @@ text(8979, it might not be a "big part" of driving in the first place, but its s
 Also you still fail to link to any reliable sources, I'm starting to think you might be a female).
 att(8979, 8975).
 
-arg(9245).
-text(9245, There is absolutely no evidence except peoples small minded observations in favor of this. The ratio of fatal car crashes involving men to fatal car crashes involving women is 2.5 to 1. Men are more likely to get nearly all types of traffic violations (reckless driving, DUI, speeding, etc.)).
-att(9245, root).
-
 arg(8981).
 text(8981, but they are violating human rights to save other human beings, wouldn't this justify it?).
 att(8981, 8977).
@@ -94,10 +58,6 @@ att(8981, 8977).
 arg(9250).
 text(9250, As my father used to say; "Driving is a privilege- not a right."  Also, the right to drive is not defined in the Constitution, so there's that... ).
 att(9250, 8972).
-
-arg(9077).
-text(9077, I have never met a woman, but my observations from afar have lead me to believe that they lack the ability control a vehicle without becoming emotional).
-support(9077, root).
 
 arg(9259).
 text(9259, You are just playing with words. Not being allowed to drive because of your biological sex is discrimination and Saudi Arabia is seen as violating women's rights by not allowing them to drive. Source below. Note how the driving ban is included into the human rights violations by Saudi Arabia.).
@@ -108,29 +68,9 @@ text(9267, It is a well known fact that cars being driven by people are responsi
 ).
 support(9267, 9227).
 
-arg(9375).
-text(9375, Yes they are).
-att(9375, root).
-
-arg(9109).
-text(9109, They can't properly see out of their niqabs.).
-support(9109, root).
-
 arg(9111).
 text(9111, That's circular logic. It's like saying I should be the prime minister because I have the right to be prime minister.).
 att(9111, 8972).
-
-arg(9844).
-text(9844, Human rights is something we define globally and of course we can impose criticism to other countries because of that.).
-att(9844, root).
-
-arg(9448).
-text(9448, Cars are deadly weapons, and their carbon-based emissions lead to global warming. ).
-support(9448, root).
-
-arg(9297).
-text(9297, They don't know what they're doing.).
-support(9297, root).
 
 arg(9300).
 text(9300, Talking a lot correlates primarily with personality extraversion, NOT gender.).
@@ -143,10 +83,6 @@ att(9302, 9300).
 arg(9303).
 text(9303, Being emotional correlates with personality, NOT gender.).
 att(9303, 8968).
-
-arg(9304).
-text(9304, There's a reason why insurance is more expensive for males - because statistics show they have higher hazard ratio in traffic!).
-att(9304, root).
 
 arg(9305).
 text(9305, They're not.).
@@ -176,4 +112,68 @@ arg(8991).
 text(8991, No, because there is no proof that they are saving other human lives, mainly because you didn't give any source as to what lives they are saving.
 Also, denying human right to safe other lives would cause more harm than good.).
 att(8991, 8981).
+
+arg(8968).
+text(8968, women make rash decisions influenced by emotions).
+support(8968, root).
+
+arg(8994).
+text(8994, There is no proof to suggest that being a women is directly a part of a problem when driving, not even a small part.).
+att(8994, 8979).
+
+arg(8972).
+text(8972, Women have a right to own a car and have a driving license. Denying those rights would be a human rights violation e.g. Saudi Arabia.).
+att(8972, root).
+
+arg(9012).
+text(9012, You could also argue to deny men the right do drive, thus this argument is not sustainable.).
+att(9012, 8998).
+
+arg(9449).
+text(9449, Men shouldn't be allowed to drive cars either. ).
+att(9449, 9448).
+
+arg(9228).
+text(9228, The original argument was so banal that I didn't feel the need to explain why a women has the right to human rights, obviously. Women not being able to drive while men can drive is a violation of her human rights, which are defined internationally and not by Saudi Arabia.).
+att(9228, 9111).
+
+arg(9077).
+text(9077, I have never met a woman, but my observations from afar have lead me to believe that they lack the ability control a vehicle without becoming emotional).
+support(9077, root).
+
+arg(9109).
+text(9109, They can't properly see out of their niqabs.).
+support(9109, root).
+
+arg(9448).
+text(9448, Cars are deadly weapons, and their carbon-based emissions lead to global warming. ).
+support(9448, root).
+
+arg(9297).
+text(9297, They don't know what they're doing.).
+support(9297, root).
+
+arg(9375).
+text(9375, Yes they are).
+att(9375, 9305).
+
+arg(9304).
+text(9304, There's a reason why insurance is more expensive for males - because statistics show they have higher hazard ratio in traffic!).
+att(9304, root).
+
+arg(9844).
+text(9844, Human rights is something we define globally and of course we can impose criticism to other countries because of that.).
+att(9844, 9314).
+
+arg(8990).
+text(8990, Because women talk too much in cars, which shifts focus away from the traffic, and therefore puts others in danger.).
+support(8990, root).
+
+arg(9866).
+text(9866, Nobody should be allowed to drive cars. Humans are horrible at operating motor vehicles and their incompetence leads to hundreds of thousands of deaths per year. Self driving cars should be the only vehicles allowed on roads.).
+support(9866, root).
+
+arg(9245).
+text(9245, There is absolutely no evidence except peoples small minded observations in favor of this. The ratio of fatal car crashes involving men to fatal car crashes involving women is 2.5 to 1. Men are more likely to get nearly all types of traffic violations (reckless driving, DUI, speeding, etc.)).
+att(9245, root).
 

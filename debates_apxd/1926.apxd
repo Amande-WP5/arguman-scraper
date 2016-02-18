@@ -1,14 +1,6 @@
 arg(root).
 text(root, People will argue over anything.).
 
-arg(12330).
-text(12330, Many opinions are given based on emotional reactions, which by definition are illogical. So, in a context involving people with such opinions, people can argue over anything that goes against their illogical opinions. ).
-support(12330, root).
-
-arg(12634).
-text(12634,     ).
-support(12634, root).
-
 arg(12650).
 text(12650, As long as they disagree.).
 support(12650, root).
@@ -17,15 +9,23 @@ arg(12669).
 text(12669,  ).
 support(12669, 12650).
 
+arg(12333).
+text(12333, Two formal logical systems can disagree given different axioms. This brings into question the existence of universal truths.).
+att(12333, 12331).
+
 arg(12366).
 text(12366, Why you gotta take that tone tho?).
 att(12366, root).
+
+arg(12634).
+text(12634,     ).
+support(12634, 12366).
 
 arg(12331).
 text(12331, In a ideal scenario with only logical and reasonable people, those wouldn't argue about universal  or obvious statemrnts ( such as "true is equal true" )).
 att(12331, root).
 
-arg(12333).
-text(12333, Two formal logical systems can disagree given different axioms. This brings into question the existence of universal truths.).
-att(12333, 12331).
+arg(12330).
+text(12330, Many opinions are given based on emotional reactions, which by definition are illogical. So, in a context involving people with such opinions, people can argue over anything that goes against their illogical opinions. ).
+support(12330, root).
 

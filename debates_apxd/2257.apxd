@@ -1,30 +1,98 @@
 arg(root).
 text(root, All recreational drugs should be legalized but heavily regulated.).
 
-arg(16202).
-text(16202, And sources for "the vast majority").
-support(16202, root).
+arg(17415).
+text(17415, Banning and regulating are different things with different logic behind them.
+The government is the people. 
+Government = people regulating themselves.
+The government carrys out the will of the people, that's what government does.
+).
+att(17415, 17361).
 
-arg(16193).
-text(16193, some drugs are known to highly correlate usage with criminality).
-att(16193, root).
+arg(17354).
+text(17354, Any kind of regulation is over-regulation. If there's a demand for it the supply will be there, banning/regulating never worked and never will.).
+support(17354, 15444).
+
+arg(17353).
+text(17353, This is excactly the same logic used by the people who wanted to ban drugs, thinking you know what's best for the consumer. 
+
+People who say drugs should be illegal say this because they think they're protecting the consumer against himself as well. 
+).
+att(17353, 17352).
+
+arg(17285).
+text(17285, Current laws do not regulate illegal drugs. 
+
+Illegal drugs are currently unregulated. 
+
+We need laws that regulate drugs to make them less harmful to consumers.
+
+Illegal drugs should be regulated like legal ones, like alcohol.
+).
+att(17285, 17274).
+
+arg(17274).
+text(17274, You already agree that laws can have good intentions but yield bad results by saying the law should go, then why don't you see these regulations as the exact same thing; good intentions; bad results?
+
+What legal drugs are you talking about if these regulations would still put legal restrictions?).
+att(17274, 17229).
+
+arg(17229).
+text(17229, I didn't claim there should be no drug laws. The problem is current drug laws do not regulate illegal drugs.
+
+Illegal drugs are in an unregulated criminal market.
+
+Legal drugs are in a regulated legal market.
+
+The very purpose, point and meaning of laws and regulations are to reduce harm.).
+att(17229, 17214).
+
+arg(17205).
+text(17205, What is your reason then for thinking this law is unjust, and why can't this same reason apply to regulation?).
+att(17205, 17200).
+
+arg(16786).
+text(16786, The claim "no negative influences on their lives" is not made. The claim is the vast-overwhelming majority of drug users don't typically experience a negative outcome. Some already have negative things going on in their lives, drug use can sometimes make this worse but the root cause is not drugs.).
+att(16786, 16774).
+
+arg(16774).
+text(16774, I don't agree with the saying like "no negative influences on their lives", by which I mean negative influences are objective and sure to happen. It depends on how negative influences outweigh the positive ones. That differs from person to person. ).
+att(16774, 15401).
+
+arg(16726).
+text(16726, People often commit crimes that have no negative impact. You yourself probably commit crimes regularly with no negative impact. Speeding is a common one.).
+att(16726, 16707).
+
+arg(16713).
+text(16713, Much of this is explained by the fact that drugs are an illegal act in themselves. ).
+att(16713, 16193).
+
+arg(16689).
+text(16689, Drugs don't make people cause crimes. Drug prohibition attracts criminals to drugs and turns otherwise law abiding people into criminals. That is why there is a correlation.).
+att(16689, 16193).
+
+arg(16707).
+text(16707, Places have decriminalized drugs. Drug users there are by definition, not criminals. 
+It is the criminalization of drugs that creates the negative impact. 
+
+If drugs users consume from a decriminalized and regulated market there is no negative criminal impact.).
+att(16707, 16690).
+
+arg(16706).
+text(16706, Drug war fearmongering, stigmatization and criminalisation creates an immensely negative environment for drug users, vastly increasing the likely hood of addiction. The inevitable addicts are then used to fuel anti-drug propaganda, helping create more addicts.).
+support(16706, 16666).
+
+arg(16690).
+text(16690, Illegal drug users are, by definition, criminals. And criminality generally negatively impacts your life. Therefore this entire thread of argumentation appears to be flawed.).
+att(16690, 15401).
+
+arg(16666).
+text(16666, Drugs don't cause addictive behaviour. Being in a negative/traumatic environment dramatically increases the likely hood of  addiction to pleasurable things, boosting otherwise low dopamine levels. Fix the negative environment/trauma and you fix the addiction.).
+att(16666, 15588).
 
 arg(15691).
 text(15691, It got to the point where we're harming more people with laws than the drugs themselves. Small exmaple: Heroin (besides having bad withdraw) doesn't cause brain damage, users do not use it irresponsibly unless access is limited. Heroin addicts can live a normal life with regulated access. ).
 support(15691, root).
-
-arg(15620).
-text(15620, The greatest negative impact drugs have is when they're over used due to addiction. Even heroin, considered the most addictive illegal drug, has an addiction rate of 23%. That means 77% of heroin users don't experience addiction. The addiction rate for cannabis is 9%, about the same as video games.).
-support(15620, root).
-
-arg(15607).
-text(15607, You need sources to that :
-"their drug use does not negatively impact their life").
-att(15607, root).
-
-arg(15588).
-text(15588, Many drugs are habit forming and can lead to degenerative nervous system disorders and chronically (no pun intended) impaired judgement, so legalization  also requires the development of an infrastructure for those whose drug use becomes destructive to themselves and/or those they love. ).
-att(15588, root).
 
 arg(15394).
 text(15394, Drug use is a victimless crime. It is a health issue not a criminal issue. Punishing people for a health issue only makes their condition worse.
@@ -35,16 +103,115 @@ arg(15444).
 text(15444, Heavy regulation, taxes, and other restrictions could drive the drug trade to the black market if it's too overbearing, leading to the same problems we have now (other than the mass incarceration) ).
 att(15444, root).
 
-arg(15401).
-text(15401, The vast majority of illegal drug users are not criminals and their drug use does not negatively impact their life. For most it is a positive to their lives.
-Ruining someone's life for something that they enjoy and benefit from is the real crime.
-).
-support(15401, root).
+arg(16202).
+text(16202, And sources for "the vast majority").
+support(16202, 15607).
+
+arg(16193).
+text(16193, some drugs are known to highly correlate usage with criminality).
+att(16193, 15394).
+
+arg(15607).
+text(15607, You need sources to that :
+"their drug use does not negatively impact their life").
+att(15607, 15401).
+
+arg(15588).
+text(15588, Many drugs are habit forming and can lead to degenerative nervous system disorders and chronically (no pun intended) impaired judgement, so legalization  also requires the development of an infrastructure for those whose drug use becomes destructive to themselves and/or those they love. ).
+att(15588, 15401).
 
 arg(15396).
 text(15396, Many illegal drugs have shown great therapeutic value. Stigmatizing and not researching or using these substances is ignorant and prolongs the suffering of those that could benefit.
 ).
 support(15396, root).
+
+arg(17355).
+text(17355, Regulation does not tell consumers what to do. It regulates the manufacturers and retailers of products to make sure they are creating a genuine safe product for consumers.).
+att(17355, 17353).
+
+arg(17421).
+text(17421, Government regulation of markets and corporations means consumers can regulate their own products.
+
+If you do not know what your product is made of you cannot accurately regulate it's usage for yourself.).
+support(17421, 17420).
+
+arg(17420).
+text(17420, When governments don't regulate markets/corporations they cut corners, pollute the environment and release harmful products to consumers.
+
+The consumer doesn't know what they're getting and so can't regulate for themselves what they consume.).
+support(17420, 17419).
+
+arg(17193).
+text(17193, What would this ''regulation'' be? Why are you not applying the same logic that makes you want people to be free from these laws to mean you want people to be free from these regulations as well?).
+att(17193, root).
+
+arg(17419).
+text(17419, Science tells us what is harmful.
+Government regulates what is harmful.
+
+If governments didn't regulate harmful things companies and people would manufacture and release harmful products to consumers and the environment. 
+
+Without regulation consumers cannot know what they are consuming.).
+support(17419, 17416).
+
+arg(17416).
+text(17416, Banning removes a harmful product or practice outright. Regulation removes/minimizes harmful elements of a product or practice to make it safe.).
+support(17416, 17415).
+
+arg(17361).
+text(17361, Government should be left out of the entire matter completely, banning and regulation are just different names for the same practice with the same logic behind it: ''I know what's best for the consumer and I must enforce my policies for their own good''
+
+Let the people regulate their own goods
+
+).
+att(17361, 17285).
+
+arg(17357).
+text(17357, Alcohol is actually poorly regulated. They are allowed to advertise everywhere, especially sporting events that should promote health. They also don't have to list ingredients and their percentages on their products. Alcohol and illegal drugs should be more regulated.).
+att(17357, 17285).
+
+arg(15620).
+text(15620, The greatest negative impact drugs have is when they're over used due to addiction. Even heroin, considered the most addictive illegal drug, has an addiction rate of 23%. That means 77% of heroin users don't experience addiction. The addiction rate for cannabis is 9%, about the same as video games.).
+support(15620, 15401).
+
+arg(17352).
+text(17352, Regulation means consumers know what they're getting, instead of an unknown potentially harmful product.).
+att(17352, 17288).
+
+arg(17288).
+text(17288, How is intervening every time the product appears not a form of regulation?
+
+Your logic for making the drugs legal is because it's a decision up to the consumer, but then you still think you're in a position to enforce a plan thinking you know what's better for the consumer than himself.).
+att(17288, 17285).
+
+arg(17214).
+text(17214, A drug law is the biggest regulation there can be, so what is your logic behind approving some regulations but not others? By saying we should ''regulate'' in a way that causes no harm is naive, since every single person in control always thinks they're acting to reduce harm. ).
+att(17214, 17207).
+
+arg(17207).
+text(17207, Current drug laws cause harm, so are unjust and should be changed.
+
+Unregulation causes harm, so is unjust.
+
+Regulation decreases harm, so is just.).
+att(17207, 17205).
+
+arg(17200).
+text(17200, It's not about freedom from law. The law is unjust and needs changing. 
+Law and regulation is only supposed to take away freedom from criminals or those that can cause harm or loss to others. 
+
+Unregulation causes great harm.).
+att(17200, 17193).
+
+arg(16787).
+text(16787, Anything can be abused or misused leading to a negative outcome. Nothing can be 100% safe 100% of the time. People sometimes indulge or make mistakes. The vast majority of people can use alcohol, coffee, junk food or drive a car without any problems. It's the same with illegal drugs.).
+support(16787, 16786).
+
+arg(15401).
+text(15401, The vast majority of illegal drug users are not criminals and their drug use does not negatively impact their life. For most it is a positive to their lives.
+Ruining someone's life for something that they enjoy and benefit from is the real crime.
+).
+support(15401, root).
 
 arg(15395).
 text(15395, Drug laws have ruined more lives than drugs themselves.
@@ -52,4 +219,21 @@ Unregulated drugs are a health risk.
 Unregulated drugs empower criminals, increasing crime and harm.
 A criminal record or being sent to jail/prison is often more harmful to a person than the drugs they use.).
 support(15395, root).
+
+arg(16659).
+text(16659, Addiction causes the negative effects of drugs.
+
+Addiction rates: 
+
+Cannabis: 9% 
+
+Alcohol: 15% 
+
+Cocaine: 17% 
+
+Heroin: 23%
+
+The vast majority (90%+) of soft drug users don't experience addiction. 
+The overwhelming majority (75%+) of hard drug users don't become addicted.).
+support(16659, 16202).
 

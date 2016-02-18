@@ -1,7 +1,17 @@
 arg(root).
 text(root, Today's feminism should have no role in first world countries).
 
+arg(16694).
+text(16694, The first-world feminists, in fact all of us, should mobilize to help our less fortunate sisters and to correct the obvious inequalities in areas where patriarchal model is justified, systemized and even written in law – such as Iran.).
+att(16694, root).
+
 arg(8203).
 text(8203, Feminism focus on empowering women. The true cause that should be supported is Gender Equality.).
 support(8203, root).
+
+arg(16693).
+text(16693, Gender equality is a vague term.
+
+Basic human rights equal to everyone, equal opportunities and celebrating diversity in decision-making are more to the point.).
+att(16693, 8203).
 

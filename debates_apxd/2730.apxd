@@ -1,0 +1,27 @@
+arg(root).
+text(root, The Holocaust did happen and it's foolish to believe otherwise).
+
+arg(19228).
+text(19228, The actual number of Jews killed may have been significantly lower than the historically accepted figure of 5 to 6 million.).
+att(19228, root).
+
+arg(19223).
+text(19223, There are overwhelming quantities of evidence that point to the occurrence of the Holocaust. Ignoring thousands of photographs, videos and eyewitness accounts would be extremely ignorant.).
+support(19223, root).
+
+arg(19231).
+text(19231, Jews in europe
+
+1933: 9,494,368 
+
+1948: 9,372,666
+
+Roman Catholics
+
+1933: 220,000,000
+
+1948: 203,944,823
+
+"the world population of Jews increased between 1933 and 1948 from 15,315,000 to 15,753,000.").
+support(19231, 19228).
+

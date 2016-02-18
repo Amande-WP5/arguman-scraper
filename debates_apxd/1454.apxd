@@ -9,18 +9,6 @@ arg(7181).
 text(7181, I don't have $5.).
 att(7181, root).
 
-arg(7504).
-text(7504, You haven't provided a means of doing so.).
-att(7504, root).
-
-arg(7506).
-text(7506, You haven't showed me a good reason for such act, let alone a medium of monetary transfer.).
-att(7506, root).
-
-arg(7050).
-text(7050, I'm hungry).
-support(7050, root).
-
 arg(7792).
 text(7792, I am a red blooded 'murican born and raised in Texas. Also I'm sure that it's some kind of sin for ISIS to use US dollars.).
 att(7792, 7087).
@@ -37,4 +25,16 @@ att(7801, 7050).
 arg(7065).
 text(7065, I'm hungry, too. Without knowledge of local cost of living or exchange rates, I could venture to say that $5 locally would have more utility in my hands than in yours. ).
 att(7065, 7050).
+
+arg(7504).
+text(7504, You haven't provided a means of doing so.).
+att(7504, root).
+
+arg(7506).
+text(7506, You haven't showed me a good reason for such act, let alone a medium of monetary transfer.).
+att(7506, root).
+
+arg(7050).
+text(7050, I'm hungry).
+support(7050, root).
 

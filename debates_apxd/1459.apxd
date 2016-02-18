@@ -1,57 +1,57 @@
 arg(root).
 text(root, Pregnant women should be able to induce labor at any time).
 
-arg(7097).
-text(7097, people have a right to control how and when their body is used. This right is fundamental to maintaining bodily autonomy. ).
-support(7097, root).
-
-arg(7416).
-text(7416, This is not advised and should only be allowed after a mother's first born.).
-att(7416, root).
-
-arg(8589).
-text(8589, Fetuses aren't asked consent to be born in the first place. ).
-att(8589, root).
-
-arg(8591).
-text(8591, this premise is more similar to a fetus being able to force the mother to bodily support it without the mother's consent than it is to a woman choosing to remove herself from bodily supporting the child, thus leaving the child to it's own bodily devices.).
-att(8591, root).
-
-arg(8592).
-text(8592, why not? ).
-att(8592, root).
-
-arg(7590).
-text(7590, The original idea didn't specify that it had to be by pure willpower.
-
-Labor can be inducted with medicine similarly as heart beat can be stopped with medicine.).
-att(7590, root).
-
-arg(7471).
-text(7471, This implies the person believes life begins at conception or later on in the pregnancy/birth.).
-att(7471, root).
-
-arg(7329).
-text(7329, That's not physically possible.).
-att(7329, 7097).
-
-arg(7342).
-text(7342, Because I can tell my heart to stop beating.).
-support(7342, root).
+arg(7345).
+text(7345, We should ask for consent from the embryo first).
+att(7345, root).
 
 arg(7343).
 text(7343, Is sarcasm acceptable?).
 att(7343, 7342).
 
-arg(7345).
-text(7345, We should ask for consent from the embryo first).
-att(7345, root).
+arg(7416).
+text(7416, This is not advised and should only be allowed after a mother's first born.).
+att(7416, root).
 
-arg(7352).
-text(7352, Doesn't that bring the possibility that women can choose not to give birth and just be forever pregnant, therefore allowing them to forever reap the benefits given to pregnant women?).
-att(7352, root).
+arg(7342).
+text(7342, Because I can tell my heart to stop beating.).
+support(7342, root).
+
+arg(7329).
+text(7329, That's not physically possible.).
+att(7329, 7097).
+
+arg(8589).
+text(8589, Fetuses aren't asked consent to be born in the first place. ).
+att(8589, 7345).
+
+arg(8592).
+text(8592, why not? ).
+att(8592, 7329).
+
+arg(7590).
+text(7590, The original idea didn't specify that it had to be by pure willpower.
+
+Labor can be inducted with medicine similarly as heart beat can be stopped with medicine.).
+att(7590, 7342).
+
+arg(7471).
+text(7471, This implies the person believes life begins at conception or later on in the pregnancy/birth.).
+att(7471, 7345).
 
 arg(7356).
 text(7356, I think it should be, as using satire is often an acceptable way for raising a point.).
 support(7356, 7343).
+
+arg(8591).
+text(8591, this premise is more similar to a fetus being able to force the mother to bodily support it without the mother's consent than it is to a woman choosing to remove herself from bodily supporting the child, thus leaving the child to it's own bodily devices.).
+att(8591, 7352).
+
+arg(7097).
+text(7097, people have a right to control how and when their body is used. This right is fundamental to maintaining bodily autonomy. ).
+support(7097, root).
+
+arg(7352).
+text(7352, Doesn't that bring the possibility that women can choose not to give birth and just be forever pregnant, therefore allowing them to forever reap the benefits given to pregnant women?).
+att(7352, root).
 

@@ -1,13 +1,44 @@
 arg(root).
 text(root, Europe should close its borders for refugees).
 
-arg(16087).
-text(16087, Only Germany which had historically hosted significant populations of muslims and had an incentive after WWII to rebuilt its international image was eager to shelter Syrian refugees. Many other countries were reluctant or even opposed receiving them (such as Hungary and Romania).).
-att(16087, root).
+arg(18754).
+text(18754, Accepting refugees may help undermine terrorist groups in Syria, which would otherwise use these people as taxable workers.).
+att(18754, root).
 
-arg(16086).
-text(16086, Europeans tend to be nationalist and reluctant to open up and provide for refugees so culturally and ideologically distinct from them.).
-support(16086, root).
+arg(18753).
+text(18753, Europe closing its borders may lead to a destabilization of its surrounding nations, if they are not in a significantly better position to accept refugees.).
+att(18753, root).
+
+arg(16566).
+text(16566, It has been argued that refugees and economic migrants actualy increase the overall wealth of the country which takes them in. After all, wealth is created by people. The more workers the more money).
+att(16566, root).
+
+arg(18869).
+text(18869, "Europeans tend to be nationalist"
+-
+[Citation needed.]
+
+
+"and reluctant to open up and provide for refugees"
+-
+Just because people don't want to provide for refugees this isn't a reason not to provide for them.).
+att(18869, 16086).
+
+arg(18868).
+text(18868, Then why close the borders for every european country if only some are not capable of integration? Besides, I disagree that there even are states incapable of integration.).
+att(18868, 16085).
+
+arg(18834).
+text(18834, Germany's international image was not tarnished by the attrocities of WWII at the point that the decision to accept refugees was made. It is unreasonable to suggest that this was a consideration during the decision making process.).
+att(18834, 16087).
+
+arg(18798).
+text(18798, But that's not really how Terrorist organizations make their money.  Most of it, at least in a case like ISIS, fund themselves with oil smuggling.  Sometimes other nations are the one's funding terrorist organizations.).
+att(18798, 18754).
+
+arg(18755).
+text(18755, While the economy would increase due to more people, the current regulation would likely need some adjustment to make it easier for refugees to participate without devaluing existing workers.).
+att(18755, 16566).
 
 arg(16085).
 text(16085, Not all member states have the possibility to socially integrate Middle Eastern refugees.).
@@ -17,7 +48,19 @@ arg(13518).
 text(13518, The European Union has declared that human rights extend beyond borders.).
 att(13518, root).
 
+arg(16087).
+text(16087, Only Germany which had historically hosted significant populations of muslims and had an incentive after WWII to rebuilt its international image was eager to shelter Syrian refugees. Many other countries were reluctant or even opposed receiving them (such as Hungary and Romania).).
+att(16087, 16085).
+
 arg(13521).
 text(13521, Europeans paid taxes and their military industries used the money to bomb endlessly and sell weapons there. ).
 att(13521, root).
+
+arg(16565).
+text(16565, Being a facist is not usualy considered a 'good' thing).
+att(16565, 16086).
+
+arg(16086).
+text(16086, Europeans tend to be nationalist and reluctant to open up and provide for refugees so culturally and ideologically distinct from them.).
+support(16086, 16085).
 

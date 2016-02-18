@@ -3,7 +3,7 @@ text(root, the old (before 2009) Pepsi logo is better than the current one).
 
 arg(10017).
 text(10017, It would still be subjective, unless everyone would agree to the fact that the old logo is better. (by the definition of "better")).
-att(10017, root).
+att(10017, 9524).
 
 arg(9524).
 text(9524, A logo is not objectively "better", meaning that if the new or old one is better completely depends on the individual's preference. This question only makes sence when discussing how many people think the old logo was better, which can be decided by a simple poll.).

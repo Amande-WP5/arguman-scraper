@@ -1,11 +1,11 @@
 arg(root).
 text(root, Free will is an illusion. ).
 
-arg(11891).
-text(11891, Term 'free will' implies there is something of which to be free, so the very phrase assumes potential constraints the will. Constraint source (i.e.: 'natural' - deterministic, physics, etc. or 'supernatural' - Creator, intelligent design, etc.) changes the nature of your argument. ).
-att(11891, root).
-
 arg(11686).
 text(11686, How can we define "free will" ?).
 att(11686, root).
+
+arg(11891).
+text(11891, Term 'free will' implies there is something of which to be free, so the very phrase assumes potential constraints the will. Constraint source (i.e.: 'natural' - deterministic, physics, etc. or 'supernatural' - Creator, intelligent design, etc.) changes the nature of your argument. ).
+att(11891, root).
 

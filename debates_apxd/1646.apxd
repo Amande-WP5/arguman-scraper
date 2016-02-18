@@ -13,6 +13,18 @@ arg(9022).
 text(9022, I don't have any change).
 att(9022, root).
 
+arg(9075).
+text(9075, It might mean more to them, but isn't it more productive using your money for things like food, than giving it to homeless people who will just end up using it on hookers, blow and alcohol anyways ?).
+att(9075, 9055).
+
+arg(9133).
+text(9133, What's wrong with hookers and blow? If I were homeless, I would easily consider that to be one of my best possible days under the circumstances.).
+att(9133, 9049).
+
+arg(9137).
+text(9137, Everybody loves pizza.).
+support(9137, 9122).
+
 arg(9046).
 text(9046, They don't take credit cards.).
 att(9046, root).
@@ -25,21 +37,9 @@ arg(9055).
 text(9055, Probably the money means more to them than it does to you.).
 support(9055, root).
 
-arg(9075).
-text(9075, It might mean more to them, but isn't it more productive using your money for things like food, than giving it to homeless people who will just end up using it on hookers, blow and alcohol anyways ?).
-att(9075, 9055).
-
 arg(9122).
 text(9122, Money is not the only method.).
 att(9122, root).
-
-arg(9133).
-text(9133, What's wrong with hookers and blow? If I were homeless, I would easily consider that to be one of my best possible days under the circumstances.).
-att(9133, 9049).
-
-arg(9137).
-text(9137, Everybody loves pizza.).
-support(9137, 9122).
 
 arg(9143).
 text(9143, Homeless can be considered a flaw in our social/economic system. If such, giving money to homeless only temporarily fix the problem. This is unsustainable. The right thing to do is certainly to structurally fix the problem, and thus to give money to NGOs/politics that have the potential to do it.).

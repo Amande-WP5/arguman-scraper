@@ -1,35 +1,47 @@
 arg(root).
 text(root, Cannibalism is inherently wrong.).
 
-arg(11059).
-text(11059, any meat can contain deadly diseases without correct preparation.).
-att(11059, root).
-
-arg(10989).
-text(10989, "inherently wrong" implies a reason beyond health concerns. 
-
-If human meat could be guaranteed safe to the consumer, would cannibalism then become acceptable?).
-att(10989, root).
-
 arg(9440).
 text(9440, Cannibalism could lead to the spread of deadly blood- and prion-based diseases (such as HIV or Kuru), some of which could then be passed on to children of cannibals. ).
 support(9440, root).
 
-arg(10994).
-text(10994, Surely the opposite. Whether you agree or disagree with the premise, calling something "inherently wrong" or abominable is absolutism, not relativism. i.e. there can be no relative circumstances where cannibalism may be considered acceptable.).
-att(10994, root).
-
-arg(12421).
-text(12421, The dead do not feel or perceive, they are unthinking objects. Unthinking objects have no rights.).
-att(12421, root).
+arg(9099).
+text(9099, There is nothing immoral about it as long as you respect the wishes of the person being eaten and haven't committed any other acts such as murder at which point murder would be the issue not the cannibalism).
+att(9099, root).
 
 arg(9679).
 text(9679, not if the meat is properly stored or prepared. ).
 att(9679, 9440).
 
+arg(12375).
+text(12375, You are not taking another person's life, you are, with consent, eating their corpse.).
+att(12375, 11006).
+
+arg(11059).
+text(11059, any meat can contain deadly diseases without correct preparation.).
+att(11059, 9440).
+
+arg(10989).
+text(10989, "inherently wrong" implies a reason beyond health concerns. 
+
+If human meat could be guaranteed safe to the consumer, would cannibalism then become acceptable?).
+att(10989, 9440).
+
+arg(9384).
+text(9384, The assumption that cannibalism is  inherently wrong is a result of cultural relativism. ).
+att(9384, root).
+
+arg(10994).
+text(10994, Surely the opposite. Whether you agree or disagree with the premise, calling something "inherently wrong" or abominable is absolutism, not relativism. i.e. there can be no relative circumstances where cannibalism may be considered acceptable.).
+att(10994, 9384).
+
+arg(12421).
+text(12421, The dead do not feel or perceive, they are unthinking objects. Unthinking objects have no rights.).
+att(12421, 12055).
+
 arg(11006).
 text(11006, Even assisted suicide is immoral.).
-att(11006, root).
+att(11006, 9099).
 
 arg(12433).
 text(12433, In extreme situations, a hungry person eat a dead body does not harm anyone, and she can save herself.
@@ -46,15 +58,7 @@ Therefore, cannibalism is not inherently wrong.
 
 
 ).
-support(12433, root).
-
-arg(9099).
-text(9099, There is nothing immoral about it as long as you respect the wishes of the person being eaten and haven't committed any other acts such as murder at which point murder would be the issue not the cannibalism).
-att(9099, root).
-
-arg(9384).
-text(9384, The assumption that cannibalism is  inherently wrong is a result of cultural relativism. ).
-att(9384, root).
+support(12433, 9329).
 
 arg(9329).
 text(9329, How would it be wrong to do cannibalism if it's your only chance to survive? It happens in less fortunate parts\times of the world.).
@@ -63,8 +67,4 @@ att(9329, root).
 arg(12055).
 text(12055, respect for the dead is a basic human right.).
 support(12055, root).
-
-arg(12375).
-text(12375, You are not taking another person's life, you are, with consent, eating their corpse.).
-att(12375, 11006).
 

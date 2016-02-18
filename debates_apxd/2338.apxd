@@ -1,57 +1,102 @@
 arg(root).
 text(root, Functional programming is not useful for most apps).
 
-arg(15928).
-text(15928, We can infer what it means in this argument by how it is used in its "because" clause. It evidently denotes effect-free programming. (For instance, nonstrict/lazy evaluation isn't included, or other features of some F. languages: implicit currying, type inference, pattern matching, etc.)).
-att(15928, root).
+arg(17018).
+text(17018, It's a question what most people think how the world works. (Because apps should solve realworld problems and needs). Even if some argue the world is inherently FP, most people like to think they effect things and move around in a dynamic but stateful world.).
+support(17018, root).
 
-arg(15927).
-text(15927, Wikipedia often contains mistakes. I just fixed that one.
-
-).
-att(15927, root).
-
-arg(15879).
-text(15879, (Common) Lisp is noted as functional programming language in, for example, Wikipedia article on functional programming.).
-att(15879, root).
-
-arg(15861).
-text(15861, functional programming languages don't force you to use the paradigm all over the place. State is indispensable for the app. Languages like Clojure support the concept of Atoms, refs etc. for that purpose).
-att(15861, root).
-
-arg(15858).
-text(15858, "Functional programming" is ill-defined.).
-att(15858, root).
-
-arg(15833).
-text(15833, Elm).
-att(15833, root).
-
-arg(15816).
-text(15816, "Lisp isn't a functional language. Lisp has mutable variables, mutable data structures, loops, goto, ... Lisp supports applicative programming with immutable objects where it is desired.").
-att(15816, root).
-
-arg(15778).
-text(15778, Changing state is fully present within functional designs. For example recursion allows new state to be passed into recursive invocations yet involves no mutability.).
-att(15778, root).
+arg(17016).
+text(17016, It's not clear what the "most apps" are. There are userfacing apps, server, games, trading. Usecases differ. In some cases FP can be applied well, in some it can not. Lets say, even if you couldn't apply pure FP well in most cases, maybe it can to a very important one... Also there's multiparadigm.).
+att(17016, root).
 
 arg(15777).
 text(15777, Some impressive results are being achieved with functional languages today. For example a recent success in this area is the Amazon competitor Jet.com. Functional languages are increasing in number and popularity which shows increasing applicability to real world challenges.).
 att(15777, root).
 
-arg(15658).
-text(15658, Y-combinator founder has noted that his and associate's choice of Lisp as basis for one of the first online webstores, had allowed them to beat others by (among other) implementing any new features way faster than competition due to the language used.).
-att(15658, root).
+arg(18334).
+text(18334, Most of the applications are still being written in other paradigms, although we note a slight shift in apperance of fp languages now and then but numbers do not/never have supported rise of fp languages compared to applications being written in multi or other paradigms.).
+att(18334, 15777).
+
+arg(15928).
+text(15928, We can infer what it means in this argument by how it is used in its "because" clause. It evidently denotes effect-free programming. (For instance, nonstrict/lazy evaluation isn't included, or other features of some F. languages: implicit currying, type inference, pattern matching, etc.)).
+att(15928, 15858).
+
+arg(15778).
+text(15778, Changing state is fully present within functional designs. For example recursion allows new state to be passed into recursive invocations yet involves no mutability.).
+att(15778, 15639).
+
+arg(18366).
+text(18366, If you think about moving a chair. You don't think about creating new chair with different position. You think of it as changing the chair's position. Eg. the thinking it stateful. Same goes with iteration vs. recursion.).
+att(18366, 18365).
+
+arg(18365).
+text(18365, Thinking of time as a stream of immutable values and change as a delta between those values is much more natural. You can not change what happened on your fifth birthday. 
+
+Assuming that the correct model is the one that you are currently most familiar with is convenient, but not necessarily true.).
+att(18365, 18339).
+
+arg(15816).
+text(15816, "Lisp isn't a functional language. Lisp has mutable variables, mutable data structures, loops, goto, ... Lisp supports applicative programming with immutable objects where it is desired.").
+att(15816, 15658).
+
+arg(18339).
+text(18339, Human brain thinks about world in stateful manner. Switching to stateless thinking requires more training than learning stateful paradigm.).
+support(18339, root).
+
+arg(18335).
+text(18335, why just use a specific paradigm? Much like discussions of which design patterns and frameworks are better, crafting an exclusive one for your purpose might take time, but is always the better option.).
+att(18335, root).
+
+arg(16404).
+text(16404, Even though is not a pure functional language, there is clearly more infrastructure in Lisp for functional programming than for any other paradigm.).
+att(16404, 15816).
+
+arg(15879).
+text(15879, (Common) Lisp is noted as functional programming language in, for example, Wikipedia article on functional programming.).
+att(15879, 15816).
+
+arg(16963).
+text(16963, Can't really start discussion on fallacies, as far as I can see, so have to reply with a premise.
+
+But, to kahwedyich:
+Not "he says so", but he claims that using functional programming he was able to program *faster*. He may be incorrect, but I am not appealing to an authority by any means.).
+support(16963, 15658).
+
+arg(15927).
+text(15927, Wikipedia often contains mistakes. I just fixed that one.
+
+).
+att(15927, 15879).
+
+arg(15861).
+text(15861, functional programming languages don't force you to use the paradigm all over the place. State is indispensable for the app. Languages like Clojure support the concept of Atoms, refs etc. for that purpose).
+att(15861, 15639).
+
+arg(15639).
+text(15639, "The problem is that most common code inherently involves state -- business apps, games, UI, etc. There's no problem with some parts of an app being purely functional; in fact most apps could benefit in at least one area. But forcing the paradigm all over the place feels counter-intuitive.").
+support(15639, root).
+
+arg(15750).
+text(15750, functional programming allows to express state easily).
+att(15750, 15639).
+
+arg(15833).
+text(15833, Elm).
+att(15833, root).
 
 arg(15751).
 text(15751, features and principles from functional programming (e.g. first-order functions, immutability, monads) find wide application in established and new programming languages and at a higher level in system design (Google MapReduce, Twitter Finagle etc.)).
 att(15751, root).
 
-arg(15750).
-text(15750, functional programming allows to express state easily).
-att(15750, root).
+arg(19303).
+text(19303, FP does not allow to represent mutable state, atleast not easily or intuitive (if you're talking about monads...).).
+att(19303, 15750).
 
-arg(15639).
-text(15639, "The problem is that most common code inherently involves state -- business apps, games, UI, etc. There's no problem with some parts of an app being purely functional; in fact most apps could benefit in at least one area. But forcing the paradigm all over the place feels counter-intuitive.").
-support(15639, root).
+arg(15858).
+text(15858, "Functional programming" is ill-defined.).
+att(15858, root).
+
+arg(15658).
+text(15658, Y-combinator founder has noted that his and associate's choice of Lisp as basis for one of the first online webstores, had allowed them to beat others by (among other) implementing any new features way faster than competition due to the language used.).
+att(15658, root).
 

@@ -1,10 +1,6 @@
 arg(root).
 text(root, Social media undermines the truth and should be regulated).
 
-arg(12203).
-text(12203, Social media also has the power to repair the damage done, thus there is no need for regulation.).
-att(12203, root).
-
 arg(12196).
 text(12196, Unverified information has the potential to spread quickly and gather pace, and in many instances, it takes several hours before the information is substantiated or repudiated.).
 support(12196, root).
@@ -16,6 +12,10 @@ att(12207, root).
 arg(12306).
 text(12306, This would violate users' freedom of speech, because most social media is merely communication between individuals.).
 att(12306, root).
+
+arg(12203).
+text(12203, Social media also has the power to repair the damage done, thus there is no need for regulation.).
+att(12203, 12196).
 
 arg(12233).
 text(12233, We all know that capitalists control the media so any means of "control" would be futile.).

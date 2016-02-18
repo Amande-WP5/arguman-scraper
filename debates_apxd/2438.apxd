@@ -1,0 +1,99 @@
+arg(root).
+text(root, La CAS 2015 fue perfecta).
+
+arg(16504).
+text(16504, El Círculo no nos dejaba montar nada hasta las 7:00AM (y el registro abría a las 8)).
+support(16504, 16499).
+
+arg(16503).
+text(16503, Nadie lo usó).
+att(16503, 16502).
+
+arg(16502).
+text(16502, Slack para discutir!).
+support(16502, root).
+
+arg(16499).
+text(16499, El registro fue un desastre).
+att(16499, root).
+
+arg(16496).
+text(16496, El café era venenoso).
+att(16496, 16495).
+
+arg(16494).
+text(16494, No era muy práctica con tantas escaleras).
+att(16494, 16493).
+
+arg(16497).
+text(16497, La gente lo bebía).
+att(16497, 16496).
+
+arg(16493).
+text(16493, La venue era muy cool).
+support(16493, root).
+
+arg(16495).
+text(16495, El catering estaba delicioso).
+support(16495, root).
+
+arg(16592).
+text(16592, No hubo aplicación :().
+att(16592, root).
+
+arg(16647).
+text(16647, No había sitio físico para poner la planta).
+support(16647, 16596).
+
+arg(16600).
+text(16600, No se podían votar charlas).
+att(16600, 16510).
+
+arg(16599).
+text(16599, No había track de introducción).
+att(16599, 16510).
+
+arg(16598).
+text(16598, Charlas muy básicas).
+att(16598, 16510).
+
+arg(16597).
+text(16597, Falta de tiempo :().
+support(16597, 16594).
+
+arg(16596).
+text(16596, Nos lo rechazó diseño/imprenta :().
+support(16596, 16595).
+
+arg(16595).
+text(16595, No pusimos mapas de salas).
+support(16595, 16593).
+
+arg(16594).
+text(16594, No cambiamos la agenda de la web a por sala).
+support(16594, 16593).
+
+arg(16593).
+text(16593, No estaba muy claro dónde estaba cada sala).
+att(16593, 16493).
+
+arg(16510).
+text(16510, Los tracks estaban genial).
+support(16510, root).
+
+arg(16506).
+text(16506, Las keynotes!).
+support(16506, root).
+
+arg(16508).
+text(16508, Yo me pasee sin identificación y nadie me dijo nada).
+att(16508, 16507).
+
+arg(16507).
+text(16507, Seguridad? Necesitas un mínimo control de si va a la conferencia).
+att(16507, 16505).
+
+arg(16505).
+text(16505, Hace falta registro? Yo creo que no).
+att(16505, 16499).
+

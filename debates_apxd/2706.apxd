@@ -1,0 +1,15 @@
+arg(root).
+text(root, Scientific articles should be free.).
+
+arg(18775).
+text(18775, Hiding them behind a pay wall increases ignorance.).
+support(18775, root).
+
+arg(19511).
+text(19511, as long as the person(s) who wrote the article agrees to offer it for free).
+att(19511, root).
+
+arg(19506).
+text(19506, they are usually funded by public organizations and/or taxes.).
+support(19506, root).
+

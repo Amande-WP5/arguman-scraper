@@ -1,17 +1,9 @@
 arg(root).
 text(root, Art should not be defaced.).
 
-arg(5848).
-text(5848, Art is personal property. We should not destroy or damage others' personal property, therefore we should not deface art. Unless you own it. Then do what you want.).
-att(5848, root).
-
-arg(5849).
-text(5849, This premise is art.).
-att(5849, root).
-
-arg(6138).
-text(6138, It is not necessary for "reaction" to involve the destruction of property. ).
-att(6138, root).
+arg(5689).
+text(5689, Defacing art is its own form of artwork; whether something is art or not is entirely subjective).
+att(5689, root).
 
 arg(5854).
 text(5854, I never mentioned legality or ethics or not, but, yes, destroying or modifying someone else's property without their prior consent is something that people shouldn't do.).
@@ -21,53 +13,21 @@ arg(5855).
 text(5855, Not all art is private property. This argument only applies to private property art and not all art. ).
 att(5855, 5848).
 
-arg(5994).
-text(5994, There are still forms of art that do not fall under public or private property, such as a painting on the side of a mountain. ).
-att(5994, root).
-
 arg(5858).
 text(5858, Even though you never mentioned the legality or ethics of defacing art, the notion of ones right to their personal property is a valid concern.).
 att(5858, 5854).
-
-arg(6247).
-text(6247, You could be losing the original intent of the artist, lose a potential source of inspiration for artists in the future, as well as a record of our artistic history.).
-support(6247, root).
-
-arg(5915).
-text(5915, If you think pipes are art, then pipes are art.).
-att(5915, root).
-
-arg(5861).
-text(5861, Defining 'art' conclusively is functionally extremely problematic, or arbitrary. There are certainly, however, things called 'art'. Therefore we can only argue about 'things called art', which are objects.).
-att(5861, root).
 
 arg(5869).
 text(5869, There is public and private property. Public property is still not yours to destroy. You can't go pulling up roads and claiming that they're yours so you can do what you like with them.).
 att(5869, 5855).
 
-arg(5679).
-text(5679, Art demands reaction.).
-att(5679, root).
-
 arg(5882).
 text(5882, Art could be defined as anything involving an enacted effort, either by human or nature.).
 support(5882, 5861).
 
-arg(5887).
-text(5887, It is a digital text, not a pipe. It's not even the depiction of a pipe.).
-support(5887, root).
-
-arg(5689).
-text(5689, Defacing art is its own form of artwork; whether something is art or not is entirely subjective).
-att(5689, root).
-
 arg(5893).
 text(5893, It contains the word "pipe" which is per definition a "pipe".).
 att(5893, 5887).
-
-arg(5982).
-text(5982, Art, unless never so claimed, is property, and therefore defacing it is vandalism.).
-support(5982, root).
 
 arg(5846).
 text(5846, ca c'est n'est pas un pipe).
@@ -84,4 +44,44 @@ att(6089, 5689).
 arg(6099).
 text(6099, You can still deface your personal property!).
 att(6099, 5848).
+
+arg(5848).
+text(5848, Art is personal property. We should not destroy or damage others' personal property, therefore we should not deface art. Unless you own it. Then do what you want.).
+att(5848, 5882).
+
+arg(5849).
+text(5849, This premise is art.).
+att(5849, 5846).
+
+arg(6138).
+text(6138, It is not necessary for "reaction" to involve the destruction of property. ).
+att(6138, 5679).
+
+arg(5994).
+text(5994, There are still forms of art that do not fall under public or private property, such as a painting on the side of a mountain. ).
+att(5994, 5869).
+
+arg(6247).
+text(6247, You could be losing the original intent of the artist, lose a potential source of inspiration for artists in the future, as well as a record of our artistic history.).
+support(6247, 6089).
+
+arg(5915).
+text(5915, If you think pipes are art, then pipes are art.).
+att(5915, 5893).
+
+arg(5861).
+text(5861, Defining 'art' conclusively is functionally extremely problematic, or arbitrary. There are certainly, however, things called 'art'. Therefore we can only argue about 'things called art', which are objects.).
+att(5861, 5689).
+
+arg(5982).
+text(5982, Art, unless never so claimed, is property, and therefore defacing it is vandalism.).
+support(5982, root).
+
+arg(5887).
+text(5887, It is a digital text, not a pipe. It's not even the depiction of a pipe.).
+support(5887, 5846).
+
+arg(5679).
+text(5679, Art demands reaction.).
+att(5679, root).
 

@@ -1,10 +1,6 @@
 arg(root).
 text(root, Child pornography should never be legalized.).
 
-arg(8145).
-text(8145, At what age are children able to make the conscious decision "of their own accord"?).
-att(8145, root).
-
 arg(8074).
 text(8074, Children who partake in the act of their own accord should not be incarcerated.).
 att(8074, root).
@@ -12,4 +8,8 @@ att(8074, root).
 arg(8276).
 text(8276, Paraphilic material increases the likelihood of people acting on their urges.).
 support(8276, root).
+
+arg(8145).
+text(8145, At what age are children able to make the conscious decision "of their own accord"?).
+att(8145, 8074).
 

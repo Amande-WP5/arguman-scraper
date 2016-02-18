@@ -1,10 +1,6 @@
 arg(root).
 text(root, The GPL is more free than the BSD licence).
 
-arg(11241).
-text(11241, The viral aspect is also a deterrent against the use of the GPL license, leading to a less free society.).
-att(11241, root).
-
 arg(11133).
 text(11133, In contrast to BSD, GPL forbids various actions like relicencing, combination with other licences, selling without sources, etc.).
 att(11133, root).
@@ -12,4 +8,8 @@ att(11133, root).
 arg(11136).
 text(11136, The viral aspect of GPL leads to more Open Source code. Thus more freedom for the society in the long term.).
 support(11136, root).
+
+arg(11241).
+text(11241, The viral aspect is also a deterrent against the use of the GPL license, leading to a less free society.).
+att(11241, 11136).
 

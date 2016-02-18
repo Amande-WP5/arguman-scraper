@@ -1,27 +1,6 @@
 arg(root).
 text(root, The blue pill would have been a better choice (Matrix)).
 
-arg(16269).
-text(16269, "Ignorance" and or "Bliss" is a denial of objective reality that inhibits the survival of our species.).
-att(16269, root).
-
-arg(16233).
-text(16233, In that case, RED would have been a better choice).
-att(16233, root).
-
-arg(16231).
-text(16231, The matrix was specifically coded to have suffering).
-att(16231, root).
-
-arg(13678).
-text(13678, But ignorance is bliss until the bad thing happens and then ignorance causes suffering, pain, regret or death.).
-att(13678, root).
-
-arg(13785).
-text(13785, In the matrix it wouldn't cause these things
-).
-att(13785, 13678).
-
 arg(13676).
 text(13676, ignorance is bliss).
 support(13676, root).
@@ -29,6 +8,27 @@ support(13676, root).
 arg(13564).
 text(13564, It would have made a very short movie).
 att(13564, root).
+
+arg(13785).
+text(13785, In the matrix it wouldn't cause these things
+).
+att(13785, 13678).
+
+arg(16269).
+text(16269, "Ignorance" and or "Bliss" is a denial of objective reality that inhibits the survival of our species.).
+att(16269, 13676).
+
+arg(16233).
+text(16233, In that case, RED would have been a better choice).
+att(16233, 13664).
+
+arg(16231).
+text(16231, The matrix was specifically coded to have suffering).
+att(16231, 13785).
+
+arg(13678).
+text(13678, But ignorance is bliss until the bad thing happens and then ignorance causes suffering, pain, regret or death.).
+att(13678, 13676).
 
 arg(13595).
 text(13595, I would have swallowed both pills and threw the glass of water in Morpheus's face, thereby becoming one with the Matrix and asserting my dominance over everything.).

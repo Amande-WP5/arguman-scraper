@@ -1,25 +1,9 @@
 arg(root).
 text(root, Religion was created to control society).
 
-arg(5691).
-text(5691, That does not necessarily mean it was created with this intention.).
-att(5691, root).
-
-arg(5697).
-text(5697, You cannot assume that all religion's share the goal of controlling society.).
-att(5697, root).
-
-arg(5653).
-text(5653, This precludes that just because religion may control society, that it was created to do so - There may be other reasons for the creation of religion. ).
-att(5653, root).
-
-arg(5657).
-text(5657, This assumes all religions to be equal in desire to control society.).
-att(5657, root).
-
-arg(5703).
-text(5703, Not all religions have aspects of societal control. Some religions are solely personal and do not advocate societal control.).
-att(5703, root).
+arg(16939).
+text(16939, in past where civilizations (for example Roman Empire in 1 century) where is Religious syncretism. Shortly, religion is not allways a case to discrimintation. ).
+att(16939, 5685).
 
 arg(5662).
 text(5662, Religion's origins may lie in explaining things that early humans could not do without a mythology, which had a calming, "controlling" effect.).
@@ -35,31 +19,61 @@ arg(5671).
 text(5671, Just because all religions vary on the degree of society control does not mean that it is not a prime motivator of religions. ).
 att(5671, 5657).
 
-arg(5598).
-text(5598, It is easier to unite a group based on an uncertainty (i.e. the afterlife) that mostly everyone is afraid of and must endure.).
-support(5598, root).
-
-arg(5675).
-text(5675, It is empowering for it's members, as the group is stronger than the components).
-att(5675, root).
-
-arg(5685).
-text(5685, A 'us vs them' scenario unites people who might otherwise be opposed to each other against a common 'enemy' - i.e those who follow other religions or believe in other gods).
-support(5685, root).
-
 arg(5620).
 text(5620, religion is the opiate of the masses).
 support(5620, 5598).
-
-arg(5622).
-text(5622, When a people are out of control, unmanageable, and need structure, but have no established leaders, they need a leader, but that leader must have a basis for leadership. When all else fails, create a basis out of nothing -- one with mysterious, powerful control over them).
-support(5622, root).
 
 arg(6200).
 text(6200, There were good reasons to control/limit people's actions to protect them, such as imposing religious limits on touching dead bodies.).
 support(6200, 5671).
 
+arg(5657).
+text(5657, This assumes all religions to be equal in desire to control society.).
+att(5657, root).
+
+arg(5691).
+text(5691, That does not necessarily mean it was created with this intention.).
+att(5691, 5598).
+
+arg(5697).
+text(5697, You cannot assume that all religion's share the goal of controlling society.).
+att(5697, 5671).
+
+arg(5598).
+text(5598, It is easier to unite a group based on an uncertainty (i.e. the afterlife) that mostly everyone is afraid of and must endure.).
+support(5598, root).
+
+arg(5622).
+text(5622, When a people are out of control, unmanageable, and need structure, but have no established leaders, they need a leader, but that leader must have a basis for leadership. When all else fails, create a basis out of nothing -- one with mysterious, powerful control over them).
+support(5622, root).
+
+arg(5703).
+text(5703, Not all religions have aspects of societal control. Some religions are solely personal and do not advocate societal control.).
+att(5703, 5671).
+
 arg(6109).
 text(6109, Society is defined as a group of individuals who share a distinctive culture and institutions. Society was actually a byproduct of religion. Farming led to religion (as a means to appease the gods, who controlled the weather), religion led to culture, and culture led to society.).
 att(6109, root).
+
+arg(5675).
+text(5675, It is empowering for it's members, as the group is stronger than the components).
+att(5675, 5620).
+
+arg(16833).
+text(16833, There is two axes in religion: the one between the adherent and God; and the one between the adherents of the religion itself.
+
+This statement neglects the first one, as the religion also has a spiritual goal, beside his social goal.).
+att(16833, root).
+
+arg(5685).
+text(5685, A 'us vs them' scenario unites people who might otherwise be opposed to each other against a common 'enemy' - i.e those who follow other religions or believe in other gods).
+support(5685, root).
+
+arg(18742).
+text(18742, If I were you, to avoid confusion I would rewrite this premise as "religion developed as a means of controlling society" or "religion's historical role in society has been in justifying the power of the ruling class", something along the lines of that.).
+att(18742, root).
+
+arg(5653).
+text(5653, This precludes that just because religion may control society, that it was created to do so - There may be other reasons for the creation of religion. ).
+att(5653, root).
 

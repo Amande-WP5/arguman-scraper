@@ -1,0 +1,39 @@
+arg(root).
+text(root, Donald Trump is trolling the conservatives to divide the republican party and highlight how stupid they are.).
+
+arg(19370).
+text(19370, He is purposefully obscene.).
+support(19370, root).
+
+arg(19366).
+text(19366, He has previously stated that he supports many democratic values.).
+support(19366, root).
+
+arg(19369).
+text(19369, He said he could shoot someone and republicans would still vote for him.).
+support(19369, root).
+
+arg(19367).
+text(19367, He has previously stated that he supports Hillary Clinton.).
+support(19367, root).
+
+arg(19368).
+text(19368, He has called republicans crazy.).
+support(19368, root).
+
+arg(19378).
+text(19378, He is also trolling the democrats. There are far more people talking about him than taking about real issues.).
+support(19378, root).
+
+arg(19371).
+text(19371, He may just be an egomaniac that wants to be president and knows republicans would be easier to manipulate.).
+att(19371, root).
+
+arg(19377).
+text(19377, He may simply be a sideshow distraction to obfuscate and detract from focus on actual issues. ).
+support(19377, 19367).
+
+arg(19543).
+text(19543, He is probably not so dumb as to potentially alienate future business partners and ruin future deals by pulling a massive public deception that would hurt his credibility.).
+att(19543, root).
+

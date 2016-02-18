@@ -9,6 +9,14 @@ arg(10357).
 text(10357, Anyone can be born with a nice set of tits, but it takes effort and work to have a great ass. Plus the shape of the ass is a better indicator of the general shape of the body.).
 att(10357, root).
 
+arg(10406).
+text(10406, Thickness of the wrist is the best indicator of overall body shape.).
+att(10406, 10357).
+
+arg(10469).
+text(10469, true, however a tight ass stemming from working out indicates a generally tight body. Wether someone is turned on by a thin wrist on the other hand, is another discussion all together.).
+att(10469, 10406).
+
 arg(10233).
 text(10233, Both tits and ass are awesome.).
 att(10233, root).
@@ -25,15 +33,7 @@ arg(11845).
 text(11845, As a gay man, I am not attracted to tits.).
 att(11845, root).
 
-arg(10406).
-text(10406, Thickness of the wrist is the best indicator of overall body shape.).
-att(10406, 10357).
-
 arg(10340).
 text(10340, Would you take A-cup tits over a fine, round ass if you can only pick one?).
 att(10340, root).
-
-arg(10469).
-text(10469, true, however a tight ass stemming from working out indicates a generally tight body. Wether someone is turned on by a thin wrist on the other hand, is another discussion all together.).
-att(10469, 10406).
 

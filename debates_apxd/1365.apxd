@@ -1,53 +1,45 @@
 arg(root).
 text(root, Governments should only regulate the economy, not participate in it).
 
-arg(6159).
-text(6159, It is entirely possible that the private sector could do even better, and that government "influence" has made the numbers coming from this rail line look a lot nicer than they otherwise would be.).
-att(6159, root).
-
-arg(6139).
-text(6139, The government is for the people on paper, but not in action.).
-att(6139, root).
-
 arg(6428).
 text(6428, Today governments barely have a role in the economy anymore, it's supra nationalistic private groups that deregulate the economy and participate in the political and mediatical areas of democracy (lobbying) to achieve a total disappearance of the state in front of neo liberalistic private sector.).
 att(6428, root).
-
-arg(6151).
-text(6151, The Military and Police force are not for-profit industries. This is in contrast to a government run company like the state liquor stores present in Pennsylvania and North Carolina.).
-att(6151, root).
-
-arg(6502).
-text(6502, Government-owned entities can take advantage of economies of scale in industries where infrastructure costs are high.).
-att(6502, root).
 
 arg(6448).
 text(6448, Regulation is a form of participation.).
 att(6448, root).
 
-arg(6266).
-text(6266, I'm sorry, I was not insinuating direct misrepresentation of the info. I was suggesting that the company may have been able to get a leg-up in the market due to it's access the the government, government officials, favors, etc.).
-att(6266, root).
-
 arg(6517).
 text(6517, the original premise may have intended to exclude regulation as a form of participation. ).
 att(6517, 6448).
 
+arg(6139).
+text(6139, The government is for the people on paper, but not in action.).
+att(6139, 6107).
+
+arg(6151).
+text(6151, The Military and Police force are not for-profit industries. This is in contrast to a government run company like the state liquor stores present in Pennsylvania and North Carolina.).
+att(6151, 6107).
+
+arg(6502).
+text(6502, Government-owned entities can take advantage of economies of scale in industries where infrastructure costs are high.).
+att(6502, 6072).
+
+arg(6266).
+text(6266, I'm sorry, I was not insinuating direct misrepresentation of the info. I was suggesting that the company may have been able to get a leg-up in the market due to it's access the the government, government officials, favors, etc.).
+att(6266, 6217).
+
 arg(6343).
 text(6343, How can we tell the difference between something passed in good faith (for instance, an extended healthcare program which includes tax breaks to doctor's offices) and a vested interest (for instance, giving tax breaks to a doctors office who sponsored you)?).
-att(6343, root).
+att(6343, 6285).
 
 arg(6285).
 text(6285, I don't believe that's what the issue here is. The issue is not a senator also being a dentist or investing in a company; the issue is passing legislation biased toward a company to partake in insider trading, or having government-run companies as a whole.).
-att(6285, root).
+att(6285, 6118).
 
 arg(7287).
 text(7287, In developing countries, where the private sectors are not as developed or expansive as in advanced economies, the government is an important creator of jobs and provider of infrastructure.).
 support(7287, 6502).
-
-arg(7298).
-text(7298, Regulations will favor the state owned business making it harder for new companies to compete.).
-support(7298, root).
 
 arg(7616).
 text(7616, Police, military and fire department could be for-profit industries. ).
@@ -57,6 +49,26 @@ arg(6217).
 text(6217, Misreporting this information is a serious crime, and so unlikely given the low value of the information and the heavily pro-privatisation government. Further, it is in the interests of the privatised companies to call doubt upon the results, as the public rail line is a direct, superior competitor.).
 att(6217, 6159).
 
+arg(6107).
+text(6107, So the police-force should be privatized?  And the military?  Private companies are selfish, and the government is for the people.  The government of the day can decide what best suits the people.).
+att(6107, 6072).
+
+arg(6130).
+text(6130, In some cases publicly owned companies have been superior to privately owned ones, and provide better service and lower costs, producing government revenue without raising taxes. See source.).
+att(6130, 6072).
+
+arg(6159).
+text(6159, It is entirely possible that the private sector could do even better, and that government "influence" has made the numbers coming from this rail line look a lot nicer than they otherwise would be.).
+att(6159, 6130).
+
+arg(6118).
+text(6118, This would restrict those who participate in government from engaging in personal economic ventures, for instance, funding a project they personally like.  This is unfairly forcing people out of being investors, simply off the assumption they have a vested interest.).
+att(6118, root).
+
+arg(7298).
+text(7298, Regulations will favor the state owned business making it harder for new companies to compete.).
+support(7298, root).
+
 arg(6072).
 text(6072, State-owned companies do not have profit (survival) as their priority and so are inefficiently managed.).
 support(6072, root).
@@ -64,16 +76,4 @@ support(6072, root).
 arg(7655).
 text(7655, Due to unfair competition, government is ineffective. Government institutions can't go bankrupt and therefore waste tax payer money on maintaining imperfect businesses. As Friedman points out, when you spend someone else's money on someone else, you do not economize and you do not seek highest value).
 support(7655, root).
-
-arg(6107).
-text(6107, So the police-force should be privatized?  And the military?  Private companies are selfish, and the government is for the people.  The government of the day can decide what best suits the people.).
-att(6107, 6072).
-
-arg(6118).
-text(6118, This would restrict those who participate in government from engaging in personal economic ventures, for instance, funding a project they personally like.  This is unfairly forcing people out of being investors, simply off the assumption they have a vested interest.).
-att(6118, root).
-
-arg(6130).
-text(6130, In some cases publicly owned companies have been superior to privately owned ones, and provide better service and lower costs, producing government revenue without raising taxes. See source.).
-att(6130, 6072).
 

@@ -1,33 +1,9 @@
 arg(root).
 text(root, emperor Palpatine wasn't really evil).
 
-arg(6643).
-text(6643, He killed committed genocide as a means of self defense... The Jedi have a very plain goal of annihilating the sith presence in the galaxy.).
-support(6643, root).
-
-arg(6678).
-text(6678, What he meant was that because of the sith aspect, Vader became the most powerful Jedi. Again, uniting the two sides).
-att(6678, root).
-
-arg(6649).
-text(6649, Subjugated countless star systems under harsh, imperial military rule.).
-support(6649, root).
-
 arg(6686).
 text(6686, Or are we dancer? But seriously folks, the contention is not a contention. I suggest you rephrase "Emperor Palpatine was not evil.").
 att(6686, root).
-
-arg(6688).
-text(6688, The Reddit trending list brought you here.).
-support(6688, root).
-
-arg(6659).
-text(6659, United warring factions, established a military to provide for the common defense, increased infrastructure production, began preparing for the imminent arrival of the yuuzahn gong and their living planetoid ships.).
-att(6659, root).
-
-arg(6660).
-text(6660, He saved the life of anakin skywalker and turned him into most powerful jedi ever).
-att(6660, root).
 
 arg(6664).
 text(6664, Uniting both the dark and Jedi methods, he really did "balance" the force.).
@@ -37,14 +13,6 @@ arg(6667).
 text(6667, He didn't turn him into a Jedi, he manipulated him into becoming a Sith Lord. Obi-Wan trained him to be a Jedi.).
 att(6667, 6660).
 
-arg(6802).
-text(6802, Palpatine used an underlying racism and sexism in order to polarize his subjects. There is a very good reason you never see any female or alien stormtroopers and fighter pilots. They did exist they just weren't very common.).
-support(6802, root).
-
-arg(8789).
-text(8789, The Jedi use the force, but they are a faith based group in the same way as Buddhists are, they follow a certain pathway to enlightenment through the force. The Sith had their own belief system in regards to the force and it just happened to clash with the Jedi. ).
-att(8789, root).
-
 arg(8222).
 text(8222, The primary reason for the all male imperial forces early on was that it was built from the old republic clone army. All clones made from jango fett. Later on, the empire began to expand recruitment. And the sexism wasn't really there, because he supported Vader in the training of his protégé Mara).
 att(8222, 6802).
@@ -53,23 +21,55 @@ arg(8229).
 text(8229, He saved a human life, that's what good people do. Not only he saved Anakin's life but it gave him strength to fight for what he believe).
 att(8229, 6660).
 
-arg(8231).
-text(8231, The force really exist in that universe, so, not a faith group).
-att(8231, root).
+arg(8237).
+text(8237, This should be a because, not a however).
+support(8237, 6643).
+
+arg(6688).
+text(6688, The Reddit trending list brought you here.).
+support(6688, root).
+
+arg(6678).
+text(6678, What he meant was that because of the sith aspect, Vader became the most powerful Jedi. Again, uniting the two sides).
+att(6678, 6667).
+
+arg(6659).
+text(6659, United warring factions, established a military to provide for the common defense, increased infrastructure production, began preparing for the imminent arrival of the yuuzahn gong and their living planetoid ships.).
+att(6659, root).
+
+arg(6660).
+text(6660, He saved the life of anakin skywalker and turned him into most powerful jedi ever).
+att(6660, root).
+
+arg(6802).
+text(6802, Palpatine used an underlying racism and sexism in order to polarize his subjects. There is a very good reason you never see any female or alien stormtroopers and fighter pilots. They did exist they just weren't very common.).
+support(6802, root).
 
 arg(7057).
 text(7057, Morality is relative.).
 support(7057, root).
 
-arg(8235).
-text(8235, The Jedi were the elite military force of the regent political system).
-att(8235, root).
-
-arg(8237).
-text(8237, This should be a because, not a however).
-support(8237, 6643).
-
 arg(6637).
 text(6637, He did cause a mass genocide of one faith based group (Jedi)...).
 support(6637, root).
+
+arg(8789).
+text(8789, The Jedi use the force, but they are a faith based group in the same way as Buddhists are, they follow a certain pathway to enlightenment through the force. The Sith had their own belief system in regards to the force and it just happened to clash with the Jedi. ).
+att(8789, 8231).
+
+arg(8231).
+text(8231, The force really exist in that universe, so, not a faith group).
+att(8231, 6637).
+
+arg(8235).
+text(8235, The Jedi were the elite military force of the regent political system).
+att(8235, 6637).
+
+arg(6649).
+text(6649, Subjugated countless star systems under harsh, imperial military rule.).
+support(6649, root).
+
+arg(6643).
+text(6643, He killed committed genocide as a means of self defense... The Jedi have a very plain goal of annihilating the sith presence in the galaxy.).
+support(6643, root).
 

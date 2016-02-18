@@ -1,0 +1,23 @@
+arg(root).
+text(root, Javascript front end frameworks are pointless in modern browsers).
+
+arg(19424).
+text(19424, That assumes there's boilerplate in a model, a controller or a view. Why is there boiler plate there? There shouldn't be. Writing a modern MVC app is simple. Writing an Angular app actually forces you to write Angular code, not MVC code. Same with React. Etc.).
+att(19424, 19202).
+
+arg(19202).
+text(19202, You can write MVC app yourself, but that's like development of a bicycle: it may be ok if that is your goal, but if you need to make app fast and avoid stupid bugs - it's more effective to use frameworks as they are well designed and tested. Neglecting to use frameworks is like preferring assembler.).
+att(19202, 19201).
+
+arg(19195).
+text(19195, But frameworks were never made for solving that problem. Partial content download is a nice addon, but not a goal. The goal of any framework is providing of code structure with some concepts (like MVC) to ease development. Without that it would be a library.).
+att(19195, 19012).
+
+arg(19201).
+text(19201, MVC doesn't require a framework or a library, it's a concept. It just requires models, views and controllers. And it's also pretty much not needed at all in the front end unless you're doing logic solely in the front end (which not many sites do at all). It's usually used to grab data via JSON.).
+att(19201, 19195).
+
+arg(19012).
+text(19012, It used to be the case that network speed was an issue and loading partial pages was much quicker than loading whole pages. This is generally no longer the case).
+support(19012, root).
+

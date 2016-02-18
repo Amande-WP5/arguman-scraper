@@ -1,0 +1,64 @@
+arg(root).
+text(root, The monarchy should stay).
+
+arg(16466).
+text(16466, If they have a business value, let them do that and collect income from it.).
+att(16466, 16462).
+
+arg(16465).
+text(16465, The state spends money maintaining the royalty and their assets.).
+att(16465, root).
+
+arg(16840).
+text(16840, The Royal Family generates several times that in profits, not even counting the increased tourism they bring in.).
+att(16840, 16465).
+
+arg(16733).
+text(16733, The main statement is not valid for all countries, and differ quite largely between nations where the monarchy holds some power (like Tonga) and those where there is no formal power (like Sweden).).
+att(16733, root).
+
+arg(16461).
+text(16461, Many figureheads of state have a role to play, being a safety valve for passing laws (can put new laws to referendum). Making it harder for a majority congress to take over a country.).
+support(16461, root).
+
+arg(16467).
+text(16467, People being born into nobility. Goes against the idea that people in a state are born equal.).
+att(16467, root).
+
+arg(16798).
+text(16798, Then abolish wealth as well.).
+att(16798, 16745).
+
+arg(16745).
+text(16745, People are also born into wealth or poverty. Heritage, culture and ethnicity should not be grounds for discriminatory actions.).
+att(16745, 16467).
+
+arg(16739).
+text(16739, Statements don't have validity).
+att(16739, 16733).
+
+arg(16732).
+text(16732, The money that is not used for maintaining buildings of historical value is a cost far less than a republic, and could be considered marketing of the brand "Sweden").
+att(16732, 16465).
+
+arg(16731).
+text(16731, A large majority of this cost is for maintaining the historical castles and staff for tendering to these, costs that would not go away. 
+).
+att(16731, 16465).
+
+arg(16841).
+text(16841, They lose that business value when they become inauthentic. Their business value is therefore a public good.).
+att(16841, 16466).
+
+arg(16464).
+text(16464, As we can see in the case of Monica Lewinsky and Bill Clinton, you don't need a monarchy for politics to enter the sphere of gossip and tabloids).
+att(16464, 16463).
+
+arg(16463).
+text(16463, They help distract people from political discourse. Bringing politics into the sphere of gossip and tabloid magazines).
+support(16463, root).
+
+arg(16462).
+text(16462, The monarchy might be assisting in attracting tourists).
+support(16462, root).
+

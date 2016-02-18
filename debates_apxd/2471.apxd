@@ -1,0 +1,176 @@
+arg(root).
+text(root, Direct digital democracy should be implemented by governments worldwide.).
+
+arg(17339).
+text(17339, Complete direct democracy is not a feasible future for any country. Just in the US alone, the amount of legislation that is voted on per two year congress period numbers in the tens of thousands. Voters have neither the time nor effort to research or vote on issues that are not important to them.).
+att(17339, root).
+
+arg(17481).
+text(17481, Since no votes were made we can only speculate. Tyranny of the majority applies to both systems. The question is which leads to less harm and more needs being met.).
+att(17481, 17456).
+
+arg(17334).
+text(17334, Tyranny of the majority applies to both systems. A large group of tyrants would win the vote in both systems. A Christian majority would vote a Christian rep and leave everyone else with no representation.
+
+It's also easier to corrupt a minority than a majority.).
+att(17334, 17270).
+
+arg(17330).
+text(17330, If it's a real thing, do you have any real world examples?
+You are assuming Direct Dem. would be worse than Rep. Dem. without any evidence, when there is a mountain of evidence Rep. Dem. is easily corruptible and leads to momentous harm.).
+att(17330, 17270).
+
+arg(17272).
+text(17272, The part about the uneducated majority has mainly to do with the context of the time. Most people during the late 1700's didn't have that great of an education. Nowadays that's different of course, but I just brought that up because that was an argument back then. BTW, I'm not sure what you mean by).
+att(17272, 17271).
+
+arg(17270).
+text(17270, The tyranny of the majority is a real thing as well. The tyranny of the majority/minority is something the founding fathers tried to prevent and I'd say they did an okay job at it. A simple majority is all it takes for a law to be established in a direct democracy, and in many areas this could have).
+att(17270, 17101).
+
+arg(17266).
+text(17266, Perhaps my word usage of "ruling" was improper, but my point still stands. One person can represent the views of hundreds of thousands, that's what voting is all about. You vote for the representative who shares your views. Now, on the local level you do see instances of direct democracy, but on ).
+att(17266, 17260).
+
+arg(17259).
+text(17259, Tyranny of the majority means that whoever is apart of the majority group in a society has power over the minority. It's dangerous if it goes unchecked. Rep. Democracy leads to tyranny of the minority if those who are being represented allows it to. That's the beauty of Rep. Democracy, the people).
+att(17259, 17246).
+
+arg(17456).
+text(17456, Most cases of slavery and genocide were committed against a minority group by a majority group.  Although we have few/no examples of direct democracy to consider, it's fair to believe that many historical injustices were supported by what would have been a voting majority if put to a vote.).
+att(17456, 17330).
+
+arg(17444).
+text(17444, Experts and people that have spent time educating themselves on a subject can vote on matters that they know about. Since they will be voting on issues they care about they should outnumber the ignorant voters that have less interest in such issues. 
+).
+support(17444, 17351).
+
+arg(17261).
+text(17261, Everyone does have a real vote and real representation in Representative Democracy, it's in the name. In the US, we have districts which each get to vote for an elected official to represent them in the House. Everyone (who is eligible to vote) in that district has a vote and a voice. Everyone's ).
+att(17261, 17160).
+
+arg(17351).
+text(17351, Everyone is not expected to vote on everything. Only what they choose.).
+att(17351, 17339).
+
+arg(17350).
+text(17350, It is not reasonable to expect one person to be able to represent and fulfil the needs of hundreds of thousands. 
+People are more educated than ever. 
+
+People could vote for more education and public service news instead of entertainment.
+
+It would also be an incentive to educate.).
+att(17350, 17337).
+
+arg(17337).
+text(17337, It is not reasonable to assume that voters know enough about the myriad of political issues we face to effectively make informed decisions on them. Politicians are paid to understand these issues and represent what their constituents would want, saving voters and effort.).
+att(17337, 17160).
+
+arg(17297).
+text(17297, There is an infrastructure that you can use. Assuming you have a list of everyone in the country, you can issue them a single asset in one of several thousand cryptocurrencies. These have permanent, immutable, pseudononymous ledgers that you can use to audit the election.).
+att(17297, 17124).
+
+arg(17319).
+text(17319, Dir. Dem. could replace the house reps but keep the constitution and senate.).
+att(17319, 17284).
+
+arg(17284).
+text(17284, But then the majority can simply vote those laws away. That's the problematic issue. In direct democracy, majority rules. ).
+att(17284, 17281).
+
+arg(17281).
+text(17281, A constitution and or a method of preventing tyranny of the majority could also be implemented.).
+att(17281, 16902).
+
+arg(17482).
+text(17482, It is harder to corrupt the majority of a population than a few representatives. This means the publics needs would get represented instead of a powerful corrupting minorities.).
+support(17482, root).
+
+arg(17442).
+text(17442, Adding voting on policies via digital democracy to the current system and having the results included in the house and senate votes would still be a step forward.).
+att(17442, root).
+
+arg(17275).
+text(17275, If politicians were truly able to represent their constituents 100% it would be the same as everyone just voting themselves.
+Politicians choose whose views to represent and whose not to.
+Usually they choose to represent the rich and powerful instead of the people.).
+att(17275, 17261).
+
+arg(17271).
+text(17271, The argument that uneducated people voting could lead to tyranny applies to both systems. 
+Periodically choosing a representative does not solve this problem. 
+
+
+The question is, which leads to greater tyranny more often and why?
+Who is more correct, the collective constituency or a politician?).
+att(17271, 17259).
+
+arg(17265).
+text(17265, There has never been a case were direct democracy actually lead to a tyranny of the majority. So a), it is presumptuous to say that it "easily" leads to it and b) there are current cases of direct democracies where it doesn't seem to show this trend of a tyranny by the majority at all.).
+att(17265, 17259).
+
+arg(17130).
+text(17130, Traditional systems may be more vulnerable.
+Viable software/hardware is already in use and being developed.
+Bitcoins blockchain technology can be used to prevent fraud.
+Quantum computer voting centres could be created eliminating fraud.).
+att(17130, 17124).
+
+arg(17095).
+text(17095, Representative democracy can easily lead towards tyranny by a powerful minority. Especially when previous systems were controlled by a powerful minority.).
+att(17095, 16902).
+
+arg(17273).
+text(17273, Now this may not help my argument, but nevertheless it is somewhat relevant. The Jim Crow laws were a set of laws enacted by the white majority (through representation) in order to discriminate and segregate the blacks from the whites. While this happened using Rep. Democracy, it's not a stretch at).
+att(17273, 17265).
+
+arg(17260).
+text(17260, Democracy should not be about voting who should rule you.
+It is impossible for one person to represent the views of hundreds of thousands.
+Democracy should be about everyone voting on policies.).
+att(17260, 17217).
+
+arg(17160).
+text(17160, Democracy is supposed to be about everyone being involved in making political decisions and getting an equal vote. 
+One politician cannot equally represent hundreds of thousands - millions of people.
+Direct digital democracy would be true democracy, giving everyone a real vote, real representation).
+support(17160, root).
+
+arg(17246).
+text(17246, Is there any evidence direct democracy leads to tyranny of a majority?
+There is endless evidence representative democracy leads to tyranny of a minority.
+Even if direct democracy leads to tyranny, wouldn't it still be better than tyranny of the minority. ).
+att(17246, 16902).
+
+arg(17227).
+text(17227, The necessary infrastructure and technology could be engineered and implemented at a reasonable cost.).
+att(17227, 17124).
+
+arg(17121).
+text(17121, Every person doesn't need access for it to work better than representative democracy. Right now in the U.S. 435 people are "representing" 318.9 million. 81% of the U.S. has internet access. 73% of all developed countries do. It's time.).
+att(17121, 17114).
+
+arg(17114).
+text(17114, Direct digital democracy can only be realized if every member of society has equal access to the required hardware/software).
+att(17114, root).
+
+arg(17217).
+text(17217, The founding fathers, who were either Federalists or anti-Federalists, made a compromise in order to try and create a balance between the two. Now it's up to the voters to determine how they want to be ruled by electing the officials they want in office. ).
+support(17217, 17095).
+
+arg(17101).
+text(17101, Humanity has lived under the tyranny of a powerful minority for most of our civilisation. Direct digital democracy would lead to greater representation of humanitys needs, with more needs being met, instead of a rich/powerful minority mainly getting what they want at the expense of everyone else.).
+support(17101, root).
+
+arg(16902).
+text(16902, Direct democracy can easily lead towards a tyranny by the majority, something the Founding Fathers of the US tried to avoid. ).
+att(16902, root).
+
+arg(17124).
+text(17124, There is not a viable software to ensure that the election would not be tampered with, making electoral fraud possible an easy way to alter its outsome.).
+att(17124, root).
+
+arg(17258).
+text(17258, In your case, you believe that direct democracy is the way to go. I, however, fear that direct democracy is dangerous because it goes unchecked. All it takes is for a simple majority to put in law something that could go against human rights. Better yet, companies could buy votes for policies. ).
+att(17258, root).
+

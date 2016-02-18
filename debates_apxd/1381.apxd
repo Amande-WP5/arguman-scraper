@@ -1,10 +1,6 @@
 arg(root).
 text(root, The 'slippery slope' fallacy is not a fallacy.).
 
-arg(6312).
-text(6312, It could be considered a fallacy due to  arguments saying that "this will lead to this which will lead to..." and so on. While some of these options are statistically possible, that does not always justify assumptions on a large scale. e.g. saying that wearing black will lead to the decline of human).
-att(6312, root).
-
 arg(6293).
 text(6293, Society progresses with velocity. If a drug is decriminalised, there is a greater chance it will be legalised. If society becomes more tolerant of an abundant sexuality, it will more likely tolerate less common sexualities.).
 support(6293, root).
@@ -28,4 +24,8 @@ att(14823, 6293).
 arg(14824).
 text(14824, Because true deviancy is usually a result of sexual repression. It's not healthy to attempt to restrain one's biological drives.).
 support(14824, 14823).
+
+arg(6312).
+text(6312, It could be considered a fallacy due to  arguments saying that "this will lead to this which will lead to..." and so on. While some of these options are statistically possible, that does not always justify assumptions on a large scale. e.g. saying that wearing black will lead to the decline of human).
+att(6312, root).
 

@@ -1,11 +1,11 @@
 arg(root).
 text(root, This sentence is false.).
 
-arg(11041).
-text(11041, If it were true, it would be false and if it were false, it would be true.).
-att(11041, root).
-
 arg(11361).
 text(11361, If it was true, it'd be true. ).
 att(11361, 11041).
+
+arg(11041).
+text(11041, If it were true, it would be false and if it were false, it would be true.).
+att(11041, root).
 

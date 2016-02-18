@@ -1,37 +1,9 @@
 arg(root).
 text(root, Political Correctness has gone too far and threatens society).
 
-arg(10274).
-text(10274, Your premise should then be a however and not a but. A but is an objection, whereas your premise was not an objection.).
-att(10274, root).
-
-arg(8889).
-text(8889, People now abuse it by using accusations to silence proper discussion and turn non-issues into scandals when they feel offended.).
-support(8889, root).
-
-arg(8891).
-text(8891, There can and should be a healthy balance. Political correctness is still needed in society to prevent certain groups of people from being marginalized.).
-att(8891, root).
-
-arg(8896).
-text(8896, Discrimination is not an option for any society, it makes society retrogress.).
-att(8896, root).
-
-arg(10276).
-text(10276, These statistics are not valid claims. They did not state their sample size, whether or not they tested a random sample of people, the age of the people tested, etc. They didn't give out enough information for a valid claim.).
-att(10276, root).
-
-arg(8780).
-text(8780, When you can't even mention statistics, actual science, or even facts without being demonized, you know it has gone too far.).
-support(8780, root).
-
 arg(8781).
 text(8781, Donald Trump will make America great again).
 att(8781, root).
-
-arg(8936).
-text(8936, Everyone should have the right to complain and express themselves in a free society or else it is not a free society. ).
-att(8936, root).
 
 arg(8939).
 text(8939, You are right and my argument above was no objection to that.).
@@ -41,53 +13,43 @@ arg(8803).
 text(8803, Can you give a concrete example? I personally cannot recall a time where I or another person was "demonized" for stating facts.).
 att(8803, 8780).
 
+arg(8889).
+text(8889, People now abuse it by using accusations to silence proper discussion and turn non-issues into scandals when they feel offended.).
+support(8889, root).
+
+arg(8891).
+text(8891, There can and should be a healthy balance. Political correctness is still needed in society to prevent certain groups of people from being marginalized.).
+att(8891, root).
+
+arg(16582).
+text(16582, Racist).
+att(16582, 12383).
+
+arg(10274).
+text(10274, Your premise should then be a however and not a but. A but is an objection, whereas your premise was not an objection.).
+att(10274, 8939).
+
+arg(8896).
+text(8896, Discrimination is not an option for any society, it makes society retrogress.).
+att(8896, 8781).
+
+arg(10276).
+text(10276, These statistics are not valid claims. They did not state their sample size, whether or not they tested a random sample of people, the age of the people tested, etc. They didn't give out enough information for a valid claim.).
+att(10276, 8834).
+
+arg(8780).
+text(8780, When you can't even mention statistics, actual science, or even facts without being demonized, you know it has gone too far.).
+support(8780, root).
+
+arg(16663).
+text(16663, No, it doesn't "threatens" society. The problem with political correctness is exactly it's profound uneffectiveness in threatening the bourgeois society.
+
+I say we substitute it with a people's revolution and direct democracy, with nominal economic equality to everyone.).
+att(16663, root).
+
 arg(8806).
 text(8806, The reason people are "demonized" for mentioning the facts you're referring to is because the facts themselves are used out of context in order to support racist, incorrect, or just plain wrong arguments).
 att(8806, 8780).
-
-arg(11011).
-text(11011, Your studies are outdated. New studies show blacks and whites have equal testosterone levels.).
-att(11011, root).
-
-arg(11013).
-text(11013, Those studies have been contradicted by newer ones: http://www.ncbi.nlm.nih.gov/pubmed/23354421).
-att(11013, root).
-
-arg(11014).
-text(11014, Because those statistics are usually coupled with a reluctance to acknowledge or ignorance of studies pointing to systemic racism as the cause.).
-att(11014, root).
-
-arg(11016).
-text(11016, Being labeled a racist does not mean the argument is over or cannot still be discussed.).
-att(11016, root).
-
-arg(9268).
-text(9268, Cold hard biology doesn't say that at all.).
-att(9268, root).
-
-arg(11018).
-text(11018, And racism/sexism/any-ism has also been used on the internet to silence those seeking political correctness. This is a reasonable conflict in the current context.).
-att(11018, root).
-
-arg(9278).
-text(9278, The discussion is not whether this fact is proven or not is it requires external sources. But if it can be used in a discussion without the debater being labelled as a racist. the validity of this claim stands on its own).
-att(9278, root).
-
-arg(9102).
-text(9102, Whether that plays a role at all is irrelevant. Cold hard biology says that they're 20% more aggressive without any exterior influences.).
-att(9102, root).
-
-arg(9103).
-text(9103, Black men have 20% more on AVERAGE. That means that on AVERAGE, black men are 20% more aggressive and violent. It is entirely scientific. It doesn't matter how much it varies. Everything is a bell curve.).
-support(9103, root).
-
-arg(9107).
-text(9107, Here's one not from a university. I implore you to look it up yourself as well.).
-att(9107, root).
-
-arg(9112).
-text(9112, Furthermore as been stated the amount of testosterone levels of a group of people can very well be determined by environmental factors triggering a higher production of testosterone. This means that your claim of 'hard cold biology' supposedly proving objective truth falls .).
-att(9112, root).
 
 arg(9288).
 text(9288, The validity definitely doesn't stand on its own, regardless of how the debater gets labeled.).
@@ -100,10 +62,6 @@ Where is the direct proof of that?
 Are men on average 100% more aggressive than women? The answer is no, the conclusion is not as easy and apparent as you would like it to be. Your logic is immensely flawed.).
 att(9114, 9103).
 
-arg(9119).
-text(9119, And even if racism has an effect on their lives, that still doesn't excuse black men committing violent crimes (mostly against their own people) at a much higher rate than any other race. Take rape for example. Ctrl+F "rape" to see what I'm citing. Keep in mind Black men are 7% of the population.).
-att(9119, root).
-
 arg(8832).
 text(8832, "Black men have 20% more testosterone than white men. Testosterone is strongly linked to aggression, and rage." I guess the individual facts won't get you demonized, but together they will.).
 att(8832, 8803).
@@ -111,10 +69,6 @@ att(8832, 8803).
 arg(8834).
 text(8834, "Black men have 20% more testosterone than white men. Testosterone is strongly linked to aggression, and rage." is not taken out of context. It gives a very clear and fact based conclusion. There is no room for bias, or contortion.).
 att(8834, 8806).
-
-arg(9135).
-text(9135, Whatever statistic you use in a high-tension discussion you'll be called a number of negative accusations. The only difference is that on the other side of the debate the label stuck on you is different and the way media decides to portray it is different. Media does not represent everyones opinion).
-att(9135, root).
 
 arg(9148).
 text(9148, The author's political ideology is based on his belief in the inherent racial differences that he's trying to prove. That's circular reasoning, confirmation bias, lying from statistics, and pretty much every other possible logical fallacy you can think of. The sauce is weak.).
@@ -188,9 +142,53 @@ arg(12697).
 text(12697, How can we say political correctness has gone too far when the demographics marginalized by racism, personal and systemized, remain so marginalized? How can we say PC "threatens society"? What is the threat to society? By contrast, racism is a true threat to society. ).
 att(12697, 10272).
 
-arg(12698).
-text(12698, Political correctness is not simply about choice of words. Language affects thought. Thought rarely changes on its own. Thinking consciously about our  words is a method of making the brain understand a different viewpoint. This makes it worthwhile. ).
-att(12698, root).
+arg(11011).
+text(11011, Your studies are outdated. New studies show blacks and whites have equal testosterone levels.).
+att(11011, 8832).
+
+arg(11013).
+text(11013, Those studies have been contradicted by newer ones: http://www.ncbi.nlm.nih.gov/pubmed/23354421).
+att(11013, 8834).
+
+arg(11014).
+text(11014, Because those statistics are usually coupled with a reluctance to acknowledge or ignorance of studies pointing to systemic racism as the cause.).
+att(11014, 9106).
+
+arg(11016).
+text(11016, Being labeled a racist does not mean the argument is over or cannot still be discussed.).
+att(11016, 9278).
+
+arg(9268).
+text(9268, Cold hard biology doesn't say that at all.).
+att(9268, 9102).
+
+arg(9278).
+text(9278, The discussion is not whether this fact is proven or not is it requires external sources. But if it can be used in a discussion without the debater being labelled as a racist. the validity of this claim stands on its own).
+att(9278, 9114).
+
+arg(9102).
+text(9102, Whether that plays a role at all is irrelevant. Cold hard biology says that they're 20% more aggressive without any exterior influences.).
+att(9102, 8860).
+
+arg(9103).
+text(9103, Black men have 20% more on AVERAGE. That means that on AVERAGE, black men are 20% more aggressive and violent. It is entirely scientific. It doesn't matter how much it varies. Everything is a bell curve.).
+support(9103, 8854).
+
+arg(9107).
+text(9107, Here's one not from a university. I implore you to look it up yourself as well.).
+att(9107, 8938).
+
+arg(9112).
+text(9112, Furthermore as been stated the amount of testosterone levels of a group of people can very well be determined by environmental factors triggering a higher production of testosterone. This means that your claim of 'hard cold biology' supposedly proving objective truth falls .).
+att(9112, 9108).
+
+arg(9119).
+text(9119, And even if racism has an effect on their lives, that still doesn't excuse black men committing violent crimes (mostly against their own people) at a much higher rate than any other race. Take rape for example. Ctrl+F "rape" to see what I'm citing. Keep in mind Black men are 7% of the population.).
+att(9119, 8860).
+
+arg(9135).
+text(9135, Whatever statistic you use in a high-tension discussion you'll be called a number of negative accusations. The only difference is that on the other side of the debate the label stuck on you is different and the way media decides to portray it is different. Media does not represent everyones opinion).
+att(9135, 9106).
 
 arg(12699).
 text(12699, This is anecdotal of course, but when I learned to say "person who is homeless" rather than "homeless person" it aided me immensely in the realization of homelessness as an aspect separate from one's identity, character, and even success. It does a great deal to increase empathy and sympathy.).
@@ -204,14 +202,6 @@ arg(9125).
 text(9125, A) stating racism and systematic oppression as a reason for a specific action is not the same as justifying an action.
 B) The purpose of finding a reason is that understandning the reason is normally the root to solving a problem in any given situation).
 att(9125, 9119).
-
-arg(11076).
-text(11076, People have carried it to the point where one cannot question ideological and religious beliefs. If an idea cannot be challenged, then how can we know whether to act on it?).
-support(11076, root).
-
-arg(14699).
-text(14699, How is this even a logical response? Unless my assertion that "political correctness can at times lead to suppression of speech" is in and of itself an example of political correctness doing just that. That's not what I'm saying at all. ).
-att(14699, root).
 
 arg(9108).
 text(9108, You're references are shady at best, one is article from a newspaper basing their claims on your 2nd source which is just an abstract of an examination of a group of young dark-colored people and bright-colored people in the US. The examination is quite narrow and by no means proven.).
@@ -238,14 +228,6 @@ arg(12382).
 text(12382, There has never been a point in time where arguing a position that disagrees with the society's position wasn't ostracized. Actually, in modern days, society's bias is getting thinner and thinner. ).
 att(12382, 11076).
 
-arg(12383).
-text(12383, This sounds deeply like an anecdote).
-att(12383, root).
-
-arg(11124).
-text(11124, If you don't agree with me you're a bigot. So I win, even if my argument is stupid, because I'm a protected minority and suggesting I might actually be doing something wrong is racist.).
-support(11124, root).
-
 arg(8938).
 text(8938, This could easily be an issue of sample size, considering it was a university study and black men tend to attend college at much lower rates than white men. This could also have to do with black students making up a higher percentage of student athletes than whites. ).
 att(8938, 8832).
@@ -257,4 +239,36 @@ att(14754, 8896).
 arg(14755).
 text(14755, this kills Bernie Sanders.).
 att(14755, 8781).
+
+arg(8936).
+text(8936, Everyone should have the right to complain and express themselves in a free society or else it is not a free society. ).
+att(8936, 8892).
+
+arg(11018).
+text(11018, And racism/sexism/any-ism has also been used on the internet to silence those seeking political correctness. This is a reasonable conflict in the current context.).
+att(11018, 10273).
+
+arg(11124).
+text(11124, If you don't agree with me you're a bigot. So I win, even if my argument is stupid, because I'm a protected minority and suggesting I might actually be doing something wrong is racist.).
+support(11124, root).
+
+arg(14699).
+text(14699, How is this even a logical response? Unless my assertion that "political correctness can at times lead to suppression of speech" is in and of itself an example of political correctness doing just that. That's not what I'm saying at all. ).
+att(14699, 12380).
+
+arg(12383).
+text(12383, This sounds deeply like an anecdote).
+att(12383, 11124).
+
+arg(11076).
+text(11076, People have carried it to the point where one cannot question ideological and religious beliefs. If an idea cannot be challenged, then how can we know whether to act on it?).
+support(11076, root).
+
+arg(12698).
+text(12698, Political correctness is not simply about choice of words. Language affects thought. Thought rarely changes on its own. Thinking consciously about our  words is a method of making the brain understand a different viewpoint. This makes it worthwhile. ).
+att(12698, root).
+
+arg(19544).
+text(19544, People are using political correctness as a excuse to not face there problems. there are instead employing these "safe-spaces" as a means to hide the fact that they have there own deeper physical and emotional issues that they think they can ignore.).
+support(19544, root).
 

@@ -1,0 +1,13 @@
+arg(root).
+text(root, Arguman needs more sophisticated logic).
+
+arg(19373).
+text(19373, Arguman allows us to use only simple logic in any argument map, using independent premises.
+
+It does not allow us to use the following sophisticated arguments:
+1 Co-premises.
+2 Intermediate conclusions (sub-conclusions)
+
+Most long-winded premises are actually a bundle of such sub-conclusions.).
+support(19373, root).
+

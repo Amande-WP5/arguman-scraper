@@ -1,14 +1,6 @@
 arg(root).
 text(root, Overdosing heroin is the best way to die).
 
-arg(13215).
-text(13215, One could perform an encephalogram to see if which parts of the brain are active during death and thus discover if it's pleasing or painful. If the person consented this experiment, then it wouldn't be unethical. (Un)fortunately, such experiment will not ever be done.).
-att(13215, root).
-
-arg(13213).
-text(13213, Getting close to your peak of heroin, throw in a psychedelic, and go skydiving over the ocean without a parachute would the be the ultimate way to die. very spiritual and warm. ).
-att(13213, root).
-
 arg(13212).
 text(13212, Getting close to your peak of heroin, throw is a psychedelic, and go skydiving over the ocean without a parachute would the be the ultimate way to die. very spiritual and warm. ).
 att(13212, root).
@@ -17,14 +9,18 @@ arg(13214).
 text(13214, Gramatical error).
 att(13214, 13212).
 
+arg(13262).
+text(13262, Grammatical* error).
+att(13262, 13214).
+
+arg(13215).
+text(13215, One could perform an encephalogram to see if which parts of the brain are active during death and thus discover if it's pleasing or painful. If the person consented this experiment, then it wouldn't be unethical. (Un)fortunately, such experiment will not ever be done.).
+att(13215, 13060).
+
 arg(13074).
 text(13074, This depends on, by which metric you judge which is the best.
 If maximum pleasure and minimum pain and fear, etc is it. Perhaps heroin is one of the best ways to go.).
 att(13074, root).
-
-arg(13262).
-text(13262, Grammatical* error).
-att(13262, 13214).
 
 arg(13060).
 text(13060, There is no way to possibly prove this at all.).
@@ -33,4 +29,8 @@ att(13060, root).
 arg(13299).
 text(13299, It's also a scary way to day, and people don't want to die scared. I propose it is better to die in ones sleep so you need not acknowledge your own death.).
 att(13299, root).
+
+arg(13213).
+text(13213, Getting close to your peak of heroin, throw in a psychedelic, and go skydiving over the ocean without a parachute would the be the ultimate way to die. very spiritual and warm. ).
+att(13213, root).
 

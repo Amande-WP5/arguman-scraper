@@ -1,0 +1,67 @@
+arg(root).
+text(root, Bitcoin is useful).
+
+arg(18732).
+text(18732, If it becomes the reserve currency, it removes the possibility for governmental monetary policy).
+att(18732, root).
+
+arg(18824).
+text(18824, ).
+support(18824, root).
+
+arg(18734).
+text(18734, There is a chance that quantum computation could lower its security).
+att(18734, root).
+
+arg(18731).
+text(18731, It's not yet widely accepted in physical locations).
+att(18731, root).
+
+arg(18730).
+text(18730, It's at least as uncensorable as physical currency, with most of, if not all of, the privacy).
+support(18730, root).
+
+arg(18729).
+text(18729, It removes the need for trust in financial management).
+support(18729, root).
+
+arg(18772).
+text(18772, None of its technical properties prevent it from being more widely used in the future.).
+att(18772, 18731).
+
+arg(18771).
+text(18771, Some see this as an advantage of bitcoin.).
+att(18771, 18732).
+
+arg(18733).
+text(18733, Transaction fees are (in the foreseeable future) are significantly cheaper than on the current infrastructure. This could mean that, if widely adopted, it would remove a significant drag on the economy.).
+support(18733, root).
+
+arg(18728).
+text(18728, There are potential scalability concerns (especially given current developer politics)).
+att(18728, root).
+
+arg(18727).
+text(18727, It's a push system, so knowing your address does not give you access to funds, unlike a credit card.).
+support(18727, root).
+
+arg(18726).
+text(18726, It offers an immutable record of chronology. This means that you can sign a deed on the chain and transfer it to the next order. Or you can put a hash of you patent, book, etc. to prove that it was written before a specific date.).
+support(18726, root).
+
+arg(18725).
+text(18725, It allows an easy mechanism for machine-to-machine payments).
+support(18725, root).
+
+arg(19554).
+text(19554, Not quite. Read: current hard fork fight).
+att(19554, 19549).
+
+arg(19551).
+text(19551, This does not support the argument "bitcoin is useful", but rather asserts that "bitcoin *will* be useful." It may be useful in the future, but it is not right now.).
+att(19551, 18772).
+
+arg(19549).
+text(19549, It is bureaucracy free.).
+support(19549, root).
+

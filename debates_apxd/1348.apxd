@@ -1,89 +1,13 @@
 arg(root).
 text(root, We can know nothing for certain).
 
-arg(5980).
-text(5980, If you can be proven wrong then you can be certain that you are wrong. Therefore you know something for certain. Therefore the argument is proved wrong by counterexample.).
-support(5980, 5960).
-
-arg(5904).
-text(5904, We can be proven wrong. We are fallible.).
-support(5904, root).
-
 arg(6923).
 text(6923, HUMAN ERROR).
 support(6923, root).
 
-arg(5909).
-text(5909, Knowledge can only be compared by our own subjective experiences.).
-support(5909, root).
-
-arg(5912).
-text(5912, We can't even know that the argument is true for certain, because even that could be proven wrong.).
-att(5912, root).
-
-arg(6315).
-text(6315, Reality is relative).
-support(6315, root).
-
-arg(6948).
-text(6948, Prove that you think).
-att(6948, root).
-
-arg(6152).
-text(6152, This assumes that just because you think, you really are there. This is not necessarily true. Ex: What if I am thinking right now, but I don't really exist?).
-att(6152, root).
-
-arg(6953).
-text(6953, Prove that you think).
-att(6953, root).
-
-arg(6008).
-text(6008, You can be certain of anything. But whether that thing is true for certain, you cannot know. ).
-att(6008, root).
-
-arg(6155).
-text(6155, Knowledge assumes certainty, and what is true may not necessarily be KNOWN to be true.).
-att(6155, root).
-
-arg(6258).
-text(6258, I can know for certain that your mind cannot be changed.).
-att(6258, root).
-
-arg(5928).
-text(5928, Some things can be proved and therefore known for certain; water is wet, the sky is blue, gravity is in effect, you cannot destroy or create energy, merely convert it. Etc.).
-att(5928, root).
-
-arg(7260).
-text(7260, I don't know how you know this.).
-att(7260, root).
-
-arg(5931).
-text(5931, Our entire world is a construct of the brain as interpreted through signals received from the sensory organs. There is no such thing as "bright" or "hot" or even "color" except in subjective experience, so why couldn't this be true of everything else too?).
-support(5931, root).
-
-arg(6163).
-text(6163, Beyond all reasonable doubt should be as good as certain.
-
-I will not know for certain that tomorrow I might be showered in cow sized golden frogs made of uranium, however I know beyond all reasonable doubt that I will not experience such an event.).
-att(6163, root).
-
-arg(6024).
-text(6024, Many philosophers and epistemologists agree that reaching "absolute certainty" in terms of our knowledge of anything is impossible. We can't even be absolutely certain of our own existence (we could be in the matrix or a brain in a vat). We can, however, be MAXIMALLY certain.).
-support(6024, root).
-
-arg(7272).
-text(7272, I know in absolute 100% certainty that you do not have 7 billion USD to give to me, nor would you be willing to if you did.
-
-I welcome you to prove me wrong.).
-att(7272, root).
-
 arg(5945).
 text(5945, Even to agree that "water is wet" or "the sky is blue" requires only that we agree in words, not that I understand what "wet" or "blue" mean to you. Newton's laws and the law of gravity are each just the recognitions of patterns, and Quantum physics says there's no reason they can't be broken).
 att(5945, 5928).
-
-arg(6030).
-text(6030, The premise says that we can be proven wrong. So even the author can be proven wrong, and that is all that the premise is saying, so it is proving the claim.).
-att(6030, root).
 
 arg(6178).
 text(6178, "Reasonable" is a subjective term. Who is  to decide what doubt is "reasonable"?).
@@ -92,24 +16,6 @@ att(6178, 6163).
 arg(6033).
 text(6033, This argument can continue back and forth and never reach a conclusion.).
 att(6033, 6030).
-
-arg(5952).
-text(5952, We can observe patterns with enough certainty to replicate any relevant results in a reasonable context.).
-att(5952, root).
-
-arg(6723).
-text(6723, certainty is determined by reality, which is determined by concentration and knowledge of each individual, thus, we can know something for certain if we establish the term "certainty" as a fact that is temporary provable, but also discredited.).
-att(6723, root).
-
-arg(6352).
-text(6352, Yes I am implying there are absolute truths.
-
-I'll give you an example.
-
-I can know absolutely for certain that you are currently unable to give me 7,000,000,000 USD.
-
-).
-att(6352, root).
 
 arg(5957).
 text(5957, If the argument is true, then we cannot know for certain that it is true. If the argument is false, we can know for certain that it is false.
@@ -121,10 +27,6 @@ arg(6187).
 text(6187, Being able to doubt your existence is proof that you exist, for you have to exist to doubt.
 ).
 att(6187, 6152).
-
-arg(6291).
-text(6291, Did I misunderstand your premise? It seemed like you were implying that there exists an "absolute truth".).
-att(6291, root).
 
 arg(5960).
 text(5960, Just because we can be wrong doesn't mean we can't be right.).
@@ -161,17 +63,13 @@ text(6202, Who might you then ask if your demand to know if my definition of rea
 Pedantism is unproductive in a debate, perhaps we should consult statisticians,).
 att(6202, 6178).
 
-arg(6058).
-text(6058, A better claim might be "I can know nothing for certain" as I cannot be certain that others cannot know a given thing for certain.).
-att(6058, root).
-
 arg(6375).
 text(6375, You cannot know, because knowledge is based on facts, and facts assume there is an "absolute truth". There is no absolute authority on truth. We only have each others subjective experiences to compare. You can be certain of anything, but you cannot "know" anything for certain.).
 att(6375, 6352).
 
-arg(5979).
-text(5979, You can be certain of many things: a circle has no corners, a triangle has 3 sides, the tallest person in the universe is not smaller than me etc...).
-att(5979, root).
+arg(5980).
+text(5980, If you can be proven wrong then you can be certain that you are wrong. Therefore you know something for certain. Therefore the argument is proved wrong by counterexample.).
+support(5980, 5960).
 
 arg(6069).
 text(6069, Not begging the question as I used the word "know". To have knowledge of something is true is different from being certain of it. You cannot "know" something that is untrue, because "knowledge" is absolute fact.).
@@ -180,6 +78,96 @@ att(6069, 6008).
 arg(6850).
 text(6850, Every experience you have ever had could be a giant hallucination. ).
 att(6850, 5928).
+
+arg(5912).
+text(5912, We can't even know that the argument is true for certain, because even that could be proven wrong.).
+att(5912, root).
+
+arg(6258).
+text(6258, I can know for certain that your mind cannot be changed.).
+att(6258, root).
+
+arg(5928).
+text(5928, Some things can be proved and therefore known for certain; water is wet, the sky is blue, gravity is in effect, you cannot destroy or create energy, merely convert it. Etc.).
+att(5928, root).
+
+arg(6315).
+text(6315, Reality is relative).
+support(6315, 6152).
+
+arg(6948).
+text(6948, Prove that you think).
+att(6948, 6613).
+
+arg(6953).
+text(6953, Prove that you think).
+att(6953, 6128).
+
+arg(6008).
+text(6008, You can be certain of anything. But whether that thing is true for certain, you cannot know. ).
+att(6008, 5979).
+
+arg(6155).
+text(6155, Knowledge assumes certainty, and what is true may not necessarily be KNOWN to be true.).
+att(6155, 5960).
+
+arg(7260).
+text(7260, I don't know how you know this.).
+att(7260, root).
+
+arg(6163).
+text(6163, Beyond all reasonable doubt should be as good as certain.
+
+I will not know for certain that tomorrow I might be showered in cow sized golden frogs made of uranium, however I know beyond all reasonable doubt that I will not experience such an event.).
+att(6163, root).
+
+arg(6024).
+text(6024, Many philosophers and epistemologists agree that reaching "absolute certainty" in terms of our knowledge of anything is impossible. We can't even be absolutely certain of our own existence (we could be in the matrix or a brain in a vat). We can, however, be MAXIMALLY certain.).
+support(6024, root).
+
+arg(5952).
+text(5952, We can observe patterns with enough certainty to replicate any relevant results in a reasonable context.).
+att(5952, root).
+
+arg(6723).
+text(6723, certainty is determined by reality, which is determined by concentration and knowledge of each individual, thus, we can know something for certain if we establish the term "certainty" as a fact that is temporary provable, but also discredited.).
+att(6723, root).
+
+arg(6058).
+text(6058, A better claim might be "I can know nothing for certain" as I cannot be certain that others cannot know a given thing for certain.).
+att(6058, root).
+
+arg(7272).
+text(7272, I know in absolute 100% certainty that you do not have 7 billion USD to give to me, nor would you be willing to if you did.
+
+I welcome you to prove me wrong.).
+att(7272, 6375).
+
+arg(6030).
+text(6030, The premise says that we can be proven wrong. So even the author can be proven wrong, and that is all that the premise is saying, so it is proving the claim.).
+att(6030, 5980).
+
+arg(5979).
+text(5979, You can be certain of many things: a circle has no corners, a triangle has 3 sides, the tallest person in the universe is not smaller than me etc...).
+att(5979, root).
+
+arg(6352).
+text(6352, Yes I am implying there are absolute truths.
+
+I'll give you an example.
+
+I can know absolutely for certain that you are currently unable to give me 7,000,000,000 USD.
+
+).
+att(6352, 6291).
+
+arg(6291).
+text(6291, Did I misunderstand your premise? It seemed like you were implying that there exists an "absolute truth".).
+att(6291, 6202).
+
+arg(5904).
+text(5904, We can be proven wrong. We are fallible.).
+support(5904, root).
 
 arg(6231).
 text(6231, One's mind existing can only be proven from that mind's own perspective, it cannot prove anything else. The way that mind defines existence may be different, which is where the argument stems from. What matters is perspective.).
@@ -192,10 +180,6 @@ att(6092, 6069).
 arg(6588).
 text(6588, Can I not be Absolutely certain that I exist while I am thinking.).
 att(6588, 6024).
-
-arg(7023).
-text(7023, There is basic logic such as math that is certain. For example, 1+1 will always be 2. They are constants with infinite sigfigs.).
-att(7023, root).
 
 arg(6113).
 text(6113, We can not trust our own perceptions as they could possibly be false. Thus we can not know if the machines are observing anything or if they are real themselves.).
@@ -213,8 +197,24 @@ arg(6124).
 text(6124, The word triangle and the definition of a triangle mean the same thing. You've defined it using itself. This only shows that you think. It shows that you have a logic syntax: that things can "is" or that things can "not is". Are there triangles, or are you a long file directory? A pyramid of rules?).
 att(6124, 5979).
 
+arg(6152).
+text(6152, This assumes that just because you think, you really are there. This is not necessarily true. Ex: What if I am thinking right now, but I don't really exist?).
+att(6152, 6128).
+
+arg(5909).
+text(5909, Knowledge can only be compared by our own subjective experiences.).
+support(5909, root).
+
+arg(7023).
+text(7023, There is basic logic such as math that is certain. For example, 1+1 will always be 2. They are constants with infinite sigfigs.).
+att(7023, root).
+
 arg(6128).
 text(6128, "Cogito ergo sum"
 ).
 att(6128, root).
+
+arg(5931).
+text(5931, Our entire world is a construct of the brain as interpreted through signals received from the sensory organs. There is no such thing as "bright" or "hot" or even "color" except in subjective experience, so why couldn't this be true of everything else too?).
+support(5931, root).
 

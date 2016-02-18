@@ -1,0 +1,63 @@
+arg(root).
+text(root, The voting age in Japan should be lowered from age 20 to age 18.).
+
+arg(19531).
+text(19531, Right now there is a difference between civil law and public election law. They should be the same.).
+support(19531, root).
+
+arg(19527).
+text(19527, 90% of the people in the world are considered an adult at 18).
+support(19527, root).
+
+arg(19534).
+text(19534, The youth are too busy with schoolwork. We don't have time.).
+att(19534, root).
+
+arg(19533).
+text(19533, Why should Japan need to meet the world standard?).
+att(19533, 19527).
+
+arg(19532).
+text(19532, We need to change 308 civil laws and it is difficult.).
+att(19532, root).
+
+arg(19530).
+text(19530, We all experienced the election at the school level, it should be okay at the national level.).
+support(19530, root).
+
+arg(19529).
+text(19529, Youth need to pay back the national debt. We need to act.).
+support(19529, root).
+
+arg(19528).
+text(19528, The juvenile act also should be lowered because of serious crimes by the young generation).
+support(19528, root).
+
+arg(19550).
+text(19550, Students are only as mature as they are allowed to be. ).
+att(19550, 19540).
+
+arg(19540).
+text(19540, Students are not mature).
+att(19540, root).
+
+arg(19539).
+text(19539, There should be some exceptions for people under 20.).
+att(19539, 19528).
+
+arg(19538).
+text(19538, We need to have a 2 year break before becoming adults.).
+att(19538, root).
+
+arg(19537).
+text(19537, Each country has a different reason to lower the voting age.).
+att(19537, 19527).
+
+arg(19536).
+text(19536, Youth don't pay into the pension system.).
+att(19536, root).
+
+arg(19535).
+text(19535, There is a low voter turnout for youth.).
+att(19535, root).
+

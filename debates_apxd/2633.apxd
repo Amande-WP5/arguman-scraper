@@ -1,0 +1,261 @@
+arg(root).
+text(root, It is sexist to believe one gender is inherently superior to another).
+
+arg(18562).
+text(18562, It is sexist to believe one sex is inherently superior at everything. 
+
+It is not sexist to believe each sex has their own inherit superiorities.).
+support(18562, root).
+
+arg(18690).
+text(18690, I didn't claim a value was a fact. I gave examples that can be evaluated as being superior and then claimed biological fact is not sexism.
+It's a fact males have greater bone density. 
+This makes male bones superior at not breaking.
+This makes female bones superior at breaking.).
+att(18690, 18656).
+
+arg(18422).
+text(18422, Do you agree that the potential sexism rely entirely in the ethical framework, and not in observation of the different qualities ?
+If yes, the conclusion should be that speaking about the qualities don’t help to know if something is sexist. (and then can’t be a "but" nor a "because" to the argument).
+att(18422, 18406).
+
+arg(18407).
+text(18407, If dogs had the sapience necessary to have conversations and understand the concept, I would in fact believe all in all that Humans were superior to dogs (dogs far from being infinitely inferior!), but I wouldn't share that conclusion unless it really asked and solicited it sincerely.).
+support(18407, 18406).
+
+arg(18672).
+text(18672, "Thing is, what separates a good and horrible person is the act of following through with these thoughts."
+-
+It is not a question of good or bad. If a person has sexist thoughts he is being sexist. Whether being sexist in itself is bad is irrelevant.).
+att(18672, 18664).
+
+arg(18671).
+text(18671, "Besides, since when were we not allowed freedom of thought?"
+-
+Nobody said they are not allowed to think that.).
+att(18671, 18664).
+
+arg(18664).
+text(18664, Quick fact: thoughts are thoughts..we can't really control them (unless of course you possess a superpower we are unaware of). Thing is, what separates a good and horrible person is the act of following through with these thoughts. Besides, since when were we not allowed freedom of thought ?).
+support(18664, 18498).
+
+arg(18656).
+text(18656, yeah right, because a value is not a fact. When you evaluate something you determine the value of something, but you don`t determine the fact of something. 
+But if I`m honest, I think It isn`t very important.).
+att(18656, 18561).
+
+arg(18561).
+text(18561, I still don't see how this is an argument against my premise.
+Are you saying evaluating superiority does not equal fact?).
+att(18561, 18309).
+
+arg(18551).
+text(18551, Good question, it is relative of how we define sexism.).
+att(18551, 18293).
+
+arg(18499).
+text(18499, It would be the same as saying "I am not racist because I am only thinking it, not saying it out loud.").
+support(18499, 18498).
+
+arg(18498).
+text(18498, Thoughts can still be sexist. Whether you say it out loud or not.).
+att(18498, 18409).
+
+arg(18472).
+text(18472, The interesting one is that men tend to get eye damage when in weightless environments for a long period. I don't know if we've yet seen a case in a woman, but it's certainly less common, and we have no idea why.).
+att(18472, 18352).
+
+arg(18471).
+text(18471, I am sorry, i am not very clear.
+
+My point is that even if it is not sexist to say that one gender is better at a specific task, it can still be sexist to say one gender is superior in a general sense
+
+The sexist can still be in the way you pass from the "better at a specific task" to "superior").
+att(18471, 18469).
+
+arg(18469).
+text(18469, How so? They may have been meaning superior in a general sense, but on a granular scale they are incorrect.).
+att(18469, 18353).
+
+arg(18424).
+text(18424, See what i said about superman, even in my own ethical framework, "superior" can mean different things, can you specify the meaning you are using ?
+If being superior is "doing more good", i don’t consider it sexist, but if it mean "the suffering or happiness of the person is more important", it is.).
+att(18424, 18406).
+
+arg(18420).
+text(18420, That it can be non sexist, doesn’t imply that it can’t be sexist. 
+I am saying that it can be sexist, not that it can’t be non sexist.).
+att(18420, 18406).
+
+arg(18418).
+text(18418, You have merely stated that 'no gender is superior'. You could have an infinite number of confused people posting on this page and it wouldn't render your first sentence correct or incorrect.).
+att(18418, 18346).
+
+arg(18408).
+text(18408, I would regard is as highly unethical to force the dog to be aware I thought it was inferior, or agree with me that it was inferior and so forth. I happen to love dogs a great deal but I cannot rate humans as inferior to dogs or identical.).
+support(18408, 18407).
+
+arg(18346).
+text(18346, No gender is superior. Most people here are confusing being better at certain tasks and being ultimately superior to the other sex.).
+att(18346, 18338).
+
+arg(18415).
+text(18415, It requires resources to investigate in many cases, the true individual qualities of individuals. ie if I am on my deathbed with minutes to live but require a superior individual to complete an essential task, it is not sexist of me to not vet all the B gendered present but instead choose gender A.).
+support(18415, 18414).
+
+arg(18414).
+text(18414, Providing that the reason for dismissing the gendered individual despite being aware of exonerating evidence of individual superiority is due to gendered reasons, ie not temporary insanity, mistake, forgetfulness. Digging into this information is not necessarily required to escape a charge of sexism).
+support(18414, 18413).
+
+arg(18413).
+text(18413, A non sexist person can correctly believe another gender is inferior, not force unsolicited any member of that gender to hear or process that thought, and then recruit those people less to a task requiring superiority,but if an individual THEN demonstrates extraordinary quality, ignoring is sexist.).
+support(18413, 18412).
+
+arg(18410).
+text(18410, If correct in your internal beliefs re: judgement of a gender's superiority, it is not sexist, if incorrect because of innocent rational or evidentiary mistakes, it is not sexist - But if you are incorrect either of the superiority, equality of a gender because of gendered reasons, it IS sexist.).
+support(18410, 18409).
+
+arg(18293).
+text(18293, what`s wrong with sexism ?).
+att(18293, root).
+
+arg(18406).
+text(18406, I think it can be ethical and non sexist to have an accurate ethical framework that regards one sex as superior, but you do not then have to tell the other sex about it or your thoughts. I would agree it would be unethical to force or share unsolicited thoughts saying another gender is inferior.).
+att(18406, 18375).
+
+arg(18402).
+text(18402, True. However, the question was gender, though I think OP meant sex.).
+att(18402, 18292).
+
+arg(18375).
+text(18375, To be clearer : stating the qualities of something isn’t sexist, but the ethical framework can be sexist.
+Which mean that stating that a sex is inherently superior, can be sexist, because it is not only about the qualities, but also about the ethical framework.).
+support(18375, 18374).
+
+arg(18311).
+text(18311, An honest appraisal of the irreplacebility of the genders in facilitating the true desires of each person in society would show white males underpin the most contributions of consequence. Who drives the trucks of food produce from farm to shop? Who maintains infrastructure? Women come last place.).
+support(18311, 18310).
+
+arg(18374).
+text(18374, What i am saying is that the superiority of something is a function of the qualities of this thing AND of a particular ethical framework.
+Without a ethical framework "superiority" is a empty word.
+
+I don’t agree superman is superior to a regular man outside any ethical framework.).
+att(18374, 18368).
+
+arg(18368).
+text(18368, I disagree because you tautologically state that qualities cannot influence the superiority or inferiority of something. You cannot make that case in general. 
+
+As an example, would you agree that Superman, as a reference point, is superior to a regular man? I would. Therefore there is a spectrum.).
+att(18368, 18354).
+
+arg(18354).
+text(18354, You are adding a particular personal way to weigh each qualities, my point was that the qualities alone are insufficient to speak about something being "inherently superior".).
+att(18354, 18310).
+
+arg(18353).
+text(18353, I don’t agree with your premise being a "but" to the original argument, because you are speaking of a different thing, even if i agree with what you are saying in your premise.).
+att(18353, 18319).
+
+arg(18352).
+text(18352, Ok).
+support(18352, 18318).
+
+arg(18351).
+text(18351, Is this identical to my argument ?
+
+If yes, i think it is better to keep only one branch for almost identical premises.).
+att(18351, 18343).
+
+arg(18343).
+text(18343, Being better at one task does not mean a gender is superior.).
+att(18343, 18271).
+
+arg(18310).
+text(18310, Everybody's trying to get something different out of society, from my perspective and desires men happen to be SUPREMELY superior to women in helping facilitate my true desired life, ergo men are superior from my subjective perspective. Men police my streets, guard my borders, invented my ammenities).
+att(18310, 18289).
+
+arg(18319).
+text(18319, Which was my point. Sorry if that didn't quite come across.).
+att(18319, 18289).
+
+arg(18318).
+text(18318, This is largely because it's been done more with men. For long term space travel, women are preferable. They take less air, weigh less, consume less food and water, and are more resistant to radiation (iirc on that last one).).
+att(18318, 18287).
+
+arg(18309).
+text(18309, "Biological fact is not sexism." You see the word "fact", but that male are superior at peeing standing up, is not just a fact, because of the term "superior". Superior is an evaluative term (or a thick term).).
+att(18309, 18299).
+
+arg(18299).
+text(18299, So? How is this an argument against my premise?).
+att(18299, 18291).
+
+arg(18344).
+text(18344, While you could argue that one sex is better at certain task (which is true), superior means "being higher in rank, status, or quality." which is not the same. It it sexist to believe one sex is inherently better in quality.).
+support(18344, root).
+
+arg(18292).
+text(18292, Attention !: In the literature there is a difference between sex and gender. Sex is the biological thing, gender is social thing.).
+att(18292, 18245).
+
+arg(18291).
+text(18291, but superior is not a purely descriptive term. It`s also evaluative.).
+att(18291, 18193).
+
+arg(18290).
+text(18290, That you think it is morally wrong to say it is sexist, doesn’t imply it is not sexist.).
+att(18290, 18279).
+
+arg(18289).
+text(18289, Being, on average, better at a specific task, isn’t the same thing than being inherently superior.).
+att(18289, 18271).
+
+arg(18287).
+text(18287, Women aren’t much more suited to space travel than man, most astronauts are men.).
+att(18287, 18271).
+
+arg(18281).
+text(18281, One quick example I would give for irreplaceable people is Norman Borlaug, his actions saving from starvation a billion people. Who does he regard as irreplaceable? Orville Vogel, Elvin C. Stakman, John D Rockefeller Sr. (funding his research). Regarding genetics: Watson & Crick, Mendel, Darwin.).
+support(18281, 18280).
+
+arg(18338).
+text(18338, If you are correct and assuming for example one gender WAS superior to another, sexism would therefore be an enlightened state of being.).
+att(18338, root).
+
+arg(18417).
+text(18417, I am willing to be swayed by any and all 'rational evidence or reasoning' to change my opinion of each individuals superiority, equality, inferiority away from approximate gendered heuristic - but it is unavailable to me because I am expected to obtain this info myself AND I do not have resources to).
+support(18417, 18415).
+
+arg(18412).
+text(18412, Actions taken in response to coming to a correct judgement regarding the superiority or equality of genders, is not sexist, even in a subset of cases where it means you treat two different gendered people differently. Prejudice is defined in relation to: be unwilling to swayed by rational reasoning.).
+support(18412, 18410).
+
+arg(18280).
+text(18280, Superiority is all about perspective, so from whose perspective? Superiority is about higher value, specifically irreplaceability to a task. So when you talk about grand things like 'all of us' and 'society' you mean irreplaceability to 'irreplaceable people', so who do those people most value?).
+support(18280, 18279).
+
+arg(18193).
+text(18193, Both sexes have their own biological and genetic superiorities. Males are biologically superior at peeing standing up. Females are biologically superior at growing humans. Biologically male humans are larger and stronger, females are smaller and weaker. Biological fact is not sexism.).
+att(18193, root).
+
+arg(18245).
+text(18245, ).
+att(18245, 18244).
+
+arg(18244).
+text(18244, ).
+support(18244, root).
+
+arg(18271).
+text(18271, It is not sexist to believe that a gender is better at a specific task. For instance, women are much more suited to space travel, and men are (seemingly, though not thoroughly tested) more suited for combat roles.).
+att(18271, root).
+
+arg(18409).
+text(18409, It is sexist to force, unsolicited, someone of another gender to hear your thoughts that you regard their gender as inferior, even if you are correct. It is not however necessarily sexist to believe those thoughts. ).
+att(18409, root).
+
+arg(18279).
+text(18279, It is morally wrong (and can be sexist) to promulgate that 'it is sexist to believe one gender is inherently superior to another'. Superiority is subjective, and is associated with some specific metric value. I reserve the right to value what I value in pursuit of what I see as my destiny in life.).
+att(18279, root).
+

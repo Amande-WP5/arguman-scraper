@@ -1,0 +1,11 @@
+arg(root).
+text(root, The U.S. government should declassify every single document).
+
+arg(18227).
+text(18227, This premise is nowhere near specific enough. For instance, one ought to know *when* they will declassify them. Or whether the time limit is different for military documents than civilian (hint: it likely should be). Or if they'd be redacted when they were declassified.).
+att(18227, root).
+
+arg(18202).
+text(18202, In the event of war,  the enemies of the US will have important information about everything. ).
+att(18202, root).
+

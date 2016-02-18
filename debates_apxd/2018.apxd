@@ -1,18 +1,25 @@
 arg(root).
 text(root, The main reason of the life of every man is sex).
 
-arg(16243).
-text(16243, This is true (with some approximations), but this is unlinked to the fallacy.
-The problem is that dependently of how we understand "the reason of every man", it could be a "is to ought" fallacy, or not.).
-att(16243, root).
+arg(16927).
+text(16927, This only applies if the goal of said sex is reproduction, then it's simply a matter of following ones biological imperative.).
+att(16927, root).
 
-arg(16234).
-text(16234, In that case, the purpose of a mans life is to REPRODUCE. You can now reproduce without sex).
-att(16234, root).
+arg(16623).
+text(16623, the real reason behind it all is to further science).
+att(16623, root).
 
 arg(13480).
 text(13480, There is no defined "purpose" to an individuals life.).
 att(13480, root).
+
+arg(13665).
+text(13665, If you assume he did mean "reason" his premise is in fact true.).
+att(13665, 13371).
+
+arg(18667).
+text(18667, Explain priests. Explain all the great inventions and accomplishments in the world, etc. Sex isn't the main reason; depending on one's mindset there are many other things up there too. If sex was the main, then people would not die for other causes. They'd die for not getting some booty.).
+att(18667, 13482).
 
 arg(13550).
 text(13550, You don't see every infertile person committing suicide. ).
@@ -22,9 +29,14 @@ arg(13534).
 text(13534, The main purpose of every single fertile person ever is to produce healthy and fertile offspring.).
 att(13534, root).
 
-arg(13576).
-text(13576, This is not a fallacy. Evolution is geared to select for organisms which can reproduce best. Because we are subject to evolution, sex is an inherent part of our lives.).
-support(13576, root).
+arg(16243).
+text(16243, This is true (with some approximations), but this is unlinked to the fallacy.
+The problem is that dependently of how we understand "the reason of every man", it could be a "is to ought" fallacy, or not.).
+att(16243, 13576).
+
+arg(16234).
+text(16234, In that case, the purpose of a mans life is to REPRODUCE. You can now reproduce without sex).
+att(16234, 13576).
 
 arg(13481).
 text(13481, An infertile man's main "reason" of life is to survive.).
@@ -38,7 +50,7 @@ arg(13371).
 text(13371, The main reason for men being born into life is because people had sex. Some men are born using other methods, such as artificial insemination. I think you mean to say "purpose" or "goal", not "reason".).
 att(13371, root).
 
-arg(13665).
-text(13665, If you assume he did mean "reason" his premise is in fact true.).
-att(13665, 13371).
+arg(13576).
+text(13576, This is not a fallacy. Evolution is geared to select for organisms which can reproduce best. Because we are subject to evolution, sex is an inherent part of our lives.).
+support(13576, 13482).
 

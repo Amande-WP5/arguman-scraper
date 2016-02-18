@@ -13,6 +13,10 @@ arg(9986).
 text(9986, That pertains to any time between the arrest and before you go to your arraignment. If your lawyer advises you to confess in court, then you should probably do it.).
 att(9986, 9985).
 
+arg(10111).
+text(10111, (assuming you meant "lie in a court"): What if the net result of the truth is greater harm than the lie?).
+att(10111, 9993).
+
 arg(9993).
 text(9993, One should never lie on a court.).
 att(9993, root).
@@ -25,14 +29,6 @@ arg(9322).
 text(9322, you could easily fall into the trap of false confession, and the real criminal could possibly get away with it.).
 att(9322, root).
 
-arg(10178).
-text(10178, A lie in court is illegal; is that not a net increase in harm?).
-att(10178, root).
-
-arg(10111).
-text(10111, (assuming you meant "lie in a court"): What if the net result of the truth is greater harm than the lie?).
-att(10111, 9993).
-
 arg(10180).
 text(10180, However, if you do so, is it acceptable to deny the offense in other settings?).
 att(10180, root).
@@ -40,6 +36,10 @@ att(10180, root).
 arg(10114).
 text(10114, Your assumption is that you will know the final outcome of the consequences. There is no way to fully know the future repercussions of admitting to a crime which you did not commit. Since committing a crime is a known negative value, the rational course would be to not confess to a false charge.).
 att(10114, root).
+
+arg(10178).
+text(10178, A lie in court is illegal; is that not a net increase in harm?).
+att(10178, 10111).
 
 arg(10072).
 text(10072, This is an advice a lawyer will give you, simply because the evidence against you is too overwhelming, and fighting for your innocence will most likely result in a harsher sentence.).

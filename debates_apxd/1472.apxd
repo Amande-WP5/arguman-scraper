@@ -1,69 +1,18 @@
 arg(root).
 text(root, Deleting A.I. is murder. Copying an A.I. is as abhorrent as cloning).
 
-arg(7261).
-text(7261, Cloning organic species is unsafe for the clone and the surrogate host. AI can be copied to a new computer without damaging the host or the duplicate.).
-att(7261, root).
-
-arg(16080).
-text(16080, For the copying of an AI, we are talking about software.).
-att(16080, root).
-
-arg(16043).
-text(16043, If the AI copy itself and then delete itself, is the first AI dead ?
-How is it different to just keeping working normally ?
-There is barely any difference, the AI would have to copy and free memory in the RAM all the time.).
-support(16043, root).
-
-arg(16062).
-text(16062, With the same logic :
-Human are only the creator of a specific conscious and intelligent thing, not of consciousness and intelligence itself.).
-att(16062, root).
-
-arg(16047).
-text(16047, If you halt the AI for a time, and then restart it, is the first AI dead and then you created a new one ?
-If yes then the AI die at each operations, because there are time between these operations.).
-support(16047, 16043).
-
-arg(16046).
-text(16046, Human and other animals fear death because they have evolved to fear it.
-There are no inherent reasons to fear it.).
-support(16046, root).
-
-arg(16045).
-text(16045, Parents are only the creator of a specific human, not of humanity itself, they didn’t invent human life. That is the difference to AI.).
-att(16045, root).
-
-arg(16044).
-text(16044, Many AIs working together to achieve the same goals, can be considered to be one AI running on decentralized hardware.
-Personal identity would be meaningless for AI : The constitutive parts of a AI could themselves be AI.).
-support(16044, root).
+arg(16351).
+text(16351, These are two unrelated statements.).
+att(16351, root).
 
 arg(16042).
 text(16042, AI would surely understand empty individualism, and have no reason to fear "dying" like we do.).
 att(16042, root).
 
-arg(16041).
-text(16041, You could greatly decrease the probability of such errors by adding redundancy, if you need it.
-You could easily make more probable that a meteor break the hardware, that such errors occur in "normal circumstances" (i mean when nothing is breaking the system from "outside").).
-att(16041, root).
-
-arg(16035).
-text(16035, Yes, but i think the argument is more about how we should define murder, than how we actually do it.).
-att(16035, root).
-
-arg(16032).
-text(16032, No, parents create children, it doesn’t mean they can do all they want with them.
-Creating something doesn’t have to give you right over it.).
-att(16032, root).
-
-arg(7397).
-text(7397, We don't know all of the properties of AI consciousness so we shouldn't make conclusions on the ethics of AI consciousness.).
-att(7397, root).
-
-arg(7246).
-text(7246, murder and cloning don't apply to non-biological systems ).
-att(7246, root).
+arg(16047).
+text(16047, If you halt the AI for a time, and then restart it, is the first AI dead and then you created a new one ?
+If yes then the AI die at each operations, because there are time between these operations.).
+support(16047, 16043).
 
 arg(7254).
 text(7254, But if an A.I. was as intelligent as a human and had the same capacity for thought as us, does that make it any less "alive"?).
@@ -73,21 +22,9 @@ arg(7263).
 text(7263, There are still minor errors that build up when copying and even when opening. Some errors are unique to certain file types such as .jpeg and bitmaps.).
 att(7263, 7261).
 
-arg(13670).
-text(13670, our definition for "life" can, and may have to, simply change).
-att(13670, root).
-
-arg(7286).
-text(7286, if one were to delete an AI under these circumstances they would be doing something akin to murder.).
-support(7286, root).
-
 arg(8622).
 text(8622, That's not how computers work. When you copy a file, every bit is duplicated exactly. And when you open a file, nothing is written at all so the data does not change.).
 att(8622, 7263).
-
-arg(7318).
-text(7318, A.I. needs not to understand or value these bonds even if it forms them. Humans have depended on food for sustenance throughout our history, but it is only relatively recently that we understand the mechanics behind digestion and cellular respiration despite requiring both.).
-att(7318, root).
 
 arg(7490).
 text(7490, If the AI was pursuing the extermination of all Humans, murdering this AI would not be an unethical act.).
@@ -101,17 +38,75 @@ arg(8204).
 text(8204, This is true of all organic reproduction.).
 att(8204, 7263).
 
-arg(8212).
-text(8212, We don't even treat the "death" and boiling of plants murder. Why would we classify something non living as murder, just because it appears sentient? ).
-att(8212, root).
-
 arg(8221).
 text(8221, Life is a characteristic distinguishing physical entities having biological processes and computers don't have biological processes.).
 att(8221, 7254).
 
-arg(8227).
-text(8227, Cloning isn't abhorrent. It's an interesting research (and in some cases, agricultural) technique that will expand human knowledge. Even if we limit it to "human cloning", human clones are called identical twins. You've started with a false premise.).
-att(8227, root).
+arg(7397).
+text(7397, We don't know all of the properties of AI consciousness so we shouldn't make conclusions on the ethics of AI consciousness.).
+att(7397, root).
+
+arg(16080).
+text(16080, For the copying of an AI, we are talking about software.).
+att(16080, 13319).
+
+arg(16043).
+text(16043, If the AI copy itself and then delete itself, is the first AI dead ?
+How is it different to just keeping working normally ?
+There is barely any difference, the AI would have to copy and free memory in the RAM all the time.).
+support(16043, 16042).
+
+arg(16062).
+text(16062, With the same logic :
+Human are only the creator of a specific conscious and intelligent thing, not of consciousness and intelligence itself.).
+att(16062, 16045).
+
+arg(16046).
+text(16046, Human and other animals fear death because they have evolved to fear it.
+There are no inherent reasons to fear it.).
+support(16046, 16042).
+
+arg(16045).
+text(16045, Parents are only the creator of a specific human, not of humanity itself, they didn’t invent human life. That is the difference to AI.).
+att(16045, 16032).
+
+arg(7246).
+text(7246, murder and cloning don't apply to non-biological systems ).
+att(7246, root).
+
+arg(16041).
+text(16041, You could greatly decrease the probability of such errors by adding redundancy, if you need it.
+You could easily make more probable that a meteor break the hardware, that such errors occur in "normal circumstances" (i mean when nothing is breaking the system from "outside").).
+att(16041, 13317).
+
+arg(16035).
+text(16035, Yes, but i think the argument is more about how we should define murder, than how we actually do it.).
+att(16035, 13625).
+
+arg(16032).
+text(16032, No, parents create children, it doesn’t mean they can do all they want with them.
+Creating something doesn’t have to give you right over it.).
+att(16032, 13706).
+
+arg(7261).
+text(7261, Cloning organic species is unsafe for the clone and the surrogate host. AI can be copied to a new computer without damaging the host or the duplicate.).
+att(7261, root).
+
+arg(8212).
+text(8212, We don't even treat the "death" and boiling of plants murder. Why would we classify something non living as murder, just because it appears sentient? ).
+att(8212, root).
+
+arg(13670).
+text(13670, our definition for "life" can, and may have to, simply change).
+att(13670, 8221).
+
+arg(7286).
+text(7286, if one were to delete an AI under these circumstances they would be doing something akin to murder.).
+support(7286, 7284).
+
+arg(7318).
+text(7318, A.I. needs not to understand or value these bonds even if it forms them. Humans have depended on food for sustenance throughout our history, but it is only relatively recently that we understand the mechanics behind digestion and cellular respiration despite requiring both.).
+att(7318, 7288).
 
 arg(7375).
 text(7375, This is wrong. Opening a jpeg does not alter the file.
@@ -122,33 +117,46 @@ arg(8240).
 text(8240, Appearing sentient is as good as it gets. Sentience becomes important because the act of killing involves a significant degree of psychological pain during the moments leading to it and just before it is done.).
 att(8240, 8212).
 
-arg(13222).
-text(13222, Emotions are cognitive functions, and a true A.I. would be able to replicate these functions, thereby having emotions just as real as those we see in humans.).
-att(13222, root).
-
-arg(13625).
-text(13625, Many animals clearly possess some degree of intelligence, but killing them would not constitute murder. Murder is not defined as the killing of an intelligent being.).
-att(13625, root).
-
 arg(13645).
 text(13645, Morality is much more about humans having consciousness than being biologically alive.).
 att(13645, 8221).
-
-arg(13711).
-text(13711, There are many cognitive tests that can be done to show self awareness, such as theory of mind tests, and the three wise men test.).
-att(13711, root).
 
 arg(13317).
 text(13317, On a software level you're correct. On a hardware level you're wrong. On an SSD for instance, every time you read you accidentally erase a tiny fraction of the data. It's normally not enough to lose the data, and if it is there are hardware level recovery tools, but it happens. Similar with HDD, DNA).
 att(13317, 7375).
 
+arg(13319).
+text(13319, On a software level you're correct. On a hardware level you're wrong. On an SSD for instance, every time you read you accidentally erase a tiny fraction of the data. It's not normally enough to lose the data, and if it is there are hardware level recovery tools, but it happens. Similar with HDD, DNA).
+att(13319, 8622).
+
+arg(13703).
+text(13703, We don’t know if AIs are self-aware. Is there even a way to find out?).
+att(13703, 7284).
+
+arg(13669).
+text(13669, Such psychological pain is not inherent to sentience, and is only commonplace due to the fact that all known sentient beings evolved through natural selection -- under which not wanting to die is a positive trait. An AI would not necessarily share that trait, yet a plant very well may in some way.).
+att(13669, 8240).
+
+arg(16044).
+text(16044, Many AIs working together to achieve the same goals, can be considered to be one AI running on decentralized hardware.
+Personal identity would be meaningless for AI : The constitutive parts of a AI could themselves be AI.).
+support(16044, 16042).
+
+arg(13222).
+text(13222, Emotions are cognitive functions, and a true A.I. would be able to replicate these functions, thereby having emotions just as real as those we see in humans.).
+att(13222, 13198).
+
+arg(13711).
+text(13711, There are many cognitive tests that can be done to show self awareness, such as theory of mind tests, and the three wise men test.).
+att(13711, 13703).
+
 arg(13660).
 text(13660, Tell that to Cortana.).
-att(13660, root).
+att(13660, 13198).
 
-arg(13198).
-text(13198, AI's do not have feelings ).
-att(13198, root).
+arg(13625).
+text(13625, Many animals clearly possess some degree of intelligence, but killing them would not constitute murder. Murder is not defined as the killing of an intelligent being.).
+att(13625, root).
 
 arg(7284).
 text(7284, Mary Anne Warren listed five criteria of person-hood if one were to meet some or all of these they should be considered a living entity and be granted rights.
@@ -159,13 +167,13 @@ The capacity to communicate
 The presence of self-concepts and self-awareness, either in ).
 support(7284, root).
 
-arg(13319).
-text(13319, On a software level you're correct. On a hardware level you're wrong. On an SSD for instance, every time you read you accidentally erase a tiny fraction of the data. It's not normally enough to lose the data, and if it is there are hardware level recovery tools, but it happens. Similar with HDD, DNA).
-att(13319, 8622).
+arg(8227).
+text(8227, Cloning isn't abhorrent. It's an interesting research (and in some cases, agricultural) technique that will expand human knowledge. Even if we limit it to "human cloning", human clones are called identical twins. You've started with a false premise.).
+att(8227, root).
 
-arg(13703).
-text(13703, We don’t know if AIs are self-aware. Is there even a way to find out?).
-att(13703, 7284).
+arg(13198).
+text(13198, AI's do not have feelings ).
+att(13198, root).
 
 arg(13706).
 text(13706, Unless conventional life, we, the humans are the true creators of AI. If we created it, shouldn’t we also have the right to do what we want with it?).
@@ -175,8 +183,4 @@ arg(13632).
 text(13632, Being "as abhorrent as cloning" (assuming for sake of the AI analogy that minds are copied too) turns out to be not so abhorrent at all.
 Copy me. Please. As many times as you can. I would like that very much. And I'm just a human, who unlike an AI wouldn't have telepathy with my copies.).
 att(13632, root).
-
-arg(13669).
-text(13669, Such psychological pain is not inherent to sentience, and is only commonplace due to the fact that all known sentient beings evolved through natural selection -- under which not wanting to die is a positive trait. An AI would not necessarily share that trait, yet a plant very well may in some way.).
-att(13669, 8240).
 

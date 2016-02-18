@@ -1,66 +1,13 @@
 arg(root).
 text(root, A creator must exist).
 
-arg(10983).
-text(10983, Lack of understanding does not presuppose a creator, nor does intimate understanding of science presuppose no creator.).
-att(10983, root).
+arg(10737).
+text(10737, that depends on the definition of "creator". Can't a creator create itself, like autocatalitic RNA synthesis? What if creation is just part of a self-repeating cycle and defined as the event of a change by an error or by a emergent property not reached before due to the cycle's synchronization?).
+att(10737, 10398).
 
-arg(10884).
-text(10884, That isn't what many physicists think of quantum mechanics. Quantum mechanics has increased the amount of doubts, not reduced it.).
-att(10884, root).
-
-arg(10985).
-text(10985, Science is not goal based but question based. It is a system that we use to discover and not a presupposition of intent.).
-support(10985, root).
-
-arg(10734).
-text(10734, The aim of science is to establish/discover the general rules which the universe always abides by - the properties of reality. While some things are subjective, many are objective, such as the speed of light etc. From that and maths comes physics, which builds on itself).
-att(10734, root).
-
-arg(10355).
-text(10355, Just because we do not have the necessary tools to fully comprehend and understand the universe, does not mean it must have been created by a higher power. As our knowledge expands, our doubts and beliefs lessen.).
-att(10355, root).
-
-arg(10798).
-text(10798, There is nothing preventing something to come from nothing, because nothingness has no constraints.  ).
-att(10798, root).
-
-arg(10565).
-text(10565, The initial argument is arguing that a creator MUST exist, not that there's a possibility, thus rendering your argument irrelevant (irrelevant conclusion).).
-att(10565, root).
-
-arg(10164).
-text(10164, Even if a creator with your description existed, it would still need a logical explanation as to why he started existing in the first place.).
-att(10164, root).
-
-arg(11490).
-text(11490, God is perfect. There cannot be something that is perfect and does not exist, so God must exist.).
-support(11490, root).
-
-arg(10885).
-text(10885, You can't really describe the universe. You are only supposing it will be possible someday, but no one has, to this day, actually achieved a total description.).
-att(10885, root).
-
-arg(11503).
-text(11503, Something cannot come into being out of nothing.).
-support(11503, root).
-
-arg(11513).
-text(11513, what is the definition of "creator"? As in a god? Or just someone who makes something.).
-att(11513, root).
-
-arg(11682).
-text(11682, No. A fictional "deity" cannot be really perfect.).
-att(11682, root).
-
-arg(10448).
-text(10448, I created this post. 
-At least one creator exists in this point of time.).
-support(10448, root).
-
-arg(10163).
-text(10163, There is no reason to believe a creator must exist when we can describe the universe as it is without adding a creator. The universe works just fine without an appeal to belief.).
-att(10163, root).
+arg(11505).
+text(11505, A creator can suddenly come out of nothing? How would this be a satisfying answer? It answers nothing.).
+att(11505, 11503).
 
 arg(10347).
 text(10347, You really can't describe the universe the way it is. Only the way you see it, which is not absolute but relative.).
@@ -72,41 +19,11 @@ att(11510, 10985).
 
 arg(11685).
 text(11685, If there is "nothing", there is not even the conditions for a creator's appearing. ).
-support(11685, root).
-
-arg(10362).
-text(10362, We can bypass this problem if we assume that existence itself is a moebius-strip and created itself. Maybe the "normal" state is not "nothing" but "something".).
-att(10362, root).
-
-arg(11690).
-text(11690, Actually this can be false if knowledge about universe is infinite. We've already made mistake about atoms.).
-att(11690, root).
-
-arg(10225).
-text(10225, By your logic, you just asserted that a creator would need a creator.).
-att(10225, root).
-
-arg(11695).
-text(11695, We observe the universe as being imperfect, and that we cannot make something that can surpass the rules we impose on it. Therefore the universe needed to be created by entity which isn't confined in rules in which we are confined.).
-support(11695, root).
-
-arg(10149).
-text(10149, There cannot be something from nothing.).
-support(10149, root).
-
-arg(10529).
-text(10529, Then a creator of the creator must exist. And a creator of the creator's creator.
-
-Is it turtles all the way down?).
-att(10529, root).
+support(11685, 11505).
 
 arg(10670).
 text(10670, One may say this is a rigged argument. It is pretty hard to argue with a deity with supposed knowledge and reason beyond human capacity.).
 att(10670, 10529).
-
-arg(10284).
-text(10284, It may be possible that this universe has qualities outside the comprehension of the human mind and the qualities of a creator, who doesn't need to be created, may be those such qualities of the universe. And if so, why must we make a step towards the existence of a creator? ).
-att(10284, root).
 
 arg(11705).
 text(11705, The counter argument disabling a flawless logic (like yours) is perfect
@@ -121,25 +38,9 @@ arg(10289).
 text(10289, The general idea of a supreme "creator" is that it doesn't need it's own creator. It is existence itself or the act of existing. ).
 att(10289, 10225).
 
-arg(11455).
-text(11455, we don't that the universe is a creation  and not just a thing that simply is).
-att(11455, root).
-
 arg(11456).
 text(11456, it's possible that the universe has always existed).
 att(11456, 10149).
-
-arg(11457).
-text(11457, the big bang is not the beginning of time. We just don't know what happened before it. Elementary particles or whatever they are made of could have always existed.).
-att(11457, root).
-
-arg(10581).
-text(10581, by this logic this discussion becomes pointless; If the existence of the ultimate creator is something we cannot possibly understand, we cannot discuss it logically ).
-att(10581, root).
-
-arg(11458).
-text(11458,  Some things do not require action to exist. ).
-att(11458, root).
 
 arg(10698).
 text(10698, Contradiction. Assuming the existience of a creator for the explanation of the story from nothing to whole galaxy. Stucks in a point where people start to questionize pre-creator state. But,same goes for the big bang theorist. There is always limited information for both sides. No strong argument.:().
@@ -149,10 +50,6 @@ arg(10756).
 text(10756, Special Pleading:
 Because there cannot be something from nothing. That means it can't be done, not that a creator can do it.).
 att(10756, 10149).
-
-arg(10757).
-text(10757, If the big bang is the origin of time and space, then it doesn't need a cause because there is no such prior time as when it wasn't here.).
-att(10757, root).
 
 arg(10155).
 text(10155, If this logic is true this creator needs a creator too 
@@ -164,29 +61,120 @@ arg(10157).
 text(10157, If we see this creator as a being that transcends human laws of physics and time etc. then the view of a creator is still possible.).
 att(10157, 10155).
 
-arg(10490).
-text(10490, unfortunately you can take an explanation and apply this type of logic to it and achieve the same result, this does not necessarily mean that a creator exist or that a creator necessarily exists. ).
-att(10490, root).
-
 arg(10168).
 text(10168, What formed the particles that caused the big bang? If there is an explanation for this then how did the thing that formed the particles form and so on and so forth.).
 support(10168, 10149).
 
-arg(10491).
-text(10491, If we can't possibly understand his existence, then we should discontinue the  idea that he is a creator. Creation implies causation. Cause and effect in our universe are always in this order, in this beings special dimension this concept does not exist. ).
-att(10491, root).
+arg(10983).
+text(10983, Lack of understanding does not presuppose a creator, nor does intimate understanding of science presuppose no creator.).
+att(10983, 10884).
 
-arg(10391).
-text(10391, "Must" implies a lack of evidence, therefore it's an unreasonable assumption. One could just as easily say "Due to lack of proof, there "must" not be a creator". Both sides are weak. The question remains open, though good reasoning skills require us to err on the side of absence until we have proof.).
-att(10391, root).
+arg(10884).
+text(10884, That isn't what many physicists think of quantum mechanics. Quantum mechanics has increased the amount of doubts, not reduced it.).
+att(10884, 10355).
 
-arg(10771).
-text(10771, There is a reason for the rise of atheism with high education. We are in a giant universe that does work in accordance with human's evolutionary way of thinking. Concepts like a mover moves and a creater creates are only human perception. The universe doesn't assign functions to things.).
-att(10771, root).
+arg(10985).
+text(10985, Science is not goal based but question based. It is a system that we use to discover and not a presupposition of intent.).
+support(10985, 10734).
 
-arg(11585).
-text(11585, Logic is based in human experience.).
-att(11585, root).
+arg(10734).
+text(10734, The aim of science is to establish/discover the general rules which the universe always abides by - the properties of reality. While some things are subjective, many are objective, such as the speed of light etc. From that and maths comes physics, which builds on itself).
+att(10734, 10347).
+
+arg(11503).
+text(11503, Something cannot come into being out of nothing.).
+support(11503, root).
+
+arg(10798).
+text(10798, There is nothing preventing something to come from nothing, because nothingness has no constraints.  ).
+att(10798, 10149).
+
+arg(10565).
+text(10565, The initial argument is arguing that a creator MUST exist, not that there's a possibility, thus rendering your argument irrelevant (irrelevant conclusion).).
+att(10565, 10157).
+
+arg(10164).
+text(10164, Even if a creator with your description existed, it would still need a logical explanation as to why he started existing in the first place.).
+att(10164, 10157).
+
+arg(11513).
+text(11513, what is the definition of "creator"? As in a god? Or just someone who makes something.).
+att(11513, root).
+
+arg(10885).
+text(10885, You can't really describe the universe. You are only supposing it will be possible someday, but no one has, to this day, actually achieved a total description.).
+att(10885, 10163).
+
+arg(10448).
+text(10448, I created this post. 
+At least one creator exists in this point of time.).
+support(10448, root).
+
+arg(10163).
+text(10163, There is no reason to believe a creator must exist when we can describe the universe as it is without adding a creator. The universe works just fine without an appeal to belief.).
+att(10163, root).
+
+arg(11682).
+text(11682, No. A fictional "deity" cannot be really perfect.).
+att(11682, 11597).
+
+arg(11695).
+text(11695, We observe the universe as being imperfect, and that we cannot make something that can surpass the rules we impose on it. Therefore the universe needed to be created by entity which isn't confined in rules in which we are confined.).
+support(11695, root).
+
+arg(10149).
+text(10149, There cannot be something from nothing.).
+support(10149, root).
+
+arg(10362).
+text(10362, We can bypass this problem if we assume that existence itself is a moebius-strip and created itself. Maybe the "normal" state is not "nothing" but "something".).
+att(10362, 10225).
+
+arg(11690).
+text(11690, Actually this can be false if knowledge about universe is infinite. We've already made mistake about atoms.).
+att(11690, 10399).
+
+arg(10225).
+text(10225, By your logic, you just asserted that a creator would need a creator.).
+att(10225, 10168).
+
+arg(10529).
+text(10529, Then a creator of the creator must exist. And a creator of the creator's creator.
+
+Is it turtles all the way down?).
+att(10529, root).
+
+arg(10355).
+text(10355, Just because we do not have the necessary tools to fully comprehend and understand the universe, does not mean it must have been created by a higher power. As our knowledge expands, our doubts and beliefs lessen.).
+att(10355, root).
+
+arg(11455).
+text(11455, we don't that the universe is a creation  and not just a thing that simply is).
+att(11455, 11128).
+
+arg(11457).
+text(11457, the big bang is not the beginning of time. We just don't know what happened before it. Elementary particles or whatever they are made of could have always existed.).
+att(11457, 10168).
+
+arg(10581).
+text(10581, by this logic this discussion becomes pointless; If the existence of the ultimate creator is something we cannot possibly understand, we cannot discuss it logically ).
+att(10581, 10395).
+
+arg(11458).
+text(11458,  Some things do not require action to exist. ).
+att(11458, 11128).
+
+arg(10757).
+text(10757, If the big bang is the origin of time and space, then it doesn't need a cause because there is no such prior time as when it wasn't here.).
+att(10757, 10168).
+
+arg(10490).
+text(10490, unfortunately you can take an explanation and apply this type of logic to it and achieve the same result, this does not necessarily mean that a creator exist or that a creator necessarily exists. ).
+att(10490, 10395).
+
+arg(11490).
+text(11490, God is perfect. There cannot be something that is perfect and does not exist, so God must exist.).
+support(11490, root).
 
 arg(10773).
 text(10773, It is very promising to see a vast majority of buts on this topic. Faith in humanity restored ).
@@ -199,10 +187,6 @@ att(10394, 10391).
 arg(10395).
 text(10395, You're still implying the creator is governed by time by saying he must have a beginning. If he exists in a higher dimension then we couldn't possibly understand how time and space is not a factor just as an organism confined within 2D space could not comprehend a 3D object.).
 att(10395, 10164).
-
-arg(11588).
-text(11588, The creator of the universe was the big bang. What is not understood is what caused the big bang).
-att(11588, root).
 
 arg(10398).
 text(10398, This explanation would disprove a creator.).
@@ -220,10 +204,6 @@ arg(10334).
 text(10334, If a creator can be supreme the universe itself could be supreme (and wouldn't need a creator)).
 att(10334, 10289).
 
-arg(11844).
-text(11844, You never specified what the creator was or what they created.  I am an artist, I create art, I believe I exist, therefore your arguement is true).
-support(11844, root).
-
 arg(11597).
 text(11597, this would apply to any perfect deity, fictional or otherwise).
 att(11597, 11490).
@@ -231,14 +211,6 @@ att(11597, 11490).
 arg(10847).
 text(10847, I don't know, therefor god?).
 att(10847, 10670).
-
-arg(12477).
-text(12477, every process spurs from some entity action).
-att(12477, root).
-
-arg(12176).
-text(12176, Why must something perfect exist?).
-att(12176, root).
 
 arg(10850).
 text(10850, So you're saying that the universe doesn't work without a creater, we just don't know it?).
@@ -248,10 +220,6 @@ arg(10854).
 text(10854, You can't refute all other explanations using logic "something cannot be from nothing" and then give an answer that doesn't appeal to the logic you used to refute all other answers "a being that transcends physical laws...").
 att(10854, 10157).
 
-arg(10956).
-text(10956, When we use the concept of a creator to fill in the gaps that science has not yet filled, we diminish science, and we diminish the creator.).
-att(10956, root).
-
 arg(12004).
 text(12004, Who says that? You are asserting rules by yourself.).
 att(12004, 11682).
@@ -260,29 +228,15 @@ arg(11945).
 text(11945, There's no reason the outside process needs to be an "entity".).
 att(11945, 11695).
 
-arg(10967).
-text(10967, existence requires identity, identity requires distinguishing characteristics, characteristics must be observable to be distinguishing.).
-att(10967, root).
-
 arg(11079).
 text(11079, The Big Bang wasn't an explosion of particles. It was the expansion of space.
 
 In fact, there were no particles at the time of the Big Bang, these were formed from the ridiculous amount of energy it had as that energy spread out with space.).
 att(11079, 10168).
 
-arg(12185).
-text(12185, Sorry, but there is no evidence or logic here, just wishful thinking. 
-Even if there were something omnipotent and omnipresent (no evidence for this), why must "It be God"? 
-The burden of proof lies with your side, as it insists that "God" must exist, and even with the attributes you mention.).
-att(12185, root).
-
 arg(12019).
 text(12019, Let me clarify it: I'm not saying that "there is a God and He is perfect". I'm rather saying that there must exist something we can call "perfect". That thing must be omnipotent and omnipresent, and It is God.).
-att(12019, root).
-
-arg(10981).
-text(10981, The idea that 'everything is created' is illogical, given that creator of everything must be created. Sone things just are. I choose the universe over some deity as what I believe just was, given I can prove the existence of the Universe.).
-att(10981, root).
+att(12019, 11883).
 
 arg(11121).
 text(11121, Nothing which exists at the first instant of time can have a prior cause, not just the big bang. The relevant quality is the first moment of time. This is not special pleading. Squares don't need a fifth corner, either.).
@@ -300,9 +254,13 @@ arg(11885).
 text(11885, Then if we do not know whether a deity (or even the concept of a deity) is fiction or fact, we also certainly can't know if the attributes sometimes ascribed to them are true either.).
 att(11885, 11682).
 
-arg(11128).
-text(11128, as an action is not possible without a actor, creation is not possible without a creator. Since we know there is a creation, there must be a creator.).
-support(11128, root).
+arg(11883).
+text(11883, "God is perfect" isn't a valid premise. If we haven't established a creator's existence, we can't take their qualities for granted.
+
+The premise looks like an appeal to belief.
+
+Hellenic gods, to highlight a contradicting tradition, were filled with "imperfections.").
+att(11883, 11490).
 
 arg(12179).
 text(12179, We don't even have evidence that our physical laws exist beyond this universe.
@@ -311,19 +269,61 @@ We do have strong evidence that our universe is finite, with a beginning and end
 There may be (a) creator(s), but we don't have evidence to make their existence a logical claim.).
 support(12179, 12176).
 
-arg(11505).
-text(11505, A creator can suddenly come out of nothing? How would this be a satisfying answer? It answers nothing.).
-att(11505, 11503).
+arg(10284).
+text(10284, It may be possible that this universe has qualities outside the comprehension of the human mind and the qualities of a creator, who doesn't need to be created, may be those such qualities of the universe. And if so, why must we make a step towards the existence of a creator? ).
+att(10284, 10157).
 
-arg(10737).
-text(10737, that depends on the definition of "creator". Can't a creator create itself, like autocatalitic RNA synthesis? What if creation is just part of a self-repeating cycle and defined as the event of a change by an error or by a emergent property not reached before due to the cycle's synchronization?).
-att(10737, 10398).
+arg(10491).
+text(10491, If we can't possibly understand his existence, then we should discontinue the  idea that he is a creator. Creation implies causation. Cause and effect in our universe are always in this order, in this beings special dimension this concept does not exist. ).
+att(10491, 10395).
 
-arg(11883).
-text(11883, "God is perfect" isn't a valid premise. If we haven't established a creator's existence, we can't take their qualities for granted.
+arg(11844).
+text(11844, You never specified what the creator was or what they created.  I am an artist, I create art, I believe I exist, therefore your arguement is true).
+support(11844, root).
 
-The premise looks like an appeal to belief.
+arg(10956).
+text(10956, When we use the concept of a creator to fill in the gaps that science has not yet filled, we diminish science, and we diminish the creator.).
+att(10956, root).
 
-Hellenic gods, to highlight a contradicting tradition, were filled with "imperfections.").
-att(11883, 11490).
+arg(11585).
+text(11585, Logic is based in human experience.).
+att(11585, 11123).
+
+arg(11588).
+text(11588, The creator of the universe was the big bang. What is not understood is what caused the big bang).
+att(11588, 11128).
+
+arg(10967).
+text(10967, existence requires identity, identity requires distinguishing characteristics, characteristics must be observable to be distinguishing.).
+att(10967, root).
+
+arg(12477).
+text(12477, every process spurs from some entity action).
+att(12477, 11945).
+
+arg(12176).
+text(12176, Why must something perfect exist?).
+att(12176, 12019).
+
+arg(10981).
+text(10981, The idea that 'everything is created' is illogical, given that creator of everything must be created. Sone things just are. I choose the universe over some deity as what I believe just was, given I can prove the existence of the Universe.).
+att(10981, root).
+
+arg(11128).
+text(11128, as an action is not possible without a actor, creation is not possible without a creator. Since we know there is a creation, there must be a creator.).
+support(11128, root).
+
+arg(12185).
+text(12185, Sorry, but there is no evidence or logic here, just wishful thinking. 
+Even if there were something omnipotent and omnipresent (no evidence for this), why must "It be God"? 
+The burden of proof lies with your side, as it insists that "God" must exist, and even with the attributes you mention.).
+att(12185, 12019).
+
+arg(10391).
+text(10391, "Must" implies a lack of evidence, therefore it's an unreasonable assumption. One could just as easily say "Due to lack of proof, there "must" not be a creator". Both sides are weak. The question remains open, though good reasoning skills require us to err on the side of absence until we have proof.).
+att(10391, root).
+
+arg(10771).
+text(10771, There is a reason for the rise of atheism with high education. We are in a giant universe that does work in accordance with human's evolutionary way of thinking. Concepts like a mover moves and a creater creates are only human perception. The universe doesn't assign functions to things.).
+att(10771, root).
 

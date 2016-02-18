@@ -1,17 +1,9 @@
 arg(root).
 text(root, The perfect economic system must rely on public-private partnerships).
 
-arg(10831).
-text(10831, Governments are not good managers, so, private companies must be responsible for the administrations of services.).
-support(10831, root).
-
 arg(10832).
 text(10832, We can't remove people's right for basic services, so governments must pay these companies for some people's welfare.).
 att(10832, 10831).
-
-arg(10833).
-text(10833, If private companies will be responsible for the administration of services, some taxes must be reduced!).
-att(10833, root).
 
 arg(10834).
 text(10834, People who use these services still would have to pay the private companies to use'em.).
@@ -25,10 +17,6 @@ arg(14499).
 text(14499, Why must taxes be reduced? This doesn't consider the cost of the government now having to regulate the new contracted services, nor the cost of doing business with them, nor the possibility that industry will adapt to the economy and attempt to increase their margin knowing the cost isn't their own.).
 att(14499, 10833).
 
-arg(14505).
-text(14505, Arguing about perfection or idealism without strong logical assertions is not a good argument.).
-att(14505, root).
-
 arg(14498).
 text(14498, To govern is synonymous with to manage. What difference are you trying ascribe? Is there some service the private sector is incapable of providing altogether?).
 att(14498, 10831).
@@ -36,4 +24,16 @@ att(14498, 10831).
 arg(14497).
 text(14497, Who is removing people's rights, and how? Although government exists, the private sector has a strong public welfare directive, e.g; religious charity, science research for improved quality of life, creating long-term investment and partnerships, and a diverse market for people with diverse illness.).
 att(14497, 10832).
+
+arg(10831).
+text(10831, Governments are not good managers, so, private companies must be responsible for the administrations of services.).
+support(10831, root).
+
+arg(10833).
+text(10833, If private companies will be responsible for the administration of services, some taxes must be reduced!).
+att(10833, root).
+
+arg(14505).
+text(14505, Arguing about perfection or idealism without strong logical assertions is not a good argument.).
+att(14505, root).
 

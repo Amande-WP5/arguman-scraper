@@ -1,21 +1,25 @@
 arg(root).
 text(root, Anything can be art, even if not intended to be art).
 
-arg(11670).
-text(11670, There is lot of art work with a price tag).
-att(11670, root).
+arg(17814).
+text(17814, Art is human expression contained within a medium. 
 
-arg(11674).
-text(11674, art is dependent on an ability, particular  to humanity, that can enable one to attach idea and emotion to a physical form through process of creation.).
-support(11674, root).
+The brain is a medium in which humans express themselves. Thoughts from sensory input are a form of art. 
 
-arg(11454).
-text(11454, Art is inherently valueless. ).
-att(11454, root).
+Everything you think is a form of art. 
+
+Anything that can be thought of is art. 
+
+You are art, experiencing art, creating art.).
+support(17814, root).
 
 arg(11339).
 text(11339, What defines art?).
 att(11339, root).
+
+arg(17817).
+text(17817, Conscious experience of reality is nowhere near 100% accurate. Your experience of reality is your consciousness's artistic representation of reality.).
+support(17817, 17814).
 
 arg(11344).
 text(11344, it does not matter what art is, because art changes for everyone. Therefore everything is art because someone can see it as art.).
@@ -24,14 +28,6 @@ att(11344, 11339).
 arg(11595).
 text(11595, However art should have inherent value to the individual. ).
 att(11595, 11454).
-
-arg(11600).
-text(11600, Photographs of nature can be art. It is obvious that natural objects were not made purely to be art.).
-support(11600, root).
-
-arg(11346).
-text(11346, if one person thinks something is art, it is art. ).
-support(11346, root).
 
 arg(11348).
 text(11348, if i say it does not matter what XYZ is everything can be XYZ...
@@ -47,11 +43,31 @@ text(11351, to say everything is art makes art valueless
 or you have to calssify art in different categories).
 att(11351, 11346).
 
-arg(11353).
-text(11353, Art is a human creation. If a man conceives a rock as something beautiful, creation happens through the subjective interpretation of the object. Photography is art no matter the object is captured. But that does not mean however that the objects are art in themselves, but depend on the human.).
-att(11353, root).
-
 arg(11774).
 text(11774, That value is not 'inherent' it is assigned.).
 att(11774, 11670).
+
+arg(11600).
+text(11600, Photographs of nature can be art. It is obvious that natural objects were not made purely to be art.).
+support(11600, root).
+
+arg(11670).
+text(11670, There is lot of art work with a price tag).
+att(11670, 11454).
+
+arg(11674).
+text(11674, art is dependent on an ability, particular  to humanity, that can enable one to attach idea and emotion to a physical form through process of creation.).
+support(11674, 11353).
+
+arg(11454).
+text(11454, Art is inherently valueless. ).
+att(11454, 11351).
+
+arg(11346).
+text(11346, if one person thinks something is art, it is art. ).
+support(11346, root).
+
+arg(11353).
+text(11353, Art is a human creation. If a man conceives a rock as something beautiful, creation happens through the subjective interpretation of the object. Photography is art no matter the object is captured. But that does not mean however that the objects are art in themselves, but depend on the human.).
+att(11353, root).
 

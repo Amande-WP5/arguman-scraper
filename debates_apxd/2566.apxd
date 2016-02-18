@@ -1,0 +1,16 @@
+arg(root).
+text(root, Arguman.org'un "ama" yi itiraz olarak almasi yanlistir).
+
+arg(17764).
+text(17764, "Ama" her zaman kesinlikle çürütme amaçlı kullanilmayabilir
+).
+support(17764, root).
+
+arg(17768).
+text(17768, "ve" yerine "ya da" dense daha doğru olabilir.).
+att(17768, 17767).
+
+arg(17767).
+text(17767, açıklamasında "itiraz ve çürütme için kullanılır" diyor.).
+att(17767, 17764).
+

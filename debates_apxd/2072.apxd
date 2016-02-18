@@ -1,11 +1,11 @@
 arg(root).
 text(root, And his name is...).
 
-arg(13672).
-text(13672, Champ).
-support(13672, root).
-
 arg(13758).
 text(13758, JOHN CENA).
 att(13758, 13672).
+
+arg(13672).
+text(13672, Champ).
+support(13672, root).
 

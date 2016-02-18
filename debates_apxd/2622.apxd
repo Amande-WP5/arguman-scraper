@@ -1,0 +1,64 @@
+arg(root).
+text(root, Economic planning leads to faster economic growth in developing countries and increased general welfare in developed countries).
+
+arg(18027).
+text(18027, All developments in planned economies are guaranteed to be in the interest of the majority of people, and will promote their general welfare first of all.).
+support(18027, root).
+
+arg(18080).
+text(18080, Economic planning has historically lead to stagnation and no growth. Countries using economic planning had higher rates of poverty than market economies.).
+att(18080, root).
+
+arg(18081).
+text(18081, Communist countries with economic planning are authoritarian and repressive (like north korea) which reduces "general welfare").
+att(18081, root).
+
+arg(18085).
+text(18085, Countries which face antagonism by imperialist powers, are in an unstable position, and are constantly subject to foreign threats become repressive as a result. This is true of any country, no matter the economic system.).
+att(18085, 18081).
+
+arg(18082).
+text(18082, The USSR was the second fastest growing economy of the 20th century and in terms of material wealth, socialist countries have grown consistently. Even during the "Era of Stagnation" annual growth was still in the 1-2% range. This was the result of capitalist revisionism.).
+att(18082, 18080).
+
+arg(18084).
+text(18084, It depends on whether you're saying 
+"market economies" only include well-developed imperialist countries such as France, Britain, and the United States - or whether you encompass Haiti, the Philippines, and Togo. Poverty is endemic and widespread in the capitalist world. Cont.).
+att(18084, 18080).
+
+arg(18083).
+text(18083, Socialist countries started with extremely high rates of poverty, very low economic development, and very low standards of living. Cuba, for example, was virtually identical to Haiti pre-revolution. Now compare the two. By any metric, Cuba has done better. This is the case for any socialist country.).
+att(18083, 18080).
+
+arg(18031).
+text(18031, We don't have to find a perfect allocation of resources, we just have to find one that's close to optimum, such as 98 or 99% efficiency. 
+
+This can be done using neural networks, which can simulate markets to allocate resources as efficiently as possible without actually using markets).
+att(18031, 18030).
+
+arg(18024).
+text(18024, Information technology and increased computational power allows for the collection of information on a mass scale, as well as the ability to compute an economic plan in a short period of time, automatically.).
+support(18024, root).
+
+arg(18025).
+text(18025, Recessions, depressions, and crashes are an inherent part of market capitalism. This means that during these depressions, productive forces go unused and production sharply decreases. Planned economies can deliver consistent economic growth, and have done.).
+support(18025, root).
+
+arg(18030).
+text(18030, Modern economies are very large. They have millions of products and millions of different firms. It would take a very long time for even an extremely powerful computer to calculate an optimum allocation of resources.).
+att(18030, 18024).
+
+arg(18028).
+text(18028, Socialist economic planning only occurs in socialist countries where the proletariat (the working class) has created a new proletarian state apparatus, one which makes decisions in the interests of the proletariat.).
+support(18028, 18027).
+
+arg(18023).
+text(18023, States presiding over capitalist market economies can only crudely wield macroeconomic tools to solve very fine societal problems. 
+
+States involved in economic planning can vastly reduce poverty, homelessness, and unemployment through directly allocating resources.).
+support(18023, root).
+
+arg(18026).
+text(18026, Unemployment is an inherent part of capitalism. Full employment is at best only temporary, meaning that market capitalist economies are always Pareto inefficient. Socialist planned economies can guarantee work for all, meaning that all available labour is utilised.).
+support(18026, root).
+

@@ -5,14 +5,6 @@ arg(10426).
 text(10426, In most relationships (while I understand 'relationship' here in a partner sense) this makes one of the most important differences between 'friendship' and 'partnership'. Also the opposite would make reproduction a lot harder (while of course not every relationship must lead to reproduction).).
 support(10426, root).
 
-arg(10933).
-text(10933, the original statement wasn't claiming sex was the only factor in a relationship, but is just as important as the examples above).
-att(10933, root).
-
-arg(10427).
-text(10427, Well, this is obviously true for some cases (e.g. see the argument regarding A-sexualism), but in all relationships I had and saw, sex was an important while surely not the only factor.So I would say 'Sex is important in most relationships'.).
-att(10427, root).
-
 arg(10370).
 text(10370, Not for A-sexuals.).
 att(10370, root).
@@ -21,9 +13,25 @@ arg(10383).
 text(10383, A-sexuals only make up a tiny bit of all people, so this does not matter much for the first argument.).
 att(10383, 10370).
 
+arg(10978).
+text(10978, In part, people have a different idea of what constitutes relationship.).
+support(10978, 10960).
+
+arg(11116).
+text(11116, >A successful relationship relies on several other factors *as well*).
+att(11116, 10933).
+
 arg(10405).
 text(10405, There are different types of relationships, and how important sex is for a relationship is determined by the participants in the relationship.  ).
 att(10405, root).
+
+arg(10933).
+text(10933, the original statement wasn't claiming sex was the only factor in a relationship, but is just as important as the examples above).
+att(10933, 10361).
+
+arg(10427).
+text(10427, Well, this is obviously true for some cases (e.g. see the argument regarding A-sexualism), but in all relationships I had and saw, sex was an important while surely not the only factor.So I would say 'Sex is important in most relationships'.).
+att(10427, 10405).
 
 arg(10960).
 text(10960, People have different ideas of what's important in a relationship.).
@@ -36,10 +44,6 @@ support(10973, root).
 arg(10976).
 text(10976, Defining both the subject of "Sex", its descriptor "Important", and the term "relationships" adds context to the claim that "sex is important".).
 att(10976, root).
-
-arg(10978).
-text(10978, In part, people have a different idea of what constitutes relationship.).
-support(10978, 10960).
 
 arg(11112).
 text(11112, While it can help and improve a relationship it should not be felt as an obligation.).
@@ -60,8 +64,4 @@ att(10361, root).
 arg(10980).
 text(10980, Sex is also important out of relationships, sex is important to many people in general.).
 att(10980, root).
-
-arg(11116).
-text(11116, >A successful relationship relies on several other factors *as well*).
-att(11116, 10933).
 

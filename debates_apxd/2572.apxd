@@ -1,0 +1,62 @@
+arg(root).
+text(root, Mixed Martial Arts should be taught in school from an early age.).
+
+arg(18316).
+text(18316, That would require pushing out other material, which we cannot afford given the relatively poor state of the US education system.).
+att(18316, root).
+
+arg(17976).
+text(17976, Training MMA means doing exercise which is always good. However I would word this premise as "Universities/Schools should offer MMA classes" rather than this current premise.).
+att(17976, root).
+
+arg(17808).
+text(17808, It would reduce bullying.).
+support(17808, root).
+
+arg(18599).
+text(18599, I didn't argue it would stop bullying, I provided evidence it can reduce it.).
+att(18599, 18579).
+
+arg(18580).
+text(18580, Games like dodgeball are used to keep the students from getting overly dissatisfied. Take away dodgeball and you'll have a riot for the first few years at least.).
+att(18580, 18553).
+
+arg(18579).
+text(18579, Feels like this would still only shift around who the bullies are.).
+att(18579, 18554).
+
+arg(18554).
+text(18554, Not true. Someone can be strong in mainly one technique and take out someone with stronger technique in other areas.
+Even if you are trained in MMA, If you know someone else has also been trained to knock or choke someone out, you're less likely to pick a fight with them.).
+att(18554, 18315).
+
+arg(18553).
+text(18553, Not exactly. MMA incorporates already used exercises or can be made to. Technique would just need to be improved. Quality MMA could replace the quantity of poor exercises. Games like dodgeball could be replaced with MMA.).
+att(18553, 18439).
+
+arg(18439).
+text(18439, That doesn't change what I said at all. To add new material, one must remove current material. Even if it's removing similar material, that doesn't change that it's a zero sum game (in terms of quantity, if not quality).).
+att(18439, 18324).
+
+arg(18324).
+text(18324, It could easily be implemented into current physical education classes. 
+).
+att(18324, 18316).
+
+arg(17807).
+text(17807, As well as self-defense. It would improve students fitness, health, athletic abilities, their confidence, concentration and behaviour. ).
+support(17807, root).
+
+arg(18315).
+text(18315, That only works if everyone is equally skilled).
+att(18315, 17941).
+
+arg(17941).
+text(17941, After MMA training bullies are less likely to bully.
+Bullying victims could cancel out their bullies attacks, unlike untrained victims.).
+att(17941, 17916).
+
+arg(17916).
+text(17916, But the bullies would have been trained in MMA too, and cancel out.  This would essentially cause an arms race.).
+att(17916, 17808).
+

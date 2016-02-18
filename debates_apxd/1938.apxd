@@ -9,14 +9,6 @@ arg(12521).
 text(12521, If the need for technology is already fulfilled by the powers of the pokemon the development of technology would be slower).
 att(12521, root).
 
-arg(12528).
-text(12528, The need for technology wasn't fulfilled until present days, which means that even with pokemons, society would want technology to always make them better and improve the ways we could use them. ).
-att(12528, root).
-
-arg(12647).
-text(12647, Because electric type pokemon would have granted people more familiarity with electricity.).
-support(12647, root).
-
 arg(12973).
 text(12973, This could also simply have people harnessing Pokemon as fuel).
 att(12973, 12521).
@@ -24,4 +16,12 @@ att(12973, 12521).
 arg(12974).
 text(12974, But there would be no need for many of the technologies used. I doubt there would be cars when there are Pokemon that goes faster. Cranes when there are Pokemon that are stronger. It's the same as who would ride a car that is faster than a horse. There would maybe advances in terms of domestication.).
 att(12974, 12528).
+
+arg(12528).
+text(12528, The need for technology wasn't fulfilled until present days, which means that even with pokemons, society would want technology to always make them better and improve the ways we could use them. ).
+att(12528, 12521).
+
+arg(12647).
+text(12647, Because electric type pokemon would have granted people more familiarity with electricity.).
+support(12647, root).
 

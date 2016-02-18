@@ -9,29 +9,9 @@ arg(13078).
 text(13078, Using the common definition of rape culture (See source.), there is no rape culture in the united states because rape is not normalized. We punish rapists, we abhor rape, and rape is thought of as one of the worst crimes to commit and be victimized by.).
 support(13078, root).
 
-arg(14318).
-text(14318, Rape culture is unlinked to the fantasy people could have.).
-att(14318, root).
-
-arg(14319).
-text(14319, A source is needed for this argument.).
-att(14319, root).
-
 arg(14321).
 text(14321, studies have found rape fantasy is a common sexual fantasy among both men and women.).
 att(14321, 14319).
-
-arg(13091).
-text(13091, These reports, while sometimes true, are also sometimes wildly exaggerated or fabricated entirely.  We can see this in the UVA/Rolling Stone debacle.).
-att(13091, root).
-
-arg(13331).
-text(13331, This is also the brunt of many jokes such as the "drop the soap" gag).
-support(13331, root).
-
-arg(13079).
-text(13079, In prisons, men are raped at high rates, and the general population is generally dismissive, or will respond as if people in prison deserved it. etc.).
-att(13079, root).
 
 arg(13080).
 text(13080, There are small pockets of what would be called rape culture by that definition. Certain gangs, certain frats, etc which normalize and encourage rape. ).
@@ -41,14 +21,6 @@ arg(13081).
 text(13081, When these small pockets of rape culture is revealed to the general public, the general reaction is one of horror and disgust, which reflects the fact that the general culture is not one of rape culture.).
 att(13081, 13080).
 
-arg(14291).
-text(14291, Lots of western woman fantasize about being raped.).
-att(14291, root).
-
-arg(13327).
-text(13327, There is a dissonance here - many support prison rape when it comes to specific individuals (often referenced for murders and pedophiles). However, if you asked most of those same people if the purpose of prison is to literally punish as fiercely as possible, few would agree.).
-att(13327, root).
-
 arg(13322).
 text(13322, This is more due to our strange philosophy that prisons should punish as intensely as possible and not focus on reducing the reoffending rate.).
 att(13322, 13079).
@@ -57,24 +29,6 @@ arg(14347).
 text(14347, Over 400,000 forensic rape kits remain untested in the United States.).
 att(14347, 13078).
 
-arg(14389).
-text(14389, That's not true. A fantasy is not automatically a habit. "a settled or regular tendency or practice, especially one that is hard to give up." People may fantasise once about rape in their whole life time and then suppress that fantasy. ).
-att(14389, root).
-
-arg(13082).
-text(13082, Men are raped at roughly the same rates as women are in the united states according to the CDC (if you define rape as being forced to have sex against your will, or having sex you didn't want at the time, or sex without consent etc.) 
-
-Yet it's dismissed and ignored.).
-att(13082, root).
-
-arg(14351).
-text(14351, The "rape culture" term is misleading, it doesn’t only mean rape is a part of our culture, it mean that rape is pervasive and normalized due to societal attitudes about gender and sexuality.).
-att(14351, root).
-
-arg(14323).
-text(14323, according to wikipedia, culture is: That complex whole which includes knowledge, belief, art, morals, law, custom and any other capabilities and habits acquired by man as a member of society. And fantasizing is an habit. Therefore fantasizing(about rape) is an habit and a part of western culture.).
-att(14323, root).
-
 arg(14320).
 text(14320, fantesies are part of the culture, if the culture is, in the words of E.B. Tylor, "that complex whole which includes knowledge, belief, art, morals, law, custom and any other capabilities and habits acquired by man as a member of society.". According to this, fantasy can be considered a habit.).
 att(14320, 14318).
@@ -82,4 +36,50 @@ att(14320, 14318).
 arg(14322).
 text(14322, The problem with this is that most, if not all do not want to actually be raped. These people draw the line between fantasy and reality, and probably know how much of a horrible experience it is. The commonality of a rape fantasy does not corroborate to the idea of a rape culture. ).
 att(14322, 14321).
+
+arg(13079).
+text(13079, In prisons, men are raped at high rates, and the general population is generally dismissive, or will respond as if people in prison deserved it. etc.).
+att(13079, root).
+
+arg(14291).
+text(14291, Lots of western woman fantasize about being raped.).
+att(14291, root).
+
+arg(14318).
+text(14318, Rape culture is unlinked to the fantasy people could have.).
+att(14318, 14291).
+
+arg(14319).
+text(14319, A source is needed for this argument.).
+att(14319, 14291).
+
+arg(13091).
+text(13091, These reports, while sometimes true, are also sometimes wildly exaggerated or fabricated entirely.  We can see this in the UVA/Rolling Stone debacle.).
+att(13091, 13080).
+
+arg(13331).
+text(13331, This is also the brunt of many jokes such as the "drop the soap" gag).
+support(13331, 13079).
+
+arg(13082).
+text(13082, Men are raped at roughly the same rates as women are in the united states according to the CDC (if you define rape as being forced to have sex against your will, or having sex you didn't want at the time, or sex without consent etc.) 
+
+Yet it's dismissed and ignored.).
+att(13082, root).
+
+arg(13327).
+text(13327, There is a dissonance here - many support prison rape when it comes to specific individuals (often referenced for murders and pedophiles). However, if you asked most of those same people if the purpose of prison is to literally punish as fiercely as possible, few would agree.).
+att(13327, 13322).
+
+arg(14389).
+text(14389, That's not true. A fantasy is not automatically a habit. "a settled or regular tendency or practice, especially one that is hard to give up." People may fantasise once about rape in their whole life time and then suppress that fantasy. ).
+att(14389, 14323).
+
+arg(14351).
+text(14351, The "rape culture" term is misleading, it doesn’t only mean rape is a part of our culture, it mean that rape is pervasive and normalized due to societal attitudes about gender and sexuality.).
+att(14351, 14320).
+
+arg(14323).
+text(14323, according to wikipedia, culture is: That complex whole which includes knowledge, belief, art, morals, law, custom and any other capabilities and habits acquired by man as a member of society. And fantasizing is an habit. Therefore fantasizing(about rape) is an habit and a part of western culture.).
+att(14323, 14322).
 

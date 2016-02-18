@@ -9,6 +9,10 @@ arg(10121).
 text(10121, Emotions are harder to convey in writing, and this could lead to more misunderstandings.).
 att(10121, root).
 
+arg(10339).
+text(10339, This could be considered a benefit in some discussions, especially critical thinking arguments where emotions should be omitted from the discussion in exchange for objectivity.).
+att(10339, 10121).
+
 arg(10122).
 text(10122, In time-sensitive situations, speaking is more efficient than writing. ).
 att(10122, root).
@@ -17,36 +21,32 @@ arg(10125).
 text(10125, Having written records of discussions can aid in future discussions that need to reference past ones. ).
 support(10125, root).
 
-arg(10126).
-text(10126, That's essentially why this platform exists :)).
-att(10126, root).
-
-arg(10360).
-text(10360, This is equally true for spoken conversations. In writing the information will be in an easily shareable medium (text) & more structured because participants have more time to refine their argument.).
-att(10360, root).
-
-arg(9928).
-text(9928, It would be more difficult for someone other than the the two participants to understand the debate, because it'll lead to a big amount of information. ).
-att(9928, root).
-
 arg(9934).
 text(9934, Sometimes it is the one who speaks the most or the louder who appears to win an argument. ).
 support(9934, root).
-
-arg(10496).
-text(10496, this does not necessarily mean that it would lead to better outcomes).
-att(10496, root).
-
-arg(10339).
-text(10339, This could be considered a benefit in some discussions, especially critical thinking arguments where emotions should be omitted from the discussion in exchange for objectivity.).
-att(10339, 10121).
 
 arg(9911).
 text(9911, Access to additional information is limited in real time conversations. Arguments made are therefore less informed.
 ).
 support(9911, root).
 
+arg(10126).
+text(10126, That's essentially why this platform exists :)).
+att(10126, 9928).
+
+arg(10360).
+text(10360, This is equally true for spoken conversations. In writing the information will be in an easily shareable medium (text) & more structured because participants have more time to refine their argument.).
+att(10360, 9928).
+
+arg(9928).
+text(9928, It would be more difficult for someone other than the the two participants to understand the debate, because it'll lead to a big amount of information. ).
+att(9928, 9911).
+
 arg(10120).
 text(10120, Some people have better speaking skills than writing skills. ).
 att(10120, root).
+
+arg(10496).
+text(10496, this does not necessarily mean that it would lead to better outcomes).
+att(10496, 10120).
 

@@ -5,35 +5,51 @@ arg(15980).
 text(15980, It depends complexity of application and how many developers working on the project.).
 att(15980, root).
 
-arg(15992).
-text(15992, You seem to be describing AngularJS. There are also frameworks that do different things, hiding more or less complexity depending on which you pick. In the end it's picking the right tool for the job.).
-att(15992, root).
-
-arg(15926).
-text(15926, Then what does that say about frameworks built on top of it?).
-att(15926, root).
-
-arg(15915).
-text(15915, Usually they abstract a lot of complicated things that can seriously slow down the development.).
-att(15915, root).
-
-arg(15924).
-text(15924, Javascript its self is buggy, and poorly preformant.).
-att(15924, root).
-
-arg(15918).
-text(15918, Not all frameworks offer these. ).
-att(15918, root).
-
-arg(15919).
-text(15919, That's why a framework should be modularized. So one can choose which parts he wants to use.).
-att(15919, root).
+arg(15890).
+text(15890, Frameworks are self indulgent, over complicated, buggy, poorly performant, and ultimately unnecessary for most website development needs.).
+support(15890, root).
 
 arg(15917).
 text(15917, These 'complicated things' (dependency injection, two way binding for example) are things that most sites could do without. Frameworks create a problem then offer to solve it!).
 att(15917, 15915).
 
-arg(15890).
-text(15890, Frameworks are self indulgent, over complicated, buggy, poorly performant, and ultimately unnecessary for most website development needs.).
-support(15890, root).
+arg(15992).
+text(15992, You seem to be describing AngularJS. There are also frameworks that do different things, hiding more or less complexity depending on which you pick. In the end it's picking the right tool for the job.).
+att(15992, 15917).
+
+arg(15926).
+text(15926, Then what does that say about frameworks built on top of it?).
+att(15926, 15924).
+
+arg(15915).
+text(15915, Usually they abstract a lot of complicated things that can seriously slow down the development.).
+att(15915, 15890).
+
+arg(15924).
+text(15924, Javascript its self is buggy, and poorly preformant.).
+att(15924, 15890).
+
+arg(15918).
+text(15918, Not all frameworks offer these. ).
+att(15918, 15917).
+
+arg(15919).
+text(15919, That's why a framework should be modularized. So one can choose which parts he wants to use.).
+att(15919, 15917).
+
+arg(19051).
+text(19051, Frameworks don’t tend to abstract complexity away, libraries do. More often than not the framework is built on a library and that library isn’t necessarily the one in use by the developer and it leads to bloated code messes.).
+att(19051, 15915).
+
+arg(19050).
+text(19050, This doesn’t matter if design patterns are taken into account and code is modular).
+att(19050, 15980).
+
+arg(19503).
+text(19503, javascript frameworks add extra bloat that makes code much much longer that it needs to be.).
+support(19503, root).
+
+arg(19555).
+text(19555, The plugins and frameworks are written in plain vanilla JavaScript.).
+att(19555, root).
 

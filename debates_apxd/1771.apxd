@@ -1,30 +1,13 @@
 arg(root).
 text(root, Children should not be allowed to wear religious clothing.).
 
-arg(16317).
-text(16317, On what basis should we measure what is tolerable of some religion, and what not?).
-att(16317, root).
+arg(16501).
+text(16501, In doing so are you not indoctrinating them in atheism? Which is technically a religion as it is impossible to prove there is no God, just as it is impossible to prove there is one  ).
+att(16501, 10372).
 
-arg(10413).
-text(10413, You take away their freedom to chose what they can wear.).
-att(10413, root).
-
-arg(10372).
-text(10372, It would help fight indoctrination and therefore give people freedom of choice.).
-support(10372, root).
-
-arg(12301).
-text(12301, As long as they let the children be aware of the different religions there are in the world, parents wouldn't be doing abything wrong by teaching them what they believe is the right set of values.).
-att(12301, root).
-
-arg(10866).
-text(10866, But in many societies we already stop religions from having total freedom to apply thousand-years old teachings.
-).
-att(10866, root).
-
-arg(10799).
-text(10799, Raising the kids in ISIS camps turns them into terrorists. Kids are extremely vulnerable to ideas at that age, and drilling anything in their brain at that age should be illegal. If you truly believe in god, then wait until your child can make his own decision, and then teach him religion. ).
-support(10799, root).
+arg(16500).
+text(16500, There really is no way to prove a religion right or wrong. It is reasonable to prevent people from hurting others, but clothing is not something that affects that. You can't force people to stop believing in something without disrespecting their rights as human beings ).
+support(16500, 16317).
 
 arg(12053).
 text(12053, Not every muslim is a member of ISIS. If you truly believe that religious clothing has a meaning, then you'd believe that children should be wearing it too. It is ok though to let children be aware of the idea of religious freedom but every parent can teach them what they believe is right.).
@@ -34,7 +17,60 @@ arg(12056).
 text(12056, I never said every Muslim is in ISIS. My example was merely to show how vulnerable children are to ideas at that age and how it effects the rest of their lives. Parents should not be allowed to take advantage of that to drill nonsense into their kids' brains.).
 att(12056, 12053).
 
+arg(16620).
+text(16620, You keep missing my entire argument sir. No they will not be able to evaluate it once they're old enough, just like you can't. Why do you think the vast majority of people follow the same religion as their parents? what about my ISIS example? why didn't those people re-evaluate their beliefs?).
+att(16620, 16498).
+
+arg(16498).
+text(16498, But in taking away part of their religion is obstructing their religious freedom. Plus, kids grow up and one day will be able to evaluate what they are told. Looking in schools today, atheism is taught to children without care- why is that okay? Atheism is a religion becuase you can't prove it ).
+att(16498, 16490).
+
+arg(16490).
+text(16490, Kids are not going to evaluate what is being told to them, they know nothing about this world, and they're just going to believe in what the parents say, regardless of how absurd it is. You can teach them the values of a religion (honesty, love, sharing...) without all the superstitions. ).
+att(16490, 12301).
+
+arg(16460).
+text(16460, This isn't whether it would be illegal or not, but whether they should or should not be allowed.).
+att(16460, 10719).
+
 arg(10719).
 text(10719, Some religions require religious clothing, and such idea would be contradictory to relogious freedom.).
 att(10719, root).
+
+arg(16317).
+text(16317, On what basis should we measure what is tolerable of some religion, and what not?).
+att(16317, 10866).
+
+arg(10413).
+text(10413, You take away their freedom to chose what they can wear.).
+att(10413, 10372).
+
+arg(12301).
+text(12301, As long as they let the children be aware of the different religions there are in the world, parents wouldn't be doing abything wrong by teaching them what they believe is the right set of values.).
+att(12301, 12056).
+
+arg(10866).
+text(10866, But in many societies we already stop religions from having total freedom to apply thousand-years old teachings.
+).
+att(10866, 10719).
+
+arg(16458).
+text(16458, I don`t really see the big evil on religious clothes - they are after all only clothes.  ).
+att(16458, root).
+
+arg(10372).
+text(10372, It would help fight indoctrination and therefore give people freedom of choice.).
+support(10372, root).
+
+arg(19162).
+text(19162, Atheism is not a religion.).
+att(19162, 16501).
+
+arg(19163).
+text(19163, Pastafarianism is a religion.).
+att(19163, 19162).
+
+arg(10799).
+text(10799, Raising the kids in ISIS camps turns them into terrorists. Kids are extremely vulnerable to ideas at that age, and drilling anything in their brain at that age should be illegal. If you truly believe in god, then wait until your child can make his own decision, and then teach him religion. ).
+support(10799, root).
 

@@ -1,0 +1,204 @@
+arg(root).
+text(root, "Collective action" through a "democratic process" often produces a result which excludes the needs of minorities. ).
+
+arg(18940).
+text(18940, A vote still represents minorities needs. Instead of only catering to the majority vote, all votes could be catered to with the majority getting the highest priority.).
+att(18940, root).
+
+arg(18932).
+text(18932, Pure democracy is a form of dictatorship, where the majority is the dictator.).
+support(18932, root).
+
+arg(18944).
+text(18944, That would make people a lot more confident in the democratic decisions.).
+support(18944, 18937).
+
+arg(18941).
+text(18941, That would link rationality and scientific skills, to political power, and involves everyone in it, which would make that science progresses faster.).
+support(18941, 18937).
+
+arg(18942).
+text(18942, It would make everyone working together to know which are the best solutions, instead of thinking they already know what is the best, without thinking a lot about it (because basically they have no time to do it), and then trying to convince, by, most of the time, simplistic slogans.).
+support(18942, 18937).
+
+arg(18939).
+text(18939, I think most disagreements are not on core values, but about :
+
+* How to meet these core values (in the rare case where people seriously think about their real core values).
+
+* Conflicts of interest and corruption.).
+support(18939, 18937).
+
+arg(18938).
+text(18938, We should have a collaborative scientific process, where everyone can participate, because relying on a small group of experts would be problematic :
+
+* The experts would be too easily corruptibles.
+
+* Even if the experts were not corrupted, people would have hard time to believe them.).
+support(18938, 18937).
+
+arg(18872).
+text(18872, may also be possible to compare with anarchism, lack of government. Regardless, just because "dictators also oppress needs of minorities" does not mean that the original argument is not valid. We're just trying to establish simple truths ).
+att(18872, 18867).
+
+arg(18954).
+text(18954, This argument is about government by way of "democracy" ie majority rule. It's not about economics or social class, etc. I don't really understand your premise in response to the original argument about minorities. ).
+att(18954, 18812).
+
+arg(18937).
+text(18937, Here is the political system i believe in :).
+support(18937, 18866).
+
+arg(18945).
+text(18945, Can you move the link in the "sources" ? (we can’t copy past, or click on it, when it is in the "premise content")).
+att(18945, 18902).
+
+arg(18936).
+text(18936, It doesn’t define what is a dictatorship alone in the source you give. (see sources for two important missed properties).).
+att(18936, 18932).
+
+arg(18935).
+text(18935, I think that most would consider it to be a negative thing, which is exactly why we have a hope with democracy.).
+att(18935, 18899).
+
+arg(18934).
+text(18934, It is depend of two parameters.
+
+* What is forced. (ie : is it just that the majority put somebody who commits crimes in prison to protect people from future crimes ?).
+
+* The ethical framework, which defines what is just and unjust.).
+att(18934, 18913).
+
+arg(18919).
+text(18919, First step is to admit the reality that Democracy as a form of government is not without its serious flaws, similar to other forms of gov. Then maybe we can figure out if there is a better way for people meet their own needs without creating oppression. ).
+att(18919, 18899).
+
+arg(18917).
+text(18917, I am not dangerous, and i would like people to have inalienable rights. My meta-ethical point of view say nothing about my ethical point of view.).
+att(18917, 18916).
+
+arg(18916).
+text(18916, well, if you don't believe that human beings, yourself included, have an inalienable right to their own lives, then i see you as an extremely dangerous individual and I will certainly take care to avoid interaction with you.  ).
+att(18916, 18915).
+
+arg(18915).
+text(18915, If i correctly understand it, i don’t agree on this, it seem like a form of moral realism, and i am a moral nihilist.).
+att(18915, 18912).
+
+arg(18912).
+text(18912, Human rights are inherent at birth regardless of race, nationality, etc. Do we not agree that human beings have basic fundamental rights such as the right to life, freedom, etc? ).
+att(18912, 18911).
+
+arg(18913).
+text(18913, Does that mean it's right and just for a majority group to force their will on people who do not agree simply because they happen to reside in the same geographic area?).
+att(18913, 18897).
+
+arg(18910).
+text(18910, Nope. That is a related argument. If you believe that human beings are born owing a debt of some kind (original sin?) and you also believe that just because a person is born in a certain place they must submit to the arbitrary rules that are imposed by a ruling class then..... ).
+att(18910, 18903).
+
+arg(18911).
+text(18911, Where do the rights come from then ?).
+att(18911, 18909).
+
+arg(18909).
+text(18909, No how can the state grant rights? It only is there to protect the rights that are "held to be self evident", etc. Human rights exist before and outside of states ).
+att(18909, 18907).
+
+arg(18907).
+text(18907, People get human rights, and other rights, from states, because a right is legal thing.).
+att(18907, 18900).
+
+arg(18906).
+text(18906, That "he is free to leave" (which is not necessarily true, if the majority decide otherwise, or if he can’t afford it, or if he have nowhere to go) doesn’t solve potential problems, nor add something to the premise.).
+att(18906, 18898).
+
+arg(18905).
+text(18905, Because people have incompatible wills, and are extremely interconnected.
+By every acts we do, we are imposing something on others.).
+att(18905, 18894).
+
+arg(18903).
+text(18903, This diverts from the original premise and is therefore irrelevant.).
+att(18903, 18902).
+
+arg(18902).
+text(18902, http://en.arguman.org/human-beings-are-not-born-owing-a-debt-to-society).
+att(18902, 18898).
+
+arg(18900).
+text(18900, Rights are not something we get from the state. They are human rights. The state is there to protect our rights.).
+att(18900, 18898).
+
+arg(18898).
+text(18898, If a person is born into a state he becomes a citizen of that state. With the rights he gets he also gets duties. The right to vote also constitutes the duty to oblige to everything the majority rules. If he doesn't like that, he is free to leave the country.).
+att(18898, 18894).
+
+arg(18897).
+text(18897, That is the whole point of a democratic process. A state is always going to be like that. There will always be someone not agreeing with a policy.).
+att(18897, 18894).
+
+arg(18867).
+text(18867, It implies that there are better systems so it's definitely attempting to compare it with other forms of gov't.).
+att(18867, 18799).
+
+arg(18866).
+text(18866, Perhaps there is a type of democratic arrangement where the majority do not impose their choices on the minority? ie an option to opt out? ).
+support(18866, 18841).
+
+arg(18841).
+text(18841, It is only true for the type of democracy where the majority rule. (by example democracy based on vote).).
+att(18841, 18800).
+
+arg(18799).
+text(18799, No, the argument is more about the fact that democracy is not necessarily that well suited to creating "equality". not discussing other forms of gov't).
+att(18799, 18796).
+
+arg(18894).
+text(18894, Why should one group of people have the right to impose their will on other people who do not consent?).
+support(18894, root).
+
+arg(18800).
+text(18800, Majority Rule = Minorities whose needs do not get met.).
+support(18800, root).
+
+arg(18796).
+text(18796, Dictators also suppress minorities. Unless you aren't suggesting this is inherent to democracies?).
+att(18796, root).
+
+arg(19080).
+text(19080, True, but nobody fully gets it their way in a democracy. We are all a part of one minority or another (race; religion; gender; socioeconomic status; personality type; political ideology); and we all sometimes gain benefits and, other times, get screwed by larger or more powerful interest groups.).
+att(19080, 18905).
+
+arg(19008).
+text(19008, That fallacy report is bogus.  A"democracy" can certainly produce very similar results as a dictator. ).
+support(19008, 18932).
+
+arg(18963).
+text(18963, Dictators even suppress the poeple in the way they should behave in social aspects.).
+support(18963, 18796).
+
+arg(18962).
+text(18962, thank you i can't figure out how to make it a "related argument").
+att(18962, 18945).
+
+arg(19083).
+text(19083, The fallacy report was discussing the definition of democracy relatively to a particular source, not what democracy can produce.).
+att(19083, 19008).
+
+arg(19015).
+text(19015, Just ask black people in the united states who were actually enslaved by white people and actually had their human rights stripped from them in a so-called democracy.).
+support(19015, 19008).
+
+arg(19079).
+text(19079, Coalitions of different minority groups that generally agree can still come together and have a profound impact. ).
+att(19079, root).
+
+arg(18899).
+text(18899, So? The premise implies that this is a negative thing. So I have to ask, is there any other form that would prevent that?).
+att(18899, root).
+
+arg(18812).
+text(18812, No. The matter is way more complex. What are we talking about here? Economics? Yes, as the majority of people are proletarians, their interests will be defended more in a really democratic governance. Social? Not really, different from class, social, cultural differences are not mutually exclusive.).
+att(18812, root).
+

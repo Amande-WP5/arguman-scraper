@@ -1,0 +1,137 @@
+arg(root).
+text(root, Schools should be required to present creation as a theory alongside evolution, since neither can be proven superior over the other by science ).
+
+arg(17785).
+text(17785, The life on earth didn’t begin by vegetation + this passage didn’t imply evolution in any way, it is just a mere observation of what everyone know at that time.).
+att(17785, 17520).
+
+arg(18813).
+text(18813, We should then learn how people were created by Holy Maize, because no religion is better than another.
+
+Or, f*ck off.).
+att(18813, root).
+
+arg(17067).
+text(17067, Creationism is a part of christianity. As it sits, religion should not be thought of as "fact", but only as a belief. As such, evolution has far surpassed being simply "belief". If creationism is to be taught alongside evolution, then all other religious creationist beliefs should be taught as well.).
+att(17067, root).
+
+arg(17786).
+text(17786, Evidence of god not using evolution to create humanity in the bible : 
+"Then the Lord God formed man of dust from the ground, and breathed into his nostrils the breath of life; and man became a living [f]being.").
+att(17786, 16950).
+
+arg(16917).
+text(16917, It is completely provable as I took a course in Apologetics with a teacher who believed exactly that. He melded science with religion and found textual evidence to support his beliefs. I'm not sure why you didn't think people held this belief. ).
+att(16917, 16892).
+
+arg(18835).
+text(18835, There is overwhelming evidence that the world is more than 40,000 years old. Accepting Creationism therefore implies that all this evidence has been falsified in some manner. 
+
+Creationism therefore must either provide substantial evidence of falsification, or declare that evidence is meaningless.).
+att(18835, root).
+
+arg(18836).
+text(18836, Creationism implies solipsism: if God created evidence for an old earth 40,000 years ago, how do we know that he didn't actually create that evidence last tuesday?).
+support(18836, 17687).
+
+arg(18821).
+text(18821, It's okay to want to learn about other creation myths because it is interesting. However as I just asserted, creation is a myth and should therefore be treated as if it was a story you read to kids. Like Harry Potter.).
+att(18821, 18813).
+
+arg(17520).
+text(17520, Genesis 1:11-12, I put the verse in the source. God tells the earth to sprout forth vegetation, and it did. Depending on how you read it, you could very well say that god used evolution.).
+support(17520, 17437).
+
+arg(16950).
+text(16950, I made a claim about what some creationists believe, you said that claim was not provable or falsifiable. I disagree.
+
+When you read the Biblical text, certain word usage implies the usage of evolution. The "proof" is in the text. I don't understand what exactly you are asking here though.).
+att(16950, 16947).
+
+arg(17640).
+text(17640, Implies=/=I can interpret it that way.
+You can interpret everything in every way. So interpretation (without support from the text itself) are valueless.
+).
+att(17640, 17629).
+
+arg(17626).
+text(17626, As you imply, Creation and Evolution are completely separate topics.  However, the main issue is that common belief is that they are connected and reject each other.  As a belief or theory, they do not in fact affect each other.).
+support(17626, 17067).
+
+arg(17528).
+text(17528, i don't see things like random mutation nor natural selection in this text. But those are the basic things of evolution.).
+att(17528, 17520).
+
+arg(17437).
+text(17437, could you please tell where in the bible evolution is implied ).
+att(17437, 16950).
+
+arg(16952).
+text(16952, You are making a positive claim. You cannot expect others to make your argument for you. If you have evidence, present it. Otherwise, do not bring the argument forward.).
+att(16952, 16950).
+
+arg(16947).
+text(16947, I never said people didn't believe it. If it is provable, please provide evidence and collect your Nobel Prize. Certainly others before you have tried.).
+att(16947, 16917).
+
+arg(17771).
+text(17771, you are right but the interpretation needs support from the text itself to make the interpretation something useful and not something someone guesses out of the blue (like your teacher did with the evolution thing)).
+att(17771, 17766).
+
+arg(17766).
+text(17766, The only way to extrapolate a belief from the Bible is through the interpretation of the text. If all you had to do to understand a religion was simply read the text, then what's the point of having theology? I'll tell you why, because interpretations of the text are valuable. ).
+att(17766, 17640).
+
+arg(17687).
+text(17687, Creationism is in fact the counterposition to biology, chemistry, geology, astronomy and physics. Evolution is an established scientific theory. It is not a counter position.).
+att(17687, 17625).
+
+arg(17629).
+text(17629, It's about how you interpret the text, not about what the text says specifically. Some Christian's think Genesis should be taken literally, others think it is a metaphor. For the sake of this argument, I'm taking Genesis as a metaphor, and thus I read the word usage in Genesis to imply evolution.).
+support(17629, 17528).
+
+arg(16664).
+text(16664, If something cannot be proven, cannot make predictions of any sort, cannot be observed, and cannot be disproven, odds are it's incorrect. Therefor it should not be taught over something which *can* be proven, *can* make predictions, *can* be observed, and can *potentially* be disproven.).
+att(16664, root).
+
+arg(17625).
+text(17625, Evolution is commonly taught as a counter to creation; it is taught as something which could somehow disprove creation. In reality, Evolution and Creation are completely separate.  I believe that is what OP is intending to address.  Sidenote:  Creationism does not reject science as you imply.).
+att(17625, 16681).
+
+arg(17446).
+text(17446, This premise uses the same argument as theory of evolution. The only difference between them is one says God created everything and other doesn't say anything about it. ).
+att(17446, 16871).
+
+arg(16958).
+text(16958, The argument that I brought up was irrelevant to the original premise. Schools shouldn't be forced to present both creationism and evolution as theories as creationism never even came about through the scientific method. It came about through religion.).
+support(16958, 16952).
+
+arg(16892).
+text(16892, This claim is neither provable or falsifiable.).
+att(16892, 16871).
+
+arg(16871).
+text(16871, There are creationists that exist who mix science with their religion. Some believe that the universe is actually 13.8 billion years old and that god did use evolution to create. They interpret their religious texts and certain word usages to support scientific findings.).
+att(16871, 16777).
+
+arg(17459).
+text(17459, Teaching creationism is bad science. Standard creationist claims about the age of the Earth, the pattern of descent of living creatures, and human history are contradicted by scientific evidence, and were rejected by mainstream science over a century ago. Teaching this would be misinforming students).
+att(17459, root).
+
+arg(16681).
+text(16681, Creationism is not a scientific theory like Evolution. Also, creation completely goes against many other subjects like chemistry, geology, history, physics and astronomy, not just biology.).
+att(16681, root).
+
+arg(17606).
+text(17606, Churches, mosques and other religious institutions should be required to present (and praise and preach:)) evolution, fossil record, deep time, relativity, etc.. since neither story is superior to the other.
+).
+att(17606, root).
+
+arg(16777).
+text(16777, Science doesn't have to refute something that is not proven to exist. Regardless, creationism is incompatible with fossil evidence, geology, physics, and many other sciences.).
+att(16777, root).
+
+arg(19560).
+text(19560, The bible is not a bag of trail mix, you can't pick what you want and throw away the rest.).
+att(19560, 16871).
+

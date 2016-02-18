@@ -1,13 +1,92 @@
 arg(root).
 text(root, Changing your gender/sex is unnatural ).
 
-arg(15784).
-text(15784, So what ? (Is-ought fallacy)).
-att(15784, root).
+arg(17832).
+text(17832, Fallacies are about errors in reasonings.
+
+If you think my reasoning isn’t valid, i would like to hear why, but it seem to me you just think my conclusion is irrelevant, which is maybe true, but isn’t a fallacy.).
+att(17832, 17822).
+
+arg(17894).
+text(17894, Although I did not originally see it this way, the fallacy in your argument is your assertion that since children are not natural gender is, therefore, not natural. This is not how the definition of natural works. Something is natural if it is not made or caused by humans. One thing being natural...).
+att(17894, 17832).
+
+arg(17903).
+text(17903, The definition of natural in the original premise may need to be reworded because it does not imply that conscious human thought is required for for an action to be considered a human action. This might better allow certain things that seem natural to be considered natural Ex: Human cell division.).
+att(17903, 17790).
+
+arg(17902).
+text(17902, The assertion that since children are not natural gender is, therefore, not natural is a fallacy. This is not how the definition of natural works. Something is natural if it is not made or caused by humans. One thing being natural does not determine whether or not something else is natural.).
+att(17902, 17790).
 
 arg(15521).
 text(15521, People change sex in many cases because the are uncomfortable with the imposition of gender roles upon them. These gender roles are themselves an artificial construct and are unnatural.).
 att(15521, root).
+
+arg(17901).
+text(17901, If i understand correctly, my error was to think that because children were not natural, then part/properties of children (sex/gender), were also not natural.
+If i am right, then i propose : (see sources, i find this character limitation more and more boring)).
+att(17901, 17894).
+
+arg(17896).
+text(17896, The definition on natural in the original premise may need to be reworded because it does not imply that conscious human thought is required for for an action to be considered a human action. This might better allow certain things that seem natural to be considered natural Ex: Human cell division.).
+att(17896, 17895).
+
+arg(17895).
+text(17895, does not determine whether or not something else is natural.).
+att(17895, 17894).
+
+arg(17790).
+text(17790, With this definition of natural :
+Human children are made by humans, then human children aren’t natural, then having a sex in the first place isn’t natural.).
+att(17790, 16964).
+
+arg(17510).
+text(17510, Based on the given definition of natural, anything created or caused by humans is not natural. By definition, using man made instruments for a man made procedure is not natural.).
+att(17510, 17491).
+
+arg(17491).
+text(17491, I beg to differ on your premise regarding "we can exclusively define what is natural to humans" unless you supply such a definition.
+
+Otherwise why wouldn't using instruments (for example, for a sex change) created by humans be natural means for doing any particular thing for a human being? 
+).
+att(17491, 17358).
+
+arg(17359).
+text(17359, It is not presumed in the first argument that gender is natural. The first argument makes a claim about the act of changing one's gender. It does not make any claims about gender itself.).
+att(17359, 17072).
+
+arg(17358).
+text(17358, a) We can exclusively define what is natural to humans.
+b) Okay then we're "shifting" sexes instead of "reassigning" them, but argument is about whether changing/reassigning/shifting your sex is natural or not.).
+att(17358, 17073).
+
+arg(17197).
+text(17197, @fuzzydunlop
+Should I better put that text in a but or a because?).
+att(17197, 15519).
+
+arg(17141).
+text(17141, With you on Gender.  However, fish change sex 'naturally'.  It is presumed the question refers to surgical procedures to change human biology.).
+att(17141, 17072).
+
+arg(17073).
+text(17073, And if we refer strictly to humans in order to define what is "natural", (a) we can't exclusively define what is natural to humans, and, (b) there can be discerned 6 sexes among humans, so even a "sex reassignement surgery" can be said to simply "shift" a sex towards 1 of the 2 mainstream genders.).
+att(17073, 16964).
+
+arg(17072).
+text(17072, First of all gender is a social construct, so it can't occur "in nature" in the sense presumed in the argument.
+
+Secondly, sex change does occur in the nature, eg. many species of fish, also occasionally chickens, etc.).
+att(17072, 16964).
+
+arg(16982).
+text(16982, Saying what "natural" isn’t about help to determine what "natural" is about, and further our understanding of the debate.).
+support(16982, 16965).
+
+arg(16965).
+text(16965, fuzzydunlop, it is why it is a "however" and not a "but".).
+att(16965, 15519).
 
 arg(15519).
 text(15519, Natural=/= right or wrong
@@ -16,9 +95,25 @@ Rape is natural but wrong
 Adopting a child is unnatural but right).
 att(15519, root).
 
+arg(16962).
+text(16962, Okay, let me rephrase. By some definitions of "natural", changing sex indeed isn't. However, without specifying the definition of "natural", the argument is meaningless.).
+support(16962, 15509).
+
 arg(15509).
 text(15509, It really depends on your definition of "natural".
 
 By some quite common definitions of "natural", almost nothing a human does is natural.).
 att(15509, root).
+
+arg(16964).
+text(16964, If the definition of natural is existing in nature and not made or caused by people, then changing one's gender is not natural because it is directly caused by people via a sex reassignment surgery.).
+support(16964, root).
+
+arg(15784).
+text(15784, So what ? (Is-ought fallacy)).
+att(15784, root).
+
+arg(17822).
+text(17822, Yes, it may not be a Irrelevant Conclusion fallacy, but arguman.org does not do a good job at explaining what each of their given fallacies are used for. I did not have time to look up the use of each fallacy when making the post and there is a fallacy in your argument.).
+support(17822, root).
 

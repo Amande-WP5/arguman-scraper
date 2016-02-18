@@ -1,0 +1,54 @@
+arg(root).
+text(root, Tesla Motors Should Get Into Personal Aerial Vehicles (aka Big Drones for People).).
+
+arg(18838).
+text(18838, Building the necessary infrastructure for casual aerial transport and traffic control would be extremely expensive and complicated.).
+att(18838, root).
+
+arg(18837).
+text(18837, There have already been multiple attempts at building personal flying vehicles, but none were financially successful.).
+att(18837, root).
+
+arg(18655).
+text(18655, They (and to some part also through SpaceX) have the high performance to weight materials/composites/alloy technology required.
+
+1. Both Tesla Motors and SpaceX are heavily reliant on exceptional materials and technology transfers in this field has been suspected.).
+support(18655, root).
+
+arg(18654).
+text(18654, They could benefit of such an endeavor.
+
+1. By means of publicity.
+2. By means of attracting additional project funding.
+3. By means of sales in a new market in which they already own most of the core technological components.
+).
+support(18654, root).
+
+arg(18653).
+text(18653, They (and to some part also through SpaceX) have the technological premises for aerial autonomy and autopiloting.
+
+1. Tesla Motors has a platform for geographic navigation in place with autopiloting coupling.
+2. SpaceX has a platform for autonomous aerial flight from/to specific ground targets.).
+support(18653, root).
+
+arg(18652).
+text(18652, Through techonoly transfer from SpaceX, they have the aerial signal processing and controlling technology required (i.e. leveling etc).
+
+1. Technology transfers between the companies have been known to exist.
+2. SpaceX has developed advanced autonomous aerial controlling algorithms. ).
+support(18652, root).
+
+arg(18651).
+text(18651, They have the electrical motor technology required.
+
+1. They develop and manufacture state of the art electrical motors with exceptional power to weight ratios.
+2. Exceeding the engine specifications of the Ehang 184 should not be an obstacle.).
+support(18651, root).
+
+arg(18650).
+text(18650, They have the electrical power storage technology required.
+
+1. They develop and manufacture high energy density batteries.
+2. The energy density exceeds that of the Ehang 184 AAV which is a supposedly working personal aerial vehicle.).
+support(18650, root).
+

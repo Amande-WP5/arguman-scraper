@@ -1,18 +1,18 @@
 arg(root).
 text(root, Secondary languages, other than English, are not worth the time they are given in schools.).
 
-arg(8558).
-text(8558, The time given to secondary languages in classes could be given to something else more useful and helpful. Although it is not time being wasted, it is not being spent as good as it could be.
-).
-att(8558, root).
-
-arg(8547).
-text(8547, Bilingualism has been shown to increase creativity, problem solving ability, ability to see situations from different perspectives, and ability to identify linguistic problems in either language known. It has also been correlated with delayed onset of dementia and Alzheimer's.).
-att(8547, root).
-
 arg(8851).
 text(8851, This is just a bad excuse for laziness. The same argument could be applied for a whole lot of subjects in school.
 
 For example "Learning the binary number system is a waste of time, because only 1% of people will need this knowledge in the future.").
 att(8851, root).
+
+arg(8558).
+text(8558, The time given to secondary languages in classes could be given to something else more useful and helpful. Although it is not time being wasted, it is not being spent as good as it could be.
+).
+att(8558, 8547).
+
+arg(8547).
+text(8547, Bilingualism has been shown to increase creativity, problem solving ability, ability to see situations from different perspectives, and ability to identify linguistic problems in either language known. It has also been correlated with delayed onset of dementia and Alzheimer's.).
+att(8547, root).
 

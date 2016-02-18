@@ -1,9 +1,13 @@
 arg(root).
 text(root, Programming languages with fancy type systems (like Haskell) will never become mainstream.).
 
+arg(16847).
+text(16847, This premise is not complete. The very fact that we have identified concrete "generations" of language succession means that there have been languages that are "sufficiently overbudgetted" that have succeeded in becoming mainstream. e.g. To a Fortran developer, Python must be an insane choice.).
+att(16847, 15894).
+
 arg(15909).
 text(15909, Maybe is not related with the original topic. I was just testing the new related argument feature :')).
-att(15909, root).
+att(15909, 15908).
 
 arg(15908).
 text(15908, ).
@@ -12,4 +16,8 @@ support(15908, root).
 arg(15894).
 text(15894, A programming language has a limited "strangeness budget", and if this budget is exceeded, the language becomes too hard to learn.).
 support(15894, root).
+
+arg(19501).
+text(19501, haskell is already mainstream).
+att(19501, root).
 

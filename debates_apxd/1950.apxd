@@ -1,23 +1,23 @@
 arg(root).
 text(root, PC gaming is better than console gaming).
 
-arg(13037).
-text(13037, Why not have both and enjoy what they both can offer as exclusives?).
-att(13037, root).
-
 arg(12717).
 text(12717, PCs can be very easily modified and you can even build one from scratch. Such customization barely exists on consoles. ).
 support(12717, root).
-
-arg(12722).
-text(12722, what about console exclusives?).
-att(12722, 12717).
 
 arg(12770).
 text(12770, This has been discussed in much more depth on this website already.).
 att(12770, root).
 
+arg(12722).
+text(12722, what about console exclusives?).
+att(12722, 12717).
+
 arg(12989).
 text(12989, Console exclusives can be attractive for some, but PC also has exclusives, and lots of them. Therefore you can't really use it as an argument.).
 att(12989, 12722).
+
+arg(13037).
+text(13037, Why not have both and enjoy what they both can offer as exclusives?).
+att(13037, 12989).
 

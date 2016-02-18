@@ -1,0 +1,71 @@
+arg(root).
+text(root, There was no intentional famine in Ukraine deliberately caused by Soviet authorities).
+
+arg(18361).
+text(18361, Wheat was regularly seized by government during raids.).
+att(18361, root).
+
+arg(18373).
+text(18373, The appropriation of grain was a necessity for supporting city-workers and had always occurred regularly in previous years. The magnitude of appropriation of grain had not increased - in fact, once the Soviet government realised the scale of the shortage, requisitioning was decreased.).
+att(18373, 18361).
+
+arg(18372).
+text(18372, Yes, they are. The intentionalist narrative asserts that famine in Ukraine was deliberately perpetrated to stifle resistance to collectivisation. However famine occurred at the same time in other areas not undergoing collectivisation, and under different regimes. ).
+att(18372, 18358).
+
+arg(18371).
+text(18371, True. Perhaps it would be better attributed to famines having been known to be a disincentive towards having children.  ).
+att(18371, 18362).
+
+arg(18370).
+text(18370, Could you clarify? Which fact?).
+att(18370, 18364).
+
+arg(18369).
+text(18369, The natural cyclical nature of famines in agricultural societies is a reason to believe that a famine occurring within this cycle was not deliberately perpetrated.).
+att(18369, 18363).
+
+arg(18364).
+text(18364, Ukrainian Nationalists propaganda has no reason to avoid this fact.).
+att(18364, 18138).
+
+arg(18363).
+text(18363, This is not "A reason for proof the contention".).
+att(18363, 18135).
+
+arg(18362).
+text(18362, Free childcare or contraception in Ukrainian SSR in 1931-1933 sounds unrealistically. ).
+att(18362, 18139).
+
+arg(18360).
+text(18360, If weather conditions are primary cause, government actions still can be secondary factor.).
+att(18360, 18133).
+
+arg(18358).
+text(18358, Famines outside Ukraine are neither objections against fact of famine in Ukraine nor against it's artificial origin.).
+att(18358, 18133).
+
+arg(18136).
+text(18136, Produce shortages, compounded by weather effects, were further increased by deliberate sabotage on the part of kulaks who burnt crops and slaughtered livestock on a mass scale, in resistance to poorer peasants appropriating their land to form collective farms.).
+support(18136, root).
+
+arg(18135).
+text(18135, Famines had occurred in Ukraine cyclically since the 17th century due to the challenges of non-collectivised management of agriculture, the appropriation of produce by land-lords etc. at approx. three to four year intervals. The 1931-1932 famine was the last famine in Ukrainian history.).
+support(18135, root).
+
+arg(18133).
+text(18133, The 1931-1932 famine occurred in areas of Ukraine outside of the Soviet Ukrainian government, occurred in Poland, Belarus, the rest of the Soviet Union, and many areas of Central Asia as well. This was primarily due to weather conditions.).
+support(18133, root).
+
+arg(18138).
+text(18138, The entire concept arose from Ukrainian Nationalist propaganda and was perpetrated by mouthpieces of the Nazis, such as the Hearst press. Thomas Walker, the "eyewitness journalist" who wrote many pieces, had never visited Ukraine in the first place.).
+support(18138, root).
+
+arg(18137).
+text(18137, The entire concept is ridiculous. Many intentionalist narratives say that it was to stagnate peasant resistance to collectivisation, but it is obvious that a famine in any circumstance would do the exact opposite of this.).
+support(18137, root).
+
+arg(18139).
+text(18139, Changes in population growth statistics have been attributed by Conquest to be the result of a famine. However, it was not death rates that increased, but birth rates that decreased due to industrialisation and promotion of women in the workplace, free childcare, and contraception.).
+support(18139, root).
+

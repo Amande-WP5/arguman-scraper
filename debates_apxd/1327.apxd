@@ -1,93 +1,118 @@
 arg(root).
 text(root, Recreational Marijuana should be legalized).
 
-arg(6898).
-text(6898, that is more of an argument to ban alcohol, than it is to un-ban marijuana.).
-att(6898, root).
-
-arg(6623).
-text(6623, Consuming these things also poses a risk for other people. See: second-hand smokers, drunk driving.).
-att(6623, 5981).
+arg(6017).
+text(6017, However, that is the fault of the user, not the law.).
+att(6017, 6012).
 
 arg(5962).
 text(5962, Here you go.).
-att(5962, root).
-
-arg(6641).
-text(6641, the end result is that the law disproportionately affects minority users as compared to caucasian users).
-att(6641, root).
-
-arg(5768).
-text(5768, The burden of proof is on you to prove that.
-
-Also, it's more the issue of the minorities if they want to partake in a illegal substance and their perogative to do so however they should be aware of the consequences of breaking the law - nobody is forcing them to do anything).
-att(5768, root).
+att(5962, 5868).
 
 arg(6676).
 text(6676, the state shouldn't transfer money from working people to addicts anyway).
-att(6676, root).
-
-arg(6137).
-text(6137, cite your sources).
-att(6137, root).
-
-arg(5993).
-text(5993, There is no such thing as "weekend").
-support(5993, root).
+att(6676, 6653).
 
 arg(5911).
 text(5911, First off, thanks for the sources.
 
 However I don't think you address my point that nobody is forcing minorities to break the law; it's their prerogative to do so, nobody else's.).
-att(5911, root).
-
-arg(6144).
-text(6144, A law that affects people of one race more than another is just as damaging to those people as one that explicitly does so, and therefore should not be allowed to pass any more than an explicitly racist law should be.).
-att(6144, root).
-
-arg(5784).
-text(5784, The use of recreational Marijuana has become a far more common practice in todays society, and is no longer stereotypically associated with any particular race or socioeconomic class.).
-att(5784, root).
-
-arg(6005).
-text(6005, The legality of other dangerous substances is not grounds to legalize another potentially dangerous substance.).
-att(6005, root).
-
-arg(5870).
-text(5870, It should be mentioned, that the decrease of crime by legalizing former crimes alone should not be used as an indicator of success. If things are no longer defined as a crime, the rate will inevitably decrease.).
-att(5870, root).
+att(5911, 5827).
 
 arg(6012).
 text(6012, It should be expected that people will exhibit a varying pattern of use. We should not dismiss the fact that people will possibly use the drug during work hours.).
 att(6012, 5993).
 
-arg(6615).
-text(6615, Government exists to protect the people, so I doubt that laws should be made or broken based on the fact that it is alright for some people to die).
-att(6615, root).
+arg(14918).
+text(14918, Other laws (involving alcohol) also help prevent harm coming to others. Drunk driving, for example, is illegal. Same with any other drug, you can't use it and drive. Public intoxication is another thing you can't do. There are a few others but you get the point. The drug isn't doing this, it's the).
+att(14918, 6623).
 
-arg(6014).
-text(6014, This would cause for many other people to use worse materials (cocaine, LSD, meth) and they could use your argument for themselves saying that they can do what they want to their body.).
-att(6014, root).
+arg(5728).
+text(5728, It should be moderated and people should get educated about it, as it comes with certain downsides).
+att(5728, root).
+
+arg(6653).
+text(6653, There are already 17.3 million people in the U.S. alone who require treatment and rehab for just alcohol abuse. If make marijuana legal in the same situation as alcohol, the state will have spend even more money on rehabilitating weed users as well.).
+att(6653, root).
+
+arg(14919).
+text(14919, Harry J Anslinger is, for the most part, the reason why hemp became illegal. Of course, in order to instill fear in the American Public, he had to make it sound foreign and exotic, hence the name marijuana.
+Not only that, a close friend of Anslinger was William Randolph Hearst, who was invested in).
+att(14919, 6063).
+
+arg(6610).
+text(6610, That's what we call Natural Selection.).
+att(6610, 6014).
+
+arg(6694).
+text(6694, To legalize a psychotropic drug for recreational use on the grounds that one ethnic group or race is disproportionally charged with illegal possession of it would not be a logical solution. This law is not responsible for their treatment, so their treatment is not grounds to abolish the ban on pot.).
+support(6694, 6683).
+
+arg(5827).
+text(5827, Sorry for not providing sources, here are some that should give me warrant for my argument.).
+att(5827, 5768).
 
 arg(6669).
 text(6669, You cannot point marijuana as dangerous thus illegal, and cigarrettes and alcohol legal. It's plain hypocrecy.).
 support(6669, root).
 
-arg(6017).
-text(6017, However, that is the fault of the user, not the law.).
-att(6017, 6012).
+arg(5998).
+text(5998, What about Rastafarianism?
+
+In this religion, Cannabis is a sacrament and is utilized in certain rituals.
+
+You're correct that no one is "forcing" anyone to break a law, BUT the argument is that it was made illegal to pursue minorities.).
+att(5998, 5911).
+
+arg(6641).
+text(6641, the end result is that the law disproportionately affects minority users as compared to caucasian users).
+att(6641, 6340).
+
+arg(5768).
+text(5768, The burden of proof is on you to prove that.
+
+Also, it's more the issue of the minorities if they want to partake in a illegal substance and their perogative to do so however they should be aware of the consequences of breaking the law - nobody is forcing them to do anything).
+att(5768, 5727).
+
+arg(6137).
+text(6137, cite your sources).
+att(6137, 6116).
+
+arg(5993).
+text(5993, There is no such thing as "weekend").
+support(5993, 5757).
+
+arg(6144).
+text(6144, A law that affects people of one race more than another is just as damaging to those people as one that explicitly does so, and therefore should not be allowed to pass any more than an explicitly racist law should be.).
+att(6144, 5896).
+
+arg(5784).
+text(5784, The use of recreational Marijuana has become a far more common practice in todays society, and is no longer stereotypically associated with any particular race or socioeconomic class.).
+att(5784, 5727).
+
+arg(6005).
+text(6005, The legality of other dangerous substances is not grounds to legalize another potentially dangerous substance.).
+att(6005, 5748).
+
+arg(5870).
+text(5870, It should be mentioned, that the decrease of crime by legalizing former crimes alone should not be used as an indicator of success. If things are no longer defined as a crime, the rate will inevitably decrease.).
+att(5870, 5810).
+
+arg(6014).
+text(6014, This would cause for many other people to use worse materials (cocaine, LSD, meth) and they could use your argument for themselves saying that they can do what they want to their body.).
+att(6014, 5929).
+
+arg(5841).
+text(5841, it is helpful for those who are fighting against cancer. Don't make it harder for them than it already is.).
+support(5841, root).
+
+arg(15986).
+text(15986, ).
+support(15986, root).
 
 arg(6703).
 text(6703, Just because something isn't inherently 'dangerous' does not mean it doesn't have a negative impact. For example, weed is often touted as being a drug that makes you 'lazy'. Having millions of working age Americans being 'lazy' isn't necessarily good for the country.).
 att(6703, 6669).
-
-arg(6166).
-text(6166, As the articles state, even infrequent use is shown to cause harm to the brains of teens, or any person under the age of 25. Arguing whether or not we should restrict consenting and informed adults from self harm is a different debate. However, legalizing the drug for minors is unethical.).
-att(6166, root).
-
-arg(5726).
-text(5726,   Some goods prove to be more harmful to the general-welfare of the public than others.  ).
-att(5726, root).
 
 arg(6340).
 text(6340, The law is not specifically targeted at any race in any way. The ban is on a drug. The fact that one race is effected more by it is due to other factors that are irrelevant to legality of marijuana. These issues should be addressed and discussed seperately).
@@ -95,19 +120,11 @@ att(6340, 6144).
 
 arg(5806).
 text(5806, There is significant disagreement on whether or not the drug is harmful or helpful to the wellbeing of those who consume it.).
-support(5806, root).
-
-arg(5810).
-text(5810, Countries like Portugal HAVE legalized all drugs (in small amounts) and it has resulted in statistically lowered crime and drug related deaths all while providing more funding for clinical addiction treatment and aid.).
-att(5810, root).
+support(5806, 5728).
 
 arg(6179).
 text(6179, we already do the same thing with legal drugs (alcohol, tobacco)).
-support(6179, root).
-
-arg(5896).
-text(5896, This does not prove a causation. Having more people of a certain race get charged for a certain crime does not indicate that the law was/is designed to target those people. This is just a positive correlation.).
-att(5896, root).
+support(6179, 5728).
 
 arg(6036).
 text(6036, If we are entitled to body autonomy, then these harmful substances are no different from alcohol or cigarettes.  People should be allowed to do as they please with their bodies, and should be ready to face the consequences.).
@@ -117,69 +134,17 @@ arg(6037).
 text(6037, it can however have positive effects on users since prosecutaion can negatively affect ones life.).
 att(6037, 5870).
 
-arg(6976).
-text(6976, This is unrelated to recreational pot use.).
-att(6976, root).
-
-arg(5748).
-text(5748, There already exists more dangerous, LEGAL substances that are detrimental to society. Just because something is previously labeled as "illegal" does not mean it is forever "illegal").
-att(5748, root).
-
-arg(6191).
-text(6191, This is talking about legislation in general, not federal specifically.).
-att(6191, root).
-
-arg(6982).
-text(6982, Actually, revenue from taxes collected for alcohol are much lower than you think.).
-att(6982, root).
-
-arg(5635).
-text(5635, Regardless of legality, people will find a way to attain marijuana. Legalizing it and taxing it provides funds for the state.).
-support(5635, root).
-
-arg(6196).
-text(6196, There's also nothing to stop this from happening now. With legalisation we could work to regulate it and ensure that it stays(mostly) pure, unlike we did with tonaccco).
-att(6196, root).
-
-arg(5757).
-text(5757, You fail to mention the negative side effects of marijuana. Because of these side effects, very few working people would be able to use it, effectively making 'legalization' a moot point aside from a few extreme outliers because nobody who contributes to society would be able to use it).
-att(5757, root).
-
-arg(5968).
-text(5968, It should be regulated similar to cigarettes and alcohol. This means no public smoking and no use under the age of 21.).
-att(5968, root).
-
-arg(6740).
-text(6740, A government's purpose depends on its citizenship and rulers. The US constitution for example does not mention protecting its people in its preamble. It has more vague concepts such as 'domestic tranquility' which does not require protecting people from themselves if those people die without a fuss.).
-att(6740, root).
-
 arg(5643).
 text(5643, This same argument holds for any kind of illegal goods. Legalizing any such thing is not viable.).
 att(5643, 5635).
 
-arg(5837).
-text(5837, Legalizing it would allow to administer the drug in a proper environment, with advising and counseling. Contacts don't do this part.).
-support(5837, root).
-
 arg(6063).
 text(6063, The evidence you cited was not only irrelevant to your point, but also extremely outdated. ).
-att(6063, root).
+att(6063, 5998).
 
 arg(6836).
 text(6836, Spending billions on imprisoning citizens for smoking something with the potential to make them lazy is also bad for the country.).
 att(6836, 6703).
-
-arg(5981).
-text(5981, Just like the consumption of Alcohol and Tobacco, the consumption of Marijuana is at your own risk.).
-att(5981, root).
-
-arg(5984).
-text(5984, It is a highly beneficial cash crop. Legalization would create a larger industry, providing more job opportunities. Due to its popular demand, taxation would bring millions in revenue, which could be used to better fund social welfare programs, outweighing any socially negative side effects.).
-support(5984, root).
-
-arg(7158).
-text(7158, You will get the munchies more often with easy access to marijuana.).
-att(7158, root).
 
 arg(7019).
 text(7019, Freedom).
@@ -191,10 +156,6 @@ text(7183, Psychedelics such as LSD are actually safe to use. It can even aid in
 As for cocaine and meth, we're arguing about legalization. People are going to use this drug no matter what. Legalizing it will help regulate the potency and the purity of the drug.).
 att(7183, 6014).
 
-arg(6095).
-text(6095, Recent studies show that even moderate use of Marijuana causes harmful abnormalities to develop in the brains of teens.).
-att(6095, root).
-
 arg(6102).
 text(6102, Other regulated drugs, under the same premise, have seen significant problems.  Take, for instance, tobacco, which has seen many additives which are industry standard, and are demonstrably dangerous.  Marijuana could easily see a similar issue.).
 att(6102, 5837).
@@ -203,27 +164,103 @@ arg(6876).
 text(6876, 1. Rehab is not provided solely by the government. 
 2. People already smoke marijuana and go to rehab for help. This number isn't likely to change (much). 
 3. Taxation on alcohol by far and away covers the cost of building a rehab clinic. We will likely see the same with marijuana. ).
-att(6876, root).
+att(6876, 6653).
 
 arg(7029).
 text(7029, The policy is inconsistent with basic freedom.  The potential consequences of freedom, positive or negative, are not the question here.).
 att(7029, 6014).
 
-arg(6105).
-text(6105, People who are smoking marijuana, due to the illegality, are being restricted from jobs in which they could potentially contribute to society.).
-support(6105, root).
+arg(6116).
+text(6116, Marijuana has been proven to cure cancer when hitting the CB1 receptor. CBD has also been proven to tap into neurotransmitters which assist in physiological healing of the central nervous and muscular systems. ).
+att(6116, 5806).
 
-arg(6885).
-text(6885, Tax it. Then use the tax money to pay teachers to educate students on drugs instead of putting a red line over the word and expecting them not to get curious when they walk away. ).
-support(6885, root).
+arg(6615).
+text(6615, Government exists to protect the people, so I doubt that laws should be made or broken based on the fact that it is alright for some people to die).
+att(6615, 6610).
+
+arg(6898).
+text(6898, that is more of an argument to ban alcohol, than it is to un-ban marijuana.).
+att(6898, 6653).
+
+arg(6623).
+text(6623, Consuming these things also poses a risk for other people. See: second-hand smokers, drunk driving.).
+att(6623, 5981).
+
+arg(5726).
+text(5726,   Some goods prove to be more harmful to the general-welfare of the public than others.  ).
+att(5726, 5643).
+
+arg(5810).
+text(5810, Countries like Portugal HAVE legalized all drugs (in small amounts) and it has resulted in statistically lowered crime and drug related deaths all while providing more funding for clinical addiction treatment and aid.).
+att(5810, 5643).
+
+arg(5896).
+text(5896, This does not prove a causation. Having more people of a certain race get charged for a certain crime does not indicate that the law was/is designed to target those people. This is just a positive correlation.).
+att(5896, 5835).
+
+arg(6976).
+text(6976, This is unrelated to recreational pot use.).
+att(6976, 6777).
+
+arg(5748).
+text(5748, There already exists more dangerous, LEGAL substances that are detrimental to society. Just because something is previously labeled as "illegal" does not mean it is forever "illegal").
+att(5748, 5643).
+
+arg(6191).
+text(6191, This is talking about legislation in general, not federal specifically.).
+att(6191, 5990).
+
+arg(6982).
+text(6982, Actually, revenue from taxes collected for alcohol are much lower than you think.).
+att(6982, 6876).
+
+arg(5837).
+text(5837, Legalizing it would allow to administer the drug in a proper environment, with advising and counseling. Contacts don't do this part.).
+support(5837, root).
+
+arg(6196).
+text(6196, There's also nothing to stop this from happening now. With legalisation we could work to regulate it and ensure that it stays(mostly) pure, unlike we did with tonaccco).
+att(6196, 6102).
+
+arg(5984).
+text(5984, It is a highly beneficial cash crop. Legalization would create a larger industry, providing more job opportunities. Due to its popular demand, taxation would bring millions in revenue, which could be used to better fund social welfare programs, outweighing any socially negative side effects.).
+support(5984, root).
+
+arg(6740).
+text(6740, A government's purpose depends on its citizenship and rulers. The US constitution for example does not mention protecting its people in its preamble. It has more vague concepts such as 'domestic tranquility' which does not require protecting people from themselves if those people die without a fuss.).
+att(6740, 6615).
+
+arg(7158).
+text(7158, You will get the munchies more often with easy access to marijuana.).
+att(7158, root).
+
+arg(5981).
+text(5981, Just like the consumption of Alcohol and Tobacco, the consumption of Marijuana is at your own risk.).
+att(5981, 5962).
 
 arg(8676).
 text(8676, There is precedent for legalization, in many different cases.).
 support(8676, root).
 
-arg(6116).
-text(6116, Marijuana has been proven to cure cancer when hitting the CB1 receptor. CBD has also been proven to tap into neurotransmitters which assist in physiological healing of the central nervous and muscular systems. ).
-att(6116, 5806).
+arg(6095).
+text(6095, Recent studies show that even moderate use of Marijuana causes harmful abnormalities to develop in the brains of teens.).
+att(6095, 6082).
+
+arg(6105).
+text(6105, People who are smoking marijuana, due to the illegality, are being restricted from jobs in which they could potentially contribute to society.).
+support(6105, 6011).
+
+arg(6885).
+text(6885, Tax it. Then use the tax money to pay teachers to educate students on drugs instead of putting a red line over the word and expecting them not to get curious when they walk away. ).
+support(6885, 6242).
+
+arg(5635).
+text(5635, Regardless of legality, people will find a way to attain marijuana. Legalizing it and taxing it provides funds for the state.).
+support(5635, root).
+
+arg(5968).
+text(5968, It should be regulated similar to cigarettes and alcohol. This means no public smoking and no use under the age of 21.).
+att(5968, root).
 
 arg(14915).
 text(14915, This was a very poor study, with a very small sample size of 20 and based on only 1 MRI of each person. 
@@ -247,10 +284,6 @@ arg(14917).
 text(14917, That is why we have laws in place against those types of things. There are laws now days that prevent people from smoking in certain areas like: having a legal distance from public facilities and other establishments. No longer can you smoke in airplanes, hospitals, your workplace, etc.).
 att(14917, 6623).
 
-arg(6771).
-text(6771, The negative effects from "constant or frequent use" is the reason that both alcohol and cigarettes are heavily regulated. Minors could use alcohol or cigarettes and have no significant or noticeable harm done to them, but regulations are in place to prevent substance abuse. As should marijuana.).
-att(6771, root).
-
 arg(5719).
 text(5719, It's pretty dang viable since netherlands invested in renewable energy and education with the money from taxing bitches and weed. What you mean is that it's not absolute.).
 att(5719, 5643).
@@ -267,10 +300,6 @@ arg(14922).
 text(14922, There are many people, like myself, who find it hard gaining an appetite and end up barely eating much in a day. Getting the munchies more often just sounds like a good medical reason to get it legalized.).
 att(14922, 7158).
 
-arg(7150).
-text(7150, A large percentage of the population is using it anyway,  despite its legal status. The government is obliged to protect its citizens from a polluted supply chain, in the control of organized crime. ).
-support(7150, root).
-
 arg(6132).
 text(6132, This was addressed earlier.  I accept this as true, but it is a consistent or frequent administration that causes these.  Infrequent consumption of THC is harmless (in that it's harm is unnoticeable), and so one who understands the risk should use it in moderation relative to it's danger to them.).
 att(6132, 6095).
@@ -279,29 +308,9 @@ arg(15132).
 text(15132, Is this a reason to make it illegal? Then television should be illegal too because it "prevents" me from doing more useful things..).
 att(15132, 7158).
 
-arg(5929).
-text(5929, Bodily Autonomy is a fundamental human right - you own your own body, and can do what you want with it without ethical consequences, as long as your actions aren't directly affecting others (then it becomes an ethical concern).).
-support(5929, root).
-
-arg(5727).
-text(5727, The war on drugs and the prohibition of Marijuana was/is constructed to incarcerate African Americans and other minorities.).
-support(5727, root).
-
-arg(6777).
-text(6777, the world oldest domestic crop, industrial hemp, would also become legal to grow. 1 acre of hemp can produce the same amount of cellulose pulp as 4 acres of trees. because of this, hemp is a perfect material to replace wood in press board and particle board, and paper. ).
-support(6777, root).
-
 arg(7001).
 text(7001, Alcohol and Marijuana are still drugs like all others that can be abused. Does it add weight that the current primary medical application of alcohol is topically for sterilization and the current primary medical application of marijuana is via ingestion? ).
-att(7001, root).
-
-arg(5878).
-text(5878, In your source you provided, it states the number one reason for incarceration of African American males is "non-violent drug offense").
-att(5878, root).
-
-arg(6032).
-text(6032, Many studies have shown that marijuana use during the developmental years of a persons life, including adolescence, have adverse effects on the brain. It can cause damaged neural connectivity in regions of the brain responsible for learning, memory, impulse control, and other functions.).
-att(6032, root).
+att(7001, 6653).
 
 arg(5835).
 text(5835, While the users of drugs are not predominantly one ethnicity like you stated, the amount of African Americans incarcerated for drugs outnumbers other groups by a large amount.).
@@ -317,70 +326,61 @@ att(6082, 6032).
 
 arg(6679).
 text(6679, the state is spending already billions of dollars dedicated to the pursuit of a drug that is less harmful than coffee, alcohol and tobacco. If legalized, just a minuscule percentage could be destined for weed addicts (an even smaller group than the coffee addicts).).
-att(6679, root).
+att(6679, 6653).
 
 arg(5851).
 text(5851, These patients would also benefit from a purely medial legalization of marijuana.).
-att(5851, root).
-
-arg(14280).
-text(14280, Cannabinoid drugs might be useful in the treatment of tinnitus. Previous studies in animals and humans have shown that, in some cases at least, anti-epileptic drugs can reduce the severity of tinnitus.).
-support(14280, root).
+att(5851, 5841).
 
 arg(6020).
 text(6020, This is arbitrary.  Alcohol and cigarettes are regulated because these are demonstrably dangerous to minors (as well as everyone else), but as of yet no evidence has shown marijuana to be harmful to minors.  As such, if no harm is done, there is no reason to restrict minors from using it.).
 att(6020, 5968).
 
-arg(5998).
-text(5998, What about Rastafarianism?
+arg(14921).
+text(14921, From what I understand, brain development occurs up until around the age of 24. Assuming adolescence is the stage of brain development where a lot of development occurs, then, going along with previous age restriction laws, an age restriction of 21 seems like the most socially and scientifically ).
+support(14921, 6166).
 
-In this religion, Cannabis is a sacrament and is utilized in certain rituals.
+arg(6166).
+text(6166, As the articles state, even infrequent use is shown to cause harm to the brains of teens, or any person under the age of 25. Arguing whether or not we should restrict consenting and informed adults from self harm is a different debate. However, legalizing the drug for minors is unethical.).
+att(6166, 6132).
 
-You're correct that no one is "forcing" anyone to break a law, BUT the argument is that it was made illegal to pursue minorities.).
-att(5998, 5911).
+arg(5727).
+text(5727, The war on drugs and the prohibition of Marijuana was/is constructed to incarcerate African Americans and other minorities.).
+support(5727, root).
+
+arg(6777).
+text(6777, the world oldest domestic crop, industrial hemp, would also become legal to grow. 1 acre of hemp can produce the same amount of cellulose pulp as 4 acres of trees. because of this, hemp is a perfect material to replace wood in press board and particle board, and paper. ).
+support(6777, root).
+
+arg(5878).
+text(5878, In your source you provided, it states the number one reason for incarceration of African American males is "non-violent drug offense").
+att(5878, root).
+
+arg(14280).
+text(14280, Cannabinoid drugs might be useful in the treatment of tinnitus. Previous studies in animals and humans have shown that, in some cases at least, anti-epileptic drugs can reduce the severity of tinnitus.).
+support(14280, root).
+
+arg(6032).
+text(6032, Many studies have shown that marijuana use during the developmental years of a persons life, including adolescence, have adverse effects on the brain. It can cause damaged neural connectivity in regions of the brain responsible for learning, memory, impulse control, and other functions.).
+att(6032, 6020).
 
 arg(5970).
 text(5970, The government has no right to determine what I can and can't put into my body, so long as I do no harm to others or put anyone in harms way. I have the right to pursue happiness, even chemically. Besides, how much did CO make in recreational taxes last year? $25.8mil. Think of the economy.).
 support(5970, root).
 
-arg(6653).
-text(6653, There are already 17.3 million people in the U.S. alone who require treatment and rehab for just alcohol abuse. If make marijuana legal in the same situation as alcohol, the state will have spend even more money on rehabilitating weed users as well.).
-att(6653, root).
+arg(7150).
+text(7150, A large percentage of the population is using it anyway,  despite its legal status. The government is obliged to protect its citizens from a polluted supply chain, in the control of organized crime. ).
+support(7150, root).
 
-arg(5728).
-text(5728, It should be moderated and people should get educated about it, as it comes with certain downsides).
-att(5728, root).
+arg(5929).
+text(5929, Bodily Autonomy is a fundamental human right - you own your own body, and can do what you want with it without ethical consequences, as long as your actions aren't directly affecting others (then it becomes an ethical concern).).
+support(5929, root).
 
-arg(5827).
-text(5827, Sorry for not providing sources, here are some that should give me warrant for my argument.).
-att(5827, 5768).
+arg(5757).
+text(5757, You fail to mention the negative side effects of marijuana. Because of these side effects, very few working people would be able to use it, effectively making 'legalization' a moot point aside from a few extreme outliers because nobody who contributes to society would be able to use it).
+att(5757, 5719).
 
-arg(6694).
-text(6694, To legalize a psychotropic drug for recreational use on the grounds that one ethnic group or race is disproportionally charged with illegal possession of it would not be a logical solution. This law is not responsible for their treatment, so their treatment is not grounds to abolish the ban on pot.).
-support(6694, 6683).
-
-arg(6610).
-text(6610, That's what we call Natural Selection.).
-att(6610, 6014).
-
-arg(14919).
-text(14919, Harry J Anslinger is, for the most part, the reason why hemp became illegal. Of course, in order to instill fear in the American Public, he had to make it sound foreign and exotic, hence the name marijuana.
-Not only that, a close friend of Anslinger was William Randolph Hearst, who was invested in).
-att(14919, 6063).
-
-arg(14918).
-text(14918, Other laws (involving alcohol) also help prevent harm coming to others. Drunk driving, for example, is illegal. Same with any other drug, you can't use it and drive. Public intoxication is another thing you can't do. There are a few others but you get the point. The drug isn't doing this, it's the).
-att(14918, 6623).
-
-arg(14921).
-text(14921, From what I understand, brain development occurs up until around the age of 24. Assuming adolescence is the stage of brain development where a lot of development occurs, then, going along with previous age restriction laws, an age restriction of 21 seems like the most socially and scientifically ).
-support(14921, 6166).
-
-arg(15986).
-text(15986, ).
-support(15986, root).
-
-arg(5841).
-text(5841, it is helpful for those who are fighting against cancer. Don't make it harder for them than it already is.).
-support(5841, root).
+arg(6771).
+text(6771, The negative effects from "constant or frequent use" is the reason that both alcohol and cigarettes are heavily regulated. Minors could use alcohol or cigarettes and have no significant or noticeable harm done to them, but regulations are in place to prevent substance abuse. As should marijuana.).
+att(6771, 6082).
 

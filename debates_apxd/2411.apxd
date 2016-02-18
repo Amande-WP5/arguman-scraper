@@ -3,47 +3,69 @@ text(root, There is no "self").
 
 arg(16314).
 text(16314, You could duplicate the process in a way that keep the so called "continuity" to the two "new" processes.).
-att(16314, root).
+att(16314, 16312).
 
 arg(16313).
 text(16313, There is no real "continuity" in your own corps.
 "small" in "small change" is subjective.).
-att(16313, root).
+att(16313, 16312).
 
 arg(16312).
 text(16312, What about continuity ?).
-att(16312, root).
-
-arg(16310).
-text(16310, "Self" could refer to two things
-
-- Actual feelings/thought/"subjective world", which is inherently unique but are not persistent
-
-- Corps, a physical process, which is persistent, but aren’t inherently unique
-
-We believe of a persistent and unique "self" because of a confusion :).
-support(16310, root).
+att(16312, 16308).
 
 arg(16309).
 text(16309, A particular physical process.).
-att(16309, root).
+att(16309, 16232).
+
+arg(16222).
+text(16222, "self" is reasoning/thinking).
+support(16222, 16216).
+
+arg(16219).
+text(16219, "self" is the feelings/emotions).
+support(16219, 16216).
+
+arg(16217).
+text(16217, "self" is the physical body).
+support(16217, 16216).
+
+arg(16218).
+text(16218, physical appearance change constantly, but this thing we call "self" doesn't change).
+att(16218, 16217).
 
 arg(16308).
 text(16308, But then "self", could refer to different physical entities at the same time, if we duplicate the process.).
-att(16308, root).
+att(16308, 16307).
 
 arg(16307).
 text(16307, Self is a physical process.
 (like a program running, everything change, except the process)).
-support(16307, root).
+support(16307, 16216).
 
 arg(16306).
 text(16306, If it was, then we could not know it exists and speak about it.).
-att(16306, root).
+att(16306, 16228).
 
 arg(16239).
 text(16239, The physical body(or even abstractly speaking, mind) sitting here is only a narrow view of "self". "self" is not bounded by time or location. e.g. I can say "I" did something yesterday.).
-att(16239, root).
+att(16239, 16232).
+
+arg(16228).
+text(16228, "self" is beyond perception).
+att(16228, root).
+
+arg(16229).
+text(16229, Not likely, because when you die, you die, no more "self". Therefore, "self" is bounded by the physical body).
+att(16229, 16228).
+
+arg(16225).
+text(16225, our thinking is influenced by environment. We think differently under different conditions. But "self" stands still).
+att(16225, 16222).
+
+arg(16220).
+text(16220, emotions change constantly, but we still refer to us as "self").
+att(16220, 16219).
 
 arg(16232).
 text(16232, If there is no self, then who’s sitting here?).
@@ -57,35 +79,13 @@ arg(16230).
 text(16230, I cannot find this thing that we call "self").
 support(16230, root).
 
-arg(16229).
-text(16229, Not likely, because when you die, you die, no more "self". Therefore, "self" is bounded by the physical body).
-att(16229, root).
+arg(16310).
+text(16310, "Self" could refer to two things
 
-arg(16228).
-text(16228, "self" is beyond perception).
-att(16228, root).
+- Actual feelings/thought/"subjective world", which is inherently unique but are not persistent
 
-arg(16225).
-text(16225, our thinking is influenced by environment. We think differently under different conditions. But "self" stands still).
-att(16225, root).
+- Body, a physical process, which is persistent, but aren’t inherently unique
 
-arg(16222).
-text(16222, "self" is reasoning/thinking).
-support(16222, 16216).
-
-arg(16220).
-text(16220, emotions change constantly, but we still refer to us as "self").
-att(16220, root).
-
-arg(16219).
-text(16219, "self" is the feelings/emotions).
-support(16219, 16216).
-
-arg(16217).
-text(16217, "self" is the physical body).
-support(16217, 16216).
-
-arg(16218).
-text(16218, physical appearance change constantly, but this thing we call "self" doesn't change).
-att(16218, 16217).
+We believe of a persistent and unique "self" because of a confusion :).
+support(16310, root).
 

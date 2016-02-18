@@ -1,9 +1,17 @@
 arg(root).
 text(root, Abercrombie and Fitch objectifies men).
 
-arg(9009).
-text(9009, The thing is that sexual attraction is the easiest tool in advertisement to use, because we as humans are sexual beings, and get a dopamine rush when we see something arousing. This is a biological instinct, and therefore objectification of bodies will always be used by advertisers.).
-att(9009, root).
+arg(8826).
+text(8826, From a bullshit social standpoint. But in reality neither is an issue.).
+att(8826, 8822).
+
+arg(8856).
+text(8856, There can be no plausible reason to believe objectification is not an issue. It has been shown time and time again how objectification has had a negative effect on confidence, respecting others, rape, the potential to achieve, and overall gender discrimination.).
+att(8856, 8826).
+
+arg(8825).
+text(8825, Here's the thing. No one who has half a brain cares about men or women being objectified in a field of pure physical nature. The whole industry is based around how OBJECTIVELY attractive they are.).
+att(8825, root).
 
 arg(9013).
 text(9013, I wonder if homophobia is a product of male sexual repression through religious puritanism and/or modern cultural shaming of male sexuality. When was the last time a teenage boy was sent home for his clothes being too tight? There's inherent revulsion among men about putting their bodies on display.).
@@ -13,15 +21,7 @@ arg(8822).
 text(8822, Objectifying men has traditionally not been as much of a problem as objectifying women.).
 att(8822, root).
 
-arg(8825).
-text(8825, Here's the thing. No one who has half a brain cares about men or women being objectified in a field of pure physical nature. The whole industry is based around how OBJECTIVELY attractive they are.).
-att(8825, root).
-
-arg(8826).
-text(8826, From a bullshit social standpoint. But in reality neither is an issue.).
-att(8826, 8822).
-
-arg(8856).
-text(8856, There can be no plausible reason to believe objectification is not an issue. It has been shown time and time again how objectification has had a negative effect on confidence, respecting others, rape, the potential to achieve, and overall gender discrimination.).
-att(8856, 8826).
+arg(9009).
+text(9009, The thing is that sexual attraction is the easiest tool in advertisement to use, because we as humans are sexual beings, and get a dopamine rush when we see something arousing. This is a biological instinct, and therefore objectification of bodies will always be used by advertisers.).
+att(9009, root).
 

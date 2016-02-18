@@ -1,74 +1,14 @@
 arg(root).
 text(root, You can be a Christian and still endorse same-sex marriage).
 
-arg(9658).
-text(9658, I agree, and this website's ranking system promotes an appeal to popularity rather than sound argument. ).
-support(9658, root).
-
-arg(9610).
-text(9610, The NT Bible defines homosexuality and sodomy as transgressions or sin which will prevent one from entering heaven. While arsenokoitēs, malakos, and porneia (gr.) can also refer to pederasty and prostitution, literature from the same period shows common usage of same-sex relations.).
-att(9610, root).
-
-arg(9662).
-text(9662, But, I think this is too Meta theological, since absoluteness is assumed by christians (or certain sects) when it comes to the bible as truth.).
-att(9662, root).
-
-arg(9659).
-text(9659, We have over 20 thousand manuscripts. And extrabiblical historians supporting internal accounts. People doubted Isaiah was written before Christ because of its accuracy, then they discovered the dead sea scrolls. Dating left the liberals without a solid argument. Completed hundreds of years before J).
-support(9659, root).
-
-arg(9664).
-text(9664, It depends on how LGBT Christians think of themselves. For instance, a gay man might be christian first but sin according to his desires. This wouldn't be different from every other heterosexual christian, yet commits sin regularly.This isn't like asking can a theist be an atheist.).
-support(9664, root).
-
-arg(9630).
-text(9630, It's not part of the ten commandments and the other sections of the bible were rewritten over and over again throughout the centuries by man. How are we to know what is true and what is exaggerated? ).
-att(9630, root).
-
-arg(9667).
-text(9667, How can a heterosexual christian be both a sinner and a christian? All christians are told they are sinners. How is homosexual desires exceptional as to exclude them from the faith?).
-att(9667, root).
-
-arg(9670).
-text(9670, Truth and falsity are absolute.  Either X is the case or it is not the case.  In a colloquial sense, we might say with or without that omission/addition it would be true and compare it to something with more mistakes, but in the end they are both false.).
-att(9670, root).
-
-arg(9553).
-text(9553, But the bible says Adam and Eve not Adam and Steve).
-att(9553, root).
-
-arg(9633).
-text(9633, Logic is objective and therefore people's opinions are irrelevant. Second, people may call themselves what they please, but to be Christian you must adhere to Christian principles, by your logic, I could be a Christian without actually believing in God, just because I want to.).
-att(9633, root).
-
 arg(9585).
 text(9585, Matthew 19:4 “Have you not read that he who created them from the beginning made them male and female". You cannot be a Christian or follower of Christ and not follow Christ. It matters not on this subject what we think, but rather that Jesus referred to Genesis as an historical record.
 ).
 att(9585, 9553).
 
-arg(9611).
-text(9611, One opinion might be "closer to the truth" than the other, assuming that there is one, absolute "truth". I disagree that one can call their own interpretation closer to the truth than the other, because, as said, it is a matter of opinions and interpretations. We cannot view the world objectively.).
-support(9611, root).
-
-arg(9586).
-text(9586, Based on christian teaching, god created humans with free will and the power of choice. As a christian you have that choice.).
-support(9586, root).
-
-arg(9612).
-text(9612, Jesus said nothing about homosexuality, and most of the old testament restrictions were lifted, so it's not central to the message of Christ in any way shape or form. A follower of Christ should focus on Christ's message, and let God sort out the rest.).
-att(9612, root).
-
 arg(9587).
 text(9587, Have you not read? That is the question Jesus is asking. ).
 support(9587, 9585).
-
-arg(9613).
-text(9613, Who has the right to decide who is a Christian and not? There are, in fact, people who count themselves as Christians who endorse same-sex marriage, thus the statement is true.).
-support(9613, root).
-
-arg(9614).
-text(9614, You are not truly Christian even though you may call yourself one unless you uphold, follow, and meet the requirements of the Bible. Therefore to claim to be Christian and defy or be against Christianity is illogical.).
-att(9614, root).
 
 arg(9589).
 text(9589, False premise, the Bible does not teach the sovereignty of man but of God. If God is sovereign and man refuses, by your argument man is soverign. ).
@@ -77,14 +17,6 @@ att(9589, 9586).
 arg(9615).
 text(9615, You disagree because you think you're closer to the truth?).
 support(9615, 9611).
-
-arg(9591).
-text(9591, Would you agree or not agree that one may be closer to the truth than another? Raise your hand or keep it down so everyone can see, please. ).
-att(9591, root).
-
-arg(9575).
-text(9575, Underlying premise of "Biblical Christianity": The New Testament and the birth, life, death, and resurrection of Christ are the fulfillment or completion of the Old Testament. The NT unequivocally delineates a few forbidden behaviors for Gentiles. Among those are homosexuality and sodomy.).
-att(9575, root).
 
 arg(9619).
 text(9619, First of all, that it's illogical to you does not mean that it's illogical to others. That is your definition of a Christian; Why is your definition more right than theirs? Are orthodox Christians the only ones who can call themselves Christians?).
@@ -96,13 +28,73 @@ text(10154, Jesus said "don't think I came to enable the laws of the prophets
 So he was referring to the OT and speaks indirectly out against homosexuality).
 att(10154, 9612).
 
+arg(10167).
+text(10167, This cannot be true because parts of the bible have rules that no Christian follows in modern times. Many Christians wear revealing clothing, marry someone even if they aren't a virgin, plant different types of seeds in the same garden, are against slavery etc.).
+att(10167, 9614).
+
+arg(9610).
+text(9610, The NT Bible defines homosexuality and sodomy as transgressions or sin which will prevent one from entering heaven. While arsenokoitēs, malakos, and porneia (gr.) can also refer to pederasty and prostitution, literature from the same period shows common usage of same-sex relations.).
+att(9610, 9578).
+
+arg(9662).
+text(9662, But, I think this is too Meta theological, since absoluteness is assumed by christians (or certain sects) when it comes to the bible as truth.).
+att(9662, 9578).
+
+arg(9659).
+text(9659, We have over 20 thousand manuscripts. And extrabiblical historians supporting internal accounts. People doubted Isaiah was written before Christ because of its accuracy, then they discovered the dead sea scrolls. Dating left the liberals without a solid argument. Completed hundreds of years before J).
+support(9659, 9630).
+
+arg(9586).
+text(9586, Based on christian teaching, god created humans with free will and the power of choice. As a christian you have that choice.).
+support(9586, root).
+
+arg(9630).
+text(9630, It's not part of the ten commandments and the other sections of the bible were rewritten over and over again throughout the centuries by man. How are we to know what is true and what is exaggerated? ).
+att(9630, 9614).
+
+arg(9658).
+text(9658, I agree, and this website's ranking system promotes an appeal to popularity rather than sound argument. ).
+support(9658, 9633).
+
+arg(9667).
+text(9667, How can a heterosexual christian be both a sinner and a christian? All christians are told they are sinners. How is homosexual desires exceptional as to exclude them from the faith?).
+att(9667, 9633).
+
+arg(9670).
+text(9670, Truth and falsity are absolute.  Either X is the case or it is not the case.  In a colloquial sense, we might say with or without that omission/addition it would be true and compare it to something with more mistakes, but in the end they are both false.).
+att(9670, 9591).
+
+arg(9613).
+text(9613, Who has the right to decide who is a Christian and not? There are, in fact, people who count themselves as Christians who endorse same-sex marriage, thus the statement is true.).
+support(9613, root).
+
+arg(9633).
+text(9633, Logic is objective and therefore people's opinions are irrelevant. Second, people may call themselves what they please, but to be Christian you must adhere to Christian principles, by your logic, I could be a Christian without actually believing in God, just because I want to.).
+att(9633, 9619).
+
+arg(9611).
+text(9611, One opinion might be "closer to the truth" than the other, assuming that there is one, absolute "truth". I disagree that one can call their own interpretation closer to the truth than the other, because, as said, it is a matter of opinions and interpretations. We cannot view the world objectively.).
+support(9611, 9591).
+
+arg(9614).
+text(9614, You are not truly Christian even though you may call yourself one unless you uphold, follow, and meet the requirements of the Bible. Therefore to claim to be Christian and defy or be against Christianity is illogical.).
+att(9614, root).
+
+arg(9612).
+text(9612, Jesus said nothing about homosexuality, and most of the old testament restrictions were lifted, so it's not central to the message of Christ in any way shape or form. A follower of Christ should focus on Christ's message, and let God sort out the rest.).
+att(9612, 9575).
+
+arg(9575).
+text(9575, Underlying premise of "Biblical Christianity": The New Testament and the birth, life, death, and resurrection of Christ are the fulfillment or completion of the Old Testament. The NT unequivocally delineates a few forbidden behaviors for Gentiles. Among those are homosexuality and sodomy.).
+att(9575, root).
+
 arg(9578).
 text(9578, This depends on one's interpretation of the bible and of the religion's guidelines. There are no interpretations that are objectively correct, thus the statement cannot be absolute right or wrong. We refer to religion as "belief" for a reason.).
 att(9578, root).
 
-arg(10167).
-text(10167, This cannot be true because parts of the bible have rules that no Christian follows in modern times. Many Christians wear revealing clothing, marry someone even if they aren't a virgin, plant different types of seeds in the same garden, are against slavery etc.).
-att(10167, 9614).
+arg(9591).
+text(9591, Would you agree or not agree that one may be closer to the truth than another? Raise your hand or keep it down so everyone can see, please. ).
+att(9591, 9578).
 
 arg(10454).
 text(10454, you only have to choose the right flavor of christianity.).
@@ -111,4 +103,12 @@ support(10454, root).
 arg(10184).
 text(10184, Being a Christian means following the teachings of Christ, whose main belief was love for all.).
 support(10184, root).
+
+arg(9553).
+text(9553, But the bible says Adam and Eve not Adam and Steve).
+att(9553, root).
+
+arg(9664).
+text(9664, It depends on how LGBT Christians think of themselves. For instance, a gay man might be christian first but sin according to his desires. This wouldn't be different from every other heterosexual christian, yet commits sin regularly.This isn't like asking can a theist be an atheist.).
+support(9664, root).
 

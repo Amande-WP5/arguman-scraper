@@ -1,3 +1,7 @@
 arg(root).
 text(root, Intelligent Design is a reasonable hypothesis.).
 
+arg(17854).
+text(17854, It appears as though life intelligently responds to its environment to change its design, thereby adapting and evolving.).
+support(17854, root).
+

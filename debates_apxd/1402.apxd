@@ -1,13 +1,13 @@
 arg(root).
 text(root, Israel should stop it's illegal military nuclear program and eradicate the illegal colonization of Palestinian territories.).
 
-arg(6690).
-text(6690, This would improve living conditions for Palestinians).
-support(6690, root).
-
 arg(7719).
 text(7719, There is no international law governing nuclear weapons, thus the Israeli nuclear program is legal because it abides to the Israeli law.
 
 It is true that Israel didn't sign the  Non-Proliferation Treaty.).
 att(7719, root).
+
+arg(6690).
+text(6690, This would improve living conditions for Palestinians).
+support(6690, root).
 

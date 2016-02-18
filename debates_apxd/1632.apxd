@@ -1,10 +1,6 @@
 arg(root).
 text(root, Global tax system should be implemented).
 
-arg(8899).
-text(8899, Every country who would bail out of the deal would be favored by big companies, making it a tax heaven again. You would have to force every country into the deal.).
-att(8899, root).
-
 arg(8875).
 text(8875, You get rid of tax havens.).
 support(8875, root).
@@ -20,4 +16,8 @@ support(9229, 9223).
 arg(8970).
 text(8970, You could in addition to this(due to the majority of nations agreeing on a global tax system(assumingly)) ensure that some form of punishment would take place for corporations moving outside of that system.).
 att(8970, 8899).
+
+arg(8899).
+text(8899, Every country who would bail out of the deal would be favored by big companies, making it a tax heaven again. You would have to force every country into the deal.).
+att(8899, 8875).
 

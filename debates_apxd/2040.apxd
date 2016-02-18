@@ -9,7 +9,30 @@ arg(13489).
 text(13489, By which measure does one objectively weigh how much "good" or "bad" an outcome is? ).
 att(13489, root).
 
+arg(16678).
+text(16678, Helping someone is not as good as killing is bad).
+att(16678, 16673).
+
+arg(16755).
+text(16755, What does "secular research" have to do with this, other than constructing a red herring?
+By the way, most research is secular. I don't think you know the definition properly.).
+att(16755, 16673).
+
+arg(16673).
+text(16673, Many people have been killed in the name of secular research or "woman's choice" in abortion. Some religions also focus more on help others- whether they share the same beliefs or not. Many crimes done in the name of a religion completely disregarded the religion's principles- it was done by man  ).
+att(16673, 13553).
+
 arg(13499).
 text(13499, It is impossible to prove this argument objectively. One religion's measure of "good" and "bad" can be entirely independent of another's.).
 att(13499, root).
+
+arg(19308).
+text(19308, would you apply the same logic to the Police.  The Police do good, but they have also killed human beings. - So does their overall good not out-weigh the killing of some humans?).
+att(19308, 13553).
+
+arg(19325).
+text(19325, they only kill to prevent themself or others and try to only injure if possible 
+if they kill someone.
+if they kill for other reasons they'd get punished.).
+att(19325, 19308).
 

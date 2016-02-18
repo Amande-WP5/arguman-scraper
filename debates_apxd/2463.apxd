@@ -1,0 +1,76 @@
+arg(root).
+text(root, Consciousness is nothing more than a biological computer having enough time on its hands to contemplate its own existence.  ).
+
+arg(16815).
+text(16815, We don't know if computers will ever be able to contemplate its own existence; this level of cognition has never been reached to this day.
+
+As long as we don't reach it, there is still a possibility that consciousness can't be based on a mecanism.).
+att(16815, root).
+
+arg(17614).
+text(17614, Mind is not an entity).
+att(17614, 17607).
+
+arg(17613).
+text(17613, This proof fetishism tastes like burned pumpkin. What proof do you need? We know a great deal about the emergent qualities of mind, and that it can only emerge from a body. Mind is nothing but a capacity of bodies. There are bodies, ideas strolling around, and some obsessed with boring dualities. ).
+att(17613, 17607).
+
+arg(16883).
+text(16883, A computer can evolve itself without being created by a conscious being.).
+att(16883, 16809).
+
+arg(16882).
+text(16882, Computers aren’t abstract mathematical objects, they are physical objects.
+Then "consciousness cannot be reduced to computing, to mathematical calculations and such" could be true, but it doesn’t imply computers can’t have consciousness.).
+att(16882, 16809).
+
+arg(17607).
+text(17607, The mind-body problem isn't solved at all since we don''t know how those two entities are linked. We know they are linked, but we don't know how.
+
+And we have no proof consciousness is based on material relations.).
+att(17607, 17605).
+
+arg(18443).
+text(18443, I agree with you, but you've already made this point, and you offered no further explanation. This just taints the statistics on the argument.).
+att(18443, 17614).
+
+arg(17605).
+text(17605, The mind-body problem is solved, there is no problem: Dont skip drinking and eating for long, or you will have nomind. Or, consciousness is based on material relations (mechanism s too cognitive), yet those relations are morethan dynamic and complex. Batter ways to counter mechanists than metaphysik).
+att(17605, 16814).
+
+arg(16814).
+text(16814, We have no proof consciousness is entirely based on a material mecanism. Since we haven't solved the mind-body problem, we can't affirm that kind of statement.).
+att(16814, root).
+
+arg(16929).
+text(16929, It is indeed currently the only way we can explain the evolution and creation of life; for all that, it doesn't make it valid.
+
+The theory of evolution, and how life appeared are two very different things.
+We almost don't know how life appeared,  and prebiotic chemistry is widely controversial.).
+att(16929, 16928).
+
+arg(16928).
+text(16928, According to Evolution theory, that's exactly what happens with life : life appears in a way that allows it to evolve by itself. If not, we can't explain scientifically the diversity of species.).
+att(16928, 16887).
+
+arg(16897).
+text(16897, There's also no evidence to show that it *isn't* a physical process. The burden of proof falls on those who claim an external mind/soul exists. Burden of proof is on the *positive claim*.).
+att(16897, 16814).
+
+arg(16887).
+text(16887, A computer can evolve itself, but it has to be created by something in the first place; and created in a way that allows it to evolve by itself.).
+att(16887, 16883).
+
+arg(16881).
+text(16881, there are also no proof that computer didn’t already do that.
+"to contemplate its own existence" could be independent of a particular level of cognition. (it doesn’t seem to require any complex thinking.)).
+att(16881, 16815).
+
+arg(16809).
+text(16809, Consciousness cannot be reduced to computing, to mathematical calculations and such, computers will never contemplate or question anything, unless programmed by a conscious being to do so. Because a computer can't evolve itself, it must be created by a conscious being.).
+att(16809, root).
+
+arg(17604).
+text(17604, Sorry, but what does it mean to "contemplate", and "having enough time" for a merely computing agent? What is this agent going to contemplate about (compute if you like) all that "time"? :D).
+att(17604, root).
+

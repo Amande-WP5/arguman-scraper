@@ -1,0 +1,274 @@
+arg(root).
+text(root, Bernie Sanders policies represent the publics needs more effectively than other candidates.).
+
+arg(18964).
+text(18964, That's an opinion. Change "better" to "more effective" or "more relevant" and you've got more of an argument; still, though, it'll be tough to separate from personal bias.).
+att(18964, root).
+
+arg(19422).
+text(19422, "more effective" is still relative if you don’t say about what it will be more effective.).
+att(19422, 18964).
+
+arg(19437).
+text(19437, Yes, this is what i am saying, people change their opinions, not their interests.
+
+"this party didn't work last time", mean that the party didn’t meet the interests that they thought the party would meet.).
+att(19437, 19431).
+
+arg(19436).
+text(19436, But they have way to win or to lose money by betting on one companies or on the other.
+
+The analogy is about assuming that the outcome of the acts of someone (voting / betting), was probably one of their goal. (winning or losing money / the outcome of the policy)).
+att(19436, 19433).
+
+arg(19435).
+text(19435, I don’t see why this is a "but", you are essentially saying the same thing than me.).
+att(19435, 19432).
+
+arg(19433).
+text(19433, This is a bad analogy because the people on the stock market have no way to affect change in the companies they're investing in. They can only look at their current course and extrapolate.).
+att(19433, 19421).
+
+arg(19434).
+text(19434, I don’t assume all candidate are lying about all things.
+But a lot of candidate lie, for particular things, the examples of lie are numerous.
+And there is no way to know if they are lying or not.
+
+It doesn’t mean there is no incentive to vote for anyone, people can lie more or less.).
+att(19434, 19430).
+
+arg(19432).
+text(19432, You don't know the outcome of any policy. This is equally applicable to the politicians themselves. Any theory that assumes politics is any more than slightly-evidence-based speculation is incorrect.).
+att(19432, 19419).
+
+arg(19431).
+text(19431, It is not improbable that the people's opinion on what they need changes. If people didn't change their mind based on new evidence, they wouldn't be rational. They may not always take the best evidence into account but "this party didn't work last time" seems reasonable.).
+att(19431, 19420).
+
+arg(19430).
+text(19430, If you assume all available candidates are lying, there's no incentive to vote for anyone. Democracy only works when a large portion is honest.).
+att(19430, 19418).
+
+arg(19429).
+text(19429, Considering a ranked voting system goes by individual candidates, that makes no sense.).
+att(19429, 19417).
+
+arg(19423).
+text(19423, You need to choose a aggregate function to define the public’s interests from the individuals interests.
+The aggregate function you choose, will change what is the public’s interests.).
+att(19423, 19004).
+
+arg(19421).
+text(19421, A good analogy about what you said could be "the bets on the stock market, is a good indicator of if the bettors want to lose or win money").
+support(19421, 19419).
+
+arg(19420).
+text(19420, It is improbable that the interests of people change as often as the elected party.
+If the party being elected change so often, it is because people are trying to find who really meet their interests.).
+support(19420, 19417).
+
+arg(19419).
+text(19419, They don’t know what will be the outcomes of each particular policies.
+A proof is that there is absolutely no agreement about how things will go.).
+support(19419, 19417).
+
+arg(19467).
+text(19467, Why do we need someone to represent our interests, either individually or as part of a group of people sharing interests? Do we not feel capable of representing or own interests? ).
+att(19467, root).
+
+arg(19489).
+text(19489, and the followup question would be "What should we do with people whose needs are not served by our ideas and our systems? Should we disregard their needs as unimportant? should we force them to comply with systems they do not agree with?" ).
+att(19489, 19486).
+
+arg(19488).
+text(19488, I do think that it meets more needs of more people than a monarch could. It's the worst form of government, if you forget about all the other forms we've tried so far.).
+att(19488, 19486).
+
+arg(19486).
+text(19486, a better question would be "Does democracy (or oligarchy such as we have in the US) meet the needs of all people" and the answer would be no.).
+att(19486, 19480).
+
+arg(19485).
+text(19485, For my part, i am not at all discussing a political point of view, neither some wisdom about what we ought to do or not to do (thing as "you should not try to help people against their will").
+
+What i am discussing is a philosophical point of view, about what is.).
+att(19485, 19484).
+
+arg(19484).
+text(19484, Ok, forgot the other branches, because here is our core disagreement, and all of what i said make no sense if "opinion = interest".
+
+I am still unsure if we disagree only on definitions, if we disagree on a philosophical point of view, or if we disagree on a political point of view.).
+att(19484, 19472).
+
+arg(19480).
+text(19480, Because he was voted in by people who thinks he represents their interests. If he is voted into the presidency, it will because the majority of voters believe he most represents their interests (of the choices available).
+
+I suppose the real question is, do you have a problem with democracy?).
+att(19480, 19476).
+
+arg(19479).
+text(19479, Your statements: "I don't assume all [people] are [acting in bad faith]. But a lot of [people] [do], for particular things, the examples of lies are numerous, and there is no way to know if they are lying or not." lead to: "So why should I help them if I can't trust them?").
+att(19479, 19455).
+
+arg(19476).
+text(19476, Not having power now? He is a US senator, is he not? ).
+att(19476, 19473).
+
+arg(19473).
+text(19473, So you don't see the difference between him not having power now, and him trying to have power in the future?).
+att(19473, 19466).
+
+arg(19472).
+text(19472, I do not. A person's interests *are* their opinion on their interests. I reject the notion that an external source can divine their needs better than them.).
+att(19472, 19461).
+
+arg(19471).
+text(19471, But it falls short because they're deciding which policies would work, not which companies would succeed. Unlike in the stock market, these policies will exist in a vacuum, independent of each other.).
+att(19471, 19459).
+
+arg(19466).
+text(19466, Positions of political power (ie public office, etc) require that a person make decisions about what others can and cannot do. These decisions are enforced by police and military. That is the definition of "ruling" . ).
+att(19466, 19451).
+
+arg(19461).
+text(19461, Do you agree that changing opinions, and changing interests, is not the same thing ?).
+att(19461, 19447).
+
+arg(19460).
+text(19460, That there are only two choices doesn’t address my premise.
+
+My premise is independent of the number of choices people have.).
+att(19460, 19447).
+
+arg(19459).
+text(19459, That people have no way to affect change in the company they are betting on, is independent of the point i am making.
+
+My analogy is not about having a way to affect the company, it is about making choice with imperfect knowledge.).
+att(19459, 19448).
+
+arg(19458).
+text(19458, There is a big difference between having clue about what the outcome will be, and knowing what the outcome will be.
+
+When you bet on something, you can have clues, and sometime very good reason, to bet on it, that doesn’t mean you know the outcome of the bet.).
+att(19458, 19457).
+
+arg(19457).
+text(19457, - I believe that some unpredictability are inevitable.
+
+- I don’t believe it mean that it is completely random.
+
+- I don’t believe it mean we should give up trying to collect data.
+
+- I don’t believe voters have no clue about what represents their interests the best.).
+att(19457, 19450).
+
+arg(19456).
+text(19456, "Why do you then not believe people can decide who they think best represents them"
+
+
+I believe people can decide who they think represents them.
+I think there is a big misunderstanding here.).
+att(19456, 19449).
+
+arg(19455).
+text(19455, I don’t understand how my chain of argument can be used against altruism.).
+att(19455, 19449).
+
+arg(19454).
+text(19454, This is not a assumption about the goals of others, it is only about my goals here : 
+I am a counter example to the idea that people necessarily vote for whom represent their interests the best.).
+att(19454, 19446).
+
+arg(19451).
+text(19451, He doesn't claim to. That's why he's running for office, and not putting on a crown.).
+att(19451, 19416).
+
+arg(19450).
+text(19450, I'm disagreeing with you. I'm saying that some unpredictability is inevitable, and that doesn't mean we should give up trying to collect data, nor does it mean we should assume voters are incapable of deciding for themselves what represents their interests.).
+att(19450, 19435).
+
+arg(19449).
+text(19449, The exact chain of argument you're taking is also an argument against altruism. Judging from your other comments, I'm guessing you believe in altruism. Why do you then not believe people can decide who they think best represents them?).
+att(19449, 19434).
+
+arg(19448).
+text(19448, Your rebuttal doesn't address my point at all.).
+att(19448, 19436).
+
+arg(19447).
+text(19447, But because we live in a binary political system, they have no other choice. Any further analysis is irrelevant unless you can change the voting system away from first-past-the-post.).
+att(19447, 19437).
+
+arg(19446).
+text(19446, You're still making the assumption that everyone shares that goal. You'd be surprised by just how many people either don't, or don't hold it as their first priority.
+
+Any line of argument that starts with that assumption is invalid.).
+att(19446, 19438).
+
+arg(19418).
+text(19418, They don’t know what the parties will do, there is no way to know if they will do what they promised to do, and often they don’t.).
+support(19418, 19417).
+
+arg(19010).
+text(19010, Which of his policies do not represent your interests?).
+att(19010, 19007).
+
+arg(19009).
+text(19009, Of course not. It also doesn't mean his policies aren't more effective at  representing the interests of the majority of the public.).
+att(19009, 19007).
+
+arg(19438).
+text(19438, The voting system doesn’t change the main problem.
+
+My goals/interest is to reduce suffering, you can give me whatever voting system you want, i can’t be sure about the real outcomes the party i want to be elected will produce, this is way too much complicated.
+
+).
+att(19438, 19429).
+
+arg(19417).
+text(19417, It is only a good indicator of what party they want to be elected, but not a good indicator of what party represent their interests.).
+att(19417, 19024).
+
+arg(19416).
+text(19416, the one where he claims to have the authority to rule over others.).
+att(19416, 19010).
+
+arg(19007).
+text(19007, I am an individual and he does not represent my needs, does that mean I am not part of the "public"? ).
+att(19007, 19004).
+
+arg(18998).
+text(18998, "the public" is a collectivized abstraction. There are no "public needs", there are only individual needs. ).
+att(18998, root).
+
+arg(19025).
+text(19025, Nobody is claiming polls are 100% accurate.).
+att(19025, 19005).
+
+arg(19024).
+text(19024, It's a very good indicator.
+
+A better indicator would be to use a ranked voting system, but that data isn't available.).
+att(19024, 18997).
+
+arg(19005).
+text(19005, The polls disagreed that the liberals would win in Canada.).
+att(19005, 18979).
+
+arg(19004).
+text(19004, Individuals form the public. He represents the collective public's needs more than any other candidate.).
+att(19004, 18998).
+
+arg(18979).
+text(18979, Currently (though it may change) polling disagrees with you.).
+att(18979, root).
+
+arg(18997).
+text(18997, Just because you vote for someone it doesn't mean they represent your interests.
+Just because you don't vote for someone it doesn't mean they don't represent your interests.).
+att(18997, 18979).
+
+arg(19415).
+text(19415, The problem is that some of the Sanders "policies" are actually not achievable goals, and/or consist of strategies that will not work within the system that is currently in place.).
+att(19415, root).
+

@@ -1,11 +1,164 @@
 arg(root).
 text(root, Bush did 9/11).
 
-arg(12683).
-text(12683, Can jet beams melt steel fuel?).
-att(12683, root).
+arg(18617).
+text(18617, I read a meme once which told me so).
+support(18617, root).
+
+arg(18578).
+text(18578, Reporting a fallacy and adding a "but" on the same basis is distasteful, and purely manipulates statistics. I get a notification either way. Please change the above to a "however".).
+att(18578, 18558).
+
+arg(18556).
+text(18556, Obviously. The claim of evidence was not made. They're posted as motives not evidence. Premises can be motives and followed up with evidence if and when known.).
+att(18556, 18447).
+
+arg(18815).
+text(18815, Steel beans can freeze jet duel.).
+att(18815, 12326).
+
+arg(18779).
+text(18779, Please don't turn this site into facebook.).
+att(18779, 17915).
+
+arg(18778).
+text(18778, Most people don't believe things solely from internet memes. 
+People create memes that reflect their beliefs and people that share those beliefs, share the memes.
+I doubt a meme has ever convinced someone of an argument. They only help reinforce current beliefs.).
+att(18778, 18617).
+
+arg(18699).
+text(18699, The damage was not symmetrical, the fall was symmetrical. The buildings fell at near free fall speed against what should have been massive resistance. The buildings were designed to withstand plane impacts and fire.).
+att(18699, 18686).
+
+arg(18687).
+text(18687, That doesn't take away the fact molten steel and temperatures higher than what should have been recorded, were recorded.
+The issue isn't if the steel was weakened or not. It's how was there molten steel and such high temps.
+).
+att(18687, 18686).
+
+arg(18686).
+text(18686, That doesn't take away from the fact that jet fuel can burn at a high enough temperature to weaken steel. Plus, the plane took out multiple floors, across the building. All sides of the initially hit floors were structurally weakened. It's not that big of a surprise that, after a few hours of ).
+att(18686, 18067).
+
+arg(18641).
+text(18641, Dank memes tend to not present sources or evidence.).
+att(18641, 18616).
+
+arg(18616).
+text(18616, There are some dank memes out there that would suggest otherwise).
+att(18616, 18539).
+
+arg(18576).
+text(18576, Reporting a fallacy and adding a "but" on the same basis is distasteful, and purely manipulates statistics. I get a notification either way. Please change the above to a "however".).
+att(18576, 18556).
+
+arg(18598).
+text(18598, The fallacy report is purely to report a fallacy. The but is a response to your premise. It doesn't manipulate statistics and it's got nothing to do with you being notified.
+You are the one trying to manipulate statistics by having me change it. Your original premises should have been howevers.).
+att(18598, 18576).
+
+arg(18577).
+text(18577, Reporting a fallacy and adding a "but" on the same basis is distasteful, and purely manipulates statistics. I get a notification either way. Please change the above to a "however".).
+att(18577, 18557).
+
+arg(18560).
+text(18560, That's the point.
+Molten steel and temperatures higher than burning jet fuel were recorded at ground zero.
+If jet fuel was never proven to melt the steel, what did?).
+att(18560, 18313).
+
+arg(18558).
+text(18558, Obviously. The claim of evidence was not made. They're posted as motives not evidence. Premises can be motives and followed up with evidence if and when known.).
+att(18558, 18448).
+
+arg(18557).
+text(18557, Obviously. The claim of evidence was not made. They're posted as motives not evidence. Premises can be motives and followed up with evidence if and when known.).
+att(18557, 18451).
+
+arg(18540).
+text(18540, There is evidence of his negligence worsening the event.).
+att(18540, 18539).
+
+arg(17944).
+text(17944, They wanted to create a surveillance state to keep a close eye on enemies and those that could expose their crimes.).
+support(17944, root).
+
+arg(18451).
+text(18451, Motive, while useful, isn't necessarily evidence.).
+att(18451, 17943).
+
+arg(18450).
+text(18450, Family relations are not necessarily evidence unless you can point to how this causes a motive. Even then, motive, while useful, is not necessarily evidence.).
+att(18450, 18337).
+
+arg(18448).
+text(18448, Motive, while useful, isn't necessarily evidence.).
+att(18448, 17944).
+
+arg(18447).
+text(18447, Motive, while useful, isn't necessarily evidence.).
+att(18447, 17942).
+
+arg(17942).
+text(17942, The military industrial complex wanted to invade Iraq and the middle east.).
+support(17942, root).
+
+arg(18336).
+text(18336, That is not a meme. Memes have more inductive power).
+att(18336, 18002).
+
+arg(18313).
+text(18313, Jet fuel was never proven to melt the steel. ).
+att(18313, 12326).
+
+arg(18067).
+text(18067, Molten steel and temperatures higher than burning jet fuel were recorded at ground zero.
+If the metal was weakened enough to bend it would be more likely for the affected area of the building to fall to one side asymmetrically.
+Instead the building free falls symmetrically into its own footprint.).
+att(18067, 18002).
+
+arg(18002).
+text(18002, jet fuel burns at a high enough temperature to weaken steel beams. possibly enough to bend them).
+att(18002, 12326).
+
+arg(17978).
+text(17978, This is not a direct proof of guilt but rather a rationalization about what happened in those circumstances.).
+att(17978, 17944).
+
+arg(17977).
+text(17977, You are right. That however is not proof of guilt, but rather an explanation for why 9/11 was beneficial for the military industrial complex and the bush administration.).
+att(17977, 17942).
+
+arg(17943).
+text(17943, They wanted to destroy evidence of criminality in the twin towers, building 7 and the pentagon.).
+support(17943, root).
 
 arg(12326).
 text(12326, jet fuel can't melt steel beams).
 support(12326, root).
+
+arg(17915).
+text(17915, Jet fuel can't melt dank memes.).
+att(17915, 12683).
+
+arg(12683).
+text(12683, Can jet beams melt steel fuel?).
+att(12683, 12326).
+
+arg(18539).
+text(18539, There is no direct link between Bush and the actions of 9/11's perpetrators.).
+att(18539, root).
+
+arg(18337).
+text(18337, Bush is the grand-son of Aleister Crowley).
+support(18337, root).
+
+arg(19169).
+text(19169, Almost all modern civil engineers assert that the arguments made by 9/11 conspiracists are physically implausible. ).
+att(19169, root).
+
+arg(19081).
+text(19081, His dad had some suspicious ties w/ the Hinckley's, and his position as head of the CIA provided him with the opportunity and resources to orchestrate the assassination attempt on Reagan, as an act of political theater to secure his family's ascension to political dynasty. And, his dad aided Hitler.).
+att(19081, root).
 

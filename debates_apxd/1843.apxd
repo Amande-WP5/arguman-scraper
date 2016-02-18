@@ -1,15 +1,93 @@
 arg(root).
 text(root, Believing in god causes logical contradictions).
 
-arg(11235).
-text(11235, Sub tree
- Definition of god: Creator of the universe).
-att(11235, root).
+arg(17263).
+text(17263, If a creator exists, who created the creator?).
+support(17263, root).
 
-arg(11238).
-text(11238, Sub tree
-Definition of god: Omnipotent being).
-att(11238, root).
+arg(17277).
+text(17277, This means we would start to philosophize. Still, philosophy allows to have logical arguments and so it is theoretically still possible to come to a conclusion.).
+att(17277, 17264).
+
+arg(17282).
+text(17282, Believing in god can't cause logical contradictions if god is logic itself and the laws the surround it. ).
+att(17282, root).
+
+arg(17531).
+text(17531, you assume god would be outside of the universe).
+att(17531, 17280).
+
+arg(17245).
+text(17245, The difference is that a game dev has proof that he in fact is the game dev (by showing the development process) so he can be deemed the creator of his game without doubt, but saying that God is the creator because the universe exists is circular logic that can't be further proven.).
+att(17245, 17237).
+
+arg(17262).
+text(17262, The important part though is that the game dev cannot prove he is the game dev to the characters in his game. And I'm not saying god exists because the universe exists, in fact I don't know where you even see that in my argument. I did say that I would >assume< that theists believe god is ).
+att(17262, 17245).
+
+arg(17320).
+text(17320, A game dev isn’t omnipotent in the game he create, he is limited by a lot of factor, like logic, his own intelligence, his competences, the hardware he use, etc.
+There is no good reason that creating something give you omnipotent power over it.).
+att(17320, 17237).
+
+arg(17308).
+text(17308, Not existing in the universe = not existing at all.
+The universe contains everything that exists.).
+att(17308, 17228).
+
+arg(17237).
+text(17237, I would assume that they would assume god would be omnipotent because he created the universe. Being the creator of the universe at least implies being omnipotent in our universe. ).
+support(17237, 17231).
+
+arg(17280).
+text(17280, No one. Or nothing. The creator exists outside of time, therefore he would have to have always "been", though using time related language doesn't really work when you are talking about something that exists outside of it. For something to create the creator would mean that time passes outside).
+att(17280, 17263).
+
+arg(17646).
+text(17646, => god is nothing = not existing).
+att(17646, 17619).
+
+arg(17645).
+text(17645, If he is not in the universe he does not exist. the universe is the set that holds every existing thing).
+att(17645, 17627).
+
+arg(17228).
+text(17228, If the creator created the universe, then that creator "existed" before time. In other words, this creator would have always been. If the creator came to be, then that would imply that something created the creator. ).
+att(17228, 11246).
+
+arg(17627).
+text(17627, It would be difficult for god to create the universe if he must first exist within it. Of course, if god did not exist outside of the universe, I don't believe he would necessarily be considered a "god". ).
+support(17627, 17531).
+
+arg(17619).
+text(17619, Nothing can be outside of the universe. The universe is defined to contain everything.).
+support(17619, 17531).
+
+arg(17407).
+text(17407, Assuming I have a character with an artificial intelligence in the game. I could ask it what he would want as proof and program this proof in the game(it's universe) so I could proof my omnipotents).
+att(17407, 17262).
+
+arg(17321).
+text(17321, IF god is logic himself, but how are you going to prove such a claim?).
+att(17321, 17282).
+
+arg(17307).
+text(17307, You say god= logic . Logic exists therefore god exists
+
+If you say god exist I agree as much as I agree to "Santa Claus exists (I define Santa Claus= the sun)").
+att(17307, 17282).
+
+arg(17283).
+text(17283, And this is where I would argue that, if something did exist outside of time, then that thing must have always existed. As in an infinite amount of time, because that's basically what eternity is. Quite possibly that's what it's like outside of time, eternity. Time never passes because it doesn't).
+att(17283, 17279).
+
+arg(17279).
+text(17279, That's exactly my point, philosophically I would argue that since space and time didn't exist, literally nothing existed "before" since "before" is a time measurement. So there is no question whether anything, be it an idea or whatever, existed.).
+support(17279, 17278).
+
+arg(17248).
+text(17248, As you said yourself, it would go back to the question why a creator would already exist in empty space without having been created himself etc. etc. Also, saying an entity existed before space or time opens up further inconsistencies.).
+att(17248, 17228).
 
 arg(11246).
 text(11246, Having a creator doesn't solve the question as to why anything came to existence. If a creator exists, why did he suddenly came to be? The question would still be open.).
@@ -19,7 +97,33 @@ arg(11248).
 text(11248, An omnipotent being would have the power to solve every problem, shape every human society and bring peace to the world. However, he fails to show his powers. Though he appeared on toast 2 or 3 times.).
 support(11248, 11238).
 
+arg(17264).
+text(17264, But that's the thing. If this were true, then that just means it's incredibly difficult for us to talk about the nature of god, because he would exist in a "place" that doesn't make sense to us. We are 3rd dimensional being that live in space and experience time. How do you suppose we try to debate).
+att(17264, 17248).
+
+arg(17278).
+text(17278, So if god exists in a place with no time and no space, what exactly would he be? An idea? A concept? A law? Where exactly do we go from here?).
+support(17278, 17277).
+
+arg(17231).
+text(17231, My whole point is that religious people argue that god is omnipotent, yet there is no logical argument as to why he should be omnipotent, since he lacks to show any proof.).
+att(17231, 17230).
+
+arg(17230).
+text(17230,  I don't see how this creates a logical contradiction. Because you think god should show off his powers, and he hasn't, means it's illogical that he would be omnipotent? Also, what would god's definition of peace be? We are not god, so we don't know his "motives", if those even exist. ).
+att(17230, 11248).
+
 arg(11257).
 text(11257, Make a new sub tree if you want to make a different definition or add something to the definition).
 att(11257, root).
+
+arg(11235).
+text(11235, Sub tree
+ Definition of god: Creator of the universe).
+att(11235, root).
+
+arg(11238).
+text(11238, Sub tree
+Definition of god: Omnipotent being).
+att(11238, root).
 

@@ -1,0 +1,11 @@
+arg(root).
+text(root, There is no official explanation for the collapse of the WTC 1 or 2.).
+
+arg(18404).
+text(18404, The National Institute of Standards and Technology (NIST) is a considered an official institution of the US Government.).
+support(18404, root).
+
+arg(18403).
+text(18403, The National Institute of Standards and Technology (NIST), said: "We are unable to provide a full explanation of the total collapse," in a letter responding to an Information Quality Request #07-06 dated Sep 27, 2007.).
+support(18403, root).
+

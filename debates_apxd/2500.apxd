@@ -1,0 +1,23 @@
+arg(root).
+text(root, Global Warming is actually beneficial to humans).
+
+arg(17078).
+text(17078, Global warming will cause an increase in the frequency and severity of natural disasters. This is not beneficial to humanity.).
+att(17078, root).
+
+arg(17071).
+text(17071, Beneficial in what perspective? Global warming is and will be the cause of the death of many animals. The sea level is rising and it will be a general negative trade off with nature.).
+att(17071, root).
+
+arg(17070).
+text(17070, ).
+att(17070, root).
+
+arg(17136).
+text(17136, It would still be harmful on the whole because it does a lot of damage to ecosystems which we depend on, and do not have an alternative for.).
+att(17136, 17122).
+
+arg(17122).
+text(17122, Even if that is true, as long as the warming effect improves human life, global warming may still be positive on balance. There is more scientific consensus about the warming effect than effect on natural disasters, so the consequences of the warming effect should be weighted more heavily.).
+att(17122, 17078).
+

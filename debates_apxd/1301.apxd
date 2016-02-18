@@ -1,25 +1,13 @@
 arg(root).
 text(root, US didn't land to the Moon during the 60's.).
 
-arg(5469).
-text(5469, The USSR did not oust the US on the supposed false moon landing.).
-att(5469, root).
-
 arg(5465).
 text(5465, It was just a " Hollywood Production " to show off USSR during the Coldwar. ).
 support(5465, root).
 
-arg(5587).
-text(5587, these kind of arguments " US ........ " will never find a place somewhere legal or somewhere accessible. For those kind of answer you need to search deeper, you need to search independent sources. It's the same case as Twin Towers. Do you think you'll find an evidence that US did it ? ).
-support(5587, root).
-
 arg(5481).
 text(5481, Of everyone (possibly in the upwards of 400,000 people) who contributed to the program, no one has disputed its authenticity. ).
 att(5481, root).
-
-arg(5492).
-text(5492, Telescopes that can track the craft to the moon and back existed, yet no-one in the USSR disputed it happened.).
-att(5492, root).
 
 arg(5495).
 text(5495, the technology to convincingly fake the moon landings did not exist at the time.).
@@ -41,14 +29,6 @@ arg(5501).
 text(5501, Because they didn't question it. ).
 support(5501, 5481).
 
-arg(5614).
-text(5614, Red herring).
-att(5614, root).
-
-arg(5615).
-text(5615, Maybe it would be better to start a seperate "but"-thread for every one of these points. That way its easier (and less messy) to discuss them.).
-att(5615, root).
-
 arg(5504).
 text(5504, There is no evidence about the creation of that "Hollywood Production".).
 att(5504, 5465).
@@ -62,14 +42,6 @@ text(5511, - The pressure was simply too low for creating a landing crash crater
 - When astronauts were planting the flagpole they rotated it back and forth to better penetrate the lunar soil. So of course the flag waved.).
 att(5511, 5500).
 
-arg(5512).
-text(5512, Lunar Laser Ranging experiments using equipment left at the Apollo landing site is frequently used by Universities and Astronomy enthusiasts and reputable organizations around the world.).
-att(5512, root).
-
-arg(5823).
-text(5823, they landed on the moon).
-support(5823, root).
-
 arg(5520).
 text(5520, This is a fallacy not listed in the options: Shifting the burden of proof.  You are the one who claimed that the Russians spending money somehow countered the previous statement.).
 att(5520, 5509).
@@ -77,10 +49,6 @@ att(5520, 5509).
 arg(5534).
 text(5534, Did you really expect to find the real thing in Wikipedia?  ).
 att(5534, 5520).
-
-arg(5536).
-text(5536, The trajectory of the dust trail, dispersed by the lunar rover, can only be explained by a low gravity/vacuum environment.).
-att(5536, root).
 
 arg(5537).
 text(5537, You may want to check this one
@@ -91,4 +59,36 @@ att(5537, 5511).
 arg(5555).
 text(5555, If you ignore sources with a traditionally high credibility that have been tested under more scrutiny, why should your sources be any more valid?).
 att(5555, 5537).
+
+arg(5469).
+text(5469, The USSR did not oust the US on the supposed false moon landing.).
+att(5469, 5465).
+
+arg(5492).
+text(5492, Telescopes that can track the craft to the moon and back existed, yet no-one in the USSR disputed it happened.).
+att(5492, root).
+
+arg(5587).
+text(5587, these kind of arguments " US ........ " will never find a place somewhere legal or somewhere accessible. For those kind of answer you need to search deeper, you need to search independent sources. It's the same case as Twin Towers. Do you think you'll find an evidence that US did it ? ).
+support(5587, 5555).
+
+arg(5512).
+text(5512, Lunar Laser Ranging experiments using equipment left at the Apollo landing site is frequently used by Universities and Astronomy enthusiasts and reputable organizations around the world.).
+att(5512, root).
+
+arg(5823).
+text(5823, they landed on the moon).
+support(5823, root).
+
+arg(5614).
+text(5614, Red herring).
+att(5614, 5534).
+
+arg(5615).
+text(5615, Maybe it would be better to start a seperate "but"-thread for every one of these points. That way its easier (and less messy) to discuss them.).
+att(5615, 5537).
+
+arg(5536).
+text(5536, The trajectory of the dust trail, dispersed by the lunar rover, can only be explained by a low gravity/vacuum environment.).
+att(5536, root).
 

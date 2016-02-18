@@ -1,25 +1,29 @@
 arg(root).
 text(root, This website could use some extra features).
 
-arg(13689).
-text(13689, Including an "AND" premise would be useful in order to separate premises into smaller chunks. This is useful once cross-argument premise linking exists because it can be used to clarify logic and also to tease out contradictions. ).
-support(13689, root).
+arg(13643).
+text(13643, It would also provide a means to balance out incorrectly reported fallacies.).
+support(13643, 13641).
 
-arg(13686).
-text(13686, Actually upvote/downvote corresponds to a measure of "importance" which is another useful metric to capture for sorting. 
+arg(13688).
+text(13688, Fallacies should be simplified to look like other premises so that their context in the argument can also be argued on their own branch. ).
+att(13688, 13643).
 
-By having importance & convictions one can agree with a premise yet down vote because of irrelevance.).
-att(13686, root).
-
-arg(13832).
-text(13832, Users need to follow arguments (not just other users).).
-support(13832, root).
+arg(13683).
+text(13683, It should be agree/disagree because it represents one's conviction. That way when many convictions are collected the system could identify a user's contradictions using an algorithm. This means user's must be consistent across premises to prevent having their contradictions exposed.).
+att(13683, 13641).
 
 arg(13816).
 text(13816, They should make premises split able.
 Because often people make a true and a false statement in one premise.
 And it would reduce infant mortality).
 support(13816, root).
+
+arg(13686).
+text(13686, Actually upvote/downvote corresponds to a measure of "importance" which is another useful metric to capture for sorting. 
+
+By having importance & convictions one can agree with a premise yet down vote because of irrelevance.).
+att(13686, 13683).
 
 arg(13641).
 text(13641, Having upvote/downvote rather than support/report-fallacy would allow following interesting points more easily and burying trolls.).
@@ -29,10 +33,6 @@ arg(13642).
 text(13642, Nicer keyboard shortcuts, like vim's hjkl for traversal would be cool).
 support(13642, root).
 
-arg(13643).
-text(13643, It would also provide a means to balance out incorrectly reported fallacies.).
-support(13643, 13641).
-
 arg(13681).
 text(13681, Being able to link premises to premises in other arguments. In this way a belief system can be detailed not just a single argument.).
 support(13681, root).
@@ -41,11 +41,11 @@ arg(13684).
 text(13684, Notifications don't show when another user replies to my premises.).
 support(13684, root).
 
-arg(13688).
-text(13688, Fallacies should be simplified to look like other premises so that their context in the argument can also be argued on their own branch. ).
-att(13688, 13643).
+arg(13832).
+text(13832, Users need to follow arguments (not just other users).).
+support(13832, root).
 
-arg(13683).
-text(13683, It should be agree/disagree because it represents one's conviction. That way when many convictions are collected the system could identify a user's contradictions using an algorithm. This means user's must be consistent across premises to prevent having their contradictions exposed.).
-att(13683, 13641).
+arg(13689).
+text(13689, Including an "AND" premise would be useful in order to separate premises into smaller chunks. This is useful once cross-argument premise linking exists because it can be used to clarify logic and also to tease out contradictions. ).
+support(13689, root).
 

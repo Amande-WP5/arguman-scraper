@@ -14,16 +14,6 @@ arg(11679).
 text(11679, The monk asked, "It is not yet clear to me; do you practice or not?" Joshu replied, "I wear cloths and eat food.").
 att(11679, root).
 
-arg(11680).
-text(11680, 1. To follow the compass and keep to the rule is to tie oneself without rope. 
-3. To unify and pacify the mind is quietism, and false Zen.
-).
-att(11680, root).
-
-arg(11932).
-text(11932, Dogen said so.).
-support(11932, root).
-
 arg(11933).
 text(11933, People are confused about this because:
 
@@ -40,6 +30,20 @@ arg(11936).
 text(11936, There are lots of Buddhist churches in the West that put a sign out front that says "Zen", but when people go in what they are taught is "sit down and shut up". ).
 att(11936, 11932).
 
+arg(12011).
+text(12011, Yet, if this is surprising, perhaps more curious is the fact that we have given so little attention to this issue and the obvious questions it raises about the character of... the [Zen] meditation tradition.).
+support(12011, 12010).
+
+arg(11680).
+text(11680, 1. To follow the compass and keep to the rule is to tie oneself without rope. 
+3. To unify and pacify the mind is quietism, and false Zen.
+).
+att(11680, root).
+
+arg(11932).
+text(11932, Dogen said so.).
+support(11932, root).
+
 arg(12008).
 text(12008, To concentrate the mind on quietness is a disease of the mind, and not Zen at all. What an idea, restricting the body to sitting all the time! That is useless. ).
 att(12008, root).
@@ -47,10 +51,6 @@ att(12008, root).
 arg(12010).
 text(12010, One might well expect [the Zen lineage] to have developed, over the course of these centuries, a rich literature on the techniques of their practice, but in fact they do not appear to have done so.).
 att(12010, root).
-
-arg(12011).
-text(12011, Yet, if this is surprising, perhaps more curious is the fact that we have given so little attention to this issue and the obvious questions it raises about the character of... the [Zen] meditation tradition.).
-support(12011, 12010).
 
 arg(11634).
 text(11634, "They just sit in a ghostly cave on a dark mountain after their meals. They call this practice "silent illumination", "dying the great death", "the state before the birth of one's parents." They sit there until calluses appear on their bottoms, yet they still do not dare to move."

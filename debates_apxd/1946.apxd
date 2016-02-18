@@ -5,41 +5,41 @@ arg(12689).
 text(12689, Killing people as a crime is savage-like.).
 support(12689, root).
 
-arg(12959).
-text(12959, That is why inmates are on death row for 4+ years to prevent innocents being killed. ).
-att(12959, root).
-
 arg(12852).
 text(12852, Poor capitol, he didn't do anything!).
 support(12852, root).
-
-arg(12861).
-text(12861, What kind of wrong? A moral wrong? An illegal act? Something else?).
-att(12861, root).
-
-arg(12967).
-text(12967, The problem with it is in the chance of killing an innocent and in the execution of the execution, not in the principle itself.).
-att(12967, root).
-
-arg(12863).
-text(12863, The legal system is capable of making mistakes and sentencing people to death that did not commit murder.).
-att(12863, root).
-
-arg(12700).
-text(12700, For the most dangerous of criminals, an escape, such as with 'El Chapo' Guzman, could mean the death of many citizens, be it civilian or law enforcement. The  criminals who pose the highest risk should be executed as the lives of the many should outweigh the lives of the few.).
-att(12700, root).
 
 arg(12725).
 text(12725, if you violate someone else's right to living you are effectively throwing away your own.).
 att(12725, 12689).
 
+arg(13308).
+text(13308, Not all punishment is, or should be, used as a deterrent. Punishment must be a punishment for a wrong committed. Some wrongs are so heinous that the only punishment can be death.).
+att(13308, 12967).
+
+arg(12861).
+text(12861, What kind of wrong? A moral wrong? An illegal act? Something else?).
+att(12861, root).
+
+arg(12959).
+text(12959, That is why inmates are on death row for 4+ years to prevent innocents being killed. ).
+att(12959, 12863).
+
+arg(12967).
+text(12967, The problem with it is in the chance of killing an innocent and in the execution of the execution, not in the principle itself.).
+att(12967, root).
+
+arg(12700).
+text(12700, For the most dangerous of criminals, an escape, such as with 'El Chapo' Guzman, could mean the death of many citizens, be it civilian or law enforcement. The  criminals who pose the highest risk should be executed as the lives of the many should outweigh the lives of the few.).
+att(12700, root).
+
 arg(13282).
 text(13282, It doesn't fulfill its intended function, the reduction of crime and the protection of innocents. It doesn't reduce crime and often harms innocents).
 support(13282, root).
 
-arg(13308).
-text(13308, Not all punishment is, or should be, used as a deterrent. Punishment must be a punishment for a wrong committed. Some wrongs are so heinous that the only punishment can be death.).
-att(13308, 12967).
+arg(12863).
+text(12863, The legal system is capable of making mistakes and sentencing people to death that did not commit murder.).
+att(12863, 12725).
 
 arg(13296).
 text(13296, So is providing free housing, food and a lack of bills. Also, it's not fair on the taxpayer to be harboring criminals when it is far cheaper and easier to have them exterminated.).

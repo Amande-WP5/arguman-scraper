@@ -1,90 +1,9 @@
 arg(root).
 text(root, Polygamy should be legal.).
 
-arg(8090).
-text(8090, Anecdotal evidence shows that these problems are not inevitable. ).
-att(8090, 7975).
-
-arg(8085).
-text(8085, Cheating is different from a polygamous relationship, because it occurs without the consent of all partners.).
-att(8085, root).
-
-arg(7938).
-text(7938, This can still occur in polyamorous relationships.).
-att(7938, root).
-
-arg(7941).
-text(7941, Cheating is defined as "having a sexual or romantic relationship with a new partner that your other current partner(s) did not consent to.").
-support(7941, 7938).
-
-arg(8724).
-text(8724, An entire new set of tax laws needs to made for "n marriages" where n is the number of people in the marriage.
-Tax laws as is are not simple by any means, and introducing n marriage laws would be a hefty task.).
-support(8724, root).
-
-arg(8726).
-text(8726, This is because Employer A and Employer B are usually not aware of one another, nor does their business affect one another. This is not true in a polygamous marriage where the income and doings of all spouses plays a role in their overall taxings and marriage advantages.).
-att(8726, root).
-
-arg(8105).
-text(8105, That's not necessarily true. Say there are 10 people (5W, 5M), and one woman marries three men. That leaves four women and two men. Then, each remaining man can marry two of the remaining women. Everyone ends up married.).
-att(8105, root).
-
-arg(8739).
-text(8739, Whether monogomy is harmful is contentious too.).
-att(8739, root).
-
-arg(8740).
-text(8740, Different countries have different tax laws that aren't affected by marriage, so there are certainly models that can work.).
-att(8740, 8724).
-
-arg(8485).
-text(8485, Marriage exists so that societies may have cohesive families in order to generate progeny. Allowing multiple partners within such a family would serve to increase progeny. Thus, it serves the societal purpose of marriage even better than monogamy.).
-support(8485, root).
-
-arg(8066).
-text(8066, This would leave some people dissatisfied and without partner. If there were 10 people (5m/5w) on earth and 1 woman married 3 men, 4 women must fight over 2 men. This may only work if receiving/giving polygamist parties are balanced in numbers.).
-att(8066, root).
-
-arg(8496).
-text(8496, Just because some men benefit from monogamy doesn't mean other men, or women shouldn't get to choose who they marry, even if that's multiple people.).
-att(8496, root).
-
-arg(8497).
-text(8497, if polygamy is legal, polyandry should be legalized too).
-att(8497, root).
-
-arg(8502).
-text(8502, Legalizing something does not necessarily lead to it becoming the norm.).
-att(8502, root).
-
-arg(8072).
-text(8072, It's in our DNA, kind of. Read source. TL;DR We are "monogam-ish" depending on social status.).
-support(8072, root).
-
-arg(8555).
-text(8555, We already have a sufficient number of societal members; what need is there for additional progeny in the age of medical advancement as well as overpopulation?).
-att(8555, 8485).
-
-arg(8078).
-text(8078, This is equivalent to asking those who would rather be in a polygamous relationship to sacrifice a portion of their happiness so that another of their potential partners can be more happy.).
-att(8078, 8066).
-
-arg(8079).
-text(8079, Not all people are compatible with all other people. ).
-att(8079, 8066).
-
-arg(7975).
-text(7975, Polygamy leads to certain partners being favoured over others, possibly causing conflicts between the parties and/or depression.).
-att(7975, root).
-
 arg(7976).
 text(7976, Not in an equal rate.).
-att(7976, root).
-
-arg(8512).
-text(8512, Love means different things to different people.).
-support(8512, root).
+att(7976, 7879).
 
 arg(8083).
 text(8083, We don't make it illegal for families to have more than one child.).
@@ -94,21 +13,69 @@ arg(8514).
 text(8514, Nobody has a right to a partner).
 att(8514, 8066).
 
-arg(8522).
-text(8522, Virus are bad because they are harmful to humans. The same can not be said about polygamy.).
-att(8522, root).
-
-arg(7879).
-text(7879, It is possible to love more than one person at a time.).
-support(7879, root).
+arg(8090).
+text(8090, Anecdotal evidence shows that these problems are not inevitable. ).
+att(8090, 7975).
 
 arg(8801).
 text(8801, The government should not have the authority to issue marriage licenses.).
 att(8801, root).
 
-arg(7885).
-text(7885, People who love more than one person deserve the same level of recognition under the law as do people who love only one person. ).
-support(7885, root).
+arg(8079).
+text(8079, Not all people are compatible with all other people. ).
+att(8079, 8066).
+
+arg(8485).
+text(8485, Marriage exists so that societies may have cohesive families in order to generate progeny. Allowing multiple partners within such a family would serve to increase progeny. Thus, it serves the societal purpose of marriage even better than monogamy.).
+support(8485, root).
+
+arg(8066).
+text(8066, This would leave some people dissatisfied and without partner. If there were 10 people (5m/5w) on earth and 1 woman married 3 men, 4 women must fight over 2 men. This may only work if receiving/giving polygamist parties are balanced in numbers.).
+att(8066, root).
+
+arg(8497).
+text(8497, if polygamy is legal, polyandry should be legalized too).
+att(8497, root).
+
+arg(7941).
+text(7941, Cheating is defined as "having a sexual or romantic relationship with a new partner that your other current partner(s) did not consent to.").
+support(7941, 7938).
+
+arg(8740).
+text(8740, Different countries have different tax laws that aren't affected by marriage, so there are certainly models that can work.).
+att(8740, 8724).
+
+arg(8555).
+text(8555, We already have a sufficient number of societal members; what need is there for additional progeny in the age of medical advancement as well as overpopulation?).
+att(8555, 8485).
+
+arg(8078).
+text(8078, This is equivalent to asking those who would rather be in a polygamous relationship to sacrifice a portion of their happiness so that another of their potential partners can be more happy.).
+att(8078, 8066).
+
+arg(8726).
+text(8726, This is because Employer A and Employer B are usually not aware of one another, nor does their business affect one another. This is not true in a polygamous marriage where the income and doings of all spouses plays a role in their overall taxings and marriage advantages.).
+att(8726, 8546).
+
+arg(8105).
+text(8105, That's not necessarily true. Say there are 10 people (5W, 5M), and one woman marries three men. That leaves four women and two men. Then, each remaining man can marry two of the remaining women. Everyone ends up married.).
+att(8105, 8066).
+
+arg(8739).
+text(8739, Whether monogomy is harmful is contentious too.).
+att(8739, 8709).
+
+arg(8072).
+text(8072, It's in our DNA, kind of. Read source. TL;DR We are "monogam-ish" depending on social status.).
+support(8072, root).
+
+arg(8496).
+text(8496, Just because some men benefit from monogamy doesn't mean other men, or women shouldn't get to choose who they marry, even if that's multiple people.).
+att(8496, 8411).
+
+arg(8502).
+text(8502, Legalizing something does not necessarily lead to it becoming the norm.).
+att(8502, 8411).
 
 arg(8014).
 text(8014, Although your point is valid, this happens in monogamous relationships also(via cheating,etc). Additionally, as long as someone isn't coerced into this situation, an adult of clear mind should make that decision on their own.  ).
@@ -126,10 +93,6 @@ arg(8427).
 text(8427, We already dont outlaw things that can lead to conflict and depression. This is because almost everything can lead to conflict and depression.).
 att(8427, 7975).
 
-arg(8209).
-text(8209, If all parties concerned consent on it, it does not harm any external parties.).
-support(8209, root).
-
 arg(8028).
 text(8028, Not only is it more common for the issues aformentioned to manifest themselves in a polyamorous relation, cheating is already prohibited by law in monogamous relations.).
 att(8028, 8014).
@@ -146,14 +109,6 @@ arg(8538).
 text(8538, For the purpose of this discussion, 'Polygamy' is defined as 'a marriage between more than two people' or 'a single person being married to more than one other person.').
 att(8538, 8497).
 
-arg(8541).
-text(8541, In many countries, marriage is only a contract between 2 people with a set of legal rules only valid with 2 people. 
-
-A mariage with 3 people is no more possible than than playing tennis with 3 players. 
-
-We first need to make a new set of rules. And it may be extremely complicated.).
-att(8541, root).
-
 arg(8095).
 text(8095, It may be so assuming that:
 1. The M:F ratio is 1:1.
@@ -164,10 +119,6 @@ text(8095, It may be so assuming that:
 6. The absence of death.).
 att(8095, 8066).
 
-arg(7916).
-text(7916, The definition of marriage as between two people legitimizes monogamy as the one true way to love.).
-support(7916, root).
-
 arg(8097).
 text(8097, Many people swing, have open relationships, or otherwise have  relationships with more than two people involved that all parties consented to.).
 att(8097, 7916).
@@ -176,10 +127,6 @@ arg(8546).
 text(8546, Why is it necessary for such contracts to be exclusive? It's possible for me to sign contracts to work for Employer A and Employer B without them conflicting. Why should marriage licences be any different?).
 att(8546, 8541).
 
-arg(7923).
-text(7923, The definition of marriage as between two people stigmatizes all forms of open or polyamorous relationship. ).
-support(7923, root).
-
 arg(9970).
 text(9970, This wrongly assumes that a person is unable to consent to something that is against their own interests.).
 att(9970, 8209).
@@ -187,10 +134,6 @@ att(9970, 8209).
 arg(7928).
 text(7928, People often cheat on their significant others or spouses.).
 att(7928, 7916).
-
-arg(8337).
-text(8337, it isn't necessarily wrong. We might not follow it, but if the people in the party are okay with it, why does it matter?).
-support(8337, root).
 
 arg(8100).
 text(8100, "Natural" does not imply "good." Deadly viruses and man-eating tigers are natural.).
@@ -208,7 +151,64 @@ arg(8709).
 text(8709, You are presuming that polygamy is not harmful to humans. Whether it is or is not is contentious.).
 att(8709, 8522).
 
+arg(7938).
+text(7938, This can still occur in polyamorous relationships.).
+att(7938, 7928).
+
+arg(8724).
+text(8724, An entire new set of tax laws needs to made for "n marriages" where n is the number of people in the marriage.
+Tax laws as is are not simple by any means, and introducing n marriage laws would be a hefty task.).
+support(8724, 8541).
+
+arg(8512).
+text(8512, Love means different things to different people.).
+support(8512, 8433).
+
+arg(8085).
+text(8085, Cheating is different from a polygamous relationship, because it occurs without the consent of all partners.).
+att(8085, 8028).
+
+arg(8522).
+text(8522, Virus are bad because they are harmful to humans. The same can not be said about polygamy.).
+att(8522, 8100).
+
+arg(7923).
+text(7923, The definition of marriage as between two people stigmatizes all forms of open or polyamorous relationship. ).
+support(7923, root).
+
+arg(8337).
+text(8337, it isn't necessarily wrong. We might not follow it, but if the people in the party are okay with it, why does it matter?).
+support(8337, root).
+
 arg(9977).
 text(9977, Polygamy has been one of the greatest oppressors of women in all of history, particularly when administered by fundamentalists religions. Pedophilia, selling child brides, and abuse are highly linked to polygamy. It's bad for men too, since only the wealthy have access to marriage.).
 att(9977, root).
+
+arg(7975).
+text(7975, Polygamy leads to certain partners being favoured over others, possibly causing conflicts between the parties and/or depression.).
+att(7975, root).
+
+arg(7879).
+text(7879, It is possible to love more than one person at a time.).
+support(7879, root).
+
+arg(7885).
+text(7885, People who love more than one person deserve the same level of recognition under the law as do people who love only one person. ).
+support(7885, root).
+
+arg(8209).
+text(8209, If all parties concerned consent on it, it does not harm any external parties.).
+support(8209, root).
+
+arg(7916).
+text(7916, The definition of marriage as between two people legitimizes monogamy as the one true way to love.).
+support(7916, root).
+
+arg(8541).
+text(8541, In many countries, marriage is only a contract between 2 people with a set of legal rules only valid with 2 people. 
+
+A mariage with 3 people is no more possible than than playing tennis with 3 players. 
+
+We first need to make a new set of rules. And it may be extremely complicated.).
+att(8541, root).
 

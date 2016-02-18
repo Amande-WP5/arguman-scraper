@@ -1,0 +1,129 @@
+arg(root).
+text(root, I should start an IRA at 19).
+
+arg(19235).
+text(19235, Even if I assume 2% interest, the principle still more than doubles by retirement.).
+support(19235, root).
+
+arg(19280).
+text(19280, I'll likely be paying other bills, like car insurance and cell phone).
+att(19280, 19279).
+
+arg(19279).
+text(19279, This is less likely, since I'll no longer be paying rent).
+att(19279, 19239).
+
+arg(19278).
+text(19278, This is less likely, since I'll be living in a lower cost of living area).
+att(19278, 19239).
+
+arg(19277).
+text(19277, This would happen even more if I *didn't start one*).
+att(19277, 19260).
+
+arg(19261).
+text(19261, Even if I can, it looks like a huge hassle with lots of extra paperwork.).
+att(19261, 19259).
+
+arg(19260).
+text(19260, But depending on the regulations, this could be a permanent setback. If this isn't subtracted from your contribution limit, then you can never replace that money.).
+att(19260, 19259).
+
+arg(19259).
+text(19259, You can withdraw *contributions* to a Roth IRA fee-free.).
+att(19259, 19238).
+
+arg(19258).
+text(19258, The benefit could be even larger).
+att(19258, 19239).
+
+arg(19257).
+text(19257, I will have a more limited number of hours to work).
+att(19257, 19241).
+
+arg(19256).
+text(19256, Was that because it's my nature, or because I had no money?).
+att(19256, 19253).
+
+arg(19255).
+text(19255, It gives you much more money when you're retired, which you don't need to pay taxes on (Roth IRA).).
+support(19255, 19254).
+
+arg(19253).
+text(19253, This is less likely, since I'm not a heavy spender).
+att(19253, 19239).
+
+arg(19251).
+text(19251, Enough money for what period of time?).
+att(19251, 19240).
+
+arg(19250).
+text(19250, I may not be able to afford $28 a month at my next job.).
+att(19250, 19248).
+
+arg(19249).
+text(19249, This doesn't account for inflation. Adding that in, it comes out to a fifth of the calculation above.).
+att(19249, 19248).
+
+arg(19248).
+text(19248, Yes.
+
+Starting with $3000, adding $28 per month (1% of current pay), I would end up just shy of $1,000,000 by retirement, assuming S&P 500 holds to historical average.).
+att(19248, 19244).
+
+arg(19247).
+text(19247, This does not account for inflation).
+att(19247, 19236).
+
+arg(19246).
+text(19246, The money could be used for something else).
+att(19246, 19245).
+
+arg(19244).
+text(19244, Would 1%-per-paycheck be a realistic amount?).
+att(19244, 19237).
+
+arg(19243).
+text(19243, There's no reason to assume historical averages would hold).
+att(19243, 19236).
+
+arg(19242).
+text(19242, It's at minimum wage).
+att(19242, 19241).
+
+arg(19241).
+text(19241, This is less likely, since I'll be coming home to a guaranteed job).
+att(19241, 19239).
+
+arg(19240).
+text(19240, This is less likely, since I'll be coming home with more than enough money).
+att(19240, 19239).
+
+arg(19236).
+text(19236, And at the S&P 500's historical average (11%), it would increase by a factor of 156.).
+support(19236, 19235).
+
+arg(19254).
+text(19254, Common advice is to start investing early).
+support(19254, root).
+
+arg(19252).
+text(19252, I want to).
+support(19252, root).
+
+arg(19245).
+text(19245, I already have money set aside).
+support(19245, root).
+
+arg(19239).
+text(19239, The opportunity cost could be large).
+att(19239, root).
+
+arg(19238).
+text(19238, I would not have access to the money in an emergency).
+att(19238, root).
+
+arg(19237).
+text(19237, I would not notice a 1%-per-paycheck deposit).
+support(19237, root).
+

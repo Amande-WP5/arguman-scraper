@@ -1,14 +1,14 @@
 arg(root).
 text(root, One can not "own" a person, place, thing, or idea.).
 
-arg(15663).
-text(15663, If i say "run now" it is a prescription, but if i say "i said run now", it is a description.
-This is only what i wanted to say in the parent premise).
-att(15663, root).
+arg(15604).
+text(15604, "that somebody own something" isn’t a description, it is a prescription.
+It doesn’t define a what is, but it define how we should act.).
+support(15604, root).
 
-arg(15645).
-text(15645, The only thing I take this to mean is that it is possible to have a variety of different legal systems and arrangement of property rights.).
-att(15645, root).
+arg(6841).
+text(6841, I might not own it technically, but nobody else owns it- and they certainly own it to a lesser degree. So i can be the "de facto owner" of something).
+att(6841, root).
 
 arg(15664).
 text(15664, Yes, legal systems made prescriptions (tell what people should or shouldn’t do).
@@ -16,92 +16,10 @@ One particular prescription is "A own B", which is basically a way to say "only 
 But to say "A own B in our current legal system", is a description.).
 att(15664, 15645).
 
-arg(15646).
-text(15646, It's not only about rules, the rules are agreed upon to help organize and expand ideas. If someone creates something and works to protect it, or if a group of people do the same, there's no reason to assume they aren't acting as the owner. But in other cases, we need a language to describe actors.).
-att(15646, root).
-
-arg(15662).
-text(15662, If that doesn’t give directives to others to don’t use the car without the "owner" permission or any others directives, then the "owner" doesn’t own the car in any meaningful way.).
-att(15662, root).
-
 arg(15661).
 text(15661, There are reasons to assume they aren’t acting as the owner.
 To own is entirely about rules, it is about who can legally to what with what.).
 att(15661, 15646).
-
-arg(15644).
-text(15644, I don't understand why you would think this. "He bought the car, parked it in his driveway, he fixed it up and drove it to work" is a descriptive statement that justify owning something, without giving any sort of directives for how someone should act.).
-att(15644, root).
-
-arg(15642).
-text(15642, Your body was given to you as a gift at birth, and you maintain it as property. You do own the organs of your body, what you are describing is a violation of property. The fact that someone can use your body without your permission is proof that protection of property is a biological imperative.).
-att(15642, root).
-
-arg(15632).
-text(15632, What matter is not that it is "subjective", what matter is that it is a prescription, and not a description.
-"you own this" is a prescription.
-But "i consider you own this" is a description.
-The two things should not be mingled.).
-support(15632, root).
-
-arg(15616).
-text(15616, Ownership is a subjective consensus but is still real. Love is also subjective but real. Example: [1]).
-att(15616, root).
-
-arg(15631).
-text(15631, "you love something", is true or false. Loving is a real thing, what people think doesn’t change the fact that you love or not.
-But "that you own something" is relative of the "rules" we choose. It is relative of what people think.).
-att(15631, root).
-
-arg(15623).
-text(15623, So does the ability to perceive the curvature of the Earth. Does this make it subjective? No, because the facts don't change by perspective alone. The whole idea of being able to dispute property claims is what allows this to become objectified, ie agreements, transfers, natures, efforts, etc. ).
-att(15623, root).
-
-arg(15617).
-text(15617, All your points equally argue the case that one cannot 'Love' a person, place, thing, or idea.).
-att(15617, root).
-
-arg(15606).
-text(15606, What prevent you to do that, isn’t that there is a objective ownership on the organs, it is that :
-1) You surely think it is awful to do that.
-2) You consider the person own his organs.
-3) If you do that, you would have problems with our justice system.).
-att(15606, root).
-
-arg(15605).
-text(15605, The prescriptions doesn’t describe what is, but the prescriptions themselves exist.).
-att(15605, root).
-
-arg(15604).
-text(15604, "that somebody own something" isn’t a description, it is a prescription.
-It doesn’t define a what is, but it define how we should act.).
-support(15604, root).
-
-arg(15603).
-text(15603, "then the thought of who owns something would change based on perspective. "
-
-It change based of perspective.).
-att(15603, root).
-
-arg(15597).
-text(15597, The fact that you are able to assign actions to ownership such as the extent to which are using something is proof that ownership can be objectified. You can try to deny this process exists, but the only outcome is making claim to no property, or claiming that everything must belong to no one. ).
-att(15597, root).
-
-arg(15592).
-text(15592, They aren't subjective terms. If they were, then the thought of who owns something would change based on perspective. Property disputes are a way of expressing differing viewpoints, but this doesn't invalidate the concept of ownership, e.g: The squirrel feeds her baby from her nut cache).
-att(15592, root).
-
-arg(14697).
-text(14697, Just because an object has unique characteristics does not imply that said object "owns" said characteristics. The characteristics of an object simply represent how said object exists in nature. I understand your point, but I believe there is a distinction between "property" and "characteristic".).
-att(14697, root).
-
-arg(6647).
-text(6647, The concept of "ownership" is a human perception that is imposed upon a noun. Ex. This is an apple vs. This is my apple. The transition from the apple being simply "an apple" to being "my apple" indicates that a subjective change of the human mind has occurred, not an objective change of the apple.).
-support(6647, root).
-
-arg(6841).
-text(6841, I might not own it technically, but nobody else owns it- and they certainly own it to a lesser degree. So i can be the "de facto owner" of something).
-att(6841, root).
 
 arg(14603).
 text(14603, we can understand "own", as a fact of property, even it is not the objective fact, that if I own a thing, that it is objectivly mine. The word "own" can have a functional pragmatical meaning. If someone own a thing, he has some rights for it. "own" indicate this function. ).
@@ -111,17 +29,87 @@ arg(6887).
 text(6887, If one can not truthfully own something, then one can not evaluate the extent to which said something is owned, because said something can not be owned to any extent. In other words, there is no "more" or "less" with regards to owning something, for said something can not be owned in the least.).
 att(6887, 6841).
 
+arg(15663).
+text(15663, If i say "run now" it is a prescription, but if i say "i said run now", it is a description.
+This is only what i wanted to say in the parent premise).
+att(15663, 15645).
+
+arg(15645).
+text(15645, The only thing I take this to mean is that it is possible to have a variety of different legal systems and arrangement of property rights.).
+att(15645, 15605).
+
+arg(15662).
+text(15662, If that doesn’t give directives to others to don’t use the car without the "owner" permission or any others directives, then the "owner" doesn’t own the car in any meaningful way.).
+att(15662, 15644).
+
+arg(15644).
+text(15644, I don't understand why you would think this. "He bought the car, parked it in his driveway, he fixed it up and drove it to work" is a descriptive statement that justify owning something, without giving any sort of directives for how someone should act.).
+att(15644, 15604).
+
+arg(15642).
+text(15642, Your body was given to you as a gift at birth, and you maintain it as property. You do own the organs of your body, what you are describing is a violation of property. The fact that someone can use your body without your permission is proof that protection of property is a biological imperative.).
+att(15642, 14689).
+
+arg(15632).
+text(15632, What matter is not that it is "subjective", what matter is that it is a prescription, and not a description.
+"you own this" is a prescription.
+But "i consider you own this" is a description.
+The two things should not be mingled.).
+support(15632, 15631).
+
+arg(15616).
+text(15616, Ownership is a subjective consensus but is still real. Love is also subjective but real. Example: [1]).
+att(15616, 15597).
+
+arg(15631).
+text(15631, "you love something", is true or false. Loving is a real thing, what people think doesn’t change the fact that you love or not.
+But "that you own something" is relative of the "rules" we choose. It is relative of what people think.).
+att(15631, 15617).
+
+arg(15623).
+text(15623, So does the ability to perceive the curvature of the Earth. Does this make it subjective? No, because the facts don't change by perspective alone. The whole idea of being able to dispute property claims is what allows this to become objectified, ie agreements, transfers, natures, efforts, etc. ).
+att(15623, 15603).
+
+arg(15617).
+text(15617, All your points equally argue the case that one cannot 'Love' a person, place, thing, or idea.).
+att(15617, 15605).
+
+arg(15606).
+text(15606, What prevent you to do that, isn’t that there is a objective ownership on the organs, it is that :
+1) You surely think it is awful to do that.
+2) You consider the person own his organs.
+3) If you do that, you would have problems with our justice system.).
+att(15606, 14649).
+
+arg(15605).
+text(15605, The prescriptions doesn’t describe what is, but the prescriptions themselves exist.).
+att(15605, 15604).
+
 arg(14649).
 text(14649, that means you cannot own yourself or your organs - meaning I can come along with force and take your heart and organs out with surgical equipment and use them for something else, scientific study, to help a loved one of mine with a transplant - even though you'll die I have as much right as you do).
 att(14649, root).
 
+arg(15603).
+text(15603, "then the thought of who owns something would change based on perspective. "
+
+It change based of perspective.).
+att(15603, 15592).
+
+arg(15597).
+text(15597, The fact that you are able to assign actions to ownership such as the extent to which are using something is proof that ownership can be objectified. You can try to deny this process exists, but the only outcome is making claim to no property, or claiming that everything must belong to no one. ).
+att(15597, 14691).
+
+arg(15592).
+text(15592, They aren't subjective terms. If they were, then the thought of who owns something would change based on perspective. Property disputes are a way of expressing differing viewpoints, but this doesn't invalidate the concept of ownership, e.g: The squirrel feeds her baby from her nut cache).
+att(15592, 14691).
+
+arg(14697).
+text(14697, Just because an object has unique characteristics does not imply that said object "owns" said characteristics. The characteristics of an object simply represent how said object exists in nature. I understand your point, but I believe there is a distinction between "property" and "characteristic".).
+att(14697, 14694).
+
 arg(14619).
 text(14619, This is untrue, property is a real thing that can be observed in nature. We can show that one action is the property of another, e.g. a leaf only exists because a tree nourished it, body motion is the property of the nervous system, etc. A beehive exists solely because of the ingenuity of bees).
 att(14619, 6647).
-
-arg(14650).
-text(14650, false, because ownership is subjective and given by other people to that person - so if a group decides that their friend has ownership of X in their eyes, then in the set of those people it is true that the person owns X and ownership is possible. you cannot mandate against ownership unilaterally).
-att(14650, root).
 
 arg(14655).
 text(14655, in a ontological standpoint: there is not ontological natural (science) fact, that I owe my organs.  The organs in this view are just `in me´. Ownership in this sense in not something subjective, it doesn`t even exist. Or you say, that we have a ontological natural right over our body...).
@@ -135,11 +123,23 @@ arg(14689).
 text(14689, Unfortunately, I would agree. One can not realistically own the organs within a body, but rather, one simply uses the organs within a body for means of survival. Human rights are agreed upon in order to protect ourselves from the crude possibility of organ harvesting for capital gain.).
 support(14689, 14649).
 
+arg(14694).
+text(14694, You can not separate the characteristics that are unique properties of objects from the idea of ownership. The "properties" of anything are labeled as such because it is observed to "belong" to a specific case. Your course of action, when you remove the apple or nourish its life, is your "own". ).
+att(14694, 14685).
+
+arg(15646).
+text(15646, It's not only about rules, the rules are agreed upon to help organize and expand ideas. If someone creates something and works to protect it, or if a group of people do the same, there's no reason to assume they aren't acting as the owner. But in other cases, we need a language to describe actors.).
+att(15646, 15631).
+
+arg(14650).
+text(14650, false, because ownership is subjective and given by other people to that person - so if a group decides that their friend has ownership of X in their eyes, then in the set of those people it is true that the person owns X and ownership is possible. you cannot mandate against ownership unilaterally).
+att(14650, root).
+
 arg(14691).
 text(14691, The terms that imply ownership (my, mine, yours, theirs, etc.) are subjective representations. The statement "this is my apple" is an opinion. In order for the above statement to be objectively true, it would have to read as "this is an apple that I use". "To own" = opinion, "to use" = fact.).
 support(14691, root).
 
-arg(14694).
-text(14694, You can not separate the characteristics that are unique properties of objects from the idea of ownership. The "properties" of anything are labeled as such because it is observed to "belong" to a specific case. Your course of action, when you remove the apple or nourish its life, is your "own". ).
-att(14694, 14685).
+arg(6647).
+text(6647, The concept of "ownership" is a human perception that is imposed upon a noun. Ex. This is an apple vs. This is my apple. The transition from the apple being simply "an apple" to being "my apple" indicates that a subjective change of the human mind has occurred, not an objective change of the apple.).
+support(6647, root).
 

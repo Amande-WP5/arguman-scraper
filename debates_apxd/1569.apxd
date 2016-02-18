@@ -1,10 +1,6 @@
 arg(root).
 text(root, How much wood could a wood chuck chuck if a wood chuck could chuck wood?).
 
-arg(8569).
-text(8569, What if he's a disabled woodchuck?).
-att(8569, root).
-
 arg(8508).
 text(8508, bout tree fiddy).
 support(8508, root).
@@ -13,9 +9,13 @@ arg(8618).
 text(8618, Enough to fill my butt.).
 support(8618, root).
 
-arg(8661).
-text(8661, The original premise supposes that the woodchuck COULD, in fact, chuck wood.  Only then does it ask HOW MUCH could be chucked.  To reply 'none' is to contradict the former statement.).
-att(8661, root).
+arg(8323).
+text(8323, the wood chuck is guaranteed an ability to chuck wood. so if the wood chuck could chuck wood, why waste his potential).
+att(8323, 8317).
+
+arg(8569).
+text(8569, What if he's a disabled woodchuck?).
+att(8569, 8323).
 
 arg(8317).
 text(8317, None
@@ -26,13 +26,13 @@ arg(8318).
 text(8318, About 5).
 support(8318, root).
 
+arg(8661).
+text(8661, The original premise supposes that the woodchuck COULD, in fact, chuck wood.  Only then does it ask HOW MUCH could be chucked.  To reply 'none' is to contradict the former statement.).
+att(8661, 8317).
+
 arg(8320).
 text(8320, Maybe 3).
 att(8320, root).
-
-arg(8323).
-text(8323, the wood chuck is guaranteed an ability to chuck wood. so if the wood chuck could chuck wood, why waste his potential).
-att(8323, 8317).
 
 arg(8542).
 text(8542, A woodchuck would chuck all the wood he could chuck if a woodchuck could chuck wood.).

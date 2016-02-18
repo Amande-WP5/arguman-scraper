@@ -1,0 +1,7 @@
+arg(root).
+text(root, All value is subjective).
+
+arg(17360).
+text(17360, I don't like this statement myself, but I can see why someone else would.).
+att(17360, root).
+

@@ -1,10 +1,6 @@
 arg(root).
 text(root, Plants should be given the right to an assisted suicide).
 
-arg(10040).
-text(10040, Just because they could never have actually request an assisted suicide does not mean that they should not have the right to one. ).
-att(10040, root).
-
 arg(9872).
 text(9872, In order to do so, one must be able to determine that a plant has the desire to die which, as of yet, is impossible.).
 att(9872, root).
@@ -12,4 +8,8 @@ att(9872, root).
 arg(10462).
 text(10462, Plant life do not have conciousness and thus do not have "desire". They are controlled by programmed cells so technically they have the right to do what they were designed to do which is live and reproduce for as long as possible before death via disease or the environment.).
 att(10462, 10040).
+
+arg(10040).
+text(10040, Just because they could never have actually request an assisted suicide does not mean that they should not have the right to one. ).
+att(10040, 9872).
 

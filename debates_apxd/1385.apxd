@@ -9,11 +9,11 @@ arg(6465).
 text(6465, Our obnoxious TV program will anger extraterrestrials).
 support(6465, root).
 
-arg(6416).
-text(6416, It is often impossible to avoid broadcasts to space.).
-att(6416, root).
-
 arg(6419).
 text(6419, Modern radio systems that provide signals such as communications, music, TV and other entertainment, must be long-ranged and high-powered to reach a broad audience).
 support(6419, 6416).
+
+arg(6416).
+text(6416, It is often impossible to avoid broadcasts to space.).
+att(6416, root).
 

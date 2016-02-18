@@ -3,29 +3,19 @@ text(root, The NSA should not have access to our personal information, even if i
 
 arg(7839).
 text(7839, There is no evidence that even one life will be saved.).
-att(7839, root).
+att(7839, 7762).
 
 arg(7851).
 text(7851, Because it is in direct violation of the 4th amendment ).
 support(7851, root).
 
-arg(13407).
-text(13407, People that look up how to build bombs could be investigated to prevent a terrorist act
-
-They could read it if you plan something with someone communicating in the internet).
-att(13407, root).
-
-arg(7853).
-text(7853, If every decision you make is visible to someone else you would be inclined to alter you privately held notions to match those that are 'acceptable' notions in public. ).
-att(7853, root).
+arg(7756).
+text(7756, storing all our information in one place would make it accessible to terrorists).
+support(7756, root).
 
 arg(7857).
 text(7857, The risk of losing a human life is too great to not justify losing your privacy to save it. The risk (A human life) out weighs the reward (Your privacy).).
 att(7857, 7839).
-
-arg(7858).
-text(7858, Even if said data was not stored in a single place, the same mechanisms can still be exploited by other parties.).
-support(7858, root).
 
 arg(7865).
 text(7865, but i don't see the NSA as public
@@ -33,17 +23,9 @@ text(7865, but i don't see the NSA as public
 the are workers that see enought crazy shit so i don't have to be embarrased if they catch me picking my nose).
 att(7865, 7853).
 
-arg(7756).
-text(7756, storing all our information in one place would make it accessible to terrorists).
-support(7756, root).
-
 arg(7878).
 text(7878, We are gauranteed the right to be free from unwarranted search and seizure ).
 att(7878, 7865).
-
-arg(7762).
-text(7762, Our privacy is less important than saving potentially hundreds of lives).
-att(7762, root).
 
 arg(7889).
 text(7889, What is the use of your browser history for terrorists?).
@@ -53,36 +35,14 @@ arg(7904).
 text(7904, The fact that sensitive information can be obtained from mass data collection ).
 support(7904, 7889).
 
-arg(7907).
-text(7907, NSA employees who collect nudes of ramdom people are not going to prevent anything.).
-support(7907, root).
-
 arg(7909).
 text(7909, Government incompetence ).
 support(7909, 7907).
-
-arg(7789).
-text(7789, if i have no privacy i still have life
-
-if i have no life i also have no privacy).
-att(7789, root).
-
-arg(13388).
-text(13388, That's like saying you don't need free speech because you have nothing to say. The right to privacy is not there to keep criminals and terrorists hidden. It's there to keep the government from commiting unwarranted surveilance on its citizens.).
-att(13388, root).
-
-arg(13202).
-text(13202, The things NSA can do to prevent terrorism out-shadow by far the harm terrorists can do with the browsing histories of millions of people, and are of positive influence on the lives of those very citizens.).
-att(13202, root).
 
 arg(13221).
 text(13221, The right to privacy is defined as a right,
 not a privilege worth sacrificing in anticipation of potential crimes.).
 att(13221, 7857).
-
-arg(13352).
-text(13352, If you follow the law, you have nothing to hide. I, for one, am completely Ok with the government looking through my emails, and texts and shit because I've done nothing wrong, why would I care? It's not like they can publish them. ).
-att(13352, root).
 
 arg(13223).
 text(13223, the NSA knowing what kind of porn you masturbate to does not help to protect against terrorists in any way ).
@@ -96,10 +56,6 @@ arg(13424).
 text(13424, Freedom of Speech and Right to Privacy, are not on the same wavelength and as such, are not comparable. I stand by my original premise. Even if the government was going through your texts, what are they gonna do? If they publish them un-lawfully, you can sue them. I really don't see the issue. ).
 att(13424, 13388).
 
-arg(13328).
-text(13328, The NSA (or any other organization) is not an enduring omnipotent and benevolent being. The constitution restricts powers of government. Increasing amounts of power can be abused to increasing amounts of public damage. It is foolish to assume the good intentions of today cannot be exploited tomorrow).
-support(13328, root).
-
 arg(13199).
 text(13199, what is the use of your browser history for the NSA? ).
 att(13199, 7889).
@@ -107,10 +63,6 @@ att(13199, 7889).
 arg(13277).
 text(13277, Your premise is terribly one-sided; porn, or personal matters are not the only thing in the browser history of dozens of millions of citizens. If there is no monitoring from NASA, the US government is apathetic towards not only its citizens' safety, but also towards its future and terrorism risks.).
 att(13277, 13223).
-
-arg(13425).
-text(13425, I don't understand what you're saying. If you've broken the law then you've broken the law. If you haven't, those sifting through email's and texts can't just make up charges. The law is the only thing that matters when it comes to issues like this. ).
-att(13425, root).
 
 arg(13395).
 text(13395, That's under the false assumption that the law is always just, because the justification for a law is subjective, and what is considered "wrong" is also subjective. Therefore, the argument "those who do no wrong have nothing to hide" has no bearing on logic and is not a sufficient argument.).
@@ -123,4 +75,52 @@ att(13320, 7858).
 arg(13321).
 text(13321, How is this appeal to authority? This is an assertion of fact which ought to invalidate the actions of the NSA in the first place.).
 support(13321, 7851).
+
+arg(7762).
+text(7762, Our privacy is less important than saving potentially hundreds of lives).
+att(7762, root).
+
+arg(7853).
+text(7853, If every decision you make is visible to someone else you would be inclined to alter you privately held notions to match those that are 'acceptable' notions in public. ).
+att(7853, 7789).
+
+arg(7858).
+text(7858, Even if said data was not stored in a single place, the same mechanisms can still be exploited by other parties.).
+support(7858, 7756).
+
+arg(7907).
+text(7907, NSA employees who collect nudes of ramdom people are not going to prevent anything.).
+support(7907, root).
+
+arg(7789).
+text(7789, if i have no privacy i still have life
+
+if i have no life i also have no privacy).
+att(7789, root).
+
+arg(13352).
+text(13352, If you follow the law, you have nothing to hide. I, for one, am completely Ok with the government looking through my emails, and texts and shit because I've done nothing wrong, why would I care? It's not like they can publish them. ).
+att(13352, root).
+
+arg(13328).
+text(13328, The NSA (or any other organization) is not an enduring omnipotent and benevolent being. The constitution restricts powers of government. Increasing amounts of power can be abused to increasing amounts of public damage. It is foolish to assume the good intentions of today cannot be exploited tomorrow).
+support(13328, root).
+
+arg(13202).
+text(13202, The things NSA can do to prevent terrorism out-shadow by far the harm terrorists can do with the browsing histories of millions of people, and are of positive influence on the lives of those very citizens.).
+att(13202, 13199).
+
+arg(13425).
+text(13425, I don't understand what you're saying. If you've broken the law then you've broken the law. If you haven't, those sifting through email's and texts can't just make up charges. The law is the only thing that matters when it comes to issues like this. ).
+att(13425, 13395).
+
+arg(13407).
+text(13407, People that look up how to build bombs could be investigated to prevent a terrorist act
+
+They could read it if you plan something with someone communicating in the internet).
+att(13407, 13199).
+
+arg(13388).
+text(13388, That's like saying you don't need free speech because you have nothing to say. The right to privacy is not there to keep criminals and terrorists hidden. It's there to keep the government from commiting unwarranted surveilance on its citizens.).
+att(13388, 13352).
 

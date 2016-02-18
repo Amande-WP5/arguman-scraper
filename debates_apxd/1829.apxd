@@ -1,19 +1,183 @@
 arg(root).
 text(root, The government should be required to use open source software (for civilian operations at least)).
 
+arg(18607).
+text(18607, Fair enough. ).
+support(18607, 18601).
+
+arg(18597).
+text(18597, Fair enough. Let's suppose this mandate applies to countries with the available resources to do so then. Say, anything larger than 10,000,000 people (includes Portugal, excludes Ireland).).
+att(18597, 18549).
+
+arg(18549).
+text(18549, I could write about several use cases, which have taught me that I shouldn't _require_ mandatory OSS in commercial proposals. I work in gvmt IT in a small country. Quality OSS coders are scarce.).
+att(18549, 18400).
+
+arg(18548).
+text(18548, Open-source software (OSS) is very various. You can't say that OSS is better by definition. Large stable OSS with large user base is good. Small OSS frqntly has lots of bugs which nobody has time/inclination to fix. The cost of fixing bugs is spread btwn users.  ).
+att(18548, 18400).
+
+arg(18601).
+text(18601, Sorry, but no quick simple rules like that would work well. For example, your premise includes not only Portugal, but also Congo, Sudan, Niger and Zimbabwe. I do not profess to know well African countries, but I sincerely doubt they all have decent IT sector, but they are much larger than 10M each.).
+att(18601, 18597).
+
+arg(16410).
+text(16410, Adding new features or maintaining the software will be cheaper since the government could hire anyone to work on it (including the original developers of the application).
+This reduces the possibilities that the original software developers overcharge the government for adding "must have" features).
+support(16410, root).
+
+arg(18400).
+text(18400, That would be efficient, assuming the software market is working well and the benefits of developing open source software are considered in the governmental policy decisions.).
+att(18400, 17498).
+
+arg(17127).
+text(17127, Many civilian activities are classified, and for good reason. Everyday, thousands of Federal employees are actively involved in supporting military operations around the globe. Diplomatic negotiations require assurances that they cannot access by the world. Police systems assist in sensitive cases.).
+att(17127, root).
+
+arg(16728).
+text(16728, It increases transparency of government spending to make or update software.).
+support(16728, root).
+
+arg(17496).
+text(17496, Therefore, if you have contractors who have learned your domain, you don't wish to change them.
+
+It is frequent that even if you have source code for your IT system, any other contractors would rather offer you to rebuild it from scratch instead of improving on existing sw made by smdy else.).
+att(17496, 16410).
+
+arg(17495).
+text(17495, Only true theoretically and for generic, usually simple, types of software(sw).
+
+1. Any sw that works deeper in a particular domain requires that programmers possess domain knowledge, which can only be gained by experience.
+
+Eg. accounting sw, library sw, etc.).
+att(17495, 16410).
+
+arg(17494).
+text(17494, True for a small part of open source software that is well-supported, including monetary support.
+
+Not all open-source software is like that, and the non-monopolistic bugfixing freq enough involves a user fixing his local copy of the software, never to push the bugfix back to the repository.).
+att(17494, 16717).
+
+arg(16716).
+text(16716, Using and therefore developing open source software has economic benefits for society as well as being a social good: the benefit of improving the software accrues not just to the people creating the software and the people paying for the software to be created.).
+support(16716, root).
+
+arg(17417).
+text(17417, Open Source is not Open Data.
+Open Source is about the source code. Many cryptographic tools are Open Source.).
+att(17417, 17127).
+
+arg(17137).
+text(17137, There's no reason that the databases could not be encrypted in some form or other. Even if not, there are certainly ways to pseudononymize data.).
+att(17137, 17127).
+
+arg(16613).
+text(16613, It would turn us all into communists).
+att(16613, root).
+
+arg(16735).
+text(16735, only if the developer is still around, agrees on the urgency and you have paid your maintenance fee.).
+att(16735, 16450).
+
+arg(16719).
+text(16719, "open source" is an ambiguous term.  Its weakest meaning would be that the source is viewable with no additional rights conferred.).
+att(16719, 16716).
+
+arg(16729).
+text(16729, It is simply not true that "no other rights are implied". Open Source has an official definition that implies many other rights.).
+att(16729, 16632).
+
 arg(11091).
 text(11091, It increases the odds that security threats will get patched).
 support(11091, root).
+
+arg(16718).
+text(16718, microsoft's .net framework is also open source, so is bill gates a communist?).
+att(16718, 16613).
+
+arg(16717).
+text(16717, With open source software, the pool of people who are empowered to fix the software is usually vastly higher than the pool of people who are empowered to fix a bug in any piece of proprietary software. There is no longer a monopoly provider of bug fixes, which may lead to a more efficient outcome.).
+att(16717, 16409).
 
 arg(11092).
 text(11092, It decreases the odds of systemic election fraud (see Kansas)).
 support(11092, root).
 
+arg(16715).
+text(16715, It also makes vulnerabilities visible to "friends" who may point them out before "the enemy" finds them.).
+att(16715, 11093).
+
+arg(16662).
+text(16662, Something critical for government is often critical for everyday life. If there was a bug affecting traffic lights, it would get fixed very quickly.).
+att(16662, 16451).
+
+arg(16660).
+text(16660, How do you figure?).
+att(16660, 16613).
+
+arg(16632).
+text(16632, Open Source software can be commercial, sold at a cost. Open Source only means that the source code is available for reading, no other rights are implied.).
+att(16632, 11094).
+
 arg(11093).
 text(11093, It makes vulnerabilities visible to "the enemy").
 att(11093, root).
 
+arg(16451).
+text(16451, Government software not necessarily is critical, and if it is critical just for government there is no guarantee that someone is going to fix the bug unless you pay someone to do it.).
+att(16451, 16446).
+
+arg(16450).
+text(16450, That is because the bug was critical, not because it was open-source. If a bug that big was discovered in privative software they would fix it as fast as Heartbleed. ).
+att(16450, 16446).
+
+arg(16447).
+text(16447, If everything must be that black-and-white and argument will never be settled. The world is full of probabilities, not certainties. As such, it does not matter if it is not certain, so long as it is more likely.).
+att(16447, 16405).
+
+arg(16446).
+text(16446, It does if it's critical to everyday life. OpenSSL got fixed very quickly after Heartbleed was noticed. Governmental software would likely be considered similarly critical.).
+att(16446, 16409).
+
+arg(16409).
+text(16409, The creation of a patch relies on the existence of contracts or "enhancing the image of the developers". Just the problem to be visible doesn't implies that someone is going fix it.).
+att(16409, 11091).
+
+arg(16406).
+text(16406, That doesn't imply that "the enemy" can not find it if the code is hidden).
+att(16406, 11093).
+
+arg(16405).
+text(16405, There is no guarantee that the cost of the license is going to be greater than the benefit of some features that may not be available in open source software.).
+att(16405, 11094).
+
 arg(11094).
 text(11094, It would save taxpayer money to not license software).
 support(11094, root).
+
+arg(18240).
+text(18240, When the software crashes, who does the government address to solve the problem, and who does it sue in order to get repaid for the eventual losses?).
+att(18240, root).
+
+arg(18440).
+text(18440, I left it intentionally non-specific. I don't see any reason why the argument couldn't apply to America as well as South Africa or [country]. There may be legal issues in each one, but I'm more trying to argue in terms of consequences and principals.).
+att(18440, 18401).
+
+arg(16452).
+text(16452, We are talking about banning privative software, so it is black and white. For example if PostgreSQL were privative then the government would not have access to scalable SQL databases, which are great and having a good SQL database usually is worth the license (ask Oracle).).
+att(16452, 16447).
+
+arg(18401).
+text(18401, Presumably this is referring either to 'whichever government one is under' or to 'the government I am under'.).
+att(18401, root).
+
+arg(19502).
+text(19502, because good quality free software should be a human resource available to all, not a commodity artifically kept scare and held away from people.).
+support(19502, root).
+
+arg(17498).
+text(17498, The government should use what is more cost-effective within projected lifecycle of sw.
+
+It should allow solutions based on stable *de facto* standard open-source software in its tenders, but let the market regulate, whether they get offered by contractors at competitive short and long-term prices).
+att(17498, root).
 

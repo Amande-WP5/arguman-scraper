@@ -1,0 +1,23 @@
+arg(root).
+text(root, We shouldn't go to Wahaca for lunch.).
+
+arg(17314).
+text(17314, the average meal has over 4500 calories).
+support(17314, root).
+
+arg(17312).
+text(17312, you can pay by card).
+att(17312, root).
+
+arg(17311).
+text(17311, the seating is comfortable if not exceptional).
+att(17311, root).
+
+arg(17310).
+text(17310, its close by).
+att(17310, root).
+
+arg(17309).
+text(17309, They have amazing pork scratchings).
+att(17309, root).
+

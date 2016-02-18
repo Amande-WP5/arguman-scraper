@@ -1,0 +1,19 @@
+arg(root).
+text(root, UNHCR is an inefficient organization).
+
+arg(19520).
+text(19520, They abuse children using mostly saddening photos of them to collect more donations discounted from taxes. In reality, children in refugee camps are extremely happy although they lack basic needs. ).
+support(19520, root).
+
+arg(19519).
+text(19519, They maintain only a few camps in middle east, and these camps still lack clothing and educational tools. ).
+support(19519, root).
+
+arg(19518).
+text(19518, They have built so little, with a very large budget. Its 2015 budget was about 650 million dollars, and they haven't kept many of the promises they made before collecting this money. For example; building water system for camps in Turkey - Syria border.).
+support(19518, root).
+
+arg(19521).
+text(19521, The members of UNCHR take business class flights and stay in Hilton hotels in nearest towns. They don't stay / sleep in the camp itself. ).
+support(19521, root).
+

@@ -1,37 +1,195 @@
 arg(root).
 text(root, "More than all else you guard, watch your heart, for out of it, the surges of life").
 
-arg(15381).
-text(15381, There is so much you can do to fix a heart; transplant, bypass, repairs, replacements).
-att(15381, root).
+arg(15387).
+text(15387,  During the heart surgery there was some blood that was vacuum intolerant a heart and lung machine that was reuse later on in the surgery that is good because they get to use it in and does not get wasted . ).
+support(15387, root).
 
-arg(15226).
-text(15226, The heart may be able to function without other body parts, but the body as a whole is dependent on a complex system with many necessary components. BAAAAAAM).
-att(15226, 14532).
+arg(15220).
+text(15220, True, the heart is the soul of the body. It is basically your "engine" , you have to take care of your car so it can last.).
+support(15220, root).
+
+arg(15400).
+text(15400, We agree that you cannot live without those listed organs, but the body is still capable of functioning with out other organs such as the one listed above. #billnyejustwantedtomakeyoufeelgoodaboutyourself #getwreckedagain).
+att(15400, 15391).
+
+arg(15399).
+text(15399, The basis of cardio thoracics was revolutionized when the realization was made that one is not dead when the heart isn't beating--it therefore allowed for acceleration of surgical techniques to improve upon the quality of life of a patient who before would have died from heart complications. ).
+support(15399, 15390).
+
+arg(15392).
+text(15392, It is Important to point out the importance of the heart in the complex system within our body.).
+att(15392, 15383).
+
+arg(15398).
+text(15398, It is easier to balance both emotional and physical pain at the same time).
+att(15398, 15218).
+
+arg(15388).
+text(15388, Artificial intelligence is nowhere near the level of mimicking the emotional complexity of a human being. ).
+att(15388, 15386).
+
+arg(15397).
+text(15397, This is true, however there are more reasons that contribute to a healthy heart, mind and body. 
+).
+att(15397, 14519).
+
+arg(15386).
+text(15386, Think about Artificial Intelligence can't you argue they live and give off emotions).
+att(15386, 15225).
+
+arg(15393).
+text(15393, The blood was not wasted because the heart lung machine sucked up all the blood and returned it to the body).
+att(15393, 15387).
+
+arg(15391).
+text(15391, Let's see how #rekt you feel if you try to live without a liver, brain, digestive tract, lungs, skin, or nervous system. #gotem).
+att(15391, 15229).
+
+arg(15382).
+text(15382, Part of your heart health is determined by genetics.).
+att(15382, 15228).
+
+arg(15185).
+text(15185, Why is fast food still so popular?  Didn't you hear the latest report on processed meats and bacon?  That stuff will kill you!
+Take your pick - cancer or heart attack - just a question of which one happens first.).
+att(15185, 14521).
+
+arg(15384).
+text(15384, Nick Franco agrees with this because he understands the information on the heart knowing that it is very important in the human body. A healthy heart =happy life.
+).
+support(15384, root).
+
+arg(15230).
+text(15230, Your heart is what makes you enjoy life and makes you feel great, so don't abuse it because your heart is one really important part of your body because without it your body would not function at all.).
+support(15230, root).
+
+arg(14481).
+text(14481, Over exertion increases blood flow & burns calories & strengthens your body.).
+att(14481, root).
+
+arg(15359).
+text(15359, Current technologies available hold options for deteriorated hearts.  Replacement valves and additional pumping power is available.  Problem is - open heart surgery is the only way you get those.......risky!).
+att(15359, 15230).
+
+arg(15219).
+text(15219, What's the point of living life if you can't enjoy it? We can get cancer or a heart attack from many other things  ).
+support(15219, 15185).
+
+arg(15186).
+text(15186, Jay - the CPR guy told us that just about everyone he has used an AED on has been super sweaty - from exercising - go figure.).
+att(15186, 14481).
+
+arg(14515).
+text(14515, Because we only live once that's the motto.also we want to be happy and not worry about our heart ).
+support(14515, 14480).
+
+arg(14517).
+text(14517, What's the point of living if you don't enjoy life. ).
+support(14517, 14480).
+
+arg(14524).
+text(14524, Because the heart is often associated with your feelings despite your brain controlling your emotions.  ).
+support(14524, 14484).
+
+arg(14528).
+text(14528, But to stay healthy you should make good decisions and take care of your body which will lead to a happy and healthy life.).
+att(14528, 14522).
+
+arg(14529).
+text(14529, You should monitor and be aware of your health status by consuming unhealthy foods or drinks in moderation.).
+att(14529, 14482).
+
+arg(14531).
+text(14531, People frequently die from heart disease, and modern medicine is not 100% successful. Take care of your body!!!).
+att(14531, 14482).
+
+arg(14532).
+text(14532, Aside from the brain, we think the heart can actually function just fine without most other body parts. 💁🎓💯💡).
+att(14532, 14518).
+
+arg(15389).
+text(15389, From what we learned during the live surgery the heart can be non responsive but the person is not dead in fact they are very much alive because the new definition of death means that the person is completely brain dead meaning no electrical impulses.).
+att(15389, 14513).
+
+arg(15385).
+text(15385, You should waste your original heart  because your aren't granted a new heart also if you don't take care of it then you will die sooner then you can get a heart. Also you shouldn't live as though u always have a second option ).
+att(15385, 15359).
+
+arg(15356).
+text(15356, Most people do have some amount of fat around the outside of their heart - and still might not have clogged blood vessels.  Amazing!  That was the case with the heart patient we observed in the auditorium.).
+att(15356, 14529).
+
+arg(15383).
+text(15383, You ignore the lungs which provides oxygenated blood to the heart. Please give credit where credit is due.).
+att(15383, 14532).
+
+arg(14480).
+text(14480, Enjoy your life..... Not worrying about everything you splurge on whether it be physical or emotional).
+att(14480, root).
+
+arg(15355).
+text(15355, during a heart surgery - the heart is stopped.......That used to be the definition of "dead".  Now we understand that brain waves are the indicator of life.).
+att(15355, 14514).
+
+arg(15229).
+text(15229, The body does need several components, but can still function if it is lacking some. It is not uncommon for someone to have one lung or kidney or no appendix, but without the heart the body cannot function. #ouch #getwrecked).
+att(15229, 15226).
+
+arg(15216).
+text(15216, Just because you might be able to fix it doesn't mean you should let your health deteriorate. Keep healthy before you have to).
+support(15216, 14483).
+
+arg(15227).
+text(15227, It also works with the brain, and their compound leads to daily function.  Without a heart or without a brain a person would not be able to live. 
+).
+att(15227, 14484).
 
 arg(15228).
 text(15228, Your hearts health also is controlled by your physical health which is controlled by your daily activities you perform).
 att(15228, 14524).
 
-arg(14514).
-text(14514, Because the heart makes all other functions possible. If you damage that you damage your quality of life).
-support(14514, root).
+arg(14479).
+text(14479, Quite literally the necessary nourishment for the cells of your body depend on its dependable flow.
+).
+att(14479, root).
 
-arg(14517).
-text(14517, What's the point of living if you don't enjoy life. ).
-support(14517, root).
+arg(15226).
+text(15226, The heart may be able to function without other body parts, but the body as a whole is dependent on a complex system with many necessary components. BAAAAAAM).
+att(15226, 14532).
 
-arg(14518).
-text(14518, Most organs in your body are essential, and the heart is just a component of a complex system that wouldn't function without the other parts.).
-att(14518, root).
+arg(15225).
+text(15225, Emotions come from the brain, the heart is just the essence of life, no heart, no brain therefore no life and no emotion.).
+att(15225, 15217).
+
+arg(15218).
+text(15218, It is physically easier to heal than to emotionally heal!!!!!!!!!).
+support(15218, 15215).
+
+arg(15217).
+text(15217, But if your heart is physically hurt you can die. Therefore you can't even have emotional hurt. ).
+att(15217, 15183).
+
+arg(15215).
+text(15215, It is good
+).
+support(15215, 14484).
+
+arg(15188).
+text(15188, Ever hear of Edgar Allen Poe's "tell tale heart"?  Your heart's intrinsic circuitry does keep it beating - even out of your body for a short time.  Weird!).
+support(15188, 14527).
 
 arg(14519).
 text(14519, A healthy body leads to a healthy (and happy) mind, and the heart is the foundation of a healthy body. ).
 support(14519, root).
 
-arg(14520).
-text(14520, The vast complexities and functions of the brain outweigh that of the heart.).
-att(14520, root).
+arg(15183).
+text(15183, a hurting heart colors the amount of joy one can have in life.  Be it physical or emotional hurt.).
+att(15183, 14517).
+
+arg(14521).
+text(14521, The heart supplies the whole body with the necessary nutrients to function properly, including the brain. Therefore the brain cannot function without the heart.).
+support(14521, 14484).
 
 arg(14482).
 text(14482, As long as cpr and modern medicine exists, I say "Go for it!" Eat drink and be merry!).
@@ -41,25 +199,25 @@ arg(14483).
 text(14483, If you abuse your heart, beware the cardiovascular Drano!  You will end up on the OR for angioplasty or bypass surgery.).
 support(14483, root).
 
+arg(14514).
+text(14514, Because the heart makes all other functions possible. If you damage that you damage your quality of life).
+support(14514, 14483).
+
+arg(14518).
+text(14518, Most organs in your body are essential, and the heart is just a component of a complex system that wouldn't function without the other parts.).
+att(14518, 14516).
+
 arg(14484).
 text(14484, The more I know about the human heart, the more amazing I think it is.  It rivals the brain in so many ways.).
 support(14484, root).
 
-arg(14524).
-text(14524, Because the heart is often associated with your feelings despite your brain controlling your emotions.  ).
-support(14524, 14484).
+arg(14520).
+text(14520, The vast complexities and functions of the brain outweigh that of the heart.).
+att(14520, 14484).
 
 arg(14527).
 text(14527, You can survive without some organs, but the heart is vital for life. I am amazed how it works involuntarily. <3).
 support(14527, root).
-
-arg(14528).
-text(14528, But to stay healthy you should make good decisions and take care of your body which will lead to a happy and healthy life.).
-att(14528, root).
-
-arg(14529).
-text(14529, You should monitor and be aware of your health status by consuming unhealthy foods or drinks in moderation.).
-att(14529, 14482).
 
 arg(14516).
 text(14516, Because the heart is the main component in the body, without it there is no function withthin it ).
@@ -70,186 +228,28 @@ text(14530, The heart spreads blood and oxygen to the brain and vital organs, ma
 ).
 support(14530, root).
 
-arg(14531).
-text(14531, People frequently die from heart disease, and modern medicine is not 100% successful. Take care of your body!!!).
-att(14531, 14482).
-
 arg(14513).
 text(14513, There are two ways to be dead, brain dead and clinically dead, so neither is more important than the other).
 att(14513, root).
-
-arg(14532).
-text(14532, Aside from the brain, we think the heart can actually function just fine without most other body parts. 💁🎓💯💡).
-att(14532, 14518).
-
-arg(14479).
-text(14479, Quite literally the necessary nourishment for the cells of your body depend on its dependable flow.
-).
-att(14479, root).
-
-arg(14515).
-text(14515, Because we only live once that's the motto.also we want to be happy and not worry about our heart ).
-support(14515, root).
-
-arg(14480).
-text(14480, Enjoy your life..... Not worrying about everything you splurge on whether it be physical or emotional).
-att(14480, root).
-
-arg(14521).
-text(14521, The heart supplies the whole body with the necessary nutrients to function properly, including the brain. Therefore the brain cannot function without the heart.).
-support(14521, 14484).
-
-arg(15356).
-text(15356, Most people do have some amount of fat around the outside of their heart - and still might not have clogged blood vessels.  Amazing!  That was the case with the heart patient we observed in the auditorium.).
-att(15356, 14529).
-
-arg(15382).
-text(15382, Part of your heart health is determined by genetics.).
-att(15382, root).
-
-arg(15400).
-text(15400, We agree that you cannot live without those listed organs, but the body is still capable of functioning with out other organs such as the one listed above. #billnyejustwantedtomakeyoufeelgoodaboutyourself #getwreckedagain).
-att(15400, root).
-
-arg(15385).
-text(15385, You should waste your original heart  because your aren't granted a new heart also if you don't take care of it then you will die sooner then you can get a heart. Also you shouldn't live as though u always have a second option ).
-att(15385, root).
-
-arg(15221).
-text(15221, Because you should involve yourself just into what you think you need to do to play n for a good future, do what you want in the moment, obviously if it's appropriate, because you won't be young forever ).
-att(15221, root).
-
-arg(15391).
-text(15391, Let's see how #rekt you feel if you try to live without a liver, brain, digestive tract, lungs, skin, or nervous system. #gotem).
-att(15391, root).
-
-arg(15230).
-text(15230, Your heart is what makes you enjoy life and makes you feel great, so don't abuse it because your heart is one really important part of your body because without it your body would not function at all.).
-support(15230, root).
-
-arg(15384).
-text(15384, Nick Franco agrees with this because he understands the information on the heart knowing that it is very important in the human body. A healthy heart =happy life.
-).
-support(15384, root).
-
-arg(15227).
-text(15227, It also works with the brain, and their compound leads to daily function.  Without a heart or without a brain a person would not be able to live. 
-).
-att(15227, 14484).
-
-arg(14481).
-text(14481, Over exertion increases blood flow & burns calories & strengthens your body.).
-att(14481, root).
-
-arg(15388).
-text(15388, Artificial intelligence is nowhere near the level of mimicking the emotional complexity of a human being. ).
-att(15388, root).
-
-arg(15186).
-text(15186, Jay - the CPR guy told us that just about everyone he has used an AED on has been super sweaty - from exercising - go figure.).
-att(15186, 14481).
-
-arg(15183).
-text(15183, a hurting heart colors the amount of joy one can have in life.  Be it physical or emotional hurt.).
-att(15183, 14517).
 
 arg(14522).
 text(14522, Enjoy your life to your fullest. Always stay positive and happy. Live with no regrets, take no L's #W).
 att(14522, root).
 
-arg(15216).
-text(15216, Just because you might be able to fix it doesn't mean you should let your health deteriorate. Keep healthy before you have to).
-support(15216, 14483).
+arg(15390).
+text(15390, The stopping of the heart during surgery is temporary, and the only reason the body does not die is because of a heart-lung machine which takes over the process of gas exchange while the heart is operated upon. ).
+att(15390, 15355).
 
 arg(15184).
 text(15184, the ultimate surges / connections are the stuff of a pulse.  "Pacemaker" implies not only the rate of heartbeats...but also the rate of possible activity. Wildly abnormal heart rhythms are not compatible with life.
 Guard your heart.).
 support(15184, 14520).
 
-arg(15188).
-text(15188, Ever hear of Edgar Allen Poe's "tell tale heart"?  Your heart's intrinsic circuitry does keep it beating - even out of your body for a short time.  Weird!).
-support(15188, 14527).
+arg(15381).
+text(15381, There is so much you can do to fix a heart; transplant, bypass, repairs, replacements).
+att(15381, root).
 
-arg(15229).
-text(15229, The body does need several components, but can still function if it is lacking some. It is not uncommon for someone to have one lung or kidney or no appendix, but without the heart the body cannot function. #ouch #getwrecked).
-att(15229, root).
-
-arg(15215).
-text(15215, It is good
-).
-support(15215, 14484).
-
-arg(15217).
-text(15217, But if your heart is physically hurt you can die. Therefore you can't even have emotional hurt. ).
-att(15217, 15183).
-
-arg(15219).
-text(15219, What's the point of living life if you can't enjoy it? We can get cancer or a heart attack from many other things  ).
-support(15219, root).
-
-arg(15225).
-text(15225, Emotions come from the brain, the heart is just the essence of life, no heart, no brain therefore no life and no emotion.).
-att(15225, 15217).
-
-arg(15218).
-text(15218, It is physically easier to heal than to emotionally heal!!!!!!!!!).
-support(15218, 15215).
-
-arg(15392).
-text(15392, It is Important to point out the importance of the heart in the complex system within our body.).
-att(15392, root).
-
-arg(15359).
-text(15359, Current technologies available hold options for deteriorated hearts.  Replacement valves and additional pumping power is available.  Problem is - open heart surgery is the only way you get those.......risky!).
-att(15359, 15230).
-
-arg(15386).
-text(15386, Think about Artificial Intelligence can't you argue they live and give off emotions).
-att(15386, 15225).
-
-arg(15389).
-text(15389, From what we learned during the live surgery the heart can be non responsive but the person is not dead in fact they are very much alive because the new definition of death means that the person is completely brain dead meaning no electrical impulses.).
-att(15389, 14513).
-
-arg(15220).
-text(15220, True, the heart is the soul of the body. It is basically your "engine" , you have to take care of your car so it can last.).
-support(15220, root).
-
-arg(15387).
-text(15387,  During the heart surgery there was some blood that was vacuum intolerant a heart and lung machine that was reuse later on in the surgery that is good because they get to use it in and does not get wasted . ).
-support(15387, root).
-
-arg(15383).
-text(15383, You ignore the lungs which provides oxygenated blood to the heart. Please give credit where credit is due.).
-att(15383, 14532).
-
-arg(15399).
-text(15399, The basis of cardio thoracics was revolutionized when the realization was made that one is not dead when the heart isn't beating--it therefore allowed for acceleration of surgical techniques to improve upon the quality of life of a patient who before would have died from heart complications. ).
-support(15399, root).
-
-arg(15390).
-text(15390, The stopping of the heart during surgery is temporary, and the only reason the body does not die is because of a heart-lung machine which takes over the process of gas exchange while the heart is operated upon. ).
-att(15390, root).
-
-arg(15355).
-text(15355, during a heart surgery - the heart is stopped.......That used to be the definition of "dead".  Now we understand that brain waves are the indicator of life.).
-att(15355, 14514).
-
-arg(15185).
-text(15185, Why is fast food still so popular?  Didn't you hear the latest report on processed meats and bacon?  That stuff will kill you!
-Take your pick - cancer or heart attack - just a question of which one happens first.).
-att(15185, 14521).
-
-arg(15393).
-text(15393, The blood was not wasted because the heart lung machine sucked up all the blood and returned it to the body).
-att(15393, 15387).
-
-arg(15397).
-text(15397, This is true, however there are more reasons that contribute to a healthy heart, mind and body. 
-).
-att(15397, 14519).
-
-arg(15398).
-text(15398, It is easier to balance both emotional and physical pain at the same time).
-att(15398, 15218).
+arg(15221).
+text(15221, Because you should involve yourself just into what you think you need to do to play n for a good future, do what you want in the moment, obviously if it's appropriate, because you won't be young forever ).
+att(15221, root).
 

@@ -9,9 +9,9 @@ arg(7415).
 text(7415, Uniforms can be very expensive for less well off families.).
 att(7415, root).
 
-arg(7424).
-text(7424, Struggling families should have their uniforms subsidised. ).
-att(7424, root).
+arg(7454).
+text(7454, It acts as a leveller for less well-off children.).
+support(7454, root).
 
 arg(7448).
 text(7448, Some school uniforms are often cheaper to purchase than most casual clothes).
@@ -21,31 +21,31 @@ arg(7450).
 text(7450, This uniformity could limit individuality).
 att(7450, 7401).
 
-arg(7454).
-text(7454, It acts as a leveller for less well-off children.).
-support(7454, root).
-
-arg(7455).
-text(7455, It can reduce the harm to students' reputation whose choice/range of clothing may be seen as unfashionable or 'uncool'.).
-support(7455, root).
-
 arg(7478).
 text(7478, Mufti days and fundraisers which earn more money for the school also allow students to show off their individuality with costumes etc).
 att(7478, 7450).
-
-arg(7491).
-text(7491, MEIN ARISCHE KIDS WILLZ BE BEAUTIFUL IN UNIFORM HAAHAHAHAHAH).
-support(7491, root).
 
 arg(7494).
 text(7494, These kind of events are not frequent and this argument implies that introducing school uniforms will also include introducing excepted days conceding that non-uniform clothing allows for expression of individuality while uniform does not.).
 att(7494, 7478).
 
+arg(7518).
+text(7518, Uniforms by definition are not supposed to promote individuality.).
+att(7518, 7494).
+
+arg(7455).
+text(7455, It can reduce the harm to students' reputation whose choice/range of clothing may be seen as unfashionable or 'uncool'.).
+support(7455, root).
+
+arg(7491).
+text(7491, MEIN ARISCHE KIDS WILLZ BE BEAUTIFUL IN UNIFORM HAAHAHAHAHAH).
+support(7491, root).
+
 arg(7498).
 text(7498, Uniforms are useless and expensive. Kids should have an accessory, such as a brooch, to identify them as members of the institution, not a whole set of clothing.).
 att(7498, root).
 
-arg(7518).
-text(7518, Uniforms by definition are not supposed to promote individuality.).
-att(7518, 7494).
+arg(7424).
+text(7424, Struggling families should have their uniforms subsidised. ).
+att(7424, root).
 

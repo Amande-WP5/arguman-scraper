@@ -1,193 +1,161 @@
 arg(root).
 text(root, There is not sufficient evidence to justify belief in a god.).
 
-arg(6720).
-text(6720, The fact that you think it is absurd is exactly why these are not the droids you are looking for.).
-att(6720, root).
+arg(9287).
+text(9287, I agree with the first part, but the conclusion was not convincing to me).
+att(9287, 8217).
 
-arg(6761).
-text(6761, Sure, why not! Though I can't claim to fully understand the concept after a single reading.).
-att(6761, root).
+arg(6901).
+text(6901, Yes).
+att(6901, 6892).
 
 arg(6765).
 text(6765, I assert no existence of supernatural entities, only God.).
-att(6765, root).
-
-arg(8750).
-text(8750, By default, unless the existence of God is proven, he doesn't exist. If I say to you an invisible pink sheep rules us all, I would have to prove that fact to you; it won't be up to you to prove me that there is no pink sheep. Same logic applies to God.).
-support(8750, root).
-
-arg(9762).
-text(9762, The burden of proof is on the one making the claim. Let's take Russel's Teapot as an example. I can claim there's a teapot orbiting the sun somewhere between Earth and Mars. You cannot prove it incorrect, as it would be too small to see. This does not make it true.).
-att(9762, root).
-
-arg(6257).
-text(6257, Whether a definition is interesting or useful does not factor into an argument's correctness. All definitions are by principle tautological.).
-att(6257, root).
-
-arg(6695).
-text(6695, Can you site an certain example where God is not infinite?  Also, begging the question is using a concept to prove itself.  I used a generally accepted definition and did not argue back to it.).
-att(6695, root).
-
-arg(9767).
-text(9767, This is not evidence. The fact that someone would claim a physical object exists when it plainly is not where they say is more evidence of mental instability than it is of the object's existence.).
-att(9767, root).
-
-arg(6668).
-text(6668, God being omnipotent, omnipresent, etc. is only established in some monotheistic religions. Any polytheistic religion definitionally disagrees with that. In addition, it's only established on the condition that one takes your particular religious text as truth.).
-att(6668, root).
-
-arg(6334).
-text(6334, So if you were a noble and it made the peasants behave, you would be in favor of the doctrine of Fire and Brimstone? Is that what you mean by "useful work"?).
-att(6334, root).
-
-arg(8117).
-text(8117, this formatting confuses me, because you just restated what I did only with more ambiguous terms, though you replied with an objection. The most that can be said about existential claims about entities that cannot be observed is that the truth of their existence is undecidable.).
-att(8117, root).
-
-arg(6175).
-text(6175, While technically true - in a descriptive sense - typically we expect justifications to reach other people through firm reasoning.).
-att(6175, root).
-
-arg(6345).
-text(6345, Assuming humanity is spiritual by nature (i.e. believing in a higher power), this assumption does not necessarily lead to the conclusion that any higher power exists.).
-att(6345, root).
-
-arg(6717).
-text(6717, There are things that are often true in the universe, which we sometimes call 'natural law', but I dispute that they 'control', 'govern', or 'dictate' the universe, as they display no capacity for thought. Ultimately, an effect requires an agent.).
-att(6717, root).
-
-arg(9771).
-text(9771, Then who created this creator? If everything complicated must have a maker, where does this end? Is it turtles all the way down?).
-att(9771, root).
-
-arg(6349).
-text(6349, The existence of these empty "spots" where stars should be, according to your argument, may simply be the product of a natural force or process we've not yet discovered.).
-att(6349, root).
-
-arg(9772).
-text(9772, The burden of proof is on the claimer, not the skeptic.).
-att(9772, root).
+att(6765, 6347).
 
 arg(6722).
 text(6722, How about Thor? He dies permanently at Ragnarok, and then no longer exists.).
 att(6722, 6695).
 
+arg(6382).
+text(6382, I was not assuming humanity is spiritual in nature, nor using that to conclude that a higher power exists. I was simply choosing one argument out of many to refute that appealing to the authority of "Major Religion's" definition of God is a fallacy.).
+att(6382, 6345).
+
+arg(9762).
+text(9762, The burden of proof is on the one making the claim. Let's take Russel's Teapot as an example. I can claim there's a teapot orbiting the sun somewhere between Earth and Mars. You cannot prove it incorrect, as it would be too small to see. This does not make it true.).
+att(9762, 9565).
+
+arg(6257).
+text(6257, Whether a definition is interesting or useful does not factor into an argument's correctness. All definitions are by principle tautological.).
+att(6257, 6228).
+
+arg(6695).
+text(6695, Can you site an certain example where God is not infinite?  Also, begging the question is using a concept to prove itself.  I used a generally accepted definition and did not argue back to it.).
+att(6695, 6668).
+
+arg(9767).
+text(9767, This is not evidence. The fact that someone would claim a physical object exists when it plainly is not where they say is more evidence of mental instability than it is of the object's existence.).
+att(9767, 9289).
+
+arg(6334).
+text(6334, So if you were a noble and it made the peasants behave, you would be in favor of the doctrine of Fire and Brimstone? Is that what you mean by "useful work"?).
+att(6334, 6302).
+
+arg(8117).
+text(8117, this formatting confuses me, because you just restated what I did only with more ambiguous terms, though you replied with an objection. The most that can be said about existential claims about entities that cannot be observed is that the truth of their existence is undecidable.).
+att(8117, 8092).
+
+arg(6175).
+text(6175, While technically true - in a descriptive sense - typically we expect justifications to reach other people through firm reasoning.).
+att(6175, 6114).
+
+arg(6345).
+text(6345, Assuming humanity is spiritual by nature (i.e. believing in a higher power), this assumption does not necessarily lead to the conclusion that any higher power exists.).
+att(6345, 6321).
+
+arg(6717).
+text(6717, There are things that are often true in the universe, which we sometimes call 'natural law', but I dispute that they 'control', 'govern', or 'dictate' the universe, as they display no capacity for thought. Ultimately, an effect requires an agent.).
+att(6717, 6689).
+
+arg(9771).
+text(9771, Then who created this creator? If everything complicated must have a maker, where does this end? Is it turtles all the way down?).
+att(9771, 6348).
+
+arg(6720).
+text(6720, The fact that you think it is absurd is exactly why these are not the droids you are looking for.).
+att(6720, 6701).
+
+arg(6349).
+text(6349, The existence of these empty "spots" where stars should be, according to your argument, may simply be the product of a natural force or process we've not yet discovered.).
+att(6349, 6203).
+
+arg(9772).
+text(9772, The burden of proof is on the claimer, not the skeptic.).
+att(9772, 8006).
+
 arg(6351).
 text(6351, If one's happiness is intangible and unmeasurable, how can you be certain it exists?).
-att(6351, root).
+att(6351, 6226).
 
 arg(8120).
 text(8120, This is terribly flawed as many harms unfold from simply believing from the general to the extreme. Losing integrity, critical thought, untold hours of empty ritual are just examples for a mercenary bet on such a gamble. In this narrow scope, you are met with which God that will judge you. ).
-att(8120, root).
+att(8120, 7429).
 
 arg(9774).
 text(9774, That's not the case. For instance, OP specified "god". Typically a monotheistic religion would capitalize this, as it would be the only one. Another indication is that OP used "a god", rather than "God" or "the god".
 
 It can be argued either way.).
-att(9774, root).
+att(9774, 6827).
 
 arg(7968).
 text(7968, we must not forget that more often than not such examples of suicide bombers are of extremists and they believe in violence more so than religion. While religion definitely plays a part, there are other factors at play which cause extremist behaviour.).
-att(7968, root).
+att(7968, 7595).
 
 arg(6813).
 text(6813, None of the religions you've referenced here, aside from Taoism, define god as the laws of nature, or some kind of nameless unspecified prime mover. 
 
 Maat was a goddess who interfered in nature in magical ways. Logos makes appeals to the existence of souls and the great spirit was personified.).
-att(6813, root).
+att(6813, 6321).
 
 arg(8505).
 text(8505, I have no idea how an omni -X attribute would help a belief in any deity be more justified.  I was just noting that belief in any "demigod" would have to be a good explanation for the physical events which are attributed to them.  An omni-X mono God would also need such a defense.).
-support(8505, root).
+support(8505, 8052).
 
 arg(8077).
 text(8077, Those goalposts where already in their position, given the original post did not specify a monotheistic god and the existence of religions and concepts around a god that are impersonal in nature. It seems you arbitrarily moved the goalposts forward.).
-att(8077, root).
+att(8077, 6748).
 
 arg(6731).
 text(6731, Are you now actually arguing in favor of GNON? ).
-att(6731, root).
+att(6731, 6430).
 
 arg(6738).
 text(6738, Would you care to elaborate on the 'accepted definition of god'?).
-att(6738, root).
+att(6738, 6603).
 
 arg(5845).
 text(5845, We also lack definitive evidence for the opposite - natural causation of everything.).
-att(5845, root).
-
-arg(6382).
-text(6382, I was not assuming humanity is spiritual in nature, nor using that to conclude that a higher power exists. I was simply choosing one argument out of many to refute that appealing to the authority of "Major Religion's" definition of God is a fallacy.).
-att(6382, 6345).
+att(5845, 5801).
 
 arg(6385).
 text(6385, If "start" or "cause" are objectionable to you, then let us instead define God as the fundamental principle(s) which govern our reality. Surely you can agree that such a concept is real.).
-att(6385, root).
+att(6385, 6361).
 
 arg(6390).
 text(6390, Surely. But now you've defined the natural laws. Having a discussion about "belief in god" and then saying "god = nature" is pointless - if god doesn't reference a being that is supreme or at the very least supernatural, we're talking about a natural entity or a physical force.).
-att(6390, root).
+att(6390, 6222).
 
 arg(8275).
 text(8275, One could in theory justify it with Kolmogorov Complexity.
 If each claim is a turing machine emitting a description of the world, then more complex ideas are larger turing machines.
 
 Larger turing machines exist within a larger search space, so the odds of any specific one being right is smaller.).
-att(8275, root).
+att(8275, 8042).
 
 arg(6580).
 text(6580, It is entirely possible for supernatural actors to create physical evidence. If saying the word 'beans' caused you to die, that would be physical evidence of a supernatural (or at least unexplained) process.).
-att(6580, root).
+att(6580, 6424).
 
 arg(8070).
 text(8070, The most that can be said about concepts that fall outside of the realm of observation is that their truths are undecidable.).
-support(8070, root).
+support(8070, 6589).
 
 arg(7062).
 text(7062, From the Three Major God-claims, and many other God-claims, God is an active participant of the Physical world, performing miracles (suspension of the natural order). But because there are no evidence of miracles,these God-claims can be proven to be false.).
-att(7062, root).
+att(7062, 6424).
 
 arg(6766).
 text(6766, Then I suppose we need a whole slew of God definitions, so that we may knock some down and leave others standing.).
-att(6766, root).
-
-arg(6832).
-text(6832, I am not arguing that supernatural actors exist: I am arguing that one could prove the existence of a supernatural actor by the existence of physical evidence.).
-att(6832, root).
+att(6766, 6618).
 
 arg(6430).
 text(6430, How is the definition of "God = Nature" be useless if it can both give us meaning and context to our lives, while also freeing the minds of those whose spirituality is used as shackles by others. I reject the use of supernatural as by definition, something supernatural does not exist. Supreme, yes.).
 att(6430, 6390).
 
-arg(6389).
-text(6389, The laws of the universe are descriptive, not prescriptive. Descriptive laws do not require a lawgiver. Light doesn't reach 186,282 miles/second and decide to slow down to avoid breaking the law of how fast light travels. Asserting a lawgiver opens the question of how they got their laws and why.).
-att(6389, root).
-
 arg(8011).
 text(8011, Yet, we can explain where lightning comes from.  Therefore, Thor seems like an inference that is more complicated than how science can explain its occurrence.
 ).
 att(8011, 6722).
-
-arg(7647).
-text(7647, You're assuming the god in which you believe exists. How do you know if it's the Christian god, the Hindu gods, if Islam is right, the countless other religions in the world, or even some god(s) nobody has even heard of that is the correct god(s) to believe in.).
-att(7647, root).
-
-arg(9074).
-text(9074, An infinite entity is not necessarily omni-present. In geometry, a line is infinite, but does not fill a plane. There are many other exemples in Set Theory.).
-att(9074, root).
-
-arg(6589).
-text(6589, you similarly cannot disprove that an invisible, intangible unicorn is floating above your head at all times. The fact you cannot disprove it does not make it true.   ).
-att(6589, root).
-
-arg(6595).
-text(6595, But do you have a valid source for your "definition" that is widely accepted around the world?).
-att(6595, root).
-
-arg(6374).
-text(6374, There's no clear definition of a "fragile" belief presented, or even why a belief system based on prosocial benefits would be "fragile" to begin with.).
-att(6374, root).
 
 arg(9548).
 text(9548, Agreed, but could you provide an example which could be considered a god or God? It seems the type of infinity which is not omni-presence would not be what is maintained by theists.).
@@ -197,46 +165,6 @@ arg(6203).
 text(6203, The burden of proof falls on the person suggesting it. There are many stars in the galaxy and there are many spots in the galaxy where there aren't stars. The only possible explanation for there not being a star in that exact spot is because there are dyson spheres built by advanced civilizations.).
 att(6203, 5845).
 
-arg(6158).
-text(6158, This depends on your definition of "God". Declare "God" to be a 6-armed blue elephant man or a tortured zombie jew and your assertion seems preposterous. But if "God" is defined as the prime mover or original cause of our universe or reality, of whatever nature, the concept is undeniable.).
-att(6158, root).
-
-arg(8027).
-text(8027, Take the original statement into consideration: this is about belief and faith. These things have nothing to do with knowledge and facts. Evidence is not required for belief or faith, therefore the initial premise is faulty.).
-att(8027, root).
-
-arg(6127).
-text(6127, The belief in a deity be beneficial, providing a sense of purpose and emotional reassurance to an individual.).
-att(6127, root).
-
-arg(6603).
-text(6603, However, the definition of god in modern debate makes it impossible to disprove or prove its existence. ).
-att(6603, root).
-
-arg(6604).
-text(6604, We have developed questionnaires that allow us to measure happiness - or at least the close proxy of 'reported happiness'.  ).
-att(6604, root).
-
-arg(6816).
-text(6816, There is not sufficient evidence to believe that anything in the entire world exists at all philosophically. 
-
-).
-att(6816, root).
-
-arg(8217).
-text(8217, The fallacy quoted for my previous comment is incorrect (people need to learn what fallacies are). It is entirely relevant, as the very topic itself is about belief based on evidence, whereas the subject of the belief by nature is one which exists outside the framework of science and evidence.).
-support(8217, root).
-
-arg(6559).
-text(6559, Beliefs-because-of-benefit are placed atop a more complex tree of reasoning. They must contain (how the world is), (how I want the world to be) and (how the belief affects the world), vs. beliefs-because-of-truth which only contain the first.
-
-A more complex tree is more likely to contain errors.).
-support(6559, root).
-
-arg(9554).
-text(9554, Not to get off topic, but there are constraints to omnipotence which some theists would be ok with,  logical constraints (e.g. not being able to make a married bachelor or a square circle).  There are also areas of the universe which physical laws do not apply (e.g. quantum theory, black holes).).
-att(9554, root).
-
 arg(6892).
 text(6892, Is this invoking the issue of hard solipsism in that we can't prove anything exists with absolutely certainty or appeal to an absolute reality and can't prove we're not in some sort of matrix or computer simulation? ).
 att(6892, 6816).
@@ -245,61 +173,105 @@ arg(9559).
 text(9559, when I say physical laws, I mean those that are known. There could be laws that govern those areas of the universe which are unknown.  However, if there are such constraints on God, it doesn't necessarily mean that this is unacceptable to the theist.).
 att(9559, 9554).
 
-arg(6806).
-text(6806, Assuming the big bang to be true... matter time and space must have a beginning point. Whatever was before them and caused them must be immaterial, immutable, and nonspacial. These are usually given characteristcs of God).
-att(6806, root).
-
 arg(6618).
 text(6618, We might as well be arguing about whether unicorns or aliens exist, then, if your definition of 'god', 'unicorns', or 'aliens' is 'something that tautologically exists, with no other properties.').
 att(6618, 6257).
-
-arg(6436).
-text(6436, Whether the comment resembled something from youtube or not, does not directly speak to the veracity of the comment, nor the soundness of its reasoning.).
-att(6436, root).
-
-arg(8092).
-text(8092, The opposing position would be to disbelieve in any proposed gods, not so much believe in the nonexistence of gods. There are logical arguments, scientific weight, and persuasive evidence available to justify either position.).
-att(8092, root).
-
-arg(6172).
-text(6172, This comment is the reason this website needs mods. Feels like I'm reading youtube comments...).
-att(6172, root).
 
 arg(6654).
 text(6654, First, God being infinite is pretty well established. Besides, how could something called God not be infinite? Without being infinite how could God be all-powerful, all-knowing etc. To create something as big as the universe it must be as great or greater. ).
 att(6654, 6595).
 
-arg(6222).
-text(6222, If "prime mover" or "original cause" are objectionable to you, then let us instead define God as the fundamental principle(s) which govern our reality. Surely you can agree that such a concept is real.).
-att(6222, root).
+arg(6140).
+text(6140, Just because something is beneficial doesn't mean its real. Just because I make up an imaginary friend timmy to sit with me at lunch so I'm not a lonely sad beta doesn't mean that he was real. He sure was beneficial though. ).
+att(6140, 6127).
 
-arg(6226).
-text(6226, There are plenty of real things in the universe that are intangible and immeasurable. For example, one's happiness is real but can't be measured with units, nor held, nor seen.).
-att(6226, root).
+arg(7647).
+text(7647, You're assuming the god in which you believe exists. How do you know if it's the Christian god, the Hindu gods, if Islam is right, the countless other religions in the world, or even some god(s) nobody has even heard of that is the correct god(s) to believe in.).
+att(7647, 7429).
+
+arg(9074).
+text(9074, An infinite entity is not necessarily omni-present. In geometry, a line is infinite, but does not fill a plane. There are many other exemples in Set Theory.).
+att(9074, 6498).
+
+arg(6589).
+text(6589, you similarly cannot disprove that an invisible, intangible unicorn is floating above your head at all times. The fact you cannot disprove it does not make it true.   ).
+att(6589, 6126).
+
+arg(6595).
+text(6595, But do you have a valid source for your "definition" that is widely accepted around the world?).
+att(6595, 6498).
+
+arg(6374).
+text(6374, There's no clear definition of a "fragile" belief presented, or even why a belief system based on prosocial benefits would be "fragile" to begin with.).
+att(6374, 6188).
+
+arg(6603).
+text(6603, However, the definition of god in modern debate makes it impossible to disprove or prove its existence. ).
+att(6603, root).
+
+arg(8027).
+text(8027, Take the original statement into consideration: this is about belief and faith. These things have nothing to do with knowledge and facts. Evidence is not required for belief or faith, therefore the initial premise is faulty.).
+att(8027, 6136).
+
+arg(6816).
+text(6816, There is not sufficient evidence to believe that anything in the entire world exists at all philosophically. 
+
+).
+att(6816, root).
+
+arg(6806).
+text(6806, Assuming the big bang to be true... matter time and space must have a beginning point. Whatever was before them and caused them must be immaterial, immutable, and nonspacial. These are usually given characteristcs of God).
+att(6806, root).
+
+arg(6604).
+text(6604, We have developed questionnaires that allow us to measure happiness - or at least the close proxy of 'reported happiness'.  ).
+att(6604, 6226).
 
 arg(9565).
 text(9565, Absence of evidence is not evidence of Absence. One may observe only a small finite area (example, in their own heart) and conclude there is no God. ).
 att(9565, root).
 
-arg(6140).
-text(6140, Just because something is beneficial doesn't mean its real. Just because I make up an imaginary friend timmy to sit with me at lunch so I'm not a lonely sad beta doesn't mean that he was real. He sure was beneficial though. ).
-att(6140, 6127).
+arg(8217).
+text(8217, The fallacy quoted for my previous comment is incorrect (people need to learn what fallacies are). It is entirely relevant, as the very topic itself is about belief based on evidence, whereas the subject of the belief by nature is one which exists outside the framework of science and evidence.).
+support(8217, 8089).
 
-arg(9287).
-text(9287, I agree with the first part, but the conclusion was not convincing to me).
-att(9287, 8217).
+arg(6559).
+text(6559, Beliefs-because-of-benefit are placed atop a more complex tree of reasoning. They must contain (how the world is), (how I want the world to be) and (how the belief affects the world), vs. beliefs-because-of-truth which only contain the first.
 
-arg(8466).
-text(8466, A belief is not something that one can choose. Beliefs are a result of our experience, and are not certainties. To say that one can "choose to believe" is to say that one can draw an absolute certainty from inconclusive, or incomplete data. Without evidence, one cannot believe with certainty.).
-att(8466, root).
+A more complex tree is more likely to contain errors.).
+support(6559, 6188).
 
-arg(6944).
-text(6944, Allow me to amend the situation, then: Someone has the ability to telekinetically bend spoons. They demonstrate. Ten out of ten times, they can bend a spoon with their mind, despite eliminations of all possible trickery. Physical evidence affirms that the actor is supernatural, does it not?).
-att(6944, root).
+arg(9554).
+text(9554, Not to get off topic, but there are constraints to omnipotence which some theists would be ok with,  logical constraints (e.g. not being able to make a married bachelor or a square circle).  There are also areas of the universe which physical laws do not apply (e.g. quantum theory, black holes).).
+att(9554, 8453).
 
-arg(6758).
-text(6758, What is something that is both supernatural, and exists? Once Something exists it becomes natural and ceases to be supernatural. The comment about context and meaning was for the Utilitarians in the audience.).
-att(6758, root).
+arg(6436).
+text(6436, Whether the comment resembled something from youtube or not, does not directly speak to the veracity of the comment, nor the soundness of its reasoning.).
+att(6436, 6172).
+
+arg(8092).
+text(8092, The opposing position would be to disbelieve in any proposed gods, not so much believe in the nonexistence of gods. There are logical arguments, scientific weight, and persuasive evidence available to justify either position.).
+att(8092, 8006).
+
+arg(6172).
+text(6172, This comment is the reason this website needs mods. Feels like I'm reading youtube comments...).
+att(6172, 6140).
+
+arg(6222).
+text(6222, If "prime mover" or "original cause" are objectionable to you, then let us instead define God as the fundamental principle(s) which govern our reality. Surely you can agree that such a concept is real.).
+att(6222, 6205).
+
+arg(6226).
+text(6226, There are plenty of real things in the universe that are intangible and immeasurable. For example, one's happiness is real but can't be measured with units, nor held, nor seen.).
+att(6226, 6133).
+
+arg(6158).
+text(6158, This depends on your definition of "God". Declare "God" to be a 6-armed blue elephant man or a tortured zombie jew and your assertion seems preposterous. But if "God" is defined as the prime mover or original cause of our universe or reality, of whatever nature, the concept is undeniable.).
+att(6158, root).
+
+arg(6127).
+text(6127, The belief in a deity be beneficial, providing a sense of purpose and emotional reassurance to an individual.).
+att(6127, root).
 
 arg(9812).
 text(9812, And the above is true because:
@@ -311,25 +283,9 @@ arg(7595).
 text(7595, It can also be harmful, for example suicide bombers.).
 att(7595, 6127).
 
-arg(8013).
-text(8013, When parts of the currently observable universe become causally separated due to spacetime expansion, we can use your reasoning to state that belief in something other than the Milky Way is absurd. Your argument is therefore flawed.).
-att(8013, root).
-
 arg(6535).
 text(6535, Whether belief in god can give meaning or context is irrelevant to the discussion. Additionally, supernatural certainly does not "by definition" mean something does not exist. It means something is beyond what is natural.).
 att(6535, 6430).
-
-arg(8063).
-text(8063, This supposes knowledge of what is and is not true. If we had this knowledge, this debate would be considerably shorter.).
-att(8063, root).
-
-arg(8091).
-text(8091, The semantics of the question are ambiguous, and anything related to a traditional, monotheistic God is being inferred from yourself, rather than something innate to the way the question was phrased.).
-att(8091, root).
-
-arg(6746).
-text(6746, The programmer obeys limitations of the computer, not of the program he creates. God would obey the limitations of their own environment, if such exists, not of the universe they create. Therefore, the laws (of our universe) follow god.).
-att(6746, root).
 
 arg(6378).
 text(6378, I mean useful work in the sense of epistemology.
@@ -337,18 +293,9 @@ text(6378, I mean useful work in the sense of epistemology.
 If someone might come to a greater understanding of the world around them by applying this concept, then it is useful.).
 att(6378, 6334).
 
-arg(6162).
-text(6162, If I told you I had a time machine back at my house, to which you asked "Oh, can I see it, use it or observe it being used?" and I said "Well, can you prove I don't have one?" 
-Would that be a fair position to take?).
-att(6162, root).
-
 arg(9289).
 text(9289, If you truly believe there is a timne machine at your house and you insist on it beingg there, I will at least consider that it might just be there, even if there is no proof at all).
 att(9289, 6162).
-
-arg(6341).
-text(6341, It is unreasonable to expect proof for the negative. The burden of proof is on the one who believes in a God.).
-att(6341, root).
 
 arg(6188).
 text(6188, A belief system based on what is "beneficial" to believe rather than what is most likely to be true will be a fragile one, and thus hard to justify.).
@@ -372,41 +319,9 @@ arg(8446).
 text(8446, No one knows what existed (if anything) before time and space coalesced out of an infinitely dense point. To claim to know what happened before the universe existed is presumptuous.).
 att(8446, 6806).
 
-arg(9079).
-text(9079, If god doesn't exist, why am I locked in the basement beneath my church?).
-att(9079, root).
-
-arg(9761).
-text(9761, The "God of the Gaps" idea has been narrowed extremely over time. There's no reason to think that this will not occur with events just after, and possibly prior to, the Big Bang. Even if we do not, lack of evidence for a natural cause is not evidence of lacking.).
-att(9761, root).
-
 arg(11543).
 text(11543, There was no 'before'. Time began at the Big Bang. ).
 att(11543, 6806).
-
-arg(6321).
-text(6321, The Ancient Egyptian Maat, Neo-Platonic Logos, Daoist Tao, Bhuddist Dharma, and Native American Great Spirit are just a few examples of similar definitions. It is ignorant to assume that the Abrahamic religions are representative of the human spectrum of spirituality.).
-att(6321, root).
-
-arg(9051).
-text(9051, Existence and definition are both limiting factors that decrease the depth and scope of the item with which they seek to illuminate; therefore logically God cannot exist nor be defined, for to do so would be imposing boundaries on him/her, and thereby diminishing his/her powers and attributes.).
-support(9051, root).
-
-arg(8111).
-text(8111, There is harm in believing in this concept (known as pascal's wager). What you are doing is abandoning a belief system based on evidence and critical thinking for one based on fear and ignorance. You shouldn't believe to avoid a consequence, you should believe based on available evidence and logic.).
-att(8111, root).
-
-arg(6827).
-text(6827, While the kind of attributes that "God" encompasses must be further established, the semantics of the question suggests reference to a traditional monotheistic God, with established attributes, including but not limited to: Non-contingent Existence, Omnipotence, Omniscience, Omnipresence, etc.).
-att(6827, root).
-
-arg(7429).
-text(7429, There is no harm in believing in one regardless. If a god does exist and determines our place in the afterlife it's better to believe and go to heaven than not believe and be condemned to hell.).
-att(7429, root).
-
-arg(6791).
-text(6791, There is not sufficient common ground to have a meaningful conversation on the subject without first agreeing on a definition of God or gods.).
-att(6791, root).
 
 arg(6888).
 text(6888, Such an argument is being made. An unexplained event (saying 'beans' =death) cannot be considered evidence for a supernatural actor without proof. Burden of proof lies upon he who affirms. No proof has been provided. Thus, the argument hinges upon the initial clause, which as noted, is a fallacy.).
@@ -424,13 +339,66 @@ arg(6376).
 text(6376, Definitions are by principle not tautological, they are almost the contextual opposite. If definitions were tautological, they wouldn't exist as a concept to begin with.).
 att(6376, 6257).
 
+arg(6758).
+text(6758, What is something that is both supernatural, and exists? Once Something exists it becomes natural and ceases to be supernatural. The comment about context and meaning was for the Utilitarians in the audience.).
+att(6758, 6535).
+
+arg(8013).
+text(8013, When parts of the currently observable universe become causally separated due to spacetime expansion, we can use your reasoning to state that belief in something other than the Milky Way is absurd. Your argument is therefore flawed.).
+att(8013, 6701).
+
+arg(8063).
+text(8063, This supposes knowledge of what is and is not true. If we had this knowledge, this debate would be considerably shorter.).
+att(8063, 6574).
+
+arg(8091).
+text(8091, The semantics of the question are ambiguous, and anything related to a traditional, monotheistic God is being inferred from yourself, rather than something innate to the way the question was phrased.).
+att(8091, 6827).
+
+arg(6746).
+text(6746, The programmer obeys limitations of the computer, not of the program he creates. God would obey the limitations of their own environment, if such exists, not of the universe they create. Therefore, the laws (of our universe) follow god.).
+att(6746, 6518).
+
+arg(6162).
+text(6162, If I told you I had a time machine back at my house, to which you asked "Oh, can I see it, use it or observe it being used?" and I said "Well, can you prove I don't have one?" 
+Would that be a fair position to take?).
+att(6162, 6126).
+
+arg(6341).
+text(6341, It is unreasonable to expect proof for the negative. The burden of proof is on the one who believes in a God.).
+att(6341, 6126).
+
+arg(7429).
+text(7429, There is no harm in believing in one regardless. If a god does exist and determines our place in the afterlife it's better to believe and go to heaven than not believe and be condemned to hell.).
+att(7429, root).
+
+arg(6321).
+text(6321, The Ancient Egyptian Maat, Neo-Platonic Logos, Daoist Tao, Bhuddist Dharma, and Native American Great Spirit are just a few examples of similar definitions. It is ignorant to assume that the Abrahamic religions are representative of the human spectrum of spirituality.).
+att(6321, 6271).
+
+arg(6791).
+text(6791, There is not sufficient common ground to have a meaningful conversation on the subject without first agreeing on a definition of God or gods.).
+att(6791, root).
+
+arg(8111).
+text(8111, There is harm in believing in this concept (known as pascal's wager). What you are doing is abandoning a belief system based on evidence and critical thinking for one based on fear and ignorance. You shouldn't believe to avoid a consequence, you should believe based on available evidence and logic.).
+att(8111, 7429).
+
+arg(6827).
+text(6827, While the kind of attributes that "God" encompasses must be further established, the semantics of the question suggests reference to a traditional monotheistic God, with established attributes, including but not limited to: Non-contingent Existence, Omnipotence, Omniscience, Omnipresence, etc.).
+att(6827, 6791).
+
+arg(9079).
+text(9079, If god doesn't exist, why am I locked in the basement beneath my church?).
+att(9079, root).
+
 arg(6964).
 text(6964, Science is not a belief. Beliefs do not require any evidence whatsoever. Saying someone believes in science is like saying someone believes in hats. ).
-att(6964, root).
+att(6964, 6689).
 
-arg(6901).
-text(6901, Yes).
-att(6901, 6892).
+arg(9051).
+text(9051, Existence and definition are both limiting factors that decrease the depth and scope of the item with which they seek to illuminate; therefore logically God cannot exist nor be defined, for to do so would be imposing boundaries on him/her, and thereby diminishing his/her powers and attributes.).
+support(9051, root).
 
 arg(8042).
 text(8042, In many situations, the possibility of calculating the probability of the truth of a belief is impossible. This is particularly true with respect to a god. It is literally impossible to determine a chance, and anyone who claims otherwise is absolutely lacking the mathematics to back their claim.).
@@ -440,22 +408,9 @@ arg(8096).
 text(8096, Happiness can be seen in the form of endorphin's, dopamine and brain activity. Current technologies are incapable of measuring this phenomenon with accuracy, but it's not unlikely that it will become possible in the future.).
 att(8096, 6226).
 
-arg(6574).
-text(6574, It's also generally easier for a human to change what is beneficial than to change what is true.).
-support(6574, 6188).
-
-arg(6779).
-text(6779, Science: the intellectual and practical activity encompassing the systematic study of the structure and behavior of the physical and natural world through observation and experiment.
-- which does not govern but instead allows us to realize the universe. Found out E = mC^2 does most of the governing).
-att(6779, root).
-
 arg(6692).
 text(6692, A thing that has never been observed is not necessarily unobservable. No-one had seen the bottom of the Marinara trench until Don Walsh and Jacques Picard did.).
 att(6692, 6599).
-
-arg(6518).
-text(6518, Does god follow the laws or do the laws follow god, and how can this be demonstrated? We have no mechanism for determining whether or not the cause of natural laws is even divine. A programmer also has to obey the limitations and constraints of the computer they operate in/on.).
-att(6518, root).
 
 arg(6645).
 text(6645, Physical phenomena leave behind physical evidence, whether the agent is natural (or not; supernatural, et al.) or they exist independently of our observations and measurements (or not; e.g. in a laboratory). Could you help me understand what 'imperfect science' is with that said?).
@@ -464,10 +419,6 @@ att(6645, 6599).
 arg(6347).
 text(6347, There is no evidence that the laws of physics are influenced by or contingent on any supernatural entity, and it is contentious to define the laws of physics as "God" for the sake of argument.).
 att(6347, 6222).
-
-arg(6748).
-text(6748, You caused a minor earth tremor shifting those goal posts. So now we're removing god from the context that is used in most religions as a moral arbiter and divine being and slapping it on as the title for the natural laws?).
-att(6748, root).
 
 arg(6228).
 text(6228, Defining the term "God" just as something which tautologically exists (such as the root node of the causal graph) does not yield a very useful concept. It's the other (non-tautological) properties of a God that people are typically interested in.
@@ -489,26 +440,9 @@ arg(6122).
 text(6122, The burden of proof falls on the person making the claim.).
 att(6122, 5845).
 
-arg(6133).
-text(6133, The argument of 'Faith' is futile as it is not measurable nor tangible. Evidence of supernatural forces can only come in tangible results, of which we have none. So you're going to have to stick to closing your eyes and crossing your fingers I guess. ).
-att(6133, root).
-
-arg(6136).
-text(6136, But that's just semantics.).
-att(6136, root).
-
-arg(5966).
-text(5966, We often have to reconcile that the public tends only to recognize the sincerity of a belief if it is a popular, or well represented belief among society. 
-  ).
-att(5966, root).
-
 arg(5867).
 text(5867, Good point and if I might add, just because we cannot prove that a claim is impossible does not mean that it is true OR even possible.).
 att(5867, 5845).
-
-arg(6918).
-text(6918, Irrelevant. This does not address whether or not there is sufficient evidence to justify belief in a god. Put another way, the original conjecture posits that justifying a belief in god requires sufficient evidence. Lack of evidence for its opposite does not remove the requirement.).
-att(6918, 5845).
 
 arg(8453).
 text(8453, Then this God you assert, not being supernatural, is by your definition natural, and constrained by the natural laws of this universe, and therefore cannot be omnipotent.).
@@ -517,58 +451,6 @@ att(8453, 6765).
 arg(8454).
 text(8454, Could you give an example of such a principle, perhaps being itself?).
 att(8454, 6385).
-
-arg(6689).
-text(6689, The people that believe in science as opposed to God still believe in governing factors of the universe. It is undeniable that there is something that controls/dictates the universe and whether that is an all-powerful being or it is science, there is a sense of "god" to everyone.).
-att(6689, root).
-
-arg(6921).
-text(6921, If the fate of a person (i.e. their "soul" as defined by judeo christian religions) relies on their acceptance of the existence of God, then it is reasonable to bridge the gap between evidence and belief as you are forced to make a choice as to whether or not you believe in God.).
-att(6921, root).
-
-arg(5801).
-text(5801, We lack any physical evidence or way/mechanism of demonstrating supernatural causation for anything.).
-support(5801, root).
-
-arg(6126).
-text(6126, There is not sufficient evidence to support the belief in a lack of a god.).
-att(6126, root).
-
-arg(5839).
-text(5839, That is what distinguishes belief from knowledge; belief needs no proof).
-att(5839, root).
-
-arg(6114).
-text(6114, "Sufficient Evidence" can depend on the person. For some people, seeing Jesus in a pancake is enough to justify the belief.).
-att(6114, root).
-
-arg(8745).
-text(8745, There are no hypotheses concerning gods for which evidence can be found. All attempts at proving their existence rely on special pleading.).
-support(8745, root).
-
-arg(6348).
-text(6348, The existence of laws (the laws of the universe) point to the necessity of a law-maker, who is/was conscious and intelligent.).
-att(6348, root).
-
-arg(6498).
-text(6498, By definition God is infinite.  Whether the universe is infinite or finite, God would be omni-present.  In which case God would be everywhere and no where.  There is no contrasting evidence and, therefore there is no need to argue one way or the other.).
-support(6498, root).
-
-arg(6424).
-text(6424, Whether or not there is a supernatural being or a spiritual realm could not by definition have physical evidence at all. Therefore while this statement is true, it doesn't add or subtract from the possibility of a god actually existing.).
-att(6424, root).
-
-arg(8006).
-text(8006, Nor is there evidence to believe the opposite. At best, there is no claim of truth on the subject, thus while there is no evidential obligation to believe in god, there is no evidential justification for claiming someone's belief false.).
-att(8006, root).
-
-arg(12155).
-text(12155, The Big Bang Theory, as it stands, does state that time started at the big bang as there was *nothing* before it. If the Big Bang Theory is assumed true as it was in the premise then it is also true that there was no time before the Big Bang.).
-att(12155, root).
-
-arg(9747).
-text(9747, When evaluating a risk humans look at 2 things, the possibility of something bad happening and how bad the thing is. Religion plays on the fact that the risk is more severe than any other fate (last to eternity), so the possibility of the bad happening (god existing) would not matter as much.).
-att(9747, root).
 
 arg(6674).
 text(6674, It is absurd for the one making the claim "there is sufficient evidence to justify belief in a God" to shift the burden of proof on others. It is on the maker of that claim to prove and justify such claims.).
@@ -596,6 +478,63 @@ arg(12129).
 text(12129, gods are unfalsifiable hypotheses, you cannot prove or disprove them, therefore they are illogical).
 att(12129, 9565).
 
+arg(6518).
+text(6518, Does god follow the laws or do the laws follow god, and how can this be demonstrated? We have no mechanism for determining whether or not the cause of natural laws is even divine. A programmer also has to obey the limitations and constraints of the computer they operate in/on.).
+att(6518, 6485).
+
+arg(6748).
+text(6748, You caused a minor earth tremor shifting those goal posts. So now we're removing god from the context that is used in most religions as a moral arbiter and divine being and slapping it on as the title for the natural laws?).
+att(6748, 6689).
+
+arg(6133).
+text(6133, The argument of 'Faith' is futile as it is not measurable nor tangible. Evidence of supernatural forces can only come in tangible results, of which we have none. So you're going to have to stick to closing your eyes and crossing your fingers I guess. ).
+att(6133, 5839).
+
+arg(6136).
+text(6136, But that's just semantics.).
+att(6136, 5839).
+
+arg(5966).
+text(5966, We often have to reconcile that the public tends only to recognize the sincerity of a belief if it is a popular, or well represented belief among society. 
+  ).
+att(5966, 5839).
+
+arg(5801).
+text(5801, We lack any physical evidence or way/mechanism of demonstrating supernatural causation for anything.).
+support(5801, root).
+
+arg(6126).
+text(6126, There is not sufficient evidence to support the belief in a lack of a god.).
+att(6126, root).
+
+arg(8745).
+text(8745, There are no hypotheses concerning gods for which evidence can be found. All attempts at proving their existence rely on special pleading.).
+support(8745, root).
+
+arg(6348).
+text(6348, The existence of laws (the laws of the universe) point to the necessity of a law-maker, who is/was conscious and intelligent.).
+att(6348, root).
+
+arg(6424).
+text(6424, Whether or not there is a supernatural being or a spiritual realm could not by definition have physical evidence at all. Therefore while this statement is true, it doesn't add or subtract from the possibility of a god actually existing.).
+att(6424, root).
+
+arg(8006).
+text(8006, Nor is there evidence to believe the opposite. At best, there is no claim of truth on the subject, thus while there is no evidential obligation to believe in god, there is no evidential justification for claiming someone's belief false.).
+att(8006, root).
+
+arg(9747).
+text(9747, When evaluating a risk humans look at 2 things, the possibility of something bad happening and how bad the thing is. Religion plays on the fact that the risk is more severe than any other fate (last to eternity), so the possibility of the bad happening (god existing) would not matter as much.).
+att(9747, root).
+
+arg(12155).
+text(12155, The Big Bang Theory, as it stands, does state that time started at the big bang as there was *nothing* before it. If the Big Bang Theory is assumed true as it was in the premise then it is also true that there was no time before the Big Bang.).
+att(12155, 11581).
+
+arg(6921).
+text(6921, If the fate of a person (i.e. their "soul" as defined by judeo christian religions) relies on their acceptance of the existence of God, then it is reasonable to bridge the gap between evidence and belief as you are forced to make a choice as to whether or not you believe in God.).
+att(6921, root).
+
 arg(6701).
 text(6701, This same could be said of the Star Wars universe, which could not, by any definition have any physical evidence as far as we are concerned due to being so long ago and so far away. Absurdity is absurdity and can never be disproved.).
 att(6701, 6424).
@@ -614,7 +553,84 @@ arg(8089).
 text(8089, Proof of the negative, or falsifiability, is the cornerstone to science. The problem rests in statements that are not falsifiable, of which the general existence of god is one. It follows that this is not a question of evidence and science to begin with, and one of personal decision making.).
 att(8089, 6341).
 
+arg(6574).
+text(6574, It's also generally easier for a human to change what is beneficial than to change what is true.).
+support(6574, 6188).
+
+arg(6918).
+text(6918, Irrelevant. This does not address whether or not there is sufficient evidence to justify belief in a god. Put another way, the original conjecture posits that justifying a belief in god requires sufficient evidence. Lack of evidence for its opposite does not remove the requirement.).
+att(6918, 5845).
+
 arg(9698).
 text(9698, The premise is concerned with whether the belief in and positing of a god is reasonable. I can't prove that there aren't aliens that greet us by sticking their fingers in our assholes. Does that mean I should go out on my lawn every night and spread my anus open and wait for them?).
 att(9698, 9565).
+
+arg(16511).
+text(16511, The monotheistic view of God is actually not really traditional, the Jewish faith being the first to believe that. ).
+att(16511, 6827).
+
+arg(16509).
+text(16509, There is the Kalam argument. One of the laws of physics effectively states that everything with a beginning has a cause. Science agrees that the universe has a beginning, yet cannot give a cause. A higher being or God would be a reasonable assumption as there are no other options  ).
+att(16509, 9812).
+
+arg(16971).
+text(16971, Intuition tells us that in this universe, all occurrences have causes. But, a) this might be false, and b) the cause of the universe is outside the universe and our logic might not apply there (if there even is anything "there"), so the premise lacks rigor.).
+att(16971, 16509).
+
+arg(6761).
+text(6761, Sure, why not! Though I can't claim to fully understand the concept after a single reading.).
+att(6761, 6731).
+
+arg(6668).
+text(6668, God being omnipotent, omnipresent, etc. is only established in some monotheistic religions. Any polytheistic religion definitionally disagrees with that. In addition, it's only established on the condition that one takes your particular religious text as truth.).
+att(6668, 6654).
+
+arg(6832).
+text(6832, I am not arguing that supernatural actors exist: I am arguing that one could prove the existence of a supernatural actor by the existence of physical evidence.).
+att(6832, 6788).
+
+arg(6389).
+text(6389, The laws of the universe are descriptive, not prescriptive. Descriptive laws do not require a lawgiver. Light doesn't reach 186,282 miles/second and decide to slow down to avoid breaking the law of how fast light travels. Asserting a lawgiver opens the question of how they got their laws and why.).
+att(6389, 6348).
+
+arg(8466).
+text(8466, A belief is not something that one can choose. Beliefs are a result of our experience, and are not certainties. To say that one can "choose to believe" is to say that one can draw an absolute certainty from inconclusive, or incomplete data. Without evidence, one cannot believe with certainty.).
+att(8466, 6921).
+
+arg(6944).
+text(6944, Allow me to amend the situation, then: Someone has the ability to telekinetically bend spoons. They demonstrate. Ten out of ten times, they can bend a spoon with their mind, despite eliminations of all possible trickery. Physical evidence affirms that the actor is supernatural, does it not?).
+att(6944, 6888).
+
+arg(9761).
+text(9761, The "God of the Gaps" idea has been narrowed extremely over time. There's no reason to think that this will not occur with events just after, and possibly prior to, the Big Bang. Even if we do not, lack of evidence for a natural cause is not evidence of lacking.).
+att(9761, 9184).
+
+arg(6779).
+text(6779, Science: the intellectual and practical activity encompassing the systematic study of the structure and behavior of the physical and natural world through observation and experiment.
+- which does not govern but instead allows us to realize the universe. Found out E = mC^2 does most of the governing).
+att(6779, 6689).
+
+arg(5839).
+text(5839, That is what distinguishes belief from knowledge; belief needs no proof).
+att(5839, root).
+
+arg(16512).
+text(16512, There is no evidence directly dismissing the possibility of a God. Looking particularly at the beliefs of the Christian faith, there is evidence for a global flood, the Kalam argument, evidence from cosmology, physiology, astronomy,biochemistry and for the event with Jesus Christ, history ).
+att(16512, root).
+
+arg(6498).
+text(6498, By definition God is infinite.  Whether the universe is infinite or finite, God would be omni-present.  In which case God would be everywhere and no where.  There is no contrasting evidence and, therefore there is no need to argue one way or the other.).
+support(6498, root).
+
+arg(6114).
+text(6114, "Sufficient Evidence" can depend on the person. For some people, seeing Jesus in a pancake is enough to justify the belief.).
+att(6114, root).
+
+arg(8750).
+text(8750, By default, unless the existence of God is proven, he doesn't exist. If I say to you an invisible pink sheep rules us all, I would have to prove that fact to you; it won't be up to you to prove me that there is no pink sheep. Same logic applies to God.).
+support(8750, root).
+
+arg(6689).
+text(6689, The people that believe in science as opposed to God still believe in governing factors of the universe. It is undeniable that there is something that controls/dictates the universe and whether that is an all-powerful being or it is science, there is a sense of "god" to everyone.).
+att(6689, root).
 

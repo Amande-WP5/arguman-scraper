@@ -1,70 +1,21 @@
 arg(root).
 text(root, Free will (the existence of autonomous human decisions made neither predictably nor randomly) is not real.).
 
-arg(16311).
-text(16311, ).
-support(16311, root).
+arg(17486).
+text(17486, Human Beings do have a choice in how we respond to the world around us. We can learn better mastery over our mind and our ability to exercise free will by mindfulness and meditation techniques.).
+att(17486, root).
 
-arg(16305).
-text(16305, The problem is not physical, the problem is logic.
-Whatever the world, the two properties of your definition are incoherent. ).
-att(16305, root).
-
-arg(16302).
-text(16302, If there is no necessity, it imply it is not deterministic.
-"the power" and "the ability to act at one's own discretion" seem to imply it is not random. (here i am unsure, the meaning you give to that is not clear).
-Then your definition imply the two properties given by the other definition.).
-att(16302, root).
-
-arg(16297).
-text(16297, Then it is not really decisions, it is just reflexes.).
-att(16297, root).
-
-arg(16296).
-text(16296, We don’t have free will, but we have some control.
-We make choice, and what we want influence the world.
-It is just that our choices are produced by deterministic process.).
-att(16296, root).
-
-arg(16295).
-text(16295, If something is not potentially predictable, then it have no structure/pattern, and then it is random.).
-support(16295, root).
-
-arg(16293).
-text(16293, It mean that a system with free will is non-deterministic, and then there is no distinction to do.).
-att(16293, root).
-
-arg(16151).
-text(16151, How can we distinguish between a decision made randomly and a decision made from free will?).
-att(16151, root).
-
-arg(16150).
-text(16150, Radio active decay is non-determinstic. Therefore physical systems can themselves be non-deterministic. Free will is also non-determinstic therefore free will could be present in some physical systems yet be regarded as simply non-deterministic.).
-att(16150, root).
-
-arg(16149).
-text(16149, Its not possible to observationally distinguish between a non-deterministic system and a system with free will. ).
-att(16149, root).
-
-arg(11478).
-text(11478, The definition of free will is "the power of acting without the constraint of necessity or fate; the ability to act at one's own discretion." - The definition in the title is not correct. ).
-att(11478, root).
+arg(16532).
+text(16532, If free will isn't the ability to make decisions what is it? We can make decisions, that may or may not make sense, by our own merit. If you define free will as decisions that are not and or logical you take out any type of decision. We can make our own decisions, which takes free will).
+att(16532, root).
 
 arg(11482).
 text(11482, The term 'Free Will' is not what the debate is about. 'Free Will' is just the term they used to encase everything he included in the brackets. Read it again and ignore the term Free Will and the brackets to understand the point.).
 att(11482, 11478).
 
-arg(11481).
-text(11481, We have an impression of having free will.).
-att(11481, root).
-
 arg(11483).
 text(11483, This type of free will still does not exist. We are stuck experiencing first hand our deterministic future with the illusion of control.).
 att(11483, 11478).
-
-arg(10895).
-text(10895, Decisions are entirely governed by physical processes that are either predictable or random.).
-support(10895, root).
 
 arg(10897).
 text(10897, All decisions are made by the mind, which is governed by physical processes.).
@@ -82,10 +33,6 @@ arg(10901).
 text(10901, All decisions come from minds.).
 support(10901, 10897).
 
-arg(10904).
-text(10904, Decisions are made either predictably or randomly.).
-support(10904, root).
-
 arg(10906).
 text(10906, Not all decisions come from minds. Some or all decisions come from souls.).
 att(10906, 10901).
@@ -93,10 +40,6 @@ att(10906, 10901).
 arg(10908).
 text(10908, There is no definition of a soul that effectively distinguishes it from the mind.).
 att(10908, 10906).
-
-arg(10910).
-text(10910, There is no basis on which to assert the existence of a non-physical soul.).
-att(10910, root).
 
 arg(10911).
 text(10911, Only physical/natural processes can be shown to exist. Supernatural processes by definition do not exist in nature (which is to say that they do not exist at all - supernaturalness is a meaningless concept).).
@@ -145,4 +88,77 @@ support(11326, 10920).
 arg(11327).
 text(11327, That is the premise of the whole argument).
 support(11327, 10917).
+
+arg(17492).
+text(17492, There are physical processes that are deterministic, but not predictable.).
+att(17492, 10895).
+
+arg(16352).
+text(16352, "predictable" and "predictable in theory", as well as "random" and "random in theory", are different beasts. Pragmatically, human beings are not actually predictable with any accuracy, and can do actions that are seemingly random. In the absence of proof of determinism, Free Will wins. ).
+att(16352, root).
+
+arg(16311).
+text(16311, ).
+support(16311, root).
+
+arg(16151).
+text(16151, How can we distinguish between a decision made randomly and a decision made from free will?).
+att(16151, root).
+
+arg(11478).
+text(11478, The definition of free will is "the power of acting without the constraint of necessity or fate; the ability to act at one's own discretion." - The definition in the title is not correct. ).
+att(11478, root).
+
+arg(16305).
+text(16305, The problem is not physical, the problem is logic.
+Whatever the world, the two properties of your definition are incoherent. ).
+att(16305, 10895).
+
+arg(16302).
+text(16302, If there is no necessity, it imply it is not deterministic.
+"the power" and "the ability to act at one's own discretion" seem to imply it is not random. (here i am unsure, the meaning you give to that is not clear).
+Then your definition imply the two properties given by the other definition.).
+att(16302, 11478).
+
+arg(16297).
+text(16297, Then it is not really decisions, it is just reflexes.).
+att(16297, 10931).
+
+arg(16296).
+text(16296, We don’t have free will, but we have some control.
+We make choice, and what we want influence the world.
+It is just that our choices are produced by deterministic process.).
+att(16296, 11483).
+
+arg(16295).
+text(16295, If something is not potentially predictable, then it have no structure/pattern, and then it is random.).
+support(16295, 10904).
+
+arg(16293).
+text(16293, It mean that a system with free will is non-deterministic, and then there is no distinction to do.).
+att(16293, 16149).
+
+arg(11481).
+text(11481, We have an impression of having free will.).
+att(11481, root).
+
+arg(16150).
+text(16150, Radio active decay is non-determinstic. Therefore physical systems can themselves be non-deterministic. Free will is also non-determinstic therefore free will could be present in some physical systems yet be regarded as simply non-deterministic.).
+att(16150, 10916).
+
+arg(16149).
+text(16149, Its not possible to observationally distinguish between a non-deterministic system and a system with free will. ).
+att(16149, 10895).
+
+arg(10904).
+text(10904, Decisions are made either predictably or randomly.).
+support(10904, root).
+
+arg(10895).
+text(10895, Decisions are entirely governed by physical processes that are either predictable or random.).
+support(10895, 10904).
+
+arg(10910).
+text(10910, There is no basis on which to assert the existence of a non-physical soul.).
+att(10910, 10915).
 

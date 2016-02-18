@@ -1,6 +1,11 @@
 arg(root).
 text(root, Had George Bush not involved the U.S. in Middle Eastern affairs, the September 11 attacks or a similar event may not have happened.).
 
+arg(15938).
+text(15938, The US is still getting involved in the middle east and making the same mistakes of al qaeda with ISIS. Watch this video under sources if you want to hear the other side of the argument.
+You might not agree with everything said, but it's important to hear both sides.).
+att(15938, root).
+
 arg(16052).
 text(16052, the U.S has been meddling in middle eastern affairs since 1948 and have a long list of coup d'etat. George W. Bush was not the problem, simply a part of it. ).
 att(16052, root).
@@ -9,14 +14,9 @@ arg(16004).
 text(16004, It was a small price to pay for the greater good).
 att(16004, root).
 
-arg(15938).
-text(15938, The US is still getting involved in the middle east and making the same mistakes of al qaeda with ISIS. Watch this video under sources if you want to hear the other side of the argument.
-You might not agree with everything said, but it's important to hear both sides.).
-att(15938, root).
-
 arg(15914).
 text(15914, The US involvement in the Middle East goes back way beyond either Bush presidency but there is no doubt that the constant interference of foreign powers in the region is a major contributing factor to the problems there.).
-att(15914, root).
+att(15914, 15907).
 
 arg(15907).
 text(15907, While Middle Eastern extremists may not have liked the U.S. way of life, they were not threatened by it directly until we practically declared war. This is what primarily led to their offensive attempt.).
