@@ -1,11 +1,17 @@
 # arguman-scraper
 Scraps [arguman.org](http://arguman.org) for debates.
 
+##Requirements
+1. A [PostgreSQL](http://www.postgresql.org/) database, up and running
+2. [Ruby](https://www.ruby-lang.org) of course
+
 ##Installation
 1. Install [bundler](http://bundler.io/): ```gem install bundler```
 2. Clone the repository: ```git clone https://github.com/Amande-WP5/arguman-scraper.git && cd arguman-scraper```
 3. Install the required gems: ```bundle install```
-4. Check the man: ```ruby scraper help```
+4. Change the connection URL to the database in [this file](lib/arguman-scraper.rb)
+5. Execute the migrations to build the tables: ```sequel -m ./migrations postgres://host/database```
+6. Check the man: ```ruby scraper help```
 
 ##Available commands
 ###debates
