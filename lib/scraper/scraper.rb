@@ -1,30 +1,34 @@
 module Scraper
   class Scraper
-    def self.get_debates(upto, except, verbose)
-      url = "http://arguman.org/api/v1/arguments/?page=1"
+    def self.get_debates(from, upto, except, verbose, matcher, dry)
+      url = "http://arguman.org/api/v1/arguments/?page=#{from}"
       loop do
         puts "\n#{url}"
         response = HTTParty.get(url)
         json = response.parsed_response
 
         json["results"].each do |res|
-          next if Debate[res["id"]]
+          next if (!dry && Debate[res["id"]])
           next if except.include? res["id"].to_i
           next if res["title"] =~ /[^ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0-9,.;:\/\s"’'\(\)\%&$£€+\-*_ =!?]/
-          user = User.find_or_create(:id=>res["user"]["id"]) do |u|
-            u.id = res["user"]["id"]
-            u.username = res["user"]["username"]
-          end
-          Debate.create do |d|
-            d.id    = res["id"]
-            d.title = res["title"]
-            d.user  = user
+          next if (matcher && !res["title"].include?(matcher))
+          unless dry
+            user = User.find_or_create(:id=>res["user"]["id"]) do |u|
+              u.id = res["user"]["id"]
+              u.username = res["user"]["username"]
+            end
+            Debate.create do |d|
+              d.id    = res["id"]
+              d.title = res["title"]
+              d.user  = user
+            end
           end
           puts "#{res["title"]} from #{res["user"]["username"]} #{res["id"]}" if verbose
         end
 
         url = json["next"]
-        break if url.nil? || url == "http://arguman.org/api/v1/arguments/?page=#{upto+1}"
+        nextpagenumber = (url.match /page=(\d+)/)[1].to_i
+        break if url.nil? || nextpagenumber > (upto + 1)
       end
     end
 

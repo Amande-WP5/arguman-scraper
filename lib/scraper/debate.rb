@@ -9,10 +9,10 @@ module Scraper
         file.write("text(root, #{self.title}).\n\n")
         relations = []
         self.arguments.each do |arg|
-          file.write("arg(#{arg.id}).\n")
-          file.write("text(#{arg.id}, #{arg.text}).\n")
-          parent = (arg.parent ? arg.parent.id : "root")
           type = (arg.type == 1 ? "support" : "att")
+          file.write("arg(#{arg.id}). %#{type}\n")
+          file.write("text(#{arg.id}, #{arg.text.gsub(/\n/, "\\n")}).\n")
+          parent = (arg.parent ? arg.parent.id : "root")
           relations << "#{type}(#{arg.id}, #{parent}).\n\n"
         end
         relations.each { |rel| file.write(rel) }

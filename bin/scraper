@@ -6,7 +6,9 @@ require "commander"
 
 require_relative "../lib/arguman-scraper"
 
-REMOVED = [2621,2607,2563,2550,2529,2516,2515,2503,2462,2461,2441,2424,2388,2376,2353,2336,2251,2186,2059,1978,1924,1794,978,963,962,960,954,902,880,828,797,776,722,844,662,650,641,607,606,582,548,538,537,529,528,508,501,481,450,448,422,403,386,380,358,356,346,345,322,321,308,283,276,269,264,253,207,177,161,130,102,88,61,47,21,20,12]
+REMOVED = [2621,2607,2563,2550,2529,2516,2515,2503,2462,2461,2441,2424,2388,2376,2353,2336,2251,2186,2059,1978,
+  1924,1794,978,963,962,960,954,902,880,828,797,776,722,844,662,650,641,607,606,582,548,538,537,529,528,508,501,
+  481,450,448,422,403,386,380,358,356,346,345,322,321,308,283,276,269,264,253,207,177,161,130,102,88,61,47,21,20,12]
 
 Commander.configure do
   program :name, "Arguman Scraper"
@@ -16,12 +18,15 @@ Commander.configure do
   command :debates do |c|
     c.syntax = "scraper debates [options]"
     c.description = "Scraps the debate roots up to PAGES (default 20)"
+    c.option "--from INTEGER", Integer, "Min page number to consider"
     c.option "--upto INTEGER", Integer, "Max page number to consider"
     c.option "--verbose", TrueClass, "Prints the titles (default true)"
+    c.option "--matcher STRING", String, "Title matcher"
+    c.option "--dry", TrueClass, "Prints in console instead of persisting"
     c.action do |_, options|
-      options.default upto: 20, verbose: true
+      options.default from: 1, upto: 20, verbose: true, matcher: nil, dry: false
 
-      Scraper::Scraper.get_debates(options.upto, REMOVED, options.verbose)
+      Scraper::Scraper.get_debates(options.from, options.upto, REMOVED, options.verbose, options.matcher, options.dry)
     end
   end
 
