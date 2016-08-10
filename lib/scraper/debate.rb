@@ -13,7 +13,7 @@ module Scraper
           file.write("arg(#{arg.id}). %#{type}\n")
           file.write("text(#{arg.id}, #{arg.text.gsub(/\n/, "\\n")}).\n")
           parent = (arg.parent ? arg.parent.id : "root")
-          relations << "#{type}(#{arg.id}, #{parent}).\n\n"
+          relations << "#{type}(#{arg.id}, #{parent}).#{" %parent is support" if arg.parent&.type == 1}\n\n"
         end
         relations.each { |rel| file.write(rel) }
       end
